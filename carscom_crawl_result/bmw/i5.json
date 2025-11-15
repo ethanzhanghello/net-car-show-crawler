@@ -1,0 +1,546 @@
+{
+  "make": "bmw",
+  "model": "i5",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b6e98d64-0eb9-489e-a11f-11020e0a1f3f/7e848677-9fb2-4089-a0f5-93b4676cc0db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/18c0d73c-1767-4bad-8523-8c7b0ca67026.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/a94b1a92-b4d8-465b-a43e-10c2f74f39a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/69ff9463-e890-4c81-b3b4-277400f07a41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/ffdf1656-1d09-443d-9bf3-67e22091d92f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/1106cd17-f3fd-4eb5-bd26-0faff0cb1895.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/8afecdee-74ab-4836-ba48-ba9f03c0681b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/165189a5-1adb-4674-b07c-ae21437e9177.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/27ce1865-676d-4073-9f1b-870247212b04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/2558bee1-a63a-465f-b330-5d7b0cab3172.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/b9667624-756c-47d0-9a8d-54e805d4f06d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/78553721-7041-41bf-b539-532eab36c816.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/0a64d071-a118-445d-ad5d-3b13fbba6aa3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/f841c03a-7093-4ec0-8285-8841737765c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/090f43f6-cffd-496d-9eaf-c7c9cf91ac84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/d2724798-f49d-4404-96fa-205244d24e6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/5f2a05ea-01f1-432c-9c69-0a419123320d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/e05d18c4-215c-4a04-88b2-452b2170f1b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/01be81bf-174f-455c-9edc-49ecbdcb8093.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/4e0c6cb8-83ba-41a2-933f-ba149b528303.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/408288cc-afde-4945-abfc-339cd9fbc415.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/533eb42c-cc48-4db2-ab8c-6be2bd356084.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/52f8c236-40b6-4597-9e78-1d0d643873b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46a4b55d-9f2f-4341-a901-5b1b1d2e5290/bfd86548-87c1-4d73-b3c7-bad197f7a3ac.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "eDrive40 Sedan",
+          "price": "$67100",
+          "specifications": {
+            "Highlights": [
+              "270 - 310 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 5000 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "335 @ 8000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,916 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "xDrive40 Sedan",
+          "price": "$70100",
+          "specifications": {
+            "Highlights": [
+              "256 - 295 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "435 SAE Net Torque @ RPM",
+              "389 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,187 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/50ef5e13-5d3a-4923-9521-e80402ef1e78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/bc6b223b-f164-41df-9676-29d33e3646de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/4ea431e4-8f77-4beb-b85d-704cde34535e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/a0b683b1-5b0c-4579-a1c6-221c35f31a54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/029232cf-909f-4cba-922d-38c87295801d/817be1be-5c37-4dce-a8e8-306425f0e44f.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/80862da1-ccde-45ba-9788-d502d90ae87b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/50ef5e13-5d3a-4923-9521-e80402ef1e78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/e493a52b-6c0b-43b3-ac7d-ad28bfeea5a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/0f8e5ef5-f86d-4afe-b4b6-f4761fc2af3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/6daf604f-d2de-44f8-a260-11a619c9b3b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/cdf7e815-4d29-4260-b462-d9f0fbe639e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/2a1913f1-89dd-43f7-9953-f7f8af406eec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/216ad872-67e8-46e0-80f9-e1e9518b14a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/0ac597fb-0747-42d2-adeb-1a03feb03ec4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/8c704802-a5da-4801-9081-86b5d369e5b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/11b97cfc-eab4-422e-b9c1-5f8c2e659f47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/82e99f93-8dc8-4675-9a92-5c76dc226ca3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/0cfd0f9c-cd19-412d-ac55-e74c4b741b34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/cfacfceb-8792-411a-8a5d-e47924907bc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/a3879a38-78c9-4cbf-96ba-127b1395cd12.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/4f9be838-ef5a-4e86-bad0-d436458b9f56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/cadcfbb7-fcb9-407d-9f22-025d22310b0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/33f1456a-9ccb-4fd9-8483-b342c33498a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/029232cf-909f-4cba-922d-38c87295801d/5178b625-7296-434b-af50-2a545754c003.png"
+      ],
+      "expert_review": "The verdict: The BMW 5 Series is known for its refined road manners and polished cabin, and the all-electric 2024 i5 levels up with a premium driving experience, cutting-edge tech and maximum efficiency.\n\nVersus the competition: The i5 is more opulent, affordable and comfortable — in terms of both drivability and usability — than rivals from Tesla and Mercedes-Benz.\n\nWhen BMW redesigned its 5 Series sedan for 2024, it added an all-electric i5 version to the lineup. The i5 slots above the all-electric i4 in size and price; see the cars compared. The i5 competes against other luxury electric sedans, such as the Mercedes-EQ EQE and Tesla Model S; see them compared.\n\nRelated: Which Electric Cars Are Still Eligible for the $7,500 Federal Tax Credit?\n\nThe 2024 i5 comes in two flavors: a base rear-wheel-drive i5 eDrive40 and an all-wheel-drive i5 M60 xDrive; for this review, I drove an eDrive40.\n\nFlawless Going, Flawed Stopping\n\nIn most ways, the i5 delivers comfortable, refined and nearly flawless road manners. Nineteen-inch wheels are standard, but my test car was equipped with larger 21-inch wheels; even so, ride quality was a high point, with a rear load-leveling air suspension standard.\n\nIf that sounds boring, the i5 isn’t. Direct, linear steering with natural feedback contributes to a dynamic, connected-to-the-road feel, and a tight turning circle makes for super maneuverability. This BMW handles like a smaller car than its mid-size dimensions suggest.\n\nPower is another plus. From a stop, acceleration is potent and seamlessly delivered. The RWD i5 eDrive40 uses an electric motor at the rear axle for maximum power output of 335 horsepower and maximum torque of 295 pounds-feet. A Boost Mode function delivers a bit more oomph, but don’t get too excited: A tap of the Boost paddle near the steering wheel unlocks just 22 more pounds-feet of torque. It’s a nice little lift, but it’s wimpy compared with the Genesis Electrified GV70’s pin-you-to-your-seat blast of boost power.\n\nWhile the i5’s power is consistently strong and fluid, its brakes are anything but; they’ll take some getting used to. The culprit is the car’s regenerative braking system, which captures energy that’s usually lost during braking and sends it to the battery. Some EVs and hybrids struggle with natural-feeling regen systems, and the i5 is one of them. The biggest problem is the car’s default “adaptive recuperation” mode, which uses navigation data and information from the car’s driver-assist systems to automatically adjust how much power is recuperated based on the traffic situation. What this meant for me was uneven, unpredictable braking feel and response.\n\nAn example: In one situation, taking my foot off the accelerator produced the drama-free deceleration I expected, yet just a few minutes later, deceleration felt disconnected and lurchy (prompting frequent apologies to my passengers). This was annoying and uncomfortable, though I’m sure that with time, the system and I could’ve figured each other out.\n\nRelated Video:\n\nLuckily, there are plenty of other regenerative braking modes drivers can select; I opted to stay in one of the car’s three more straightforward settings (high, medium and low), and my only complaint with them is that the controls are buried in the touchscreen; a physical button would be easier to use. One-pedal driving, which works all the way down to a stop, can be enabled more easily via a B mode on the shifter.\n\nConsistency returns when talking about the i5’s range, as the car capably predicted range usage during my test. According to the EPA, the i5 eDrive40 is good for 295 miles of range when equipped with 19-inch wheels, dropping to 270 miles with the larger 21-inch wheels. With those larger wheels, though, my test car displayed 292 miles of range when fully charged. During a 58-mile trip, I started with 292 miles of range and returned with 233 miles remaining, meaning the car used just 1 mile more than the actual miles traveled. Granted, I took this trip in optimal EV conditions: It was 65 degrees outside — a happy temp for the battery — and I didn’t use any range-depleting climate functions. Compared with its competitors, the i5’s range is at the low end, but not by much: A base Mercedes-EQ EQE is EPA-rated for 298 miles of range, but a base Model S has an estimated 402 miles of EV range.\n\nUsing different modes will, however, affect range. I drove in Personal mode, which is BMW-speak for the normal mode. After popping it into a more aggressively tuned Sport mode, range dipped to 263 miles. Going the opposite direction and selecting the efficiency mode — which limits max speed to 60 mph and reduces climate functions — made the range jump to 305 miles.\n\nThe i5 uses an 84.3-kilowatt-hour lithium-ion battery pack and a charging unit that enables Level 2 AC charging at up to 11 kilowatts. The maximum fast-charging rate is 205 kW, and BMW says the battery can be charged from 10% to 80% in about 30 minutes when connected to a DC fast charger delivering that level of power. First-time owners receive two years of complimentary 30-minute charging sessions at Electrify America DC fast-charging locations.\n\nWhat’s next for the i5? More choices. For 2025, an AWD i5 xDrive40 will join the lineup, employing two motors, front and rear, with 389 hp and 435 pounds-feet of torque — a bump of 54 hp and 140 pounds-feet over the rear-drive eDrive40. Also for 2025, BMW will continue to electrify the 5 Series lineup by adding a plug-in hybrid version, the 550e xDrive PHEV.\n\nTechno-Luxe Cabin\n\nStep inside the i5 and you’ll be immersed in one of the most interesting and opulent cabins on the market. It dazzles — literally — thanks to a standard BMW Interaction Bar with touch function and lighting effects. The crystal-like dash and door trim can light up with different ambient lighting modes, and the effect is unique and striking. And it’s not just pretty; it encompasses functions like touch-sensitive panels for controlling ventilation, air conditioning and the hazard lights.\n\nThe rest of the cabin is also lovely, with an emphasis on high-quality materials and premium-looking design. Two other features add to the visual drama: an available Sky Lounge roof, which is a gigantic glass roof that adds an airy and spacious vibe, and BMW’s Curved Display, which combines a 12.3-inch driver display and 14.9-inch central touchscreen.\n\nAt first glance, the infotainment system looks fancy and modern, which can translate to confusing and fussy in terms of usability. But BMW’s system is easy to use and, because it’s angled slightly toward the driver, within comfy reach. It does a lot of things well: The layout is straightforward, the screen is customizable, touch response time is quick and the menu structure makes sense.\n\nWireless Android Auto and Apple CarPlay are standard, and one thing the BMW system does very well is blend the smartphone interface with the infotainment interface. In most cars, you have to choose between viewing the native interface (radio, navigation, etc.) or the smartphone interface (Google Maps, Amazon music, etc.). In the i5, these systems coexist on a split screen, which is handy for viewing Google Maps and satellite radio information at the same time. Also handy is the available head-up display’s functionality, which is highly customizable. I found it helpful for displaying Google map directions.\n\nThere are loads of ways to control the infotainment system, including the central touchscreen, voice controls and the BMW iDrive knob on the center console (which I thankfully never needed to use). Some functions, like audio volume, can be optionally controlled via hand gesture — a gimmick my kids love … to annoy me with from the backseat.\n\nOne aspect of the i5’s controls has a bit of a learning curve, however. The climate system uses seamlike vents positioned in the Interaction Bar instead of conventional air vents. The direction of the air coming out of the vents can be altered via touch, but the controls aren’t exactly intuitive. It takes some experimenting to figure out. Most of the climate controls are buried in the touchscreen, too; if you’re used to using buttons, this will again take a bit of getting used to, but I found the learning curve manageable.\n\nDecent Space\n\nThe 5 Series grew in size for 2024, and the i5 shares almost identical dimensions with its gas-powered sibling (see the models compared). The new 5 Series is 3.4 inches longer, 1.3 inches wider and 1.4 inches taller than the outgoing version, which translates to more occupant space. The backseat is roomy enough for two adults in terms of headroom and legroom, but the middle spot is a problem: It’s unusable due to a big floor hump, effectively turning this mid-size sedan into a four-seater. It’s not all bad in the back, though: The i5 has easy-access lower Latch anchors, so installing two car seats was a breeze. There are also some nice amenities back there, including plenty of USB-C ports and a seatback port for a tablet mount accessory.\n\nBehind the seats, the trunk is decently sized; BMW says there’s 17.3 cubic feet of space, which is a bit less than the gas version’s 18.4 cubic feet but much more than the Mercedes EQE sedan’s 11 cubic feet. The Tesla Model S again beats the crowd, with 28 cubic feet according to the automaker’s measurements. The i5’s 40/20/40-split backseat can fold to create more cargo space, but unlike some other EVs, including the Model S, there’s no frunk (front trunk).\n\nMore From Cars.com:\n\nBMW Unveils Next-Gen In-Car Tech, Automated Valet Parking at CES\n2024 BMW 5 Series Nabs Top Safety Pick+, X5 Misses the Mark\nBMW, Mini, Rolls-Royce to Gain Access to Tesla Superchargers\n2024 BMW 5 Series: New Electric Version, Updated Engines, Futuristic Tech\nShop for a 2024 BMW i5\nSafety and Pricing\n\nThe i5 comes with a competitive set of standard safety features, as well as some optional advanced driver-assist safety systems. Standard features include front and rear parking sensors, forward automatic emergency braking, lane departure warning, lane departure steering assist, blind spot warning, rear cross-traffic alert with braking intervention, speed limit sign recognition and safe exit assist.\n\nAn optional Driving Assistance Professional Package includes a new feature, called Highway Assistant, that enables hands-free driving at speeds up to 85 mph where conditions and speed limits allow. The driver’s attention is continuously monitored by an in-cabin camera. In what BMW calls a world first, the Active Lane Change feature can be controlled with your eyes, meaning that when the vehicle suggests a lane change, the driver can confirm it by looking at the corresponding side mirror. (My test car wasn’t equipped with this system, however, so I wasn’t able to test it.)\n\nThe 2024 BMW i5 starts at $67,795 (including destination), which is nearly $9,000 more than a base gas-powered 5 Series. It’s a significant upcharge, but the i5 costs considerably less than the EQE350+ sedan ($76,050) or the Model S ($74,380). Unfortunately, none of these vehicles qualify for a federal tax credit of up to $7,500.\n\nWhile all is not perfect with the i5, the pros definitely outweigh the cons. Overall, it delivers a just-right blend of luxury, performance and efficiency, with few compromises.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "eDrive40 Sedan",
+          "price": "$66800",
+          "specifications": {
+            "Notable features": [
+              "New for 2024",
+              "All-electric mid-size luxury sedan",
+              "Related to gas-powered 5 Series",
+              "Wireless CarPlay and Android Auto",
+              "Rear- or all-wheel drive",
+              "Advanced driver-assist systems available"
+            ],
+            "Highlights": [
+              "270 - 295 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 5000 SAE Net Torque @ RPM",
+              "335 @ 8000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,916 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "M60 Sedan",
+          "price": "$84100",
+          "specifications": {
+            "Notable features": [
+              "New for 2024",
+              "All-electric mid-size luxury sedan",
+              "Related to gas-powered 5 Series",
+              "Wireless CarPlay and Android Auto",
+              "Rear- or all-wheel drive",
+              "Advanced driver-assist systems available"
+            ],
+            "Highlights": [
+              "240 - 256 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "586 @ 5000 SAE Net Torque @ RPM",
+              "590 @ 8000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,247 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/067cbbfc-77ef-45cb-8ad6-071c41497ae2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/7cb2960a-c50e-4405-93d7-865539d39134.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/92e400b0-8007-4f5b-be97-48fb25c97780.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/f1182314-1ab2-48c4-8ef1-43fb72d6e8c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/df7ce212-daa3-4959-8abd-e92b2e5039bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/b2c9feee-33d7-4bbb-814b-ef4223d7bfc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/56601046-0de5-4bfe-9b2f-0af875d65cc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/ace42995-4f76-4367-8650-308eaa51fedb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/e99bf2b8-fe9e-4381-9f7f-9a47e9e496c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/fd832112-a3b5-4199-ba7e-c5c6ce7117d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/5c13a7e2-4015-4b90-ac6a-055c06e6986f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/b9ddfdcf-55f7-4fe7-9d3d-84d59aa5b9c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/5282e094-e52a-4ccc-9ed5-f5895b6d9953.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/22d3d535-4d15-44af-9244-095bf8ce77ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/0d260909-a5a2-4961-a0f4-e9251e2d02fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/72bb4670-6488-4156-843a-ea804199f48a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/c20dd622-64c4-47a3-ab78-237510c25d03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/bdb179f3-edb2-4af7-a33a-1ab5e151afde.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/e5a7a30b-4f50-4e16-961f-8b5db481d920.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/e2e4a304-60a9-4c14-a6a4-607dfa4275d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/f9f5a3bc-b0e3-4125-bd3c-00a86d18e369.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/efe1ba67-91a6-4065-9e0f-99fed75a3c1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/4e7badab-9b05-4a92-ae6b-053aa069908c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a04f9409-3f90-4af4-a5a3-0144337c666b/7cb2960a-c50e-4405-93d7-865539d39134.png"
+      ],
+      "expert_review": "As it integrates 48-volt mild-hybrid powertrains into a lineup that already includes plug-in hybrids and fully electric vehicles, BMW is juggling quite the diverse approach to electrification. For the 2025 model year, the automaker is adding a PHEV option to the 5 Series family, as well as a third powertrain offering for the all-electric i5.\n\nRelated: 2024 BMW 5 Series: New Electric Version, Updated Engines, Futuristic Tech\n\n550e xDrive PHEV\n\nTo create the new 2025 550e xDrive PHEV, BMW combined its turbocharged 3.0-liter inline-six-cylinder engine with an electric motor nestled into the eight-speed automatic transmission. Total system output is 483 horsepower and 516 pounds-feet of torque; for context, the twin-turbo V-8 in the 2024 X5 SUV makes 523 hp and 553 pounds-feet but is not capable of electric travel. The 550e will be, but BMW isn’t saying what its range will be yet. For those still concerned that an electrified future will be boring, BMW does say that the 550e will hit 60 mph from rest in about four seconds flat. Production will start in July; pricing, range and other details will be available closer to that date.\n\ni5 xDrive40\n\nThe 2025 i5 xDrive40 doesn’t exactly split the difference between the 335-hp, rear-wheel-drive i5 eDrive40 and 593-hp, all-wheel-drive i5 M60, but it lands somewhere in the vast gulf between them. Electric motors front and rear give this newest i5 AWD and combine for 389 hp and 435 pounds-feet of torque, improvements of 54 hp and 140 pounds-feet over the rear-drive eDrive40.\n\nBMW hasn’t yet announced range for this, either, but with the same 84.3-kilowatt-hour battery pack here as in the rest of the i5 line, expect the xDrive40 to land closer to the 2024 eDrive40’s EPA-estimated maximum of 295 miles than the M60’s 256 miles. Capable of DC fast charging at up to 205 kilowatts, the xDrive40 can charge from 10% to 80% in as little as 30 minutes. Sales will start in the spring with pricing from $71,095 (including $995 destination).\n\nIf Looks Could … Change Lanes?\n\nThe 2024 5 Series introduced Active Lane Change with eye activation to BMW’s Highway Assistant semi-autonomous hands-free driving system. When operating in hands-free mode, BMW says the function suggests lane changes based on the adaptive cruise control setting and traffic conditions; all the driver needs to do to initiate the lane change is look at the appropriate side mirror; the car will then signal and execute the lane change. X5 and X6 SUVs (except M Competition models) will get this system starting with March production; the X7 will follow in April.\n\nAnd for buyers still not convinced an EV fits their needs, a new E-Mobility Analysis function in the My BMW app will scrutinize their driving behavior and suggest the electric BMW that best suits them.\n\nMore From Cars.com:\n\nBMW Unveils Next-Gen In-Car Tech, Automated Valet Parking at CES\n2024 BMW 5 Series Nabs Top Safety Pick+, X5 Misses the Mark\nBMW, Mini, Rolls-Royce to Gain Access to Tesla Superchargers\nMore BMW News\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "eDrive40 Sedan",
+          "price": "$67100",
+          "specifications": {
+            "Notable features": [
+              "All-electric mid-size luxury sedan",
+              "Related to gas-powered 5 Series",
+              "RWD or AWD",
+              "Advanced driver-assist systems available",
+              "Wireless Apple CarPlay, Android Auto"
+            ],
+            "Highlights": [
+              "270 - 295 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "335 @ 8000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "295 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,916 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "xDrive40 Sedan",
+          "price": "$70100",
+          "specifications": {
+            "Notable features": [
+              "All-electric mid-size luxury sedan",
+              "Related to gas-powered 5 Series",
+              "RWD or AWD",
+              "Advanced driver-assist systems available",
+              "Wireless Apple CarPlay, Android Auto"
+            ],
+            "Highlights": [
+              "248 - 295 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "435 SAE Net Torque @ RPM",
+              "389 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "5,187 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "M60 Sedan",
+          "price": "$84100",
+          "specifications": {
+            "Notable features": [
+              "All-electric mid-size luxury sedan",
+              "Related to gas-powered 5 Series",
+              "RWD or AWD",
+              "Advanced driver-assist systems available",
+              "Wireless Apple CarPlay, Android Auto"
+            ],
+            "Highlights": [
+              "240 - 256 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "586 @ 5000 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "590 @ 8000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "5,247 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

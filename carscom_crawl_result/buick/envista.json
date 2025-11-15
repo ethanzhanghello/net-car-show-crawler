@@ -1,0 +1,703 @@
+{
+  "make": "buick",
+  "model": "envista",
+  "years": {
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/dc43829f-4ff0-4e07-96a5-c62208ccf0d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/9d92d231-1bdb-4737-b653-e0a5102cc67d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/75511e8f-eca6-479b-9505-630b6efea192.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/a18f2a60-caf1-4b3e-bbf1-ea069cec89c4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/89062193-887f-43a1-8fc3-7f27a58bce4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/caeefe69-eafe-47f0-b397-4874c06243ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/564db843-1642-4313-b6f9-080df7cb013d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/0da8f48a-be78-49d5-a849-9bb70f574b5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/84e1b843-9280-4640-8570-2e3df5ad656f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/2922f33a-49d2-46ce-ab79-9bb66ff6fc4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/be5fca2b-e885-4509-9134-bec2e934afb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/0654a7f1-8bf9-45dc-860a-e7a4e91ec110.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/f77d183e-5a60-4eea-959b-97fd6a5622b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/89062193-887f-43a1-8fc3-7f27a58bce4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/be77d959-74bb-4195-9cca-3203a5106c88.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/4164acdb-fd02-4264-a6d6-d8f07418a30f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/4cc332a3-439e-496e-acd8-35bfb6fcb25b.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/a178e538-257f-4447-9107-ecf2a8a61e4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/642bd7a4-9e2c-4cc9-9845-91f724f6b350.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/7369e49f-399a-4a26-bfc7-9d134a655375.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/b5705f05-205a-47a9-a53e-94ff9dbd0be2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/826f4a13-68cb-4a9a-b885-04ba37a12db7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/85db8d5f-7b3b-4f6d-ac59-933697aff8cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/c418f034-51db-4932-ad6d-d2594babcac1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/af020916-75fc-443a-9cb8-42cdb3aea256.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0b9e5d67-21e8-4ab8-8f02-78763c1066a8/1e7edb7a-6bf4-4382-9f5a-2ca268e1979c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "FWD 4dr Preferred",
+          "price": "$24600",
+          "specifications": {
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas/Ethanol Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "137 @ 5000 SAE Net Horsepower @ RPM",
+              "1.2L/-TBD- Displacement",
+              "Gas/Ethanol Engine Type",
+              "162 @ 2500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Compound Crank Suspension Type - Rear",
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,137 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Navigation System",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "FWD 4dr Sport Touring",
+          "price": "$26100",
+          "specifications": {
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas/Ethanol Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 2500 SAE Net Torque @ RPM",
+              "137 @ 5000 SAE Net Horsepower @ RPM",
+              "1.2L/-TBD- Displacement",
+              "Gas/Ethanol Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Compound Crank Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,137 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Navigation System",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "FWD 4dr Avenir",
+          "price": "$29400",
+          "specifications": {
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas/Ethanol Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 2500 SAE Net Torque @ RPM",
+              "137 @ 5000 SAE Net Horsepower @ RPM",
+              "1.2L/-TBD- Displacement",
+              "Gas/Ethanol Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Watts Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,137 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Navigation System",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Navigation System",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/23acc4ce-eb92-4953-8bff-42567024628b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/f8838c48-8e44-4ca5-b8e8-994e037a54ca.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/8348ffdf-5e98-4854-b347-d57fae0399f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/00dc59bd-2400-4915-a7fe-1d65a356a50b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/028e1be5-863e-4396-a051-6cf5d52bfae0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0215bcc0-3624-49e2-a02b-de6b8819a971/0e0a6d10-f91d-4ca4-ba01-227e84b3cd76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/7e4df724-33ee-4870-8d3c-d7fa4c7f4281.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/ffb916c5-e95a-4bce-983e-3cc6f4496642.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/81c7d73f-3612-4ec6-a5f2-d9b042f71c6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/792a7740-6673-4c4a-9641-16f28e2df651.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/358140e1-6ae4-4dd5-8f10-a0b5d1122249.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/a8d97227-6818-4ce7-9dc2-a5d4f548af2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/066d7da0-8247-410d-8553-13f9fc7e70e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/76e91cf5-c4f1-4912-b873-006ef64c45d6.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/27761729-0924-42ae-869a-f5a95e3c8aa2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/439405e3-171d-4d2d-8031-addbd5bd0006.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/60cbb3e9-fb91-4cc6-9ccb-0a958332cc04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/7c87d9eb-43f6-479d-afd9-6addb133856f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/53850e52-c9de-437d-9ef2-788cd4571a08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/d06115b8-fb75-4447-bec2-be983659aafe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/56586382-6a33-41f8-a465-c39c1800c891.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/83c2f409-1128-472c-9141-38029fb6258b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/b7d3efa4-2645-45c7-96f1-50299f9b51d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/e4dbc984-6a81-4545-9a14-3b7633ede1ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/8348ffdf-5e98-4854-b347-d57fae0399f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33b0d88e-7f03-47e9-9d66-05c86af4785c/52710600-445b-41f5-9b48-7def0137ef8d.png"
+      ],
+      "expert_review": "Verdict: The Envista is a slick-looking, smooth-driving, surprisingly affordable coupe-crossover alternative to stodgy, upright, traditional small SUVs.\n\nVersus the competition: The Envista has less power than competitors and no all-wheel drive, putting it at a disadvantage against some popular subcompact SUVs, but its extra legroom, distinctive style and friendly price will certainly appeal.\n\nBehold the least expensive Buick you can buy in the U.S.: the 2024 Buick Envista. It slots below the recently restyled Encore GX by a few thousand dollars. Holding on to that cash, however, means accepting you will only get one powertrain option and no all-wheel drive — those two things are reserved for the more expensive Encore GX. But counterintuitively, you get a bigger car — nearly a foot longer overall and with a longer wheelbase, so interior legroom beats the more expensive Encore GX in both first and second rows. It’s a bit of a mishmash of options and trade-offs at the low end of the Buick showroom, where the two SUVs will sit side by side, both largely occupying the same space. The Encore GX has more grunt, all-weather capability and upright style while the Envista has a swoopy coupeified crossover body and more budget-friendly aspirations.\n\nRelated: 2024 Chevrolet Trax Quick Spin: Fully Loaded and Only $26,000?!\n\nStyle Over Substance?\n\nAs the saying goes, it’s never a bad thing to be the best dressed person in the room. That might be the Envista’s mantra, as it vaults to the top of the category as perhaps the best-looking entry in a subcompact SUV class that includes things like the unremarkable-looking Volkswagen Taos or the oddly proportioned Mazda CX-30. There’s nothing odd about the Envista, however. Buick says this is the first full realization of the company’s new look, based in large part off of the Buick Wildcat concept car. While it doesn’t entirely translate onto a subcompact crossover body, most of it does work quite well.\n\nFrom any angle, the Envista looks low, swoopy and purposely styled. The big grille flanked by eyebrow-like LED daytime running lights is pulled right from the concept car and even has a bit of Corvette about it. The low roofline sweeping down to the hatchback rear end makes the Envista feel lower than it is, and the same kind of styling trickery found up front is present at the back — what you think are the brakelights only light up when the headlights are on; the actual brake- and turn-signal lights are down low in the bumper for some reason. Overall, it’s a stylish take on a small crossover in a segment that could use the flair. I overheard more than one person observe that the car looks more expensive than it is, which is always a good sign.\n\nRelated Video:\n\nComfy Inside, But Short of Premium\n\nThat budget price does start to show once you step inside, however. It’s attractively styled, with a dash and interior largely shared with the bigger Encore GX. There’s a single piece of glass forming the panel that encompasses two displays: an 8-inch screen for the gauge cluster and an 11-inch touchscreen for the multimedia display. Sadly, neither one impresses with its graphics: The gauge cluster is dim and boring, with only a choice of two configurations, and it’s only able to show one “vehicle information” screen at a time. You choose the latter in the multimedia settings and can’t even scroll through several screens. It feels very low-rent, and it shouldn’t — having a digital display means you should have practically infinite options for creating some digital artwork (like nearly every Hyundai or Kia does) as it’s just software. The 11-inch multimedia display is big and well placed, but again has dim icons and not a whole lot of content. Skimping on that kind of spending really smarts, especially when competitors use their digital spaces to offer a lot more visual interest to the interior.\n\nMaterials quality is also very obviously built-to-a-budget and really confusing when Buick is trying to position itself as a premium brand. The shapes, designs and colors are attractive, but there’s not much soft-touch material inside and none in the backseat; the rear door panels are all hard plastic. There are no height-adjustable seat belts, nor is there a rear window wiper or washer (a problem on a rear window with that much of an angle). And while you get automatic down on all four windows, there’s no automatic up for any of them. This all seems like an unfortunate omission for a premium brand like Buick, but when you see the final price tag, it starts to make sense — and is less of a problem.\n\nThe switches and buttons all feel good, at least, and seat comfort itself is acceptable. Outward visibility is excellent, with a low beltline and hood and decent views to the rear three quarters. The rear window might be on the small side given the coupe-crossover body style, but it still provides adequate rear visibility — something that can’t be said for other, more expensive German-brand fastback-style SUVs.\n\nAnother element that compensates for the lack of premium materials inside is the space. There’s a ton of it both in front and back. Front-seat room is plentiful — even headroom, despite the presence of an optional moonroof. And in the backseat, the lack of optional AWD means the passenger footwell for the second row is completely flat, making comfortable three-across seating a real possibility. There’s even adequate headroom in the second row (again, despite that power moonroof), which is not what you’d expect from looking at the Envista from the outside. So it may not be the most premium Buick ever made, but it’s surprisingly comfortable and roomy, especially at this price.\n\nThe Driving Experience\n\nFurther helping sell the Envista as a viable entry is the driving experience, which is surprisingly good. On paper, the powertrain would make a lot of people pause: The sole method of propulsion is a turbocharged 1.2-liter three-cylinder engine making just 137 horsepower and 165 pounds-feet of torque, mated to a six-speed automatic transmission sending power to the front wheels. That’s not a lot of power and is on the definite low end of the spectrum for this category, but Buick did something surprising: It tuned the engine to make a lot of its torque down low in the rev range, making acceleration surprisingly peppy. In my sample drive around the highways and backroads west of Detroit, the Envista never felt ponderous or slow, and in fact delivered perfectly adequate acceleration regardless of conditions. Entering a freeway, passing on a two-lane road and even cruising along at 70-or-so mph, the tiny, snorty 1.2-liter three-pot is perfectly fine. Could it use more power? Sure. Does it need more power? No, not really. And nobody’s more surprised by that than I am.\n\n2024 Buick Envista | Cars.com photo by Steven Pham\n\nThe more premium experience that Buick tries to sell comes into play in the refinement of the Envista. It’s exceptionally quiet in just about every condition, from highway cruising to around-town driving. The brakes are quick and firm, with excellent bite. The suspension was compliant and well damped even on my Sport Touring-trim test car’s 19-inch wheels and low-profile tires. The steering feel is decidedly tuned more toward comfort than sportiness, however, with a lot of boost and only moderate feedback, but it felt nicely weighted and very stable on center. Passengers in the cabin experience almost no wind noise and barely any engine noise; only tire sounds on rough asphalt make their way into your consciousness. So while sitting in the Envista’s cabin might not be as luxurious as hoped, actually driving the new Envista shows where the money was spent — on a premium driving experience, which it actually delivers.\n\nMore From Cars.com:\n\nBuick Teases Wildcat-Inspired 2024 Envision, Adds Super Cruise\nHere Are the 10 Cheapest New SUVs You Can Buy Right Now\n2023 Buick Enclave Avenir Review: Dated and Confused\nAll-New 2024 Buick Envista Arrives This Summer; Price Starts at $23,500\nUp Close With the 2024 Buick Encore GX: Got the Looks, Needs More Guts?\nThe Not-So-Premium Premium\n\nWe’ve mentioned that the Envista doesn’t cost as much as you might expect a few times now, and the truth of it is that the Envista doesn’t cost anywhere near where most people think. The starting price for the lowest of the three trim levels, Preferred, is just $23,495 (all prices include $1,095 destination fee), rising to $25,195 for the ST, and topping out at $29,695 for the Avenir. All in, a loaded Envista will cost about $31,000, which is an extraordinary bargain for a new car these days (the average new-car price as of this writing is around $46,000, according to J.D. Power).\n\nFor this relatively inexpensive sum, you get a very pleasant-to-drive, beautifully styled, comfortable, quiet and decently peppy fastback-style SUV. It may not have the luxurious materials or gee-whiz displays that some of its competitors do, but it doesn’t have the higher price tags that often accompany such vehicles, either. It’s a solid entry for anyone looking for a slightly nicer family vehicle at an affordable price.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "FWD 4dr Preferred",
+          "price": "$22400",
+          "specifications": {
+            "Notable features": [
+              "All-new five-occupant subcompact SUV",
+              "137-hp, turbo 1.2-liter three-cylinder engine",
+              "Six-speed automatic transmission",
+              "Front-wheel-drive only",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Optional 18- and 19-inch wheels"
+            ],
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 2500-4000 SAE Net Torque @ RPM",
+              "Gas Engine Type",
+              "1.2L/-TBD- Displacement",
+              "137 @ 5000 (Est) SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Semi-Independent Suspension Type - Rear",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,030 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "11.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "FWD 4dr Sport Touring",
+          "price": "$24100",
+          "specifications": {
+            "Notable features": [
+              "All-new five-occupant subcompact SUV",
+              "137-hp, turbo 1.2-liter three-cylinder engine",
+              "Six-speed automatic transmission",
+              "Front-wheel-drive only",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Optional 18- and 19-inch wheels"
+            ],
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "137 @ 5000 (Est) SAE Net Horsepower @ RPM",
+              "162 @ 2500-4000 SAE Net Torque @ RPM",
+              "Gas Engine Type",
+              "1.2L/-TBD- Displacement"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Semi-Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "FWD 4dr Avenir",
+          "price": "$28600",
+          "specifications": {
+            "Notable features": [
+              "All-new five-occupant subcompact SUV",
+              "137-hp, turbo 1.2-liter three-cylinder engine",
+              "Six-speed automatic transmission",
+              "Front-wheel-drive only",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Optional 18- and 19-inch wheels"
+            ],
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 2500-4000 SAE Net Torque @ RPM",
+              "Gas Engine Type",
+              "137 @ 5000 (Est) SAE Net Horsepower @ RPM",
+              "1.2L/-TBD- Displacement"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,115 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "11.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/212d6303-e4a5-412c-ba4d-f199b5dbc6cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/ae78f8e3-362a-4672-8d0d-3701113240f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/763dd025-cc9b-4a65-ac80-02043f22dcac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/c836876f-fb29-4cf1-8d28-3141767f4a06.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/aed62f2d-9fdb-45fb-acc2-e68fe5bf9957.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/9b40fc4b-1637-473a-84e3-2db00657d94c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/b6033f13-23c8-49d1-b81d-9e9a928f0f3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/8e917d53-4ce9-4930-826f-9b13d61de7a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/5ec29512-1b64-4abf-be5e-75db84a19ca6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/cef1df78-33f7-4fa7-b029-42ecc8a52440.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/d77d8354-abff-497b-ac14-b9b40d31964d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/392b4f30-0fda-4225-aeab-d4f472859c44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/d605a064-008c-460f-b9cd-07dbb9d89bfa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/8da232fe-99eb-468e-a0fd-e0bf2aeed399.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/149d949a-fd21-4b27-8885-c2582d564559.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/6284028d-0404-4ae7-bf80-257f57de85a1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/ae78f8e3-362a-4672-8d0d-3701113240f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/bf047db6-bd55-404b-a482-6dfa61d88e24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/d4d04b15-6256-40e9-a3d4-74c732fa1f7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/5e80a821-1054-47e1-9b9e-afaeda6cb494.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/23f454e0-f7f9-4e32-bf1a-0466dbf4ff46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/719c81d9-1639-4e26-8886-b10ff49e24f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/684b7119-fb82-4a36-a1f5-9bd72b6165c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/a15cd0a2-87ff-4325-b7a8-a1878247b8ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/4c28a8e0-b635-4d4a-a9a8-87db5938cb27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897a7425-df32-4ec4-be48-918dfba1f068/9f033c7c-8aa3-424c-bf69-01e7e7c58388.png"
+      ],
+      "expert_review": "What Is the 2025 Buick Envista?\n\nThe Buick Envista is a five-seat subcompact SUV that shares underpinnings with the Chevrolet Trax and serves as Buick’s entry-level model. Under the hood is a 137-horsepower, turbocharged 1.2-liter three-cylinder engine that’s paired to a six-speed automatic transmission. Every Envista is front-wheel drive; all-wheel drive is not available. The cabin features two screens, including an 8-inch digital instrument cluster and an 11-inch infotainment touchscreen. Wireless Apple CarPlay and Android Auto are standard. The Envista’s competitors include the Kia Niro, Mazda CX-30, Nissan Kicks and Volkswagen Taos.\n\nWhat’s New on the 2025 Buick Envista?\n\nThe Envista debuted for the 2024 model year, so the 2025 version sees only a couple of minor updates. Remote start and rear parking sensors are newly standard on all three trims.\n\nWhat Features in the 2025 Buick Envista Are Most Important?\n\nStandard features include:\n\n8-inch digital instrument display\n11-inch touchscreen\nWireless Apple CarPlay and Android Auto\nAutomatic climate control\nAutomatic high-beam headlights\nWi-Fi hot spot\nVoice commands\nSatellite radio\nRear-seat reminder\nLane departure steering assist\n\nAvailable features include:\n\nHeated steering wheel\nHeated front seats\nRemote keyless entry\nRain-sensing wipers\nPower liftgate\nAdaptive cruise control\nBlind spot warning\nRear cross-traffic alert\nShould I Buy the 2025 Buick Envista?\n\nThe Envista is a small, head-turning SUV that’s big on value and pleasant to drive. Its low entry price and fuel-sipping three-cylinder engine make it an intriguing alternative to other subcompact SUVs. The Preferred and Sport Touring trims are a little short on standard convenience and safety features, but they can be optioned with nearly every nicety available on the Envista, including adaptive cruise control and a wireless charging pad. While the Envista’s swoopy styling helps it stand out in a crowd, it does sacrifice a degree of practicality when it comes to cargo space.",
+      "trims": [
+        {
+          "name": "FWD 4dr Preferred",
+          "price": "$23800",
+          "specifications": {
+            "Notable features": [
+              "Five-seat subcompact SUV",
+              "137-hp, turbo 1.2-liter three-cylinder",
+              "Six-speed automatic",
+              "FWD only"
+            ],
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas/Ethanol Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.2L/-TBD- Displacement",
+              "162 @ 2500-4000 SAE Net Torque @ RPM",
+              "Gas/Ethanol Engine Type",
+              "137 @ 5000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Semi-Independent Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "3,137 lbs Base Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Navigation System"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "FWD 4dr Sport Touring",
+          "price": "$25300",
+          "specifications": {
+            "Notable features": [
+              "Five-seat subcompact SUV",
+              "137-hp, turbo 1.2-liter three-cylinder",
+              "Six-speed automatic",
+              "FWD only"
+            ],
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas/Ethanol Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Ethanol Engine Type",
+              "137 @ 5000 SAE Net Horsepower @ RPM",
+              "1.2L/-TBD- Displacement",
+              "162 @ 2500-4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Semi-Independent Suspension Type - Rear",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,137 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Navigation System",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "FWD 4dr Avenir",
+          "price": "$28600",
+          "specifications": {
+            "Notable features": [
+              "Five-seat subcompact SUV",
+              "137-hp, turbo 1.2-liter three-cylinder",
+              "Six-speed automatic",
+              "FWD only"
+            ],
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas/Ethanol Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Ethanol Engine Type",
+              "162 @ 2500-4000 SAE Net Torque @ RPM",
+              "1.2L/-TBD- Displacement",
+              "137 @ 5000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,137 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Navigation System"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2283 @@
+{
+  "make": "chevrolet",
+  "model": "tracker",
+  "years": {
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b5d35398-6cb6-4dcd-b8e8-0af8de9eb347/1765aabb-d58b-45be-8294-931db097c411.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Convertible 2WD",
+          "price": "$13655",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Convertible 4WD",
+          "price": "$14655",
+          "specifications": {
+            "Highlights": [
+              "23 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "1.6L/97 Displacement",
+              "98 @ 4000 SAE Net Torque @ RPM",
+              "95 @ 5600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Rigid Axle Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "2,555 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "390 Cold Cranking Amps @ 0° F (Primary)",
+              "55 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD",
+          "price": "$14860",
+          "specifications": {
+            "Highlights": [
+              "22 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "98 @ 4000 SAE Net Torque @ RPM",
+              "1.6L/97 Displacement",
+              "Gas L4 Engine Type",
+              "95 @ 5600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Rigid Axle Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,619 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "15 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "55 Maximum Alternator Capacity (amps)",
+              "390 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD",
+          "price": "$15605",
+          "specifications": {
+            "Highlights": [
+              "22 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "98 @ 4000 SAE Net Torque @ RPM",
+              "95 @ 5600 SAE Net Horsepower @ RPM",
+              "1.6L/97 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Rigid Axle Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,747 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "55 Maximum Alternator Capacity (amps)",
+              "390 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2000": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/d3893167-bd49-4069-9b4e-53707eb1f115.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/a2738431-b3d9-40e9-8970-87e13646f80e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/c9cb2234-4d6d-4f77-8661-2b12998e308a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/62c52263-2a36-45fe-865b-fd8bad679c3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/d72e0e3b-a180-46b9-82f5-0d6d48183a2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/bee2257b-a3ae-4613-8089-12d4668471db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/8472927c-9287-434e-a97f-1e92027e8014.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/04787979-4d29-476b-9690-169a78da9a79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/5438854e-af09-45c6-9f13-c95daa1f1a9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/527b7c6c-182f-43ce-bd8c-dc965f14f87e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/f5d3c758-71d2-4a16-9eca-a608be91e000.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/d72e0e3b-a180-46b9-82f5-0d6d48183a2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/ed5ff1cd-c82a-4514-92f0-a2efbc4811d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a470fdc2-9ae1-4ec9-a291-d2d033b8ee18/d5e3defd-10c2-4d20-974d-00b32c60d05e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Convertible 2WD",
+          "price": "$13975",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "103 @ 4000 SAE Net Torque @ RPM",
+              "97 @ 5600 SAE Net Horsepower @ RPM",
+              "1.6L/97 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,596 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "60 Maximum Alternator Capacity (amps)",
+              "390 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD",
+          "price": "$15075",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "97 @ 5600 SAE Net Horsepower @ RPM",
+              "103 @ 4000 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type",
+              "1.6L/97 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "2,717 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear"
+            ],
+            "Electrical": [
+              "390 Cold Cranking Amps @ 0° F (Primary)",
+              "60 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD",
+          "price": "$15200",
+          "specifications": {
+            "Highlights": [
+              "24 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,860 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD",
+          "price": "$16300",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,981 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1999": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/50fb2aa5-5fce-4841-b706-8ff447efca89/0be76f25-5ed2-4184-8a9e-f6c028ef41a7.png"
+      ],
+      "expert_review": "The 1999 Chevrolet Tracker – specifically, the two-door convertible version – sounds so good on paper.\n\nThe Tracker two-door is a small, relatively affordable sport-utility vehicle with a base price of $14,735 that attracts entry-level buyers and parents shopping for teenage drivers. It had a slew of improvements for 1999, so changes for model year 2000 are inconsequential. We drove the redesigned 1999 model, which is longer and wider than its predecessor, with an improved suspension, steering and engine. But don’t be fooled. At least that’s what Paul advises.\n\nHe: Remember the first two-door Tracker we owned about 10 years ago? We bought it because it was cheap. My recollection is that it was such a dreadful vehicle – noisy, underpowered and primitive – we dumped it as soon as we could. General Motors and its Japanese partner Suzuki finally got around to redesigning the Tracker this past year, and we finally got a chance to test-drive both the two-door convertible and the four-door hardtop. Our main interest, naturally, was in the two-door. To my amazement, the ’99 model doesn’t feel like it’s dramatically better than our old Tracker. Oh, it looks a little cuter, but that was never really a problem with the old one. In the most important areas, like comfort, safety, performance and ease of use, this new Tracker two-door is a dud.\n\nShe: Yeah, but I like the four-door Tracker hardtop. It’s almost like they’re two different vehicles made by two different companies. I can enthusiastically recommend the hardtop. It felt solid and quiet, where the two-door convertible is noisy, feels flimsy and is not very refined. This is the same model, right? How could one company build such a split personality into these two vehicles? Somebody needs an analyst’s couch.\n\nHe: So analyze this. I’m filling out the specs portion of this review, and noted that the base engine in the two-door is a 97-horsepower 1.6-liter four-cylinder. And I remembered how coarse and anemic the engine in our test vehicle felt. It always seemed to be working too hard and making too much racket. Then I discovered we had the optional twin-cam 2.0-liter engine, which makes 127 horsepower and costs $400 extra. Didn’t change my opinion – except perhaps to tell you not to waste your money. It doesn’t seem to make much difference. And fuel economy for a vehicle this tiny is inadequate, at 22 miles per gallon in the city and only 25 on the highway. My question is, would you even want to take the two-door Tracker on the highway?\n\nShe: Let me go back to the noise on the convertible. You could make the argument that it’s irrelevant, especially for the buyer demographic, which I suspect likes to blast Limp Bizkit on the CD player. Which, naturally, is also an extra-cost option. The softtop is still something of a pain to operate, although it seems to work a little better than the one on our old Tracker. I also have to admit the styling is adorable. It hits the right n ote there, on the outside.\n\nHe: Problem is, most people drive from the inside. That’s where the two-door Tracker fails miserably. The cabin is still appallingly primitive – amazing for a vehicle that had a sticker of $18,145, including more than $3,000 worth of options. Makes me wonder what the “base” model looks and drives like without the “amenities.” I mentioned the engine. What I didn’t talk about was the unsteady feeling you get when driving this short-wheelbase vehicle. At freeway speeds, the two-door Tracker gives you the impression of riding a roller coaster. And don’t try to take a turn too fast. You can almost feel the outside wheels lifting.\n\nShe: I think you’re being a little too harsh. For the audience – not a spoiled forty-something like you who went ga-ga this week over the rear footrests in the $69,000 BMW 740iL – it’s decent enough. Lienert, get back to the real world where the rest of us live.\n\nHe: You want real world? No problem. I can think of abo dozen other vehicles I’d rather spend $18,000 on – including the four-door Tracker, which is much sturdier, safer, quieter and comfier. If you’re looking for a convertible SUV, the Isuzu Amigo is a superior vehicle that starts at around $16,000. And if you just want the cheapest two-door in the class, a Kia Sportage is probably a better value.\n\n1999 Chevrolet Tracker\n\nAnita’s rating: acceptable\n\nPaul’s rating: subpar\n\nType: Front-engine, four-wheel drive, four-passenger sport-utility convertible.\n\nPrice: Base, $14,735; as tested, $18,145 (inc. $360 destination charge).\n\nEngine: 2.0-liter I-4; 127-hp at 6,000 rpm; 134 lb-ft torque at 3,000 rpm.\n\nEPA fuel economy: 22 mpg city/25 mpg highway.\n\n12-month insurance cost, according to AAA Michigan: $1,159 (Estimate. Rates may be higher or lower, depending on coverage and driving record.)\n\nWhere built: Ingersoll, Ontario\n\nWhat we liked: Informal, fun exterior is adorable; somewhat affordable (Anita); engine and road noise may not annoy young buyers; some improvements over old model.\n\nWhat we didn’t like: Antilock brakes cost $595 extra; fuel economy is inadequate; too noisy; even optional 2.0-liter four-cylinder engine feels anemic; convertible top is still difficult to operate; feels tippy when cornering at higher speeds; cabin still looks primitive.",
+      "trims": [
+        {
+          "name": "2dr Convertible 2WD",
+          "price": "$13635",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "1.6L/97 Displacement",
+              "97 @ 5200 SAE Net Horsepower @ RPM",
+              "103 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,596 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "390 Cold Cranking Amps @ 0° F (Primary)",
+              "60 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD",
+          "price": "$14735",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "103 @ 4000 SAE Net Torque @ RPM",
+              "97 @ 5200 SAE Net Horsepower @ RPM",
+              "1.6L/97 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,717 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "60 Maximum Alternator Capacity (amps)",
+              "390 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD",
+          "price": "$14835",
+          "specifications": {
+            "Highlights": [
+              "24 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "2.0L/122 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "2,860 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Electrical": [
+              "550 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD",
+          "price": "$15935",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/122 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas L4 Engine Type",
+              "134 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "2,981 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2004": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/e6937212-bf40-4fbf-aa71-d1f5e15d5bef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/7521f0a5-5bc7-4e73-b7bc-b76bf528464e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/1cd9590d-9443-461b-9f9c-1983537de810.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/be27552f-808a-42dc-ab80-94a9e882a96f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/209eb401-bb77-4ba9-b1f2-a76015729bb3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/efba978d-5598-4562-ad81-abdd874eec2a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/b4dedcb4-e214-4f70-b61b-602392d753ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/f083282b-986a-4dc9-a03b-21efa86c1190.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/cf5b093d-83eb-4361-a6aa-d3949732cc5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/4b6235f5-9fa5-4350-b016-b353e53ce9bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/ca92262d-9324-4a1d-a2f4-5136a48caf9b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9f25143b-3c84-482c-96a9-04bf3fcc4306/e0ae77ab-a881-48e6-91ac-225ff7158d7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/b90f5854-8389-4580-8f6c-383145a56b63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/91ed2602-78a7-423c-bd48-d5215ff27f54/e5d08f38-9b6a-457a-9bbc-181e1de89d60.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Hardtop 2WD Base",
+          "price": "$19865",
+          "specifications": {
+            "Notable features": [
+              "165-hp V-6",
+              "Trucklike chassis",
+              "Optional antilock brakes",
+              "Offroad capability"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "165 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement",
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "2,866 lbs Base Curb Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD Base",
+          "price": "$20965",
+          "specifications": {
+            "Notable features": [
+              "165-hp V-6",
+              "Trucklike chassis",
+              "Optional antilock brakes",
+              "Offroad capability"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "165 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,987 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD LT",
+          "price": "$21615",
+          "specifications": {
+            "Notable features": [
+              "165-hp V-6",
+              "Trucklike chassis",
+              "Optional antilock brakes",
+              "Offroad capability"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "165 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,866 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD ZR2",
+          "price": "$22315",
+          "specifications": {
+            "Notable features": [
+              "165-hp V-6",
+              "Trucklike chassis",
+              "Optional antilock brakes",
+              "Offroad capability"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "165 @ 6500 SAE Net Horsepower @ RPM",
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type",
+              "2.5L/150 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,987 lbs Base Curb Weight",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "80 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD LT",
+          "price": "$22715",
+          "specifications": {
+            "Notable features": [
+              "165-hp V-6",
+              "Trucklike chassis",
+              "Optional antilock brakes",
+              "Offroad capability"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "2.5L/150 Displacement",
+              "165 @ 6500 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "2,987 lbs Base Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2001": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5329c7fb-1456-42a5-a745-9dcdd3d8bfe2/8d59e263-f9a5-4831-a535-d59baacb6c07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/5160ad22-417f-42d6-a85e-24022913ee6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/b8f3d89d-193a-4868-9a81-bd3afe4eff8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/709ac066-3d6e-40b4-85ff-ef20d44b3c34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/68112c47-ee69-4b93-b704-72a591988b96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/5cb88fdf-dffc-425b-93a1-662e98be2d38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/5005349c-bb26-435f-a271-800740b84617.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/abf8943d-1335-4ee5-abbd-9212291c54dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/b25819c9-d058-4228-85ce-71de9b40e71d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/3317b372-23e2-4b8b-91ce-61116625b1ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/00cc8ed6-a198-4a44-982d-37dbf9d32a85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/5f3a2660-cbe2-4de1-9d14-e0069f61e6c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/188f4b48-cf3a-4f50-8e45-e43b83489213.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/837a8e40-7aff-4c22-ae99-5fb1c697a7bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/a8b15ba1-4b6a-48ea-adfa-4c972f36452d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f8118d51-0781-4583-876a-77e30bd98853/f7197db6-11d5-47f6-9803-70dba8667ff2.png"
+      ],
+      "expert_review": "What looks like a sport-utility vehicle on a balmy day behaves a lot like an ordinary station wagon in the snow.\n\nThat’s the lesson from a week in the 2001 Chevrolet Tracker LT, a two-wheel-drive crossover model competing in the mini-sport-utility market.\n\nA crossover vehicle attempts to bridge the perceived gap between a car and a truck — providing a car’s generally smoother ride and handling, some of a truck’s utility and the appearance of all of a truck’s ruggedness.\n\nPopular crossover models include the Ford Escape, Honda CR-V, Mazda Tribute and Toyota RAV4. They are good conveyances for urban hauling, such as carrying bulky loads in congested areas. In the mid-Atlantic region and the South, where snowstorms aren’t the norm, it makes sense to buy those models with two-wheel drive instead of the available four-wheel-drive or all-wheel-drive systems.\n\nThat is, it makes sense until “normal” weather turns “abnormal,” leaving you with a sudden, pervasive sense of vulnerability. That is what happened on a recent trip through northern Maryland.\n\nI should’ve paid closer attention to the weather reports. Snow was supposed to fall on the District of Columbia. It didn’t. I seized the moment and hit the road moving north, where snow — lots of it — fell instead.\n\nVery quickly, the two-wheel-drive Tracker LT (in which the rear wheels get the power) reminded me that it lacked lockable front hubs for four-wheel-drive traction and that it had no ability to apportion power, to automatically transfer power from gripping to slipping wheels, as would be the case with all-wheel drive.\n\nThe rear end slipped — not badly, but just enough to get me to slow down. I was grateful for the warning, but my resulting behavior frustrated drivers behind me. Many motorists believe snow means “Go faster!” They have little patience for people in supposed sport-utility vehicles who choose that moment to go slow.\n\nBut in better weather and on drier roads, the 2001 Tracker LT held its own. Under those circumstances, the little sport-ute was discernibly better than earlier Trackers, with their standard 1.6-liter four-cylinder engine. That 90-horsepower engine was adequate for short, urban commutes without cargo or passengers. But on the highway, and under loads, it was a slouch.\n\nThe new Tracker LT comes with a 16-valve, two-liter four-cylinder that develops 127 horsepower at 6,000 revolutions per minute and 134 pound-feet of torque at 3,000 rpm. That engine revs nicely — producing more-than-adequate power without much noise. That’s saying something, considering that the Tracker is more like a truck than its rival mini-utility vehicles, which have car-type unibody construction.\n\nBy comparison, the new Tracker LT is built on a traditional, rigid truck frame. That means in four-wheel drive — with skid plates underneath its engine, fuel tank and transfer case — the Tracker would be a better bet off road than, say, the Honda CR-V.\n\nBut genuine off-road enthusiasts are a distinct minority in the sport-utility world, which is one of several reasons that market is breaking up into myriad sub-segments. For example, the true marketing intent of the two-wheel-drive Tracker LT is to capture “young adult” buyers — that is, young couples with jobs, apartments and homes — who are psychologically unable to commit to minivans or station wagons.\n\nIt’s a form of motorized escapism that works — until it snows.\n\nJoin Warren Brown tomorrow at 11 a.m. at www.washingtonpost.com/ liveonline for “Real Wheels,” his live discussion about cars.",
+      "trims": [
+        {
+          "name": "2dr Convertible 2WD Base",
+          "price": "$15435",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,602 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD Base",
+          "price": "$16055",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "2,866 lbs Base Curb Weight",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD Base",
+          "price": "$16535",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,639 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD Base",
+          "price": "$17155",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "2.0L/121 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,987 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "550 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD ZR2",
+          "price": "$18385",
+          "specifications": {
+            "Highlights": [
+              "23 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "2.0L/121 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "2,639 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "550 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD LT",
+          "price": "$20330",
+          "specifications": {
+            "Highlights": [
+              "19 City / 21 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "160 @ 4000 SAE Net Torque @ RPM",
+              "155 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,866 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD ZR2",
+          "price": "$20750",
+          "specifications": {
+            "Highlights": [
+              "18 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "160 @ 4000 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type",
+              "2.5L/150 Displacement",
+              "155 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "2,987 lbs Base Curb Weight",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD LT",
+          "price": "$21430",
+          "specifications": {
+            "Highlights": [
+              "18 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "2.5L/150 Displacement",
+              "155 @ 6500 SAE Net Horsepower @ RPM",
+              "160 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,987 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "80 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2003": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/5c1989b2-7850-470f-9a9b-65e0e563cbd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/3d899478-5c92-49b8-a929-0b0cb2ef7cda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/fd090021-d7af-4529-b3f5-a4d619120796.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/30036330-b557-4104-b0df-50cca7d36ae9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/6c7d4cb8-2c2a-43e2-86d8-478813006478.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/320fecfa-2892-4227-897d-3315508ee346.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/07e65583-94fe-4d1e-91fd-d542ec310546.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/1c3df8a1-446b-473e-b661-3347bb7917ff.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c307ccb2-1669-4b03-8287-8ed4637fac3e/950c42cf-495b-472d-9d6f-3c63af97023d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/a7eee695-5969-46ad-8842-a7fb6ba20e59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/eacbf9b7-c66b-4ebf-8cd7-005fe4c3965f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/cae60084-8b88-49c5-beed-920698c12e73.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/6fc351ee-4611-4f69-b5a7-f47ddd876935.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/71dbace9-03c2-4b72-b771-0896dc9bbd61/d3346967-7233-4350-8fb0-0a5c4d143781.png"
+      ],
+      "expert_review": "Posted on 12/9/02\nVehicle Overview\nThe Chevrolet Tracker is available in two-door convertible and four-door wagon forms, and it may be equipped with rear-wheel drive (RWD) or four-wheel drive (4WD). This compact sport utility vehicle is Chevrolets version of the Suzuki Vitara. Especially in its wagon body style, the Tracker competes with the Ford Escape, Honda CR-V and Toyota RAV4.\n\nCapitalizing on the interest of small SUVs, Chevrolet sold 52,368 Trackers during 2001  thats a 9-percent increase, according to Automotive News. Only a handful of changes are evident for the 2003 Tracker. They include new yellow paint and optional deep tinted glass. Monochromatic paint goes on the LT edition.\n\nThis is an authentic sport utility that can handle the roughest terrain, says Marketing Director Margaret Brooks. The two-door convertible models are offered in base and ZR2 trim levels and come with a four-cylinder engine and a manual or automatic transmission. The four-door ZR2 and LT models come with a 165-horsepower, 2.5-liter V-6 engine as standard equipment, and these trims get the automatic transmission. The Tracker and the equivalent Suzuki SUV are built at a Canadian plant that is jointly owned by General Motors and Suzuki.\n\nExterior\nThe Tracker is built on a ladder-type frame and features what Chevrolet calls bold, distinctive, sculpted flanks that are complemented by contoured edges. The four-door solid-roof Tracker is 162.6 inches long overall and has a 97.6-inch wheelbase  that makes the solid-roof model 11 inches longer in both dimensions than the two-door convertible. The soft-top model has a manually folding canvas roof.\n\nBoth body styles are approximately 66 inches tall. The spare tire is mounted on the tailgate, which opens to the right on both body styles. All models ride 15-inch tires, and alloy wheels are standard on the LT and ZR2. Skid plates are included on the ZR2. Options include tubular side steps, a brush guard, ski and bike racks, and a removable hardtop for the convertible.\n\nInterior\nLarger dimensions give the four-door Tracker greater interior space. The convertible seats four occupants, and the four-door wagon seats five. Folding down the split rear seat expands the cargo space to nearly 34 cubic feet on the convertible and 45 cubic feet on the wagon.\n\nAll models have air conditioning and a CD player. Leather upholstery is optional only on the LT model.\n\nUnder the Hood\nThe base engine for the regular convertible and four-door wagon and ZR2 is a 127-hp, 2.0-liter four-cylinder. A 165-hp, 2.5-liter V-6 goes into the LT and ZR2 wagons. The four-cylinder engine teams with either a four-speed-automatic or five-speed-manual transmission, and the V-6 comes only with the automatic. Both body styles work with either RWD or shift-on-the-fly 4WD.\n\nSafety\nAntilock brakes are optional, and daytime running lights are standard. Side-impact airbags are not available in the Tracker.\n\nDriving Impressions\nThe Tracker is on the noisy side, but its generally a satisfying little machine. The noise comes from the V-6 engine and driveline. While the new model is better than the past model, it still triggers a trucklike sensation. The automatic transmission tends to stay a trifle too long in lower gears, which also adds to the extra sound level.\n\nThe Tracker is easy to steer and control, and it maneuvers nicely in city driving. When equipped with 4WD, it also performs capably on snow and ice. A somewhat choppy ride is inevitable, but its not much of a problem. The Trackers acceleration wont win any awards, but its wholly adequate for all but the most assertive drivers. The SUVs seats are excellent and well cushioned, and they offer good support, but legroom is limited in the backseat.\n\n \n\nReported by Jim Flammang  for cars.com\nFrom the cars.com 2003 Buying Guide",
+      "trims": [
+        {
+          "name": "2dr Convertible 2WD Base",
+          "price": "$16630",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "2.0L/121 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,690 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD Base",
+          "price": "$17330",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "2,866 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "17 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD Base",
+          "price": "$17730",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,811 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD Base",
+          "price": "$18430",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/121 Displacement",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "2,987 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD ZR2",
+          "price": "$19530",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,811 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "Yes Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD LT",
+          "price": "$21430",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/121 Displacement",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "2,866 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "Yes Drum - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD ZR2",
+          "price": "$22130",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,987 lbs Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "80 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD LT",
+          "price": "$22530",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas L4 Engine Type",
+              "2.0L/121 Displacement",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "2,987 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Power Brake Type",
+              "Not Available Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2002": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/afdb0c0c-6dbc-43a0-9b17-b20df7b7d541.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/088eeb65-f903-44ca-869e-59d294660b04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/b9b5b287-c0b1-4012-aeae-990ba35897ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/ab9afa30-304d-4c53-878b-7f0801e5e7c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/25c578a7-ac69-4e11-ba8a-cb874f38a947.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/a807f5ca-2917-491c-afbf-30156aefafbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/962fa544-8569-4c84-902a-0f802a39fe98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/ae2f01d0-2f7c-4b12-b4c8-f076b6fd386f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/7942b5f8-018e-4db1-91be-7080b0fd17c5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9f607218-171f-4d02-aeb6-549cceddf19b/543de6b5-4f6c-4985-88e7-d2caaeea393f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/787cb7dd-cb63-422d-b462-f639a9d073b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/33e8d982-d0d2-4da4-9271-fb240e4a3698.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dec2fbef-cd71-4e0d-b20a-1a8e52f7de9e/ff8f833a-38fc-477f-b7a5-9dfd35a33b47.png"
+      ],
+      "expert_review": "Vehicle Overview\nAvailable in two-door convertible or four-door wagon form, this compact sport utility vehicle is Chevrolets version of the Suzuki Vitara. Alloy wheels are new for 2002, and the LT edition loses its running boards. A CD player is now standard on all models, and four-door versions gain a roof rack. Other new amenities include front armrests, see-through halo headrests and adjustable lumbar support for the driver.\n\nIn 2001, the Tracker got an optional 155-horsepower, 2.5-liter V-6 engine, which has been available in the Suzuki Vitara since 1999. A four-cylinder engine also is available, but the V-6 is standard on the ZR2 and LT four-door models. Both the Tracker and the equivalent Suzuki products are built in Canada at a plant jointly owned by General Motors and Suzuki.\n\nExterior\nThe four-door, solid-roof Tracker is 162.6 inches long and has a 97.6-inch wheelbase. That makes the solid roof model 11 inches longer in both dimensions than the two-door convertible, which has a manually folding canvas top. The spare tire is mounted on the tailgate, which opens to the right, on both body styles.\n\nInterior\nLarger dimensions give the four-door Tracker greater interior space. The convertible seats four occupants, but the four-door wagon seats five. Folding down the split rear seat expands cargo space to 34 cubic feet on the convertible and 45 cubic feet on the wagon.\n\nAll models have air conditioning and, for 2002, a CD player. Leather upholstery is optional only on the LT model.\n\nUnder the Hood\nThe base engine for the four-door wagon and ZR2 convertible is a 127-hp, 2.0-liter four-cylinder, and a 155-hp, 2.5-liter V-6 goes into the LT and ZR2 wagons. Four-cylinder engines team with either a four-speed-automatic or five-speed-manual transmission, but the V-6 comes only with the automatic. Both body styles work with either rear-drive or four-wheel drive. Antilock brakes are optional.\n\nDriving Impressions\nThe Tracker is on the noisy side, but it generally is a satisfying little machine. The noise comes from the V-6 engine and driveline; while its better than in the past generation, it still triggers a trucklike sensation. The automatic transmission tends to stay a trifle too long in lower gears, which also adds to the extra sound level.\n\nThe Tracker is easy to steer and control, and it maneuvers nicely in city driving. When equipped with four-wheel drive, it also performs capably on snow and ice. A somewhat choppy ride is inevitable, but its not much of a problem. Acceleration wont win any awards, but its wholly adequate for all but the most assertive drivers. Seats are excellent, well cushioned and have good support, though legroom is rather limited in the backseat.\n\n \n\nReported by Jim Flammang  for cars.com;\nFrom the cars.com 2002 Buying Guide;\nPosted on 4/15/02",
+      "trims": [
+        {
+          "name": "2dr Convertible 2WD Base",
+          "price": "$16100",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,690 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "550 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD Base",
+          "price": "$16790",
+          "specifications": {
+            "Highlights": [
+              "23 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "2,866 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD Base",
+          "price": "$17200",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type",
+              "2.0L/121 Displacement"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,811 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "550 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD Base",
+          "price": "$17890",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,987 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Convertible 4WD ZR2",
+          "price": "$19060",
+          "specifications": {
+            "Highlights": [
+              "22 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas L4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 @ 3000 SAE Net Torque @ RPM",
+              "127 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,811 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "550 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.4 x 0.39 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 2WD LT",
+          "price": "$20835",
+          "specifications": {
+            "Highlights": [
+              "19 City / 21 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "160 @ 4000 SAE Net Torque @ RPM",
+              "155 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,866 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD ZR2",
+          "price": "$21510",
+          "specifications": {
+            "Highlights": [
+              "18 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "160 @ 4000 SAE Net Torque @ RPM",
+              "155 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "2,987 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "80 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Hardtop 4WD LT",
+          "price": "$21935",
+          "specifications": {
+            "Highlights": [
+              "18 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "160 @ 4000 SAE Net Torque @ RPM",
+              "155 @ 6500 SAE Net Horsepower @ RPM",
+              "2.5L/150 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Control Arms Suspension Type - Rear (Cont.)",
+              "5-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "2,987 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "11.3 x 0.67 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

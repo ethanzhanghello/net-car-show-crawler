@@ -1,0 +1,795 @@
+{
+  "make": "jeep",
+  "model": "wrangler_jk_unlimited",
+  "years": {
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/02206fe7-1c26-4459-bed8-3c3bdfaf8a56/9a87c691-7ede-48ed-ae3b-f99633af0daf.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Willys Wheeler 4x4",
+          "price": "$27895",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 4800 SAE Net Torque @ RPM",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "3.6 L/220 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "4,277 lbs Curb Weight",
+              "5,775 lbs Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "6,427 lbs Gross Combined Wt Rating",
+              "1,123 lbs Maximum Payload Capacity",
+              "1,123 lbs As Spec'd Payload",
+              "4,277 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,039 lbs Curb Weight - Rear",
+              "2,238 lbs Curb Weight - Front",
+              "4,277 lbs Base Curb Weight",
+              "5,400 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Willys Wheeler W 4x4",
+          "price": "$27895",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.6 L/220 Displacement",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,277 lbs Base Curb Weight",
+              "2,238 lbs Curb Weight - Front",
+              "2,039 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,277 lbs As Spec'd Curb Weight",
+              "1,123 lbs As Spec'd Payload",
+              "1,123 lbs Maximum Payload Capacity",
+              "6,427 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,775 lbs Gross Axle Weight Rating",
+              "4,277 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,400 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Freedom Edition 4x4",
+          "price": "$27895",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.6 L/220 Displacement",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,277 lbs Base Curb Weight",
+              "2,238 lbs Curb Weight - Front",
+              "2,039 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,277 lbs As Spec'd Curb Weight",
+              "1,123 lbs As Spec'd Payload",
+              "1,123 lbs Maximum Payload Capacity",
+              "6,427 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,775 lbs Gross Axle Weight Rating",
+              "4,277 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,400 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Sport 4x4",
+          "price": "$27895",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 4800 SAE Net Torque @ RPM",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "3.6 L/220 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "4,277 lbs Curb Weight",
+              "5,775 lbs Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "6,427 lbs Gross Combined Wt Rating",
+              "1,123 lbs Maximum Payload Capacity",
+              "1,123 lbs As Spec'd Payload",
+              "4,277 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,039 lbs Curb Weight - Rear",
+              "2,238 lbs Curb Weight - Front",
+              "4,277 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Sport S 4x4",
+          "price": "$27895",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.6 L/220 Displacement",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,277 lbs Base Curb Weight",
+              "2,238 lbs Curb Weight - Front",
+              "2,039 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,277 lbs As Spec'd Curb Weight",
+              "1,123 lbs As Spec'd Payload",
+              "1,123 lbs Maximum Payload Capacity",
+              "6,427 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,775 lbs Gross Axle Weight Rating",
+              "4,277 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,400 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Golden Eagle 4x4",
+          "price": "$27895",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 4800 SAE Net Torque @ RPM",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "3.6 L/220 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,400 lbs Gross Vehicle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "6,427 lbs Gross Combined Wt Rating",
+              "1,123 lbs Maximum Payload Capacity",
+              "1,123 lbs As Spec'd Payload",
+              "4,277 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,039 lbs Curb Weight - Rear",
+              "2,238 lbs Curb Weight - Front",
+              "4,277 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,277 lbs Curb Weight",
+              "5,775 lbs Gross Axle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Sport RHD 4x4",
+          "price": "$32695",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 4800 SAE Net Torque @ RPM",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "3.6 L/220 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "4,291 lbs Curb Weight",
+              "5,775 lbs Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "6,441 lbs Gross Combined Wt Rating",
+              "1,109 lbs Maximum Payload Capacity",
+              "1,109 lbs As Spec'd Payload",
+              "4,291 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,054 lbs Curb Weight - Rear",
+              "2,237 lbs Curb Weight - Front",
+              "4,921 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Altitude 4x4",
+          "price": "$34245",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.6 L/220 Displacement",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "5,975 lbs Gross Axle Weight Rating",
+              "4,397 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,500 lbs Gross Vehicle Weight Rating",
+              "4,397 lbs Base Curb Weight",
+              "2,273 lbs Curb Weight - Front",
+              "2,124 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,397 lbs As Spec'd Curb Weight",
+              "1,103 lbs As Spec'd Payload",
+              "1,103 lbs Maximum Payload Capacity",
+              "6,547 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Sahara 4x4",
+          "price": "$34245",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.6 L/220 Displacement",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,397 lbs Base Curb Weight",
+              "2,273 lbs Curb Weight - Front",
+              "2,124 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,397 lbs As Spec'd Curb Weight",
+              "1,103 lbs As Spec'd Payload",
+              "1,103 lbs Maximum Payload Capacity",
+              "6,547 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,975 lbs Gross Axle Weight Rating",
+              "4,397 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,500 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Rubicon 4x4",
+          "price": "$37445",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.6 L/220 Displacement",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,521 lbs Base Curb Weight",
+              "2,352 lbs Curb Weight - Front",
+              "2,170 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,522 lbs As Spec'd Curb Weight",
+              "1,178 lbs As Spec'd Payload",
+              "1,178 lbs Maximum Payload Capacity",
+              "8,171 lbs Gross Combined Wt Rating",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "3,500 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,975 lbs Gross Axle Weight Rating",
+              "4,522 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,700 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Rubicon Recon 4x4",
+          "price": "$37445",
+          "specifications": {
+            "Notable features": [
+              "Golden Eagle, Freedom and Altitude special editions",
+              "285-hp V-6 engine standard",
+              "Manual or automatic transmission",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "16 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 4800 SAE Net Torque @ RPM",
+              "285 @ 6400 SAE Net Horsepower @ RPM",
+              "3.6 L/220 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "4,522 lbs Curb Weight",
+              "5,975 lbs Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "8,171 lbs Gross Combined Wt Rating",
+              "1,178 lbs Maximum Payload Capacity",
+              "1,178 lbs As Spec'd Payload",
+              "4,522 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,170 lbs Curb Weight - Rear",
+              "2,352 lbs Curb Weight - Front",
+              "4,521 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

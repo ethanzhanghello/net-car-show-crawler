@@ -1,0 +1,60 @@
+{
+  "make": "alfa_romeo",
+  "model": "spider",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fff9a961-ce2b-4d2f-998e-3af6b9e40cd2/ce45b260-4c34-4949-a10c-edd5983b1bb3.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Convertible",
+          "price": "$21264",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Convertible Veloce",
+          "price": "$24309",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bf266773-fb78-4f44-9353-09148e642bfa/c19b20c2-9300-4e56-b464-d5d8d45efc20.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Convertible",
+          "price": "$22590",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Convertible Veloce Ce",
+          "price": "$27590",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3e71b9dd-eb30-469b-818e-f951effeb08b/9d3a9e42-6669-4417-a471-5636f48fb6e7.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Convertible",
+          "price": "$21764",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Convertible Veloce",
+          "price": "$25390",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

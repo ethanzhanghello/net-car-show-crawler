@@ -1,0 +1,698 @@
+{
+  "make": "bmw",
+  "model": "x2",
+  "years": {
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/63637d30-6de5-4464-b8e6-cf15e7dfde3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/397c79d0-9059-4b95-888f-ff5041dcf6d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/65a1ba98-72f9-4fd9-b40f-3e6eb3f86885.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/3ec7d397-eb68-42e7-9265-145afeda2df8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/58ad0ee3-0d15-4648-bd43-3771fd5144f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/75ee97bb-0a0e-4f66-8892-f300a90d6aaa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/4f502478-4b85-4990-85bc-7e94f505b977.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/c2d35689-2840-45f4-85a5-067535dd4cde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/c7dfb468-e2db-43a4-b6c4-3773977ceaa6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/2fc41118-9dd7-4deb-9c45-0444928e27f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/1bcdf221-e032-418a-b8ba-1dcb5c388e5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/319657f9-ae87-4d9f-a83f-590dd9404356.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/2245d9fd-25ce-4e53-80d7-14f2a4669519.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/ec681698-f8fd-47e9-aa5b-0a229541917d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/0d966226-aa15-4062-b678-a011c5742533.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/4664c303-3115-4521-a722-49f1696b8594.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/7ba79d58-909d-4c9a-910b-3517c2a2d9ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/659c8c40-8650-42fc-a675-0bebc0412540.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/7ba79d58-909d-4c9a-910b-3517c2a2d9ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/98d0d21f-0e29-4bbf-8201-cad06895eada.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/3eb3e37d-0208-4131-ab01-95878a06ebcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/b3bc639a-3569-4e0e-b870-1539be8fc6ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/69e3dd8f-64e8-4022-be12-b333433bfba8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/1dbc6e12-4671-4553-8ae5-e1fcadef5e9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/ce48c844-482f-46c2-8faa-38bf69777327.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/a737b650-b1ac-4654-82e4-c2b1a278fdc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/09f3d5f1-6495-4581-a534-277f72871181.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/15e88772-f4e0-4f01-b00b-20cc693fd5be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/801954e2-ef9f-4905-8cb8-24608e624a8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/b8449553-ba07-4dce-8428-ab20f5388108.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e17d2836-b6c8-4520-9320-450d5a32ce39/394383b3-d900-4f49-817b-324fa147f2f6.png"
+      ],
+      "expert_review": "CARS.COM — The first time I wrote about the latest model from BMW, the all-new 2018 X2 crossover, was after seeing it for the first time at the 2018 North American International Auto Show in Detroit, and I was not that impressed. I chalk up my lukewarm feelings in some part to SUV fatigue. The BMW X2 is the sixth SUV in the BMW lineup and we already know a three-row SUV, the X7, will start production this year.\n\nRelated: BMW Prices 2018 X2: What Would You Pay?\n\nSuffice it to say, when I heard that I’d be testing the BMW X2, I was not all that excited. After all, it shares its powertrain, wheelbase and interior design with the X1. But after spending a day with one on the street and the track at the BMW Performance Center in the California desert, I can admit that my lack of enthusiasm was misguided. (Per company policy, Cars.com pays for its airfare and lodging to such automaker events.)\n\nWhat We Tested: 2018 BMW X2 xDrive28i\n\nPowertrain: 228-horsepower, turbocharged 2.0-liter four-cylinder; 258 pounds-feet of torque; eight-speed automatic transmission; all-wheel drive\nFuel economy: 21/31/25 mpg city/highway/combined\nKey features: M Sport X Package, Galvanic Gold Metallic paint, LED headlights, power liftgate, M Sport suspension, artificial leather upholstery\nAs-tested price: $50,920 (including destination charges)\n\nHey, Good Lookin’\n\nAt first, I liked the BMW X2’s styling simply because it breaks from the other even-numbered BMW sports activity coupes (BMW’s name, not ours) in the lineup. The X4 and X6 have strange proportions, especially in profile, but the X2 is different; its best angle may be from the side where you can see its shape.\n\nI’m also a fan of the BMW X2’s size. Though it shares a wheelbase with the X1, it’s actually 2.8 inches lower and 3.2 inches shorter than its counterpart, and BMW said all of the exterior parts between the two cars are different except for the door handles and the antenna. The shortened length (keeping the wheelbase constant) appears to push the wheels out toward the edges, and the lower height makes the X2 look much sportier. I’m also a fan of the BMW logos that have been added to the C-pillar, adding some much-needed flair.\n\nThe vehicle seen in these photos also got additional flair points by wearing the optional M Sport X appearance package and a screaming gold paint job. Luckily, the sporty styling is backed up by changes under the skin as well.\n\nHow It Drives\n\nThe X2 excels when it comes to dynamics, and not only when compared with the X1. Its handling and ride quality are carlike. My test vehicle was equipped with an M Sport suspension, which lowers the ride by 0.4 inch and the center of gravity along with it. BMW offers a third BMW X2 suspension with variable shock-absorber firmness that similarly lowers the vehicle by 0.4 inch.\n\nThe X2 was impressive on the road and the track, for different reasons. On road, the X2 exhibits great ride quality and comfort, while on track its balance really stands out. For what is ostensibly a crossover, it drives much more like a sedan or wagon, and keeping the car settled was much less of a challenge than I’d expected, especially after hearing how close the ride height is to that of the X1.\n\nIf there’s a downside to how the BMW X2 drives, it was the powertrain. The 228-hp, turbocharged 2.0-liter four-cylinder is a fine engine there’s plenty of passing power and the eight-speed automatic transmission is responsive enough. But the X2’s proficiency in other respects left me wanting more power to use them to the fullest. Right now, BMW has released pricing and information only for front-wheel and all-wheel-drive versions of the 28i trim level (I tested the all-wheel-drive xDrive28i exclusively), but I’m hoping to hear soon that a version with a more powerful engine is coming.\n\nBig Insides\n\nThough the X2 has smaller dimensions than the X1, it doesn’t give much back in terms of interior space; in fact, BMW says that it has the same passenger volume. You do lose about 15 percent of the cargo space due to the rake of the roof and lower height, for a total of 21.6 cubic feet behind the rear seats. That puts it ahead of much of its competitors. The 2018 Mercedes-Benz GLA 250 has 17.2 cubic feet and the 2018 Audi A3 only 16.7 cubic feet. For comparison, the BMW X1 has 27.1 cubic feet.\n\nThe cargo area also has a nice, covered storage compartment that’s about 6 inches deep. There’s plenty of room to hide a few backpacks or other valuables from prying eyes. There’s a cargo cover, but many folks remove that to fit larger items more easily, so this kind of storage is helpful. There is one caveat — if you opt to add a spare tire (a $150 option), it will take up about two-thirds of the storage bin.\n\nThe backseat does suffer from slightly cramped legroom, but it’s made up for with copious headroom, even with a panoramic moonroof installed. At the auto show I was afraid that the panoramic roof didn’t extend back far enough for backseat passengers, but in the real world, it’s plenty. Don’t want the moonroof? You get back another 1.4 inches of headroom. This is another way the X2 distinguishes itself from the GLA 250 and the A3 — two vehicles that are claustrophobic in the back.\n\nI was concerned that the smallish rear side windows would hamper visibility, but I found it to be ample enough over both shoulders, and though the rear glass is a bit slim, the view doesn’t feel overly constrained. This will change if you drive passengers, however, as anyone sitting in the middle will block much of the rearview mirror view.\n\nOne caveat about the X2 interior: The driver’s leg space is fairly narrow and the center console isn’t padded. For someone like me who puts his knee out to the right when driving, it got a bit uncomfortable after about an hour, especially after tossing the X2 around the track for several laps.\n\nValue\n\nThe biggest knock on the BMW X2 will be its value, as it starts at several thousand dollars more than the competitors mentioned and is also a $2,500 premium over its X1 stablemate. The sticker price on the X2s I tested were north of $50,000, which puts it well over the territory of other luxury SUVs that offer more space and utility.\n\nBut if you want something stylish that’s fun to drive, you could do much worse than the X2. After meeting the X2 for the first time at the auto show, I wrote, “There are no surprises with the X2 … I just wish it were more interesting.”\n\nI was wrong about that. The X2 is interesting; its handling and road manners are pleasantly surprising; and I’ll be the first to line up for an M version or a trim with a larger engine. We test a lot of SUVs, as the market dictates. It was finally nice to meet one that’s fun.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "sDrive28i Sports Activity Vehicle",
+          "price": "$36400",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive28i Sports Activity Vehicle",
+          "price": "$38400",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/a4a4d340-1202-4bbc-b30a-0b35a51dc608.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/666dbc23-94a3-4ca6-a542-baedee320012.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/99de0747-7990-49e3-9db1-e0367e58e0ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/7a813e05-d03b-4c04-b75a-b774c7a11011.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/88852c9d-9105-48f5-9b64-5c0e14b69fd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/153de049-2c1f-4048-b93b-02a570df4835.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/67f659bb-0995-4abf-a719-ce8197f95275.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/21972dd4-8e0f-42dd-8ff7-ddc2d28e0578.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/f304167f-cb76-4580-af6e-b9b5f2529313.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/4d7c5a81-89ff-40a2-b6af-2d8673a2c301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/3f83f163-f2c1-49f7-8bb2-6a22ed6f055e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/1c70fc87-8ffc-468b-a0bc-35a1f2599747.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/f3efbc45-c7ae-4d62-bbce-b55e29e98acf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/93d5b470-346b-483a-a691-ff4897f38c56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/eaf8bcab-5610-4b64-af95-e2f5ff0e4f44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/16ebfea6-0355-40d6-a088-f822f96f63e5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/f304167f-cb76-4580-af6e-b9b5f2529313.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/b16c15e0-5e05-4946-b0fe-7c43cdd13131.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/65c9f781-a05d-47df-9fb3-bd4d8bb1ac03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/d609aa49-a2aa-4348-9c5c-3bd48385a0c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/16304362-fd82-4b38-9459-30005f4e9c8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/bdff4eb7-0656-4fc8-a381-9af05efde547.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/c3e112f2-df39-4ddb-b07e-ef452b225e9c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/6dd153bf-ee6a-45d4-8d89-6fc5b717d712.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/9ec8c44c-f79f-4c5a-bc6f-f801ef6d3ef0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/ac25935b-17ab-424d-84f0-0370ee2010c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5361450-ffef-46f6-ac70-3fd68c7d6f5c/4f6e373e-3597-4c40-9fd9-ea5e4729f21d.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$44300",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Coupe",
+          "price": "$53400",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/f33ede94-f808-4bb5-8864-007adabd5841.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/6238168a-862f-4cd3-9c6b-529af3d80a26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/3624b731-f080-4742-9a34-a0646e5602bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/313ea2c8-a7f1-49ad-8cd8-507d2424fe37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/69d7bcf4-e713-4219-9467-17ad82a0e852.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/71511279-6b7c-4967-b214-85710e259522.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/2c37dea5-d092-4c20-ae24-9597d811bd05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/7843c73d-abd6-402b-8d59-c78e38054217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/f9ecb9c6-ff60-46b6-bf16-44066c1224da.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/e68ff6e8-9e17-419d-82b7-1cbbb4790449.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/b025bea7-db9c-4cb4-8363-de111ee6f6a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/74eb8c54-ff07-4412-a944-63a9aee7e9fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/4687a276-dbbb-4558-8404-508f18477f7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/2e126a8a-34c7-4b84-a327-e23237b48a04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/e96c1bc8-34a7-4ae2-a9aa-083b73422efe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/a07ae605-8805-48d6-bb6b-6472e00861da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/e68ff6e8-9e17-419d-82b7-1cbbb4790449.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/269b144e-fcb1-4aca-95cd-e72e46ca13b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/8e5c5737-c68b-4669-8032-59866abf8885.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/cd1a6501-88dc-4d92-bbd0-ab3c458733e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/01532353-3c77-4a43-9e38-9a6728f07cd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/1d31e5d5-1165-4e59-94b2-0dcff57d3bf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/adbc4f98-f374-40d3-b251-7335d755f65f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/cc2e6dcd-bc94-45ea-8877-4ad9e57373b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/831cb77d-7311-45f0-9ccf-e2ac3a6e8351.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/4f0426c8-d602-4313-a923-48b42d8012fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/e3f06231-1096-49c6-9365-ae7fe8999137.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/46c23611-b6f4-4d2a-b814-e46495b7d5af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/dc6ec276-723a-4d04-aab7-03f0989914cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/f1be5c9b-6917-44e3-a556-d58a7db66ec8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/befb2cc2-f7f3-4396-bbdb-ce377cf45426/d39f48ab-8b67-45e8-9275-692a4d595772.png"
+      ],
+      "expert_review": "What Is the 2023 BMW X2?\n\nThe subcompact BMW X2 uses the same platform as the German automaker’s boxier (and more practical) X1 SUV, but the five-seat X2 has a more coupelike roofline, giving it a sportier appearance. The X2 is powered by the same 228-horsepower, turbocharged 2.0-liter four-cylinder engine as the X1, with an eight-speed automatic transmission and front- or all-wheel drive. Competitors include the Mercedes-Benz GLA-Class, Lexus UX and Mini Clubman.\n\nWhat’s New on the 2023 BMW X2?\n\nBMW made minor changes to the X2’s option-package content for 2023, and a new Edition GoldPlay appearance package adds Galvanic Gold accents and other special trim touches. The performance-focused M35i and its 301-hp, turbocharged 2.0-liter four-cylinder have been discontinued.\n\nWhat Features in the 2023 BMW X2 Are Most Important?\n\nStandard features include:\n\nPower liftgate\nRain-sensing windshield wipers\nNavigation with 8.8-inch touchscreen\nApple CarPlay smartphone connectivity\nForward collision warning with city collision mitigation\nLane departure warning\n\nAvailable features include:\n\nPanoramic moonroof\nWireless device charging\nHeated front seats\nHeated steering wheel\nAdaptive cruise control with stop-and-go capability\nLane keeping assist\nEdition GoldPlay appearance package\nShould I Buy the 2023 BMW X2?\n\nThe BMW X2 offers a notably sleeker, more stylish look than its X1 sibling, but you pay for the image upgrade both in purchase price and in practicality. Interior space is good considering the X2’s small size, but visibility is poor. Note that although the X1 was redesigned for 2023, the X2 continues on its existing platform this year. We expect a redesigned X2, based on the new X1 design, to debut for 2024.",
+      "trims": [
+        {
+          "name": "sDrive28i Sports Activity Coupe",
+          "price": "$36600",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$38600",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/3c5ccb67-8586-4606-8a8e-e53efd69d54f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/e2f369af-1fa6-4643-aa32-55907d506de1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/9b34562a-24c8-4916-9bc5-a4b11db78a36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/7a1228bc-657d-4f58-ba43-7a4441465e3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/ddc937c3-e863-48b2-8ab5-7e3734812e7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/e34ecf1f-e989-4669-a726-016a5c38673c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/24670947-c560-4e07-9279-bd13eca6f4f6.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/e139a094-0ab0-484a-8e8a-4a0dce192ed9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/e23c1ec7-ee68-4d3f-bc25-295884f1e7af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/efcbce2c-c64b-4887-afb8-73bf06698ae9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/7e895a67-e536-4c8e-a51f-a4590d2d00e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/eef6e140-23fc-4eb7-bcd5-ae8b86a2b075.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/fcda489d-61c4-4882-846c-4c342e62aa67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/c576cf0d-d31e-48b5-930b-5f20727d06fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/3955b69f-e79a-4d89-ba62-6936200867d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/75061948-2511-4682-9573-d4286d9e1b08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/6c01a682-5091-4be8-9d2c-67b9f53a921b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/e3157f09-c3ba-4521-82a1-0b21b07153ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/c34bb282-bb76-41b1-b948-7f20b98cc6b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/015855c7-dab3-438b-a9a2-1e073ae6eb95.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9ac1e37e-1704-45eb-8407-16631a53d6b1/37278582-867f-4a09-95bf-478048362e45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/99d7c4aa-3965-42bc-840f-830fe1caa206.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/6554a93a-6cb4-4d90-8ccd-f95d7c042154.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/b1d4f3a8-bcfa-4ea4-8b50-a649e0d5aef8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/651e0e79-b719-4e5b-80b0-b5e439498086.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b1809473-4e05-4ce5-b337-ee5bc8eb44e3/735b10cd-ba89-4379-b382-38e59003ee21.png"
+      ],
+      "expert_review": "For what has to .be a decade now, BMW’s been on a roll. Despite gripes from longtime loyalists, its gradual transition of priorities from “fun” to “funky” has apparently done nothing but endear the mass market, with the German automaker crowned the world’s bestselling luxury automaker in 2023 for the second year in a row. There really isn’t a sales stinker to be found in the brand’s sprawling lineup — at least, not anymore.\n\nThe first-generation X2 wasn’t the compact crossover wunderkind BMW expected, with surprisingly low sales over its run. Critics point to poor trim packaging and frumpy styling that might’ve left buyers cold or confused as to why they wouldn’t just slip into the more affordable and no-less-capable X1. Well, BMW is trying a different approach with the second-generation X2, fresh for the 2024 model year.\n\nRelated: 2024 BMW X2: A Little Less Little for a Lot More Money\n\n2024 BMW X2 M35i | Cars.com photo by Christian Lantry\nDistinctive Design\n\nSeeking differentiation, the X2 is now one of the funkier, spunkier Bimmers, leaning heavily on the uncategorical modern BMW design language that’s blocky, swept, angular and aggro all at once. In person — and especially when parked next to one — the new compact crossover is a sedated, scaled-down mini-me XM, with similar frontal gawp and bulky stance. Does it work? That’s not for me to say, but seeing as BMW’s “weird” is a winner, this might resonate with buyers more.\n\nJust two powertrains are available, both turbocharged 2.0-liter four-cylinder engines in different states of boost ‘n’ tune. They’re also tethered to your choice of two trims: The evocatively named xDrive28i scoots around with 241 horsepower, but the M35i’s 312 hp and 295 pounds-feet of torque is more intriguing.\n\n2024 BMW X2 M35i | Cars.com photo by Christian Lantry\nBack-Roads Barnstorming\n\nAnd lucky me — that was the trim on hand at a recent drive event hosted by the Midwest Automotive Media Association. I had roughly 30 minutes and 20 or so miles in the new X2, so I made the most of it and zipped around quiet Wisconsin farmland to the best of the M35i’s ability. Unsurprisingly, the combo of 312 hp and a standard seven-speed dual-clutch transmission leads to some modestly impressive pace, with the automaker claiming a 0-60 mph scramble in 5.2 seconds.\n\nYou can thank the 3,840-pound curb weight for not breaking into the fours, and for the M35i not quite being the BMW hot hatch the M Performance designation hints at. It seems silly to evaluate something so geared toward urban commuting as a pocket rocket, but that’s more or less how it’s positioned.\n\nA Porsche Macan S, this is not — but it’s still reasonably fun to kick around country roads; it pulls reasonably hard to and beyond highway speeds with little drop-off, rewarding a heavy foot and aggressive shifts with a quick blat from the quad pipes out back. It growls nicely, too, though I’m unsure what was piped in and what was organic.\n\n2024 BMW X2 M35i | Cars.com photo by Christian Lantry\n\nOther aspects of the driving experience are less exciting. Steering is light, quick and numb, but the exact thing can be said for BMW’s current M3 and M4 sedans, and there’s frankly little need for feelsome steering on something that will spend the majority of its time in inner-city traffic or poodling through suburbia. Brakes are beyond capable for commutes, and the transmission is smooth and rather “normal” in regular operation, belying the dual-clutch configuration.\n\nSo, the M35i is mostly fun when throttled and totally sedate when you’re just trying to get to your next parking spot. The same could be said about the last X2, but the new wrapper sets it apart. If it’s austerity and demure presentation you crave, stay a country mile away from the new X2; even by BMW standards, this is one of the most aggressively stylistic cabins I’ve seen in some time.\n\nMore From Cars.com:\n\n2024 BMW X2: The Coupe Gets More, Outside and In\n2024 BMW X1: BMW’s Small SUV Now Gets 312-HP M35i xDrive\n2024 BMW X1: Small SUV, Big Jump in Base Prices\n2023 BMW X1 Review: Tech-Focused Without the Fuss\nShop for a 2024 BMW X2\n2024 BMW X2 M35i | Cars.com photo by Christian Lantry\nTech-Centric Interior\n\nEver the master of materials and surfacing, BMW threw the whole darn cake at the new X2. Plastic is king, but the variety of both type and presentation is excellent, with distinct patterns and textures present on the majority of surfaces. There’s striking 3D-patterning on the dash, contrasted by speaker grilles cut in a basket-mesh pattern reminiscent of parquet floors.\n\nMake sure you peek in the storage areas and cupholders, where you’ll notice a fascinating molecular matrix motif on the base’s rubber pad. It’s all so sculptural (and very intentional). Along with all this avant-garde attitude, however, is real utility, with the semi-floating center console hiding tons of storage space for all of your crap and the cabin having a core organization that’s still conventional behind the artwork.\n\n2024 BMW X2 M35i | Cars.com photo by Christian Lantry\n\nWhat’s quickly becoming more conventional than ever before is the X2’s function digitization, with controls for the stereo, navigation and climate all handled by the expansive infotainment touchscreen. It’s not ideal for us analogs, but this current iteration of iDrive is impressively responsive, stylish and simple to navigate. Furthermore, frustrations ebb when you notice a physical volume thumbwheel nestled in the center console near the gear selector.\n\nI didn’t have enough time in the M35i to make a full statement on the fine points of its usability, but there was plenty of headroom for my 5-foot-11 frame both in front and seated behind myself. Thanks to ballooned exterior dimensions that are 7.6 inches longer, 0.8 inch wider and 2.5 inches taller than the SUV it replaces, BMW says there are not-insignificant improvements in shoulder and elbow room, as well as an extra inch of rear-seat knee room.\n\n2024 BMW X2 M35i | Cars.com photo by Christian Lantry\n\nIt’s a neat little crossover, but with a starting price of $52,395 (including destination), it’s tough to see who the X2 M35i is geared toward. Since it’s only $1,500 more than the less funky X1 M35i it’s based on, it’s best to think of it as a more dramatic, style-forward alternative, and it fills that role well.\n\nLet’s hope buyers take more notice the second time around.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$42000",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Coupe",
+          "price": "$51400",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/730761c1-43f4-4362-8bc6-3f9f75829d56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/188b03f8-3e35-4b50-9b3a-ef99464f73ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/31fbfb63-dc66-43aa-939a-0623ff497e4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/c8ba9bb3-3a9a-4e2d-bbb2-378e260729d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/c32110ee-86b0-4c9b-823d-b29b6b3e541e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/15e97eaa-bbaf-4eca-b67f-d69231cb366f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/a10c2923-73b5-47b5-be98-46495eace31a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/157f8415-2dd2-44ab-b980-7e7326c80edb.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/3824de50-6fb8-482c-8c2d-b3e64ff00052.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/a59d53d0-1234-4367-95bd-344d5e3af40b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/b3e2de57-0470-4145-9d43-f24bfd41a073.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/a45daede-1d8d-487e-a513-b00ff48ecc47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/848934cd-b8c9-4856-9af9-343de1373077.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/603d5015-c4ec-434a-b34d-7c6a01aaaa77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/b48adccc-2a18-4ed6-be5e-b264297b5918.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/5866b967-aea1-4140-9e35-6a58a3171d5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/aacb431c-ed59-4a3f-bee8-6f3f62dd5065.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/8c26405c-9dc4-4bfa-aad5-3e38fbe0984b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/ee647d86-fd4b-43e8-83b0-5d247f54edb4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/f55a8098-8853-4284-baeb-881df7413683.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/340bf9be-13c1-4c7a-835d-c6d308983d61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/56e1d962-a599-415a-9bf0-52c048e7291e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/3824de50-6fb8-482c-8c2d-b3e64ff00052.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/06c7a577-e3d9-419b-b6cf-4e7b692814f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/0dfc77a7-ead1-4a64-abf7-a352787033d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d09f81e7-77d2-4c09-8801-bd1801487fda/290772d5-3fe0-48bd-86a8-72545a50253b.png"
+      ],
+      "expert_review": "The BMW X2 sees minor updates for the 2025 model year. Heated front seats and a 5G data connection are now standard, and the Premium Package on the xDrive28i adds adaptive cruise control with stop-and-go functionality and the Active Driving Assistant suite of safety tech. In addition, a heated steering wheel is now a stand-alone option. \n\nRelated: BMW Announces 2025 Updates for 6 Models\n\nPricing and Availability\n\nThe 2025 BMW X2 is on sale now, and pricing (including the $1,175 destination charge) is as follows:\n\nxDrive28i: $44,025\nM35i xDrive: $53,475\nPowertrain Specs and MPG\n\nThe X2 xDrive28i is powered by a turbocharged 2.0-liter four-cylinder engine producing 241 horsepower and 295 pounds-feet of torque. It comes standard with all-wheel drive and a seven-speed dual-clutch automatic transmission. BMW estimates a 0-60 mph time of 6.2 seconds, and it gets an EPA-rated fuel economy rating of 24/33/28 mpg city/highway/combined.  \n\nThe more powerful X2 M35i xDrive features a version of the turbocharged 2.0-liter four-cylinder engine that’s tuned to 312 hp and 295 pounds-feet of torque. It also includes AWD and the same seven-speed dual-clutch automatic. The M35i accelerates from 0-60 in 5.2 seconds and achieves an estimated 23/32/26 mpg.  \n\nTrim Levels and Features\n\nThe X2 xDrive28i comes standard with synthetic leather upholstery, power-adjustable and heated front seats, and a power liftgate. The interior features BMW’s Curved Display that combines a 10.25-inch digital instrument cluster and 10.7-inch touchscreen. Wireless Apple CarPlay and Android Auto are included, along with a cloud-based navigation system, 5G data connection and voice control. Standard safety features include automatic emergency braking, blind spot monitoring, lane departure warning, rear cross-traffic alert, and front and rear parking sensors. Optional upgrades include a panoramic moonroof, Harman Kardon premium audio system and head-up display.  \n\nThe X2 M35i xDrive builds on the base variant with M-specific design elements and performance enhancements. It includes larger air intakes, a rear spoiler and quad exhaust tips. The cabin features M-specific trim, sport seats and an M-branded steering wheel. The M35i also comes with an adaptive suspension for improved handling, an upgraded braking system and larger 20-inch wheels for a sportier ride. Optional features include a dark exterior trim package, M Compound brakes and a heated steering wheel.\n\nMore From Cars.com:\n\n2024 BMW 750e Review: Riding in (Occasionally Silent) Style\nBMW Unveils Next-Gen In-Car Tech, Automated Valet Parking at CES\n2024 BMW X2: A Little Less Little for a Lot More Money\nIs the 2023 BMW iX M60 a Good Electric SUV? 5 Pros and 4 Cons\nMore BMW News\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$42850",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Coupe",
+          "price": "$52300",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/0bddbde7-a93c-4342-9164-a441d28568f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/f6fc7581-19dc-4492-9d2d-a35922d04138.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/3355eb68-fab0-455a-9b57-d6f5f5c152b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/2caed47f-e4e2-4661-82f5-9d23aa3c80a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/fe94f0b4-8546-401b-8480-2c9c5404589a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/6f130940-9ef7-4ca0-916e-f45a2f1912d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/d993f884-38d5-445d-90df-4eb78719dbee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/902c839c-8873-4bef-ba23-14ee2f4626eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/527b144c-5200-45b8-9157-e1f5ca25c9b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/499f6473-9c60-4a34-a1df-15db978885fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/173361bd-19e0-44a6-a165-eaef5c204aea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/e04b9c35-4e1a-4dc5-9173-28146e0821ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/6a6c51a1-a5ac-4b00-9926-ca0273abfd73.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/a2dce936-684c-40d2-b08c-49f30512da5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/0d27016c-c0f6-44e6-b6c7-e1478431c1f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/fa653e2d-7b9c-4412-90db-83f2735f3197.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/051e7fcc-4344-4564-b63d-b378cbc4093c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/13480379-9515-48a7-b3a3-2467a0549c4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/6992ec5a-d0d0-45bf-b595-61b27ee61989.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/0d774c97-08b4-4c24-b08c-b9135130f29f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/42580b5a-f2f9-44f2-af68-00ac79ed6d36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/e3993572-3b92-4711-8a93-d106b6b8647c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/9ab1be7c-498e-4324-b2e8-9cf56c3900d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/3a9dc8b1-0432-461d-85d4-aca9d5ccd38f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/5b90e8d1-ddc3-4f62-874c-4d000d440adc.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c613375d-585f-4671-b427-58b1f5320c87/300c45d3-261a-498a-82f0-3e070c597a5a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/b5437ac4-0478-48f1-9f87-6c7679e284eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/c4e4ce9b-938a-4198-a52e-21321ef11e71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/db94d734-d506-47d6-aafb-48b3fc97d537.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/f3100cdd-39c7-4db4-b243-7c8f7b595ea5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e2efa577-3366-42ca-aff0-4e7fda38f6f3/9f364df3-d2f7-4e18-afcb-c3ea953b8d4d.png"
+      ],
+      "expert_review": "What Is the 2021 BMW X2?\n\nThe subcompact BMW X2 uses the same platform as the German automaker’s boxier (and more practical) X1 SUV. The five-seat X2, however, has a more coupelike roofline, which gives it a sportier appearance. It’s powered by the same 228-horsepower, turbocharged 2.0-liter four-cylinder engine as the X1 and comes with an eight-speed automatic transmission and front- or all-wheel drive. A 301-hp, turbocharged 2.0-liter four-cylinder is available. Competitors include the Lexus UX,  Mercedes-Benz GLA-Class and Mini Clubman. \n\nWhat’s New on the 2021 BMW X2?\n\nSatellite radio is now standard, and M35i versions produced from November 2020 on get a new mesh grille. \n\nWhat Features in the 2021 BMW X2 Are Most Important?\n\nStandard features include: \n\nPower liftgate\nRain-sensing windshield wipers\nNavigation with an 8.8-inch touchscreen\nApple CarPlay smartphone connectivity \nForward collision warning with city collision mitigation\nLane departure warning\n\nAvailable features include: \n\nPanoramic moonroof\nWireless device charging\nHeated front seats \nHeated steering wheel\nHarman Kardon surround-sound system \nAdaptive cruise control with stop-and-go capability\nShould I Buy the 2021 BMW X2?\n\nThe BMW X2 is an intriguing mix of small SUV and, in M35i form, performance hatchback. Interior space is good considering its small size, but visibility is poor and power from the base engine is modest.",
+      "trims": [
+        {
+          "name": "sDrive28i Sports Activity Coupe",
+          "price": "$36600",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$38600",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Coupe",
+          "price": "$46450",
+          "specifications": {
+            "Notable features": [
+              "Five-seat subcompact SUV",
+              "Front- or all-wheel drive",
+              "228- or 301-hp, turbo four-cylinder engine",
+              "Eight-speed automatic transmission standard",
+              "Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "23 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "331 @ 1750 SAE Net Torque @ RPM",
+              "301 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,721 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/4b22bcc0-02ee-4c59-800e-05886281820a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/83b993cb-af4c-4db8-b728-ebcdc9e6e3ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/02037d07-d4f6-4fdf-b6ec-dd8a7c378c66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/7e5f199a-da42-429f-bc5e-48d0c5fb3f78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/ae64de61-476c-42a8-af1b-12dc7548989c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/d1a0fc90-fd2b-4161-aba7-c49c11602dec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/a14383d8-7a97-4e2c-8c61-b9de4f3cf421.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/a17eb212-1ff1-4093-8e3a-edcdacb5d5c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/e2515dfe-999d-4f83-862f-71523c1842bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/be53df3d-44b9-4c63-8291-3051ba4cd874.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/7b993c25-f717-4b47-a7e3-251a69d9043b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/a6973969-f485-46f3-b60d-260ee9c251bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/68fe85f5-50e2-4301-82c5-5a30f4ea1323.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/33b01771-df0f-4794-947a-9dbf0996e809.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/10c4b3f8-8449-4047-ae1d-d5624e710c20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/87852deb-b583-4b21-b3fc-cbd3210814fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/d7c84b2f-6c63-4837-a31d-3ebde9b416ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/0013fca3-e764-47ca-be2a-871e2c5d0985.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/c9ce5b44-39e2-4777-8324-cff5679d3d46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/c1e79674-d50f-4c95-8b33-8ac9ff8053f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/1ac5fdf0-586c-49cc-a9c1-458f31faac4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/ab04be46-196e-45ea-8b7b-2b24920a49e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/5b32d3b0-539e-4c9d-bc5b-85162d48e923.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/65c83bdb-f77d-4d51-9a21-35afca8d09f1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/68fe85f5-50e2-4301-82c5-5a30f4ea1323.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/398846b1-e5ee-47a2-9206-3cd4744ff90c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/57a56242-2c88-4e7f-80b0-15babdd378d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/e2f81f96-c779-435b-97ad-854c8d480482.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/ddf0f8ec-561d-4b5d-b63f-384093d0360a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/9a7bc7b5-781c-47f2-b835-a7c9a9c2cec3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/254e51d5-bb1f-4525-856a-1da0b236edfb/26e54a94-3333-4426-a397-8f1b4726b56a.png"
+      ],
+      "expert_review": "What Is the 2022 BMW X2?\n\nThe subcompact BMW X2 uses the same platform as the German automaker’s boxier (and more practical) X1 SUV. The five-seat X2, however, has a more coupelike roofline, which gives it a sportier appearance. It’s powered by the same 228-horsepower, turbocharged 2.0-liter four-cylinder engine as the X1 and comes with an eight-speed automatic transmission and front- or all-wheel drive. A 301-hp, turbocharged 2.0-liter four-cylinder is available. Competitors include the Mercedes-Benz GLA-Class, Lexus UX and Mini Clubman.\n\nWhat’s New on the 2022 BMW X2?\n\nThere are no significant changes this year.\n\nWhat Features in the 2022 BMW X2 Are Most Important?\n\nStandard features include:\n\nPower liftgate\nRain-sensing windshield wipers\nNavigation with an 8.8-inch touchscreen\nApple CarPlay smartphone connectivity\nForward collision warning with city collision mitigation\nLane departure warning\n\nAvailable features include:\n\nPanoramic moonroof\nWireless device charging\nHeated front seats\nHeated steering wheel\nAdaptive cruise control with stop-and-go capability\nLane-keeping assist\nShould I Buy the 2022 BMW X2?\n\nThe BMW X2 is an intriguing mix of small SUV and, in M35i form, performance hatchback. Interior space is good considering its small size, but visibility is poor and power from the base engine is modest.",
+      "trims": [
+        {
+          "name": "sDrive28i Sports Activity Coupe",
+          "price": "$36600",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$38600",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Coupe",
+          "price": "$46450",
+          "specifications": {
+            "Notable features": [
+              "Five-seat subcompact SUV",
+              "Front- or all-wheel drive",
+              "228- or 301-hp, turbo four-cylinder engine",
+              "Eight-speed automatic transmission standard",
+              "Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "23 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "301 @ 5000 SAE Net Horsepower @ RPM",
+              "331 @ 1750 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "3,721 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/7c0b8d30-c3ed-47fc-81a0-b06e614498ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/45eb4857-3bcf-4f9a-a200-ae0add53319a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/c70cc683-925e-4a9c-91b6-0fe99e16498b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/3123addf-e20b-4acb-b035-dd36a1077bc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/2145bb91-9034-466d-935c-29844216c42d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/c70d5e3b-02cb-450d-b08b-8ea63eefb45a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/8cc6cf43-50be-4b56-804a-0e8ebcb45c5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/dac8429c-6514-4464-b4d0-209c0ef7dd8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/8ae1731c-5a7d-4948-b012-67bd00d6fdb7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/cafba076-2e9c-41bf-ac58-f64a505cd5e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/57915a93-cfe0-4c47-8506-af18c0a2ea8c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/91248ad6-67e9-4f8d-9b58-69968b412c11/6ca3dd4a-c377-4c08-89b5-a7f1630bf912.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/f5b3dff4-f876-42a5-bd2f-5b15cdf14db8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/92f5dae9-4444-434a-8742-0da4c4372daa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/d4afc717-14b0-4b4f-83d5-d29d5232ca18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/993b665d-c1f2-4da0-a588-3e8c843424a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/c2766e88-15d7-442c-9af4-a8385fa06f21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/e9806b27-9e30-439f-a74f-74b22998b8c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/a0ce9403-98aa-4d1c-91f3-1e96633638d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/47075fbb-932f-44d8-9cc5-b8c7f24fa832.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/e160f74d-1979-450b-951a-8d3bd0bfbdc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/4e694268-d0ae-43ad-b6a1-de3f2383b533.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/ce8b1839-824a-47ca-8b2b-7192c295c5b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/b8b6b5a4-a8e9-4027-976a-c3283abc589b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/664ba4cb-ef2a-4071-9765-579b4e7802a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/b47b319d-adeb-44d1-b7ec-4027281af58e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/c48e90dd-7dcb-45d1-8c67-149b23cae8bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/12621410-fbf1-4839-a3aa-75f5b639598c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/c56220e3-e4e4-4408-99ff-0e719b116c96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/44357ce4-5eed-4a56-a14e-0c6acecc4426.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b44fe3f-d213-4781-8deb-e396e88fe90a/31557be1-55e3-4190-aaaa-7918e75dd843.png"
+      ],
+      "expert_review": "The latest product of BMW’s obsession with filling in all of the numbers of its SUV lineup is the 2018 X2. The X2 becomes the sixth SUV, and its seventh, the three-row X7, is just around the corner. But in my time with the X2, I found myself asking the same question over and over again: “Is the X2 really an SUV?”\n\nBMW may not think so, calling the X2 a “sports activity coupe” to differentiate from a “sports activity vehicle,” as it refers to its odd-numbered SUVs. Looking at the X2 is equally confusing, with its sloped roofline and low overall height. This makes it look like a hatchback and an SUV in equal parts once you factor in the aggressive lower body cladding found on each side. I’ll say this for the X2: I think it’s much better looking than its even-numbered counterparts, the X4 and X6.\n\nLike the other even-numbered X vehicles, the X2 is closely associated with an odd-numbered model, in this case the X1. Put the two next to each other and they have plenty in common, from powertrains to nearly identical interior layouts. Beyond its more aggressive roofline, the X2 is also smaller dimensionally despite having the same wheelbase: It’s both shorter in length (3.2 inches) and lower (2.8 inches), which gives it less cargo room (21.6 versus 27.1 cubic feet) and slightly less occupant room. Compare the two vehicles here.\n\nMy confusion over the proper categorization of the X2 is probably overwrought, but the questions it raises are legitimate: Can the X2 get the job of an SUV done? Can it be both practical like an SUV and fun to drive like a car as BMW claims?\n\nHow It Drives\n\nThe X2’s strength lies in its driving experience — specifically its handling. My test vehicle came equipped with the optional M Sport suspension, part of a large M SportX Package that also includes a sport transmission, sport seats and a more aggressive exterior look. The suspension lowers the X2 by 0.4 inch, as does an available adaptive variable suspension, which can change the firmness of the shocks in real time.\n\nBehind the wheel, the X2 feels much more like a car than an SUV — driving it reminded me of BMW’s 3 Series sedan, though it’s not quite as nimble as the 2 Series coupe with which it shares a number. For those who like a heavier steering feel (as I do), the X2 has it when compared with vehicles from Audi or Lexus.\n\nThe X2’s composure holds up, even on a track. I was expecting more body roll and unease from the suspension when taking corners at speed, but it’s a surprisingly neutral car that handled sweeping high-speed turns and sharper corners alike with gusto. It’s a legitimately fun vehicle to drive if you can get it out on a decent road.\n\nIf there’s one slight weakness to the driving experience, it’s the powertrain. Under the hood is a familiar engine that’s used up and down the BMW lineup, a 228-horsepower, turbocharged 2.0-liter four-cylinder that makes 258 pounds-feet of torque. There is only one available transmission (an eight-speed automatic), and the X2 is available in both front- (sDrive28i) and all-wheel drive (xDrive28i) versions. Those who want AWD will have to fork over an extra $2,000 for the privilege. EPA fuel-economy figures are rated at 23/32/26 mpg city/highway/combined for FWD models and AWD models slightly behind at 21/31/25 mpg.\n\nThis engine is a staple in the BMW lineup, and I’ve found that it often feels underrated in other cars I’ve tested — but not so in the X2. Acceleration takes an extra beat to really pick up. Tossing the X2 into Sport mode helps temper that, but Sport mode makes the throttle a bit too twitchy for most occasions and day-to-day driving. It’s not that the powertrain is bad; it has more than adequate power for merging and passing. But what happens is that the rest of the X2’s driving experience was so proficient, I spent much of the time imagining the things I could do with 50 more horsepower and get wistful. An xDrive35i or xDrive40i version of the X2 would be a welcome addition.\n\nInterior\n\nThe X2 doesn’t break any new ground for BMW with its interior, as I mentioned. BMW’s iDrive multimedia system has improved incrementally throughout its lifetime, so it now is an easily usable (and, perhaps more importantly, customizable) system. The ability to change the main screen to fit the functions that you use most often is a big plus.\n\nIt’s also a big plus that the X2 comes as a 2018 model and not a 2019, which means that if you want Apple CarPlay, it’s offered as a one-time $300 option rather than the subscription-based service that BMW is starting with its 2019 models. In the latter case, it would cost $80 to use per year after the first year for free.\n\nThe X2’s standard upholstery is imitation leather that isn’t on the par of Lexus, but it feels premium enough to not be out of place in a luxury vehicle. If you want the real thing, it’s available but as an option for $1,450.\n\nThe X2, much like the X1, does come with enough space for two adults to fit in the backseat, but the fit would get cramped with a third person in the middle. Legroom is what I would call adequate, but it can be negotiated with front occupants assuming relations are good. The backseat headroom is more generous than the legroom, though the shorter roofline and the cut of the windows puts the opening a bit below the line of sight for taller passengers and makes it feel more cramped than it actually is. The available panoramic moonroof helps with this; the cabin feels quite open and the glass reaches back for enough to easily be seen by backseat occupants.\n\nYou Can Hit What You Can’t See\n\nVisibility is a weakness for the X2, starting with that thin rear glass that pinches down smaller than the rearview mirror’s field of view.\n\nThat wide C-pillar, which has a prominent BMW logo on both sides of the car in homage to BMW coupes of old, combines with the upward sloping beltline below the windows to create large blind spots. I get the feeling that BMW stuck those extra logos on the C-pillars to hide their size when seen from the outside, but from inside the car, they just seem intrusive. Luckily, the window doesn’t kink up so much that it cuts into visibility for backseat passengers too much, but the X2 doesn’t have an expansive field of vision like the 2019 Volvo XC40 has.\n\nIt’s worth mentioning that the X2 is not alone in this class for having visibility woes. Two direct competitors, the Mercedes-Benz GLA-Class and Infiniti QX30, also suffer greatly from this problem, and both of those models also have smaller backseats that increase their claustrophobia quotients beyond that of the X2, which has decent room for its footprint.\n\nValue Problems\n\nThe X2 drives well enough to be of some intrigue, but I think that what leads me to struggle the most with it is its value proposition. My test vehicle was pretty well-equipped, with heated front seats, front and rear parking sensors, a wireless charging pad, 19-inch alloy wheels and a Harman Kardon sound system. But that came at a cost, bumping the X2’s base price for AWD versions from $39,395 all the way up to $50,920. Most of that comes from the addition of the M SportX Package I mentioned above, which adds $4,650 to the price tag all by itself.\n\nTo put this price in some further perspective, our price range for the 2018 Luxury Compact SUV Challenge was $50,000, plus or minus $3,000. The X2 sits right among those vehicles, but it’s a class smaller with less room and utility. If those are a priority for you, it’s hard to make a case for the X2 when you can spend just as much and get more passenger and cargo room.\n\nThe X2 also feels light on features for that price, especially in the safety department. It did come with the $700 Driving Assistance Package that comes with lane departure warning, automatic forward emergency braking, speed limit information and automatic high beams. But if you also want adaptive cruise control? That’s another $1,000. Parking sensors — important since the X2 is hard to see out of and doesn’t offer a 360-degree camera system — will set you back another $800. And if you want blind spot warnings? Lane keep assist? Tough. Not on this car.\n\nThe X2 also gets undercut by much of its competition — including the X1, which starts at $2,500 less and offers more passenger and cargo room. A look at the competitive set is also illuminating. Take for example the new Volvo XC40: I tested one just last month that had a much lower price ($44,315) and was better equipped, including all of the safety features I mentioned above (even the ones the X2 doesn’t offer) and excellent passenger room. It also has really good visibility. Compare the X2 with the XC40 and aforementioned Mercedes-Benz GLA and Infiniti QX30 and you’ll also see a stark difference in their starting prices.\n\nUltimately, the X2 ends up being a tweener vehicle. It’s not quite practical enough to compete with the SUVs and not quite sporty enough to compete with the sports cars. But if what you’re looking for is a compromise between fun and utility, then the X2 has some merit — it’s not a bad thing to look for some fun with a dose of added practicality. There aren’t many vehicles in this class that can hold up on a track, and I’ll be the first in line to get a crack at an M version of the car when it comes rolling through.\n\nI just wish you could get it all for $5,000 less.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "sDrive28i Sports Activity Vehicle",
+          "price": "$36400",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive28i Sports Activity Vehicle",
+          "price": "$38400",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Vehicle",
+          "price": "$46450",
+          "specifications": {
+            "Notable features": [
+              "Newly standard active safety features",
+              "Navigation, Apple CarPlay now standard",
+              "New 302-hp M35i version",
+              "Five-seat subcompact SUV",
+              "Front- or all-wheel drive",
+              "Eight-speed automatic standard"
+            ],
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 1750 SAE Net Torque @ RPM",
+              "302 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,721 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/a603db46-cb53-42ff-ba15-09b1008a95d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/4fae569c-15b6-4f5f-b60f-f61159efd940.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/c6ce9207-06e9-44f7-9738-685db0cd1771.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bc35ec71-103f-458d-87c3-4feeceb7d34d/acf4ede4-e94d-4516-b7fe-e40e0cfe2c3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/43f1b95d-2699-4775-95af-29df081c6869.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/a61b2089-9367-4e12-8dfa-0c9ba65165f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/06e618c3-fce9-480d-885b-a3b0b76197e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/fda7edd1-8acc-4884-babe-00d3e88e03bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/f089a7a7-a99f-4240-af1a-57d41bf9ab27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/ee9724f0-92f3-444e-be85-f3064b2ffc57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/6925a85e-4f1e-4a4d-b177-50c8de737fd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/93278053-1ea8-4a30-8217-80adceb12614.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/6332de03-0fff-43d5-9821-1802674acbb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/d7c7948e-cc81-4ad6-86ab-ba12021f7219.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/938cb800-9b9f-46aa-b352-edd550685ea4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/b22edcc9-c7e7-4a99-83d9-1fdd670aa88f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/d2ee6707-12d5-472e-8fef-1bd608410183.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/161055af-3bbd-4356-aaf7-f02971e33143.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/041cd094-7ee3-4bdf-ac24-358da00be501.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/d5541a47-8a77-421c-8124-4d9c85da86f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/01932060-04a9-447c-904c-b434a783cc90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/d279db95-e9b2-4742-8686-40190cffd71c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/1dcc83eb-1a4b-4026-8c66-1d4e302fa714.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/f9ded690-9770-4c48-a641-1cf42c970e24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/1f68eaad-f364-49e9-b811-0ec4327457d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/7c5da0cf-5c80-42eb-b707-7b2cdb6834a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/1176b095-e133-4cea-b202-82ae344a98f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/c5998931-a388-49a2-a411-a436dcf9aae0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/4180a822-2fcd-4409-8173-9f85802ad300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/cf23c973-003a-4627-9487-cfa93c4d13e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea51b612-7384-462e-ad04-e30908cbeebd/412d787e-3a84-4925-a2c8-2de5afce9f3e.png"
+      ],
+      "expert_review": "The latest product of BMW’s obsession with filling in all of the numbers of its SUV lineup is the 2018 X2. The X2 becomes the sixth SUV, and its seventh, the three-row X7, is just around the corner. But in my time with the X2, I found myself asking the same question over and over again: “Is the X2 really an SUV?”\n\nBMW may not think so, calling the X2 a “sports activity coupe” to differentiate from a “sports activity vehicle,” as it refers to its odd-numbered SUVs. Looking at the X2 is equally confusing, with its sloped roofline and low overall height. This makes it look like a hatchback and an SUV in equal parts once you factor in the aggressive lower body cladding found on each side. I’ll say this for the X2: I think it’s much better looking than its even-numbered counterparts, the X4 and X6.\n\nLike the other even-numbered X vehicles, the X2 is closely associated with an odd-numbered model, in this case the X1. Put the two next to each other and they have plenty in common, from powertrains to nearly identical interior layouts. Beyond its more aggressive roofline, the X2 is also smaller dimensionally despite having the same wheelbase: It’s both shorter in length (3.2 inches) and lower (2.8 inches), which gives it less cargo room (21.6 versus 27.1 cubic feet) and slightly less occupant room. Compare the two vehicles here.\n\nMy confusion over the proper categorization of the X2 is probably overwrought, but the questions it raises are legitimate: Can the X2 get the job of an SUV done? Can it be both practical like an SUV and fun to drive like a car as BMW claims?\n\nHow It Drives\n\nThe X2’s strength lies in its driving experience — specifically its handling. My test vehicle came equipped with the optional M Sport suspension, part of a large M SportX Package that also includes a sport transmission, sport seats and a more aggressive exterior look. The suspension lowers the X2 by 0.4 inch, as does an available adaptive variable suspension, which can change the firmness of the shocks in real time.\n\nBehind the wheel, the X2 feels much more like a car than an SUV — driving it reminded me of BMW’s 3 Series sedan, though it’s not quite as nimble as the 2 Series coupe with which it shares a number. For those who like a heavier steering feel (as I do), the X2 has it when compared with vehicles from Audi or Lexus.\n\nThe X2’s composure holds up, even on a track. I was expecting more body roll and unease from the suspension when taking corners at speed, but it’s a surprisingly neutral car that handled sweeping high-speed turns and sharper corners alike with gusto. It’s a legitimately fun vehicle to drive if you can get it out on a decent road.\n\nIf there’s one slight weakness to the driving experience, it’s the powertrain. Under the hood is a familiar engine that’s used up and down the BMW lineup, a 228-horsepower, turbocharged 2.0-liter four-cylinder that makes 258 pounds-feet of torque. There is only one available transmission (an eight-speed automatic), and the X2 is available in both front- (sDrive28i) and all-wheel drive (xDrive28i) versions. Those who want AWD will have to fork over an extra $2,000 for the privilege. EPA fuel-economy figures are rated at 23/32/26 mpg city/highway/combined for FWD models and AWD models slightly behind at 21/31/25 mpg.\n\nThis engine is a staple in the BMW lineup, and I’ve found that it often feels underrated in other cars I’ve tested — but not so in the X2. Acceleration takes an extra beat to really pick up. Tossing the X2 into Sport mode helps temper that, but Sport mode makes the throttle a bit too twitchy for most occasions and day-to-day driving. It’s not that the powertrain is bad; it has more than adequate power for merging and passing. But what happens is that the rest of the X2’s driving experience was so proficient, I spent much of the time imagining the things I could do with 50 more horsepower and get wistful. An xDrive35i or xDrive40i version of the X2 would be a welcome addition.\n\nInterior\n\nThe X2 doesn’t break any new ground for BMW with its interior, as I mentioned. BMW’s iDrive multimedia system has improved incrementally throughout its lifetime, so it now is an easily usable (and, perhaps more importantly, customizable) system. The ability to change the main screen to fit the functions that you use most often is a big plus.\n\nIt’s also a big plus that the X2 comes as a 2018 model and not a 2019, which means that if you want Apple CarPlay, it’s offered as a one-time $300 option rather than the subscription-based service that BMW is starting with its 2019 models. In the latter case, it would cost $80 to use per year after the first year for free.\n\nThe X2’s standard upholstery is imitation leather that isn’t on the par of Lexus, but it feels premium enough to not be out of place in a luxury vehicle. If you want the real thing, it’s available but as an option for $1,450.\n\nThe X2, much like the X1, does come with enough space for two adults to fit in the backseat, but the fit would get cramped with a third person in the middle. Legroom is what I would call adequate, but it can be negotiated with front occupants assuming relations are good. The backseat headroom is more generous than the legroom, though the shorter roofline and the cut of the windows puts the opening a bit below the line of sight for taller passengers and makes it feel more cramped than it actually is. The available panoramic moonroof helps with this; the cabin feels quite open and the glass reaches back for enough to easily be seen by backseat occupants.\n\nYou Can Hit What You Can’t See\n\nVisibility is a weakness for the X2, starting with that thin rear glass that pinches down smaller than the rearview mirror’s field of view.\n\nThat wide C-pillar, which has a prominent BMW logo on both sides of the car in homage to BMW coupes of old, combines with the upward sloping beltline below the windows to create large blind spots. I get the feeling that BMW stuck those extra logos on the C-pillars to hide their size when seen from the outside, but from inside the car, they just seem intrusive. Luckily, the window doesn’t kink up so much that it cuts into visibility for backseat passengers too much, but the X2 doesn’t have an expansive field of vision like the 2019 Volvo XC40 has.\n\nIt’s worth mentioning that the X2 is not alone in this class for having visibility woes. Two direct competitors, the Mercedes-Benz GLA-Class and Infiniti QX30, also suffer greatly from this problem, and both of those models also have smaller backseats that increase their claustrophobia quotients beyond that of the X2, which has decent room for its footprint.\n\nValue Problems\n\nThe X2 drives well enough to be of some intrigue, but I think that what leads me to struggle the most with it is its value proposition. My test vehicle was pretty well-equipped, with heated front seats, front and rear parking sensors, a wireless charging pad, 19-inch alloy wheels and a Harman Kardon sound system. But that came at a cost, bumping the X2’s base price for AWD versions from $39,395 all the way up to $50,920. Most of that comes from the addition of the M SportX Package I mentioned above, which adds $4,650 to the price tag all by itself.\n\nTo put this price in some further perspective, our price range for the 2018 Luxury Compact SUV Challenge was $50,000, plus or minus $3,000. The X2 sits right among those vehicles, but it’s a class smaller with less room and utility. If those are a priority for you, it’s hard to make a case for the X2 when you can spend just as much and get more passenger and cargo room.\n\nThe X2 also feels light on features for that price, especially in the safety department. It did come with the $700 Driving Assistance Package that comes with lane departure warning, automatic forward emergency braking, speed limit information and automatic high beams. But if you also want adaptive cruise control? That’s another $1,000. Parking sensors — important since the X2 is hard to see out of and doesn’t offer a 360-degree camera system — will set you back another $800. And if you want blind spot warnings? Lane keep assist? Tough. Not on this car.\n\nThe X2 also gets undercut by much of its competition — including the X1, which starts at $2,500 less and offers more passenger and cargo room. A look at the competitive set is also illuminating. Take for example the new Volvo XC40: I tested one just last month that had a much lower price ($44,315) and was better equipped, including all of the safety features I mentioned above (even the ones the X2 doesn’t offer) and excellent passenger room. It also has really good visibility. Compare the X2 with the XC40 and aforementioned Mercedes-Benz GLA and Infiniti QX30 and you’ll also see a stark difference in their starting prices.\n\nUltimately, the X2 ends up being a tweener vehicle. It’s not quite practical enough to compete with the SUVs and not quite sporty enough to compete with the sports cars. But if what you’re looking for is a compromise between fun and utility, then the X2 has some merit — it’s not a bad thing to look for some fun with a dose of added practicality. There aren’t many vehicles in this class that can hold up on a track, and I’ll be the first in line to get a crack at an M version of the car when it comes rolling through.\n\nI just wish you could get it all for $5,000 less.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "sDrive28i Sports Activity Coupe",
+          "price": "$36400",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive28i Sports Activity Coupe",
+          "price": "$38400",
+          "specifications": {}
+        },
+        {
+          "name": "M35i Sports Activity Coupe",
+          "price": "$46450",
+          "specifications": {
+            "Notable features": [
+              "Five-seat subcompact SUV",
+              "Front- or all-wheel drive",
+              "228- or 302-hp turbo four-cylinder engine",
+              "Eight-speed automatic transmission standard",
+              "Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "23 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "331 @ 1750 SAE Net Torque @ RPM",
+              "301 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,721 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

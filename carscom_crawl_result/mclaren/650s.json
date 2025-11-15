@@ -1,0 +1,127 @@
+{
+  "make": "mclaren",
+  "model": "650s",
+  "years": {
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5c30151e-c52c-42ed-8152-41f26ecc974a/6edd1b54-4d7f-461d-9652-60b8ee223285.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/1d9928b6-445b-40bd-908f-10d3f9129d1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/ea113d8d-d221-4767-9cd1-aa28d63513d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/e733f4e4-eb4b-4b45-bcc9-4dae9e1001aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/28258b63-f921-45b8-9a82-28bbad0f68db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/704b3407-ac84-43d3-b527-852c7dfea301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/b804006a-064a-4127-bc6e-b7985c2a4e1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2755008-16ac-4214-87a3-f791189825b2/339f2b4d-ded1-45d9-bdd0-73affb4d1247.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe",
+          "price": "$265500",
+          "specifications": {
+            "Highlights": [
+              "16 City / 22 Hwy MPG",
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.8 L/232 Displacement",
+              "641 @ 7250 SAE Net Horsepower @ RPM",
+              "500 @ 3000 SAE Net Torque @ RPM",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,148 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv Spider",
+          "price": "$280225",
+          "specifications": {
+            "Highlights": [
+              "16 City / 22 Hwy MPG",
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "500 @ 3000 SAE Net Torque @ RPM",
+              "641 @ 7250 SAE Net Horsepower @ RPM",
+              "3.8 L/232 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,236 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,779 @@
+{
+  "make": "audi",
+  "model": "e_tron_sportback",
+  "years": {
+    "2020": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Premium Plus quattro",
+          "price": "$77400",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "414 SAE Net Torque @ RPM",
+              "355 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,754 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Prestige quattro",
+          "price": "$77400",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "355 SAE Net Horsepower @ RPM",
+              "414 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "5,754 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6ec822d6-5ec8-404a-93ac-3187cedacf4d/68170c34-9143-4c9e-9708-e70031ccf9e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6ec822d6-5ec8-404a-93ac-3187cedacf4d/dc3e54d7-c599-4d20-a623-e3213cc46363.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6ec822d6-5ec8-404a-93ac-3187cedacf4d/99ff4a4a-54fd-457c-8676-956ae78741cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6ec822d6-5ec8-404a-93ac-3187cedacf4d/3cdc8f48-690f-4990-b75d-9b7fdb2ceba2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6ec822d6-5ec8-404a-93ac-3187cedacf4d/99ff4a4a-54fd-457c-8676-956ae78741cd.png"
+      ],
+      "expert_review": "What Is the 2023 Audi E-Tron?\n\nThe Audi E-Tron and E-Tron Sportback are five-seat electric SUVs that put an emphasis on driving comfort and superb cabin quality. Each comes standard with all-wheel drive and a dual-motor electric powertrain that produces 355 horsepower and 414 pounds-feet of torque. The Sportback looks, well, sportier thanks to its tapered roofline, but the E-Tron and Sportback are identical in how they drive. The more powerful S versions nudge output to an impressive 496 hp and 718 pounds-feet of torque; however, EPA-estimated range for the S drops to a maximum of 212 miles in the S and 208 miles in the S Sportback. The regular E-Tron’s 226-mile range already trails rivals like the Ford Mustang Mach-E, Jaguar I-Pace, and Tesla’s Model X and Model Y.\n\nWhat’s New on the 2023 Audi E-Tron?\n\nOrange brake calipers, 22-inch alloy wheels, LED matrix headlights and rear side airbags are now standard on the E-Tron Sportback in its range-topping Prestige trim. Those LED lights, along with carbon-fiber cabin trim, are newly standard on the E-Tron S and E-Tron Sportback S.\n\nWhat Features in the 2023 Audi E-Tron Are Most Important?\n\nStandard features include:\n\nAll-wheel drive\n10.1-inch infotainment screen\n8.6-inch screen for climate controls\nApple CarPlay and Android Auto\nAmazon Alexa\nLeather seating\nHeated front seats\nNavigation\nSatellite radio\nBlind spot warning\nRear cross-traffic alert\nAutomatic high-beam headlights\n\nAvailable features include:\n\nAdaptive cruise control\n22-inch alloy wheels\nHeated and ventilated front seats\nBang & Olufsen audio system\nSurround-view parking camera\nHead-up instrument display\nPower soft-close doors\nShould I Buy the 2023 Audi E-Tron?\n\nThe 2023 Audi E-Tron and E-Tron Sportback are electric SUVs for car shoppers concerned with shouting to the world that they’re driving an EV. With a conservative exterior design, the E-Tron is a comfortable, smooth-running electric SUV that delivers a strong roster of standard tech and convenience features. It’s a shame the E-Tron’s driving range falls short of most direct rivals’ — and while we’re being picky, the front trunk is also tiny. Still, if you don’t mind its range limitations, the E-Tron is worth a test drive.",
+      "trims": [
+        {
+          "name": "S line Premium Plus quattro",
+          "price": "$74000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Available Sportback version with fastback roof",
+              "226-mile maximum range",
+              "496 horsepower (S)"
+            ],
+            "Highlights": [
+              "225 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "355 SAE Net Horsepower @ RPM",
+              "414 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "5,787 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Optional Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "380 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "S line Prestige quattro",
+          "price": "$74000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Available Sportback version with fastback roof",
+              "226-mile maximum range",
+              "496 horsepower (S)"
+            ],
+            "Highlights": [
+              "225 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "355 SAE Net Horsepower @ RPM",
+              "414 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,787 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Optional Lane Departure Warning",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "380 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium quattro",
+          "price": "$74000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Available Sportback version with fastback roof",
+              "226-mile maximum range",
+              "496 horsepower (S)"
+            ],
+            "Highlights": [
+              "225 - 242 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "355 SAE Net Horsepower @ RPM",
+              "414 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,787 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "380 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/a496af3f-4736-47eb-a843-0b3403e4fecf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/79676a74-2ea8-4bcb-9c24-aca33f29a609.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/a57e4bbb-7e54-4d41-aa38-155d4195591c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/89fd8b9f-496d-464b-b234-d0614b7b31c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/396c3e37-c9f0-4257-95e5-18a20b6a6668.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/c625dcd4-5d8e-496c-aae9-afd1d3774e1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/f701dc01-d4af-4045-918c-8376642b4adc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/1f6e3838-bc8e-4e3d-84a3-d5b73e40bc24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/d36b06ce-cfe1-47a8-a898-c33c9eb4cfc7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c43dbf82-b748-4f39-8c1c-01e00a8208c7/04830a5d-1b66-4553-a3c2-60d77a13404e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/5f0250a9-c64c-4faf-ad2f-820b480cb95a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/a0fe3fff-3794-4d46-bdc8-29c4f739d111.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/78f27a1b-bebb-4e63-864c-55d299bac49f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/5557e199-7405-4c22-a60a-d3ab0bf8f58d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/f71113ab-a6cb-4fba-aa46-a0b51490237a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/be0db2fc-abcf-4486-b16d-f41bb8aa4587.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/1e26a2ae-8189-4483-be2f-311d3839f5da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/75c93ef0-e9aa-48c1-8178-f25eb988f988.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/b4e593c6-4284-4f5e-8d7c-14484f1fea7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/6d48c67d-ddde-4729-ac43-e0316820c608.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/bfcb1184-28cc-4cd9-9fd2-baf07aeaa6ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/90c3898d-6d21-42f9-bcf9-eb8f62a22e64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/df0d4914-9d65-4e18-a93f-186b1db4f359.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/bcf1a1c4-2170-4a34-8028-bae02358264f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/65b9dcc6-15c9-4fb2-87f1-1ce658d104c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/9fb76712-61d3-49f2-8812-13b44d71ae14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/8a6313c7-29a4-47fe-8030-581d440b47e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/ca3ac0d6-4f4f-4869-90cc-f761c7977baa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/2912fe8f-505c-408a-871f-5c2fdb0bc856.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/3128a211-3e8b-4f02-8350-b27bcef02b9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/34661669-4728-47c5-92d2-fdbd2842d379/caeb01ea-b185-4e46-840d-0a05e130e973.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S line Premium quattro",
+          "price": "$69100",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "355 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "414 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,787 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "380 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium Plus quattro",
+          "price": "$69100",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "414 SAE Net Torque @ RPM",
+              "355 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "5,787 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "380 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Prestige quattro",
+          "price": "$69100",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "414 SAE Net Torque @ RPM",
+              "355 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,787 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/f2e14247-f908-4aed-8249-7c6c83e7f528.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/e04cfabc-d83a-46d4-81c9-b3e97da76bd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/2eeff154-57c8-4097-9761-22f9bf0ce2c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/19f382c3-d6ea-4d4c-9af6-3dc90fdf5686.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/71f4ea82-9e14-4ef1-9bd1-085bfbacad63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/912ede2a-0a84-4cc6-a4fc-a342d40b3ae0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b047193c-f808-4e07-8410-f6539eeab8e3/c613397d-9fb6-42b1-a468-3949ff17b439.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/04732b65-e0b4-4622-bc2d-29e8979df774.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/81d5f925-dc24-4cd2-b2ce-b57cdb9a6b6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/a44a5846-a879-4289-9648-f4f69eac2f72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/5d62034a-60d8-4387-ac10-15e34849f8d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/fe36fca3-6e1c-4914-a56a-1b448e676cce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/08771c76-b2e1-47dc-b658-755b349e4755.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/31e6df2c-a1ab-48bb-9372-f6aa0b0e5873.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/60abf260-db1e-46fe-8b78-30786d9879c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/b2ceb3bc-3ec9-432c-9ec9-1142035f3da0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/c40eb3a8-72d8-427d-82e2-c13721c1b2e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/4ccecc1b-803e-4cf5-8a93-4de1e6cebd58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/e6320b4b-8573-49bd-9932-0e2896352fc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/bbcc2ecc-c721-48b3-875c-37b3e3f3ca4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/6f722133-be7c-4818-b501-aebb552da871.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/ad13cf0a-9b2c-4725-8fab-ee74b97f9171.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/c6232cbf-92fb-453d-8352-3bdd0992106a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/cead9b22-ed62-4cb5-90f7-10fd7bbfdc0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/a5110428-37d3-4f81-9a96-9717a790cc69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/b9c52d6a-2147-4fd8-a335-0ca9c7ca5c83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/90b6a8e3-620e-4922-9f70-7d4ed5018441.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/0dc6c0c8-45f3-46e7-91c1-241c2dab49e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/22dde278-2113-417b-bbb3-06b14fb31919.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/0a6f8cc5-7537-4c38-9174-43efb740b4e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d31943b3-8897-4629-a25f-e0256d0c64a1/a737dec2-6325-4e12-babf-d594adc5d181.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Premium quattro",
+          "price": "$69100",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "414 SAE Net Torque @ RPM",
+              "355 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,721 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Prestige quattro",
+          "price": "$69100",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "355 SAE Net Horsepower @ RPM",
+              "414 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "5,721 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus quattro",
+          "price": "$69100",
+          "specifications": {
+            "Highlights": [
+              "218 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "355 SAE Net Horsepower @ RPM",
+              "414 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,721 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

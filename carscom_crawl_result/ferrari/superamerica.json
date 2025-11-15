@@ -1,0 +1,17 @@
+{
+  "make": "ferrari",
+  "model": "superamerica",
+  "years": {
+    "2005": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_299999",
+          "price": "$299999",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

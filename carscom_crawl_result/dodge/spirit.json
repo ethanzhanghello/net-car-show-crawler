@@ -1,0 +1,57 @@
+{
+  "make": "dodge",
+  "model": "spirit",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b7fce73b-5b21-49d6-94d1-3444a03963fd/078fb5de-af6e-414e-93cf-3f12218a7c29.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan Base",
+          "price": "$11941",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan ES",
+          "price": "$14715",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7162beeb-db1a-4d8c-a568-a69b9fe44858/fb88e709-7987-40be-9ae7-51c774eb1e44.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Hatchback VL",
+          "price": "$10469",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan",
+          "price": "$11470",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan LE",
+          "price": "$13530",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan ES",
+          "price": "$14441",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan R/T",
+          "price": "$18674",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

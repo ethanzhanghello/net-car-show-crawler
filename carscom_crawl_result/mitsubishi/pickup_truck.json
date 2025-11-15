@@ -1,0 +1,93 @@
+{
+  "make": "mitsubishi",
+  "model": "pickup_truck",
+  "years": {
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0250e39b-a041-41a4-b62f-a59b5a23739e/c701b1d6-2ebe-4c0a-8f6a-50d5c6e526fa.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/160cdd8e-495d-4707-9dee-918205c67c3b/6a86e27e-437a-456c-8499-ed2c1786ea47.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Mighty Max 5-Spd",
+          "price": "$8539",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max Macrocab 5-Spd",
+          "price": "$9909",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max V6 4WD 5-Spd",
+          "price": "$12979",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9a8fb4b0-49dd-4ad4-8029-3a31b7d2733d/0bbe079c-54f8-4205-94d2-3ae946ac023c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Mighty Max 5-Spd",
+          "price": "$9849",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max Macrocab 5-Spd",
+          "price": "$11399",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max V6 4WD 5-Spd",
+          "price": "$14859",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ed520dc3-94d6-46b6-9500-7138068aeca3/a9f82f2f-54ae-42b9-b174-7163a525ad61.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Mighty Max 5-Spd",
+          "price": "$8229",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max Macrocab 5-Spd",
+          "price": "$9559",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max 1 Ton 5-Spd",
+          "price": "$9619",
+          "specifications": {}
+        },
+        {
+          "name": "Mighty Max V6 4WD 5-Spd",
+          "price": "$12529",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "make": "maserati",
+  "model": "mc20",
+  "years": {
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/4c4e0f04-36f7-427a-978b-c29d71f5abf4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/ff1c2989-a62f-4514-88e8-93ab36b74a46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/eaf9df2b-2767-4ce6-af51-b5aa6f368fe2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/20221267-8727-4263-b3ec-d907de3ae893.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/8470c468-5372-4ffd-8e30-b2959c115f2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/0e28ddec-86ff-42da-81cd-13f962f7c89b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/812ae676-a672-453f-8fe1-f90fc79cfb7a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/26d97ddb-43c6-43c6-8cee-758b6ad87e9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/ebba969a-1e82-4183-873a-a07daf14028e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/2e410a16-6ad7-44b8-a7c5-56defa039ac4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/ffd548bc-b8dc-4f95-ac97-375d967921ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/1fa753cc-802b-4678-ba8b-ced4ef5aafee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/410b2a93-3f5a-40bf-bfdc-a893a605fbff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/e7535699-dd2d-4c5a-bab9-ef3f1a73cd91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/92088bb4-71b1-482c-b3ae-c9a21e183d27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/a6d62b6e-e1d6-4ca0-b2d0-386688bdfba7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/40e6bc9f-9c30-44e4-b596-be5d24f2b694.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/98eab69e-2682-4705-a358-41b993400044.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/72f533ee-d67d-4c33-ab9f-6e32e1e951e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/7a73cc15-5cfe-4bf0-86f3-27a75f9a38a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/09039b6f-bbc7-47cc-bc82-25b5b106c31d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/5909d0d8-8a61-4ce0-a1f4-3a40a4b44476.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/78e6a8f9-1bb9-44f8-9363-9b45c6c75399.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/e3f37751-1d4f-4ba9-87bb-d44d92565f17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/ac38ea58-23ea-4241-be34-0dd3a363737c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/7b37e463-1b31-4b25-9fc5-8a3ea26aa6a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/26d97ddb-43c6-43c6-8cee-758b6ad87e9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/ff099d9b-b43d-4c6c-a227-22737033ce44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31735da0-dd9f-483c-8eea-f87a73b109fb/ae419781-1742-475f-ba9e-a10a89ac840b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_179999",
+          "price": "$179999",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/b2f0e7b0-8200-4576-97e9-a7d2abf51ce4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/3180b707-5dba-48cf-991a-bc5b154b3ead.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/6740b58c-1d69-4392-9890-cfa3d136e8d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/1ca74a7d-c5f9-4798-b9ca-1696a33d48e1.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/5a490b63-c366-42bc-8dcf-dc7c7e267a7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/42e12f12-55c5-4abf-9b38-4e3c1c0ae970.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/7dd23293-5d49-4c8b-be2d-fe07384257e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/78a9c724-fb76-40d5-b873-7de19d229dee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/76536ab4-6212-47dc-ac54-865636d4861d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/7f86e081-d021-4dee-94e2-c0ff443ccd6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/7efde00c-6eb0-40a8-aabb-bb84eca25eb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/980b6645-183b-4048-b4cb-b1e74c04c0c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/139f2ffe-8246-4db5-b710-f56cb9aff757.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/411ea7c3-7234-4ad7-bdec-00c5c4a4c06a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/97e42289-9996-4931-adbf-f634cddfc752.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/8d3d94d4-ef0e-44f3-a2be-8fd99a974f30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/f06f2761-326e-4680-8141-80da502f383f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/9643a5a7-5e61-4c99-adf1-6efbe788d0ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/5a650f91-a432-4be8-82ad-9380561f7227.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/3c29ee30-7c92-41dc-ad2b-da35dae125dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/e7eeceb6-9dfc-4027-abc6-82a3bf388c06.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/fee639c7-bfb9-4d1e-98c2-6c871426a47e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/27b233b3-0178-4d3f-9d8e-ec38bf88636c/2ac1a70c-66fb-458d-aea4-e8122f7080d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/b0d9c0c2-3c1f-48e1-aa2d-13a5d4053e0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/85b79ae5-037a-4b4e-956f-234aa6e7eacb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3c5c208-541d-459a-886d-d169f50c03fd/91ed8a30-7512-4d92-8238-627324e3b193.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Coupe",
+          "price": "$239000",
+          "specifications": {
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "621 @ 7500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "538 @ 3000 SAE Net Torque @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,252 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Cielo Convertible",
+          "price": "$273000",
+          "specifications": {
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "538 @ 3000 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement",
+              "621 @ 7500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,395 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/e3672a0e-a2af-43b8-9dbe-cd25829408ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/4d71e360-0a5c-42ff-a813-7559c28496b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/84da23bf-e110-4534-b4f8-e1227f7f94fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/38c74e70-4b5a-4f7f-99de-6cd6fee898fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/d44057a4-36b3-4628-951d-a45d2cf4f769.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/b94cd7a5-04d7-4e4e-84aa-a8201eb52a59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/afaa3ac2-a1f8-41c9-a90b-eeb5230ebc2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/caf5d900-6be9-419c-bf43-b8a4e134ebfc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/67d504e4-3ec9-4210-932a-6cfa7399ab07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/5a298363-7d23-4d3c-9521-aad3120ce46b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/2ed9da06-a4c9-4f7c-ba7a-71331880bfa6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/552f4d51-03f2-4f4f-8d61-092b62623c21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/bc7b1c1f-809a-494c-9a44-10c28b15c28b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/4cb15849-f757-4c10-9ba3-b15fdc60751e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/393a6506-ee99-4d58-95f1-5747642353f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/6d17faba-8a48-4b03-859f-ae1cb2d8fa22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/dc1f468c-f69c-4195-84fb-db6b5776f1c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/1e5e717e-5575-462c-88a5-c03281bf4a15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/a799714b-63ed-4111-8db3-5f6eb701ba9c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/83709eb7-ae67-438e-b402-a69a3b06ebd7/55795d40-1068-4845-90a7-ac58205e1aef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/abd95123-e2a4-4fef-99fb-c6e39a4e3301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/02d32920-77fc-4eb7-a658-18fbc62a322c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/cfc8f9f0-a58c-4762-8e36-571ecafba09c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c771f88-96af-4586-affe-2f6046e6c80b/b893ba6a-b516-4b27-877b-07e45fdf1e34.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Coupe",
+          "price": "$230000",
+          "specifications": {
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "538 @ 3000 SAE Net Torque @ RPM",
+              "621 @ 7500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,252 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Cielo Convertible",
+          "price": "$261200",
+          "specifications": {
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0 L/183 Displacement",
+              "621 @ 7500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "538 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,395 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

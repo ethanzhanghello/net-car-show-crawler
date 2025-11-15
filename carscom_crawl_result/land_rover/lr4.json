@@ -1,0 +1,1960 @@
+{
+  "make": "land_rover",
+  "model": "lr4",
+  "years": {
+    "2010": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/bec5b7db-03e7-4ded-aecd-c4b0354bf5d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/803616ed-883f-46b7-8937-f339d7645665.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/970c8cc2-0d38-4110-ac4f-3498afeb8216.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/1c2dfd30-0e3f-4b9d-be69-25d3f89611c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/a223c67f-19bc-4523-abeb-bbc491ea9d59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/07afc480-9bde-4a30-ab3a-72cd05ad88ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/436a53bf-8f85-467a-831a-a4e23edd7577.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/2aa54aed-97be-4b24-8529-d565604c4110.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/803f81a5-d9cf-4c73-b2e9-1343e4bad137.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/17986db0-9049-4aaa-958f-4278b83ab452.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/163deef3-1433-4056-9113-e0cc4299aff6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/fbea7595-f754-4bcc-892c-5ea094eca32a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/cfcad4b2-9fc8-4505-9b3a-e525c3cfe199.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/e486c0c5-3ee8-4f4e-b552-e0f03cda8e58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/7f6f178f-6962-4598-a2b3-ee789b7e0bcd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/40b9f8e0-b55f-465e-abec-7ab13e9d338b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/bd9677a5-bd0d-4e52-aaab-3a28bcbada95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/90569e15-7d04-40d6-8d08-16ed967675ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/a98eae48-52f1-4caf-b476-744bfc7fbf41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/1090b0d1-2a89-44ec-93ef-38ff12d88b1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/2a08c351-6c6b-4115-aab4-71350a8344c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/354ac33c-316b-4710-b248-5fea968da119.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ae8d549a-a6a1-4b73-9190-7e5897d55ca3/1946272b-145f-4387-aada-70c863d021fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/aa939490-39fa-4685-9745-6c452eb6dd46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/ee558061-ec81-4b34-b1b4-c9781dead2b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/17335b5f-3f10-4dfb-aa69-75b725e936aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/26119d9e-cbea-477e-9ae7-7b088f408932.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/198554b7-ce1f-4369-9f16-2e02bdd945d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/d13b6ae9-10a0-4f11-9e36-2b18a9147499.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/c2de72d2-4db7-4cee-98d7-39caaf2a45f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/e43603bc-f673-492e-83f4-825d65121dc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/3c19dc57-9afb-492a-96d2-030ca74b49af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/81b190fb-8b1b-4116-ba80-a01a9792b5a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/69d75ffd-b194-4d98-a693-c699a4a8f78f/f616879a-b151-420e-885c-c793f803976a.png"
+      ],
+      "expert_review": "Compared with its predecessor, the LR4 luxury SUV is much more appealing for shoppers who’d like to conquer rugged off-road trails and go for a night on the town — all in the same SUV. Land Rover’s improvements also make the LR4 a legitimate competitor to SUVs like the Audi Q7 and Mercedes-Benz M-Class.\n\nIt’s better because it features a dapper cabin — something that was sorely missing from the previous version, the LR3 — and a new V-8 engine that makes 75 more horsepower than the LR3’s V-8, but with the same EPA-estimated gas mileage: a still-thirsty 12/17 mpg city/highway.\n\nLand Rover’s top-of-the-line Range Rover has excelled at being a multifaceted SUV for years, thanks to its on- and off-road performance, and the LR4 promises most of that versatility — for quite a bit less cash.\n\nThe Look\n“LR4” is a new name for Land Rover, but if you’re familiar with the brand’s lineup, you’ll instantly think of the outgoing LR3 when you see it. In profile, the two SUVs look nearly identical. The primary styling differences are in front and around back.\n\nChanges to the front include new headlights and a new grille that bring the LR4’s styling more in line with the rest of Land Rover’s lineup. The rear gets new taillights. The styling is still distinctly Land Rover, with its upright, angular elements, which should satisfy the brand faithful. To see a side-by-side comparison with the 2009 LR3, click here.\n\nDriving It\nThe LR4’s ride quality brought the Range Rover to mind. The standard height-adjustable air suspension is tuned for comfort, and it wasn’t even ruffled by the rough roads you inevitably encounter in Chicago, where I spent the majority of my time driving the LR4. Even though the LR4 is a tall SUV, with 7.3 inches of ground clearance in the suspension’s regular mode, it doesn’t exhibit excessive body roll in corners, which is a confidence-booster for drivers.\n\nThe LR4’s curb weight is a hefty 5,703 pounds, but it feels swift for a big SUV. Credit the new 375-hp, 5.0-liter V-8, which is standard. The engine features direct-injection technology and pulls strongly when accelerating at midrange speeds. There’s power to spare on the highway — though not as much as you might expect from a 375-hp V-8.\n\nIn a luxury SUV, how the engine delivers its power is just as important as how much power it has, and the LR4’s V-8 is smooth and refined. It works with a six-speed automatic transmission that knocks off smooth shifts, though it can be a bit hesitant to kick down at highway speeds when more power is needed.\n\nOne thing shoppers will immediately like about the LR4 when they get behind the wheel is the great forward views afforded by its elevated seating position. You sit a lot higher than most vehicles on the road, and that gives you a good view of what’s happening in front of you. The windshield and side windows are also big, putting the higher stance to good use as far as visibility is concerned.\n\nThe suspension tuning feels firmer when you take the LR4 up to highway speeds. Up there, bumps and cracks in the road that were easily damped at lower speeds become more noticeable.\n\nOverall, the interior is very quiet. Not many outside noises make it into the cabin, and those that do are muted enough that they’re not distracting. Well done, Land Rover.\n\nThe Inside\nThere’s no question the old LR3’s interior was one of its weak spots. Its center control panel had a swath of unremarkable plastic and black buttons that looked out of place on a luxury SUV — especially one with a starting price around $46,000. The new LR4’s interior, by comparison, is worlds better, giving the SUV a design worthy of its starting price of about $47,000.\n\nThe most apparent change is the replacement of the downmarket control panel with one that features a new layout, new controls and — thankfully — less plastic. The center console and instruments are new, too, and they continue the greater emphasis on luxury that’s evident in the LR4. It’s another way this SUV moves closer to the top-dog Range Rover.\n\nLand Rover says the front bucket seats now have longer cushions. They offer decent thigh support, but they’re not particularly large overall. I do like Land Rover’s adjustable armrests that are attached to the inside of the front seats, though. They’re not something you see every day — even in the luxury segment — but they significantly enhance driver and passenger comfort.\n\nBackseat passengers are less coddled. For a large SUV, the LR4’s second row isn’t all that roomy, nor is it very comfortable for adults. There’s not much legroom, and the seat cushions are short. The seat isn’t adjustable, either.\n\nConversely, our test car’s optional third row was surprisingly comfortable for adults when you consider it can also fold into the floor. There’s decent legroom, which would make it tolerable for shorter trips, and headroom isn’t bad, either. The twin bucket seats back there are a little small, but they do a decent job accommodating adults and would have no trouble carrying children — the people most likely to end up in this seat.\n\nCargo & Towing\nWhen all three rows of seats are upright and ready for use, there’s just 9.9 cubic feet of cargo room. Luggage space expands considerably when you fold the third row, moving up to 42.1 cubic feet.\n\nLike the LR3 before it, the LR4 has a unique, asymmetrical liftgate/tailgate that gives the rear of the SUV a distinct appearance. However, the design makes it more difficult to load cargo or fold the third row; the lowered tailgate keeps you from reaching in as far you could with a traditional, full liftgate.\n\nWhen properly equipped, the LR4’s maximum towing capacity for a braked trailer is a stout 7,716 pounds. It drops considerably for a trailer without brakes, going down to 1,653 pounds.\n\nSafety\nStandard safety features include antilock brakes, an electronic stability system, side-impact airbags for the front seats, and side curtain airbags. For a full list of safety features, check out the Standard Equipment & Specs page.\n\nLR4 in the Market\nThe SUV craze that has gripped America for the past 15 years is ebbing, but for Land Rover, real off-road capability is as much a part of its brand as track-ready performance is for Porsche. While other luxury brands are de-emphasizing off-road capability in their SUVs and crossovers, it’s too ingrained in the Land Rover image for the British brand to try anything like that.\n\nIn the new LR4, Land Rover focused on the aspects of the SUV that needed improvement, like the cabin and acceleration performance, while retaining that signature go-anywhere capability — which promises to become increasingly unique in this class.\n\nSend Mike an email",
+      "trims": [
+        {
+          "name": "4WD 4dr V8",
+          "price": "$47250",
+          "specifications": {
+            "Notable features": [
+              "Replaces LR3 for 2010",
+              "New 375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "375 @ -TBD- SAE Net Horsepower @ RPM",
+              "375 @ -TBD- SAE Net Torque @ RPM",
+              "5.0L/-TBD- Displacement"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Independent, air Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Independent, air Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "5,796 lbs Base Curb Weight",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "23 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Four-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 HSE",
+          "price": "$47250",
+          "specifications": {
+            "Notable features": [
+              "Replaces LR3 for 2010",
+              "New 375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ -TBD- SAE Net Torque @ RPM",
+              "375 @ -TBD- SAE Net Horsepower @ RPM",
+              "5.0L/-TBD- Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Independent, air Suspension Type - Rear",
+              "Independent, air Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,796 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 LUX",
+          "price": "$47250",
+          "specifications": {
+            "Notable features": [
+              "Replaces LR3 for 2010",
+              "New 375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ -TBD- SAE Net Torque @ RPM",
+              "375 @ -TBD- SAE Net Horsepower @ RPM",
+              "5.0L/-TBD- Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Independent, air Suspension Type - Rear",
+              "Independent, air Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,796 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/69bc1f0e-51d2-499f-9547-dc21a426f284.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/78237a31-efe8-43b7-a101-a2329b49b973.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/8bbc0bd4-fef3-4f02-ab20-8abbc5ca672e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/b0ba64ad-18d2-4169-82b5-31c8d83869f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/59ab5e59-484f-4efe-99ca-f2571937ad03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/b46f2f0a-294f-4b40-bbe0-af2912becf4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/46f4a94a-23ed-4ac9-b5f8-f5de51d9db83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/ab6d9809-115b-42f8-bb9b-4a8138bf78f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/f8bf60ee-bd3a-4698-8da1-94935d2f32dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/d1f0d063-b277-43c4-96ef-870cc373b77b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/78237a31-efe8-43b7-a101-a2329b49b973.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/1a6a376b-6c1f-4b21-8208-ebacf05d526b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/ae1deeda-002f-4436-a9cf-7bf8ac3971b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/13a5986b-034d-4bec-804e-7ab2327a2b18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/cf3081d8-c189-4adc-b1e3-ed51ff94bd44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/d16e4a70-424e-450e-bf5a-ccffa8d261a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/3822afc4-dbae-471a-92bc-1bf9026c7f14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/e97407f7-142b-4cbb-9508-4e9ae8ad8c6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/e7a2f40a-fec5-416e-a372-9161f47fcc0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/1e21bd16-3c70-4538-95f3-93b50ecc6b64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/7f40fd4c-0286-4abf-bc3c-47b101dbf276.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f514996-9a4d-400a-8925-7cce8acd6cc7/255dd52f-8a69-4100-af82-fcca82d8493a.png"
+      ],
+      "expert_review": "We all have our vices. One of mine is the Land Rover LR4. Land Rover is not known for making fuel-efficient cars, and as a good friend of the planet I find myself in a quandary. However, if given the chance, I’d buy a Land Rover LR4 in a heartbeat and happily drive it everywhere, filling up the gas tank again and again.\n\nPerhaps this makes me a hypocrite, but perhaps it’s more of an offsetting relationship where I can be environmentally friendly in many areas of my life while also enjoying the practical luxury of cars like the LR4 in other areas. If the latter is the case — I believe it is — perhaps I’ve found the elusive “perfect balance.”\n\nBalance is something the 2012 Land Rover LR4 embodies. Practical luxury and rugged capability coexist brilliantly in this car.\n\nThe LR4 has a gorgeous interior and is spacious enough for a family of five or seven, if you opt for the available third row. At the same time, it handles off-roading and other challenging terrains with ease. The V-8 engine is powerful, acceleration is smooth and for a car this size, it’s surprisingly easy to maneuver with a particularly impressive turning diameter that’s helpful on- and off-road.\n\nThe 2012 LR4 isn’t dramatically different from 2011, but it does receive a few updates to its entertainment and navigation systems. There’s a new standard stereo system that has 11 speakers, hard-drive storage and Bluetooth streaming audio. My test car featured the newly available 17-speaker stereo system that sounded terrific.\n\nThe 2012 LR4 has a starting price of $49,750, including an $850 destination charge. With the addition of the seven-seat HSE Lux Package that adds a third row, cooler box, premium leather and upgraded stereo, my test LR4 came to a grand total of $60,675.\n\nEXTERIOR\nThe LR4’s exterior design doesn’t change much for 2012; it remains tall and boxy, standing out among the crowd of curvaceous SUVs. Nineteen-inch seven-spoke alloy wheels are standard, but now you can also opt to get 20-inch wheels with either a five-spoke gloss black design or a 10-split-spoke alloy design.\n\nThe LR4 comes standard with permanent four-wheel drive with traction control and Land Rover’s Terrain Response system, which tailors vehicle characteristics to accommodate driving conditions. With a simple turn of the center knob, you can prepare the vehicle for conquering ice and snow, sand, mud or rock climbing.\n\nAs an SUV made for conquering all kinds of terrain, the LR4 is hefty, and the heavy doors are tough for small children to open, so be prepared to lend a helping hand. The tailgate is split into two asymmetrical parts, making it a two-step process to fully open. There is no power liftgate feature, and while I might normally complain about this, the LR4’s tailgate keeps with the rugged spirit of the car. The step-in height is manageable but becomes more of a climb-in height for smaller kids.\n\nRear cargo space is plentiful as long as you don’t use or have the optional third row. With the third row in use, there’s just under 10 cubic feet of cargo volume, which is barely enough for your weekly grocery run. Thankfully, the third row is split 50/50, creating a little more cargo space if you have child-safety seat or passenger on only one side of the row, like I did. With the third row folded flat, cargo volume is more than 42 cubic feet, and with the second row folded, things open up to 90.3 cubic feet.\n\nThe engine is a hefty 5.0-liter V-8 with direct injection that makes 375 horsepower. It’s matched to a six-speed automatic transmission with Normal, Sport and Manual shift modes. Premium fuel is required, and the LR4 gets an EPA-estimated 12/17 mpg city/highway.\n\nEven though the fuel economy looks bad on paper, there is good news. Land Rover is highlighting its sustainable manufacturing practices and partnerships with conservation organizations as an attempt to soothe environmental concerns about this SUV. Maybe my vice isn’t so bad after all.\n\nSENSE AND STYLE\nFamily Friendly (Not Really, Fair, Great, Excellent): Great\nFun-Factor (None, Some, Good Times, Groove-On): Groove-On\n\nINTERIOR\nThe LR4 not only excels both off- and on-road, but it also envelops you with elegance and luxury. The leather upholstery and surfaces are so soft that I found myself petting them a regular basis. The interior is highlighted by the power sunroof and two fixed sunroofs over the second and third rows.\n\nThe gauges, circular vents and controls are outlined in brushed chrome and complete the overall posh look of the interior. The 7-inch touch-screen in the center stack also can be operated via voice commands, which is the more convenient method in my experience. The navigation system isn’t intuitive as evidenced by the amount of cursing at it a certain passenger I toted around did (sorry, honey).\n\nThere is an abundance of headroom and legroom for the front- and second-row passengers, and three child-safety seats fit across the second-row bench. The only potential pitfall is the front passenger’s legroom is sacrificed with the installation of a rear-facing infant seat behind it. The seats are also comfortable, with the exception of the optional third row that could use more padding.\n\nWhen it comes to storage, there are all kinds of cubbies and compartments throughout the cabin, including an optional cooler box in the center console, which is great for hot summer days. There are four cupholders and four bottleholders on the doors as well as a double glove box.\n\nGetting the third row to fold flat presents the biggest problem in the LR4’s interior. The seats are heavy and the manual-folding process is militaristic in its rigidity. There is no power operation, which is fine, but whenever folding or unfolding the third row, I was scared I’d get a finger caught, and that’s not fine.\n\nIT’S THE LITTLE THINGS THAT COUNT\nStorage Compartments (Puny, Fair, Ample, Galore): Ample\nCargo/Trunk Space (Puny, Fair, Ample, Galore): Ample/Galore\n\nSAFETY\nThe 2012 LR4 has two sets of lower Latch anchors in the second row’s outboard seats. The anchors are housed in small plastic wells. The outboard lower anchors are easy to access, but the inboard anchors present a challenge because the seat belt buckles get in the way. The third row doesn’t include any lower anchors, but it does have seat belt buckles that are easy for kids and adults to use. Find out how the 2012 LR4 performed in Cars.com’s Car Seat Check.\n\nThe LR4 has standard four-wheel drive with a Terrain Response System, antilock brakes with brake assist, an electronic stability system with traction control, hill descent control and six airbags, including side curtains for the first and second rows. If you opt for the available third row, the 7 Seat Comfort Package includes side curtain airbags for the third row. Other optional features are front and rear parking sensor, auto-leveling headlights, a backup camera or a five-camera surround view system.\n\nThere are no crash-test ratings available for the 2012 Land Rover LR4. Get more safety information about the 2012 Land Rover LR4 here.",
+      "trims": [
+        {
+          "name": "4WD 4dr HSE",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "Five or seven seats",
+              "Surround-view camera system",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response system",
+              "Upgraded audio and navigation systems",
+              "Updated rear entertainment system"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "5.0L/305 Displacement",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Independent, air Suspension Type - Front",
+              "Independent, air Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,833 lbs Base Curb Weight",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Optional Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Four-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr LUX",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "Five or seven seats",
+              "Surround-view camera system",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response system",
+              "Upgraded audio and navigation systems",
+              "Updated rear entertainment system"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.0L/305 Displacement",
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type",
+              "375 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Independent, air Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Independent, air Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "23 gal Fuel Tank Capacity, Approx",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "5,833 lbs Base Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "Five or seven seats",
+              "Surround-view camera system",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response system",
+              "Upgraded audio and navigation systems",
+              "Updated rear entertainment system"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "5.0L/305 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Independent, air Suspension Type - Rear",
+              "Independent, air Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,833 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/2ba36f12-4a04-4346-a6b8-cb922d771dc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/edefbb2e-a8a5-4634-a225-6678683a01df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/6421b838-cf7a-4eff-b441-9200f47061bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/943d1acd-517b-44bc-855f-dc652f5afa0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/dd5ec9a6-13e8-486b-90a8-fbb12900feed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/aa34bcbe-ab8f-44cb-8c1a-ca4709c82b28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/510e8bb3-c290-4211-8f8b-1c21e082df89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/dc939676-539e-4263-a8ea-9cd4736c1083.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/a919664b-5964-417d-9bc5-effa5a068455.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/539f8a15-5fae-4452-ab72-cb782c629ac1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/48196c0a-1510-475e-ab9b-e2c2efd8c08c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/67e1f8eb-5e68-42e2-b901-a338acac367c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1be94c41-1497-4e9f-a7dd-668fba40d2f9/616196ca-f407-481e-a108-df34e1762864.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/a8e482cc-b374-4fbe-abdd-40d968fd9866.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/fdcefcfb-bf56-4028-a30b-38ebf1fbabfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/e57e2bd0-ffbe-488b-a296-9a7e5ebc6aab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/90d0ed4d-973d-464c-956a-ca6a6f3cdea2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/eb8cbb0c-5189-4fb5-8d22-19a7c9778b5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a6db23c-ffe6-4fbc-b135-926edff340a3/78898b1d-b6cd-4aac-8088-71a9a12dfcbd.png"
+      ],
+      "expert_review": "While updates over the years have kept the 2014 Land Rover LR4 handsome and relatively affordable, its third-row accommodations remain unfortunate.\n\nExterior & Styling\nThere is something about a box on wheels that resonates with luxury and non-luxury buyers alike. The classic Land Rover Discovery silhouette continues to live on in modern vehicles like the LR4 as well as more stylized Range Rovers. The nice thing about a classic design is that a vehicle as long in the tooth as the LR4 still looks contemporary and impressive.\n\nIt is a tall design, however. While the other vehicles in Land Rover’s lineup get streamlined looks and all-aluminum bodies, the LR4 is a tall wagon. Luckily, all that height is accentuated with a copious number of windows that not only let light into the cabin but also aid visibility.\n\nHow It Drives\nThe Land Rover LR4 is a capable off-road machine, and comes standard with a single-speed transfer case (a two-speed transfer case is optional). But most of its time will likely be spent on paved roads and probably even in a lot of mall and school parking lots. Luckily, its on-road composure is quite good, and it has a beast of an engine.\n\nWhile the 340-horsepower, supercharged 3.0-liter V-6 is a lot of fun in the Range Rover Sport, I found it to be rather tame in the heavier LR4. Still, it has plenty of power on tap when needed with decent lb-ft of torque, and the eight-speed automatic transmission does the job; it just won’t feel like a sporty supercharged SUV … like, for example, the more expensive Range Rover Sport.\n\nIn terms of ride, you don’t get a lot of the undulation you might expect through the rock-crawling-capable suspension. I found the ride to be relatively comfortable, and despite its extreme height the Land Rover LR4 handled tight turns quite well — something for which the Lexus GX 460 is not known. There is, however, quite a bit of road and wind noise due to the three-row SUV’s boxy shape.\n\nAn adjustable-height air suspension is designed for optimum aerodynamics at slow and fast speeds, but you’ll have to select the lowest level to put it at a height that makes getting in and out acceptable, even for average adults.\n\nInterior\nA recent upgrade to the LR4’s interior helps keep it competitive, but it’s still a rugged off-road feel compared with competitors, like the Mercedes-Benz GL-Class, that aim for elegance. Hop into a Lexus GX or Acura MDX and there isn’t a perceptible difference in terms of luxury accouterments, but the luxury styles of those two seem generic versus the Land Rover LR4’s off-roader ruggedness.\n\nThick leather covers the front seats, which are wide across the bottom and have a nice level of back support. There are also adjustable inboard armrests for both the driver and front passenger, so you won’t have to rely on the well-cushioned center console cover.\n\nThe second-row seats are more upright in terms of positioning, making both full-size children and adults a bit uncomfortable. There also wasn’t as much room in the second row as I expected for child-safety seats, which made it difficult for my children to get from one side to the other.\n\nFolding the two back rows of seats flat and putting them back in place is also rather annoying. The second row only tumbles forward, meaning even if someone is just trying to get into the third row, the second row needs to be stowed as if you were expanding the cargo area. Many competitors have a separate, dedicated setting for the second row just for this type of access.\n\nFolding the third row requires a number of steps using latches and straps. They’re inconvenient compared with competitors, but it wouldn’t be as much of an annoyance if getting to them didn’t require reaching over the large tailgate, which juts out and is difficult to get past. There is no power folding option, either, even though one is found in many of today’s competitors.\n\nErgonomics & Electronics\nThe Land Rover LR4 features a multimedia system you’ll find in many current Land Rovers and Jaguars. When I first tested it a few years ago I found it clunky and somewhat unattractive to look at. After some time, though, you get used to it, and most of the functions are laid out in a fluid nature. I also like having the large, physical shortcut buttons laid out below the 8-inch touch-screen. (Newer Land Rover models have resorted to touch-sensitive panels instead of mechanical buttons.)\n\nThe dual-zone climate controls are also well-done, with big knobs that are easy to grasp, wrapped in grippy rubber. This is where having a rugged aesthetic pays off, I guess.\n\nCargo, Storage & Towing\nCargo space overall is quite good, rated at 9.9 cubic feet with the third row in place, 44.3 cubic feet with it folded and a maximum of 76.8 cubic feet with the second row also tumbled forward. That compares well to the MDX, which has 14.8, 38.4 and 68.4 cubic feet, respectively. Infiniti’s larger and more expensive QX80 is rated 16.6, 49.6 and 95.1 cubic feet, respectively. Lexus provides only the GX’s minimum dimension, at 11.6 cubic feet, and its maximum, at 64.7 cubic feet. Compare these models here.\n\nThe LR4 also features a clamshell tailgate/liftgate combination, which is cool if you like to actually tailgate, but not so much if you want to reach cargo that’s rolled around. It’s also a pain if you need to load heavy items into the LR4; it’s a long stretch even if you’re above average height.\n\nFor families who tow, the LR4 can handle 7,716 pounds. That outdoes the GX, at 6,500 pounds, and the MDX, which can only handle 3,500 pounds. Serious haulers would likely consider the QX and its 8,500-pound rating or a more traditional SUV like the 2015 Chevrolet Tahoe, which can be optioned to tow 8,300 pounds.\n\nSafety\nThe LR4 has not been crash-tested by either the federal government or the Insurance Institute for Highway Safety.\n\nSafety features include side airbags for the third row of seats, as well as the standard array of front and side airbags for front passengers and side curtain airbags for the first and second rows. You can view all the LR4’s safety features here.\n\nThere is an optional surround camera system that shows a 360-degree view around the SUV, as if viewed from above as well as blind-spot monitoring. In general, I find these systems to be useful in everyday situations and even more appreciated in larger vehicles like the Land Rover LR4.\n\nValue in Its Class\nBelieve it or not, the price of this Land Rover is one thing you might like. Starting around $50,000, the Land Rover LR4 comes decently equipped with standard four-wheel drive, leather seats, 19-inch alloy wheels and an 11-speaker sound system.\n\nIt can be equipped with an array of packages, including HSE, which adds a navigation system, parking aids and power-folding mirrors for $4,900. The Land Rover LR4 HSE Lux Package costs $10,200 and adds those items plus a 16-speaker sound system, an electronically adjustable steering column, a heated steering wheel and even a cargo compartment that doubles as a “Cool Box” that can keep a small number of drinks cold so long as the engine is running.\n\nThe Mercedes GL and Infiniti QX80 start at about $12,000 more, but a Lexus GX460 is roughly the same price and comparable not just on the spec sheet, but also in terms of performance and the level of luxury inside.\n\nShoppers will just have to decide if a somewhat flawed Land Rover has enough charm to warrant a purchase.\n\nSend David an email",
+      "trims": [
+        {
+          "name": "4WD 4dr LUX",
+          "price": "$49700",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 replaces V-8",
+              "New eight-speed automatic transmission, stop-start technology",
+              "Revised front styling",
+              "Height-adjustable air suspension",
+              "Standard four-wheel drive"
+            ],
+            "Highlights": [
+              "14 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "7,716 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,785 lbs Base Curb Weight",
+              "7,143 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr",
+          "price": "$49700",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 replaces V-8",
+              "New eight-speed automatic transmission, stop-start technology",
+              "Revised front styling",
+              "Height-adjustable air suspension",
+              "Standard four-wheel drive"
+            ],
+            "Highlights": [
+              "14 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0 L/183 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type",
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "340 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Option Weight - Front",
+              "0 lbs Total Option Weight",
+              "0 lbs Option Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A As Spec'd Curb Weight",
+              "7,716 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Gross Combined Wt Rating",
+              "5,655 lbs Base Curb Weight",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Gross Axle Weight Rating",
+              "N/A As Spec'd Payload",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr HSE",
+          "price": "$49700",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 replaces V-8",
+              "New eight-speed automatic transmission, stop-start technology",
+              "Revised front styling",
+              "Height-adjustable air suspension",
+              "Standard four-wheel drive"
+            ],
+            "Highlights": [
+              "14 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Double Wishbone Suspension Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "5,785 lbs Base Curb Weight",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight - Front",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Payload",
+              "0 lbs Option Weight - Front",
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "N/A Gross Combined Wt Rating",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "7,716 lbs Maximum Trailering Capacity",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a5b5b423-e67a-4f82-b704-62e2e31bdfb4/2d7ed027-990e-408d-96d9-19f7ac551999.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in March 2012 about the 2012 Land Rover LR4. Little of substance has changed with this year’s model. To see what’s new for 2013, click here, or check out a side-by-side comparison of the two model years.\n\nIf the idea of luxury in an off-road vehicle puzzles, the Land Rover LR4 will confound. Mingling mud and premium leather is core to Land Rover’s identity, and the five- or seven-seat LR4 aims to toe the line between off-road excellence and on-road luxury. It’s got the hardware for the former, but how well does it master the latter?\n\nThough the 2012 Land Rover LR4 is a powerful, capable people-mover with a posh cabin, there are competitors that offer a more refined and comfortable on-road experience.\n\nBuried within this fortress of posh leather and walnut wood trim is a highly capable terrain master. Chances are, though, that most LR4s are destined to spend much more time in heated garages than on trails. As there’s not a lot of mud to slog through or rock craters to crawl out of near my downtown condo, this review focuses on the LR4’s on-road abilities.\n\nModel year 2012 marks the LR4’s third year on the market since upgrades precipitated a name change from LR3 to LR4 for 2010. For 2012, changes to the midsize SUV are minor, including upgrades to the stereo, navigation system and rear-seat entertainment system. Major competitors include the Audi Q7 and Mercedes-Benz M-Class. (See these models compared here.)\n\nTechnically, the LR4 comes in a single trim level, but two large option packages — HSE and HSE Lux — serve a similar purpose as multiple trims. My test vehicle had both packages and several stand-alone options, including goodies like a backup camera with front and rear sonar park-assist warnings, a navigation system with voice recognition, second-row climate controls, keyless access and start, power-folding mirrors, high-definition radio, power tilt/telescoping and heated steering wheel, leather upholstery, heated windshield, 17-speaker Harman/Kardon sound system, cooled box in the center console, and driver-seat memory.\n\nOn the Road\nDespite its off-road pedigree, the LR4 has fairly composed road manners around town and on the highway. I noticed a little float and wander at highway speeds, though not as much as you might expect from this tall, trucklike SUV. It did, however, lose some composure over larger potholes and railroad tracks. My test vehicle rode on 19-inch aluminum alloy wheels; 20s are available. The ride was on the firm side, but never uncomfortable. The Q7 and M-Class both have a more compliant ride.\n\nWhen let loose from a stop, the LR4’s 375-horsepower, direct-injection, 5.0-liter V-8 feels expectedly potent, but where it really shines is in midrange power. An alert, smooth, six-speed automatic transmission furnishes reserves of power for highway passing and merging. Actually, it feels pretty lithe for something this heavy — almost 6,000 pounds. Maximum towing capacity is 7,716 pounds.\n\nPower comes at a price, however: The LR4 requires premium gas and is EPA rated at 12/17 mpg city/highway. During my 100-mile test of about 60 percent city driving, I averaged just 13.5 mpg.\n\nThough I’m familiar with Land Rover’s Terrain Response off-road system, the LR4’s array of cryptically labeled buttons can puzzle the uninitiated. What do they mean? Basically, that the SUV can be tuned to go just about anywhere and through anything. The system is standard on the LR4 and uses a console switch that enables the driver to alter calibrations for things like wheelspin, suspension tuning and powertrain response to accommodate normal driving, slippery pavement, mud, sand and low-speed off-roading.\n\nHill descent control is also standard. It automatically modulates the brakes to guide the SUV down steep descents without the driver’s braking input. It basically requires the push of a button and a leap of faith that the car will be safely guided down the hill.\n\nLooks Big, Drives Small\nLand Rover’s lineup is really a study in opposites. I can’t help but compare the LR4 with the newest Land Rover on the block: the compact Range Rover Evoque. For every one of the Evoque’s fluid, dynamic curves, the LR4 answers back with severe straight lines and blocky right angles.\n\nWhen I first saw the LR4’s hulking, looming profile in the parking garage, I figured I’d need a shoehorn to get it outside. At first glance, its imposing size and predictably tall ride height were a bit off-putting, but it drives smaller than it feels.\n\nThough the LR4 is 190 inches long, its tight turning circle makes it feel more maneuverable than expected. At 37.6 feet, the turning diameter is smaller than most of its competitors’, including the Audi Q7 (39.4 feet) and Mercedes-Benz M-Class (38.8 feet). This helped immensely during garage and parallel-parking maneuvers. Also helpful was the good rear visibility, which gets even better when the large third-row head restraints are folded. Nice, big side mirrors aid visibility, too, as does the tall ride height and the SUV’s panoramic forward view.\n\nLastly, the power tilt and telescopic steering wheel, coupled with the seat’s adjustable armrests, provide a comfortable driving position and confidence when navigating small spaces.\n\nPretty on the Inside\nThe cabin is vast, and it feels as big inside as it looks outside; front-seat headroom and legroom abound. The seats are large and supportive, and a little firm. Three — yes, three — sunroofs contribute to the interior’s expansive, airy feel. The one over the front seats opens and has a sunshade; the other two are fixed but also have sunshades.\n\nAs with other SUVs this price, the interior is all about luxury. Though there’s plastic, it’s the highly padded variety. Rich wood trim warms up the otherwise austere black cabin. Bright metal trim around the gauges and vents also classes things up.\n\nI was unimpressed with the navigation system. The small touch-screen and outdated graphics felt out of place in the otherwise opulent cabin, and there’s a delayed response when you touch the screen. It couldn’t find the two addresses I inputted, including my home address. I’m sure it exists.\n\nBoth option packages add a two-passenger third-row seat. The second-row seat’s headroom is plentiful, but legroom is tight for taller passengers, and the seats don’t slide or recline. They do fold and tumble in a 60/40 split, but getting them folded requires a bit of arm muscle and leaves the under-seat hardware exposed, partially blocking the path to the third row. That makes ingress tricky, especially if you’re carrying something.\n\nThird-Row Woes\nThings get worse in the third row. Though the space is OK for a smallish adult, it’s incredibly uncomfortable due largely to the flat, hard seats. Getting them to fold down is even harder, requiring a three-step process.\n\nOn a positive note, doing so yields a totally flat cargo floor, but it’s one of the most complicated third rows I’ve ever tested, if not the most complicated.\n\nThe surprises continue behind the third-row seat, where cargo volume is just 9.9 cubic feet — pretty sparse for such a large vehicle. Luggage space expands considerably when you fold the third row, increasing to 42.1 cubic feet. Getting luggage in can also be tricky, thanks to the LR4’s two-level hatch. The liftgate first opens upward, then a button releases the tailgate. It’s awkward to load and access packages while leaning over the tailgate. Annoyingly, a remote or power-opening option isn’t available.\n\nSafety\nThe LR4 hasn’t been crash-tested. Because of the brand’s low sales volume, Land Rovers are seldom tested.\n\nStandard safety features include frontal and side-impact airbags for the front seats, and side curtain airbags for all three rows of seats. As is required of all 2012 models, antilock brakes and an electronic stability system are standard. For a full list of safety features, check out the Standard Equipment & Specs page.\n\nOne convenient feature that’s not offered, however, is a blind spot warning system.\n\nOne bright spot is the position of the Latch anchors for child-safety seats. The metal brackets in the second row seats are visible, allowing for easy installation of my convertible child seat. The love affair ends there, however. After getting the rear-facing seat in, I realized that my front passenger’s legroom was hugely compromised. Because the second row doesn’t slide or recline, the child seat took up so much space the front seat had to be moved far forward to accommodate it. Again, not something I expected in a vehicle this large. Neither did my husband, whose knees were practically in the glove box. Click here to read our full Car Seat Check.\n\nLR4 in the Market\nThe 2012 Land Rover LR4 starts at $48,900, but with major options it can easily top $60,000. However, there are a lot of strong vehicles available in this class for that kind of money, narrowing the LR4’s appeal.\n\nThat said, the LR4 is an incredibly powerful, capable off-road crawler that offers its occupants a high level of luxury amenities and road isolation. Like most niche vehicles, the LR4 will strike the right note with a specific audience: well-heeled outdoor enthusiasts — or people who want to give that impression. Off-roaders in the mood to be coddled should put the LR4 on their shopping list. Families looking for a comfortable three-row SUV should keep searching.\n\nFor similar coin, competitive vehicles from Audi and Mercedes-Benz offer a more compliant and composed ride: The Q7 starts around $46,250 and the M-Class at $48,990. The LR4’s confounding third row and abominable fuel economy make it one of the least competitive three-row SUVs available to families. If you’re drawn to the brand’s pedigree, heritage and iconic styling, take a look; just don’t expect a comfortable family cruiser.\n\nemail",
+      "trims": [
+        {
+          "name": "4WD 4dr",
+          "price": "$49100",
+          "specifications": {
+            "Notable features": [
+              "Five or seven seats",
+              "Surround-view camera system",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response system",
+              "375-hp V-8",
+              "Updated navigation systems"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "5.0L/305 Displacement",
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Air Springs Suspension Type - Rear (Cont.)",
+              "w/Air Springs Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "5,659 lbs Base Curb Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "23 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr HSE",
+          "price": "$49100",
+          "specifications": {
+            "Notable features": [
+              "Five or seven seats",
+              "Surround-view camera system",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response system",
+              "375-hp V-8",
+              "Updated navigation systems"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "5.0L/305 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Air Springs Suspension Type - Rear (Cont.)",
+              "w/Air Springs Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,659 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr LUX",
+          "price": "$49100",
+          "specifications": {
+            "Notable features": [
+              "Five or seven seats",
+              "Surround-view camera system",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response system",
+              "375-hp V-8",
+              "Updated navigation systems"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type",
+              "5.0L/305 Displacement",
+              "375 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Air Springs Suspension Type - Rear (Cont.)",
+              "Double-Wishbone Suspension Type - Front",
+              "Double-Wishbone Suspension Type - Rear",
+              "w/Air Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "5,659 lbs Base Curb Weight",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/03952b9d-6c40-4638-b53e-228b122e171d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/3b889379-6451-4ec1-9e9d-f4b59f397dd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/c5490578-00b8-4333-a441-22cf07770749.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/29666a18-ae93-4b1e-8fba-606ec4a76f05.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2c2251d6-ece4-43b7-ade9-8f79d2386d62/638502f2-cd62-43a3-bb48-c495ac005dd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/459ee2b7-05bc-4c0a-acf8-d4db1db10af7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/77a4e84c-2203-4f92-93b7-a4ad4061d087.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/d6c33f5e-05d0-462a-9fc2-bcf8b86430b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/6d96a422-5f33-4fa5-b870-4625e2a9273e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/ceb46173-41ba-49e0-80cd-b5e3e69eafee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/2245b606-f9d7-4c3f-848f-3ba7d1e974be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/6d81aa21-ae64-432b-9404-bbee799559c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/dd492f42-af2c-4490-ba8e-5556a794437e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/8062e993-90c4-4ff9-9c92-0a19ddd6c432.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/12784f67-3c14-412c-8532-7e9376cb93da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/cf36ba41-0539-4b1d-a419-5a256c775a93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/379dd48e-45da-4adb-b8d7-3e4a0c494289.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/83e45332-9023-4667-bf43-3009603c38f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad5cd198-fc7d-4e93-94ac-10b7d803b5c3/10f270c5-1d16-45f5-a01e-b44d3ce3769a.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in June 2014 about the 2014 Land Rover LR4. Little of substance has changed with this year’s model. To see what’s new for 2015, click here, or check out a side-by-side comparison of the two model years.\n\nWhile updates over the years have kept the 2014 Land Rover LR4 handsome and relatively affordable, its third-row accommodations remain unfortunate.\n\nExterior & Styling\nThere is something about a box on wheels that resonates with luxury and non-luxury buyers alike. The classic Land Rover Discovery silhouette continues to live on in modern vehicles like the LR4 as well as more stylized Range Rovers. The nice thing about a classic design is that a vehicle as long in the tooth as the LR4 still looks contemporary and impressive.\n\nIt is a tall design, however. While the other vehicles in Land Rover’s lineup get streamlined looks and all-aluminum bodies, the LR4 is a tall wagon. Luckily, all that height is accentuated with a copious number of windows that not only let light into the cabin but also aid visibility.\n\nHow It Drives\nThe LR4 is a capable off-road machine, but most of its time will likely be spent on paved roads and probably even in a lot of mall and school parking lots. Luckily, its on-road composure is quite good, and it has a beast of an engine.\n\nWhile the 340-horsepower, supercharged V-6 is a lot of fun in the Range Rover Sport, I found it to be rather tame in the heavier LR4. Still, it has plenty of power on tap when needed, and the eight-speed automatic transmission does the job; it just won’t feel like a sporty SUV … like, for example, the more expensive Range Rover Sport.\n\nIn terms of ride, you don’t get a lot of the undulation you might expect through the suspension. I found the ride to be relatively comfortable, and despite its extreme height the LR4 handled tight turns quite well — something for which the Lexus GX 460 is not known. There is, however, quite a bit of road and wind noise due to the SUV’s boxy shape.\n\nAn adjustable-height air suspension is designed for optimum aerodynamics at slow and fast speeds, but you’ll have to select the lowest level to put it at a height that makes getting in and out acceptable, even for average adults.\n\nInterior\nA recent upgrade to the LR4’s interior helps keep it competitive, but it’s still a rugged feel compared with competitors, like the Mercedes-Benz GL-Class, that aim for elegance. Hop into a Lexus GX or Acura MDX and there isn’t a perceptible difference in terms of luxury accouterments, but the luxury styles of those two seem generic versus the LR4’s ruggedness.\n\nThick leather covers the front seats, which are wide across the bottom and have a nice level of back support. There are also adjustable inboard armrests for both the driver and front passenger, so you won’t have to rely on the well-cushioned center console cover.\n\nThe second-row seats are more upright in terms of positioning, making both full-size children and adults a bit uncomfortable. There also wasn’t as much room in the second row as I expected for child-safety seats, which made it difficult for my children to get from one side to the other.\n\nFolding the two back rows of seats flat and putting them back in place is also rather annoying. The second row only tumbles forward, meaning even if someone is just trying to get into the third row, the second row needs to be stowed as if you were expanding the cargo area. Many competitors have a separate, dedicated setting for the second row just for this type of access.\n\nFolding the third row requires a number of steps using latches and straps. They’re inconvenient compared with competitors, but it wouldn’t be as much of an annoyance if getting to them didn’t require reaching over the large tailgate, which juts out and is difficult to get past. There is no power folding option, either, even though one is found in many of today’s competitors.\n\nErgonomics & Electronics\nThe LR4 features a multimedia system you’ll find in many current Land Rovers and Jaguars. When I first tested it a few years ago I found it clunky and somewhat unattractive to look at. After some time, though, you get used to it, and most of the functions are laid out in a fluid nature. I also like having the large, physical shortcut buttons laid out below the 8-inch touch-screen. (Newer Land Rover models have resorted to touch-sensitive panels instead of mechanical buttons.)\n\nThe climate controls are also well-done, with big knobs that are easy to grasp, wrapped in grippy rubber. This is where having a rugged aesthetic pays off, I guess.\n\nCargo, Storage & Towing\nCargo space overall is quite good, rated at 9.9 cubic feet with the third row in place, 44.3 cubic feet with it folded and a maximum of 76.8 cubic feet with the second row also tumbled forward. That compares well to the MDX, which has 14.8, 38.4 and 68.4 cubic feet, respectively. Infiniti’s larger and more expensive QX80 is rated 16.6, 49.6 and 95.1 cubic feet, respectively. Lexus provides only the GX’s minimum dimension, at 11.6 cubic feet, and its maximum, at 64.7 cubic feet. Compare these models here.\n\nThe LR4 also features a clamshell tailgate/liftgate combination, which is cool if you like to actually tailgate, but not so much if you want to reach cargo that’s rolled around. It’s also a pain if you need to load heavy items into the LR4; it’s a long stretch even if you’re above average height.\n\nFor families who tow, the LR4 can handle 7,716 pounds. That outdoes the GX, at 6,500 pounds, and the MDX, which can only handle 3,500 pounds. Serious haulers would likely consider the QX and its 8,500-pound rating or a more traditional SUV like the 2015 Chevrolet Tahoe, which can be optioned to tow 8,300 pounds.\n\nSafety\nThe LR4 has not been crash-tested by either the federal government or the Insurance Institute for Highway Safety.\n\nSafety features include side airbags for the third row of seats, as well as the standard array of front and side airbags for front passengers and side curtain airbags for the first and second rows. You can view all the LR4’s safety features here.\n\nThere is an optional surround camera system that shows a 360-degree view around the SUV, as if viewed from above. In general, I find these systems to be useful in everyday situations and even more appreciated in larger vehicles like the LR4.\n\nValue in Its Class\nBelieve it or not, the price of this Land Rover is one thing you might like. Starting around $50,000, the LR4 comes decently equipped with standard four-wheel drive, leather seats, 19-inch alloy wheels and an 11-speaker sound system.\n\nIt can be equipped with an array of packages, including HSE, which adds navigation, parking aids and power-folding mirrors for $4,900. The HSE Lux Package costs $10,200 and adds those items plus a 16-speaker sound system, an electronically adjustable steering column, a heated steering wheel and even a cargo compartment that doubles as a “Cool Box” that can keep a small number of drinks cold so long as the engine is running.\n\nThe Mercedes GL and Infiniti QX80 start at about $12,000 more, but a Lexus GX460 is roughly the same price and comparable not just on the spec sheet, but also in terms of performance and the level of luxury inside.\n\nShoppers will just have to decide if a somewhat flawed Land Rover has enough charm to warrant a purchase.\n\nSend David an email",
+      "trims": [
+        {
+          "name": "4WD 4dr",
+          "price": "$50400",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Eight-speed automatic transmission, stop-start technology standard",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Independent Axle Type - Rear",
+              "Double Wishbone Suspension Type - Rear",
+              "Independent Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A As Spec'd Curb Weight",
+              "23 gal Fuel Tank Capacity, Approx",
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "N/A Curb Weight - Rear",
+              "N/A Gross Combined Wt Rating",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Payload",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Gross Axle Weight Rating",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "5,655 lbs Base Curb Weight",
+              "0 lbs Option Weight - Front",
+              "7,716 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr HSE",
+          "price": "$50400",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Eight-speed automatic transmission, stop-start technology standard",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "7,716 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,785 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr LUX",
+          "price": "$50400",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Eight-speed automatic transmission, stop-start technology standard",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "7,716 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,785 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/1b25f21a-039e-4a62-ab35-611fd596f5d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/438f0d74-364d-4f33-9352-8dfce968607e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4a82709a-a2dd-4b3a-9f46-091c13e750e3/d08e3cec-d3e0-4497-bc3f-5bc9a79e1a16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/dc8c3dd5-d3ec-4970-83e3-a77720593247.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/0869385e-9e69-4e37-a347-21c7364a62cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/c3cee674-8c71-4433-9f78-b97b91d271b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/f8862f9f-9400-4bba-9cb9-f4674f3fa0f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/a77acc20-e1d4-411a-9e86-332e300bc87c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/f5c4a16f-9215-4882-9cea-25dc75f2ae75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/93d87fcc-7adf-4f14-9848-3b0c832b1cb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/ced64bd5-98c9-46e9-a683-083c93c920ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/116c7b3f-3f6c-4a77-b01f-11fc95ee102e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/e7b419d7-4f28-41f0-b555-8a8539ecc1d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/4f170518-d0a8-41b8-8a0b-891fd691354c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/1a7db8c8-d94a-40a2-8106-4af88991cb27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/9778b2d0-411f-401b-831b-b4fd34baf6ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/7b7921bd-fc59-4aeb-85f5-7098ee01a08e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/caafc3b0-bcf4-4754-9495-5994a75e0d52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/3244397e-1ef2-422c-abad-928dbf562445.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/d18853a5-be8a-47b6-9603-3fc4b5dcc5da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/00c70bc3-2e7a-4f7b-a510-051065a6ca09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/66bbc46e-9363-4d96-91e8-6af4e1971c03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/5d1e3d8b-69ba-4cf0-bfe9-6485daa5ab9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/8f4db60b-0afe-4a48-9cfa-19915d05740a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/12e7efb9-b836-41a0-8d03-83e5a26b877a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/06a4c77a-c66f-49b6-9440-2f068b81fab6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/6b449f4e-ccba-4fd2-a960-67715b58175e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/ef2fb026-815a-420b-8c41-178aa220915f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/d077aac2-78a9-42f3-9ced-a4232ae0cdd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/ca72fe33-d1f8-40d8-bcfa-ca21f4c9e78b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/729c803b-3a69-41bc-855d-69c5c62ea55f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/a8100d22-8431-429d-9557-06e43004346f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/500dab0e-c74a-483f-84cc-c127ad320b25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d041ddb1-c223-4196-b651-97e145002323/33300b70-0c5f-4947-9557-e276a87632f5.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in June 2010 about the 2010 Land Rover LR4. Little of substance has changed with this year’s model. To see what’s new for 2011, click here, or check out a side-by-side comparison of the two model years.\n\nCompared with its predecessor, the LR4 luxury SUV is much more appealing for shoppers who’d like to conquer rugged off-road trails and go for a night on the town — all in the same SUV. Land Rover’s improvements also make the LR4 a legitimate competitor to SUVs like the Audi Q7 and Mercedes-Benz M-Class.\n\nIt’s better because it features a dapper cabin — something that was sorely missing from the previous version, the LR3 — and a new V-8 engine that makes 75 more horsepower than the LR3’s V-8, but with the same EPA-estimated gas mileage: a still-thirsty 12/17 mpg city/highway.\n\nLand Rover’s top-of-the-line Range Rover has excelled at being a multifaceted SUV for years, thanks to its on- and off-road performance, and the LR4 promises most of that versatility — for quite a bit less cash.\n\nThe Look\n“LR4” is a new name for Land Rover, but if you’re familiar with the brand’s lineup, you’ll instantly think of the outgoing LR3 when you see it. In profile, the two SUVs look nearly identical. The primary styling differences are in front and around back.\n\nChanges to the front include new headlights and a new grille that bring the LR4’s styling more in line with the rest of Land Rover’s lineup. The rear gets new taillights. The styling is still distinctly Land Rover, with its upright, angular elements, which should satisfy the brand faithful. To see a side-by-side comparison with the 2009 LR3, click here.\n\nDriving It\nThe LR4’s ride quality brought the Range Rover to mind. The standard height-adjustable air suspension is tuned for comfort, and it wasn’t even ruffled by the rough roads you inevitably encounter in Chicago, where I spent the majority of my time driving the LR4. Even though the LR4 is a tall SUV, with 7.3 inches of ground clearance in the suspension’s regular mode, it doesn’t exhibit excessive body roll in corners, which is a confidence-booster for drivers.\n\nThe LR4’s curb weight is a hefty 5,703 pounds, but it feels swift for a big SUV. Credit the new 375-hp, 5.0-liter V-8, which is standard. The engine features direct-injection technology and pulls strongly when accelerating at midrange speeds. There’s power to spare on the highway — though not as much as you might expect from a 375-hp V-8.\n\nIn a luxury SUV, how the engine delivers its power is just as important as how much power it has, and the LR4’s V-8 is smooth and refined. It works with a six-speed automatic transmission that knocks off smooth shifts, though it can be a bit hesitant to kick down at highway speeds when more power is needed.\n\nOne thing shoppers will immediately like about the LR4 when they get behind the wheel is the great forward views afforded by its elevated seating position. You sit a lot higher than most vehicles on the road, and that gives you a good view of what’s happening in front of you. The windshield and side windows are also big, putting the higher stance to good use as far as visibility is concerned.\n\nThe suspension tuning feels firmer when you take the LR4 up to highway speeds. Up there, bumps and cracks in the road that were easily damped at lower speeds become more noticeable.\n\nOverall, the interior is very quiet. Not many outside noises make it into the cabin, and those that do are muted enough that they’re not distracting. Well done, Land Rover.\n\nThe Inside\nThere’s no question the old LR3’s interior was one of its weak spots. Its center control panel had a swath of unremarkable plastic and black buttons that looked out of place on a luxury SUV — especially one with a starting price around $46,000. The new LR4’s interior, by comparison, is worlds better, giving the SUV a design worthy of its starting price of about $47,000.\n\nThe most apparent change is the replacement of the downmarket control panel with one that features a new layout, new controls and — thankfully — less plastic. The center console and instruments are new, too, and they continue the greater emphasis on luxury that’s evident in the LR4. It’s another way this SUV moves closer to the top-dog Range Rover.\n\nLand Rover says the front bucket seats now have longer cushions. They offer decent thigh support, but they’re not particularly large overall. I do like Land Rover’s adjustable armrests that are attached to the inside of the front seats, though. They’re not something you see every day — even in the luxury segment — but they significantly enhance driver and passenger comfort.\n\nBackseat passengers are less coddled. For a large SUV, the LR4’s second row isn’t all that roomy, nor is it very comfortable for adults. There’s not much legroom, and the seat cushions are short. The seat isn’t adjustable, either.\n\nConversely, our test car’s optional third row was surprisingly comfortable for adults when you consider it can also fold into the floor. There’s decent legroom, which would make it tolerable for shorter trips, and headroom isn’t bad, either. The twin bucket seats back there are a little small, but they do a decent job accommodating adults and would have no trouble carrying children — the people most likely to end up in this seat.\n\nCargo & Towing\nWhen all three rows of seats are upright and ready for use, there’s just 9.9 cubic feet of cargo room. Luggage space expands considerably when you fold the third row, moving up to 42.1 cubic feet.\n\nLike the LR3 before it, the LR4 has a unique, asymmetrical liftgate/tailgate that gives the rear of the SUV a distinct appearance. However, the design makes it more difficult to load cargo or fold the third row; the lowered tailgate keeps you from reaching in as far you could with a traditional, full liftgate.\n\nWhen properly equipped, the LR4’s maximum towing capacity for a braked trailer is a stout 7,716 pounds. It drops considerably for a trailer without brakes, going down to 1,653 pounds.\n\nSafety\nStandard safety features include antilock brakes, an electronic stability system, side-impact airbags for the front seats, and side curtain airbags. For a full list of safety features, check out the Standard Equipment & Specs page.\n\nLR4 in the Market\nThe SUV craze that has gripped America for the past 15 years is ebbing, but for Land Rover, real off-road capability is as much a part of its brand as track-ready performance is for Porsche. While other luxury brands are de-emphasizing off-road capability in their SUVs and crossovers, it’s too ingrained in the Land Rover image for the British brand to try anything like that.\n\nIn the new LR4, Land Rover focused on the aspects of the SUV that needed improvement, like the cabin and acceleration performance, while retaining that signature go-anywhere capability — which promises to become increasingly unique in this class.\n\nSend Mike an email",
+      "trims": [
+        {
+          "name": "4WD 4dr V8",
+          "price": "$47650",
+          "specifications": {
+            "Notable features": [
+              "375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "5.0L/305 Displacement",
+              "375 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Independent, air Suspension Type - Front",
+              "Independent, air Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "5,833 lbs Base Curb Weight",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Four-Wheel Brake ABS System",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 HSE",
+          "price": "$47650",
+          "specifications": {
+            "Notable features": [
+              "375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 3500 SAE Net Torque @ RPM",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "5.0L/305 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Double-Wishbone Suspension Type - Rear (Cont.)",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Independent, air Suspension Type - Rear",
+              "Independent, air Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,833 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 LUX",
+          "price": "$47650",
+          "specifications": {
+            "Notable features": [
+              "375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "5.0L/305 Displacement",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "375 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent, air Suspension Type - Front",
+              "Independent, air Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,833 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "Four-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 HSE Metropolis Black LE",
+          "price": "$51900",
+          "specifications": {
+            "Notable features": [
+              "375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "5.0L/305 Displacement",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "375 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent, air Suspension Type - Front",
+              "Independent, air Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,833 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "Four-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 HSE Metropolis LE",
+          "price": "$51900",
+          "specifications": {
+            "Notable features": [
+              "375-hp V-8",
+              "Five or seven seats",
+              "Height-adjustable air suspension",
+              "Standard 4WD with Terrain Response"
+            ],
+            "Highlights": [
+              "12 City / 17 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "5.0L/305 Displacement",
+              "375 @ 6500 SAE Net Horsepower @ RPM",
+              "375 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent, air Suspension Type - Front",
+              "Independent, air Suspension Type - Rear",
+              "Double-Wishbone Suspension Type - Front (Cont.)",
+              "Double-Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,833 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "551 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "551 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Optional Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "Four-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1a8bfd34-29cd-43ec-921a-cf77c47c7fb5/3600079b-73ae-445c-922d-601dd687d248.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Land Rover LR4 SUV mixes off-road capability with numerous luxury amenities. It has standard seating for five and holds up to seven with an optional two-seat third row. A supercharged 3.0-liter V-6 engine, eight-speed automatic transmission and four-wheel drive are standard. The LR4 competes with the BMW X5, Mercedes-Benz GLE-Class and Lexus GX 460.\nNew for 2016\nThere are no significant changes.\nSignificant Standard Features\n\n340-horsepower, supercharged 3.0-liter V-6 engine with stop-start technology\nEight-speed automatic transmission\nFour-wheel drive\nLeather upholstery\nFront sunroof\nMiddle and rear glass roofs with sunshades\nLiftgate/tailgate design\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\nTwo-speed transfer case and locking rear differential\nThird-row seat that folds into floor\nHeated windshield\nHeated front and rear seats\nSurround view system with five cameras\nRear entertainment system\nBlind spot warning system",
+      "trims": [
+        {
+          "name": "4WD 4dr HSE LUX *Ltd Avail*",
+          "price": "$50900",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Stop-start technology standard",
+              "Eight-speed automatic transmission",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type",
+              "3.0 L/184 Displacement",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "332 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "5,785 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "14,859 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "7,716 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,143 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr HSE *Ltd Avail*",
+          "price": "$50900",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Stop-start technology standard",
+              "Eight-speed automatic transmission",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type",
+              "3.0 L/184 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "14,859 lbs Gross Combined Wt Rating",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,785 lbs Base Curb Weight",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "N/A Gross Axle Weight Rating",
+              "0 lbs Option Weight - Rear",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Front",
+              "N/A As Spec'd Payload",
+              "7,716 lbs Maximum Trailering Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A As Spec'd Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr",
+          "price": "$50900",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Stop-start technology standard",
+              "Eight-speed automatic transmission",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0 L/184 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "332 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,716 lbs Maximum Trailering Capacity",
+              "23 gal Fuel Tank Capacity, Approx",
+              "0 lbs Option Weight - Rear",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Gross Axle Weight Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,655 lbs Base Curb Weight",
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Front",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A As Spec'd Curb Weight",
+              "N/A Curb Weight - Front",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "14,859 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr HSE LUX Landmark Edition",
+          "price": "$50900",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Stop-start technology standard",
+              "Eight-speed automatic transmission",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/184 Displacement",
+              "332 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Independent Axle Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Independent Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "5,785 lbs Base Curb Weight",
+              "N/A As Spec'd Curb Weight",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "7,716 lbs Maximum Trailering Capacity",
+              "0 lbs Option Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "14,859 lbs Gross Combined Wt Rating",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Payload"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr HSE Silver Edition",
+          "price": "$50900",
+          "specifications": {
+            "Notable features": [
+              "340-hp, supercharged V-6 standard",
+              "Stop-start technology standard",
+              "Eight-speed automatic transmission",
+              "Height-adjustable air suspension standard",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "15 City / 19 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 3500 SAE Net Torque @ RPM",
+              "340 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/184 Displacement",
+              "Intercooled Supercharger Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,143 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "7,716 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "772 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,716 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "14,859 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,785 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

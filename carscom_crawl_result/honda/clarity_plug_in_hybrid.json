@@ -1,0 +1,635 @@
+{
+  "make": "honda",
+  "model": "clarity_plug_in_hybrid",
+  "years": {
+    "2022": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/b515ded8-8b81-4ca5-9b63-841a4bacc759.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/ffc7f033-1baa-4d14-ba63-0f0f029a04ed.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/1cd4c3cd-3c3d-4531-a14a-8ca8ae737b53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/82b232d5-722c-4764-b5ed-3a163e8bceab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/01fe1458-15c4-4cd6-9131-eb6af1054e23.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/602aeb0e-6ac2-4371-91c3-d122825a18c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/e92d3733-3eb0-4827-b2b0-4f96bfab1fab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/a0d2f09f-58be-4974-a036-9ace9d19bcb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/86a67b8b-140e-4283-9c04-5e5c953e7e8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/eea31cb5-a858-4042-bfff-53a4555da06a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/4a24a544-b679-4490-b5c5-6be2912ca4a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/e2fb78b4-3ffb-4b9f-a861-6151a5815638.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/4ad1d01f-c6f0-4a88-bb61-a94f34fbb425.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/461724e6-19ff-4fd8-aca4-335d8de376fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/800faba9-e7f6-4629-871b-427e1e0bc85f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/39d86f2f-bc35-4ec5-9edb-8f97967fe174.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/3cbeac2a-f012-4b19-ab12-e94a5b85c2f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/b98a0308-80e2-4dfb-b2db-3f4f34337ad0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/1cd4c3cd-3c3d-4531-a14a-8ca8ae737b53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/26e2a181-d16b-4892-a3a1-797e18a08726.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/c0c1e1d1-4b8f-449e-a447-2206522bdfc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/fd307e33-35dd-40ae-9f48-57ad316ecb1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/40cbb72b-ad83-4c88-aff8-6efc9672f08e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/77aaeea5-ab92-492e-80da-d7f498c1e9a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/a4202e50-bbb7-490d-8f47-e3ec988776b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/dda9c581-65bb-4a82-ae90-735c411240ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/82ff8e9b-f705-4575-b72c-c727d17d5e0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/442fbc65-2f2a-465d-baf7-14b0f1e87631.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/8af154b3-44ac-4cc0-b5b1-ffd5d8a116ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/07f4098f-29c8-4e27-8b34-ce7fde9439c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/9f660572-4494-4a94-a116-842eea50df4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/a48873f8-9ba4-451d-9576-ee7673077290.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a61e1950-b67c-404d-bf3f-4c54f0c0862b/a8032bb6-c13e-4d44-9661-e0b7847c7fb9.png"
+      ],
+      "expert_review": "The verdict: The Clarity is a rare plug-in hybrid that delivers a good balance of the basics: good electric-only range, decent gas mileage after the charge is depleted and no onerous trade-offs.\n\nVersus the competition: With a price, electric vehicle range and mpg comparable to the Chevrolet Volt — and a roomier interior — the Clarity Plug-In Hybrid is set to capitalize on the admittedly soft demand for plug-in hybrids once the discontinued Volt’s supply is exhausted.\n\nThis review covers the PHEV version of the Honda Clarity, which also comes with hydrogen fuel-cell and battery-only power in limited markets. It’s available in base and Touring trim levels; I tested the latter.\n\nThere are 23 plug-in hybrid models on the market today and many more to come. To be frank, most of them aren’t very appealing. (I’m not talking about aesthetic appeal, which could be a problem for the unique-looking Clarity, but I’ll let you draw your own conclusions there.) They’re a great idea — drive a set distance on cheap, potentially clean electric power, then have gasoline power at the ready to allow for longer trips. To my way of thinking, if you’re going to the trouble of producing a car that can be plugged in and charged — or you’re a consumer willing to invest in such a vehicle and a parking arrangement to support it — you want generous electric-only range and few trade-offs. Unfortunately, though it’s roughly the ninth anniversary of modern plug-in hybrids, few yet have met this description. The Clarity Plug-In Hybrid does.\n\nWith an EPA-estimated electric range of 47 miles and combined gas mileage of 42 mpg once the charge is depleted, the Clarity rivals the Volt, which has a 53-mile range and the same mpg rating.\nThe full estimates are 44/40/42 mpg city/highway/combined for the Clarity and 43/42/42 mpg for the Volt.\n\nSadly, even PHEVs that deliver the goods haven’t caught on in the land of consistently low gas prices (that would be ‘Merica). Only a year after the Clarity PHEV rolled out in earnest, Chevrolet announced the Volt’s pending discontinuation.\n\nHow It Drives\n\nIn case you’ve experienced a hybrid with an “EV” button, which is normally as useful as an elevator’s door-close button, this is a very different approach. The Clarity is designed to accelerate under electric power alone up to highway speeds, though the 103-horsepower, 1.5-liter gas four-cylinder engine will activate if you press the pedal far enough. This is similar to the Toyota Prius Prime and Hyundai Ioniq Plug-In Hybrid. A charged Volt, on the other hand, delivers its maximum acceleration on electric power alone; its gas engine may turn on and assist once the highest speeds are reached, but the effect is that of a battery-electric car (apparently, this wasn’t enough to keep it in production). System power is 212 hp for the Clarity powertrain.\n\nFor what it’s worth, the Clarity engine’s trigger threshold is quite high when you select the Econ driving mode. So long as you don’t gun the accelerator and can manage to keep the needle out of the gray region on the charge/power gauge, the engine won’t start. That’s because Econ mode ensures acceleration is electric-only for most of the pedal travel; unless you press past the resistance you feel when the pedal’s close to the floor and click a switch, the engine won’t trigger. I ended up driving a few days without the engine activating, even without fixating on the gauge and absent any effort to accelerate gently. But bear in mind that we have essentially no hills where Cars.com is headquartered, and I never had the car full of people or cargo, which would increase the power demand.\n\nIn addition to a Sport mode, which runs the engine much of the time, there’s a hybrid vehicle button that maintains the battery’s state of charge from the time it’s activated. Holding the HV button for a few seconds will command the system to recharge the battery pack fully using the gas engine. It’s not an efficient use of energy, just a way of ensuring EV driving later if you’re going to want maximum low-speed efficiency down the road — or to sneak home quietly after curfew, I guess (though a pedestrian-alert sound that activates at low speeds, which sounds like subtle computer startup music, might foil you there).\n\nOne plus to driving electric-only is that acceleration feels linear and consistent, which is not the case in most gas-electric hybrids when the two types of motors are working together (including the Clarity once the battery charge is depleted or if you select Sport or HV mode). To be fair, with the exception of the Volt, I’ve never experienced a gas-electric hybrid with notably high mileage that didn’t feel at least a little wonky when accelerating.\n\nFor the record, Honda’s early hybrids did feel more natural and linear, but they weren’t efficient enough to compete with Toyota and Ford. Their so-called Integrated Motor Assist employed a single electric motor that was essentially fixed to the engine’s crankshaft, assisting acceleration and providing regenerative braking, but it didn’t allow the gas engine to stop turning when the car was in motion. Honda now uses a two-motor system in the Clarity PHEV, Accord Hybrid and new 2019 Insight that’s closer in principle to that of Toyota and Ford hybrids. It has two electric motor-generators, one of which serves primarily as a generator, working with a gas engine that runs on the efficient Atkinson cycle, and it’s all tied together with a transmission designed to manage the motors’ various roles and blend their output (or generation, in the case of one or both electric motors). Apparently, if you want two-motor efficiency, some amount of acceleration awkwardness will come along for the ride.\n\nUnfortunately, there’s some braking awkwardness in the Clarity, too, but numb, vaguely disconnected brake-pedal feel is common among hybrids and electric vehicles, both of which employ regenerative braking. If anything, the Clarity’s pedal feel is above average for regenerative braking, but the way you adjust the regeneration level is baffling. Like a growing number of plug-ins, the Clarity allows you to select how aggressively the car slows when you lift off the accelerator, and like the Volt and others, it makes use of the type of steering-wheel paddles more commonly tasked with shifting automatic transmissions. Unlike Chevrolet, however, which treats it like a momentary hand brake (weird), the Clarity’s paddles work more like the Ioniq PHEV’s: One paddle decreases and the other increases braking strength, and each click raises or lowers it across four settings. The problem is that the Clarity then defaults to the original setting after a few seconds. What?! Who wants that? The only driving mode in which the selected setting stays is Sport, which isn’t the mode of choice for efficiency.\n\nOverall the Clarity rides very nicely, and we like the steering, as well. I wouldn’t call it sporty given it’s considerably heavier than, say, a Honda Accord — and because, like most vehicles designed for efficiency, its tires aren’t especially grippy.\n\nThe Inside\n\nThe Clarity’s main advantage over the Volt — aside from not being discontinued — is that it’s roomier. Technically a mid-size car, its interior volume is 101 cubic feet, versus 90.3 cubic feet for the compact Volt. It beats the Volt’s 35.8 inches of backseat headroom with 37.1 inches and leads the class with 36.2 inches of rear legroom versus the Volt’s 34.7 inches, the Ioniq Plug-In’s 35.7 inches and the Prius Prime’s 33.4 inches. The backseat is also wider than its competitors’. I found my knees raised a bit, which compromises thigh support and long-term comfort, but this is a common trend in cars of all types, to improve headroom. See these competitors compared side by side.\n\nOverall, the cabin proved quite comfortable, though some drivers objected to the hard center console encroaching on leg space. While noise levels are reasonable, we recall the Volt being a quieter vehicle even when comparing hybrid-mode driving. Fortunately, the Clarity’s gas engine isn’t as intrusive-sounding as we’ve found the 2019 Insight’s to be.\n\nOutward visibility is pretty good for a green car. Even though the windshield has a shallow rake and the windshield pillars extend far forward, they aren’t too thick and obstructive. The tail has the weird split rear-window design that’s common among wedge-shaped aerodynamic cars. Because it’s a trunk rather than a hatchback, you actually look through a short, wide window behind the backseat, through the trunk, then through another short window in the trunk lid. Split rear windows aren’t a best-case scenario, but if the weird lower window weren’t there (or you filled the trunk to the brim), you’d recognize the lower pane’s value.\n\n2019 Honda Clarity PHEV | Cars.com photo by Christian Lantry\nCargo Space\n\nFor a sedan with a battery pack, the Clarity PHEV’s cargo accommodation is quite good. As we always emphasize, you can’t compare manufacturers’ trunk measurements to hatchback measurements, so it’s not as simple as the Clarity’s 15.5-cubic-foot trunk being definitively larger than the Volt’s 10.6-cubic-foot hatch. But the Accord’s 16.7-foot trunk (regular or hybrid) shows the Clarity is in the right ballpark.\n\nEven though the Clarity has a folding backseat that leaves a larger opening than do many sedans that also accommodate a battery pack, the Volt’s hatchback body style is an advantage for larger items despite it being a smaller vehicle overall. It would be difficult to name a victor in the Volt-versus-Clarity cargo contest.\n\nThe Preconditioning Prerequisite\n\nOutside temperatures in the 80s and 90s combined with my mellow driving style to give estimated electric ranges as high as 58.5 miles, according to the instrument panel, proving that conditions can yield ranges both higher and lower than the EPA-estimated 47 miles.\n\nExperience has proved how dramatically outside temperatures can affect electric-vehicle range, and cold is far worse than heat. Though running the air conditioning does bite into range, the double-whammy of power-robbing electric heat combines with the decreased capacity of cold batteries to steal double digits from your range estimate once outside temperatures drop around freezing or below. (A study by AAA specifies a loss of more than 40 percent at 20 degrees Fahrenheit.) This is why it’s critical to precool or preheat a plug-in vehicle while it’s still plugged in. Yes, the A/C or heat required while you drive will cost you some range, but using grid power before you depart means you won’t immediately blitz a full battery for cabin comfort.\n\n2019 Honda Clarity PHEV | Cars.com photo by Christian Lantry\n\nTo facilitate this, Honda lets you activate the car’s ventilation system via the key fob and a smartphone app. Unlike some brands, the onboard HondaLink system that allows your phone to communicate with the car is included at no charge for the life of the vehicle.\n\nCharging and Costs\n\nHow much you need to invest to charge the Clarity depends on how you intend to use it. The provided 120-volt charging cord does the job, but in my testing, it added only about 4.5 miles of range for every hour of charging. It can take up to 12 hours to refill a depleted battery, according to Honda. The box drew about 11 amps of current, leaving plenty of juice in my garage’s 20-amp circuit for the garage door, lights, etc.\n\nBut if you want to drive the car more often or limit charging to off-peak rates, the Clarity PHEV can add as much as 20 miles of range per hour if charged with 240 volts at 30 amps, either publicly or at home (from empty to full in 2.5 hours, Honda estimates). The latter requires standardized Level 2 charging hardware, which costs about $500, plus installation (cost depends on your home configuration).\n\nAnother compelling reason for 240-volt charging is the cabin preconditioning described above. It represents five times the power to precool or -heat the Clarity before you depart. The supplied 120-volt cord, on the other hand, failed to cool down our test car when it was sitting outside in the sun. When it comes to inconvenience, most EV owners find that plugging in their vehicle nightly is far, far preferable to visiting a gas station — something you do way less with a PHEV.\n\nAs I write this, the national average price per gallon of regular gasoline is $2.84, which puts the Clarity PHEV’s operating cost per mile at 6.7 cents based on the rated 42 mpg. It cost me about 3.5 cents per all-electric mile based on my measurement of the electricity used to charge the battery pack, 2018’s national average cost of 12.9 cents per residential kilowatt-hour, and the 48.5 miles of range added. This is where you see the advantage of a plug-in car versus an efficient gas equivalent if you charge and drive it as intended. The most efficient non-hybrid Accord is rated 33 mpg combined, which works out to 8.6 cents per mile. Even the Accord Hybrid’s 48 mpg combined equals 5.9 cents per mile — only slightly better than the Clarity PHEV if you never plug it in.\n\nWhat Do You Give Up?\n\nThere are always trade-offs in plug-in hybrids, primarily because having two powertrains and a sizeable battery pack eats up space. The Clarity’s are few. As detailed above, cabin and cargo space are competitive. What loses out is the gas tank, which is smaller than a normal car’s. If you use the car as intended, always charging it and running electric whenever you can, it’s no problem. But if you go on longer trips between charging, you’ll find the total range is an EPA-estimated 340 miles including the 47 electric miles — meaning 293 miles between fill-ups on a road trip. For comparison, the Volt’s total is 420 miles (53 electric), the Prius Prime’s is 640 miles (25 electric) and the Ioniq Plug-In is 630 miles (29 electric).\n\nA normal, non-hybrid Honda Accord’s range is estimated at 385 to 488 miles, depending on engine and transmission, so the Clarity doesn’t sacrifice much if you start out with a full battery.\n\nShortcomings\n\nThe Clarity doesn’t have a mechanical volume knob or buttons, much less a tuning knob. Its earlier generation of the Display Audio touchscreen multimedia system has a panel of touch-sensitive buttons on its left flank. Even if you’re not wearing gloves, this is a design consumers just don’t like. Honda clearly knows that, as it’s added one or two knobs in some redone models from the same period and since, but it must have been too late for the Clarity.\n\nBeyond the mechanical interfacing, the touchscreen’s menus and graphics didn’t win any fans among our editors. Apart from one appealing range display, the art looks outdated, and you can’t see some information that does appear on the smartphone app.\n\nThis is one area where Tesla’s ability (and commitment) to update its vehicles would be priceless for Honda to adopt. The same is true of my other main complaints about the regenerative braking adjustment scheme and other aspects of the car. My quibbles are just a code change away from being improved — but that won’t happen because, like almost all other automakers, Honda doesn’t operate this way.\n\nShould You Buy a Clarity PHEV?\n\nThere are different vehicle types for different uses. If you’re someone who will use the Clarity PHEV as intended, it can provide you with cheaper motoring than the most efficient regular hybrid — currently the Hyundai Ioniq Blue (58 mpg combined, 4.9 cents per mile). It’s only when you travel beyond the Clarity’s electric range that its advantage begins to diminish. In a Clarity, you’ll also go only half of the Blue’s whopping 690 estimated miles between fill-ups.\n\nThe price is definitely right. Compare the Clarity Plug-In side by side with the Accord in gas-only and regular hybrid forms and you’ll see similar prices. As of this writing, the Accord Hybrid lists for $26,240 (all prices include destination charges). The Clarity Plug-In is $34,320 but is eligible for a federal tax credit of up to $7,500 (the amount depends on your taxable income and requires you to pay up front, collecting the credit only at tax-return time). This works out to a price as low as $26,820. The regular Accord starts at $24,640, but that’s for the base trim level; the Clarity is better equipped, with features like HomeLink, heated seats, HondaLink and more.\n\nPlug-in hybrids haven’t taken off, and one reason might be that many early PHEVs were so short on range and long on trade-offs that they poisoned the well. Or maybe consumers just don’t get it, which seems to be the case with pure EVs, as well. One of the biggest problems is that consumers don’t recognize how little range they truly need on a daily basis when charging overnight at home rather than fueling publicly. As a result, EV models with ranges of less than 200 miles — the more affordable options — get overlooked. Unless you’re trying to get by with an EV as your only car, the high premium you pay for long electric ranges may be a waste. For someone who wants to get his or her feet wet without risk, a well-executed plug-in hybrid like the Clarity Plug-In does the job with practically no trade-offs.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Sedan",
+          "price": "$33400",
+          "specifications": {
+            "Notable features": [
+              "Four-door, mid-size plug-in hybrid sedan",
+              "1.5-liter four-cylinder gas engine",
+              "17-kwh battery and two motor-generators",
+              "212 total horsepower",
+              "Hours to charge: 12 (120V) or 2.5 (240V)",
+              "6.6-kW maximum charging rate"
+            ],
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "212 @ 5500 SAE Net Horsepower @ RPM",
+              "1.5 L/91 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,052 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Touring Sedan",
+          "price": "$36600",
+          "specifications": {
+            "Notable features": [
+              "Four-door, mid-size plug-in hybrid sedan",
+              "1.5-liter four-cylinder gas engine",
+              "17-kwh battery and two motor-generators",
+              "212 total horsepower",
+              "Hours to charge: 12 (120V) or 2.5 (240V)",
+              "6.6-kW maximum charging rate"
+            ],
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "212 @ 5500 SAE Net Horsepower @ RPM",
+              "1.5 L/91 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,059 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/c38e7bc5-4231-4349-8217-831cf8ecbd0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/c0a4097f-5873-4ca9-b1aa-48c2e9961ad4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/6f1ad6a0-1a04-4aa9-9e88-cfcaf57188f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/09ff49f4-ea0f-4ec2-9154-32351504cf6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/d8e9c3d7-b710-4ddf-91b7-5d03747ff002.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/2033acd9-eefe-401e-b7e1-5f16372b9b20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/d83dbc7d-f955-44bd-924b-d5e93da7c385.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/58dbbcf1-a5aa-43e5-9c81-18772a18e139.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/a0db232e-c9e5-442c-a776-9261afc96703.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/56b24916-cb0e-4f75-bb18-329830233a50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/135a6f97-8c30-4829-9fea-18439f927617.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/fb9e883e-a22a-41a2-b526-2f5bb1e9071b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/73c14b1a-c7e8-4e99-a921-8e127a2168ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/5637aacf-9a3d-47b9-b3b7-431b8e72ddc2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/7bd1bb46-3400-469d-b618-f0277bf87034.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/5ce672a6-e387-4870-b89e-d5c20b6384e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/6aeeb263-4468-4e13-8e90-bae2ee8dfbc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/c38e7bc5-4231-4349-8217-831cf8ecbd0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/40bb9139-329e-4228-a822-201300486f6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/19c433fc-2fd4-4c65-afa6-964eaf9969a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e802011-993d-4a8c-8787-5a3b36952638/5e675245-2427-4b0f-8755-6d854801d942.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sedan",
+          "price": "$33400",
+          "specifications": {
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.5 L/91 Displacement",
+              "212 @ 5500 SAE Net Horsepower @ RPM",
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,052 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Touring Sedan",
+          "price": "$36600",
+          "specifications": {
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.5 L/91 Displacement",
+              "Gas/Electric I-4 Engine Type",
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "212 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,059 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/900f45b3-a765-403c-b8ca-71d62ef92621/6d40a759-109b-43a9-a0b3-9ec369ddb681.png"
+      ],
+      "expert_review": "What Is the 2021 Honda Clarity?\n\nThe Honda Clarity is a front-wheel-drive mid-size sedan with seating for five. Its plug-in hybrid drivetrain features a 1.5-liter four-cylinder engine and an electric drive motor, and total system output is 212 horsepower. It can travel up to 47 miles on electric power alone, according to EPA estimates, and its total estimated driving range is 340 miles. \n\nWhat’s New on the 2021 Honda Clarity?\n\nThere are no significant changes this year.\n\nWhat Features in the 2021 Honda Clarity Are Most Important?\n\nStandard features include:\n\nLED headlights\nDual-zone automatic climate control \nHeated front seats\n60/40-split, folding backseat\n8-inch touchscreen multimedia system\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning\nAutomatic emergency braking\nLane-keeping assist \nAdaptive cruise control \n\nAvailable features include:\n\nPower-adjustable driver’s seat with memory feature \nLeather-trimmed seats\nLeather-wrapped steering wheel\nNavigation\n\nShould I Buy the 2021 Honda Clarity?\n\nThe Clarity is an impressive performer among eco cars, so much so that we named the 2019 model our Eco-Friendly Car of the Year. With a comparatively long all-electric driving range and a roomy, family friendly interior, the plug-in hybrid is a great choice for people who want to drive greener but aren’t ready to make the jump to a battery-electric car.",
+      "trims": [
+        {
+          "name": "Sedan",
+          "price": "$33400",
+          "specifications": {
+            "Notable features": [
+              "Four-door, mid-size plug-in hybrid sedan",
+              "1.5-liter four-cylinder gas engine",
+              "17-kwh battery and two motor-generators",
+              "212 total horsepower",
+              "Hours to charge: 12 (120V) or 2.5 (240V)",
+              "6.6-kW maximum charging rate"
+            ],
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "1.5 L/91 Displacement",
+              "212 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,052 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "7 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Touring Sedan",
+          "price": "$36600",
+          "specifications": {
+            "Notable features": [
+              "Four-door, mid-size plug-in hybrid sedan",
+              "1.5-liter four-cylinder gas engine",
+              "17-kwh battery and two motor-generators",
+              "212 total horsepower",
+              "Hours to charge: 12 (120V) or 2.5 (240V)",
+              "6.6-kW maximum charging rate"
+            ],
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "212 @ 5500 SAE Net Horsepower @ RPM",
+              "1.5 L/91 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,059 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/6cfdc78e-3c40-4259-bd4a-4859fa297bbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/fa016f10-dba0-4c0d-8e80-044a31bf194b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/2560866f-82cb-4e0b-8986-10bcb78c37e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/a288b06c-601b-4890-a5cb-e6624990bf65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/dae99eef-a042-42c9-8df5-79a9a3487e6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/5097baea-ff1e-4e4a-b2ee-490da66ed5e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/67898a74-1bf3-4a13-bf17-9eceff3451d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/e584f6e0-3225-472e-9564-8f8b58e124e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/2e949793-6afc-4139-b194-f8bc1a979815.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/6c26f4ff-e256-4bcd-817c-adbb500a7c3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/cdeebc8f-2990-4046-aeb3-753ef5d31e59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/897e1529-006e-44ef-b76b-6d3837137f50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/12524692-77f1-4872-867d-1d5beeb2d062.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/b597e8b1-15fa-43c9-b4f0-99b5a908e126.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/9b7a66aa-022f-42e4-9efb-d95850c08288.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/1a3f63ab-a469-4639-844c-9a0e0591a1e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/053111f7-87b1-48ed-94c6-1051842b9d54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/e144ec10-8d48-43a8-a7f0-e9fd42512155.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/38b1984f-f458-4591-994a-0a3b0035a854.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/b963fecc-5226-445a-b621-008dbb6d6a15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/397863d4-fdd0-4a91-a44d-cc8a1179458f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/a28b1a66-5d6e-43b8-8180-dd3806c5b45a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/40c64b74-bb8e-4416-aeab-df94eb3c8ed5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/815d0f93-688f-40f4-8b0c-538ba7f04d2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/a48fab9a-ac28-4958-bd11-d10a77f05412.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/e9a8665f-0ac6-4e68-88e9-0a7ad80e3276.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/89ba6c1e-a2a0-4033-958f-7d95f8656be8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/f8aaff76-9afd-4cc0-81b8-93176ff3c223.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/b597e8b1-15fa-43c9-b4f0-99b5a908e126.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/0f5a346d-0a8e-4cb1-8530-08fa72fcd4ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1dc3ecd3-b2d0-4f7a-8e66-f7311c4f672f/db2036cd-6e59-4be2-a810-3502fc5a5974.png"
+      ],
+      "expert_review": "The verdict: The Clarity is a rare plug-in hybrid that delivers a good balance of the basics: good electric-only range, decent gas mileage after the charge is depleted and no onerous trade-offs.\n\nVersus the competition: With a price, electric vehicle range and mpg comparable to the Chevrolet Volt — and a roomier interior — the Clarity Plug-In Hybrid is set to capitalize on the admittedly soft demand for plug-in hybrids once the discontinued Volt’s supply is exhausted.\n\nThis review covers the PHEV version of the Honda Clarity, which also comes with hydrogen fuel-cell and battery-only power in limited markets. It’s available in base and Touring trim levels; I tested the latter.\n\nThere are 23 plug-in hybrid models on the market today and many more to come. To be frank, most of them aren’t very appealing. (I’m not talking about aesthetic appeal, which could be a problem for the unique-looking Clarity, but I’ll let you draw your own conclusions there.) They’re a great idea — drive a set distance on cheap, potentially clean electric power, then have gasoline power at the ready to allow for longer trips. To my way of thinking, if you’re going to the trouble of producing a car that can be plugged in and charged — or you’re a consumer willing to invest in such a vehicle and a parking arrangement to support it — you want generous electric-only range and few trade-offs. Unfortunately, though it’s roughly the ninth anniversary of modern plug-in hybrids, few yet have met this description. The Clarity Plug-In Hybrid does.\n\nWith an EPA-estimated electric range of 47 miles and combined gas mileage of 42 mpg once the charge is depleted, the Clarity rivals the Volt, which has a 53-mile range and the same mpg rating.\nThe full estimates are 44/40/42 mpg city/highway/combined for the Clarity and 43/42/42 mpg for the Volt.\n\nSadly, even PHEVs that deliver the goods haven’t caught on in the land of consistently low gas prices (that would be ‘Merica). Only a year after the Clarity PHEV rolled out in earnest, Chevrolet announced the Volt’s pending discontinuation.\n\nHow It Drives\n\nIn case you’ve experienced a hybrid with an “EV” button, which is normally as useful as an elevator’s door-close button, this is a very different approach. The Clarity is designed to accelerate under electric power alone up to highway speeds, though the 103-horsepower, 1.5-liter gas four-cylinder engine will activate if you press the pedal far enough. This is similar to the Toyota Prius Prime and Hyundai Ioniq Plug-In Hybrid. A charged Volt, on the other hand, delivers its maximum acceleration on electric power alone; its gas engine may turn on and assist once the highest speeds are reached, but the effect is that of a battery-electric car (apparently, this wasn’t enough to keep it in production). System power is 212 hp for the Clarity powertrain.\n\nFor what it’s worth, the Clarity engine’s trigger threshold is quite high when you select the Econ driving mode. So long as you don’t gun the accelerator and can manage to keep the needle out of the gray region on the charge/power gauge, the engine won’t start. That’s because Econ mode ensures acceleration is electric-only for most of the pedal travel; unless you press past the resistance you feel when the pedal’s close to the floor and click a switch, the engine won’t trigger. I ended up driving a few days without the engine activating, even without fixating on the gauge and absent any effort to accelerate gently. But bear in mind that we have essentially no hills where Cars.com is headquartered, and I never had the car full of people or cargo, which would increase the power demand.\n\nIn addition to a Sport mode, which runs the engine much of the time, there’s a hybrid vehicle button that maintains the battery’s state of charge from the time it’s activated. Holding the HV button for a few seconds will command the system to recharge the battery pack fully using the gas engine. It’s not an efficient use of energy, just a way of ensuring EV driving later if you’re going to want maximum low-speed efficiency down the road — or to sneak home quietly after curfew, I guess (though a pedestrian-alert sound that activates at low speeds, which sounds like subtle computer startup music, might foil you there).\n\nOne plus to driving electric-only is that acceleration feels linear and consistent, which is not the case in most gas-electric hybrids when the two types of motors are working together (including the Clarity once the battery charge is depleted or if you select Sport or HV mode). To be fair, with the exception of the Volt, I’ve never experienced a gas-electric hybrid with notably high mileage that didn’t feel at least a little wonky when accelerating.\n\nFor the record, Honda’s early hybrids did feel more natural and linear, but they weren’t efficient enough to compete with Toyota and Ford. Their so-called Integrated Motor Assist employed a single electric motor that was essentially fixed to the engine’s crankshaft, assisting acceleration and providing regenerative braking, but it didn’t allow the gas engine to stop turning when the car was in motion. Honda now uses a two-motor system in the Clarity PHEV, Accord Hybrid and new 2019 Insight that’s closer in principle to that of Toyota and Ford hybrids. It has two electric motor-generators, one of which serves primarily as a generator, working with a gas engine that runs on the efficient Atkinson cycle, and it’s all tied together with a transmission designed to manage the motors’ various roles and blend their output (or generation, in the case of one or both electric motors). Apparently, if you want two-motor efficiency, some amount of acceleration awkwardness will come along for the ride.\n\nUnfortunately, there’s some braking awkwardness in the Clarity, too, but numb, vaguely disconnected brake-pedal feel is common among hybrids and electric vehicles, both of which employ regenerative braking. If anything, the Clarity’s pedal feel is above average for regenerative braking, but the way you adjust the regeneration level is baffling. Like a growing number of plug-ins, the Clarity allows you to select how aggressively the car slows when you lift off the accelerator, and like the Volt and others, it makes use of the type of steering-wheel paddles more commonly tasked with shifting automatic transmissions. Unlike Chevrolet, however, which treats it like a momentary hand brake (weird), the Clarity’s paddles work more like the Ioniq PHEV’s: One paddle decreases and the other increases braking strength, and each click raises or lowers it across four settings. The problem is that the Clarity then defaults to the original setting after a few seconds. What?! Who wants that? The only driving mode in which the selected setting stays is Sport, which isn’t the mode of choice for efficiency.\n\nOverall the Clarity rides very nicely, and we like the steering, as well. I wouldn’t call it sporty given it’s considerably heavier than, say, a Honda Accord — and because, like most vehicles designed for efficiency, its tires aren’t especially grippy.\n\nThe Inside\n\nThe Clarity’s main advantage over the Volt — aside from not being discontinued — is that it’s roomier. Technically a mid-size car, its interior volume is 101 cubic feet, versus 90.3 cubic feet for the compact Volt. It beats the Volt’s 35.8 inches of backseat headroom with 37.1 inches and leads the class with 36.2 inches of rear legroom versus the Volt’s 34.7 inches, the Ioniq Plug-In’s 35.7 inches and the Prius Prime’s 33.4 inches. The backseat is also wider than its competitors’. I found my knees raised a bit, which compromises thigh support and long-term comfort, but this is a common trend in cars of all types, to improve headroom. See these competitors compared side by side.\n\nOverall, the cabin proved quite comfortable, though some drivers objected to the hard center console encroaching on leg space. While noise levels are reasonable, we recall the Volt being a quieter vehicle even when comparing hybrid-mode driving. Fortunately, the Clarity’s gas engine isn’t as intrusive-sounding as we’ve found the 2019 Insight’s to be.\n\nOutward visibility is pretty good for a green car. Even though the windshield has a shallow rake and the windshield pillars extend far forward, they aren’t too thick and obstructive. The tail has the weird split rear-window design that’s common among wedge-shaped aerodynamic cars. Because it’s a trunk rather than a hatchback, you actually look through a short, wide window behind the backseat, through the trunk, then through another short window in the trunk lid. Split rear windows aren’t a best-case scenario, but if the weird lower window weren’t there (or you filled the trunk to the brim), you’d recognize the lower pane’s value.\n\n2019 Honda Clarity PHEV | Cars.com photo by Christian Lantry\nCargo Space\n\nFor a sedan with a battery pack, the Clarity PHEV’s cargo accommodation is quite good. As we always emphasize, you can’t compare manufacturers’ trunk measurements to hatchback measurements, so it’s not as simple as the Clarity’s 15.5-cubic-foot trunk being definitively larger than the Volt’s 10.6-cubic-foot hatch. But the Accord’s 16.7-foot trunk (regular or hybrid) shows the Clarity is in the right ballpark.\n\nEven though the Clarity has a folding backseat that leaves a larger opening than do many sedans that also accommodate a battery pack, the Volt’s hatchback body style is an advantage for larger items despite it being a smaller vehicle overall. It would be difficult to name a victor in the Volt-versus-Clarity cargo contest.\n\nThe Preconditioning Prerequisite\n\nOutside temperatures in the 80s and 90s combined with my mellow driving style to give estimated electric ranges as high as 58.5 miles, according to the instrument panel, proving that conditions can yield ranges both higher and lower than the EPA-estimated 47 miles.\n\nExperience has proved how dramatically outside temperatures can affect electric-vehicle range, and cold is far worse than heat. Though running the air conditioning does bite into range, the double-whammy of power-robbing electric heat combines with the decreased capacity of cold batteries to steal double digits from your range estimate once outside temperatures drop around freezing or below. (A study by AAA specifies a loss of more than 40 percent at 20 degrees Fahrenheit.) This is why it’s critical to precool or preheat a plug-in vehicle while it’s still plugged in. Yes, the A/C or heat required while you drive will cost you some range, but using grid power before you depart means you won’t immediately blitz a full battery for cabin comfort.\n\n2019 Honda Clarity PHEV | Cars.com photo by Christian Lantry\n\nTo facilitate this, Honda lets you activate the car’s ventilation system via the key fob and a smartphone app. Unlike some brands, the onboard HondaLink system that allows your phone to communicate with the car is included at no charge for the life of the vehicle.\n\nCharging and Costs\n\nHow much you need to invest to charge the Clarity depends on how you intend to use it. The provided 120-volt charging cord does the job, but in my testing, it added only about 4.5 miles of range for every hour of charging. It can take up to 12 hours to refill a depleted battery, according to Honda. The box drew about 11 amps of current, leaving plenty of juice in my garage’s 20-amp circuit for the garage door, lights, etc.\n\nBut if you want to drive the car more often or limit charging to off-peak rates, the Clarity PHEV can add as much as 20 miles of range per hour if charged with 240 volts at 30 amps, either publicly or at home (from empty to full in 2.5 hours, Honda estimates). The latter requires standardized Level 2 charging hardware, which costs about $500, plus installation (cost depends on your home configuration).\n\nAnother compelling reason for 240-volt charging is the cabin preconditioning described above. It represents five times the power to precool or -heat the Clarity before you depart. The supplied 120-volt cord, on the other hand, failed to cool down our test car when it was sitting outside in the sun. When it comes to inconvenience, most EV owners find that plugging in their vehicle nightly is far, far preferable to visiting a gas station — something you do way less with a PHEV.\n\nAs I write this, the national average price per gallon of regular gasoline is $2.84, which puts the Clarity PHEV’s operating cost per mile at 6.7 cents based on the rated 42 mpg. It cost me about 3.5 cents per all-electric mile based on my measurement of the electricity used to charge the battery pack, 2018’s national average cost of 12.9 cents per residential kilowatt-hour, and the 48.5 miles of range added. This is where you see the advantage of a plug-in car versus an efficient gas equivalent if you charge and drive it as intended. The most efficient non-hybrid Accord is rated 33 mpg combined, which works out to 8.6 cents per mile. Even the Accord Hybrid’s 48 mpg combined equals 5.9 cents per mile — only slightly better than the Clarity PHEV if you never plug it in.\n\nWhat Do You Give Up?\n\nThere are always trade-offs in plug-in hybrids, primarily because having two powertrains and a sizeable battery pack eats up space. The Clarity’s are few. As detailed above, cabin and cargo space are competitive. What loses out is the gas tank, which is smaller than a normal car’s. If you use the car as intended, always charging it and running electric whenever you can, it’s no problem. But if you go on longer trips between charging, you’ll find the total range is an EPA-estimated 340 miles including the 47 electric miles — meaning 293 miles between fill-ups on a road trip. For comparison, the Volt’s total is 420 miles (53 electric), the Prius Prime’s is 640 miles (25 electric) and the Ioniq Plug-In is 630 miles (29 electric).\n\nA normal, non-hybrid Honda Accord’s range is estimated at 385 to 488 miles, depending on engine and transmission, so the Clarity doesn’t sacrifice much if you start out with a full battery.\n\nShortcomings\n\nThe Clarity doesn’t have a mechanical volume knob or buttons, much less a tuning knob. Its earlier generation of the Display Audio touchscreen multimedia system has a panel of touch-sensitive buttons on its left flank. Even if you’re not wearing gloves, this is a design consumers just don’t like. Honda clearly knows that, as it’s added one or two knobs in some redone models from the same period and since, but it must have been too late for the Clarity.\n\nBeyond the mechanical interfacing, the touchscreen’s menus and graphics didn’t win any fans among our editors. Apart from one appealing range display, the art looks outdated, and you can’t see some information that does appear on the smartphone app.\n\nThis is one area where Tesla’s ability (and commitment) to update its vehicles would be priceless for Honda to adopt. The same is true of my other main complaints about the regenerative braking adjustment scheme and other aspects of the car. My quibbles are just a code change away from being improved — but that won’t happen because, like almost all other automakers, Honda doesn’t operate this way.\n\nShould You Buy a Clarity PHEV?\n\nThere are different vehicle types for different uses. If you’re someone who will use the Clarity PHEV as intended, it can provide you with cheaper motoring than the most efficient regular hybrid — currently the Hyundai Ioniq Blue (58 mpg combined, 4.9 cents per mile). It’s only when you travel beyond the Clarity’s electric range that its advantage begins to diminish. In a Clarity, you’ll also go only half of the Blue’s whopping 690 estimated miles between fill-ups.\n\nThe price is definitely right. Compare the Clarity Plug-In side by side with the Accord in gas-only and regular hybrid forms and you’ll see similar prices. As of this writing, the Accord Hybrid lists for $26,240 (all prices include destination charges). The Clarity Plug-In is $34,320 but is eligible for a federal tax credit of up to $7,500 (the amount depends on your taxable income and requires you to pay up front, collecting the credit only at tax-return time). This works out to a price as low as $26,820. The regular Accord starts at $24,640, but that’s for the base trim level; the Clarity is better equipped, with features like HomeLink, heated seats, HondaLink and more.\n\nPlug-in hybrids haven’t taken off, and one reason might be that many early PHEVs were so short on range and long on trade-offs that they poisoned the well. Or maybe consumers just don’t get it, which seems to be the case with pure EVs, as well. One of the biggest problems is that consumers don’t recognize how little range they truly need on a daily basis when charging overnight at home rather than fueling publicly. As a result, EV models with ranges of less than 200 miles — the more affordable options — get overlooked. Unless you’re trying to get by with an EV as your only car, the high premium you pay for long electric ranges may be a waste. For someone who wants to get his or her feet wet without risk, a well-executed plug-in hybrid like the Clarity Plug-In does the job with practically no trade-offs.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Sedan",
+          "price": "$33400",
+          "specifications": {
+            "Notable features": [
+              "Four-door, mid-size plug-in hybrid sedan",
+              "1.5-liter four-cylinder gas engine",
+              "17-kwh battery and two motor-generators",
+              "212 total horsepower",
+              "Hours to charge: 12 (120V) or 2.5 (240V)",
+              "6.6-kW maximum charging rate"
+            ],
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.5 L/91 Displacement",
+              "212 @ 5500 SAE Net Horsepower @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "99 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,052 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Touring Sedan",
+          "price": "$36600",
+          "specifications": {
+            "Notable features": [
+              "Four-door, mid-size plug-in hybrid sedan",
+              "1.5-liter four-cylinder gas engine",
+              "17-kwh battery and two motor-generators",
+              "212 total horsepower",
+              "Hours to charge: 12 (120V) or 2.5 (240V)",
+              "6.6-kW maximum charging rate"
+            ],
+            "Highlights": [
+              "48 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "212 @ 5500 SAE Net Horsepower @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "99 @ 5000 SAE Net Torque @ RPM",
+              "1.5 L/91 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "7 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,059 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

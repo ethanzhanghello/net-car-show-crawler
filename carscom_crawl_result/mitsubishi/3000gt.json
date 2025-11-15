@@ -1,0 +1,819 @@
+{
+  "make": "mitsubishi",
+  "model": "3000gt",
+  "years": {
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9b31e51f-ad77-4ba5-9116-643f9f22f2fa/43d2b95c-bd86-49ff-99a4-f54febfe42bd.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Luxury GT 5-Spd",
+          "price": "$31975",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Performance GT VR-4 Twin Turbo",
+          "price": "$41275",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f9872c19-28bb-418f-8154-b2065444a30d/6ffaa8ca-a4e2-4f95-bfe2-87906f6b22a8.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe SL 5-Spd",
+          "price": "$28709",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe SL Auto",
+          "price": "$29569",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe VR-4 Twin Turbo",
+          "price": "$37250",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a175010c-ac96-49a4-8905-b68483e550bb/b25e6d82-1b96-4bdd-87a5-244a5d5735b5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe SL 5-Spd",
+          "price": "$27289",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe SL Auto",
+          "price": "$28159",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe VR-4 Twin Turbo",
+          "price": "$34150",
+          "specifications": {}
+        }
+      ]
+    },
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8bcc6473-26e1-4e16-89c9-2127943bba0d/5771a061-eea8-4d28-8111-b24c4a6b64a1.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr GT Auto",
+          "price": "$28660",
+          "specifications": {
+            "Highlights": [
+              "18 City / 23 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "185 @ 4000 SAE Net Torque @ RPM",
+              "3.0L/181 Displacement",
+              "161 @ 5500 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Ind. Multi-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,219 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "520 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "10.8 x 0.9 in Front Brake Rotor Diam x Thickness",
+              "10.4 x 0.7 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Manual",
+          "price": "$35190",
+          "specifications": {
+            "Highlights": [
+              "19 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.0L/181 Displacement",
+              "218 @ 6000 SAE Net Horsepower @ RPM",
+              "205 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "Ind. Multi-link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "3,263 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "520 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "10.8 x 0.9 in Front Brake Rotor Diam x Thickness",
+              "10.4 x 0.7 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Auto",
+          "price": "$36110",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "205 @ 4500 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type",
+              "3.0L/181 Displacement",
+              "218 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Ind. Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,351 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "520 Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "10.4 x 0.7 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "10.8 x 0.9 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT VR-4 Twin Turbo Manual",
+          "price": "$46230",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0L/181 Displacement",
+              "320 @ 6000 SAE Net Horsepower @ RPM",
+              "315 @ 2500 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Ind. Multi-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,737 lbs Base Curb Weight",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "520 Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12.2 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "2-Channel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "11.6 x 0.8 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "1999": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/64bda8ea-809d-4f86-b936-6f046632e9c0/18ff7391-a738-4171-a33f-293a7652acaf.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr GT Auto",
+          "price": "$26370",
+          "specifications": {
+            "Highlights": [
+              "18 City / 23 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "161 @ 5500 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "3.0L/181 Displacement",
+              "185 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Ind. Multi-link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,250 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "520 Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "10.4 x 0.71 in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "10.8 x 0.94 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Manual",
+          "price": "$33400",
+          "specifications": {
+            "Highlights": [
+              "19 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "205 @ 4500 SAE Net Torque @ RPM",
+              "218 @ 6000 SAE Net Horsepower @ RPM",
+              "3.0L/181 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Ind. Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,280 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "520 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "3-Channel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "10.8 x 0.94 in Front Brake Rotor Diam x Thickness",
+              "10.4 x 0.71 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Auto",
+          "price": "$34290",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "205 @ 4500 SAE Net Torque @ RPM",
+              "218 @ 6000 SAE Net Horsepower @ RPM",
+              "3.0L/181 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Ind. Multi-link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,370 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "520 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "3-Channel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "10.8 x 0.94 in Front Brake Rotor Diam x Thickness",
+              "10.4 x 0.71 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT VR-4 Twin Turbo Manual",
+          "price": "$44600",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "315 @ 2500 SAE Net Torque @ RPM",
+              "320 @ 6000 SAE Net Horsepower @ RPM",
+              "3.0L/181 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,760 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "520 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "11.6 x 0.79 in Rear Brake Rotor Diam x Thickness",
+              "12.2 x 1.18 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "2-Channel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1997": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/544eaa1a-d27b-48e6-9ffa-377a96cf8bc2/faa6135d-8deb-462c-b190-705414a347a9.png"
+      ],
+      "expert_review": "With the exit of the Nissan 300ZX and Mazda RX-7 from these shores and the growth of sport-utility vehicles, one could logically argue that the sports coupe market is dead.\n\nDon’t tell Mitsubishi. Its 3000GT coupe outsold opponents last year, and in order to keep that momentum this year it brought out a high-value model with a 161-horsepower engine, standard 16-inch alloy wheels, large rear spoiler and an AM/FM stereo cassette player for $27,050. At a time when conspicuous consumption is on the out and folks are downsizing their lifestyles, it seems right for Mitsubishi to focus on a 3000GT with less power and front-wheel-drive, rather than the more expensive 3000GT VR-4 with twin-turbo engine and all-wheel drive. This gives the company a product that is priced competitively relative to the current crop of two-seat sports cars from Germany.\n\nFor those limited few who want the works, the VR-4 is still offered, as is the 3000GT SL that slots between it and the base model. The SL has 218 horsepower.\n\nEven in the best of times the sports coupe segment is going to be a small, which is why it is smart to concentrate on this new model.\n\nThink of the new base model as a car that gives you a high-performance look without the price. The 3.0-liter, V6 engine has adequate power, especially when coupled with the five-speed manual gearbox. This 3-valve per-cylinder, single-overhead-camshaft (SOHC) powerplant won’t knock your hat in the creek when you floor it, but its acceleration is plenty peppy, thanks to its low-speed responsiveness. And, let’s face it, most of the tire-spinning power of its twin-turbo cousin contributes more to bragging rights than everyday use.\n\nThis engine has a tendency to buzz a bit when worked hard, and there is some torque steer, or slight pulling to one side or the other, under heavy throttle. The shift linkage is a tad clunky and heavy. This powertrain, however, is most sensible, especially when you factor in fuel economy and insurance costs.\n\nThe large rear spoiler, which I don’t care for, constantly looms in your rear view mirror and makes you think there is always someone in your blind spot.\n\nEven though there are two tiny seats in back, this is really just a two-seat vehicle. The seats are fairly supportive, with their pronounced contours, but they inevitably made me feel as if I was sitting uncomfortably close to the windshield header when I had them adjusted for the right leg length. Maybe if I were taller that would not be an issue.\n\nFortunately, the back seat is a good place to plop a briefcase or a sack of groceries. It folds down to expand the cargo capacity, and you might need it if you were going to take a week-long trip with another person.\n\nGetting access to the back seat is easy, thanks to very wide doors. Their size makes them a bit unwieldy, but they are practical.\n\nWithout the VR-4’s all-wheel drive, you might think the base 3000GT is a sloppy handler, b ut it is not. At a curb weight of 3,131 pounds it weighs some 600 pounds less, and it feels like it, although it will never be as agile the new BMW Z3 or Porsche Boxster.\n\nBut this car is really best at grand touring, which is where the GT name comes from. It is not comfortable being flung through turns like a two-seat roadster. It feels more substantial, and is.\n\nPrice\n\nThe base price of our test car was $27,050. It had no options. With freight, the sticker price was $27,520.\n\nWarranty\n\nThe basic warranty is for three years or 36,000 miles.\n\nVehicles for The Star’s week-long test drives are supplied by the auto manufacturers.\n\nPoint: If you want a sports coupe with a reasonable price and decent power, the 3000GT is one of the few choices left. It is an even better value this year.\n\nCounterpoint: The spoiler looms in your mirror like someone about to pass, and the cockpit is fairly small.\n\nSPECIFICATIONS:\n\nENGINE: 3 -liter, V6\n\nTRANSMISSION: Five-speed\n\nWHEELBASE: 97.2 inches\n\nCURB WEIGHT: 3,131 lbs.\n\nBASE PRICE:$27,050\n\nPRICE AS DRIVEN: $27,520\n\nMPG RATING: 19 city, 25 hwy.",
+      "trims": [
+        {
+          "name": "2dr GT Manual",
+          "price": "$27050",
+          "specifications": {
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "161 @ 5500 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "185 @ 4000 SAE Net Torque @ RPM",
+              "3.0L/181 Displacement"
+            ],
+            "Suspension": [
+              "w/MacPherson Struts Suspension Type - Front (Cont.)",
+              "w/Trailng Arms Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "3,131 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "10.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "10.4 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT Auto",
+          "price": "$27930",
+          "specifications": {
+            "Highlights": [
+              "18 City / 23 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "185 @ 4000 SAE Net Torque @ RPM",
+              "161 @ 5500 SAE Net Horsepower @ RPM",
+              "3.0L/181 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Trailng Arms Suspension Type - Rear (Cont.)",
+              "w/MacPherson Struts Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,219 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "10.4 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "10.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Manual",
+          "price": "$33080",
+          "specifications": {
+            "Highlights": [
+              "19 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "205 @ 4500 SAE Net Torque @ RPM",
+              "3.0L/181 Displacement"
+            ],
+            "Suspension": [
+              "w/Trailng Arms Suspension Type - Rear (Cont.)",
+              "w/MacPherson Struts Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,263 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "10.4 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "10.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Auto",
+          "price": "$33990",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "3.0L/181 Displacement",
+              "205 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "w/Trailng Arms Suspension Type - Rear (Cont.)",
+              "w/MacPherson Struts Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,351 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "10.4 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "10.8 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT VR-4 Twin Turbo Manual",
+          "price": "$44590",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "320 @ 6000 SAE Net Horsepower @ RPM",
+              "3.0L/181 Displacement",
+              "Gas V6 Engine Type",
+              "315 @ 2500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "w/MacPherson Struts Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,737 lbs Base Curb Weight",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "4-Wheel (2-Channel) Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "12.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "11.6 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c4ba44b4-e9a1-4ea8-be2c-bb5d3d1c853b/6829e66c-40a8-4de7-acc7-27a3bb1a8c97.png"
+      ],
+      "expert_review": "The Mitsubishi 3000GT Spyder VR4 comes with a potent 3-liter, 24-valve, twin turbocharged V-6 engine that generates 320 horsepower-enough kick to propel you from 0 to 60 miles per hour this fast-and a large rearview mirror so you can watch your fellow motorists disappear in your wake.\n\nBut that’s not why you should amble down to the showroom to check one out.\n\nThe Spyder VR4 comes with a smooth-shifting 5-speed manual that requires only minimal effort to coax the most power from each gear. If all five speeds were this effortless, more folks might be willing to learn how to use them.\n\nBut that’s not why you should check it out, either.\n\nThe car comes with dual air bags and four-wheel anti-lock brakes plus all-wheel-drive and four-wheel power steering for instant and precise response to any directional input fed through the steering wheel to the 18-inch, speed-rated radial tires. With only light pressure applied to the steering wheel, you scoot in and out of the passing lane or, as we encountered, around the semi that suddenly brakes in the lane ahead. The car goes where you point without lingering.\n\nThis is one of the more user-friendly cars on the road-enough power when you want or need it, but not flame thrower explosions off the line each time you press the pedal. And you don’t need to work out at the gym daily to develop the muscle to work the clutch, as is all too common on sports coupes. The car has plenty of room, comfort, smoothness, quiet, along with ease of maneuvering, thanks to the all-wheel drive and four-wheel steering, which provides the added benefit of making this a sports car that doesn’t have to be garaged in the winter.\n\nBut that isn’t why you should plop onto the leather seat covers of the one in your dealer’s showroom, either.\n\nThe Mitsubishi 3000GT Spyder VR4 comes with a power-retractable metal hardtop that, at the push of a button, lifts/retracts/stores itself so you can enjoy open top motoring. Push the button again and it reverses the process-on its own.\n\nThe only finger you lift is the one to press the button to initiate the Automatic movement. Someday, perhaps, there will be voice activation, as there is with phones, but flexing a single digit is a small price to pay for the enjoyment you receive.\n\nAnd, we repeat, lest you missed the significance, that’s a metal hardtop that retracts like a vinyl or canvas top. The ’59 Ford Skyliner was the last model to attempt the retractable hardtop feat. Mercedes-Benz goes the automatic up/down route, but with a softtop in its SL roadster models.\n\nA metal top that motors out of sight when you want the sun tickling your noggin and you want everyone around to clearly spot who it is tooling around in a $65,000 machine: That’s the reason you need to visit the showroom.\n\nMitsubishi brought a few Spyder VR4s to a Lake Bluff retreat last week for the local media.\n\nAn outfit called ASC Corp. of Long Beach, Calif., takes the regular 3000GT hardtop and provides the hardware to make it into an open-when-you-want Spyder sports coupe. The up/down process takes 34 seconds and requires enough amperage that you must have the engine running or you might have to call the motor club for a battery jump.\n\nThe Spyder retractable has been in the Midwest about a week. Mitsubishi planned to build 1,000 but has 1,800 orders and hopes to get ASC to churn out at least 200 more this year to reduce the number of unhappy non-customers. By the way, the ASC contract runs only through 1998, the year before the next generation 3000GT is slated to appear for 1999.\n\nThough the sports car market has been experiencing a slump, Mitsubishi insists that Mazda with its RX-7, Toyota with its Supra and Nissan with its 300ZX have been the slumpees, not Mitsubishi with its 3000GT, whose 1994 sales rose to15,200 units in 1994 from 13,000 in 1993. Howeve r, in the first six months of this year, thanks in large part to buyers riding the sidelines in the flap over U.S./Japan trade, sales are off by 2,000 units.\n\nMitsubishi insists the 3000GT line is holding up rather well because it offers a variety of models, whereas the competition basically has one model at one price.\n\nThe base GT is powered by a 3-liter, 222-h.p., V-6 and starts at $28,000; the SL with the same engine and leather interior starts at $35,000; the Spyder SL with the same engine and automatic transmission plus the retractable hardtop starts at $57,000; the VR4 with the same engine with twin turbos for 320 h.p., all-wheel drive and all-wheel steering, but not the retractable hardtop starts at $44,000; and the Spyder VR4 with the twin-turbo V-6 and a 6-speed manual only, all-wheel drive and steering and the retractable hardtop starts at $65,000.\n\nIf you like the sporty 3000GT look but are willing to accept the tamer engine and more construction zone friendly automatic transmission, the Spyder SL is most pleasant. How can you not love a car that tips its own top?\n\nWhen you check out the Spyder VR4, note that cargo capacity is minimal. The rear seatbacks retract to provide more room. You’ll need it. The cupholders are in the center console, and the ashtray is in easy reach and sight on top of the console. Mitsubishi should borrow a page from Chrysler and make the ashtray convert into a more visible cupholder.\n\nAnd 3000GT fans take note: Optional yellow is dropped for 1996 in favor of a dark green, and automatically adjusting suspension no longer will be available in 1996.\n\nNext spring, Mitsubishi will bring out another convertible, the Eclipse, built at its Downstate Normal plant. It will be unveiled at the Chicago Auto Show in February before going on sale in April. There’s speculation Mitsubishi would like to add a retractable hardtop version of that car as well, but sources say conversion cost could dash hopes of that.\n\n>> 1995 Mitsubishi 3000GT Spyder VR4 Wheelbase: 97.2 inches Length: 179.7 inches Engine: 3-liter, 24-valve, 320-h.p., V-6 Transmission: 6-speed manual EPA mileage: 16 m.p.g. city/24 m.p.g. highway Base price: $65,000 Price as tested: $66,599. Add $699 for compact disc player and $900 for freight, the latter charge nearly double the normal $470 because the vehicle must be shipped from Japan to the U.S. port and from there to the conversion house to add the retractable top, then back to the port. Pluses: Nifty retractable hardtop to make it an all-weather, year-’round car. Plenty of punch, but without intimidating the driver. Smooth, quiet operation and a rigid body that minimizes road harshness. A sit-flat suspension system and four-wheel steering precision and nimbleness. Wide, comfortable s eats for long distance cruising without fatigue. Minuses: Take another look at base price. Rear seat only for appearance purposes. Yellow being dropped in favor of green for 1996. >>",
+      "trims": [
+        {
+          "name": "2dr GT Manual",
+          "price": "$28991",
+          "specifications": {}
+        },
+        {
+          "name": "2dr GT Auto",
+          "price": "$29894",
+          "specifications": {}
+        },
+        {
+          "name": "2dr GT SL Manual",
+          "price": "$34399",
+          "specifications": {}
+        },
+        {
+          "name": "2dr GT SL Auto",
+          "price": "$35303",
+          "specifications": {}
+        },
+        {
+          "name": "2dr GT VR-4 Twin Turbo",
+          "price": "$43898",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Spyder SL Auto",
+          "price": "$57449",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Spyder VR-4 Twin Turbo",
+          "price": "$64449",
+          "specifications": {}
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/35a2cfa0-cecc-4916-9397-05d771fc262f/bd3fdeb8-a2e8-4fd9-88cb-ef17f6fe1b34.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr GT Manual",
+          "price": "$30690",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT Auto",
+          "price": "$31620",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Manual",
+          "price": "$35830",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT SL Auto",
+          "price": "$36760",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr GT VR-4 Twin Turbo Manual",
+          "price": "$45580",
+          "specifications": {
+            "Highlights": [
+              "All Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Spyder SL Auto",
+          "price": "$57449",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Spyder VR-4 Twin Turbo Manual",
+          "price": "$64449",
+          "specifications": {
+            "Highlights": [
+              "All Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

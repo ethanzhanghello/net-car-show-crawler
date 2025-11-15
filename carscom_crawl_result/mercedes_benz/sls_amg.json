@@ -1,0 +1,607 @@
+{
+  "make": "mercedes_benz",
+  "model": "sls_amg",
+  "years": {
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/39462520-67f0-49d8-ba14-3ab95a184fec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/0a426486-4d2c-4a16-b491-cc9eeb116ca8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/b72a8620-508d-4641-8843-10e96d8f7188.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/4c87b93d-d1c0-4923-9311-cdc90ccc8b98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/79d5ddde-4da0-4bfb-8546-a901fce34ad7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/a7ae6d42-c67b-4e5c-a03c-59511b12bd6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/d24b082c-6d59-4ece-8779-c7b97c288b7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/2a1260fb-73a9-48c7-98dc-87972738a751.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/b2c23e82-d896-41b9-8bfc-38958aa72eb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/8554c730-4889-4d5f-85ad-91cc0490b5a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/ad29ee71-28f0-42cd-8ed3-f2b4209b857d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/e68ebc9e-cc12-4d43-b3a8-f0e3dfb4853e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/cb148bcc-3b6a-4379-ad76-346b7b564e01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/56fad4df-eaad-435a-ad4e-aa5357ab90b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/ded6cc67-49d3-453d-b6e3-2c63193a445a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/ec8bd296-2fec-4237-8d82-511da14a03d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/fdcd1cc5-3877-48a1-8f49-93de77015fd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/7c8aed44-a86b-4fcb-8ae8-2e166430b528.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/381cab7b-c5cb-4e9a-8e30-21ac7219ada6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/1eeff965-96d5-419f-a7c7-bf07c718dc8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/5a523da2-b6cb-4d21-8f9e-e7cac7b4ad1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/bd2a17cb-62c0-490e-bb33-6aaea8eb272b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/c17efe57-4f9e-45b7-84d9-b7629ac8b72b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/13470134-fac4-49e6-9eb1-a3b5024f8994.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/4bd90045-f262-47f2-8143-a0e86e3da2b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/bb2991b5-7125-4917-b10f-4ae7f269b707.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/ef8b12bc-4b48-41f2-9103-3c530a3ed9c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/7d48e158-3c79-4fd4-a202-25f7dc2ae155.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/8554c730-4889-4d5f-85ad-91cc0490b5a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/273f0e65-ddef-427f-b38d-66b8202fff89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/40742591-7cfd-455d-ba4e-152184e670aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/5a41c342-2ccb-48b7-9d46-da36068960ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/11f6338c-4f44-4daf-9698-8d166373c316/7161c192-6ed3-46fc-b1d0-183b50338b1f.png"
+      ],
+      "expert_review": "More than just a return to a gull-wing design, the 2011 SLS AMG is the best-performing Mercedes ever made, despite some quirks that should be ironed out over time.\n\nThe SLS AMG was inspired by the 1950s Mercedes-Benz 300 SL gull-wing coupe and designed to go toe-to-toe with the best exotic sports cars in the world. With a price less than half that of Mercedes’ previous supercar, the SLR McLaren, this one’s actually priced to sell.\n\nExterior & Styling\n\nThe SLS AMG is a looker, though most observers agree the rear view is its least impressive. We brought the test car to a local collector who owns a 1955 300 SL gull-wing, expecting the classic to make the new one look bad, but the 2011 held up quite well. Its headlights and taillights are way different, and there’s no chrome, but the proportions are similar, from the long hood and short front overhang to the upright windshield, which contributes to the SLS’ relatively high, 0.36 coefficient of drag and EPA gas mileage rating of 14/20 mpg city/highway. Mercedes cars typically have a Cd below 0.3. That mileage rating also incurs a $1,700 gas-guzzler tax.\n\nThe SLS is also substantially larger than the old SL, with a greenhouse that’s wider relative to the fenders. It’s a less-distinctive look that you quickly appreciate regardless if you wedge yourself into the classic gull-wing. Seeing the two nose-to-nose showed one omission on the SLS: the rear quarter windows, which complete the original’s look. Check out some of the photos on the right, as well as Cars.com photographer Ian Merritt’s extended gallery here.\n\nThe car gets plenty of attention to begin with, but throw a door open and every man, woman, child and a fair percentage of nearby animals will turn their heads. Every dog that has ever chased a bird or a car will tremble uncontrollably. There have been several models with this door type, but a surprising percentage of admirers recall the 300 SL as the first. With the SLS, Mercedes is copying no one. Respect the wings.\n\nBest-Performing Mercedes Ever\n\nTo put my praise in perspective, I’ll need to lay a groundwork of criticism. When it comes to driving enjoyment, Mercedes isn’t my first choice. Or even my fifth. The right formula has always been there: rear-wheel drive, decent weight distribution, ample power and any number of advanced technologies, some of which Mercedes itself invented. All the same, the company’s cars haven’t delivered as much performance or inspired as much confidence as BMW or, more recently, Audi, Infiniti and Cadillac (the CTS, specifically). Benzes hold their own, but they don’t have the feel or the poise at the limits, and their incorporation of electronic aids hasn’t been as deft.\n\nSo simply saying the latest and most expensive model is the best-performing Mercedes of all time doesn’t do the SLS enough justice. It’s more than that; it’s actually a tour de force, one that’s just a touch of refinement shy of competing with the best supercars. There is hope.\n\nThe SLS is the first model built from scratch by Mercedes’ AMG performance division, which has tuned up many existing models and teamed with McLaren on the SLR. Though the SLR McLaren was formidable, I was never able to get over its electro-hydraulic brakes, a supposed innovation that also plagued the E- and SL-Classes until Mercedes reverted to conventional hydraulic brakes. The system definitely stopped the car quickly, but the pedal feel was so numb and difficult to modulate that I wouldn’t accept it in a $10,000 car, much less one that cost a half-million dollars, even if it was someone else’s money.\n\nThe SLS AMG’s brake pedal didn’t blow my mind, but it’s more than acceptable, and the standard antilock brakes do a great job of halting this beast. If you’re unsatisfied with the standard issue, go for the carbon ceramic brake option for a mere $12,500.\n\nOf course, the SLS isn’t about stopping. Like other models that have been sprinkled with AMG dust, its high point is how it goes. The SLS does zero to 60 mph in about 3.7 seconds, which is pretty much the cost of entry for anything claiming to be a supercar these days. Mercedes says the top speed is 197 mph. Though the torque rating is 479 pounds-feet, there’s ample grunt at low revs to pin you to your seat from the word go. This engine sounds freakin’ wonderful, with a bold growl on acceleration and some nice burbling to accompany engine braking. I’m sure they could eliminate the burble if they wanted to; I hope they don’t.\n\nQuick Engine, Sluggish Transmission\n\nThere’s nothing quite like the sound of a 12-cylinder, but it’s pretty easy to forget about all that when you hear the SLS AMG’s 6.2-liter V-8. For the record, Mercedes calls this engine a 6.3-liter, even though the displacement is clearly listed as 6,208 cubic centimeters. (That’s quite the round up.) Frankly, they should be boasting that they’re squeezing 563 horsepower out of just 6.2 liters and eight normally aspirated cylinders in a class that relies on additional pistons and turbochargers. I don’t know about physically, but technically they could throw some chargers on the thing and get even more output.\n\nI’m less enthusiastic about the standard transmission, which is a dual-clutch automated manual, and not simply because it’s not a stick shift. To dispense quickly with the requisite lament, it would be easy to charge Mercedes with a disdain for true manuals, but it’s probably due to Mercedes buyers themselves; if not enough buyers opt for a manual, it’s not worth offering one.\n\nA dual-clutch is the right move, in theory, because this design allows for essentially instantaneous upshifts, lighter weight and better efficiency than a conventional automatic. The problem is that Mercedes’ first attempt at the tech, called AMG Speedshift, needs a little work. If you take your foot off the brake and hit the accelerator immediately, the transmission pops the clutch quickly and you lurch forward. In time I learned to let off the brake, step lightly on the accelerator and wait a beat before giving it more gas. This allowed the clutch to feather in with no jerkiness. I adapted, but I don’t think anyone should have to adapt to something labeled automatic — especially when other companies manage the transition with more grace.\n\nWhile the transmission upshifts quickly, as advertised, I’m calling a technical foul because it doesn’t always respond very quickly to driver inputs, even if you use the shift paddles on the steering wheel. Instantaneous shifts from 1st to 2nd, 2nd to 3rd, and so on shorten your zero-to- 60 sprints, but if there’s a delay before it executes the shift after being called upon, the purpose is largely defeated.\n\nI was also disappointed that the shift paddles don’t override the automatic operation as some systems do — if only briefly — when you tap a paddle when barreling into a turn. In typical Mercedes fashion, pulling the minus paddle seems merely to lock out the highest gears — starting from the top, not from the gear you’re in when you do it. For example, if you’re in 4th and hit the downshift paddle repeatedly, it locks out 7th, then 6th, then 5th, etc. The only way to get full manual control is to turn the knob on the center console to the “M” setting. The other three transmission modes are automatic ones: “C” (Controlled Efficiency), “S” (Sport) and “S+” (Sport Plus). Each successively speeds the shift times and holds onto low gears farther up the engine-speed range. All but C also blip the throttle upon downshifting to match the revs.\n\nNone of the settings cured the underlying sluggishness, and the selector knob further frustrated attempts to downshift on the fly because a quick twist didn’t jump from one of the automatic modes to M. If you turn the knob too quickly, it simply doesn’t register.\n\nTo be clear, these are the objections of a performance fiend who’s driven all the other dual-clutches. The casual driver might not think twice about it here, but other examples of the breed launch more smoothly and react more swiftly. It will just take a little more development on Mercedes’ part.\n\nRide & Handling\n\nCars in this class tend to ride firmly, and the SLS certainly does, too. It’s livable, but some competitors are softer without sacrificing performance. The Audi R8, Chevrolet Corvette ZR1 and Lamborghini Gallardo, among others, employ adaptive suspensions to broaden the range between comfort and sport.\n\nWhile Mercedes also offers a track-optimized performance suspension, which is firmer still, I was plenty impressed with the dynamics of the standard setup. For a front-engine car, it carries a lot of weight over the rear wheels. The front/rear weight distribution is 47/53 percent. It helps that the engine is mounted aft of the front axle — and that the transmission and the occupants’ ample American rear ends are in the back. You would expect the tail-heaviness to make the car skittish; while you can definitely hang the tail out, and there’s some lift-throttle oversteer, fat Continental ContiSportContact rear tires, rated 295/30 R20, keep it in check. The car is well-behaved, predictable, controllable. In short, it’s a lot of fun.\n\nMercedes kindly provides a sport mode for the electronic stability system so you can test the waters before diving in with your $183,000 wetsuit. The steering is precise and pretty well weighted. Though there isn’t a ton of steering feedback, there’s much more than in the average Mercedes, where the sensory level always underwhelms.\n\nUnder the Gull’s Wings\n\nIn some ways, the gull-wing doors ease entry. Because they open upward, they require minimal space alongside the car, allowing tighter parking arrangements. Did you ever find you couldn’t open a car door because of a high curb? It would have to be an epic curb to interfere with the gull’s wings. Getting in recalls a convertible or T-top: The raised door takes a notch out of the roof. On the downside, the side sill is pretty wide, and you have to vault it to drop into the seat. The most difficult part, I found, was negotiating my right foot past the turn-signal stalk, which I suspect would eventually have snapped off if I’d had the car much longer. As it was, I started the engine a couple of times only to find the high-beams on.\n\nYou sit low in the SLS, but not much lower relative to the street than in comparable cars. Unfortunately, you sit quite low relative to the raised doors. My first time in, I regressed to the role of a kid, hopping up and down in my seat trying to get ahold of something dangled out of reach by a demonic older sibling. Ultimately I found that reaching the open door wasn’t too bad for someone with chimpanzee arms like mine, but I had passengers who just plain gave up. More than one even assumed the doors would be motorized. Rather than suggest they grab on and ride the door down like a parachute, I closed it for them. Chivalry isn’t just alive in the SLS; it’s required.\n\nWhen set all the way back, the driver’s seat is workable for a 6-foot-tall driver. I would have inched it back farther for added comfort if I could, but it wasn’t a problem. The urge to raise the seat is natural because the hood is long, but once you reach a certain height your noggin starts to contact the center rib in the ceiling, which dips down lower than the door segments overhead. The backrests have one side-bolster and two lumbar adjustments in the form of three rocker switches on an awkward pod at the front of each seat’s bottom cushion.\n\nVisibility out the front isn’t bad, despite the long hood. It isn’t easy to gauge precisely where the front of the car ends, though, and the standard sonar proximity sensors are far from fail-safe. I have a Mercedes-star-shaped dimple in my garage door to prove it. The view directly to the rear is actually quite good because the rear window wraps around. The curb-side C-pillar is a bit wide, though, and it complicates backing out of parking spaces. The backup camera helps, but it’s mounted low and offers as good a view of a corner of the license plate as anything else.\n\nOverall, interior quality is quite nice. The red leather in our test car was beautifully crafted, and there’s a good deal of real aluminum. The design is uncluttered, including the center control panel, but practically everything I don’t like about the SLS falls into that 2-foot area.\n\nFor one thing, our car had an optional AMG Interior Carbon Fiber Trim package, which covers the center console and adds small trim strips to the doors. Sometimes this sort of gray-black weave looks good, even in unexpected places like the Aston Martin DBS, but it didn’t work for me in the SLS. What’s more, the standard-issue finish is true die-cast aluminum, which looks sharp, if a bit bright. It could be worse, though: Another option package doubles the price and adds even more carbon fiber inside.\n\nMore gripes about the center console include the stereo module, which looks like a lift from the lowly C-Class, and the brittle feel of the ventilation system knobs. Then there’s the T-shaped gear selector, which is a triple disappointment: As mentioned, it’s not a manual; the dual-clutch seven-speed automatic it controls is a bit sluggish to respond; and it’s an electronic toggle shifter, in the BMW style, rather than the tried-and-true mechanical type that moves through a gate.\n\nStorage & Cargo\n\nThe SLS’ cabin isn’t long on storage space. There’s some covered storage in the form of a glove compartment, but the center console, once again, isn’t much help. Its two compartments are both small and shallow, though there are two reasonably deep cupholders. There are no door pockets, but that’s excusable; anything inside them would be on your head as soon as you opened the door. As any beachgoer can attest, you don’t want a gull dropping anything on you.\n\nPerhaps more important, the trunk is almost generous, with 6.2 cubic feet of volume. The R8 has 3.5 and the Gallardo has 3.9 cubic feet. It’s also a decent shape; we got two golf bags in there. Too often, the trunks of supercars are formed out of whatever void was available, and sometimes it’s tall and narrow or shallow. At worst, the SLS trunk’s floor is a little lumpy.\n\nSafety\n\nThe SLS AMG hasn’t been tested by the Insurance Institute for Highway Safety or the National Highway Traffic Safety Administration. As a high-priced, low-volume model, it likely never will be. The car has eight airbags, including the front pair, two knee airbags, seat-mounted side-impact torso bags and side curtains that deploy upward from the doors, because the usual location above the windows obviously wasn’t an option. The door hinges attach via pyrotechnic fasteners — essentially exploding bolts. If the car rolls and comes to rest on its roof, the hinges pop after a few seconds’ delay so the doors can be pulled out sideways.\n\nStandard safety equipment includes antilock disc brakes and an electronic stability system with traction control. For the full list of standard features, click here.\n\nSLS AMG in the Market\n\nAt more than $180,000, the SLS AMG sure isn’t cheap. The R8, my favorite car (see the review), is below $150K. That said, Audi has never been able to command the premium price Mercedes has, regardless of performance. Further, the Gallardo is around $200,000, and Ferraris start at above $190,000. Even more important, the SLS’ price looks like a bargain compared with the SLR McLaren. During my time with the SLS, several people said it’s about time Mercedes has a supercar. That was the problem with the SLR McLaren: Its half-mil price tag made it so rare that most people have never seen one. As for the SLS AMG, I guarantee you’ll be seeing them wherever exotic sports cars congregate.\n\nSend Joe an email",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/ffd11e31-5870-42b5-875f-d4afb708ca98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/f9de1730-dabf-4874-a755-90af6d63abcd.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/d6f734ee-9c63-4ec3-bf26-bd5941ee06f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/df142d82-1425-4c5a-b41c-4ade5b2ff457.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/d6f734ee-9c63-4ec3-bf26-bd5941ee06f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/455597ad-7c88-490a-a689-298c09d46615.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/e699e423-a57a-41ef-8160-01b49fc85be5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/4d35687a-cb02-487f-90b3-096660fac84c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/488f1049-78d5-4584-880c-7d7330fbf044.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/31281a98-e489-4463-b3ce-8f02f40a2b74/282b9c6a-e1bf-49d1-8952-9d8fceecccdb.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Mercedes entry in the supercar market is the SLS AMG GT. This two-person sports car has standout features that include gull-wing doors and a 583-horsepower, 6.3-liter V-8 engine. Competitors include the Bentley Continental GT and Lamborghini Gallardo. It is available as a coupe or convertible (roadster). \n\n(Skip to details on the: SLS AMG Black Series)\n\nNew for 2014\nA new SLS AMG Black Series (detailed below) debuts.\n\nExterior Highlights\n\n\nGull-wing doors on coupe, traditional doors on roadster\nNearly 6-foot-long hood, short rear deck\nRoadster’s top opens and closes in 11 seconds at speeds up to 30 mph, according to Mercedes\nSmoked headlights and taillights\nRed brake calipers\nBlack-colored hood/fender vents, front grille trim and side mirrors\n19-inch front wheels, 20-inch rear wheels in either black or silver\nBody and chassis made of aluminum\nRetractable rear spoiler\n\nInterior Highlights\n\n\nInterior designed to evoke feel of aircraft cockpit\nRed seat belts and red contrast stitching\nAlcantara simulated suede upholstery\nSeat backrests made of magnesium, which is lightweight and strong\nAirscarf system for roadster\nAvailable leather and Alcantara AMG performance steering wheel\nAvailable Bang & Olufsen premium stereo\nAvailable carbon fiber trim\nAvailable AMG Performance Media with real-time vehicle performance monitoring\n\nUnder the Hood\n\n\n583-hp, 6.3-liter V-8 engine\nSeven-speed dual-clutch automatic transmission with paddle shifters\nZero to 60 mph in 3.6 seconds, according to Mercedes\nCoupe’s weight is distributed 47/53 front-to-rear\nAvailable carbon fiber engine compartment cover\n\nSafety Features\n\nAntilock brakes\nAvailable carbon ceramic high-performance brakes\nElectronic stability system\nSide-impact airbags integrated into the seats\nSide curtain airbags that deploy from the doors\n\nSLS AMG Black Series\nThe SLS AMG Black Series is a limited-production version of the SLS AMG GT coupe that’s offered for the 2014 model year, only at a significantly higher price. It takes technology directly from the SLS AMG GT3 race car and is powered by a 622-hp, 6.3-liter V-8 engine.\n\n\nSeven-speed dual-clutch automatic transmission\nZero to 60 mph in 3.5 seconds, according to Mercedes\nAdjustable adaptive suspension\nAMG high-performance ceramic brakes\nLightweight alloy wheels wrapped with ultra-high-performance tires\nElectronically controlled rear differential\nStandard AMG Aerodynamics Package\n\nBack to top",
+      "trims": [
+        {
+          "name": "2dr Cpe SLS AMG GT",
+          "price": "$201500",
+          "specifications": {
+            "Notable features": [
+              "New high-powered limited-edition Black Series version",
+              "Coupe with gull-wing doors or roadster with traditional doors",
+              "Seven-speed dual-clutch transmission",
+              "AMG adaptive suspension"
+            ],
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "583 @ 6800 SAE Net Horsepower @ RPM",
+              "6.3 L/379 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster SLS AMG GT",
+          "price": "$208000",
+          "specifications": {
+            "Notable features": [
+              "New high-powered limited-edition Black Series version",
+              "Coupe with gull-wing doors or roadster with traditional doors",
+              "Seven-speed dual-clutch transmission",
+              "AMG adaptive suspension"
+            ],
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "583 @ 6800 SAE Net Horsepower @ RPM",
+              "6.3 L/379 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,792 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/585c1474-796c-4a1d-b30d-11bbd3f17512.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/68d93dbd-5bc8-46f7-8e0a-93091a03d675.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/7aa25276-b4c2-4542-91b5-0d6e6c6534f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/e814d0ce-b4f6-46f0-91e3-0083e26e4c84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/a5de4f14-2c99-44ae-808d-14ae23e78a81.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9a0b982c-2191-4d44-9549-e098695330f7/27cfed18-3a6d-4b2d-9592-4418c1e7c4d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/cd652008-bd79-478e-9244-ec802ee4883c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/fde8aa08-fa16-4aa5-8030-880f630cf766.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/844a2008-0b92-4b29-b53f-95021eac3961/16c665a5-bf4d-4208-b6dd-e175672a563b.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Mercedes representative in the supercar market is the SLS AMG GT. This two-person supercar has standout features that include gull-wing doors and a 563-horsepower, 6.3-liter V-8 engine. Competitors include the Bentley Continental GT and Lamborghini Gallardo. It is available as a coupe or convertible (roadster).\nNew for 2013\nAvailable as either a roadster or gull-wing coupe, the Mercedes Benz SLS AMG adds the GT to the end of the model name for 2013, as it becomes an even faster and more powerful supercar. The engine has been retuned to produce 583 horsepower (compared to last year’s 563), while the seven-speed automatic transmission has been recalibrated for quicker shifts. The 479 pounds-feet of torque remains unchanged.\n\nThe new SLS AMG GT features unique GT badging, smoked headlamps and taillights, red brake calipers, various red-colored interior pieces such as the seat belts, and a high-gloss black finishing for the front grille, side mirrors and hood/fender vents.\nExterior\nMercedes says the design of the SLS AMG GT is meant to reinterpret the 300 SL, an iconic car most people recognize for its gull-wing doors. It’s a design that features a long hood — nearly 6 feet long — and a short rear deck. The SLS AMG GT roadster’s top opens and closes in 11 seconds at speeds up to 30mph.  Exterior features include:\n\n\nGull-wing doors on coupe, traditional doors on roadster\nBlack-colored hood/fender vents, front grille trim and side mirrors\n19-inch front wheels, 20-inch rear wheels in either black or silver\nBody and chassis made of aluminum\nPower-folding soft-top\nRetractable rear spoiler\n\nInterior\nThe interior is supposed to evoke the feel of an aircraft cockpit, and the numerous buttons on the center console certainly help with that. There is also a lot of metal and long, angular planes to carry over the aircraft theme. New for this year are red seat belts, red contrast stitching and Alcantara simulated suede upholstery. Interior features include:\n\n\nSeat backrests made of magnesium, which is lightweight and strong\nAirscarf system for roadster\nOptional leather and Alcantara AMG performance steering wheel\nAvailable 1,000-watt Bang & Olufsen audio system\nAvailable carbon fiber or piano-black lacquer trim\nAvailable AMG Performance Media with real-time vehicle performance monitoring\n\nUnder the Hood\nMechanical features include:\n\n\nStandard 6.3-liter V-8 that produces 583 hp and 479 pounds-feet of torque\nDual-clutch seven-speed automatic transmission with paddle shifters\nExpected to go from zero to 60 mph in 3.6 seconds\nThe coupe’s weight is distributed in a 47/53 front-to-rear ratio\nAvailable carbon fiber engine compartment cover\nAvailable AMG performance or adaptive suspension\n\nSafety\nSafety features include:\n\n\nAntilock brakes\nAvailable carbon ceramic high-performance brakes\nElectronic stability system\nSide-impact airbags integrated into the seats\nSide curtain airbags that deploy from the side doors",
+      "trims": [
+        {
+          "name": "2dr Cpe SLS AMG GT",
+          "price": "$199500",
+          "specifications": {
+            "Notable features": [
+              "Coupe with gull-wing doors or roadster with traditional doors",
+              "More powerful 583-hp V-8",
+              "Recalibrated seven-speed dual-clutch transmission",
+              "AMG adaptive suspension"
+            ],
+            "Highlights": [
+              "14 City / 20 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "563 @ 6800 SAE Net Horsepower @ RPM",
+              "6.3L/379 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "26 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,573 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Brake Assist",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "14.2 x 1.0 in Rear Brake Rotor Diam x Thickness",
+              "15.4 x 1.4 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster SLS AMG GT",
+          "price": "$206000",
+          "specifications": {
+            "Notable features": [
+              "Coupe with gull-wing doors or roadster with traditional doors",
+              "More powerful 583-hp V-8",
+              "Recalibrated seven-speed dual-clutch transmission",
+              "AMG adaptive suspension"
+            ],
+            "Highlights": [
+              "14 City / 20 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "6.3L/379 Displacement",
+              "563 @ 6800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "26 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,573 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "14.2 x 1.0 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "15.4 x 1.4 in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/20df4fc3-8ea8-405d-9665-ad37f566f87e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/423825a7-b9f9-406b-8254-24f485b0f782.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/307d3872-fbbb-4211-9612-58658837dbf2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/6d315381-62f5-4d9a-b7d1-920d7697e165.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/abd592e7-3c83-4376-b9ae-c456d33c506f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/654f217f-602c-419b-9b88-b93c07510f38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/1e4ddc7a-f920-4f6f-8e41-45f67aa4956d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a8d12f1-5342-48cf-9e48-98daceafa4c0/654f217f-602c-419b-9b88-b93c07510f38.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe SLS AMG GT Final Edition",
+          "price": "$221580",
+          "specifications": {
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "6.3 L/379 Displacement",
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "583 @ 6800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster SLS AMG GT Final Edition",
+          "price": "$228080",
+          "specifications": {
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "583 @ 6800 SAE Net Horsepower @ RPM",
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "6.3 L/379 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,792 lbs Base Curb Weight",
+              "23 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/a86e6981-557b-48fc-9c99-089b8da29ef9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/f994c298-7045-4267-9ca5-6bc757802bea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/4e378622-e3d7-4bd0-b195-8535712719cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/6792c9f0-b3a0-4471-b317-325cd39aacd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/e8ff7c58-1a74-4155-91c2-1fae4b69fb2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/0db52740-f7b2-4165-a69c-de1b50f2082a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/b1d9ec1a-ec54-4007-bd86-173fd36d77bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/2d25a299-fccb-4626-9b71-997171a7b013.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/cb3f9589-4beb-47e8-8b8f-871e22b4b58a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/ed8eedf8-a7b9-4c1b-85ac-2e833873983c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/4bf6293c-f837-4074-b613-8497f03e6b50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/b9902d38-56db-4e49-88a6-4f31a7417557.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/7bb9243f-2af0-415e-a058-94bf1e4859c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/16e4da0d-0488-4af8-a977-f0af22b53521.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/0b6c6f9b-e130-4b5f-9368-fb914b5183c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/4bd98ea3-4af0-4abd-9f95-01b370d2bde8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/025fae43-f8b2-46e9-ba10-9f0bcbe412eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/baaec7e3-fea8-45ec-88f0-bc3c4010aeac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/f445254b-1a96-4c16-8c2a-b8202ab97b34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/2f193538-1cc4-4b3f-b210-ce701c8fac81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/c4396f20-e34a-4775-ae64-9988709de460.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/cfad1922-b8a5-42f9-8304-e60804000eb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/e404c708-e44a-4456-9b79-3df9baef5480.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/68503c51-a9b0-4419-8819-c5978eac0053/1ca9ad3c-6add-49b5-8ae5-33e1c2241857.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/979ea346-c17c-42b3-9a5f-d11321384775.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/4b67c496-30d3-4b53-831a-1c02f809a491.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/a1dbc9ef-ba44-45bc-bc7e-478befc72f6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/b1668ff1-214e-4fb5-9a9d-4c80bda28dfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/7951b519-7311-452c-a48a-42f320b7f048.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/7b32d9fc-bb90-4dc9-ab99-657c4b694be5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/a6aa5120-89a6-4be2-9bec-41eca7a98348.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/9637c61d-d0ca-47b2-b3c5-5508cc0962c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c78e996a-b177-4df3-8fcf-905688779c52/6cb19ae5-eb5c-4786-ba74-afe815d5e7eb.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in September 2010 about the 2011 Mercedes-Benz SLS AMG. Little of substance has changed with this year’s model. To see what’s new for 2012, click here, or check out a side-by-side comparison of the two model years.\n\nMore than just a return to a gull-wing design, the 2011 SLS AMG is the best-performing Mercedes ever made, despite some quirks that should be ironed out over time.\n\nThe SLS AMG was inspired by the 1950s Mercedes-Benz 300 SL gull-wing coupe and designed to go toe-to-toe with the best exotic sports cars in the world. With a price less than half that of Mercedes’ previous supercar, the SLR McLaren, this one’s actually priced to sell.\n\nExterior & Styling\nThe SLS AMG is a looker, though most observers agree the rear view is its least impressive. We brought the test car to a local collector who owns a 1955 300 SL gull-wing, expecting the classic to make the new one look bad, but the 2011 held up quite well. Its headlights and taillights are way different, and there’s no chrome, but the proportions are similar, from the long hood and short front overhang to the upright windshield, which contributes to the SLS’ relatively high, 0.36 coefficient of drag and EPA gas mileage rating of 14/20 mpg city/highway. Mercedes cars typically have a Cd below 0.3. That mileage rating also incurs a $1,700 gas-guzzler tax.\n\nThe SLS is also substantially larger than the old SL, with a greenhouse that’s wider relative to the fenders. It’s a less-distinctive look that you quickly appreciate regardless if you wedge yourself into the classic gull-wing. Seeing the two nose-to-nose showed one omission on the SLS: the rear quarter windows, which complete the original’s look. Check out some of the photos on the right, as well as Cars.com photographer Ian Merritt’s extended gallery here.\n\nThe car gets plenty of attention to begin with, but throw a door open and every man, woman, child and a fair percentage of nearby animals will turn their heads. Every dog that has ever chased a bird or a car will tremble uncontrollably. There have been several models with this door type, but a surprising percentage of admirers recall the 300 SL as the first. With the SLS, Mercedes is copying no one. Respect the wings.\n\nBest-Performing Mercedes Ever\nTo put my praise in perspective, I’ll need to lay a groundwork of criticism. When it comes to driving enjoyment, Mercedes isn’t my first choice. Or even my fifth. The right formula has always been there: rear-wheel drive, decent weight distribution, ample power and any number of advanced technologies, some of which Mercedes itself invented. All the same, the company’s cars haven’t delivered as much performance or inspired as much confidence as BMW or, more recently, Audi, Infiniti and Cadillac (the CTS, specifically). Benzes hold their own, but they don’t have the feel or the poise at the limits, and their incorporation of electronic aids hasn’t been as deft.\n\nSo simply saying the latest and most expensive model is the best-performing Mercedes of all time doesn’t do the SLS enough justice. It’s more than that; it’s actually a tour de force, one that’s just a touch of refinement shy of competing with the best supercars. There is hope.\n\nThe SLS is the first model built from scratch by Mercedes’ AMG performance division, which has tuned up many existing models and teamed with McLaren on the SLR. Though the SLR McLaren was formidable, I was never able to get over its electro-hydraulic brakes, a supposed innovation that also plagued the E- and SL-Classes until Mercedes reverted to conventional hydraulic brakes. The system definitely stopped the car quickly, but the pedal feel was so numb and difficult to modulate that I wouldn’t accept it in a $10,000 car, much less one that cost a half-million dollars, even if it was someone else’s money.\n\nThe SLS AMG’s brake pedal didn’t blow my mind, but it’s more than acceptable, and the standard antilock brakes do a great job of halting this beast. If you’re unsatisfied with the standard issue, go for the carbon ceramic brake option for a mere $12,500.\n\nOf course, the SLS isn’t about stopping. Like other models that have been sprinkled with AMG dust, its high point is how it goes. The SLS does zero to 60 mph in about 3.7 seconds, which is pretty much the cost of entry for anything claiming to be a supercar these days. Mercedes says the top speed is 197 mph. Though the torque rating is 479 pounds-feet, there’s ample grunt at low revs to pin you to your seat from the word go. This engine sounds freakin’ wonderful, with a bold growl on acceleration and some nice burbling to accompany engine braking. I’m sure they could eliminate the burble if they wanted to; I hope they don’t.\n\nQuick Engine, Sluggish Transmission\nThere’s nothing quite like the sound of a 12-cylinder, but it’s pretty easy to forget about all that when you hear the SLS AMG’s 6.2-liter V-8. For the record, Mercedes calls this engine a 6.3-liter, even though the displacement is clearly listed as 6,208 cubic centimeters. (That’s quite the round up.) Frankly, they should be boasting that they’re squeezing 563 horsepower out of just 6.2 liters and eight normally aspirated cylinders in a class that relies on additional pistons and turbochargers. I don’t know about physically, but technically they could throw some chargers on the thing and get even more output.\n\nI’m less enthusiastic about the standard transmission, which is a dual-clutch automated manual, and not simply because it’s not a stick shift. To dispense quickly with the requisite lament, it would be easy to charge Mercedes with a disdain for true manuals, but it’s probably due to Mercedes buyers themselves; if not enough buyers opt for a manual, it’s not worth offering one.\n\nA dual-clutch is the right move, in theory, because this design allows for essentially instantaneous upshifts, lighter weight and better efficiency than a conventional automatic. The problem is that Mercedes’ first attempt at the tech, called AMG Speedshift, needs a little work. If you take your foot off the brake and hit the accelerator immediately, the transmission pops the clutch quickly and you lurch forward. In time I learned to let off the brake, step lightly on the accelerator and wait a beat before giving it more gas. This allowed the clutch to feather in with no jerkiness. I adapted, but I don’t think anyone should have to adapt to something labeled automatic — especially when other companies manage the transition with more grace.\n\nWhile the transmission upshifts quickly, as advertised, I’m calling a technical foul because it doesn’t always respond very quickly to driver inputs, even if you use the shift paddles on the steering wheel. Instantaneous shifts from 1st to 2nd, 2nd to 3rd, and so on shorten your zero-to- 60 sprints, but if there’s a delay before it executes the shift after being called upon, the purpose is largely defeated.\n\nI was also disappointed that the shift paddles don’t override the automatic operation as some systems do — if only briefly — when you tap a paddle when barreling into a turn. In typical Mercedes fashion, pulling the minus paddle seems merely to lock out the highest gears — starting from the top, not from the gear you’re in when you do it. For example, if you’re in 4th and hit the downshift paddle repeatedly, it locks out 7th, then 6th, then 5th, etc. The only way to get full manual control is to turn the knob on the center console to the “M” setting. The other three transmission modes are automatic ones: “C” (Controlled Efficiency), “S” (Sport) and “S+” (Sport Plus). Each successively speeds the shift times and holds onto low gears farther up the engine-speed range. All but C also blip the throttle upon downshifting to match the revs.\n\nNone of the settings cured the underlying sluggishness, and the selector knob further frustrated attempts to downshift on the fly because a quick twist didn’t jump from one of the automatic modes to M. If you turn the knob too quickly, it simply doesn’t register.\n\nTo be clear, these are the objections of a performance fiend who’s driven all the other dual-clutches. The casual driver might not think twice about it here, but other examples of the breed launch more smoothly and react more swiftly. It will just take a little more development on Mercedes’ part.\n\nRide & Handling\nCars in this class tend to ride firmly, and the SLS certainly does, too. It’s livable, but some competitors are softer without sacrificing performance. The Audi R8, Chevrolet Corvette ZR1 and Lamborghini Gallardo, among others, employ adaptive suspensions to broaden the range between comfort and sport.\n\nWhile Mercedes also offers a track-optimized performance suspension, which is firmer still, I was plenty impressed with the dynamics of the standard setup. For a front-engine car, it carries a lot of weight over the rear wheels. The front/rear weight distribution is 47/53 percent. It helps that the engine is mounted aft of the front axle — and that the transmission and the occupants’ ample American rear ends are in the back. You would expect the tail-heaviness to make the car skittish; while you can definitely hang the tail out, and there’s some lift-throttle oversteer, fat Continental ContiSportContact rear tires, rated 295/30 R20, keep it in check. The car is well-behaved, predictable, controllable. In short, it’s a lot of fun.\n\nMercedes kindly provides a Sport mode for the electronic stability system so you can test the waters before diving in with your $183,000 wetsuit. The steering is precise and pretty well weighted. Though there isn’t a ton of steering feedback, there’s much more than in the average Mercedes, where the sensory level always underwhelms.\n\nUnder the Gull’s Wings\nIn some ways, the gull-wing doors ease entry. Because they open upward, they require minimal space alongside the car, allowing tighter parking arrangements. Did you ever find you couldn’t open a car door because of a high curb? It would have to be an epic curb to interfere with the gull’s wings. Getting in recalls a convertible or T-top: The raised door takes a notch out of the roof. On the downside, the side sill is pretty wide, and you have to vault it to drop into the seat. The most difficult part, I found, was negotiating my right foot past the turn-signal stalk, which I suspect would eventually have snapped off if I’d had the car much longer. As it was, I started the engine a couple of times only to find the high-beams on.\n\nYou sit low in the SLS, but not much lower relative to the street than in comparable cars. Unfortunately, you sit quite low relative to the raised doors. My first time in, I regressed to the role of a kid, hopping up and down in my seat trying to get ahold of something dangled out of reach by a demonic older sibling. Ultimately I found that reaching the open door wasn’t too bad for someone with chimpanzee arms like mine, but I had passengers who just plain gave up. More than one even assumed the doors would be motorized. Rather than suggest they grab on and ride the door down like a parachute, I closed it for them. Chivalry isn’t just alive in the SLS; it’s required.\n\nWhen set all the way back, the driver’s seat is workable for a 6-foot-tall driver. I would have inched it back farther for added comfort if I could, but it wasn’t a problem. The urge to raise the seat is natural because the hood is long, but once you reach a certain height your noggin starts to contact the center rib in the ceiling, which dips down lower than the door segments overhead. The backrests have one side-bolster and two lumbar adjustments in the form of three rocker switches on an awkward pod at the front of each seat’s bottom cushion.\n\nVisibility out the front isn’t bad, despite the long hood. It isn’t easy to gauge precisely where the front of the car ends, though, and the standard sonar proximity sensors are far from fail-safe. I have a Mercedes-star-shaped dimple in my garage door to prove it. The view directly to the rear is actually quite good because the rear window wraps around. The curb-side C-pillar is a bit wide, though, and it complicates backing out of parking spaces. The backup camera helps, but it’s mounted low and offers as good a view of a corner of the license plate as anything else.\n\nOverall, interior quality is quite nice. The red leather in our test car was beautifully crafted, and there’s a good deal of real aluminum. The design is uncluttered, including the center control panel, but practically everything I don’t like about the SLS falls into that 2-foot area.\n\nFor one thing, our car had an optional AMG Interior Carbon Fiber Trim package, which covers the center console and adds small trim strips to the doors. Sometimes this sort of gray-black weave looks good, even in unexpected places like the Aston Martin DBS, but it didn’t work for me in the SLS. What’s more, the standard-issue finish is true die-cast aluminum, which looks sharp, if a bit bright. It could be worse, though: Another option package doubles the price and adds even more carbon fiber inside.\n\nMore gripes about the center console include the stereo module, which looks like a lift from the lowly C-Class, and the brittle feel of the ventilation system knobs. Then there’s the T-shaped gear selector, which is a triple disappointment: As mentioned, it’s not a manual; the dual-clutch seven-speed automatic it controls is a bit sluggish to respond; and it’s an electronic toggle shifter, in the BMW style, rather than the tried-and-true mechanical type that moves through a gate.\n\nStorage & Cargo\nThe SLS’ cabin isn’t long on storage space. There’s some covered storage in the form of a glove compartment, but the center console, once again, isn’t much help. Its two compartments are both small and shallow, though there are two reasonably deep cupholders. There are no door pockets, but that’s excusable; anything inside them would be on your head as soon as you opened the door. As any beachgoer can attest, you don’t want a gull dropping anything on you.\n\nPerhaps more important, the trunk is almost generous, with 6.2 cubic feet of volume. The R8 has 3.5 and the Gallardo has 3.9 cubic feet. It’s also a decent shape; we got two golf bags in there. Too often, the trunks of supercars are formed out of whatever void was available, and sometimes it’s tall and narrow or shallow. At worst, the SLS trunk’s floor is a little lumpy.\n\nSafety\nThe SLS AMG hasn’t been tested by the Insurance Institute for Highway Safety or the National Highway Traffic Safety Administration. As a high-priced, low-volume model, it likely never will be. The car has eight airbags, including the front pair, two knee airbags, seat-mounted side-impact torso bags and side curtains that deploy upward from the doors, because the usual location above the windows obviously wasn’t an option. The door hinges attach via pyrotechnic fasteners — essentially exploding bolts. If the car rolls and comes to rest on its roof, the hinges pop after a few seconds’ delay so the doors can be pulled out sideways.\n\nStandard safety equipment includes antilock disc brakes and an electronic stability system with traction control. For the full list of standard features, click here.\n\nSLS AMG in the Market\nAt more than $180,000, the SLS AMG sure isn’t cheap. The R8, my favorite car (see the review), is below $150K. That said, Audi has never been able to command the premium price Mercedes has, regardless of performance. Further, the Gallardo is around $200,000, and Ferraris start at above $190,000. Even more important, the SLS’ price looks like a bargain compared with the SLR McLaren. During my time with the SLS, several people said it’s about time Mercedes has a supercar. That was the problem with the SLR McLaren: Its half-mil price tag made it so rare that most people have never seen one. As for the SLS AMG, I guarantee you’ll be seeing them wherever exotic sports cars congregate.\n\nSend Joe an email",
+      "trims": [
+        {
+          "name": "2dr Cpe SLS AMG",
+          "price": "$189600",
+          "specifications": {
+            "Notable features": [
+              "SLS AMG roadster debuts in late 2011",
+              "Coupe continues with gull-wing doors",
+              "563-hp V-8",
+              "Seven-speed dual-clutch transmission"
+            ],
+            "Highlights": [
+              "14 City / 20 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "6.3L/379 Displacement",
+              "Gas V8 Engine Type",
+              "563 @ 6800 SAE Net Horsepower @ RPM",
+              "479 @ 4750 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,573 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "26 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "15.4 x 1.4 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-wheel Brake ABS System",
+              "14.2 x 1.0 in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster SLS AMG",
+          "price": "$196100",
+          "specifications": {
+            "Notable features": [
+              "SLS AMG roadster debuts in late 2011",
+              "Coupe continues with gull-wing doors",
+              "563-hp V-8",
+              "Seven-speed dual-clutch transmission"
+            ],
+            "Highlights": [
+              "14 City / 20 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "479 @ 4750 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type",
+              "563 @ 6800 SAE Net Horsepower @ RPM",
+              "6.3L/379 Displacement"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,573 lbs Base Curb Weight",
+              "26 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14.2 x 1.0 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type",
+              "Not Available Drum - Rear (Yes or )",
+              "15.4 x 1.4 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

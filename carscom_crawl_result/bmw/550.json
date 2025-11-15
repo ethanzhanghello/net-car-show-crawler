@@ -1,0 +1,918 @@
+{
+  "make": "bmw",
+  "model": "550",
+  "years": {
+    "2009": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/bf7d984c-aae9-4e69-8feb-40b5ea8e22e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/5d677c7d-63d8-4adc-87d4-f4ccdd01e434.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/62667909-e044-4317-8efa-c2697b4919c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/971e1638-c2da-441a-92af-f5f762750567.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/e36b6c6f-905b-4e28-9046-7696eaa93220.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/6475159d-8beb-43c5-9282-aa80d0d9bb24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/381a624c-bd0a-408a-bc8b-b304718f349b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/7e34a876-6a09-47e0-8247-b692b5c5c4e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/8f70afe0-8799-4aef-9850-a47f5f850188.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/b962a502-d764-40d7-b817-cb5b3e5e2fa2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/bd004381-8ff4-49d8-8d69-c49d3e0a81b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/2a84adae-447a-4d6b-a36c-2cd08ea1514b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/1624a7e1-aeeb-485b-b3b8-c2659a7df553.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/6c9e38aa-c39d-43bb-8788-02e8fdf8e57f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/28612582-54bc-4e41-84e6-b1c86cb981fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/0b0d94da-7f5d-4a84-9051-892ffd5f0e58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/ba6bd800-5ea7-4661-b8af-b87199764eb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/84b0a1d7-8869-466b-b075-cf4cadccd0a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/17ae59c1-4a2c-4219-86e8-c5c3e7ffa2c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/08ff0a3d-7770-4847-9d82-3cb3e23a9bef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/3e9558d8-fa58-4043-af25-4e505bdbf499.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/144f3776-675d-49f6-8536-d055395ca585.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/8e185237-89f2-4c34-9e48-6ad696eaa993.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/43f8dd46-e710-4ad2-839d-4d794d478bc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/dbffa5b8-da2f-4ce1-945e-2cc0f3bdce41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/f8113f0d-ba7e-499c-8249-6a6ef2ff554c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/265c1e9c-5da5-4413-b86b-da970f10a2a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/dc4d48eb-30d8-4411-803b-e2d21cddff4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/abab6066-ffac-4242-8ac8-b31192119d1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/2b054ec2-58e8-4b67-a0fc-0a6c8a95e71a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/bdeae86b-fcb1-4425-8925-2a8babd64d9a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/28612582-54bc-4e41-84e6-b1c86cb981fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/576caa60-deff-41f6-80fc-63d51a378175/92b2e419-653d-4d59-a49c-87eeaaacc35b.png"
+      ],
+      "expert_review": "Vehicle Overview\nBMW’s 5 Series is the automaker’s next step up in size and price from BMW’s best-selling 3 Series. The top-level 550i is only available as a rear-wheel-drive sedan, unlike other 5 Series that can be had in wagon or all-wheel-drive configurations. The 5 Series competes with luxury sedans like the Audi A6, Lexus GS and Acura RL.\n\nNew for 2009\nThere are minimal changes for 2009. The 5 Series offers a new Google Maps function in navigation-equipped 5 Series; it allows drivers to search through Google Maps for restaurants, gas stations or other businesses.\n\nExterior\nThe 5 Series was given a going-over for 2008, when it received minor front, rear and side styling changes.\n\nXenon headlights\nAdaptive headlights turn in the direction of the steering wheel\nLED turn signals\nFront and rear parking sensors with graphic display\nMetallic paint\n17-inch alloy wheels with all-season tires\nRain-sensing wipers\nOptional 19-inch light-alloy wheels with performance run-flat tires\nOptional headlight washers\nOptional Aero package shares many of the same enhancements of the high-performance M5\n\nInterior\nOver the past few model updates, the 5 Series has received larger door pockets and increased storage capacity in the center console.\n\nLeather trim\nPower tilt/telescoping steering wheel\nAuxiliary input for MP3 player\nPush-button start\nAvailable navigation system with iDrive\nAvailable head-up display projects car’s speed and navigation directions on windshield\nAvailable heated front and rear seats\nAvailable HD radio\nAvailable active cruise control automatically slows car when approaching a slow-moving car\n\nUnder the Hood\nWhile other 5 Series use six-cylinder engines, the 550i uses a 4.8-liter V-8 making 360 horsepower and 360 pounds-feet of torque.\n\nSix-speed manual transmission\nAvailable six-speed automatic\nRear-wheel drive\n\nSafety\nSafety features include:\n\nElectronic stability system\nAntilock brakes\nFront, side-impact and side curtain airbags standard\nRear side-impact airbags optional\nLane departure warning system sends vibration through steering wheel when car veers from lane",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2006": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/687e037c-ee8a-4619-b32b-f8bd19c6d23f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/720c91e3-9ddb-4e70-a5c7-f2cc044e4a46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/047e63c6-e1b8-425b-b8ac-2980c9ddfd40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/bedaf8c1-18bf-4e9e-96d7-ac99d75e6871.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/df0f29b5-cd6d-4708-8049-287e947942fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/8ac48778-9c71-472a-9943-32dd35853c3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/cdc3bd98-b011-47b9-ab2f-18ea71dd3066.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/9450e1f6-9f66-4918-bd15-990315b42467.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/48ed5689-d549-4f0f-88b6-5f7c5750bfc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/3c7cb36f-6911-47f1-8a98-7c95f09e69ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/cdeec379-1332-449c-a9cb-bfccaa0d58b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/d72436d2-5af2-4b09-8a9a-c38b5587f45c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/51081a7d-5220-4cee-8f12-6782308dfa44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/7c6557ba-b244-491a-a955-69f158be9384.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/2a147c87-83de-4591-af6e-ca4e03dcf712.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/bedaf8c1-18bf-4e9e-96d7-ac99d75e6871.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f61e1dd6-3d09-4515-96a9-17166beeb528/ea6f5295-7bfd-4ec8-9b65-3f2abfbde487.png"
+      ],
+      "expert_review": "A fast and maneuverable sedan with tight handling, superb shifting, responsive steering and a lush interior, the new BMW 550i embodies all those good things that permit BMW to crow about ultimate driving machines.\n\nThe 550 is an upgrade of the 545, with a bigger V-8 that churns out 360 horsepower, enough for thrilling acceleration and an EPA-imposed gas-guzzler tax of $1,000.\n\nBut once you’ve shelled out $65,000, the cost of the test car with options, that extra grand is just a blip. Of course, there also is the frequent stops for $3-a-gallon gas, but hey.\n\nThe new V-8 is a muscular unit that emits a high-performance growl and packs loads of torque, enough for significant pulling power even in sixth gear.\n\nAll the new 5-Series cars, from the base 525i to the frenetic M5, continue with the taut suspension and solid chassis that has made them the leaders among midsize sports sedans. The 550 handles with poise and precision, combining race-car cornering with a ride that is supple and refined.\n\nAlso continuing for 2006 is the controversial styling that surfaced in 2004, a look that some find progressive but others see as bulky and awkward. To me, the sedan looks heavy and fussy, deviating from BMW’s sleek and sporty designs of the past.\n\nAnother item that stirs controversy is BMW’s unique iDrive system, a driver interface that works with a central knob to work the audio, climate control, navigation and computer functions. It’s annoyingly complex and hard to fathom.\n\nBut when all is said and done, it’s hard to beat a BMW for the business or pleasure of driving.\n\nVehicle type: Five-passenger, four-door sedan, rear-wheel drive.\n\nEngine: 4.8-liter V-8, 360 horsepower at 6,300, 360 pound-feet torque at 3,400 rpm.\n\nTransmission: 6-speed manual.\n\nWheelbase: 113.7 inches.\n\nOverall length: 191.1 inches.\n\nCurb weight: 3,308 pounds.\n\nEPA rating: 16 city, 23 highway.\n\nHighs: Powerful engine, superb drivability, luxury features.\n\nLows: Awkward iDrive, controversial styling, pricey.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2007": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/310a66ed-74ef-437e-b0c8-7c221aaffee2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/99e14d47-4379-46f1-9740-f6d279fbde6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/31b0c1da-087b-414f-8480-37af97d879f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/e5d7e451-eab4-4b6b-8959-b1f93c6f72d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/ad609628-de5a-41f6-ad32-8c897a5d269b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/5ec31d4f-db66-4680-b9a9-111bd3e0698e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/eff55f3c-bd5f-4830-ab16-4c3138595eb3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/bbc083fc-5fc8-4ea7-b499-bfb50ec1a0e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/310a66ed-74ef-437e-b0c8-7c221aaffee2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/f8c66ec3-d8b2-4b95-8c0d-b2565c0ab37f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/537373df-3ed2-467e-8df9-535a54230369.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/8a273335-061a-4372-b2af-7562e58fee40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/cfadd668-48e8-43c8-a216-d97b38b39a22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/2df0888c-818d-476a-968a-985c1f665860.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/44dc5339-5f50-41a5-a8ee-12bd467bf9c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/2a702639-e4f9-48d0-82f3-f61c45b904da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab494789-459d-4fab-8a4d-da632831909f/592362d7-bc01-4e37-9ff1-39da79c7c08f.png"
+      ],
+      "expert_review": "BMW hasn’t changed an awful lot on the 550i for 2007. Not that there was much that really needed changing on the German automaker’s best-looking sedan.\n\nAlthough the midrange 5 Series remains one of our favorites, it still has a few quirks and idiosyncrasies that annoy us.\n\nWe tested a lavishly equipped 550i with nearly $14,000 in options and a bottom line of $73,040.\n\nHE: I always feel like I’m nitpicking when it comes time to point out the flaws on a BMW. So maybe we should just get some of the good stuff out of the way first.\n\nThat twin-cam 4.8-liter V-8? Sweet! And if you don’t mind trying an automatic transmission in place of the standard six-speed manual, the six-speed Steptronic — a no-cost option — is probably my favorite. You can still shift it manually with a flick of the wrist; it gets much better gas mileage than the manual and is way smoother and easier to use than BMW’s ballyhooed Sequential Manual Gearbox.\n\nWith 360 horsepower and 360 pounds-feet of torque on tap, this is one potent powertrain combination. Fringe benefit: No gas-guzzler tax.\n\nSHE: You can talk about nuts and bolts, but I want to add my two cents about the design. It’s really striking, especially in that mystic blue paint scheme. It has the prettiest profile in the BMW lineup and some new options that should appeal to techno-geeks like you, including a night vision system, real-time traffic information and high-definition radio.\n\nHE: I would gladly swap that lousy, complicated iDrive controller for HD radio any day.\n\nSHE: That was an amazing audio system in our test car — a Logic7 with surround sound. But one thing leads to another with this BMW. If you’re going to spend the $500 on the high-definition radio, you definitely need the aforementioned $1,800 premium sound package. Then you’ll want to add satellite radio for another $595. And before you know it, you’re up to 14 grand in options.\n\nHE: Actually, I was more impressed with the $1,000 head-up display, which was useful and easy to read, but never intruded on the driver’s field of vision. I wasn’t quite as fond of the $2,200 night vision system, which still looks and feels like a techie gimmick.\n\nSHE: BMW puts some of the best safety systems on their cars, and the 5 Series is no exception.\n\nIt comes standard with antilock brakes, stability and traction control, and air bags and air curtains all around, as well as exotic features like adaptive headlamps, park distance control and rain-sensing wipers. Talk about peace of mind.\n\nHE: Now, if you want to talk about comfort, let’s look at those sport bucket seats. Sorry, but they are plain awful — my back and behind hurt any time I had to drive more than 100 miles at one stretch.\n\nSHE: Yeah, but at least they had those little pillows built into the front headrests. I also really liked that dark poplar wood trim that BMW has been using.\n\nOne of my few beefs involves the steering wheel, which feels too thick. But I’m really starting to love BMWs, from a purely luxury perspective.\n\nI’ve heard you and your guy friends talk about them for years as great machines. But anybody who puts a pillow in a headrest and real wood on the doors and instrument panel is thinking like an interior decorator.\n\nA really pricy interior decorator.\n\n2007 BMW 550i\nType: Front-engine, rear-wheel drive, five-passenger sedan\nPrice: Base, $59,195 (inc. $695 shipping charge); as tested, $73,040\nEngine: 4.8-liter V-8; 360-hp; 360 pound-foot torque\nEPA fuel economy: 17 mpg city/25 mpg highway\nWhere built: Germany\nEstimated 12-month insurance cost, according to AAA Michigan: $2,374\n\nVehicle ratings\n\nAnita\nRating: 5\nLikes: The best-looking BMW sedan. World-class safety features. Nice pillows built into front headrests. Dark poplar wood trim. Awesome $1,800 Logic 7 audio system.\nDislikes: Ridiculously expensive. Almost $14,000 in options. Steering wheel feels too thick for comfort.\n\nPaul\nRating: 4\nLikes: Powerful, responsive 4.8-liter engine. Six-speed automatic trans is smoother, easier to use than fancy SMG. Useful, unobtrusive head-up display. Handles like a thoroughbred sports car. Auto trans gets better mileage than manual.\nDislikes: iDrive controller too complicated, not intuitive. Extremely uncomfortable seats, especially over long driving distances.\n\nHe drove, she drove Anita and Paul Lienert are partners in Lienert & Lienert, a Detroit-based automotive information services company.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2008": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/082c1e90-3be1-4607-88c5-6964b111b3aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/81d140d8-9086-463e-b1ed-8694d9b770a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/9fead34b-1ef9-432d-9269-23bcf2d4f361.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/458189a6-cdf5-4d3d-814d-fae1d832976e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/be0158b9-6504-4633-baf1-b71eb99d1cbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/3799a455-c201-49d5-a9de-d93dfff9865d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/a147fc12-8c3e-4568-aba0-92b7e275c2f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/ae28332b-cfbb-4fd5-b02d-8938cc2e0892.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/f7cfe016-4f58-4fd9-93bb-2e56c9124486.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/d65dd756-cb8f-4c3b-b1b2-f0629a735c72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/bd8facec-7973-4ba4-b548-6b5fa822486f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/f3dc7e61-ab9f-4ad7-a114-b5e3a2616b67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/cfa1a27c-d9e5-4bb2-926f-2eb5ec2dfd85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/64741263-7356-413d-8459-b729f5f0ca0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/b0eb02cb-1f35-4a8f-9a78-032079e7b571.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/03b12bac-56fb-4faa-acef-750335108c5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/087c5bae-72e8-4722-a3b1-acdd43ae8151.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/d50c43b1-cbd7-4db8-aa04-057a3a0bcf5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/824a1554-0918-4682-9e77-22760178706c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/7ae71e79-ae84-48bc-8759-fd318fe1d682.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/b0ad2c2a-b216-4863-9f0d-91dc3d4bea08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/453ef003-2d0d-4c26-bbcb-8801865a9695.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/bf19e6aa-f253-4ccd-8978-c220cfbbc553.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/107234b5-702a-4767-b1ad-70febe2ed9fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/27f49a5a-162d-4efa-ab90-0c4614438ff2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/bf19e6aa-f253-4ccd-8978-c220cfbbc553.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/16608af6-6d3b-4051-aebf-417cdcce4098.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/bf74ded1-58a3-4a6d-bee2-154bf2d908e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/272d1149-a1bc-45ff-be3d-9d95b9135d29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/953cc4ec-9c99-451b-8c40-278a6a1e78f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/11a44ddb-ba68-49ad-9c99-410ad3d8a33d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/5866a08b-9698-4af9-b0d5-9a9f3cf3d7ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4846865f-3ecc-465d-b573-05722fa8be9f/abd66abb-a96b-4e4e-ab42-bdcdd9222e05.png"
+      ],
+      "expert_review": "The last-generation 5-Series served with profit-producing distinction for BMW from 1997 to 2003, so when the all-new 2004 model arrived, expectations were high. It delivered. There were some criticisms — the mildly peculiar styling, the anti-intuitive “iDrive” joystick controller that made simple functions such as changing radio stations a multistep process — but overall, the car has been a success.\n\nFor 2008, it was time for an update, and as these midcycle makeovers go, this one is moderately extensive. We have new front and rear styling — inarguably an improvement at both ends — a revised interior, a couple of new engines, and a substantial number of mostly unseen tweaks and general refinements that make the 2008 5-Series a genuine improvement over the 2007.\n\nFor ’08, BMW has replaced the 525i and 530i with the 528i and 535i. The 550i remains. Though the United States still doesn’t get the diesel engines that power half the 5-Series models in Europe — we should get at least one BMW diesel-powered model next year, though — the 5-Series does get a neat 300-horsepower, twin-turbocharged 3.0-liter six-cylinder from the 335i. That engine goes in the 535i; the 528i gets a 3.0-liter six-cylinder without turbos, meaning it’s the lowest-powered 5-Series at 230 horsepower. That’s certainly better than the 2004 525i, which had just 184 horsepower.\n\nYou can get the 528i and 535i as sedans or wagons. All-wheel-drive versions of the 528i and 535i sedans, and the 535i wagon, are also available — those would be the 528xi and 535xi.\n\nThe 528i’s revised inline-six-cylinder engine has 230 horsepower, 15 more than 2007. The 550i engine is a 4.8-liter V-8 with 360 horsepower, the same as last year.\n\nI’ve driven a couple of 2008 5-Series models, but I spent most of my time in a 550i with a six-speed manual transmission. The 550i comes only as a rear-wheel-drive sedan; no all-wheel-drive or wagon version is offered. As nice as BMW’s twin-turbo six-cylinder is, this V-8 is profoundly satisfying, with a wonderful exhaust note under acceleration that sounds as though it should come from an American muscle car.\n\nThe biggest surprise with the 550i is one of those unseen improvements: Gone is the grabby clutch that made it difficult to execute a smooth standing start — finally, the clutch and transmission feel exactly right. For those who prefer not to shift for themselves, a six-speed automatic transmission is offered for the same price. This may be the first time I’ve preferred the manual over the automatic on the 5-Series.\n\nSince this is a 2008 model, its window sticker uses the new EPA mileage rating system, which better reflects real-world driving. The test car was EPA rated at 15 mpg city, 22 mpg on the highway. This same engine and transmission was rated at 17 mpg city, 24 mpg highway in 2007. Premium gas is preferred.\n\nInside, the 5-Series cockpit feels familiar, but compared side-by-side with a 2007 model, there have been some substantial changes. Remaining is the iDrive, which uses a cookie-sized joystick located in the center console to control multiple functions. Critics, me included, have hammered BMW over the iDrive, but this one does seem a little easier to navigate than previous versions. BMW has added more and more conventional controls to the climate and sound systems that eliminate having to deal with iDrive.\n\nSeats are typically German — firm, with good lumbar support — designed for effortless cruising. Rear-seat room is more than adequate for two adults, passable for three.\n\nOn the road, the 5-Series feels pretty much as it did last year, which is not surprising since there wasn’t much updating done, or needed, on the suspension. BMW, better than any manufacturer, manages to blend crisp handling with a smooth ride, and the 550i is no exception. If I had to hop in a new car and drive cross-country tomorrow, the 5-Series would be on the short list of preferred vehicles.\n\nAs you would expect, even the least expensive 5-Series model (which happens to be the 528i, starting at $44,300) comes with plenty of safety equipment, including stability control, traction control, active cruise control (it uses radar to maintain a safe distance from the vehicle in front of you), rain-sensing wipers, adaptive brake lights (the more “urgent” the braking, the larger and brighter the brake light area becomes), antilock brakes and even “brake drying,” which senses when the brakes get wet, and applies just enough pressure to dry them off.\n\nThe 550i test car represented the upper end of the lineup, with a base price of $58,500. The tester had quite a few options on top of that, including a cold weather package ($750) that added heated seats, steering wheel and headlight washers; a $4,600 sport package that gets you upgraded wheels and tires, a stiffer suspension, a sport steering wheel, an active suspension, some body trim and several other features; a navigation system ($1,900), an upgraded stereo ($1,200) and several other features than brought the price, with shipping, to $69,820. Feature for feature, that’s pretty close to 2007 prices — which is not to suggest that it’s cheap.\n\nThe 550i isn’t, however, the most expensive or most powerful 5-Series model — that distinction goes to the M5, which has a 5.0-liter, 500-horsepower V-10 engine. The 2008 M5 starts at $82,900, but save some money for gasoline, as mileage is EPA-rated at 11 mpg city driving, 17 mpg highway, making it thirsty enough to get socked with a $3,000 federal “gas-guzzler” tax.\n\nClearly BMW is working hard to maintain the 5-Series as the template for the mid-sized premium category, but it’s facing its toughest competition ever. The new 2008 Cadillac CTS is a strong contender, as are the Infiniti M, Mercedes-Benz E-Class, Lexus GS, Acura TL and Audi A6. Sources within BMW wonder if the freshening for the 2008 model went far enough — some within the company would have liked to see more dramatic exterior changes because, after all, this model needs to carry the 5-Series for at least three more years before an all-new model is ready.\n\nIn the first six months of 2007, BMW sold 23,807 copies of the 5-Series, down about 4,000 from the same period in 2006. With the 2008 models just now reaching the market, we’ll see soon enough how the customers feel about the makeover.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2010": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/12bb2ce3-ee5d-415f-bec9-37bfbbe4927f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/9a2ed37c-5d5b-4988-9892-8aa99d2c6b37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/1167d34f-657c-41d2-8414-38dd448d5434.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/4a339d9a-c1d1-4171-a063-2ec7c2506d78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/bef35c90-1d45-4223-95db-0ac6308db254.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/34244c1c-e9c5-4bf4-a861-b7c328f3c35d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/0d9dc90c-d0ee-41b0-bbfe-dc51cc66890f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/21a98012-35d8-49f6-b0e7-cfdc0d7ae157.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/5553a2b8-7eb9-4e5d-86a4-53e2bf687812.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/4e64f466-e729-439d-85eb-44dc6a6e003a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/9ed79b50-7ba5-453a-93e7-4821c33309e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/1ce983fc-19af-462d-af52-89d91b5b845c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/ac078eb1-bea1-463c-aacb-5bda5feabfa1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/da4f3179-06be-46e3-8644-f1598662bebb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/f5664976-1a28-4d8d-8dc2-aa792f36e6d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/3cb14e91-78d4-45b3-a122-553bcf8b08d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/989b46df-0263-4842-8360-32f57c0495b7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/54024c75-fdd7-4094-91c1-0299e3328fdc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/54024c75-fdd7-4094-91c1-0299e3328fdc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/83f9edba-3466-42e5-bdf4-3ef9ab058a3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/5dab03e4-374d-4c2d-b822-6504b6c8d222.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/122ea33a-18a0-4bfc-9dfe-54075c8d3d68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/7c6bce63-9173-4920-a289-c4e28eafdeeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/d06ad022-3a1c-46fa-9aab-b8de7c2f5950.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/2424fef0-70ca-449c-9c5a-0f754a9bee71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/88e7466b-1706-4e93-8667-c16d8cd91c6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/4018e443-d5b3-4758-be06-0e4b641a635c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/c12efae0-79f6-4ea8-8419-ccfb7fb29be3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/f4a5331a-9d0d-40cd-9308-4d20e6b4cbe4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/3e5115cf-1266-49b2-b4b1-8488419b3362.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/d991bc61-da8f-46dc-a7f0-698110e18833.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/117ffde4-cd2d-47d2-a3b9-7ebd809f4972.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/9e36daba-c869-4784-a7ae-99ea690664cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/357f3c3d-5816-44a3-bf4c-ea2bff86812f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4a9ca8fc-24e9-43d8-a535-e6dd47371343/15b2e9d2-81ff-4b26-aa6f-b575b726ad01.png"
+      ],
+      "expert_review": "Of the hundreds of vehicles I’ve written about over the years, there are few I would call truly ugly. The BMW 550i GT is one of those vehicles. Its odd proportions, curious hatchback-or-sedan body style and downright-bizarre body lines add up to one big eyesore.\n\nOn the positive side, none of those hundreds of vehicles are a better companion on the open road. The 550i GT is simply one of the finest touring machines I’ve ever piloted.\n\nThat’s good, because if you’re going to name your newest BMW 5 Series “Gran Turismo,” it better do one thing right: get you to your destination in comfort and with plenty of power. BMW did sacrifice solid braking for some high-tech wizardry, though, which turned off anyone with a pulse who got in the driver’s seat.\n\nThe dirty little secret of this unsightly hatchback is that it shouldn’t be called a 5 anything. It’s based on the 7 Series sedan, sporting nearly identical interior and exterior dimensions, plus the same engine and features, but for about $18,000 less. If you can stomach its looks, this is an impressive $63,900 bargain.\n\nLooks\nWhile I really want to get to the best part of the BMW 550i GT — the driving experience — there’s no escaping the first thing people will take into account when it comes to this car: its looks. Not one of our staffers liked how the 550i GT looked; perhaps even worse than the negative feedback from those of us in the know, however, was the total lack of attention paid to this car by passers-by.\n\nControversially styled cars often attract stares of some kind — disgust or otherwise. But not our beige — BMW calls it Orion Silver Metallic — test car.\n\nThe front is rather aggressive-looking and very similar to the larger 7 Series, and it’s the GT’s hatchback body style and truncated rear that upsets my inner vehicle designer. It looks like someone took a 7 Series, cut the trunk off with a laser and didn’t do any cosmetic surgery to round out the look.\n\nThe GT’s bulbous profile also offends. The week before our tester arrived, I saw a new, black 550i GT on the road, and even that flattering color didn’t do much for it.\n\nPerformance\nBMW has done a lot to the 550i GT to make it a touring car and not the typical performance-oriented BMW 5 Series driving machine the automaker has striven for … well, forever. This will likely upset many BMW purists, as it did Cars.com senior editor Joe Wiesenfelder, who thinks the X5 and X6 crossovers do a better job preserving the BMW spirit.\n\nWhile the previous-generation BMW 5 Series sedan was an unabashed performance machine, the 550i GT is designed for a more sedate life. Cars.com editor Mike Hanley reviewed the redesigned 7 Series, which you can read about here, and thought this hatchback should be called a 750i GT.\n\nAt this BMW 5 Series’ core is a 400-horsepower, twin-turbo V-8 engine teamed with an eight-speed automatic transmission and standard rear-wheel drive; all-wheel drive (which BMW calls xDrive, where the ‘x’ in the model name denotes the car having the xDrive all-wheel system) is standard on the 550xi. A 535i GT and 535xi GT with a 300-hp, turbocharged six-cylinder is also available, starting at $56,000.\n\nThe 750i features the same twin-turbocharged V-8 but a six-speed automatic transmission.\n\nThe 550i GT has a standard rear self-leveling air suspension for an even greater level of comfort — and no, the 750i doesn’t have that either, not even as an option. My test vehicle also had a Dynamic Handling Package ($2,700), which adds Adaptive Drive. That feature adjusts suspension, steering and throttle control among four modes: Comfort, Normal, Sport and Sport+.\n\nUnlike a lot of systems like this that I’ve tested, you can really feel a difference when you shift from one mode to another, using a well-positioned rocker switch on the center console. Most of the time — including most of a road trip between Chicago and Indianapolis — I left it in Comfort, for the comfort of my wife, who was seated in the plush passenger seat. It’s also incredibly silent, whether you’re requesting all 400 horses or sitting at a stoplight.\n\nSteering in this setting was a bit numb — light for a BMW, which is nice on long drives. Plus, you can still put the accelerator to the floor when you want to pass semis with gusto. Speed-sensitive steering is standard, with an active steering setup optional ($1,750); my test car had this setup.\n\nWhen moved to Sport — why would you ever drive in Normal? — the 550i GT turns into more of a typical BMW, with more responsive steering and a touchier right pedal.\n\nNo matter which setting, it always feels like you’re piloting a large car when driving the GT, and you are. Those 7 Series comparisons relate directly to the driving experience; even though it’s 3 inches shorter in overall length, the 550i GT’s wheelbase is a mere 0.2 inches shorter, while carrying 374 extra pounds. Yes, some will call it a porker. Turning radius, front and rear track, and the cars’ widths are either identical or nearly so.\n\nThe least impressive part about the driving experience was the maddening regenerative braking system that BMW thought it needed to add to make the GT more efficient — and we’re not even sure it does that; the BMW 550i Gran Turismo is rated 1 mpg worse on the highway than the 750i that doesn’t have it equipped. And yes, you’re still subject to a $1,000 gas-guzzler tax because of the GT’s 15/21 mpg city/highway gas mileage rating. The good news is I returned 20 mpg overall in real-world driving, which included bumper-to-bumper commutes on top of that road trip on open highways.\n\nIt’s not just the numbers that are distressing; the braking system intrudes on the overall driving experience. Once you start to decelerate — even if you’re just coasting to a stop without brakes — the system kicks in and you feel a lurching as the car starts recapturing energy. Hit the brakes, and that lurch is even more intrusive. Who in their right mind spends $64,000 — or $83,000 if you get a version like our well-appointed test vehicle — to get this kind of annoyance, with no seeming gain in terms of efficiency? Plus, once you’re shelling out nearly $1,400 a month for a car — that’s the going lease rate for one with our as-tested price — do you care whether the fill-up is an extra $5 or $10?\n\nInterior\nOK, I need to settle down a bit, and thinking of the 550i GT’s interior is a peaceful way to do that. While some bits of the GT were less than praiseworthy — especially a flimsy cubby drawer in the middle of the dash and the bulky plastic surrounding the center console and lower door pockets — overall, the interior shined.\n\nChief among the highlights were plush, 20-way powered front seats with first-class airline-inspired headrests (part of a $2,950 option package). The rear seats were almost as comfortable, with power reclining and plenty of leg- and headroom for adults.\n\nThen there are the readouts and controls. The gauge cluster — nearly identical to the 7 Series’ head-up display — is a mix of analog needles and fully digital readouts. That means the numerals for your speed and revs are digital, and at night they don’t glow the classic BMW orange; they’re orange numerals.\n\nThe lower part of the gauge cluster is also a digital readout that seamlessly swaps out trip information, time and temperature. Plus, when you’re adjusting the stereo, radio station presents or song titles pop up for you to sort through using a steering wheel switch, similar to Audi’s layout.\n\nThe latest iDrive is now teamed to a gigantic center LCD screen. Navigation, which comes standard, is gorgeous in full-screen mode with a satellite overlay. You can easily make it a split screen with other menus, like trip information or stereo settings, as well. Now in its fourth generation, iDrive has gotten much more intuitive than ever before, but I still found myself fumbling with the main controller knob. Mainly, when I tried to go backward through the menus — which requires a significant leftward push — I would spin the knob around instead.\n\nHowever, that was a minor annoyance in an otherwise flawless infotainment system. Our test vehicle was upgraded with a $1,400 Premium Sound Package with an iPod adapter and 16 speakers. Sound quality was very good, but it didn’t compare with Audi’s more expensive Bang & Olufsen option, which costs around $6,000 in some models.\n\nWhile our test model had many options and packages added on, even the standard-features list on the BMW 5 Series 550i GT is pretty extensive, including Bluetooth, a panoramic sunroof, push-button start, folding side mirrors, a power tilt/telescoping steering wheel and parking sensors.\n\nOh, and many of you will be happy to learn that BMW has fixed its cupholder problem. No more do fragile plastic stirrups pop out of the dash; a more substantial pair of cupholders is now located in the center console, and they fit large drinks comfortably. Skinny water bottles, though, will slide out when you make a turn.\n\nCargo\nIt’s hard to gloss over the GT’s unique cargo area, given it’s the main reason the car looks like this. There’s a unique dual door on the back that you can open like a trunk or like a traditional hatchback. I have absolutely no idea why anyone would want to open the narrow trunk to access anything, unless it were a wildly windy day and they were afraid their loose papers would end up flying all over town.\n\nHonestly, that’s the only time I would use it, because the liftgate isn’t that heavy.\n\nWhat was really a pain was simply lowering the rear seats down to create a flat cargo floor — and they were power operated! You have to lower the seats separately from a hard cargo floor backing. First, the leather seat folds down via a power switch on the left side of the cargo area, which seemed to take a very long time. Once the cushy seats are down, you must then pull two latches, one behind each seat, to lower the hard piece of carpeted flooring that creates a flat load floor. What a pain. And from what I could tell, there wasn’t any reason to have these steps separated.\n\nIt’s also not that roomy back there; golfers will be hard-pressed to get two full-size sets of clubs in the back with any extra room for luggage.\n\nSafety\nA number of passive and active safety features are standard, including a basic array of airbags, but there aren’t rear-seat-mounted side airbags, just curtains. There’s also no knee airbags for either driver or passenger, which the 7 Series has.\n\nBMW also has a feature called BMW Assist that’s similar to GM’s OnStar, automatically sending out collision notifications and other services. Four years of the service are included, but you’ll have to pay a fee past that time.\n\nAn optional Driver Assistance Package is available for $1,350, including blind spot detection, lane departure warning and automatic high beams.\n\n550i GT in the Market\nWhile one of my major hang-ups about the 550i GT might be subjective — its looks — every Cars.com staffer who tested it complained about those regenerative brakes. I suspect many buyers of such a pricey body-type auto will be as bothered by it as we were.\n\nAnd that’s unfortunate, because the 550i GT is a unique luxury vehicle that matches up well to BMW’s flagship sedan. In terms of price, it trumps it considerably.\n\nSend David an email",
+      "trims": [
+        {
+          "name": "Base_Price_12800",
+          "price": "$12800",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/abf5544a-b2a0-4e52-9943-6cebd1f4f51b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/eb8d40d5-3142-4416-a835-0b22174f0f07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/85988b38-d4a1-4c8f-8ad4-64198e6a5e70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/9a683f62-8fbc-49dc-9811-2b8db8d96f53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/ee211f62-805f-4446-844a-2f2f1ff1fa24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/66f20551-304a-4781-86aa-7056f5405bcc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/13a4158b-d7f3-4f1a-ad62-798ac2b303b8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8947fb77-7847-4078-a778-fc7b58ea52ec/c9ebbb0a-5d38-47d6-a629-579ca505ab3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/2f350899-9dc2-481b-9f50-91739f44e34b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/f835f748-0472-4756-8899-cdbda78c675e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/f213f51e-a0ac-440b-9d31-c709f39b65b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/3691f139-df81-4cee-ad11-5370e8c7982f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/857a2fae-6b69-480e-bd54-fbca7e0028b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/44589924-d611-4fe5-90b4-d9f0bc09aae3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/a8b7b4dc-cf7e-45bf-9cf2-b462b500bdb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/0a253a61-58a9-4084-819d-439056000056.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/a20d00e3-e264-470b-9f65-c1a831efc5ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/fa39c526-4fbf-4b14-bef4-957329b99720.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/63324003-191a-401f-8358-1ea17f7f65e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/51a7980e-59c7-4eb6-a89f-980b48a82067.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/9bf88dd2-9319-4ea4-9bad-4185b990d916.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/1b8f7aab-dc48-43e5-98d0-e2b1fd8896c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d2d492f7-32de-4541-b478-8a8a470186f9/1646b42d-b137-4888-90a0-eff8163d2944.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat 5 Series sedan is offered with a twin-turbo V-8 (550i), a single-turbo six-cylinder (535i), a turbo-diesel six-cylinder (535d) and a turbocharged 2.0-liter four-cylinder (528i). Competitors include the Mercedes-Benz E-Class, Audi A6 and Lexus GS.\n\nThe 5 Series lineup also includes the Gran Turismo, a tall hatchback. There’s also a high-performance M5 sport sedan and an ActiveHybrid 5, which are covered separately in the Cars.com Research section.\n\n(Skip to details on the: 5 Series Gran Turismo)\n\nNew for 2015\nA sport leather steering wheel, LED fog lights and enhanced Bluetooth with USB smartphone integration are now standard.\n\nBelow is a list of highlighted features and not an exhaustive list. Features are standard unless otherwise noted.\n\nExterior Highlights\n\nShares platform with the bigger 7 Series sedan\nAdaptive xenon high-intensity-discharge headlamps; full LED headlamps available\nLED taillights and fog lights\nSeventeen-inch alloy wheels (528i)\nAvailable 18- and 19-inch rims\nPower moonroof\nHeated side mirrors\n\nInterior Highlights\n\nNavigation system with 10.2-inch screen and iDrive controller\n10-way power front seats\nAutomatic dual-zone air conditioning\nPower tilt/telescoping steering wheel\nAvailable head-up display\nAvailable heated and ventilated front seats\nAvailable dual-screen rear-seat entertainment system\nAvailable Harman Kardon or Bang & Olufsen premium stereo\n\nUnder the Hood\n\nTurbocharged 2.0-liter four-cylinder makes 240 hp (528i)\nTurbocharged 3.0-liter six-cylinder makes 300 hp (535i)\nTurbo-diesel 3.0-liter six-cylinder makes 255 hp (535d)\nTwin-turbocharged 4.4-liter V-8 makes 445 hp (550i)\nEight-speed automatic transmission\nAvailable all-wheel drive\nAvailable Adaptive Drive system includes active roll stabilization, adaptive suspension and customizable settings for the drivetrain and suspension\nAvailable Active Steering varies the steering ratio for easier turning at low speeds and stable handling at high speeds\nAvailable adaptive cruise control includes full stop-and-go capabilities to manage heavy traffic\n\nSafety Features\n\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\nSide-impact airbags for the front seats\nSide curtain airbags\nActive front head restraints\nAvailable blind spot warning system\nAvailable lane departure warning\nAvailable backup camera\n\n5 Series Gran Turismo\nBMW’s hatchback version of the 5 Series sedan, dubbed 5 Series Gran Turismo, is offered in six-cylinder 535i GT and V-8 550i GT form. The Gran Turismo can accommodate up to five people.\n\nWhat’s Special\n\nUses same engines as the 535i and 550i sedans\nAuto-leveling rear suspension \nRear- or all-wheel drive\nEight-speed automatic transmission\nFuel-saving stop-start technology and BMW’s Eco Pro system\nUnique hatchback design with two-way opening, power liftgate \nAvailable M Sport Package\n40/20/40-split folding backseat\n\nBack to top",
+      "trims": [
+        {
+          "name": "4dr Sdn 550i RWD",
+          "price": "$64900",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn 550i xDrive AWD",
+          "price": "$67200",
+          "specifications": {}
+        }
+      ]
+    },
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/74fb4c82-bacc-42eb-a4e9-d98cfbfb92b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/03037ab3-8a98-4fa1-88d9-174e08126d69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/e11f8481-f43c-46de-b5ab-aeab7c3e9d78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/4f51dc17-8abe-48de-a340-356f29cdf088.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/fd079eec-ba01-4acc-b12d-954d29e0db65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/bf1a111b-fe62-4bbc-93ec-fc29fd45aa90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/4eea0720-99cd-40ad-805c-e15bbc92350b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/8489ebb0-71a9-4d41-a724-aff6fd2f9ec6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/c13f7a1a-d948-4823-997a-6db77f0ae88f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/d5d61dbd-4be7-4e14-818e-3eb68dc14836.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/62aa78b1-e280-4dcb-aceb-dc39543a0db3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/25c7e291-acf4-4c85-8b90-07251d4be30a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/3277e90f-d81b-48fc-8a3d-7703417dbca6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/7f5a8c62-8023-4f86-b3c2-4e053534a7ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/cc014b11-c607-4baf-af59-6a02e2907933.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/fb28a59e-b093-4444-ab67-4eeeb73120c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/bc7ca79e-14e4-4c6d-b62d-946246dafc30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/8e1072c2-7002-42cd-8624-82997c6d9c31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/e5b6a6e9-2ec8-4bd4-85a0-514535ff70d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/b1794313-5e0d-42ef-94da-c57812aaa142.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/1fe4e6c6-7faf-4e98-9efb-00c5407d6059.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/a5dd3a01-7e3f-48b9-89dd-c8ed4590bc79.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/25c7e291-acf4-4c85-8b90-07251d4be30a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/30d17d3b-73d1-4620-b2c4-2a8a08b2f2df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/00dc937f-2ead-406f-b2d7-a52961677d1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/4cb19a74-bda9-4d88-b56d-57078556ba0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/745f0a5e-aaeb-4098-bfde-a09db620b8c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/3b4d3286-1b0b-4ac1-ba43-8b6df7d2c4b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/d7c5a7bc-2bac-4dc2-b2bd-0b762b2e33da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/baa850f7-4369-4960-8d93-53b933cb8301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/0687125a-95b6-4e94-89cd-960342347559.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/8154b0e6-7fb7-4eee-be54-87f795eed18b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/7523a739-70bf-4078-a1ba-45d293eb30ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/619e1dd3-513f-4319-98d7-610c368f0f9f/9d9f23b7-2d52-47eb-a9d2-0d12351fb630.png"
+      ],
+      "expert_review": "I don’t walk away from every new model with a single overriding impression, but sometimes a car grabs me by the collar and shakes me. While that wasn’t exactly the case with the redesigned 2011 BMW 5 Series, that car did consistently whisper in my ear.\n\nIf the new 5 Series is anything, it’s quiet and comfortable.\n\nThis new level of comfort broadens the sport sedan’s appeal, but at the same time the newly redesigned car gives up even more of its old visceral experience, which has been abating generation by generation.\n\nThe 5 Series sedan comes in three levels: the 528i, 535i and 550i. (The bizarre 5 Series Gran Turismo is reviewed separately.) Though there was a time when those numbers represented engine sizes, BMW’s recent embrace of turbocharging has cast off any semblance of meaning. Suffice it to say the 528i has a six-cylinder, the 535i has a turbocharged six-cylinder and the 550i has a turbocharged V-8. See them compared here.\n\nI tested the 535i and 550i with rear-wheel drive. All-wheel drive is available for both of these levels, designated “xDrive.”\n\nExterior & Styling\n\nThe 2011 5 Series is further proof that BMW is pulling itself out of an awkward design era. Recently, the only element that had seemed to tie one model to another was an ill-conceived — and poorly received — rear-end design nicknamed the “Bangle butt,” after former chief designer Chris Bangle. Though the previous-generation 5 Series’ trunklid was better integrated than the one on the earlier 7 Series, its too-small grille and raised-eyebrow headlights were an aesthetic failure. With a design inspired by the headlights, the taillights looked like they were trying to escape the car altogether. Blech.\n\nRefreshes weren’t enough to cure the 5’s ills, so 2011’s complete redesign is a godsend. The grille is stronger than ever, the taillights look like they want to be there and the headlights are more aggressive than fey. They aren’t perfect, though: There’s a translucent white stripe along the top of the headlight clusters, also seen on other BMWs. It looks like something that was supposed to be removed after shipping.\n\nThe hood is sculpted in the fashion of other recent BMW redesigns, including the Z4 and 7 Series. In lieu of faux vents on the front fenders, chrome surrounds the side marker lights — relatively subtle by today’s standards. The 528i has 17-inch alloy wheels, and the 535i and 550i have 18-inchers. Larger wheels are optional.\n\nCompared with the 2010 model, the 2011 is 2 inches longer and a half-inch wider, with 3.2 more inches of wheelbase. The car is easily mistaken for the redesigned 7 Series, though the flagship is almost 7 inches longer and nearly 2 inches wider.\n\nIn the Cabin\n\nBecause each was equipped with the optional Sport Package, both of our test cars had “multi-contoured” power sport seats, which we found comfortable. An additional seat adjustment, which tilts the upper section of the backrest forward independently, is a cherished feature. Likewise for the power-extending bottom cushion, though the gap it forms collects enough crud to clog a Dustbuster. We were satisfied with the front seats’ overall comfort and dimensions, but we wouldn’t have minded a little more front-seat legroom.\n\nDespite the larger exterior, the 5 Series’ interior isn’t notably roomier than before. Most seating dimensions increase or decrease by no more than a tenth of an inch or so, though front headroom is up 1.4 inches, and there’s an inch more shoulder room up there. Shoulder room is an inch narrower in the backseat. While it’s workable, the backseat isn’t exceptionally roomy. By the numbers alone, nothing in this class has impressive rear legroom, though we found the Infiniti M sedan’s backseat more accommodating. The midsize luxury sedan class is dominated by rear- and all-wheel-drive cars, which mean a large center floor hump. Call them five-seaters if you want, but those center seats are less usable than in other cars.\n\nCharacteristic of BMWs, the 5 Series’ cabin is relatively simple and spare, mostly in a good way. The instruments, though, are too plain in a market segment full of glowing electroluminescent gauges, though you can opt for a head-up display that projects crucial info onto the windshield. The 5 Series’ interior is otherwise a deft exercise in restraint. The materials are high-quality overall, with elements like standard genuine wood trim, or real aluminum available as a no-cost alternative. One big sticking point for me — which, again, is par for the course with BMWs — is the standard leatherette (that’s fake leather) seats in the 528i and 535i. Real leather is optional on these and standard on the 550i.\n\nThough BMW has high-quality vinyl, the lack of real leather at these prices is hard to swallow. Arch competitor Mercedes-Benz is guilty of the same, but comparable models from Audi, Infiniti, Jaguar and Volvo all have leather to start, and some of those are priced lower.\n\nFrankly, this isn’t a new phenomenon for BMW, or even for the luxury class, where you’re more likely to pay for features that come standard in the most affordable of vehicles. For example, practically every new entry-level car comes standard with a folding backseat, and, increasingly, an iPod connector. In the 5 Series, they’ll cost you $475 and $400, respectively.\n\nOne after another of our editors remarked about the shortage of features at our 535i’s $58,275 as-tested price. It had no navigation, no heated or cooled seats, no backup camera. On the upside, though some of these items are included in packages, you can also get them a la carte, so you’re not forced to pay extra for something you might not want.\n\nThe standard sedan has a 7-inch display and an abbreviated version of the iDrive control system, which employs a multifunction knob/joystick and a cluster of buttons on the center console. With the $1,900 navigation option, the screen increases to 10.2 inches and includes voice activation and traffic information. iDrive controls many audio system functions, the telephone, the BMW Assist telematics system and numerous vehicle settings.\n\nBMW’s iDrive has earned disdain over the years, but the current generation is actually pretty good. To my way of thinking, the issue has never been how hard it might be to learn but how simple it is to operate once you do learn it, and that’s the aspect that has improved. Don’t let iDrive’s reputation distract you from the true ergonomic foibles on this and other BMWs: I speak of the electronic gear selector and turn-signal stalk, both of which immediately spring back to a center position after you move them rather than stay where you put them. With this design, you lose the ingrained and perfectly natural feedback of a turn signal that’s still on and a transmission that’s in the gear you want. As a result, you’re always looking for displays just to make sure you don’t, for example, roll the wrong way when you lift off the brake.\n\nAre these controls bothersome enough to break the deal for a would-be buyer? You’d be surprised, but the BMW faithful have overlooked such things because of the vaunted BMW driving experience. So how’s that going in 2011?\n\nDrivetrains\n\nThe 528i, 535i and 550i are rated at 240, 300 and 400 horsepower, respectively. The turbocharged version of the 3.0-liter inline-six-cylinder in the 535i makes the 550i superfluous, rocketing the car to 60 mph in less than 6 seconds. If you prefer 5 seconds, the 550i’s twin-turbo 4.4-liter V-8 will deliver, but the 535i’s character is more than you might expect from a turbo-six. There was some hesitation at times, but I wouldn’t attribute it to turbo lag, because it’s intermittent. Almost across the board, this turbo-six feels like a V-8. It’s damn impressive, and plenty efficient at 20/30 mpg city/highway with the automatic transmission. This beats practically all competitors. Only the base Audi A6 tops it, at an estimated 21/30 mpg.\n\nAll-wheel drive, in the 535i xDrive, gives up 1 mpg. The six-speed manual transmission, available only with rear-wheel drive — is rated lower still, at 19/28 mpg. The 528i, which comes only with an automatic and rear-wheel drive, saves you a couple of mpg, rated 22/32 mpg. The 550i’s best performance is 17/25 mpg with the automatic, 16/24 mpg with xDrive and 15/22 mpg with the manual transmission. All the cars require premium gas.\n\nWhere does this efficiency come from? Direct fuel injection plays a part, but as the mileage ratings reflect, the new eight-speed automatic transmission is a major player. My impressions of it are positive overall, though it’s more effective with the 550i’s larger engine (as is often true of automatics). What stood out was how quickly it kicked down under all circumstances, be it one gear, three gears, basically anything. This isn’t always the case. In fact, historically, an increase in the number of a transmission’s gears hasn’t always guaranteed satisfying performance.\n\nThe transmission’s responsiveness was still good in the 535i, but it wasn’t quite as quick and decisive on the downshift as it had been in the 550i. In either car, sliding the gear selector to the left (the only position it actually stays in) activates an automatic Sport mode, which raises the rpm at which the transmission upshifts. It’s a sportier approach, but it doesn’t seem to speed the actual gear-change time. You can also shift manually by then pushing the stick forward or back, or by using paddles on the steering wheel. Frankly, with eight speeds to work with, you’re always wondering what gear you’re in, where you need to be and if it will even let you shift higher or lower from your current speed. The fun is lost.\n\nAutomatics have become so smooth that you often can’t tell when they’re shifting up. In normal Drive mode in the 535i, I was quite aware of the shifting. It’s under heavier acceleration that the transmission is its smoothest. It’s an odd approach, but we don’t object.\n\nBraking: One Step Up, Two Back\n\nThere is an aspect of the 5 Series that we do object to, though, and that’s the braking. To be clear, the car stops well enough; it’s not a safety concern. The problem is the feel of the braking, which pays the price for one of BMW’s “Efficient Dynamics” provisions. Like the new 7 Series, the 5 Series employs Brake Energy Regeneration, which is a distant cousin of the regenerative braking that hybrids use to recover spent energy and use it again. In this case, there’s no motor helping propel the car, but the generator (alternator) can be turned on and off with a clutch.\n\nDriven by a belt, an alternator puts a constant load on an engine, and that hurts efficiency. This is the same reason belt-driven hydraulic steering pumps have been replaced by electric power assist in many cars, including the 5 Series. The alternator must be turned by the engine, but it doesn’t have to be all the time. BMW’s alternator has a clutch that releases the belt drive as often as possible, allowing the ignition and any accessories to run off the battery. The battery isn’t much different from a regular 12-volt starter battery, though it’s designed for deeper cycling — to discharge as much as 40 percent and then recharge. (Conventional starter batteries are kept topped off all the time.)\n\nIt’s when the car is decelerating that the alternator reengages and recharges the battery. This is a clever idea that BMW claims is good for a 3 percent efficiency boost, or roughly 1 mpg in mileage terms. Unfortunately, it makes the braking feel uneven, nonlinear. As you brake, the transmission downshifts through the gears as the car decelerates, aggressively locking the torque converter whenever possible. This allows the car’s inertia to turn the engine and its alternator, optimizing electrical regeneration. In a normal arrangement, an automatic transmission holds on to a high gear as you decelerate and brake, ultimately downshifting when you come to a stop. That sensation is smoother.\n\nThe problem is that the degree of engine braking varies as the 5 Series’ transmission downshifts through the gears, so even though you’re applying steady pressure to the brake pedal, the deceleration is uneven and you tend to come to an abrupt halt. For what it’s worth, we thought this sensation was worse in the 550i Gran Turismo we tested, but it’s still a problem here — and it’s not what we’d expect from a company that once touted “The Ultimate Driving Machine” (recently overshadowed by the ill-advised “Joy” advertising campaign).\n\nGiven a choice, I’d want BMW to tweak the operation or eliminate the transmission’s downshifting behavior during braking. I don’t know how much that would hurt the mileage, but I suspect any driving enthusiast would prefer it. The driving experience is neither ultimate nor joyful. I wouldn’t like it from any brand, but it’s especially hard to accept from BMW. \n\nRide & Handling\n\nBoth our test cars had the Sport Package, which includes several features that affect ride and handling, so bear in mind that the base suspension will perform differently. The package adds an adaptive suspension and active stabilizer bars both of which are controlled by the Driving Dynamics Control rocker switch next to the shifter. DDC’s four modes — Comfort, Normal, Sport and Sport+ — vary the suspension settings, along with accelerator sensitivity, automatic shifting behavior, power steering assist and traction control. It’s much simpler to use than the old approach, which included multiple buttons for the various systems. Now you can program the Sport mode to vary the chassis settings, the drivetrain behavior or both, making your preferences just a push or two away using the DDC buttons.\n\nThe 5 Series rides comfortably indeed in the Comfort mode, and it’s not bad in Normal. I was surprised by that because the Sport Package equipped both of our test cars with 19-inch wheels and lower-series run-flat tires. Sounds like a recipe for jarred bones, but that wasn’t the case. Cycle through the modes, and you can feel the ride firm up and soften, but it’s not always as noticeable as you’ll find in some cars, and that’s fine. One gets the impression the system is designed for true performance differences, not dramatic effect, so it really depends on the type of road and driving conditions.\n\nThe handling is interesting. Both the 535i and 550i are true to BMW’s founding principle of balanced front/rear weight distribution: The 535i is rated 50.9/49.1 percent and the 550i is 52.4/47.6 percent. The automatic is light enough that the manual transmission relinquishes only a tenth of a percent to the rear in either car. More important than the specs, the cars feel wonderfully balanced and controllable. Size be damned, you can four-wheel-drift these things all day. The standard electronic stability system can be dialed back or defeated entirely.\n\nThe standard suspension and different wheel sizes and tire types will all affect roadholding, but there’s no mistaking when the dynamic basics are there, and in the 5 Series, they are. My main complaint is about the sense of involvement. Dynamically, the 5 Series does what you want it to and more, but it’s less visceral than I’d like, and maybe even less than the version that ended in 2010. Generation by generation, BMWs are becoming less engaging to drive. Though it had its own shortcomings, the 5 Series of two generations ago, coded E39, felt more ultimate.\n\nThe electric power steering might play a part, as its feedback isn’t as good as it was in the best of BMW’s now-endangered hydraulic-assist implementations, but it’s good enough that a casual driver wouldn’t know the difference. (For the record, I’m talking about the standard steering; the active steering option, which is sometimes criticized for its feel, wasn’t on our test cars.)\n\nSafety\n\nThe BMW 5 Series has earned Top Safety Pick status from the Insurance Institute for Highway Safety for top scores in frontal, side and rear crash tests and a roof-strength test that reflects rollover protection. The 5 Series is also among the first models tested under the National Highway Traffic Safety Administration’s revamped New Car Assessment Program, in which it earned an overall score of five stars, the highest possible composite score. Of the various separate tests, however, in the frontal crash it scored four rather than five stars for both the driver and front passenger. That wasn’t enough to bring down its overall score.\n\nThere are six airbags: two in front, a seat-mounted side-impact airbag for each of the front occupants, and side curtains that cover the side windows flanking the front and rear seats. Standard safety features include four-wheel antilock brakes, a stability system with traction control, and active head restraints for the front seats. For a full list of safety features, click here.\n\n5 Series in the Market\n\nThe things that trouble me about the 5 Series — high price, fewer standard features than some competing models — are things that sort themselves out. If BMW is asking too much for too little, consumers will make it clear in the only language that matters: money, or the lack thereof, in the hands of BMW dealers. There’s a lot to like about the 5, not the least of which is its admirable mileage.\n\nThe 5 Series’ combination of capability with unprecedented comfort is bound to broaden its appeal overall. BMW isn’t the only brand that has attempted to provide all things to all buyers. Lexus and Mercedes have been chasing that ghost for decades. Technology enables a single car to deliver a broad range of comfort and sportiness, and in some ways the new 5 Series sedan is a high-water mark in this regard, both for BMW’s line and for the entire midsize luxury car segment. It succeeds in behaving like two types of car, but what it doesn’t do is feel like two types of car, and I suspect the loss of that visceral feeling will disappoint the BMW faithful.\n\nSend Joe an email",
+      "trims": [
+        {
+          "name": "4dr Sdn 550i RWD",
+          "price": "$60200",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn 550i xDrive AWD",
+          "price": "$62500",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2011",
+              "Normally aspirated or turbocharged six-cylinder",
+              "Available twin-turbo V-8",
+              "Available as a sedan or Gran Turismo hatchback",
+              "Available blind spot and lane departure warning systems"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "450 @ 1750-4500 SAE Net Torque @ RPM",
+              "400 @ 5500-6400 SAE Net Horsepower @ RPM",
+              "4.4L/268 Displacement",
+              "Turbocharged Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Twin-Tube Gas-Pressure Shock Absorbers Suspension Type - Rear (Cont.)",
+              "Twin-Tube Gas-Pressure Shock Absorbers Suspension Type - Front (Cont.)",
+              "Multi-Link Integral-V Suspension Type - Rear",
+              "Multi-Link Double-Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,519 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Navigation System",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.6 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.7 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/d9276a30-5f4c-4854-a242-fcbdabd52721.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/155b2c4f-d583-437c-b07a-f509d258c968.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/777e657e-eeca-401f-b1ab-dcd16adf9b3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/c0985623-5bf7-4a05-8218-8cb749032e66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/c26f479d-70fe-4d72-8286-2c7ea98a6c4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/ad7ff583-c602-4161-bd75-188e9c240086.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/f0865e25-0b7e-46fd-821b-1c7b54f466ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/d3b49690-97e2-46e9-a2af-f063736deffb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/173b0a26-28cd-49f6-9afc-1adb36786afc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/a8f48466-02d7-42e1-be72-68c4651d26f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/3888c327-4f4b-4e0c-91b9-ad4aafa8f7b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/135db4e5-cd6f-475b-9630-a1afd79b39ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/7f22c0a6-c801-417d-9c2b-75ea69eefafe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/da1026a2-8cc2-4b4a-90f0-7d397908193d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/a2999575-52c1-4072-b242-81cdc7e46908.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/33a193e1-0338-4877-8a80-0c9a5fa89b7e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/d3b49690-97e2-46e9-a2af-f063736deffb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/b0a6055b-0bb5-4d94-a09d-c4d4895c9596.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/c81e72c2-e403-48b6-8d91-a05e61883f0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/c747c4a8-a228-4252-85b5-34044ae7baa3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/846a4014-6eae-467e-80c7-3d07f12ed7b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b4d9753-811b-4771-8fa7-80b56ed05657/0a3c17f8-c760-4613-93b7-db4a8e0185fb.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat 5 Series sedan is offered with a turbocharged V-8 (550i), a turbo six-cylinder (535i), a turbo-diesel six-cylinder (535d) and a turbocharged 2.0-liter four-cylinder (528i). Competitors include the Mercedes-Benz E-Class, Audi A6 and Lexus GS.\n\nThe 5 Series lineup also includes the Gran Turismo, a tall hatchback. There’s also a high-performance M5 sport sedan and an ActiveHybrid 5 model.\n\n(Skip to details on the: 5 Series Gran Turismo, ActiveHybrid 5 and M5)\nNew for 2016\nThe 550i sedan gains a standard power trunk lid and Harman Kardon premium stereo.\nSignificant Standard Features\n\nEight-speed automatic transmission\nLED taillights and fog lights\nPower moonroof\nAutomatic dual-zone air conditioning\nPower tilt/telescoping steering wheel\nNavigation system with 10.2-inch screen and iDrive controller\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\nHead-up display\nHeated and ventilated front seats\nBlind spot warning system\nLane departure warning\nBackup camera\nBang & Olufsen sound system\nRear-seat entertainment system\n\n5 Series Gran Turismo\nBMW’s hatchback version of the 5 Series sedan, dubbed 5 Series Gran Turismo, is offered in six-cylinder 535i GT and V-8 550i GT form. The Gran Turismo can seat up to five people.\nWhat’s Special\n\nShift paddles now standard\nAuto-leveling rear suspension \nRear- or all-wheel drive\nEight-speed automatic transmission\nUnique hatchback design with two-way opening, power liftgate \n40/20/40-split folding backseat\n\nBack to top\nActiveHybrid 5\nThe ActiveHybrid 5 can seat up to five people, has a lithium-ion battery pack for its hybrid system and can drive up to 37 mph on electric power alone. It can go from zero to 60 mph in 5.7 seconds, according to the automaker. Competitors include the Infiniti Q70 Hybrid and Lexus GS 450h. Gearshift paddles are now standard for 2016.\nWhat’s Special\n\nTurbocharged 3.0-liter six-cylinder engine and electric motor make 335 horsepower total\nEight-speed automatic transmission\nStop-start technology\n\nBack to top\nM5\nThe five-seat M5 is BMW’s high-performance variant of the 5 Series sedan. It’s powered by a twin-turbo V-8 engine that makes a whopping 560 hp and 500 pounds-feet of torque in its regular form. Offered with a six-speed manual or a seven-speed dual-clutch automatic, the M5 will sprint to 60 mph in the low-4-second range, according to BMW. Competitors include the Mercedes-Benz E63 AMG and Audi RS7. A power trunk lid is now standard for 2016 models.\nWhat’s Special\n\nRear spoiler\nQuad exhaust tips \nM blue-painted brake calipers; carbon-ceramic brake system available\nAvailable Competition Package increases engine output to 575 hp \nActive M rear differential \nAdjustable dampers with three modes \nAdjustable steering effort \nLaunch control on models with the dual-clutch transmission\n\nBack to top",
+      "trims": [
+        {
+          "name": "4dr Sdn 550i RWD",
+          "price": "$66300",
+          "specifications": {
+            "Notable features": [
+              "Turbo four-, six-cylinder and V-8 gas engines available",
+              "Turbo-diesel six-cylinder also available",
+              "Sedan or Gran Turismo hatchback body styles",
+              "Eight-speed automatic standard",
+              "Rear- or all-wheel drive"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "445 @ 5500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.4 L/268 Displacement",
+              "480 @ 1750 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,365 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 550i xDrive AWD",
+          "price": "$68600",
+          "specifications": {
+            "Notable features": [
+              "Turbo four-, six-cylinder and V-8 gas engines available",
+              "Turbo-diesel six-cylinder also available",
+              "Sedan or Gran Turismo hatchback body styles",
+              "Eight-speed automatic standard",
+              "Rear- or all-wheel drive"
+            ],
+            "Highlights": [
+              "16 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "480 @ 1750 SAE Net Torque @ RPM",
+              "445 @ 5500 SAE Net Horsepower @ RPM",
+              "4.4 L/268 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,519 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/f0a9c57d-a9f5-4892-8e70-fd21f469f64f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/2bd13006-be72-40ce-b68e-7f5d028396c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/1ea0a3bf-d7a9-47d1-8a04-427fb807ff8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/e4fd1c4f-1019-4f00-bc5c-073fcbbe216b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/96e09c3a-0189-4d16-bcb4-7c3c7737e8bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/a6c070f9-6971-4909-bb28-81faa75f3c54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/c3c8ad85-b457-4972-91a5-90669d3ad147.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/b422b9ef-d654-4143-a46c-68df2c8778e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/04d87c7f-3d13-49e5-a7ad-99935d2f0d8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/50b82551-9fc2-4d93-a674-67169ece67b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/fb6645f8-0b97-4890-b839-0a9da95ecad9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/5a75eca1-61c1-4a57-a2ac-77280f4fce34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/0e97a7c8-512f-450c-9b83-86c78c015144.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/628971e0-15c2-449d-bc28-075168f29248.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/87691c0d-c7fe-460e-9ab0-1b1a552a0f48.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/9de361d6-1032-4bef-904b-3d6603193df6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/b3154013-aa4e-45b9-b9cf-b563c3235396.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/d69289dd-bf5e-487e-a8d4-bce0664da531.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/8f12be12-9009-4cc0-9c04-bf806ae082dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/78a71313-ee1f-4436-b3db-1e2259935b4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/e3cec280-6119-42f4-ae18-32db1223bdfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/e95d5d70-f1fb-4508-9427-85b0f348298d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/ea69928f-ec46-4451-a006-196b32233cb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/ad297f7a-d478-4c6f-988c-c933a456f555.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/a4d47a58-8feb-49c1-869f-268d4ba61e84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/a6a80822-6be0-474d-a839-5667a14d717d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/d990dc28-f889-4f8d-9b09-a66c4fb65844.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/ba734803-cc41-4ced-9256-4c8f05ff9ac4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/fc1b159a-b2a8-4e5d-b4fd-db5c5c454a60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/7e9fc571-dd76-4bb8-af0e-15481abc406d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/7789add2-64aa-47a3-846b-91dca9769bb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/d85be4e7-898c-456f-86c6-8188194b3c74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/77f564af-3d1b-4e9e-b7c9-52b06ee65c89.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0c2ec7ca-ad92-43a2-8ffd-5cc70faf6c0b/e4fd1c4f-1019-4f00-bc5c-073fcbbe216b.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in November 2010 about the 2011 BMW 550. Little of substance has changed with this year’s model. To see what’s new for 2012, click here, or check out a side-by-side comparison of the two model years.\n\nI don’t walk away from every new model with a single overriding impression, but sometimes a car grabs me by the collar and shakes me. While that wasn’t exactly the case with the redesigned 2011 BMW 5 Series, that car did consistently whisper in my ear.\n\nIf the new 5 Series is anything, it’s quiet and comfortable.\n\nThis new level of comfort broadens the sport sedan’s appeal, but at the same time the newly redesigned car gives up even more of its old visceral experience, which has been abating generation by generation.\n\nThe 5 Series sedan comes in three levels: the 528i, 535i and 550i. (The bizarre 5 Series Gran Turismo is reviewed separately.) Though there was a time when those numbers represented engine sizes, BMW’s recent embrace of turbocharging has cast off any semblance of meaning. Suffice it to say the 528i has a six-cylinder, the 535i has a turbocharged six-cylinder and the 550i has a turbocharged V-8. See them compared here.\n\nI tested the 535i and 550i with rear-wheel drive. All-wheel drive is available for both of these levels, designated “xDrive.”\n\nExterior & Styling\nThe 2011 5 Series is further proof that BMW is pulling itself out of an awkward design era. Recently, the only element that had seemed to tie one model to another was an ill-conceived — and poorly received — rear-end design nicknamed the “Bangle butt,” after former chief designer Chris Bangle. Though the previous-generation 5 Series’ trunklid was better integrated than the one on the earlier 7 Series, its too-small grille and raised-eyebrow headlights were an aesthetic failure. With a design inspired by the headlights, the taillights looked like they were trying to escape the car altogether. Blech.\n\nRefreshes weren’t enough to cure the 5’s ills, so 2011’s complete redesign is a godsend. The grille is stronger than ever, the taillights look like they want to be there and the headlights are more aggressive than fey. They aren’t perfect, though: There’s a translucent white stripe along the top of the headlight clusters, also seen on other BMWs. It looks like something that was supposed to be removed after shipping.\n\nThe hood is sculpted in the fashion of other recent BMW redesigns, including the Z4 and 7 Series. In lieu of faux vents on the front fenders, chrome surrounds the side marker lights — relatively subtle by today’s standards. The 528i has 17-inch alloy wheels, and the 535i and 550i have 18-inchers. Larger wheels are optional.\n\nCompared with the 2010 model, the 2011 is 2 inches longer and a half-inch wider, with 3.2 more inches of wheelbase. The car is easily mistaken for the redesigned 7 Series, though the flagship is almost 7 inches longer and nearly 2 inches wider.\n\nIn the Cabin\nBecause each was equipped with the optional Sport Package, both of our test cars had “multi-contoured” power sport seats, which we found comfortable. An additional seat adjustment, which tilts the upper section of the backrest forward independently, is a cherished feature. Likewise for the power-extending bottom cushion, though the gap it forms collects enough crud to clog a Dustbuster. We were satisfied with the front seats’ overall comfort and dimensions, but we wouldn’t have minded a little more front-seat legroom.\n\nDespite the larger exterior, the 5 Series’ interior isn’t notably roomier than before. Most seating dimensions increase or decrease by no more than a tenth of an inch or so, though front headroom is up 1.4 inches, and there’s an inch more shoulder room up there. Shoulder room is an inch narrower in the backseat. While it’s workable, the backseat isn’t exceptionally roomy. By the numbers alone, nothing in this class has impressive rear legroom, though we found the Infiniti M sedan’s backseat more accommodating. The midsize luxury sedan class is dominated by rear- and all-wheel-drive cars, which mean a large center floor hump. Call them five-seaters if you want, but those center seats are less usable than in other cars.\n\nCharacteristic of BMWs, the 5 Series’ cabin is relatively simple and spare, mostly in a good way. The instruments, though, are too plain in a market segment full of glowing electroluminescent gauges, though you can opt for a head-up display that projects crucial info onto the windshield. The 5 Series’ interior is otherwise a deft exercise in restraint. The materials are high-quality overall, with elements like standard genuine wood trim, or real aluminum available as a no-cost alternative. One big sticking point for me — which, again, is par for the course with BMWs — is the standard leatherette (that’s fake leather) seats in the 528i and 535i. Real leather is optional on these and standard on the 550i.\n\nThough BMW has high-quality vinyl, the lack of real leather at these prices is hard to swallow. Archrival Mercedes-Benz is guilty of the same, but comparable models from Audi, Infiniti, Jaguar and Volvo all have leather to start, and some of those are priced lower.\n\nFrankly, this isn’t a new phenomenon for BMW, or even for the luxury class, where you’re more likely to pay for features that come standard in the most affordable of vehicles. For example, practically every new entry-level car comes standard with a folding backseat, and, increasingly, an iPod connector. In the 5 Series, they’ll cost you $475 and $400, respectively.\n\nOne after another of our editors remarked about the shortage of features at our 535i’s $58,275 as-tested price. It had no navigation, no heated or cooled seats, no backup camera. On the upside, though some of these items are included in packages, you can also get them a la carte, so you’re not forced to pay extra for something you might not want.\n\nThe standard sedan has a 7-inch display and an abbreviated version of the iDrive control system, which employs a multifunction knob/joystick and a cluster of buttons on the center console. With the $1,900 navigation option, the screen increases to 10.2 inches and includes voice activation and traffic information. iDrive controls many audio system functions, the telephone, the BMW Assist telematics system and numerous vehicle settings.\n\nBMW’s iDrive has earned disdain over the years, but the current generation is actually pretty good. To my way of thinking, the issue has never been how hard it might be to learn but how simple it is to operate once you do learn it, and that’s the aspect that has improved. Don’t let iDrive’s reputation distract you from the true ergonomic foibles on this and other BMWs: I speak of the electronic gear selector and turn-signal stalk, both of which immediately spring back to a center position after you move them rather than stay where you put them. With this design, you lose the ingrained and perfectly natural feedback of a turn signal that’s still on and a transmission that’s in the gear you want. As a result, you’re always looking for displays just to make sure you don’t, for example, roll the wrong way when you lift off the brake.\n\nAre these controls bothersome enough to break the deal for a would-be buyer? You’d be surprised, but the BMW faithful have overlooked such things because of the vaunted BMW driving experience. So how’s that going in 2011?\n\nDrivetrains\nThe 528i, 535i and 550i are rated at 240, 300 and 400 horsepower, respectively. The turbocharged version of the 3.0-liter inline-six-cylinder in the 535i makes the 550i superfluous, rocketing the car to 60 mph in less than 6 seconds. If you prefer 5 seconds, the 550i’s twin-turbo 4.4-liter V-8 will deliver, but the 535i’s character is more than you might expect from a turbo-six. There was some hesitation at times, but I wouldn’t attribute it to turbo lag, because it’s intermittent. Almost across the board, this turbo-six feels like a V-8. It’s damn impressive, and plenty efficient at 20/30 mpg city/highway with the automatic transmission. This beats practically all competitors. Only the base Audi A6 tops it, at an estimated 21/30 mpg.\n\nAll-wheel drive, in the 535i xDrive, gives up 1 mpg. The six-speed manual transmission, available only with rear-wheel drive — is rated lower still, at 19/28 mpg. The 528i, which comes only with an automatic and rear-wheel drive, saves you a couple of mpg, rated 22/32 mpg. The 550i’s best performance is 17/25 mpg with the automatic, 16/24 mpg with xDrive and 15/22 mpg with the manual transmission. All the cars require premium gas.\n\nWhere does this efficiency come from? Direct fuel injection plays a part, but as the mileage ratings reflect, the new eight-speed automatic transmission is a major player. My impressions of it are positive overall, though it’s more effective with the 550i’s larger engine (as is often true of automatics). What stood out was how quickly it kicked down under all circumstances, be it one gear, three gears, basically anything. This isn’t always the case. In fact, historically, an increase in the number of a transmission’s gears hasn’t always guaranteed satisfying performance.\n\nThe transmission’s responsiveness was still good in the 535i, but it wasn’t quite as quick and decisive on the downshift as it had been in the 550i. In either car, sliding the gear selector to the left (the only position it actually stays in) activates an automatic Sport mode, which raises the rpm at which the transmission upshifts. It’s a sportier approach, but it doesn’t seem to speed the actual gear-change time. You can also shift manually by then pushing the stick forward or back, or by using paddles on the steering wheel. Frankly, with eight speeds to work with, you’re always wondering what gear you’re in, where you need to be and if it will even let you shift higher or lower from your current speed. The fun is lost.\n\nAutomatics have become so smooth that you often can’t tell when they’re shifting up. In normal Drive mode in the 535i, I was quite aware of the shifting. It’s under heavier acceleration that the transmission is its smoothest. It’s an odd approach, but we don’t object.\n\nBraking: One Step Up, Two Back\nThere is an aspect of the 5 Series that we do object to, though, and that’s the braking. To be clear, the car stops well enough; it’s not a safety concern. The problem is the feel of the braking, which pays the price for one of BMW’s “Efficient Dynamics” provisions. Like the new 7 Series, the 5 Series employs Brake Energy Regeneration, which is a distant cousin of the regenerative braking that hybrids use to recover spent energy and use it again. In this case, there’s no motor helping propel the car, but the generator (alternator) can be turned on and off with a clutch.\n\nDriven by a belt, an alternator puts a constant load on an engine, and that hurts efficiency. This is the same reason belt-driven hydraulic steering pumps have been replaced by electric power assist in many cars, including the 5 Series. The alternator must be turned by the engine, but it doesn’t have to be all the time. BMW’s alternator has a clutch that releases the belt drive as often as possible, allowing the ignition and any accessories to run off the battery. The battery isn’t much different from a regular 12-volt starter battery, though it’s designed for deeper cycling — to discharge as much as 40 percent and then recharge. (Conventional starter batteries are kept topped off all the time.)\n\nIt’s when the car is decelerating that the alternator reengages and recharges the battery. This is a clever idea that BMW claims is good for a 3 percent efficiency boost, or roughly 1 mpg in mileage terms. Unfortunately, it makes the braking feel uneven, nonlinear. As you brake, the transmission downshifts through the gears as the car decelerates, aggressively locking the torque converter whenever possible. This allows the car’s inertia to turn the engine and its alternator, optimizing electrical regeneration. In a normal arrangement, an automatic transmission holds on to a high gear as you decelerate and brake, ultimately downshifting when you come to a stop. That sensation is smoother.\n\nThe problem is that the degree of engine braking varies as the 5 Series’ transmission downshifts through the gears, so even though you’re applying steady pressure to the brake pedal, the deceleration is uneven and you tend to come to an abrupt halt. For what it’s worth, we thought this sensation was worse in the 550i Gran Turismo we tested, but it’s still a problem here — and it’s not what we’d expect from a company that once touted “The Ultimate Driving Machine” (recently overshadowed by the ill-advised “Joy” advertising campaign).\n\nGiven a choice, I’d want BMW to tweak the operation or eliminate the transmission’s downshifting behavior during braking. I don’t know how much that would hurt the mileage, but I suspect any driving enthusiast would prefer it. The driving experience is neither ultimate nor joyful. I wouldn’t like it from any brand, but it’s especially hard to accept from BMW.\n\nRide & Handling\nBoth our test cars had the Sport Package, which includes several features that affect ride and handling, so bear in mind that the base suspension will perform differently. The package adds an adaptive suspension and active stabilizer bars, both of which are controlled by the Driving Dynamics Control rocker switch next to the shifter. DDC’s four modes — Comfort, Normal, Sport and Sport+ — vary the suspension settings, along with accelerator sensitivity, automatic shifting behavior, power-steering assist and traction control. It’s much simpler to use than the old approach, which included multiple buttons for the various systems. Now you can program the Sport mode to vary the chassis settings, the drivetrain behavior or both, making your preferences just a push or two away using the DDC buttons.\n\nThe 5 Series rides comfortably indeed in the Comfort mode, and it’s not bad in Normal. I was surprised by that because the Sport Package equipped both of our test cars with 19-inch wheels and lower-series run-flat tires. Sounds like a recipe for jarred bones, but that wasn’t the case. Cycle through the modes, and you can feel the ride firm up and soften, but it’s not always as noticeable as you’ll find in some cars, and that’s fine. One gets the impression the system is designed for true performance differences, not dramatic effect, so it really depends on the type of road and driving conditions.\n\nThe handling is interesting. Both the 535i and 550i are true to BMW’s founding principle of balanced front/rear weight distribution: The 535i is rated 50.9/49.1 percent and the 550i is 52.4/47.6 percent. The automatic is light enough that the manual transmission relinquishes only a tenth of a percent to the rear in either car. More important than the specs, the cars feel wonderfully balanced and controllable. Size be damned, you can four-wheel-drift these things all day. The standard electronic stability system can be dialed back or defeated entirely.\n\nThe standard suspension and different wheel sizes and tire types will all affect roadholding, but there’s no mistaking when the dynamic basics are there, and in the 5 Series, they are. My main complaint is about the sense of involvement. Dynamically, the 5 Series does what you want it to and more, but it’s less visceral than I’d like, and maybe even less than the version that ended in 2010. Generation by generation, BMWs are becoming less engaging to drive. Though it had its own shortcomings, the 5 Series of two generations ago, coded E39, felt more ultimate.\n\nThe electric power steering might play a part, as its feedback isn’t as good as it was in the best of BMW’s now-endangered hydraulic-assist implementations, but it’s good enough that a casual driver wouldn’t know the difference. (For the record, I’m talking about the standard steering; the active steering option, which is sometimes criticized for its feel, wasn’t on our test cars.)\n\nSafety\nThe BMW 5 Series has earned Top Safety Pick status from the Insurance Institute for Highway Safety for top scores in frontal, side and rear crash tests and a roof-strength test that reflects rollover protection. The 5 Series is also among the first models tested under the National Highway Traffic Safety Administration’s revamped New Car Assessment Program, in which it earned an overall score of five stars, the highest possible composite score. Of the various separate tests, however, in the frontal crash it scored four rather than five stars for both the driver and front passenger. That wasn’t enough to bring down its overall score.\n\nThere are six airbags: two in front, a seat-mounted side-impact airbag for each of the front occupants, and side curtains that cover the side windows flanking the front and rear seats. Standard safety features include four-wheel antilock brakes, a stability system with traction control, and active head restraints for the front seats. For a full list of safety features, click here.\n\n5 Series in the Market\nThe things that trouble me about the 5 Series — high price, fewer standard features than some competing models — are things that sort themselves out. If BMW is asking too much for too little, consumers will make it clear in the only language that matters: money, or the lack thereof, in the hands of BMW dealers. There’s a lot to like about the 5, not the least of which is its admirable mileage.\n\nThe 5 Series’ combination of capability with unprecedented comfort is bound to broaden its appeal overall. BMW isn’t the only brand that has attempted to provide all things to all buyers. Lexus and Mercedes have been chasing that ghost for decades. Technology enables a single car to deliver a broad range of comfort and sportiness, and in some ways the new 5 Series sedan is a high-water mark in this regard, both for BMW’s line and for the entire midsize luxury car segment. It succeeds in behaving like two types of car, but what it doesn’t do is feel like two types of car, and I suspect the loss of that visceral feeling will disappoint the BMW faithful.\n\nSend Joe an email",
+      "trims": [
+        {
+          "name": "4dr Sdn 550i RWD",
+          "price": "$62000",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn 550i xDrive AWD",
+          "price": "$64300",
+          "specifications": {
+            "Notable features": [
+              "New turbo four-cylinder for 2012 (528i)",
+              "Turbocharged six-cylinder (535i)",
+              "Twin-turbo V-8 (550i)",
+              "Available as a sedan or Gran Turismo hatchback",
+              "Rear- or xDrive all-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 20 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "450 @ 1750-4500 SAE Net Torque @ RPM",
+              "400 @ 5500-6400 SAE Net Horsepower @ RPM",
+              "4.4L/268 Displacement",
+              "Turbocharged Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Integral-V Suspension Type - Rear",
+              "Multi-Link Double-Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,519 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Bluetooth®",
+              "Optional Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "220 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.6 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "14.7 x 1.4 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/f7ee02c8-7d46-4bf8-8213-356ccd86c949.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/277cd9a5-516b-40d1-830b-d5522807de76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/7e37418a-e44d-428c-af4d-151d5ade4bba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/cb7fc13f-9611-4021-a6f6-b03293d6aaca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/f72740ff-0aaf-4571-833b-85cc7bf2f550.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/7d19b366-34f1-4871-a4b5-f0c4d6619e0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/e0375056-6058-418e-a8c2-7ea65142b389.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/83cb4f02-890d-4037-8908-8d39f12fd1ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/fd4bca74-6391-4561-bebd-0eba52e76bac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/1d14f37c-e0ea-42e7-9cda-69effef994eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/30ae71c2-becd-48c8-bdc3-5a7d8082315f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/9a0c6333-4ee5-47f4-a5d2-5a3145a49aec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/3b3eb767-d097-4931-b1cb-21f7a66e5716.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/b8700faf-ead1-4e2e-b9d1-105bce3324d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/b610501a-552d-4cea-97a9-ee5d7f6c0f28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/32c62b20-fa77-48b8-9075-d8e98151fbff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/5af80f6d-11f7-4902-b777-d90736305136.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/97e9a6f7-820a-4973-9404-a883829d4690.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/a466e8f3-739d-4c62-b96d-7820c1b285f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/83cb4f02-890d-4037-8908-8d39f12fd1ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/77680573-01a4-4300-afe4-de6f341ec3e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5303e81-c458-4e9a-a875-a14bde229225/bd49b073-ab6b-4ebd-bda7-92933c966e1f.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat 5 Series is offered with a twin-turbo V-8 (550i), a single-turbo six-cylinder (535i), a turbo-diesel six-cylinder (535d) and a turbocharged 2.0-liter four-cylinder for the 528i. Competitors include the Mercedes-Benz E-Class, Audi A6 and Infiniti M.\n\nThe 5 Series lineup includes the Gran Turismo, a tall hatchback built on the 7 Series sedan platform. There’s also a high-performance M5 sport sedan, which is covered separately in the Cars.com Research section.\n\n(Skip to details on the: 5 Series Gran Turismo)\nNew for 2014\nThe biggest news for 2014 is the addition of an all-new diesel model to the 5 Series lineup. Offered with either rear- or all-wheel drive, the 535d is powered by a turbo-diesel 3.0-liter six-cylinder engine that makes 255 horsepower and 413 pounds-feet of torque.\nThe 550i sedan gains a more powerful V-8 engine that’s rated at 445 hp and 480 pounds-feet of torque.\n\nOther improvements to the entire 5 Series lineup – including the Gran Turismo models – include revised front and rear styling, standard adaptive xenon high-intensity-discharge headlamps and an iDrive navigation system with a tracing pad for direct character input. The 5 Series adopts the appearance “Lines” used elsewhere in the BMW lineup and also gains more storage room.\n\nNewly optional features include a rear-seat entertainment system with tablet-style displays, selectable ambient lighting and adaptive LED headlights.\nExterior Highlights\n\nShares platform with the bigger 7 Series sedan\nStandard adaptive xenon headlamps; full LED headlamps optional \nLED taillights \nSeventeen-inch alloy wheels (528i)\nAvailable 18- and 19-inch rims\nStandard power sunroof\nStandard heated side mirrors\n\nInterior Highlights\n\nStandard iDrive navigation system with 10.2-inch screen\nTen-way power front seats\nAutomatic dual-zone air conditioning\nPower tilt/telescoping steering wheel\nAvailable head-up display\nAvailable heated and ventilated front seats\nAvailable rear-seat entertainment system\nAvailable Harman Kardon surround-sound stereo\n\nUnder the Hood\n\nTurbocharged 2.0-liter four-cylinder makes 240 hp (528i)\nTurbocharged 3.0-liter six-cylinder makes 300 hp (535i)\nTurbo-diesel 3.0-liter six-cylinder makes 255 hp (535d)\nTwin-turbocharged 4.4-liter V-8 makes 445 hp (550i)\nAvailable all-wheel drive\nAvailable Adaptive Drive system includes active roll stabilization, adaptive suspension and customizable settings for the drivetrain and suspension\nOptional Active Steering varies the steering ratio to render easier turning at low speeds and stable handling at high speeds\nOptional adaptive cruise control includes full stop-and-go capabilities to manage heavy traffic\n\nSafety Features\n\nSide-impact airbags for the front seats\nSide curtain airbags\nActive front head restraints\nAntilock brakes \nElectronic stability system\nOptional blind spot monitoring system\nOptional lane departure warning\nOptional adaptive cruise control with collision warning system\n\n5 Series Gran Turismo\nBMW’s bigger hatchback version of the 5 Series sedan, dubbed the 5 Series Gran Turismo, is offered in 535i GT and 550i GT trim levels. The Gran Turismo can accommodate four or five depending on the backseat configuration.\n\nSlightly more cargo room for 2014\nUpdated exterior design\nShares the same engines as the 535i and 550i sedans\nStandard air suspension and auto-leveling rear suspension \nRear- or all-wheel drive\nEight-speed automatic transmission\nFuel-saving stop-start technology and BMW’s EcoPro system\nUnique hatchback design with two-way opening, power liftgate \nAvailable M Sport Package and BMW apps\n40/20/40-split folding backseat; power-reclining rear seats optional\n\nBack to top",
+      "trims": [
+        {
+          "name": "4dr Sdn 550i RWD",
+          "price": "$63900",
+          "specifications": {
+            "Notable features": [
+              "Updated interior and exterior styling for 2014",
+              "New diesel-powered version available",
+              "V-8 engine in 550i sedan now makes 445 hp",
+              "Sedan or Gran Turismo hatchback",
+              "Manual or automatic",
+              "Rear- or all-wheel drive"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "480 @ 1750 SAE Net Torque @ RPM",
+              "445 @ 5500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.4 L/268 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,365 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 550i xDrive AWD",
+          "price": "$66200",
+          "specifications": {
+            "Notable features": [
+              "Updated interior and exterior styling for 2014",
+              "New diesel-powered version available",
+              "V-8 engine in 550i sedan now makes 445 hp",
+              "Sedan or Gran Turismo hatchback",
+              "Manual or automatic",
+              "Rear- or all-wheel drive"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "480 @ 1750 SAE Net Torque @ RPM",
+              "445 @ 5500 SAE Net Horsepower @ RPM",
+              "4.4 L/268 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,519 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/787e51be-3042-4bee-9431-9c326fc2e493.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/b639e626-6698-481a-8cec-d6fcf0cfda1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/9572dbab-e337-41e2-9987-0faef8c8f02d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/c8e28bfd-5f26-44a0-ad4c-fb895775ee17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/3fbb3330-fdb6-45ac-8967-93aaaea1dd7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/ce04e29c-752f-4c13-977d-28a1fc59570e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/9f8af83f-57f9-4081-8f1c-92d40a71396d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/054906d9-29c0-47de-8840-f71613e7b76b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/c2ba4c9a-fecf-4852-9577-f99ac47786b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/3e8101ec-966a-4105-875e-cf2c7937e2e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/edfda156-899e-44cf-a47f-d4e35228331a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/590f61cb-1770-4002-83a3-d46d67177874/cf6a5867-5d18-4014-b064-eda9b4e972a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/f4d868f6-6955-44bf-9e97-1bdd141269ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/8dbcd0f1-0a10-45e5-b958-5c87d2879b40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/f13faca1-a3cc-4d97-b8cc-8ef9eb9d4982.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/52e7c82a-fa62-477d-940c-986210ad8e53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/0aa91067-fc60-462b-af9a-c54a62e04196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/4b249dec-761e-47d3-b90b-5fce64699796.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/b6450b18-d2a4-467b-a492-5ef0eaba254a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/98453684-d933-41a9-a78c-8190d26016f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/d7d91463-d33f-46d5-b9e1-e6586d9df791.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/38536773-e2ea-4eb2-a21c-ef28f0492178/a48ab718-86c2-485a-9480-f6d88aed1e15.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat 5 Series is offered with a twin-turbo V-8 (550i), a single-turbo six-cylinder (535i) and a turbocharged 2.0-liter four-cylinder for the 528i, with an eight-speed automatic transmission available across the board. Competitors include the Mercedes-Benz E-Class, Audi A6 and Infiniti M.\n\nThe 5 Series lineup includes the Gran Turismo, a tall hatchback built on the 7 Series sedan platform. There’s also an ActiveHybrid 5 model that gets an EPA-estimated 23/30 mpg city/highway; it’s covered separately in the Cars.com Research section just like the high-performance M5 sport sedan.\n\n(Skip to details on the: 5 Series Gran Turismo)\nNew for 2013\nFor 2013, the 535i and 550i can now have the BMW Individual Composition Package, which includes extended leather upholstery, 19-inch alloy wheels, Alcantara headliner material and Shadowline trim. Standalone BMW Individual options include wood inlays on the steering wheel, and unique paint and wood trim. Updates to the navigation system include revised submenus, weather information and optional Google search.\nExterior\nThe 5 Series shares its platform with the bigger 7 Series sedan. Up front, the car’s signature kidney grilles sit low and are upright. Adaptive xenon headlights are optional on the 528i and standard elsewhere. The taillights employ three rows of LED lights, and BMW’s Adaptive Brake Lights illuminate a larger section under hard braking. Exterior features include:\n\n\n17-inch alloy wheels (528i)\nAvailable 18- and 19-inch rims\nStandard power sunroof\nStandard heated side mirrors\n\nInterior\nDrawing cues from the 7 Series, the 5 Series’ climate-control readouts use BMW’s Black Panel technology to appear out of dark panels without the brightened look of traditional electroluminescent displays. Cupholders are in the center console instead of flipping from the dashboard as on the previous generation.\n\nThe optional navigation system includes a massive high-resolution 10.2-inch center display. Without navigation, the display still sorts through various audio and setup menus, but it shrinks to a 7-inch display and 800-by-480 pixel resolution. Both setups incorporate BMW’s iDrive system. Interior features include:\n\n\n10-way power front seats\nAutomatic dual-zone air conditioning\nPower tilt/telescoping steering wheel\nOptional head-up display\nOptional heated and ventilated front seats\nOptional 60/40-split folding backseat\n\nUnder the Hood\nThe 528i has a 240-horsepower, turbocharged 2.0-liter four-cylinder engine. The 535i features a 300-hp, turbocharged 3.0-liter six-cylinder and the 550i has a twin-turbo 4.4-liter V-8 that makes 400 hp. All three use an eight-speed automatic transmission; the 535i and 550i also offer a six-speed manual. All three models are available with rear- or xDrive all-wheel drive.\n\nBMW’s available Adaptive Drive system includes Active Roll Stabilization, which attempts to actively counter body roll, as well as an adaptive suspension and customizable settings for both the drivetrain and suspension. Mechanical features include:\n\n\nOptional Active Steering varies the steering ratio to render easier turning at low speeds and stable handling at high speeds\nOptional adaptive cruise control includes full stop-and-go capabilities to manage heavy traffic\n\nSafety\nA blind spot monitoring system, a self-parking assist and a lane departure warning system are optional, as is adaptive cruise control with a collision warning system. Standard safety features include:\n\n\nSide curtain airbags\nSide-impact airbags for the front seats\nActive front head restraints\nElectronic stability system\nFour-wheel-disc antilock brakes\n\n5 Series Gran Turismo\nBMW’s hatchback version of the 5 Series, dubbed the 5 Series Gran Turismo (GT), receives a few changes for 2013. The base 535i GT is powered by a 300-hp turbocharged six-cylinder while the 550i gets a power boost for its twin-turbo 4.4-liter V-8 engine, which now makes 445 hp and 480 pounds-feet of torque. The engine also gets fuel-saving stop-start technology and BMW’s Eco Pro system. Both engines team with an eight-speed automatic transmission and are available with rear- or all-wheel drive.\n\nAn M Sport Package that includes aero body trim, larger wheels and tires, and other performance enhancements is available. BMW Apps, an application that allows a variety of iPhone applications to run through the iDrive system, is a $250 option.\n\nThe Gran Turismo’s interior and exterior borrow cues from BMW’s 7 Series flagship sedan. With its steeply raked hatch ending in a short, sedanlike trunk, the Gran Turismo measures about 6 inches longer than the 5 Series sedan. The hatch opens in two sections: The entire hatch can be raised, or a section below the rear window opens separately to reveal a trunk behind the rear seats and below a cargo cover. For additional storage capacity, the seats fold in a 40/20/40 split.\n\nThe Gran Turismo can accommodate four or five, depending on the backseat configuration. Though it carries the 5 Series name, this model shares as much with the larger 7 Series, and many of its measurements — including all seating dimensions — differ from those of the 5 Series sedan.\n\nThe Gran Turismo’s interior includes Black Panel gauge and climate displays. The available Value Package includes an updated navigation system, a head-up display and smartphone integration. Back to top",
+      "trims": [
+        {
+          "name": "4dr Sdn 550i RWD",
+          "price": "$62700",
+          "specifications": {
+            "Notable features": [
+              "New BMW Individual features",
+              "More powerful turbo V-8 for 550i Gran Turismo",
+              "Sedan or Gran Turismo hatchback",
+              "Manual or automatic",
+              "Rear- or all-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1750-4500 SAE Net Torque @ RPM",
+              "407 @ 5500-6400 SAE Net Horsepower @ RPM",
+              "4.4L/268 Displacement",
+              "Turbocharged Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Integral-V Multi-Arm Suspension Type - Rear",
+              "Control Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "300 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,199 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Bluetooth®",
+              "Optional Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "220 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.582 x 0.944 in Rear Brake Rotor Diam x Thickness",
+              "14.724 x 1.417 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 550i xDrive AWD",
+          "price": "$65000",
+          "specifications": {
+            "Notable features": [
+              "New BMW Individual features",
+              "More powerful turbo V-8 for 550i Gran Turismo",
+              "Sedan or Gran Turismo hatchback",
+              "Manual or automatic",
+              "Rear- or all-wheel drive"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "4.4L/268 Displacement",
+              "442 @ 1750-4500 SAE Net Torque @ RPM",
+              "Turbocharged Gas V8 Engine Type",
+              "407 @ 5500-6400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Integral-V Multi-Arm Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Control Arm Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "300 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,354 lbs Base Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Bluetooth®",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "220 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "14.724 x 1.417 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "13.582 x 0.944 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

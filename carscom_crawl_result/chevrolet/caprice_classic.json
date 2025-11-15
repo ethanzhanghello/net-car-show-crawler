@@ -1,0 +1,153 @@
+{
+  "make": "chevrolet",
+  "model": "caprice_classic",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8ef45fd9-0e31-4417-9146-8c5c7b27f4c9/eab8f4f7-7f16-4918-845b-7bec64f30777.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan Classic",
+          "price": "$19300",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Classic LTZ",
+          "price": "$19300",
+          "specifications": {}
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/970261c8-9447-4b4e-b062-c7d2b1d73a91/1ea79a48-9a8c-420c-a977-a8f11a75e972.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan",
+          "price": "$20310",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Wagon",
+          "price": "$22840",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/96f414a8-9e43-46d4-a4ff-af2dace3e517/2ffeb874-ac39-4e46-9e29-e5b33d99eedb.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan Classic",
+          "price": "$17995",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Wagon Classic",
+          "price": "$19575",
+          "specifications": {}
+        },
+        {
+          "name": "Classic 4dr Sedan LTZ",
+          "price": "$19995",
+          "specifications": {}
+        },
+        {
+          "name": "Classic 4dr Sedan LS",
+          "price": "$19995",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ef932dc9-5c8d-4e84-98d5-3d31f6e405d2/6abc7035-0906-4978-91f6-66d4c8d7f625.png"
+      ],
+      "expert_review": "Continuing on the topic of cars from the folks at Chevrolet, we tested the 1994 Caprice Classic. The exterior was finished in a lush, dark cherry metallic, which meant no one hailed our vehicle for a ride to the train station at night. The Caprice is as attractive in dark colors as it is ugly when it is dressed in yellow and has a fare meter on the dash.\n\nRecently we drove the Roadmaster, the Buick version of the full-size, rear-wheel-drive Caprice. Like the Roadmaster, the Caprice was equipped with alimited-slip differential ($250). As with the Roadmaster, we experienced bad weather in the Caprice.\n\nUnlike the Roadmaster’s rear end, however, the Caprice’s stayed in its own lane when we accelerated, made turns or took corners on snow-covered roads. Limited-slip performed well in the Caprice, and handling was stable, while it was dicey in the Roadmaster. Give credit to the ride-and-handling suspension ($49) as well.\n\nFor 1994 the 5-liter V-8 is replaced with a 4.3-liter V-6 that produces 200horsepower, 30 more than the old 5-liter. The V-6 sure felt like a small-blockV-8 under the hood. The EPA mileage rating is a respectable 18 m.p.g. city/26 highway with the standard four-speed automatic transmission.\n\nCaprice offers a complete package: lots of room and comfort; very good rideand handling; above-average fuel economy; and standard four-wheel, anti-lock brakes and dual air bags.\n\nThe base price is $18,995. Our test car added cloth seats at $223; trunk cargo net at $30 (perhaps a $29 markup for what looks like a grocery bag); rear-window defogger at $170; pin-striping at $61 (a bigger markup than for the grocery bag); deluxe wheel covers at $70 (no comment); upgraded whitewall tires at $176; upgraded AM-FM stereo with digital clock and compact-disc player at $256; and an option package consisting of all the power goodies-fromseats to windows to mirrors-at $1,607. With a $575 freight charge, the stickertopped $22,000.",
+      "trims": [
+        {
+          "name": "4dr Sedan",
+          "price": "$19153",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan LS SVC2 Value Edition",
+          "price": "$20420",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Wagon",
+          "price": "$21338",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan LS",
+          "price": "$21593",
+          "specifications": {}
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/412d8ffc-a8e6-455e-ae17-924573c9f5d3/b91532c1-a03a-40f4-b53b-4558c0d33de7.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sdn 1SA Special Value Pkg",
+          "price": "$19905",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn 1SB Special Value Pkg",
+          "price": "$20905",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Police Pkg 9C1",
+          "price": "$21260",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn B18 Police Pkg 9C1",
+          "price": "$21260",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Taxi Pkg 9C6",
+          "price": "$21260",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn 1SC Special Value Pkg",
+          "price": "$21905",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "6 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn 1SD Special Value Pkg",
+          "price": "$22405",
+          "specifications": {
+            "Highlights": [
+              "17 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

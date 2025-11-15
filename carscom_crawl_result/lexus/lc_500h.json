@@ -1,0 +1,318 @@
+{
+  "make": "lexus",
+  "model": "lc_500h",
+  "years": {
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/a0da78f0-e090-4c2a-84a6-a734535c1d87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/c4920f42-9f61-40b6-b4b5-e6746b9f7765.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/835047a6-4d65-414c-8ee4-b6b50017b560.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/e827b622-be77-4840-a042-d87ea2ee7aef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/5e111048-ca2c-4e78-8a31-9c9ddc17660b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/bb5d4a9c-0bc5-4872-a350-0bdaa6d56e2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/6940e1c1-a2ab-41b7-976f-9a64c4cf799a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/440d8483-b1d5-4126-8698-7d496ad9c296.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/13256e25-7f3c-4885-8f15-2fbfd04cc21b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/2e17483f-b904-47e1-9284-98f6ae57bf30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/cdc0b143-0b97-4e92-80ef-514db886df92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/6a95f9a4-0114-4366-8ed1-f3541af90ce9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/9b113198-c9cb-40cf-9d5b-2aaf30f6b0a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/88803dce-759a-4cd8-8e81-48354d4ef757.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/36d41f7f-fa06-4e04-8724-b2aa91844691.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/e40b41b9-0706-496c-9c6c-b7d17cb628c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/53b957de-c9a0-4fc3-a94a-05365144372b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/c954b61a-8ced-4bb2-9e16-4b475294fabd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/db15de33-6fda-47c5-bddc-318a79385310.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/ccd2e29b-dce3-4f13-b29f-681a61298dd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/dcb33046-dc55-48b2-bc45-14111f3785d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/a126bf4b-bf4b-45a7-9e43-16a66b1699c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/839a3318-f58b-496c-a3dc-ff7955fd7be9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/b96dc1d5-95c7-4ece-8d72-5a32230cffed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/95041514-1371-4f2c-8f4e-192a777d63ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/c6f300ff-7bd6-4758-b7c0-1fe481f40dd9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/a0da78f0-e090-4c2a-84a6-a734535c1d87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/b347793d-53f8-45ca-995f-c810a2e46a3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/2f015fee-d5aa-421a-a0c0-162c09f9df81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/5d903495-693d-4ed1-9101-d73f58d1e643.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/3a0d2704-b3f9-4e5a-9afc-43a2b3cd26af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8677693-ad8c-491f-8be4-39f45574d32c/6fcc18c8-a4bb-43a7-a19b-949714dbe311.png"
+      ],
+      "expert_review": "The V-8-powered 2018 Lexus LC 500 has the sensual styling of a $200,000 concourse beauty and is a coupe that teeters on the edge of greatness. Its striking good looks make the $92,995 starting price (all prices cited include destination charges) a bargain. It’s also available in a hybrid version, the $97,505 LC 500h I drove for this review, which is a more perplexing proposition.\n\nIts fuel economy skyrockets to an EPA-rated 30 mpg combined, up from the V-8’s 19 mpg. The LC 500h’s hybrid parts aren’t used to elevate acceleration or handling performance over the non-hybrid, which is odd because the LC is a sports car and the current trend among hybrid sports cars is that the electric assist systems are employed to elevate performance, not exclusively efficiency. Acura’s Sport Hybrids, the Porsche E-Hybrids and even a Volvo XC90 Hybrid use their hybrid goods to increase handling and acceleration performance over some or all of the related gas-only versions. The Acura NSX and BMW i8 are closer competitors by door count, but they’re not available as non-hybrids — and they’re $50,000 more than the LC 500h.\n\nThe LC 500h ditches the exotic-sounding 471-horsepower, 5.0-liter V-8 for a 295-hp, 3.5-liter V-6 combined with two electric motor/generators and a battery pack, good for combined output of 354 hp, which is 117 hp short of the V-8. There’s less power and the hybrid is 155 pounds heavier (4,435 pounds), which isn’t that much more, but the LC already starts off a little porky in V-8 form at 4,280 pounds.\n\nPutting the ‘h’ in LC 500\n\nThe LC 500h’s hybrid system is fundamentally the familiar two-motor setup used in other Toyota and Lexus hybrids. The LC 500h uses a next-generation Multi Stage Hybrid System (also in the new LS 500h luxury sedan) featuring a four-speed gearbox smashed together with the rest of the hybrid innards, plus a Lexus-first lithium-ion battery. Older Lexus systems lacked the directness and engagement of a traditional transmission, which isn’t what you want from a performance car, but it was great for fuel economy — and that was exactly the point. The new four-speed gearbox adds a layer of directness and manual gear-change control previously missing from Lexus hybrids.\n\nHow It Drives\n\nThough Toyota and Lexus hybrids have never used the belt and pulleys we’ve come to know as a continuously variable automatic transmission, the innovative power-split gearing and functionality have historically had the same properties and sensation — gear ratios that change continuously rather than stepping up and down like a conventional transmission. It would be difficult to guess what kind of transmission(s) are driving the LC 500h if you didn’t know the trickery it incorporates. I certainly didn’t expect the gear changes to be so immediate and responsive when using the steering-wheel-mounted paddle shifters to manually select gears in M mode.\n\nThe new Multi Stage Hybrid System remedies the sluggish responsiveness and rubber-band-like acceleration of the old system by simulating 10 gear ratios in the manual M mode through the combination of fixed CVT ratios and the mechanical four-speed gearbox.\n\nIt’s impressive compared with previous Lexus hybrids, but it’s still not as natural feeling as the traditional 10-speed in the V-8 LC 500 or other sporty hybrids that focus on increasing performance. Unlike Acura, the LC 500h’s motors aren’t placed at the front or rear axle to independently drive an outside wheel for improved handling, through torque vectoring. And over at Porsche, the Panamera E-Hybrid keeps the non-hybrid’s gas engines (330 hp or 550 hp), then adds an extra 136 hp and 295 pounds-feet of torque through its hybrid system; also, the Panamera is a plug-in hybrid with electric-only range while the LC 500h is purely a gas-electric hybrid with no electric-only range. (Typical of Toyota and Lexus hybrids, it does have an EV mode button, but it’s seldom “available” due to battery charge level, and when EV mode does work, it’s not for very long because the threshold for the gas engine to fire up is so low — too low, because you can’t drive through an intersection normally without the gas engine starting.)\n\nBecause the LC 500h has less horsepower and more weight, it’s slower than the V-8 LC, with zero-to-60 mph rated at 4.7 seconds instead of 4.4 seconds, according to Lexus. It’s not a big deal on paper, but the V-6 engine and boost from the motors don’t feel like they’re in sync: The engine seemingly randomly fires up when moving from a stop, which mirrors a traditional Lexus/Toyota hybrid experience that purposefully disconnects the driving experience to maximize fuel economy. Acceleration isn’t as smooth and silky as the LC’s V-8 or a performance hybrid system like an Acura RLX or MDX Sport Hybrid (or Panamera E-Hybrid). That seems appropriate because the Lexus is the fuel economy champ of the group with its 30 mpg combined ratings versus the 28 mpg for the RLX and 22 mpg for the Panamera 4 E-Hybrid.\n\nI observed fuel economy from 26.3 mpg to 29 mpg in my commute from downtown Chicago to the western suburbs 35 miles away with speeds hovering around 25 mph in bumper-to-bumper traffic. That was in Eco mode, using EV mode when available — which was rarely.\n\nHandling is similar between the LC 500 and LC 500h. It’s great that low-rolling-resistance economy tires aren’t present to degrade the handling experience. The LC doesn’t dig into corners as well as a Porsche 911, but it’s smooth and controlled with a little body roll and understeer when pushed hard. It’s a better grand touring interstate traveler, though it isn’t at all out of place straightening corners. Also shared with the regular LC 500 is the Remote Touch Interface touchpad for controlling the multimedia system and other vehicle controls. Like many Lexus cars, it’s the one thing keeping the V-8 LC from being a knockout win with its difficulty to use, especially while driving.\n\nShould You Care About the LC’s Fuel Economy?\n\nMaybe you should care that the LC 500h’s only trick is a mileage boost, because it’s a huge 11-mpg jump from the V-8’s 19 mpg combined rating, and that saves an estimated $1,000 a year in fuel costs. But I question if the LC 500h is the kind of car that needs a frugal alternative. Buyers can certainly make up the extra cost in 4.5 years based on EPA averages and current fuel costs even with the required premium gasoline, but I don’t think that’s the point of the LC 500.\n\nThe LC is an amazing-looking car that drives amazingly with the V-8, but it loses a lot of its soul not having the responsive, cackling gas engine. If a fuel-efficient LC 500 does sound appealing, it’s not currently one of the LCs you’ll find around the corner at your Lexus dealership. There were only nine listed in Cars.com’s national inventory at the time of publishing. That might be enough to push you to one of the 251 V-8-powered LCs for sale as I write this, which wouldn’t be a bad idea.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/d9a642f4-381e-42b4-8ffd-1dd6c5fcb3cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/77126ad7-0999-41a6-8674-74a4fb471f78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/e1b9799c-c21a-4357-91b2-15db13adae15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/34296f0b-0a7b-416b-9074-6476fba2a39f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/c1790fa3-da44-44c3-86a9-70a853c84072.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/f5b6b9bb-fce2-4b5f-8aab-fed362da8fe7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/bd90ec13-1ac3-434d-98d6-c2d3f3dfb9ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/e1dd3db4-5b86-41c2-8955-4888f458d44f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/ac343dc7-eaf4-4388-8792-292c715abbbd.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/1267f705-424c-4134-a0bc-28e785e05700.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/f69a218a-c416-43c3-87ff-5f1e1c3ef85f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/d4e595a1-4588-459e-9063-3f374b7b3e5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/095c24c8-a2a5-4c3b-a47e-4f1dfa2bcf7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/c9b8423b-08ec-4e4e-8388-76d5f6868e02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/b65fdac2-c1e5-42ee-ab23-5990381257cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/2020dd80-795e-40df-8610-4d490b87f580.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/9cbce390-2c8b-4d93-a8ef-8949ba7b323b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/c1d1297f-a9b5-43e8-b3d7-3848cdd1401a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/1267f705-424c-4134-a0bc-28e785e05700.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/379e4cca-0c15-40e1-b917-fd895c2796ed.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/6a7685c9-983a-459a-8b9c-8c2a77c0ecb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/d0a1c259-9e93-4907-b98d-eca03783589c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/686b8a0a-8ae8-4691-8587-d9dc8e7a7f76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/40ebe479-2b95-4ca4-b688-554ce70a55e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/6d8414ec-8f08-464c-9ba5-e1dc415f986a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f82bd19-2719-4b00-8832-91f1b973669a/dffd893f-7bdb-460b-b63b-a9cf7d36f546.png"
+      ],
+      "expert_review": "What Is the 2024 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door has a choice of two powertrains: The LC 500 has a 471-horsepower, 5.0-liter V-8 engine with a 10-speed automatic transmission, while the LC 500h has a 354-hp V-6 hybrid drivetrain. Both versions are rear-wheel drive. Competitors include the BMW M850i and Jaguar F-Type.\n\nWhat’s New on the 2024 Lexus LC?\n\nLexus has finally banished its frustrating mousepad-style infotainment controller, fitting all 2024 LCs with a 12.3-inch touchscreen. The standard wheels are bumped up to 21 inches from 20, and parking sensors are now standard.\n\nWhat Features in the 2024 Lexus LC Are Most Important?\n\nStandard features include: \n\n21-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 12.3-inch screen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include: \n\nCarbon-fiber roof\nGlass roof\nHeated steering wheel\nSemi-aniline leather upholstery\nAlcantara-trimmed seats\nMark Levinson surround-sound system\nHead-up display\nSpeed-activated rear wing\nTorsen limited-slip rear differential \nPerformance brake pads\nShould I Buy the 2024 Lexus LC? \n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics, but it skews more to the luxury end of the spectrum than the pure sports car end. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important to you, you’ll want to shop around.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/18710e36-373f-42bf-9c6e-dc1ff15b4ed0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/ebe8e1ff-93df-4100-8941-3d4407e947e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/d0ba5776-1ad3-4560-9e49-7579291a1ebf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/ed8a4202-1c04-4ea8-904e-ad9e4302d6d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/122875c0-b25d-4efd-9990-7928e33bd590.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/7889bd52-be75-45de-8a85-e2b6e77bb733.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/ed8a4202-1c04-4ea8-904e-ad9e4302d6d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/7d5fc9a5-1e26-47bb-b065-5eb194df1588.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/fa7b170d-99bd-4915-b266-584900bbc78f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b18e70c-20fb-45b6-bf4b-df0f0f9620d8/33632ed7-217b-4b12-beb6-d97b4de2661a.png"
+      ],
+      "expert_review": "What Is the 2023 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door has a choice of two powertrains: The LC 500 has a 471-horsepower, 5.0-liter V-8 engine and a 10-speed automatic transmission, while the LC 500h has a 354-hp hybrid drivetrain. Both versions are rear-wheel drive. Competitors include the BMW M850i and Jaguar F-Type.\n\nWhat’s New on the 2023 Lexus LC?\n\nLexus says it’s retuned the LC’s suspension for improved dynamic handling and road feel. Otherwise, there are no significant changes for 2023.\n\nWhat Features in the 2023 Lexus LC Are Most Important?\n\nStandard features include:\n\n20-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 10.3-inch screen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include:\n\n20- or 21-inch forged-aluminum wheels\nCarbon-fiber roof\nGlass roof\nHeated steering wheel\nSemi-aniline leather upholstery\nAlcantara-trimmed seats\nMark Levinson surround-sound system\nHead-up display\nLimited-slip differential\nSpeed-activated rear wing\nTorsen limited-slip rear differential\nPerformance brake pads\nShould I Buy the 2023 Lexus LC?\n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics, though it skews more to the luxury end of the spectrum than the pure sports car end. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important, you’ll want to shop around.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/f408f632-f820-4dd0-aee7-90908e85ead6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/386900fa-fcf4-4601-bc02-2f2d179fed8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/327ad773-2b87-4daf-8671-573abd28af00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/d2164893-83e1-4eb6-b530-479643a688cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/8c102527-232e-4d17-a74c-1ab78f79eb9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/2217410f-3e82-4d3c-b185-076f50d702c5.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/8fd4d00d-3fae-49e3-93e2-e282096d94c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/1ae695f2-868e-4ba1-90f2-6015c0737780.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/51f89e99-c043-47cd-aabf-cf6f9fdecb08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/9013617c-5278-4cb9-a18a-267bdbb8af24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/027a77a4-04d2-4ce1-b5a1-fc2b48977d01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/12d81663-7cef-422a-b4d5-66c392cf8427.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/87d907f2-86d7-459f-beb7-a8d71835682f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/984f0c5d-9f39-4add-b90a-e44ff69bcc59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/70204008-9591-4fa6-859a-f24d30bf009a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/e54bd21b-9bfc-4828-afda-462c5e6a17eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/ea991d7a-8153-4617-a8df-2fe914d01a7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/a7855951-2f88-4d6a-a48a-d1eb9bdec6a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/267b9811-d13c-44c6-ba10-7b4d4fc36e6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/984f0c5d-9f39-4add-b90a-e44ff69bcc59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/4e47d561-1023-490d-ae1a-6c8dd813eea8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/57abcff4-ae1a-49ee-99ba-db2647f2b70f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/7921cefe-61b1-4064-bdda-2f151064d8b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/ebcafabe-99eb-44a7-9ea9-2d55bc1dce3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/507ee3a2-a10e-438a-a63e-c0a5e63f7091.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/00b2d1bb-8172-4244-abbd-bf3116af7d72/c720dfe7-8cfb-4aa0-9d1f-cdc9ddb7e917.png"
+      ],
+      "expert_review": "What Is the 2025 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door offers a choice of two powertrains: The LC 500 has a 471-horsepower, 5.0-liter V-8 engine with a 10-speed automatic transmission, while the LC 500h has a 354-hp V-6 hybrid drivetrain. Both versions are rear-wheel drive. The LC 500h comes only as a coupe, while the LC 500 can be had as a coupe or convertible. The LC’s competitors include the BMW M850i and Mercedes-AMG SL43. \n\nWhat’s New on the 2025 Lexus LC?\n\nFor 2024, Lexus finally banished its frustrating mousepad-style infotainment controller, instead fitting all LCs with a 12.3-inch touchscreen. The LC 500 and LC 500h coupes get additional underfloor bracing. Aside from a new paint color, a carbon-fiber scuff plate for the hybrid’s Sport Package and new roof color options for the convertible, however, the LC is otherwise unchanged for 2025.\n\nWhat Features in the 2025 Lexus LC Are Most Important?\n\nStandard features include: \n\n21-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 12.3-inch touchscreen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include: \n\nCarbon-fiber roof\nGlass roof\nHeated steering wheel\nSemi-aniline leather upholstery\nAlcantara-trimmed seats\nMark Levinson surround-sound system\nHead-up display\nSpeed-activated rear wing\nTorsen limited-slip rear differential \nPerformance brake pads\nShould I Buy the 2025 Lexus LC? \n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics, but it skews more to the luxury end of the spectrum than the pure sports car end. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important to you, you’ll want to shop around. If you want a posh, coddling grand tourer for two, though, the LC is hard to beat.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/45619ddd-9f1a-462c-a387-6e8ab8c25127.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/77fca8db-709c-4b66-b8a6-8813c08da618.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/0f1b3d05-60c3-42c6-9972-49cf54cd909e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/f8d68d5a-e917-491d-8c11-9810b10cd575.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/ecb41dc2-9462-4233-aff7-711daead93a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/3cfde059-5926-4e1e-b13e-29badacf7108.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/15391712-cdac-422d-a0dc-004cd47f090c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/35330ccd-59ee-4d3f-92eb-54d6bedb1b2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/8f139f8a-079a-4e8f-90a3-e71dbc2a456a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/ecb41dc2-9462-4233-aff7-711daead93a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/906dccfe-ba87-4c3c-bcba-ecab9b5d87f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/c3215532-2a1b-4fac-9e5a-d554b975c660.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/d08728de-4e58-41e9-b76e-227394b82c1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/bef7308d-99aa-424f-9214-5bb5bae5ab35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/f2923c12-a7a8-4e12-be37-cbf587d0b53f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/0ef14679-76a0-4417-8dd6-97f39b43c4a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/5e142409-1382-43d2-8519-6ff56440e331.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/44c54a02-0a50-45c8-a805-1b76d17a8285.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/2c43ddd9-01d7-4a3b-80d0-9ec0f927666e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/ddbf735e-6dcb-4b83-a9cf-57cf48a7c58a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/f4690ae6-8772-422f-8e1a-b493cbc5af74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/895ca99c-d151-43d1-bbaf-d2cae6de2de7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/f2f626e7-e9e5-4ea0-960a-c6a968899570.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/cf852d24-33bb-4e2c-be0b-d496bc4f8bd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/3f970837-481d-4632-975d-bcf39c7690e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f50b74c8-4029-4144-89bf-dffb382c31bd/85a65d45-c6dc-47be-8a32-1aa9773959f5.png"
+      ],
+      "expert_review": "What Is the 2022 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door is available as the LC 500 with a 471-horsepower, 5.0-liter V-8 engine and a 10-speed automatic transmission or the LC 500h with a 354-hp hybrid drivetrain. Both versions are rear-wheel drive. Competitors include the BMW M850i and Jaguar F-Type.\n\nWhat’s New on the 2022 Lexus LC?\n\nSuspension revisions improve road feel and steering linearity for improved handling, according to Lexus, and the Sport Package now includes 21-inch forged-aluminum wheels. There’s also a new Bespoke Build version that offers a range of customization options, and a limited-edition Inspiration Series variant is also available.\n\nWhat Features in the 2022 Lexus LC Are Most Important?\n\nStandard features include:\n\n20-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 10.3-inch screen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane-keeping assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include:\n\n20- or 21-inch forged-aluminum wheels\nCarbon-fiber roof\nHeated steering wheel\nSemi-aniline leather upholstery\nMark Levinson surround-sound system\nHead-up display\nLimited-slip differential\nSpeed-activated rear wing\nShould I Buy the 2022 Lexus LC?\n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics. It skews to the luxury end of the spectrum rather than offering a pure sports car experience, however. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important, then you’ll want to shop around.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/af9ac7fc-10b0-4c33-930b-02b660058ba6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/75d5e71b-23a4-4d44-b868-9dea9da1f58a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/6a45ac8c-ba77-4036-97f1-7214d378babd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/85cd84d7-9918-4c34-a985-c5037ac5787e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/5ec90c39-680d-4f1b-aa1a-c116349f5d97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/5b881b97-dba4-48ef-a306-a4728a0524e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/6f389727-c456-4b86-b136-ee9096283e9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/f4044e77-4538-4196-b48c-e165074e74f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/a25e799f-9f2d-4ca9-b7d3-30ace632320e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/6a45ac8c-ba77-4036-97f1-7214d378babd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/5e22fe8a-f4fe-4f01-ae86-bf1ab5218edb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/799ed6bc-6a9e-4250-9630-b46c7476a687.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/0a5ead40-6c83-455d-b5ca-33420621287b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/6d8eecfa-b754-41a0-bc1a-48eb28047616.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/9756e541-9d20-414f-92d4-87aa946544d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/1fc966ec-5409-4725-9f37-d8997e1364dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/890db431-8505-44a0-be80-10803193260d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/d0786cd7-11f1-428d-bff9-bc377397c63d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/12cf0843-5efb-4ab3-8f89-e1fedbbaedc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/e988c5cb-2b21-408c-b319-05a70bfa0dc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/e20789d1-cc61-48b1-ba23-664c2b228736.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/ca05a10b-0880-4e38-98a8-85bae9c0812e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/17df93c2-4ebc-4db4-ba2d-99b7cb90b673.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/95545edf-abe2-4fb8-97be-e5424716f61a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/89f520b0-00cd-4e1b-a453-86ed0f175426.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/7c21c448-5883-4818-bdc2-fc15e2541b71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/bb246e9b-c5f5-4655-9993-0ad474e352ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/394d55d5-7076-4b15-b1fe-97d375e1e792.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/8843b1a4-0b9c-4474-9425-89b2c7b93d04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/3a067868-cfa4-4220-bbb9-ccdb0e040e74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/e372c515-65af-426f-a9f5-15980c761fd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f133ffc-c83e-4536-9985-6acb74dc7917/231ae377-4d72-4158-a2da-4b5a1f451bd7.png"
+      ],
+      "expert_review": "The V-8-powered 2018 Lexus LC 500 has the sensual styling of a $200,000 concourse beauty and is a coupe that teeters on the edge of greatness. Its striking good looks make the $92,995 starting price (all prices cited include destination charges) a bargain. It’s also available in a hybrid version, the $97,505 LC 500h I drove for this review, which is a more perplexing proposition.\n\nIts fuel economy skyrockets to an EPA-rated 30 mpg combined, up from the V-8’s 19 mpg. The LC 500h’s hybrid parts aren’t used to elevate acceleration or handling performance over the non-hybrid, which is odd because the LC is a sports car and the current trend among hybrid sports cars is that the electric assist systems are employed to elevate performance, not exclusively efficiency. Acura’s Sport Hybrids, the Porsche E-Hybrids and even a Volvo XC90 Hybrid use their hybrid goods to increase handling and acceleration performance over some or all of the related gas-only versions. The Acura NSX and BMW i8 are closer competitors by door count, but they’re not available as non-hybrids — and they’re $50,000 more than the LC 500h.\n\nThe LC 500h ditches the exotic-sounding 471-horsepower, 5.0-liter V-8 for a 295-hp, 3.5-liter V-6 combined with two electric motor/generators and a battery pack, good for combined output of 354 hp, which is 117 hp short of the V-8. There’s less power and the hybrid is 155 pounds heavier (4,435 pounds), which isn’t that much more, but the LC already starts off a little porky in V-8 form at 4,280 pounds.\n\nPutting the ‘h’ in LC 500\n\nThe LC 500h’s hybrid system is fundamentally the familiar two-motor setup used in other Toyota and Lexus hybrids. The LC 500h uses a next-generation Multi Stage Hybrid System (also in the new LS 500h luxury sedan) featuring a four-speed gearbox smashed together with the rest of the hybrid innards, plus a Lexus-first lithium-ion battery. Older Lexus systems lacked the directness and engagement of a traditional transmission, which isn’t what you want from a performance car, but it was great for fuel economy — and that was exactly the point. The new four-speed gearbox adds a layer of directness and manual gear-change control previously missing from Lexus hybrids.\n\nHow It Drives\n\nThough Toyota and Lexus hybrids have never used the belt and pulleys we’ve come to know as a continuously variable automatic transmission, the innovative power-split gearing and functionality have historically had the same properties and sensation — gear ratios that change continuously rather than stepping up and down like a conventional transmission. It would be difficult to guess what kind of transmission(s) are driving the LC 500h if you didn’t know the trickery it incorporates. I certainly didn’t expect the gear changes to be so immediate and responsive when using the steering-wheel-mounted paddle shifters to manually select gears in M mode.\n\nThe new Multi Stage Hybrid System remedies the sluggish responsiveness and rubber-band-like acceleration of the old system by simulating 10 gear ratios in the manual M mode through the combination of fixed CVT ratios and the mechanical four-speed gearbox.\n\nIt’s impressive compared with previous Lexus hybrids, but it’s still not as natural feeling as the traditional 10-speed in the V-8 LC 500 or other sporty hybrids that focus on increasing performance. Unlike Acura, the LC 500h’s motors aren’t placed at the front or rear axle to independently drive an outside wheel for improved handling, through torque vectoring. And over at Porsche, the Panamera E-Hybrid keeps the non-hybrid’s gas engines (330 hp or 550 hp), then adds an extra 136 hp and 295 pounds-feet of torque through its hybrid system; also, the Panamera is a plug-in hybrid with electric-only range while the LC 500h is purely a gas-electric hybrid with no electric-only range. (Typical of Toyota and Lexus hybrids, it does have an EV mode button, but it’s seldom “available” due to battery charge level, and when EV mode does work, it’s not for very long because the threshold for the gas engine to fire up is so low — too low, because you can’t drive through an intersection normally without the gas engine starting.)\n\nBecause the LC 500h has less horsepower and more weight, it’s slower than the V-8 LC, with zero-to-60 mph rated at 4.7 seconds instead of 4.4 seconds, according to Lexus. It’s not a big deal on paper, but the V-6 engine and boost from the motors don’t feel like they’re in sync: The engine seemingly randomly fires up when moving from a stop, which mirrors a traditional Lexus/Toyota hybrid experience that purposefully disconnects the driving experience to maximize fuel economy. Acceleration isn’t as smooth and silky as the LC’s V-8 or a performance hybrid system like an Acura RLX or MDX Sport Hybrid (or Panamera E-Hybrid). That seems appropriate because the Lexus is the fuel economy champ of the group with its 30 mpg combined ratings versus the 28 mpg for the RLX and 22 mpg for the Panamera 4 E-Hybrid.\n\nI observed fuel economy from 26.3 mpg to 29 mpg in my commute from downtown Chicago to the western suburbs 35 miles away with speeds hovering around 25 mph in bumper-to-bumper traffic. That was in Eco mode, using EV mode when available — which was rarely.\n\nHandling is similar between the LC 500 and LC 500h. It’s great that low-rolling-resistance economy tires aren’t present to degrade the handling experience. The LC doesn’t dig into corners as well as a Porsche 911, but it’s smooth and controlled with a little body roll and understeer when pushed hard. It’s a better grand touring interstate traveler, though it isn’t at all out of place straightening corners. Also shared with the regular LC 500 is the Remote Touch Interface touchpad for controlling the multimedia system and other vehicle controls. Like many Lexus cars, it’s the one thing keeping the V-8 LC from being a knockout win with its difficulty to use, especially while driving.\n\nShould You Care About the LC’s Fuel Economy?\n\nMaybe you should care that the LC 500h’s only trick is a mileage boost, because it’s a huge 11-mpg jump from the V-8’s 19 mpg combined rating, and that saves an estimated $1,000 a year in fuel costs. But I question if the LC 500h is the kind of car that needs a frugal alternative. Buyers can certainly make up the extra cost in 4.5 years based on EPA averages and current fuel costs even with the required premium gasoline, but I don’t think that’s the point of the LC 500.\n\nThe LC is an amazing-looking car that drives amazingly with the V-8, but it loses a lot of its soul not having the responsive, cackling gas engine. If a fuel-efficient LC 500 does sound appealing, it’s not currently one of the LCs you’ll find around the corner at your Lexus dealership. There were only nine listed in Cars.com’s national inventory at the time of publishing. That might be enough to push you to one of the 251 V-8-powered LCs for sale as I write this, which wouldn’t be a bad idea.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/4c1b41fa-f821-4484-97ad-cdba49a11bdb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/98f839b0-2ff3-460a-923e-9837bb5f4eb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/104e0084-2b02-4c40-8267-d6018a47addc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/91d33ec9-4aee-4c30-839b-935b22d1b9f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/50a374ab-4103-4e76-953c-8261d231cb78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/a0605e4b-c50d-4a6f-8d09-8c6faaf24578.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/ff05e4d9-d2c2-404f-9231-80be071843f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/1df2e15f-cfd1-4a6f-af35-8566ff5ff696.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/ab1b8049-a16f-4b4f-8b46-670198e25d17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/c34c992f-ca26-4b4b-9773-438a4652526b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/21263e3e-b178-4570-aae6-74dd7674bddc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/0848d671-b05c-451f-8ae8-1c540d16e087.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/1a1eedd2-46ca-401f-b302-4d2d600563bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/17a0c782-776a-4b97-a551-e84fd1285827.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/cff2862d-3f2b-42c4-ba5e-adffc82fc6aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/0eca6fbd-661d-4ed7-9218-c4bb47be5609.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/f7373697-0680-4d7b-81de-acb2af79c63d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/0431f48e-9590-4d11-9b4c-60db677a0a01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/e5c0164e-443c-4a22-94a5-e89bcc60791b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/4dfeea90-ffb2-46fb-be3c-68251117e475.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/ab1b8049-a16f-4b4f-8b46-670198e25d17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/7a38440d-59a9-4390-8638-b44272a34021.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/59dd5234-7da5-4a0e-9628-9f03e8514087.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/6ecca8e8-15e3-47e9-b953-4ccf34438f58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/39553083-2c8c-41dc-9c89-3c638c63026a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/96046082-dd71-4847-8ed3-6bb148590a82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/f32ee558-05f3-44d2-9bc8-8b24cfb5bfd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/dc79b536-c2c5-4cde-9b16-64b519b64dc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/e56e4650-fbe3-4969-af6c-424c9df6620e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/54e74513-ee36-44ea-95c1-04270cb58adb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/d12be5ca-30b4-4c56-bc29-58a94a3551be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4cc9c19e-290d-4be2-a4d1-227644d63fea/73640fa7-93be-49a8-accf-314ef526a93a.png"
+      ],
+      "expert_review": "Over the past week, our readers have shown impeccable taste when it comes to vehicle styling, bringing the 2018 Lexus LC 500h into second place among our most read car reviews. In fact, more people read the review (many times over) during the last week than the number of LC 500h examples Cars.com reviewer Joe Bruzek found for sale on our site; he was only able to track down nine listed across the country when writing his review.\n\nRelated: More Expert Car Reviews\n\nBruzek has high praise for the LC 500h’s looks, but the powertrain and driving experience are more of a mixed bag:\n\n“The LC is an amazing-looking car that drives amazingly with the V-8, but it loses a lot of its soul not having the responsive, cackling gas engine,” he notes.\n\nBruzek also expressed disappointment about the use of hybrid technology solely for fuel efficiency while some competitors’ electrified models get an electrifying performance boost. Check out his review to see if the fuel economy advantage makes the LC 500h worth it to you.\n\nVideo watchers last week focused on two redesigned cars, 2019 versions of the Nissan Altima and BMW X5. Our First Drive video for the X5 occupies the top spot, with the Altima’s First Drive close behind. Rounding out the top five are Cars.com reviewer Mike Hanley’s take on why the 2018 Audi A4 is a winner, useful car hacks and our review of the 2019 Jeep Cherokee.\n\nTop 5 Reviews\n\n1. 2018 Land Rover Range Rover Review: Plush and Poised, With a Push-Button Problem\n\n2. 2018 Lexus LC 500h Review: High Class and High Mileage\n\n3. 2018 Maserati GranTurismo Convertible Review: A Fine Wine Borders on Overripe\n\n4. 2019 Mazda CX-3 Review: Good Things, But in a Small Package\n\n5. 2019 Hyundai Veloster Review: Funky Fun\n\nTop 5 Videos\n\n1. 2019 BMW X5: First Drive\n\n2. 2019 Nissan Altima: First Drive\n\n3. What Makes the 2018 Audi A4 a Winner?\n\n4. Clever Car Hacks\n\n5. 2019 Jeep Cherokee: Review\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/150da63e-b0ca-487f-9e57-4304e988fe57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/4ad7b05a-3528-474f-a7d6-e0b173237b3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/9bb1c2b0-0a06-4e60-9534-c1fccd57ab63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/e35ec48f-267f-46df-8b22-9a312c84bb2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/283ce815-2cf7-4e14-a664-5ff1067d476e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/9afb2a8a-541e-4144-ac62-52367e8cc9ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/40165182-572b-454a-bd72-5dc21cc2cf03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/754187bb-e990-41b9-99e0-c4e749add802.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/6a4a1a88-65ff-4bbb-95bc-5c950d637770.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/92bc321a-5a64-42ad-a2f9-4aea3b746d51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/4e5e8fb5-c3a8-486b-8741-66a51bc1a70a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/94686f70-8585-430c-bbf3-f241b116b56e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/34c872fc-098f-4130-b925-e07ad6028611.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/75a9e128-104f-4ef6-a95c-0200ce91bc78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/d7277896-347e-456e-96fb-a82cbd1cb176.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/40165182-572b-454a-bd72-5dc21cc2cf03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/54c83c28-d5a7-4d95-8a5c-b70001f3ca5a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/699e615a-91b9-428d-8852-f19812ae5d00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/3d5e495a-feae-48f8-94dc-6b6908048c5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/96c58bba-9d5f-4dec-9f5c-837e7fb5efa0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/556b41ea-880b-417c-b6be-ba9bf8a73cee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/1fb93b9e-c3de-4214-9eee-9c9fbecd882c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/70db9e88-a7de-4025-b003-9eb67841849e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/e24f4970-c8da-42b7-bfcb-8f56765977bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/372323a4-5426-4002-a8a7-cbbab0524bf3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/ccee8b99-aafe-493a-955d-df24d6459b31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/d53235e9-5b05-48b5-a717-e26edf8b8278.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/2c305136-5fe8-41f5-8a07-9b90dfeac854.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/a604718e-c39d-4547-a6d6-fe766abc9b04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/988d8454-a195-4eec-9a55-3309736cc13c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/57853c0c-d0b6-4aee-b722-285e8e810b63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/702fcdf3-e4bf-4a9c-a256-8ac08d17a463/dd82349d-828d-4810-a5ef-c83097f21a42.png"
+      ],
+      "expert_review": "What Is the 2021 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door is available as the LC 500 with a 471-horsepower, 5.0-liter V-8 engine and a 10-speed automatic transmission or the LC 500h with a 354-hp hybrid drivetrain. Both versions are rear-wheel drive. Competitors include the BMW M850i, Mercedes-Benz SL-Class and Jaguar F-Type.\n\n What’s New on the 2021 Lexus LC?\n\nA new soft-top convertible version of the LC 500 is available, and Android Auto smartphone connectivity joins Apple CarPlay. Lexus has also retuned the LC’s suspension for smoother performance and better turn-in.  \n\nWhat Features in the 2021 Lexus LC Are Most Important?\n\nStandard features include: \n\n20-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 10.3-inch screen\n4G LTE Wi-Fi hot spot (data subscription required after trial)\nForward collision warning with automatic emergency braking\nLane-keeping assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning\nAdaptive suspension\n\nAvailable features include: \n\n21-inch forged-aluminum wheels\nCarbon fiber roof\nHeated steering wheel\nSemi-aniline leather upholstery\nMark Levinson surround-sound system\nHead-up display\nLimited-slip differential\nSpeed-activated rear wing\nShould I Buy the 2021 Lexus LC?\n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics. It skews to the luxury end of the spectrum rather than offering a pure sports car experience. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important, then you’ll need to shop around.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

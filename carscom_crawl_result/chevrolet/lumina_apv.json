@@ -1,0 +1,55 @@
+{
+  "make": "chevrolet",
+  "model": "lumina_apv",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b78eaa7b-3b41-4a74-974d-bfd9af9e392d/cb3056ac-da56-48e5-bdc1-e524130359af.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bc506d58-ba22-424f-b490-353788a8328b/f0db2b30-0b05-4cf1-a91a-fc6f5284a298.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "109.8\" WB",
+          "price": "$16235",
+          "specifications": {}
+        },
+        {
+          "name": "3dr 109.8\" WB",
+          "price": "$17595",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9545cf1d-81bc-406e-ad15-5d80a3c178fb/7acb794c-681a-4423-9c1d-2ddadb56799a.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Van",
+          "price": "$15570",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Van CL",
+          "price": "$17355",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

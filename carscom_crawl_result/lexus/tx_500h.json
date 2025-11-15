@@ -1,0 +1,533 @@
+{
+  "make": "lexus",
+  "model": "tx_500h",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/1292a3d5-a3bc-41d6-a9d0-5e08d7cb66cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/4ade2ceb-949f-451a-bf87-479c5ecc76bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/406e496b-2ade-44f8-bad7-75ac090faf36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/af7fc582-9ea6-464e-a2ac-74f304d6e0e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/a21868af-2558-4f2b-a43d-400af64e0d58.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/016365af-8bbd-4e57-8288-eea6367aed7b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/d6c11ef2-c02f-4bbb-b59e-ebe6a2c6dc18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/e54a1ec5-9e0a-4c9a-b039-5f4f76317da4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/60adeddf-1fa0-4c68-aa2d-64c431aa8b5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/ef526813-098b-4dee-8a71-7ce33a386802.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/ebfdecb8-d05b-4a28-82b2-e62a4ed99840.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/eddce826-4ad1-4c8f-b53f-7de92369e466.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/5feb1761-604d-4450-abe3-04148684dd4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/8b4f2d87-545f-4397-ac57-4640064959bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/1c3a5949-27f9-424c-a378-eb1dcd2f1a5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/b0128b6a-0f30-4a1f-8df4-eaee8c763ef9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/8bd6fc5e-c573-41d4-851d-7763fc0851a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/5f9ac6ca-b44c-4d5a-9241-f9af23bdfa5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/de65ac79-7d0f-442e-a53c-a2de42c48fd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/016365af-8bbd-4e57-8288-eea6367aed7b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/1e935e3a-f1b6-4959-9947-14b2faecee76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/7ea88a02-30a6-4d7b-a25e-3d1b2c481015.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/03186481-39fe-4e9f-9668-25e8e42188f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/03b3fe0c-a58b-42f0-b277-e055d5935acb.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/f0053c8f-f020-494c-96e0-d26ad3a2f4df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0033d22e-c254-4709-aa1a-a59a191d4e40/f0fad748-8b33-491f-a4e3-34aea02e841d.png"
+      ],
+      "expert_review": "The verdict: The big Lexus TX ticks all the boxes for what shoppers look for in a three-row SUV, but lackluster luxury trimmings make it a hard sell over more opulent rivals.\n\nVersus the competition: The TX’s greatest competitor might be its Toyota Grand Highlander cousin on which it’s based — the same powertrains (minus the plug-in hybrid), same space, most of the same amenities and an arguably nicer cabin for less money.\n\nThe new 2024 Lexus TX three-row crossover fills a longstanding gap in the luxury brand’s lineup. The vehicle it replaces, the unloved RX-L, was always kind of a stopgap measure meant to give three-row intenders something to get into when they outgrew their RX. It was suitable for throwing kids in the wayback but certainly not full-sized adults, who would find its third-row accommodations painful and undersized. But the arrival of the 2023 Toyota Grand Highlander signaled that change was about to come to the Lexus showroom, too, since Toyota is the parent company of Lexus and the two marques share a lot of components and platforms between them.\n\nRelated: 2024 Lexus TX Up Close: At Last, a Truly Spacious Three-Row Lexus\n\nSure enough, the new TX has now arrived in three forms: TX 350, TX 500h and TX 550h+, all of which we recently sampled at a Lexus media event in Austin, Texas. (Per Cars.com’s ethics policy, we pay for all travel and accommodations at such manufacturer-sponsored events.) We wanted to find out if the new North America-only TX had been sufficiently “Lexified” to justify its higher price over the Grand Highlander, and whether or not it was a good replacement for the RX-L. We came away disappointed with the answer to the first question, but satisfied with the answer to the second.\n\nSo Long Spindle Grille, Hello Spindle Body\n\nThe shape of the TX has been sufficiently modified from the Grand Highlander. The polarizing Lexus “spindle grille” that recently reached truly outrageous proportions on the latest LX SUV finally morphs into something attractive, integrated as it is now into the TX’s overall sheet metal. It’s a far more sophisticated and polished look than has ever been afforded to the spindle grille idea, and it finally works better here than perhaps any other Lexus to wear it — save for the concept car stylings of the LC coupe. The TX looks distinctive on the outside, with crisp, creased lines that distinguish it from the Grand Highlander that culminate in a Lexus-style full-width taillight bar.\n\nTrim levels also make a big difference in how your TX will look. The TX 350 comes in base, Premium or Luxury trims, featuring either 20-inch or Luxury-exclusive 22-inch wheels. Step up to the TX 500h, which only comes as an F Sport Performance (but can be had in Premium or Luxury versions) and you get blacked-out trim, roof rails, window surrounds and more. The top TX 550h+ only comes as a Luxury version and so returns to the chrome accents with standard 22-inch wheels. While the majority of sales are likely to be the less expensive TX 350, all of them look good even with the 20-inch wheels and tires.\n\nRelated Video:\n\n3 Powertrains, 3 Flavors\n\nI was able to sample all three models of the new TX that Lexus plans to bring to the U.S. (it should be noted that this is the first Lexus model developed specifically for, and planned to only be built and sold in, the North American market). First up: the TX 350, featuring a 275-horsepower, turbocharged 2.4-liter four-cylinder engine mated to an eight-speed automatic transmission and channeled to either the front or all four wheels, options depending. It motivates the big crossover quite admirably, with plenty of acceleration and pep on hand to get it moving from a stoplight or when performing a highway passing maneuver. Despite the lack of electric motor assist, it does the job without much fuss or noise, but it doesn’t feel particularly suited to what is being billed as a luxury vehicle. While quiet and refined enough, perhaps the better benefit of the smallest, least powerful engine option is that it’s also the lightest, allowing for more sprightly handling exhibited in the TX 350 than the heavier, more roly-poly sensations in the other two variants.\n\nStep up to the TX 500h F Sport Performance and things get more interesting. Here lies the same 2.4-liter turbo four-cylinder mated to an electric drive system and all four wheels via a six-speed automatic, making a system total of 366 hp. It allows for low-speed all-electric operation for a limited time, but it employs a nickel-metal-hydride battery, so it’s for a very limited time. The hybrid powertrain also provides for even more potent acceleration than the base four-cylinder turbo, and it does so with typical Lexus smoothness and refinement. The 500h is heavier and feels like it, with a heftier weight to the body motions and steering. The F Sport Performance adaptive suspension stiffens the ride up a bit, and the 22-inch wheels transmit more road surface imperfections to the cabin. It’s also surprisingly noisy thanks to its performance tires — the TX 500h doesn’t have the kind of Lexus-quiet serenity you might expect. One aspect of the F Sport Performance that’s a welcome arrival is four-wheel steering: The rear wheels can turn up to 4 degrees counter to the fronts to make low-speed maneuvering tighter, or they can turn in the same direction as the front wheels for higher-speed highway situations, improving lane-changing agility.\n\nAt the top of the range is the plug-in hybrid TX 550h+, which provides a 3.5-liter V-6 engine mated to a continuously variable automatic transmission and a hybrid-electric drivetrain that employs a liquid-cooled lithium-ion battery. That means it carries a more significant charge on board than the 500h, allowing for 33 miles of all-electric driving. Total system output is 404 hp, which Lexus says is good for a 0-60 mph sprint of 5.9 seconds, making the 550h+ the quickest version of the TX. That shows up in the driving dynamics, with notably quicker acceleration and a lot more immediate action when you put your foot down — even after the onboard battery is depleted (as mine was). There’s both a “Hold Charge” mode to keep the electric battery at a certain level and a “Charge Mode” to replenish it, both of which will run the engine continuously as a generator.\n\nOf all the variants of the TX, the TX 550h+ is the one that drives most like the expensive luxury vehicle it purports to be. The TX 350 feels like any old three-row crossover in nearly all of its dynamics; it’s perfectly competent but doesn’t deliver a luxurious driving experience like something with the “L” badge should. The TX 500h is better at that, with a more refined experience thanks to its occasional electric operation, but the luxurious component is dampened by the oddly sporty bent of the F Sport Performance. There’s no reason this should be a sporty vehicle; it’s a huge seven-occupant SUV and nobody needs this to be sporty. But there’s no F Sport version of the TX 550h+, meaning it’s more softly sprung, and with its greater heft, it has the mass that conveys a sense of gravitas to it.\n\nNear-Luxury at Best\n\nWhere the TX both excels and falls short is inside. As a three-row SUV and a replacement for the stopgap that was the RX-L, it’s excellent, with fantastic packaging, outstanding space in all three rows and easy access to any of them. The second row can be had as either a three-person bench or with two captain’s chairs depending on trim level and options. The second row tilts and slides forward at the touch of a button on the top of the seatback for easy ingress and egress from inside or outside the vehicle, and the seats are adjustable fore and aft for negotiating legroom with third-row passengers. The third row has plenty of head- and legroom, and it sits high enough that it doesn’t feel as if your knees are in your chest when seated there.\n\nThe front seats are also comfortable, but they’re more comfortable in non-F Sport variants. Those versions get a sportier interior with more tightly bolstered seats instead of the plusher versions in other models — again proving the F Sport to be an experience in unnecessary sportiness. Cargo room is also plentiful, with Lexus stating that a TX can accommodate seven full-sized adults plus seven normal-sized rollaboard suitcases, even providing photographic evidence as to how that works. While that scenario blocks the view out the rear, the TX comes with a camera mirror that all big people carriers should feature; it allows you to see behind the vehicle as if the passengers and cargo weren’t there with the flip of a switch on the mirror, which is quite useful. A power-folding third row is also useful — and something the Grand Highlander doesn’t have even in its top trim.\n\nBut despite the additional features the TX comes with, the actual luxury component over a comparable Grand Highlander doesn’t appear. Materials quality, interior design, even multimedia systems and displays aren’t a significant improvement over a highly optioned, top-trim Grand Highlander, Kia Telluride, Hyundai Palisade or Buick Enclave. Yes, the multimedia screen is 14 inches across, but the system it’s running is a lightly reskinned version of the one found in new Toyotas. The digital gauges are similar, as well, with the same issues as Toyotas — they’re dim, feature small fonts and aren’t easy to read at a glance. The quality feel of things like climate-control vents or the shiny black plastic trim surrounding the gauge cluster is lacking, with a number of parts feeling hollow, thin or unusually delicate. Even in the TX 550h+, there isn’t much beyond the driving experience to identify this as a luxury vehicle. It’s nice, but it’s certainly not $77,000-plus nice. Lexus has seemingly become a near-luxury brand, as this interior isn’t nicer than anything from Acura or Infiniti, and it falls short of German-brand quality or even the latest Jeep Wagoneer.\n\nMore From Cars.com:\n\n2024 Lexus TX: An Admission That Putting a Third Row in the RX Wasn’t the Best Idea\n2023 J.D. Power U.S. Tech Experience Index Study: Hyundai, Genesis Continue to Lead\n2024 Lexus RX Plugs In, Base Pricing Starts at $49,950\nWhich 3-Row SUVs Offer Captain’s Chairs?\nWireless Apple CarPlay and Android Auto: Where Are They Now?\nCompetitive Pricing Will Still Make It Popular\n\nThese interior luxury shortcomings are not new to modern Lexus vehicles, however, and are unlikely to dissuade modern shoppers from considering the TX. Another factor will be the competitive pricing the TX brings, with the base TX 350 FWD starting at $55,050 (all prices include destination; add $1,600 for AWD) and the TX 500h rising to $69,350 and topping out at just about $77,000 for a loaded example (pricing for the TX 550h+ is not yet available, but figure it’ll come in north of 80 grand).\n\n2024 Lexus TX 500h+ | Cars.com photo by Christian Lantry\n\nThe problem is that a Grand Highlander feels remarkably similar, offers some of the same powertrains (albeit slightly detuned) and costs less — a loaded Grand Highlander Platinum with the base turbo 2.4-liter engine is within a few thousand dollars of the least expensive TX. And while it doesn’t have that magic “L” badge on the hood, the Grand Highlander features an equally nice interior in higher trim levels.\n\nYet it’s that badge people covet — and why people likely will flock to Lexus dealers to snap up the new TX. It’s a competent, comfortable, stylish family crossover that will likely feature impeccable reliability and comes with brand status. But as for luxury appointments, cross-shoppers might take a bit of persuading if they visit some luxury brand competitors’ showrooms.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "TX 500h F SPORT Premium AWD",
+          "price": "$68000",
+          "specifications": {
+            "Notable features": [
+              "Six- or seven-occupant, full-size luxury SUV",
+              "Front- or all-wheel drive",
+              "Turbocharged 2.4-liter four-cylinder, turbo 2.4-liter hybrid or 3.5-liter V-6 plug-in-hybrid powertrains",
+              "Available rear-wheel steering (F Sport)",
+              "Second-row bench or captain’s chairs"
+            ],
+            "Highlights": [
+              "27 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "339 @ 2000 SAE Net Torque @ RPM",
+              "2.4 L/146 Displacement",
+              "366 @ 6000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Maximum Trailering Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,970 lbs Base Curb Weight",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "TX 500h F SPORT Luxury AWD",
+          "price": "$71300",
+          "specifications": {
+            "Notable features": [
+              "Six- or seven-occupant, full-size luxury SUV",
+              "Front- or all-wheel drive",
+              "Turbocharged 2.4-liter four-cylinder, turbo 2.4-liter hybrid or 3.5-liter V-6 plug-in-hybrid powertrains",
+              "Available rear-wheel steering (F Sport)",
+              "Second-row bench or captain’s chairs"
+            ],
+            "Highlights": [
+              "27 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "366 @ 6000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.4 L/146 Displacement",
+              "339 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,970 lbs Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/fb029fc3-a3bc-4d75-8524-d18920ba7608.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/bc6a7997-781a-4c1f-9fc1-c595a643dd1d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/56101919-5831-4b2e-ad85-70be3345c72c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/db74c24a-5838-4863-be55-cabb048ab04a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/aa0add54-310f-49cd-8389-5af0b23533f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/7fd34d57-f9db-4725-8cfc-5e9199c2504a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/56101919-5831-4b2e-ad85-70be3345c72c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/8be6a7cf-ba69-45c3-8c57-206e0bbdff3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/638953ad-5411-4108-8279-e7306de2c985.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/a1b65d57-cde7-4dd8-af53-85dd536123aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/afadbbde-64a6-46e0-a0d4-1a821bfe3f73.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/b9211441-d466-47ed-bc26-40faed4b0ce3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/91a99fef-117d-4979-bd97-5e45772021b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/41c6c580-5c93-4a64-b701-7092ad803196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/a042ddce-4728-4dd3-a8dd-702a4293d563.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/c6fb46b5-4697-4aae-a6c1-17c73f1dd784.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/ee753f21-17cd-43b6-b465-6e9fb7609236.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/5acf2946-4b6a-47f5-b0f5-396bddb35266.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/9404cbba-ca05-482e-a8cf-b356da4286f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/fae3f4ad-c033-4f03-b321-c07b103e9bad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/f0e7e6eb-0906-45fd-9990-f0fe5b7149f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/fe3601e7-502d-4bf9-98bf-7cbc196df46c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/77893c3c-a30f-48b6-a61d-0b88a283464f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01c50d34-5839-4856-af00-527916ed5f8c/651006ec-ffe7-4356-adff-17a74e0ac31d.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "TX 500h F SPORT Performance Premium AWD",
+          "price": "$69160",
+          "specifications": {
+            "Highlights": [
+              "27 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "366 @ 6000 SAE Net Horsepower @ RPM",
+              "339 @ 2000 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.4 L/146 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,010 lbs Base Curb Weight",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "TX 500h F SPORT Performance Luxury AWD",
+          "price": "$72310",
+          "specifications": {
+            "Highlights": [
+              "27 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "339 @ 2000 SAE Net Torque @ RPM",
+              "366 @ 6000 SAE Net Horsepower @ RPM",
+              "2.4 L/146 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,010 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/87d75daa-8d47-4385-8fa4-254f8ac67d1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/e8cd9ebb-58f7-408f-b80a-28865e57121d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/e235fe98-2941-4dbb-9c29-82d04ad70edb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/53f1eb22-51b6-4fa9-93c5-aae74df9ef1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/46f61734-ff69-4be2-b360-146b71a06cb7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b444ae85-d08f-4a20-ac43-26a6c1be0f96/2b3a0ae4-1d67-418d-8e55-fa5ad238f9a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/aac31fc7-fa34-4a4d-92a7-9c4fd01e4b49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/4527ca12-95cf-438b-9d24-08fda6277ba2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/b6e1532d-ea99-4227-b3a5-7449e9a35d50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/19238569-6ae7-492e-a3a7-1b90354e091b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/70bc0353-c0ce-4fbc-a1a5-5fb26a0aa4a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/0879f69f-55c8-46fd-ac05-49cd008cecba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/05ab985e-e662-4070-8ee5-b41c5f07055b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/3a937923-d9c9-41bb-ae65-7740afeea0a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/f33220e0-d3e6-4895-8118-695be46305db.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/0d8d12a3-704e-478e-ab2e-31ef0fb58a11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/f383fe33-f208-4d2c-af93-57c4b73b82dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/ce20d92d-b40e-4247-9a2d-f878a35eb037.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/86b6ae81-9a3a-4930-8af2-6f059ee80a63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/11020bc8-ded5-49fb-aa72-3812a8d2fba2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/a8f6466e-561b-43cd-918f-1a611b391ae4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/4a66e9e7-f8bb-4d42-9c45-e2ed324a34a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/d1b428cf-1c13-4255-b80f-3ff40b55d0ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/b07adfd1-dd39-49b8-a9ec-f9fc7df044a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/df646356-9a75-4888-8410-e9180aad89ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/544375a5-35f8-498a-a8a7-20af9a4d2e00/93605817-3222-45e6-b209-dbf5f6c2cb2c.png"
+      ],
+      "expert_review": "What Is the 2025 Lexus TX?\n\nThe Lexus TX is a luxury SUV with three rows of seats and front- or all-wheel drive. Introduced to Lexus’ lineup last year, the TX shares a platform with Toyota’s Grand Highlander SUV. It comes in three distinct variants, each with their own drivetrain. The TX 350 uses a 275-horsepower, turbocharged 2.4-liter four-cylinder engine that’s paired with an eight-speed automatic transmission and FWD or AWD. The hybrid TX 500h is motivated by a turbocharged four-cylinder engine, two electric motors and a six-speed automatic. Total output is 366 hp, and AWD is standard. At the top of the range is the TX 550h+ plug-in hybrid, which pairs two electric motors with a 3.5-liter V-6 to produce a combined 404 hp. It can travel 33 miles on electric power alone. The TX’s rivals include the Acura MDX, Buick Enclave, Cadillac XT6, Infiniti QX60 and Lincoln Aviator. \n\nWhat’s New on the 2025 Lexus TX?\n\nA new F Sport Handling trim has been added to the TX lineup. Available only in TX 350 AWD form, it adds 22-inch matte-black alloy wheels, an adaptive suspension, second-row captain’s chairs, aluminum pedals and ventilated front seats. Also new for 2025, the previously optional 12.3-inch digital gauge display now comes standard on the TX 350.\n\nWhat Features in the 2025 Lexus TX Are Most Important?\n\nStandard features include:\n\n14-inch infotainment touchscreen\n12.3-inch digital instrument cluster\nWireless Apple CarPlay and Android Auto\nThree-zone automatic climate control\nSynthetic leather upholstery\nHeated front seats\nHeated steering wheel\nWi-Fi hot spot\nWireless device charging\nAmbient interior lighting\nHands-free power liftgate\n20-inch alloy wheels\nBlind spot warning\nRear cross-traffic alert\nAutomatic high beams \nAdaptive cruise control\nTraffic-sign recognition\nSafe exit warning\n\nAvailable features include:\n\nLeather upholstery\nHeated and ventilated front seats\nHeated and ventilated second-row captain’s chairs\nRear-wheel steering\nPanoramic moonroof\nMark Levinson audio system\nHead-up instrument display\nDigital rearview mirror\n22-inch alloy wheels\nShould I Buy the 2025 Lexus TX?\n\nThe Lexus TX has a lot to offer in terms of creature comforts, not to mention Lexus’ excellent reputation for reliability and resale value. Having a choice of three powertrains is another plus; the plug-in hybrid’s 33-mile electric-only range could make refueling a rare occurrence if you have a short daily commute. Cargo space is competitive with other three-row luxury SUVs, but the TX falls a bit short when it comes to interior poshness. It’s handsome and feels built to last, but the same can be said of the Grand Highlander it’s based on, and that SUV starts about $15K lower than the TX. Still, as a proper on-road-oriented three-row SUV, the TX is a long overdue addition to the Lexus line.",
+      "trims": [
+        {
+          "name": "TX 500h F SPORT Premium AWD",
+          "price": "$68660",
+          "specifications": {
+            "Notable features": [
+              "Three-row luxury SUV",
+              "Seats six or seven",
+              "FWD or AWD",
+              "Turbocharged 2.4-liter four-cylinder",
+              "Turbo four-cylinder hybrid",
+              "3.5-liter V-6 plug-in hybrid",
+              "Second-row bench or captain’s chairs",
+              "Available rear-wheel steering (F Sport)"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "339 @ 2000 SAE Net Torque @ RPM",
+              "2.4 L/146 Displacement",
+              "366 @ 6000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "4,970 lbs Base Curb Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "17 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "TX 500h F SPORT Luxury AWD",
+          "price": "$71810",
+          "specifications": {
+            "Notable features": [
+              "Three-row luxury SUV",
+              "Seats six or seven",
+              "FWD or AWD",
+              "Turbocharged 2.4-liter four-cylinder",
+              "Turbo four-cylinder hybrid",
+              "3.5-liter V-6 plug-in hybrid",
+              "Second-row bench or captain’s chairs",
+              "Available rear-wheel steering (F Sport)"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "366 @ 6000 SAE Net Horsepower @ RPM",
+              "339 @ 2000 SAE Net Torque @ RPM",
+              "2.4 L/146 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "4,970 lbs Base Curb Weight",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

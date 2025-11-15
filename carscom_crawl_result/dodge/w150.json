@@ -1,0 +1,52 @@
+{
+  "make": "dodge",
+  "model": "w150",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b3f5d50d-26d6-4bb3-a63a-a16a50ade01e/6023e524-7502-4aa7-9322-aa026e376869.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 115\" WB 4WD",
+          "price": "$15649",
+          "specifications": {}
+        },
+        {
+          "name": "Sweptline 131\" WB 4WD",
+          "price": "$15869",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB 4WD",
+          "price": "$18170",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8409b00f-80b5-4842-ab25-fb3e458f9441/ce56c0c4-da47-42bd-9d96-298ae18bbbd3.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 115\" WB 4WD",
+          "price": "$16389",
+          "specifications": {}
+        },
+        {
+          "name": "Sweptline 131\" WB 4WD",
+          "price": "$16609",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB 4WD",
+          "price": "$19210",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

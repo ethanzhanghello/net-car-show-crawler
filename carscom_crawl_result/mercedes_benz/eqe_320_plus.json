@@ -1,0 +1,132 @@
+{
+  "make": "mercedes_benz",
+  "model": "eqe_320_plus",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "EQE 320+ Sedan",
+          "price": "$64950",
+          "specifications": {
+            "Highlights": [
+              "308 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "417 SAE Net Torque @ RPM",
+              "315 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,335 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EQE 320+ SUV",
+          "price": "$64950",
+          "specifications": {
+            "Highlights": [
+              "270 - 302 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "417 SAE Net Torque @ RPM",
+              "315 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "5,368 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

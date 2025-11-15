@@ -1,0 +1,812 @@
+{
+  "make": "hyundai",
+  "model": "tucson_plug_in_hybrid",
+  "years": {
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/59c626fb-abbf-45b9-b9c9-66e8ebb4aabf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/71e5957d-641c-4141-9fd6-389faad20821.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/7ffdcf05-ac64-454d-af6f-6f9e18f3571a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/62f103dd-cd8e-4632-8087-b8128b2f6aa3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/482980ab-a1d7-4cf2-b442-517cb6dc9af8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/34d56613-6c62-408d-b389-4ffa250ff1bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/5a277d8b-f771-41c5-9fc8-e4e08e77950b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/9e061952-31e2-43de-8f86-77c5a92f3260.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/783679dc-6cf8-4828-864c-19ce745c7506.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/0a28dd54-799e-40ef-a901-1e239b77e44c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/4d3a4ab1-663b-4e5d-88b9-6b5bd93b60ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/acc15060-2a18-41e9-8aff-a5e599eb2f96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/6a563503-0e4b-4f08-9fc6-d1d673677d68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/c66899e3-0991-45f9-8ff8-c30076fd553c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/f531291f-cb4c-4e7f-a0f5-7d0a52595e1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/29a24fdd-d5cc-43d7-aa7c-5bf00e1f4201.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/89712de9-1adf-45d0-b563-6c5dd8676185.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/6a563503-0e4b-4f08-9fc6-d1d673677d68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/acf70b69-631c-41a2-8dce-891757c0a9b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/de7c1f0d-fb6d-482e-9521-5616b1543860.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/5e034a1a-c917-4d5f-bd03-ad7b46d9f3e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/5dbf7b00-1d06-4b58-b327-2ad75f9247bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/a3a3a502-e5fa-493c-9287-79c4d16de4a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/5eb27b46-045c-4804-a705-c706e9c24e40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/3d787a25-6136-40ef-8437-b2c62bacc4f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7785294e-9a67-4bdb-90d5-e43975994524/684f7284-9fc2-4695-b0c8-f4d32a7a570a.png"
+      ],
+      "expert_review": "What Is the 2023 Hyundai Tucson?\n\nThe 2023 Hyundai Tucson is a five-seat compact SUV that competes with the likes of the Chevrolet Equinox, Honda CR-V, Toyota RAV4 and Kia Sportage. Powering the base Tucson is an efficient 187-horsepower, 2.5-liter four-cylinder that’s paired with an eight-speed automatic transmission. Front- and all-wheel drive are available. If electrification is your thing, consider the fuel-sipping hybrid and plug-in hybrid variants. Each delivers a significant boost in mpg, and the Tucson PHEV has the added bonus of 32 miles of electric-only driving range. Both hybrids are also notably peppier than the regular gas-engine Tucson: They’re powered by a turbocharged 1.6-liter four-cylinder powertrain that helps make 226 hp combined in the hybrid and 261 hp combined in the plug-in hybrid.\n\nWhat’s New on the 2023 Hyundai Tucson?\n\nSave some reshuffling of features among trim levels, the Hyundai Tucson is a carryover model that enters the 2023 model year with no major changes.\n\nWhat Features in the 2023 Hyundai Tucson Are Most Important?\n\nStandard features include:\n\n8-inch touchscreen\nWireless Apple CarPlay and Android Auto\nAdaptive cruise control\nBlind spot warning system\nRear cross-traffic alert\nDriver drowsiness monitor\nBluetooth\nTwo USB ports\nAutomatic high-beam headlights\nLane-centering steering system\nLane departure warning\n\nAvailable features include:\n\n25-inch infotainment screen\nPanoramic moonroof\nLeather seating surfaces\nHands-free power liftgate\nSatellite radio\nSurround-view parking camera\nRoof rack\nHeated front seats\nDual-zone climate control\nDigital gauge cluster\nWireless device charging\nShould I Buy the 2023 Hyundai Tucson?\n\nBig on value and generous when it comes to standard comfort and safety features, the Tucson is best enjoyed in its lower trims. Scaling to pricier trims means dealing with frustrating touch-sensitive controls and the loss of wireless smartphone connectivity (though that also means a larger 10.25-inch screen). The hybrid and PHEV variants are compelling options for anyone who wants the passenger space and cargo volume of an SUV but prefers to make fewer visits to gas stations.",
+      "trims": [
+        {
+          "name": "SEL AWD",
+          "price": "$37500",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Front- or all-wheel drive",
+              "Available hybrid and plug-in hybrid models",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/98 Displacement",
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "261 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "4,081 lbs Base Curb Weight",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "2,000 lbs Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Limited AWD",
+          "price": "$44760",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Front- or all-wheel drive",
+              "Available hybrid and plug-in hybrid models",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/98 Displacement",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "258 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,235 lbs Base Curb Weight",
+              "2,000 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "11 gal Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Optional Automatic Parking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/5a0e64bf-da2b-47a4-8ac8-d61cfed46703.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/00ae3259-e9e9-411b-9a03-9a4a9aa61132.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/382ac600-bc3d-45a3-8fdf-3c9fdb36fe9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/6c6e9598-f02c-41c7-9c7a-215e02a071ea.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/92612205-35b9-4a53-826e-4af1a24eb0d6/dc0fe673-1538-4ee6-b523-abff326484a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/a58bc219-6837-415f-bb8e-8bc52824485f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/83822672-b9fc-4b2d-a9f9-edf54a1d8056.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/ffb15b97-2282-4cbd-bdee-6e2068d560db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/485e8252-4950-4ede-9e3f-b33e81278bbe/a52a2715-0826-4f60-a0ab-2f5334fcb14d.jpg"
+      ],
+      "expert_review": "Key Points\nThe 2026 Hyundai Tucson starts at $30,800 (all prices include $1,600 destination charge).\nGas-powered variants now have a greater towing capacity.\nA new entry-level Blue SE trim lowers the Tucson Hybrid’s base price by $1,160.\nThe Tucson Plug-in Hybrid boasted 32 miles of all-electric range.\n\nHyundai treated the Tucson to a thorough refresh for the 2025 model year, with an upgraded interior that ditched the frustrating capacitive-touch controls for secondary systems like the stereo and heating and cooling, as well as adding standard wireless Apple CarPlay and Android Auto across the line (previously, wireless connectivity had been standard on the entry-level trims, but not on the higher-spec trims). For 2026, Hyundai limited itself to shuffling the compact SUV’s content and adding only a few relatively minor features.\n\nA new Blue SE trim lowers the price of entry for the hybrid Tucson, the gas model’s towing capacity increases to 2,750 pounds, and the adventure-oriented XRT trim gains Terrain Mode settings that optimize various systems for driving in mud, snow and sand.\n\nRelated: 2025 Hyundai Tucson Review: Smart, Subtle Changes\n\nRelease Date and Pricing\n\nThe gas-only 2026 Hyundai Tucson is on sale now; the hybrid and plug-in hybrid will arrive at dealers later. Full pricing is as follows:\n\nTucson\nSE: $30,800\nSEL: $32,150\nXRT: $34,825\nSEL Premium: $35,150\nLimited: $40,775\nTucson Hybrid\nBlue SE: $33,800\nSEL: $35,250\nSEL Convenience: $36,250\nLimited: $43,425\nTucson Plug-in Hybrid\nSEL: $41,675\nLimited: $49,900\nTrim Levels\n\nBoth the regular Tucson SE and hybrid Blue SE include keyless entry and start, 17-inch wheels and LED front lighting. Interior features include cloth upholstery, manually adjustable front seats, six speakers and a 12.3-inch touchscreen with wireless Apple CarPlay and Android Auto. Standard safety technologies include forward collision warning with pedestrian and bicyclist detection, automatic emergency braking, adaptive cruise control, lane-centering steering, blind spot monitors, rear cross-traffic alert and a driver-attention monitor.\n\nRegardless of powertrain, all Tucson SELs gain 18-inch wheels, a hands-free power liftgate and heated side mirrors. Their cabins are upgraded with a power-adjustable driver’s seat, heated front seats and dual-zone automatic climate control.\n\nAvailable only on the gas-only Tucson, the XRT trim goes for an off-roady look with black lower-body cladding and exterior trim, black window and roof-pillar trim, a dark-chrome grille and LED taillights. It also features the Terrain Mode drive-mode selector, synthetic leather upholstery and ambient lighting.\n\nThe SEL Premium includes the XRT’s luxury content but forgoes the exterior appearance stuff in favor of a moonroof, navigation with voice control, a 12.3-inch digital instrument cluster, wireless phone charging and Hyundai’s Digital Key 2, which allows owners to use their smartphone or -watch as a key and to remotely monitor the vehicle. The hybrid SEL Convenience includes most of those features except the voice-controlled navigation, moonroof and Digital Key 2.\n\nThose features are standard on all Limited trims along with 19-inch wheels, a panoramic moonroof and rain-sensing windshield wipers. The Limited also includes genuine leather seating, a power front-passenger seat, ventilated front seats, heated outboard rear seats, a heated steering wheel and an eight-speaker Bose sound system. The Limited also adds a 360-degree camera system, blind spot cameras, a head-up display, automated parking, and front, side and rear parking sensors.\n\nRead More About the Hyundai Tucson:\n\nIs the 2025 Hyundai Tucson a Good SUV? 5 Pros, 2 Cons\n2025 Best Cars for Car Seats\nWhat’s the Best Compact SUV for 2025?\nThese Cars Do Well in Crash Tests for 2025, According to IIHS\nStudy: These Small SUVs Do Great Job of Keeping You From Backing Into Stuff\nPowertrain Specs and MPG\n\nThe gas-only Tucson is powered by a 187-horsepower, 2.5-liter four-cylinder engine making 178 pounds-feet of torque; it’s teamed with an eight-speed automatic transmission. The hybrid and PHEV variants have a turbocharged 1.6-liter four-cylinder assisted by an electric motor and paired with a six-speed automatic transmission; total output in the hybrid is 231 hp and 271 pounds-feet, while the PHEV generates 268 hp and 271 pounds-feet. Front-wheel drive is standard on every trim level in the gas-only Tucson; all-wheel drive is a $1,500 option on all gas trims and standard on the hybrid and PHEV.\n\nThe FWD gas-only 2026 Tucson returns an EPA-rated 25/33/28 mpg city/highway/combined, while AWD versions are good for 24/30/26 mpg. For the hybrid, the Blue SE ekes out 38/38/38 mpg, while the rest of the line returns 36/37/36 mpg. The Tucson PHEV has an electric-only range of 32 miles and is rated at 35 mpg combined with the engine on.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SEL AWD",
+          "price": "$40075",
+          "specifications": {
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "268 @ 5500 SAE Net Horsepower @ RPM",
+              "271 @ 1500 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "1.6 L/98 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "4,121 lbs Base Curb Weight",
+              "2,000 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "11 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Limited AWD",
+          "price": "$48300",
+          "specifications": {
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "271 @ 1500 SAE Net Torque @ RPM",
+              "268 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,266 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Optional Automatic Parking",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/537a2210-f11c-4c56-b156-c16270f1c7bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/2c945fce-3047-468c-b88e-5b3a32ae84f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/f229fc4d-b556-4bc3-b96b-ed65c7debaf4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/c9b8999e-597c-459c-b06c-e53e7c91fb1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/4624c4ae-feb9-44b5-a239-e29979d966ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/b317b220-6bf8-452c-8ddc-fc319906ec68.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/b317b220-6bf8-452c-8ddc-fc319906ec68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/057c5804-1889-499e-8d3d-e2af5e281091.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/faf8a0f6-1679-4a23-a091-6e5813573b57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/5a68ad50-72bf-4184-a213-6b975be5fbce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/05629a07-d770-4baf-91d2-f10cb5b2ea19/ba227c5c-da6e-4f10-8a47-a857e16ac009.png"
+      ],
+      "expert_review": "In the spring, Hyundai announced the addition of a plug-in-hybrid version of its Tucson compact SUV. At the time, the automaker said the 2022 Tucson Plug-in Hybrid would have standard all-wheel drive, 32 miles of all-electric range and 261 system horsepower — but it didn’t say how much the Tucson’s latest variant would cost. Now we know: $35,975 (all prices include destination but not any available plug-in tax credits) for an SEL, the lowest trim available for the PHEV Tucson. (PHEV stands for plug-in hybrid electric vehicle.)\n\nRelated: 2022 Hyundai Tucson Widens Appeal With Plug-In, N Line Models\n\nPrimed for an Upset?\n\nThat starting price is more than $3,500 less than the Tucson Plug-in Hybrid’s chief rival, the 2022 Toyota RAV4 Prime, a PHEV version of Toyota’s popular compact SUV. The RAV4 Prime starts at $39,565 for its lower trim, SE, though it beats the plug-in Tucson in horsepower and all-electric range with 302 total system hp and 42 miles of EPA-rated all-electric range. (Factors beyond horsepower affect acceleration, but the RAV4 Prime is legitimately quick.) Whether that extra power and range is worth the extra money remains to be seen.\n\nLimited, Too\n\nIn addition to the SEL, the Tucson Plug-in Hybrid will be available in the SUV’s highest trim, Limited, adding a significant number of comfort, convenience and safety features. Among them:\n\nA 10.25-inch touchscreen display, up from 8 inches in the SEL (albeit likely with wired Apple CarPlay and Android Auto versus the wireless integration on the 8-inch unit, as was the case for the 2021 Tucson)\nHeated rear seats (heated front seats are standard on all trims)\nA surround-view camera system\nHyundai’s blind spot cameras\n\nAll of that will cost $7,800 more than the SEL, with a total price of $43,775. At that, the most expensive Toyota RAV4 Prime, the XSE, is actually slightly less expensive than the Tucson Plug-in Hybrid Limited, with a starting price of $42,890.\n\nThe 2022 Hyundai Tucson Plug-in Hybrid should go on sale soon.\n\nMore From Cars.com:\n\nIs the 2022 Hyundai Tucson a Good SUV? Here Are 4 Things We Like and 4 We Don’t\n2022 Hyundai Tucson, Tucson Hybrid Review: A Touchy Subject\nHow Do Car Seats Fit in a 2022 Hyundai Tucson Hybrid?\n2022 Hyundai Tucson Clinches Top IIHS Safety Rating\n2022 Hyundai Tucson: What Do the SE, SEL, N Line and Limited Cost?\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SEL AWD",
+          "price": "$35400",
+          "specifications": {
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles (FLT) Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,081 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited AWD",
+          "price": "$43200",
+          "specifications": {
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles (FLT) Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "1.6 L/98 Displacement",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,235 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Optional Automatic Parking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/beb3249d-c7db-4797-8598-26bc72942707.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/249f56e9-144e-40bc-b90b-af3a0bcb80f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/5c903048-765f-4a3f-857d-944daaddf06f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/8807f560-537b-4b62-b830-22dd55eaca77.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/beb3249d-c7db-4797-8598-26bc72942707.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/8c598534-208d-494d-9b4c-cc417ec771e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/b8da0323-0a3c-4390-8ba4-d24204085e3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/819ab883-3781-4605-893a-28c7608358a4/9a9003e5-9ea3-44e0-ade1-d78573805d83.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/819ab883-3781-4605-893a-28c7608358a4/b973a13d-ee03-4986-bb32-9af0a5647754.png"
+      ],
+      "expert_review": "The verdict: Minor changes to the hybrid drivetrain and big changes to the interior make the 2025 Hyundai Tucson one of the smarter and more stylish entries in the hyper-competitive compact SUV class.\n\nVersus the competition: While the Tucson’s base gas powertrain offers performance that’s par for the course in the segment, the hybrid model is noticeably less efficient than some of its competitors, though the Tucson’s traditional six-speed automatic transmission makes for a quieter and more traditional drive.\n\nHow does the 2025 Hyundai Tucson drive? You tell me — if you’ve driven almost any variant of a model-year 2022-24 Tucson, it’s going to be nearly identical in mechanical operation and sensation to the refreshed 2025 version. Other than some moderate changes to the popular hybrid and plug-in hybrid variants, the chassis, base powertrain and all behind-the-curtain mechanicals are the same as they were in prior years. Hey, you won’t hear any of us at Cars.com complaining; we liked (most of) it before, so we’re bound to like it again.\n\nRelated: 2025 Hyundai Tucson Fixes the Biggest Problem in Its Interior\n\n2025 Hyundai Tucson XRT, rear angle | Cars.com photo by Conner Golden\n\nAnd … surprise! It’s still one of the best in the class. I drove the new Tucson Hybrid during an excursion into Southern California’s dusty, winey and very trendy Santa Ynez Valley, where Hyundai organized a circuitous on-road route punctuated by loops in the gas-only Tucson XRT over some cow-infested ranch roads. (Per our ethics policy, Cars.com pays for its own travel and lodging when attending such manufacturer-sponsored events.) \n\nHybrid Huddle\n\nThe core of the hybrid powertrain is unchanged, utilizing the same turbocharged 1.6-liter four-cylinder engine as before. A juicier 47.7-kilowatt electric motor adds some extra zap to the mix, and total system output is up slightly to 231 horsepower and 271 pounds-feet of torque — 5 extra ponies and 13 additional pounds-feet over the prior model. So, not much additional “go,” but more motor output allows the SUV to operate on electric power longer and more often, and you’d think that would improve overall efficiency. Not so; the updated model’s EPA-estimated 35 mpg combined rating is 2 mpg lower than before for the SEL, N Line and Limited trim levels with the base Blue trim clocking the same 38 mpg combined as before.\n\nWithout a prior hybrid on hand for direct comparison, it’s tough to determine just how much the motor updates have improved the driving experience, but the Tucson Hybrid remains a quiet, easy-driving compact SUV in every respect. Unlike most continuously-variable-automatic-backed entries in the class, the Hyundai retains a traditional six-speed automatic transmission that goes a long, long way in reducing the rubber-band power delivery effect and the aural thrash ‘n’ gnash that often plagues CVT powertrains. The powertrain is so smooth and innocuous, in fact, both my drive partner and I had to double-check the gauge readout for the battery charge indicator to confirm that this was, indeed, the hybrid model. Power and acceleration is solid, too, offering more than enough motivation for on-ramps, careful passing and a car loaded up with friends and fam.\n\n2025 Hyundai Tucson XRT | Cars.com photo by Conner Golden\nSmooth Sailing\n\nEverything else is similarly dandy. Brake blend — the balance between purely regenerative resistance and the physical brakes — is well tuned, and the three levels of off-throttle resistance is a neat pseudo-EV function that is both genuinely useful and a nice bit of surprise-and-delight kit. Steering is segment-standard light and artificial, and it has well-tuned accelerator mapping and shift logic. All of this is to say it drives unremarkably nice. It will serve you exactly as you expect it to, and will (hopefully) be a reliable slab of thrifty daily transportation.\n\nSoft-Road Hero\n\nBut wait! There’s (a little) more. You might notice the Tucson pictured in the very lovely photos (oh, stop it!) is fairly dusty and posed in a rustic environ. You’re looking at the updated XRT trim, which is aimed at attracting those elusive active lifestylers who ostensibly cram their Tucson full of tents, bikes, kayaks, rucksacks, firewood and freeze-dried trail food.\n\nA Subaru Forester Wilderness competitor this is not. Other than a set of handsome trim-specific wheels, requisite XRT badging and tweaked cladding is most of the difference you’ll find when compared to other trims. I think it’s the best looking of the bunch (and I always love an all-terrain package regardless of platform). I also love unrestricted access to a dirt two-track, which was the only setting I got to pilot the XRT. This was a low-to-medium-speed affair, which confirmed the carryover naturally aspirated 2.5-liter four-cylinder’s solid noise and vibration isolation, but little else.\n\n2025 Hyundai Tucson XRT, profile | Cars.com photo by Conner Golden\n\nThe 2-ish-mile trail was hardly challenging, but featured enough elevation changes and tight turns that I certainly wouldn’t attempt it in something without at least all-wheel drive and normal crossover ride height. I never engaged the XRT’s differential toggle or descent control, but it’s genuinely capable enough for reaching remote campgrounds and trailheads.\n\nAs you might’ve guessed, much of the changes are relegated to exterior styling and interior packaging. I’m not going to delve into the exterior changes (that’s subjective and fairly obvious), but I admittedly dig the new trucky front end. The inside sees the biggest changes, incorporating a number of features already found in other new Hyundais.\n\nMore From Cars.com: \n\n2025 Hyundai Tucson Up Close: Targeted Changes Add Up in a Big Way\nToyota RAV4 Prime and Hyundai Tucson Plug-in Hybrid: Tested\nImproved 2025 Hyundai Tucson Pricing Starts at $29,750\n2024 Hyundai Tucson Regains IIHS Top Safety Pick+ Award\nShop for a 2025 Hyundai Tucson\nExcellent Ergonomics\n\nOn my Tucson Hybrid test vehicle, the curved dash display combo of a 12.3-inch driver and 12.3-inch center infotainment display was the centerpiece improvement. Highly configurable and reactive, it may serve as a strong selling point for cross-shoppers, and it’s just as usable and satisfying as it is in Hyundai’s Santa Fe and Sonata. The Tucson’s touchscreen infotainment system also incorporates standard wireless Apple CarPlay and Android Auto, finally gaining wireless support for its large screen.\n\n2025 Hyundai Tucson XRT, center stack display | Cars.com photo by Conner Golden\n\nI’m also a fan of the new three-spoke steering-wheel design, which is satisfying to both grip and behold with the automaker’s trademark dot-dot-dot-dot motif on the horn button that’s “H” in morse code. A column-mounted gear selector is shared with Ioniq models and the new Santa Fe, and it cleans up the center console where you’ll find a large wireless charging pad on most trims and two sizable cupholders.\n\nThere’s a new climate-control panel below the center touchscreen that’s both striking to look at and easy to use. The floating center console allows for a significant amount of storage underneath, complemented by a shelf area inset above the glove box on the passenger’s side. Hyundai consistently creates tidy, ergonomic interiors with plenty of space, and the 2025 Tucson is one of the more interesting and engaging interiors in the class.\n\nThat’s all I got. If you liked it before, there’s only more to enjoy for the 2025 model-year refresh, and the combination of the available curved display and wireless phone projection should cinch the deal for many a buyer. And considering the pricing increase is modest — just $775 extra for the base gas-only SE, which starts at $29,750 (all prices include destination), and $560 extra for the entry-level hybrid Blue that starts at $34,510 — you won’t be priced out if the 2024 Tucson was in your sights.\n\n2025 Hyundai Tucson XRT, wheel | Cars.com photo by Conner Golden\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SEL AWD",
+          "price": "$39730",
+          "specifications": {
+            "Notable features": [
+              "Refreshed for 2025",
+              "Five-seat compact SUV",
+              "Gas-only, hybrid and plug-in hybrid powertrains",
+              "Front- or all-wheel drive",
+              "Dual 12.3-inch screens available",
+              "Wireless Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "268 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,121 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited AWD",
+          "price": "$47440",
+          "specifications": {
+            "Notable features": [
+              "Refreshed for 2025",
+              "Five-seat compact SUV",
+              "Gas-only, hybrid and plug-in hybrid powertrains",
+              "Front- or all-wheel drive",
+              "Dual 12.3-inch screens available",
+              "Wireless Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "268 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,265 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Optional Automatic Parking",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/983b8d20-eaa1-4c8d-8c5a-734410ea4ee1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/7d4f5457-0512-43d2-8742-c476f8474a4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/8d1fff4f-cbde-4b3a-9ebf-5bf7ec5fd36f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/1f3c3196-4045-47bd-85f7-ea1288a015d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/815af1f7-40cd-49aa-8615-93dbbd9102bf.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/c56ecbe5-ff70-4829-a6cb-034aef65e9b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/01112226-b2f7-475f-82dc-9cb871443c07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/37baf366-404e-45c1-9c23-598a385b0f9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/a5623388-dcc2-4a09-baf4-af394f6262a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/38671c24-875b-4c1c-ab6e-1a756ffe539e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/7bad2560-e380-438b-959b-1db31aff3cff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/b2a4f5f0-6fc1-433d-84df-38cecbb07352.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/a329f45b-83f8-44fb-a91c-931eae0ff065.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/dc0f6d9a-d3b4-4ca9-b49f-6e29e867a59f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/251b0991-f5c5-4eee-86d9-1661727586d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/512e98cb-e55b-4b77-87d5-59fe128d83ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/943a9b88-dfa4-4a8a-9aa7-c5c24e000875.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/4ebfc177-a6bd-42e8-8791-e5a5f777c566.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/dc0f6d9a-d3b4-4ca9-b49f-6e29e867a59f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/247e8e36-44ea-4bec-92f5-72b005f13ef3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/f204d9c4-f5fb-40b8-9873-52ab15f876eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/fe247d06-fe8e-406c-b366-9e39c685e182.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/41c8898b-fb8a-4c0f-b487-718a18b4cccd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/9c58ae3d-1435-44a7-a762-05d5aeef1bb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/b4c66699-b0d4-4b6b-8a99-55a3830add30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/64f2a899-8007-4e8e-b181-e0669011ab83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d033ebea-0454-40f1-ac5d-857bb546d3cd/3765daae-80e1-4ac2-a95b-dbc83d5ed870.png"
+      ],
+      "expert_review": "What Is the 2024 Hyundai Tucson?\n\nThe 2024 Hyundai Tucson is a five-seat compact SUV that comes standard with a 187-horsepower, 2.5-liter four-cylinder engine, an eight-speed automatic transmission, and a choice of front- or all-wheel drive. Direct rivals include the Ford Escape, Honda CR-V, Mazda CX-50 and Toyota RAV4. For shoppers interested in significantly better fuel efficiency, the Tucson is also available as a hybrid and plug-in hybrid; the latter delivers an EPA-estimated 33 miles of electric driving range. \n\nWhat’s New on the 2024 Hyundai Tucson?\n\nThe Tucson was redesigned for 2022, but it still receives a few notable updates this year. All Tucsons now come standard with rear side airbags and seat belt reminders for all occupants, and haptic steering-wheel feedback is now included with lane departure steering assist and blind spot warning. A 10.25-inch touchscreen is newly standard on all but the SE and SEL trim levels, and the sporty N-Line trim, previously available only with the gas-only powertrain, is now offered only on the Tucson Hybrid. \n\nWhat Features in the 2024 Hyundai Tucson Are Most Important?\n\nStandard features include: \n\n8-inch touchscreen\nSix-speaker audio system\nWireless Apple CarPlay and Android Auto\nAdaptive cruise control\nBlind spot warning\nRear cross-traffic alert\nDriver drowsiness monitor\nBluetooth\nTwo USB ports\nAutomatic high-beam headlights\nLane departure steering assist\nLane departure warning\n\nAvailable features include: \n\n10.25-inch touchscreen\nPanoramic moonroof\nLeather upholstery\nHands-free power liftgate\nSatellite radio\nSurround-view parking camera\nHeated front seats\nDual-zone climate control\nDigital gauge cluster\nWireless device charging\nRoof rack\nShould I Buy the 2024 Hyundai Tucson?\n\nThe 2024 Hyundai Tucson remains a great choice for SUV shoppers who want lots of value and everyday versatility wrapped in an eye-catching shape — even though the standard four-cylinder engine gets breathless when you ask too much of it. While straight-line speed is meager with the base powertrain, overall fuel economy is respectable. For added performance and even better fuel economy, the hybrid and plug-in hybrid variants are worth considering. Just keep in mind they are thousands of dollars more expensive than a comparable conventional Tucson.",
+      "trims": [
+        {
+          "name": "SEL AWD",
+          "price": "$38725",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Front- or all-wheel drive",
+              "Available hybrid and plug-in hybrid models",
+              "Wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "1.6 L/98 Displacement",
+              "261 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "11 gal Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,115 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited AWD",
+          "price": "$45450",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Front- or all-wheel drive",
+              "Available hybrid and plug-in hybrid models",
+              "Wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,217 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Optional Automatic Parking",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

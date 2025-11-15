@@ -1,0 +1,502 @@
+{
+  "make": "bmw",
+  "model": "x7",
+  "years": {
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/b50349e5-f6b1-49d8-9a76-b5e8632e8ae3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/7fb5fd60-a1a2-4ae3-8b7c-c25ed89bb209.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/18671e10-fbd7-4551-9916-9f0b22459667.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/d9c0fa16-2ad1-4255-af1b-e0e9a0685088.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/e5ee9be1-5b5f-4860-b479-5e3c4567059b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2a67d32c-1844-4ff7-afb2-ee1a391ad9cf/e9aaece0-ccb7-44f7-a490-9f8153b40468.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/963c6ad3-dc30-4ce7-a051-7b34c61a71b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/376c5bc8-cb50-47a6-84cf-f2d659619542.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/0d25f450-e7d4-4206-9748-cbc591f77812.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/6ebc85a8-38ee-4693-9d11-3f2ef39024bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/8f67baad-842b-4990-900a-0c69a4d81566.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/c901c233-d760-462a-9932-26726442fbaf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/f0a2e1ed-e202-46ee-a370-507e8e3df42d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/5eb8a092-b1ac-453b-988b-046287fded00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/628a2f17-7026-47ce-b6e3-8863d3b11ae0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/02eb138c-363f-4a2b-86f9-b53bbf55b78b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/1a10e1ac-5737-409c-a1f6-2666860eb4de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/e5ebe4ef-9319-4536-8eaa-8dfadccc7192.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/842a81a5-93b6-4c00-b2e9-b0ee849c1421.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/307c3ba5-0d6d-4a49-9600-26aad0376a5a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/c3c7eb6a-4e01-4ddd-beb0-f9c6dcf7a8ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/142306d2-87ef-4974-b8c9-492a22a02a56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/a6ebde39-5755-485d-85b7-2336161f3631.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/11e0693d-4dbd-40b4-9dc2-4bd598158981.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/94bd6f63-681b-4c4c-8e35-86dfcd52a179.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/615b4d71-037b-4d61-993c-cd76244ca101.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/875fd22c-67d1-4b9f-9e40-9645cc05703d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/ce8d810d-aff9-48ab-a10f-109d5c2d6664.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/b2fa3b03-abd6-4174-b1c8-320fb49a27ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/1631e6ca-bf9d-486e-b67e-cd1c999e0bbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/fda6b27f-75dc-4964-86dd-c2fccbbeac34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/461e985a-c28e-4cd6-b09c-e326e6154233/336871ce-1972-4197-8805-5b5351e01aa9.png"
+      ],
+      "expert_review": "The verdict: The X7 is a true luxury vehicle that ticks all the boxes of what a big SUV should be, with plenty of space, technology and style.\n\nVersus the competition: The only luxury SUVs that can match the X7’s roominess are much larger and more cumbersome to drive (and park).\n\nIt’s a case of “better late than never” for BMW, which arrives to the large three-row luxury SUV game later than its competitors but has done a great job focusing on the “better” part of that statement. It feels as though BMW took notes on what the rest of the three-row class did well — and not so well — then applied those observations directly to the X7.\n\nThe X7 is offered in two trim levels: xDrive40i and xDrive50i, representing different engines. There’s a big gulf between the starting prices: The xDrive40 starts at $74,895, while the xDrive50i costs nearly $20,000 more, starting at $93,595 (prices include destination charges). It competes against other three-row luxury SUVs, such as the Mercedes-Benz GLS-Class, Lincoln Navigator and Cadillac Escalade.\n\nI tested both varieties of the X7 over the course of a week and found plenty to like. It was as if I’d made a wish list for the things a large, top-flight luxury SUV should be — and the X7 proceeded to check each item off that list, starting with …\n\nA First-Class Interior\n\nThe number “7” in the X7’s name creates plenty of expectations, as it’s the number also used by BMW’s flagship luxury sedan. Thankfully, the X7’s fantastic cabin lives up to those expectations with very comfortable, highly adjustable seats and a light and airy feel thanks to some large side windows (which also help with outward visibility). Materials also impress, especially when you get the seats adorned in the optional Merino leather (which my test vehicles had). That leather will cost you, though: It was a $5,150 option for the very attractive two-tone Ivory and Night Blue full Merino setup on my xDrive40i. The xDrive50i came with a pricey leather option of its own, but instead of full Merino, it was only “extended” Merino and thus cost only an extra $1,000.\n\nThe X7 comes with a standard three-passenger bench in the second row; captain’s chairs are a $600 option. The captain’s chairs are the more comfortable choice, but in addition to losing seating capacity, bear in mind that those seats don’t fold down all the way. This prevents you from opening up the cargo area as fully as you can with the bench.\n\nMost impressive, though, is how interior quality is maintained all the way back to the third row. Often in larger vehicles, the materials and presentation can drop off rapidly as you move backward. Not so in the X7, where the pillars were all nicely covered in Alcantara all the way to the back and the third-row bench had the same quality Merino leather found up front, though the seats had a little less padding. Speaking of the third row …\n\nThree Usable Rows\n\nThird rows are often neglected in SUVs, but not in the X7. Its third row has enough room to fit two adult passengers for long periods, in part due to the second row’s 5.7 inches of fore/aft adjustment, which allows you to find room for everyone. Besides being roomy and well-upholstered, the third row also has some striking amenities and options, including its own set of climate controls, a pair of USB-C charging ports and (my favorite feature) its own moonroof, set behind the large panoramic moonroof that covers the first two rows. This is a rare feature, and it really helps stave off claustrophobia for passengers back there. The third-row vents are also properly placed up in the ceiling, where they actually help with airflow.\n\nAdditionally, third-row adjustments are powered, just like the first two rows. BMW has handily included controls in three places: the cargo area, on the openings to the rear side doors and through the touchscreen up front. Press one button in the cargo area to open up maximum cargo space, then another to bring all the seats back up. One caveat: The seats move pretty slowly, taking them about 15 seconds to move up and down. Still, it beats crawling around the interior or walking around the X7 from door to door, moving each seat individually.\n\nA Powerful Engine and a Plush Ride\n\nThe xDrive40i has a 335-horsepower, turbocharged 3.0-liter inline-six-cylinder that makes 330 pounds-feet of torque. The xDrive50i boosts those figures with its larger engine: a 456-hp, twin-turbocharged 4.4-liter V-8 that makes 479 pounds-feet of torque. Both come with an eight-speed automatic transmission and standard all-wheel drive.\n\nWith that big a difference in power, there’s a clear difference in driving between the two trims. The xDrive50i’s engine feels a lot more substantial — noticeably faster both off the line and in passing, along with much easier power delivery. The xDrive40i’s engine is up to the task of moving the X7 around competently, but it doesn’t hide the amount of work it’s doing, making it feel less luxurious.\n\nThe two vehicles I tested also came with different suspension setups, though both had giant 22-inch alloy wheels and run-flat tires. The xDrive40i had the X7’s standard self-leveling air suspension with adaptive shock absorbers. It rode a bit like a traditional SUV, with some noticeable body roll, but felt compliant and comfortable. I was a bit afraid the large wheels would make things choppy, but at both high and low speeds, the xDrive40i felt stable, with no weird vibrations or noises from the wheels.\n\nDriving the xDrive50i, though, was a different experience. It came outfitted with a Dynamic Handling Package ($4,750), which included Active Comfort Drive with Road Preview, M Sport brakes, an M Sport differential and integral active steering (four-wheel steering). The end result is a vehicle that feels at once tighter and more comfortable. Much of this can be attributed to the Active Comfort Drive system, which uses forward-facing cameras to detect oncoming turns and road imperfections, then prepares the suspension accordingly. It feels like the X7 glides down the road when it’s going straight, and the system even helps mitigate body roll in turns, making it feel more athletic.\n\nThe xDrive40i strikes back with much better fuel economy, checking in at an EPA-estimated 20/25/22 mpg city/highway/combined versus 15/21/17 mpg for the xDrive50i and its larger engine.\n\nTechnological Superiority\n\nI was also impressed by the X7’s technological acumen, from both a multimedia standpoint and a safety one. The multimedia system is powered by the latest version of BMW’s iDrive, which has come a long way. Early versions weren’t good, but it’s gotten more powerful, easier to use and more intuitive since. It is most easily operated via the touchscreen itself, but the placement of the screen — up high on the dash for better visibility — makes it a bit of a reach while driving. I ended up using the dial controller between the seats most of the time, unless I was at a stoplight and could safely lean forward.\n\nA small point of caution: Just because the system is easier to use doesn’t mean it’s easy. There’s a lot of content and settings for the X7’s various features built into the system, and it can be overwhelming. My recent experience driving the new BMW 3 Series, as well as the Z4, gave me a head start on knowing how to navigate the different menus and submenus. The good news is that I believe the system can be mastered within a few weeks. But it can be a bit frustrating at first.\n\nThe 12.3-inch touchscreen is joined by another 12.3-inch display in the gauge cluster. This screen isn’t quite as customizable as Audi’s Virtual Cockpit system, but it does its job of relaying both the standard speed and tachometer info, as well as map information and the state of the X7’s various safety systems (more on this later). The X7 also offers a really big head-up display (standard on the 50i, part of a Premium Package on the 40i), which can show much of the same information, so you look down even less. But the display disappears if you wear polarized sunglasses even if its brightness is turned all the way up.\n\nPerhaps more impressive than the X7’s multimedia setup is the amount of safety technology it can have. Pretty much every safety feature you can think of is available on the X7, including blind spot warning, forward automatic emergency braking with pedestrian and cyclist detection, lane departure warning, speed limit information, and front and rear parking sensors — all standard. On top of that, the xDrive50i adds a 360-degree camera system, head-up display, lane keep assist, adaptive cruise control, automatic parallel parking and BMW’s Extended Traffic Jam Assistant. Each of these safety features made their way onto the xDrive40i I tested, so it’s possible to outfit the lower model generously, as well.\n\nAs someone who deals with traffic on a regular basis living in Los Angeles, Extended Traffic Jam Assistant piqued my interest. The system works in traffic on the highway at speeds under 37 mph, using a camera in the instrument panel to make sure the driver is watching the road. As long as you don’t look away, the X7 will basically pilot itself; there’s no need to put your hands on the steering wheel. Beyond that speed, the X7 reverts to standard lane keeping and adaptive cruise control functionality, which does require you to put a hand on the wheel. The system works pretty much as advertised, crawling along and stopping smoothly. At speed, the lane-centering system is a bit busy; you can see the steering wheel making micro-adjustments constantly — which can make the nose wiggle a little, but only the driver will really notice. My passengers were none the wiser.\n\nWhat’s the Catch?\n\nThis last item isn’t a wish, but rather a reality check. All the things I’ve mentioned sound pretty great, right? Bad news is, they’ll cost you: Both the vehicles I tested stickered at over $100,000, which is quite a stretch for the xDrive40i and its $74,895 starting price. My test vehicle added about $25,000 worth of options, bumping its price up to $100,995. The xDrive50i I drove cost a cool $117,645.\n\nDoes the amount of car you get match the price tag? I’d argue yes given the incredible interior quality, technology and comfortable performance you get out of the vehicle. The xDrive50i does feel like the more substantial of the two thanks to that crazy-good powertrain, but the base model is no slouch.\n\nBMW might have shown up rather late to the large SUV party, but it brought caviar.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$73900",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive50i Sports Activity Vehicle",
+          "price": "$92600",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/65b72f47-6cd4-454a-b88e-fc5bf1f1b9ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/4e9627e0-8af9-43d9-b19a-b2f93462bedc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/bca11a38-0f68-4388-afb7-3a8a5c9e4d2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/c72f95ef-2243-42a2-b5fd-bf4dba0fd4b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/5a6332e6-0741-420b-9b35-5440efa953f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/4eba5ff7-1767-42db-88af-e1a829235e5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/a3776950-5380-4c30-89ab-17754986f463.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/6a9479ea-92df-403e-a3e2-7d77fb909671.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/50485e5d-337c-467e-8096-4d68ea216b23.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/b11cc8bb-4855-48b5-87f5-b11c0cb190aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/29263065-1be4-47d1-bade-f8fe5c403b6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/997e667a-2cfb-49a0-a840-4e41edc39d21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/614b1af7-7081-4b5e-baee-9ab1950a9dd3.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/997e667a-2cfb-49a0-a840-4e41edc39d21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/b746d174-f749-4552-8b1f-84c184ab37bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/6af159cb-05ef-485f-be0e-05faf69d3818.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/80762984-d7da-4559-922d-ff711e1dfe8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/2eba5caa-05ae-47b0-88e4-7b4c9e769182.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/e7190575-543c-4de5-904c-ed6ea7ae7290.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/6aa4fe22-4183-42ca-951b-3d3df6d1f5f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/39972f34-3915-4f81-b1be-e1d7196a77d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/dc166809-34bd-438c-a817-819ca0404bea/23a09326-05e7-49c6-b860-caf8690540a1.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/d87d53c1-f299-496a-b401-9f4a444f4208.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc166809-34bd-438c-a817-819ca0404bea/67534a94-ff03-4b41-9e70-809d7fc922d9.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$86700",
+          "specifications": {}
+        },
+        {
+          "name": "M60i Sports Activity Vehicle",
+          "price": "$113900",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/a7792554-e9a7-4758-8dac-50ae01c0b052.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/131a383f-22d9-40c8-91fc-314d8c690080.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/e26f3528-8ca2-4f38-8622-cf8ec41bd48a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/c90c3f13-91c5-4c73-beff-bafdfaae420b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/67e0316c-3513-4edc-98c1-308ecccd2ff9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/80129a39-0b81-4038-9a72-a611543a40dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/69f045cf-7438-4af6-b3c5-3b1796da3324.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/953e546b-6be5-4cc2-9ed5-9ef8658c1e72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/83c1193f-f9e9-428a-86c5-b0e74860744e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/120fef44-00ed-4c61-af2e-fdab5672b953.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/759a5a0b-fb79-4bba-a446-ef1b5a5b377b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/02197221-bd16-4b59-a37a-9ce7b2cd5070.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/fb66ef58-eb8f-471e-b96a-339bc3b8e40f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/759a5a0b-fb79-4bba-a446-ef1b5a5b377b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/ebdf680d-65a5-47be-aaa4-6e7b29c7745b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/f322b19d-1acf-4fc3-ad55-e6bf611c82b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/126a8058-9a12-4a89-9f77-df02776fe504.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/e0113ef4-7686-4849-91e6-7412f0ad7410.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/ed0b546f-cac7-4f5c-a1e4-bd423589c98a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/cccf1202-e694-4bd4-803e-bcab1325cb0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/ff0ca729-2856-4394-9842-419994c4e5b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/019cbaf8-9e2f-4152-8e05-2ea20a940200.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/429a124c-caf3-443d-aae8-51330bc3a119.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14bda7b3-352a-4f13-ba3a-757fecc45301/0462d440-1799-4579-95c0-84880c15583a.png"
+      ],
+      "expert_review": "The verdict: Cushy, comfy, and quick, the newly restyled BMW X7 provides a mostly premium experience, but it still can confound casual users.\n\nVersus the competition: The new X7 provides a true rival to luxury SUVs such as the Mercedes-Benz GLS and Land Rover Range Rover, but it’s starting to approach too much technology overcomplication.\n\nWhen you get to a certain price point for luxury SUVs, you start to diversify into two categories: the American behemoths like the Cadillac Escalade, Lincoln Navigator and Jeep Grand Wagoneer, or the slightly more global-sized foreign brand offerings like the Mercedes-Benz GLS, Land Rover Range Rover, Lexus LX 600 and this, the redesigned 2023 BMW X7. They’re priced the same, most of them reaching over $100,000 easily, but their missions are different: The global brand offerings need to be able to fit through tight European cities, while the Americans ones more often ply wide-open interstates from sea-to-shining-sea.\n\nRelated: What’s New With SUVs for 2023?\n\nBMW’s new X7 is decidedly a global player, obvious from its size and content, and features three different trims to satisfy the super-premium SUV buyer. It starts with the X7 xDrive40i, powered by a twin-turbo 3.0-liter inline-six-cylinder engine pumping out 375 horsepower; steps up to the performance M-badged X7 M60i with its 523-hp, twin-turbo V-8; and culminates in the exclusive Alpina-badged XB7 and it’s hairy-chested 631-hp, V-8 and super-opulent interior. We spent a week with the “mid-level” model, the M60i, but “mid-level” is something of a misnomer — there’s nothing cheap or ordinary about this SUV. BMW doesn’t make an “X7 M” like it does for the X3 or X5, rightly thinking that a track-capable M version of a seven-occupant SUV is a bit barmy. Instead, it hands its X7 over to in-house tuner Alpina to create the top-of-the-line Alpina XB7, which is tuned more for on-road high performance than track capability.\n\nIt may not be the top Alpina, but the mid-level M60i is certainly nothing to sneeze at. We wanted to evaluate how the updates BMW made to the X7 for 2023 affected its livability on a daily basis. With the latest German luxury trend towards increasingly complicated touchscreen controls, we had our concerns, especially after experiencing the latest Mercedes-Benz systems that have left a generally terrible impression on us. Did BMW fall into the same trap? We drove one for a week to find out.\n\nIs the Style Still Polarizing?\n\nThe new X7 shows its family resemblance to the newly redesigned 7 Series sedan by mimicking its headlight and grille treatment — there are some slim daytime running light “brows” located above the actual headlights, which are lower on the front fascia. They flank a big, BMW-style grille that somehow looks less offensive and more appropriate on a big SUV like this than it does on … well, the rest of the BMW lineup. It’s been toned down a bit recently, too, and finally looks a bit more tasteful and better integrated into the rest of the styling. Yes, it’s still a standout design, but the overall X7 look is more mature while still being avant-garde and modern. I’d call it a successful update to the big SUV’s look.\n\nAnd it is a big SUV — maybe not as enormous as the aforementioned American behemoths like the Escalade or Grand Wagoneer, but still on the large side for full-size SUVs. That enables it to feature a third row that’s actually usable, albeit more usable for children or smaller people than for full-size adults. Getting in is easy, too, thanks to power-articulated second-row seats that fold out of the way. Still, most folks will spend their time in the first and second rows, which are plenty comfortable and spacious, and feature tons of headroom thanks to the tall, upright profile of the X7.\n\nNot Lacking for Grunt\n\nPowering this version of the X7 is BMW’s venerable twin-turbocharged 4.4-liter V-8 engine, a rarity in an age of increasing hybrid tech and electric powertrains. It is as glorious here as it is anywhere, with incredible noises combined with unbelievable thrust that makes you care more about smiles per gallon than fuel economy. It pumps out 523 hp and 553 pounds-feet of torque, and routes it through an eight-speed automatic transmission to all four wheels through full-time all-wheel drive. BMW says that this is good for a 0-60 mph sprint of 4.5 seconds, and I believe it — the acceleration this massive SUV presents is fierce, and gets even more immediate when you play with the various drive modes. The M60i designation is the mid-level X7, the performance model that slots in above the X7 xDrive40i but below the fire-breathing Alpina XB7 model and its 631-hp version of the 4.4-liter turbo V-8.\n\nBut more power and more sport-tuned suspension is not what the X7 needs. It’s a big SUV; nobody’s ever going to drive one on a track, so focusing on how it drives in everyday situations, on highways and byways, through traffic and urban stop-and-go — these are more important. The X7 does beautifully in all of these conditions, soaking up bumps (despite its massive wheels shod with low-profile tires) with ease, creating a smooth yet well-controlled ride. It’s not floaty, it’s not tippy, it’s just calm and sophisticated, imparting an ease of driving to its handler that’s exactly what I want in a big family SUV, luxury-branded or otherwise.\n\nIt’s also quiet inside, with plenty of sound insulation keeping the cabin to luxuriously hushed levels of road, wind and engine noise. The driving experience of the latest revised X7 is as it should be: it feels expensive, well made, beautifully tuned and, frankly, like something special — which is exactly how a vehicle this expensive should feel.\n\nTech a Tick Too Far\n\nBut while the interior is beautifully made and features a good amount of high-quality leather and metal to successfully convey just how upscale the X7 is, the tech has gone a tick too far. This is an increasingly common issue among the expensive German luxury brands, we’re finding (more so with Mercedes than BMW), but the Bavarian company is just as guilty of the same thinking. This is the idea of replacing luxury appointments with crazy technology and thinking it’s somehow a suitable replacement. When the interior goes all flat-panel touchscreen, it doesn’t convey luxury in any tactile way — it’s just a flat piece of plastic you’re touching, not an articulated button or knob. So, BMW has tried to up the technology behind that screen with all manner of functions seemingly as a replacement for lost perceived quality.\n\nFacing the front-seat occupants is a large, slightly curved multimedia display consisting of a digital gauge cluster and an adjacent touchscreen display, both integrated to appear as one continuous display. It’s bright, it’s clear, and in terms of the multimedia display, it uses a “card” style format that allows you to swipe left or right to find a desired system. But it also features several menus and screens that are so jammed full of extraneous controls, systems, adjustments, icons and features that a huge portion of it is simply unused. BMW could cut half the “features” the X7 has in its multimedia screen and be better for it.\n\nThe problem with this system is that the resulting multimedia systems are jam-packed with icons for features nobody needs that you have to sort through to find the one thing you want, such as looking for various settings for the audio system buried in a grid matrix of dozens of icons. More frustratingly, you’re left with a climate control system that has a dozen different sliders and controls, none of which appear to be “off,” when you simply want to turn off the system. It features a bunch of different settings that aren’t clear or easily understandable, it’s impossible to adjust while driving without being massively distracted, and it leads to a significant amount of frustration. The tech-gone-wild affliction is becoming a serious impediment to recommending German luxury brands these days, as the level of complication and distraction required to use even basic functions like climate controls has simply gone too far. This becomes especially glaring when one plunks down into the driver’s seat of the latest Genesis luxury models and is faced with an array of actual buttons, controls and easy-to-use multimedia systems that are becoming the benchmark for luxury vehicles.\n\nI’d Rather Have the X7 over a Benz\n2023 BMW X7 | Cars.com photo by Aaron Bragman\n\nWhat we’re left with at the end of the day is a stylish, distinctive, very well-appointed and supremely comfortable luxury SUV saddled with touchscreen controls and tech that will frustrate even tech-savvy users. That said, if you insist on a German-brand full-size luxury SUV, the controls and tech in the latest X7 are generally about as easy to use and slightly less distracting than those found in the latest Mercedes-Benz GLS (at least until the GLS goes to the next-generation multimedia system found in the more recently refreshed Mercs, which will then give the nod to the BMW). The kicker between the latest BMWs and Mercedes models is steering wheel — Mercedes-Benz is doubling down on “touch-sensitive” controls on the steering wheel spokes, meaning there are sections of the wheel you simply cannot touch even casually or you’ll change a setting or adjust a volume. This is not the direction BMW is going in; while its steering wheels are simple multifunction affairs, they still require a button push to activate anything. It’s a much better way.\n\nAs for pricing, the X7 is matched up well with competitors. The base price for my very well-equipped 2023 X7 xDrive M60i came to $104,995, including a surprisingly reasonable $995 destination fee (included in all pricing figures here). As with most German luxury cars, however, options inflated the price considerably, with items like blue metallic paint, a full Merino leather interior, a premium audio system and more that drove the as-tested price up to $122,545. Yes, this is a princely sum for any automobile, but it’s not out of line for what other automakers are charging for their premium luxury people haulers. Of the lot, the new X7 has the looks and the goods to justify its price. Grab one before BMW decides to make the interior technology even more frustrating.\n\nMore From Cars.com:\n\n2023 BMW X1 Review: Tech-Focused Without the Fuss\n2023 BMW X1: BMW’s Littlest SUV Grows Up With New Tech, More Power\nHands to Yourself: 2023 BMW X3 Removes Gesture Control\n2024 BMW X5, X6 M Competitions: Hybrid V-8 Promises Efficiency Boost\nResearch SUVs\n\nRelated Video: \n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$77850",
+          "specifications": {}
+        },
+        {
+          "name": "M60i Sports Activity Vehicle",
+          "price": "$103100",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/3a1a791c-763a-45d3-94b9-28aa7c111595.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/2c625440-6a11-440d-b4e7-82ac64858bb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/d611502e-dd14-40b8-86aa-8bfbac08f7f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/e3cdbc17-9e75-4e11-9084-af94d33cc579.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/00bd22b8-d11c-4e87-8541-a3b74baaea57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/3f4a245e-4d43-4334-8f00-455d1cf57549.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/520c6070-9d00-493c-a17c-ccc5a42cfaa2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/79cf1724-c13e-4ae4-be2c-a3d4e0b9e3e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/1dca46ed-ec79-42bf-a492-f6b94cec95c3.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/03b76293-a4fd-4a83-9d5e-dd3f20665816.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/e163db1c-bb51-494e-9755-1d353ce31f13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/e63fc817-dbdd-4aab-b087-ae1243e95a5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/ad2fd0cd-4c36-410b-b58d-6e34275ed5b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/3b1bc236-e92f-4096-a440-e84a8c493eca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/03b76293-a4fd-4a83-9d5e-dd3f20665816.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/8fb66a96-2f91-4b64-a6fa-9217cc970809.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/150277bf-7eb1-49b8-b168-7a40db718039.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/a8961dcc-f104-4754-975f-9e1240a87251.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/32a482c2-0d49-41bb-b6aa-e871130e98b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/58fc3772-1adb-4c7c-9f23-894bc71de0ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/e16aca63-a769-4bcf-9395-dca3f15afed2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/7e0ba3d6-0659-4230-9c16-dd244adf5f6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/79054beb-62df-4fc8-a683-e680c68517d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/c85f3408-a5d8-4395-bb8f-c17bc9dbc00b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/02e7be07-ba00-4fce-9e71-6012dec7ecf9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/f206e2b1-776c-4964-9762-e67586ede13d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/16f551d9-b2f9-46fe-b983-e03942203513.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/12d35686-b27a-4a46-9ae6-1a2ca3f594aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/57ad9227-ba05-4fb7-8854-bfb7d7385a8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/209bd08e-3774-43bf-ad76-fb937d80abe6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dbeac2d1-85ef-4857-9ca7-ce5f0620ed53/cebfee55-e507-45f5-9af3-e3c68d107e01.png"
+      ],
+      "expert_review": "What Is the 2022 BMW X7?\n\nThe X7 SUV is the largest vehicle in BMW’s lineup, and it can seat up to seven people in three rows. The xDrive40i version is powered by a 335-horsepower, turbocharged 3.0-liter inline-six engine, while the M50i gets a twin-turbo 4.4-liter V-8 that makes 523 hp. Both engines work with an eight-speed automatic transmission, and all-wheel drive is standard. An Alpina XB7 version that’s powered by a 612-hp, twin-turbocharged 4.4-liter V-8 is also available. X7 competitors include the Mercedes-Benz GLS and Land Rover Range Rover. \n\nWhat’s New on the 2022 BMW X7?\n\nPower side window sunshades replace manual ones in the M50i.\n\nWhat Features in the 2022 BMW X7 Are Most Important?\n\nStandard features include:\n\n12.3-inch digital instrument panel\n12.3-inch multimedia system\nNavigation with over-the-air map updates\nAndroid Auto and Apple CarPlay smartphone connectivity\nForward collision warning with city collision mitigation\nLane departure warning\nBlind spot warning\n\nAvailable features include:\n\nLow-speed hands-free driving system\nSecond-row captain’s chairs\nHeated front- and second-row seats\nHead-up display\n360-degree camera system\nShould I Buy the 2022 BMW X7?\n\nThe X7 will carry your family in luxurious style, and it offers impressive V-8 performance — for a price. We like the availability of second-row captain’s chairs, but, oddly, they don’t fold flat when you need more cargo space, which limits the SUV’s versatility.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$74900",
+          "specifications": {}
+        },
+        {
+          "name": "M50i Sports Activity Vehicle",
+          "price": "$99800",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/b12603b7-30ca-4cbc-b9b3-cda4bfbc1b8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/085160b4-4679-4d2e-9e36-1ba560b3ba35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/64595ae3-378c-476b-b35a-8059eb597686.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/5294cbfb-e7b9-4fab-8bfb-821590461898.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/b12ddf6b-3aac-4b66-b462-1c4970dd33f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/351644b8-776f-48f5-97f3-99ac2f88080a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/5988daf6-26c1-44cd-8a9c-229e45a38e3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/9caa7e09-1fb6-4ccb-8460-0fe85289c58a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58acd45d-29cc-42c0-a611-e086f1e557b5/6fa51e54-ed18-4ae3-8503-7e5b938fb7a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/289e441b-5253-4e20-bf6a-6bf4af0923b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/52d47d8f-c947-4165-8bb3-7f7b5c8549da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/4f273a42-115a-409a-aafe-6c4429f8dadb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/d5c9201d-01e9-4eea-8fa6-cd8908bd7b66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/9b5ef14b-7a3d-42b5-a805-e6a4bb0a0cd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/64f76c42-dbfa-4cff-8c18-a89aa912c0ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/861c861a-ed0a-4307-b3ef-b2a2ca4b8e52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/3fe2cc3d-7a35-434d-8316-fcc85b5b7f3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/a23189df-1949-43f8-899a-8d4e24fc0dd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/28d289ce-79e3-48d7-9d90-10c4f869fab3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/8323a43f-d47b-40bd-98b3-884da62dce11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/a45147ab-4e0b-4c7a-9651-1e0bc65efede.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/43e9efe7-e76f-4092-8729-0463a757219d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/6a23a834-a7e9-491b-a0ed-4085fdfc71fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/3185c121-6c24-4fe0-b03f-a6cd682205ce.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/58acd45d-29cc-42c0-a611-e086f1e557b5/cc8762a7-5d8a-4566-8583-917ec1564cd0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/a3acea3c-b1b5-4d3f-bcc3-18ce230f60c4/0f042e1e-434a-4b99-8c35-ebcb45850d83.jpg"
+      ],
+      "expert_review": "BMW refreshed the three-row X7 SUV for 2023 with upgraded engines incorporating mild-hybrid assistance, revised front and rear styling, and upgrades to the interior tech package. For the 2024 model, a few late-arriving tech features put the finishing touches on the facelifted X7, which now starts at $82,895 (all prices include $995 destination charge).\n\nRelated: 2023 BMW X7 Review: Fantastic, But Rapidly Approaching Overly Frustrating\n\nWhat’s New\n\nFor 2024, the Dynamic Handling Package is no longer available on the xDrive40i trim. Otherwise, three new technology upgrades are options: Highway Assistant is now part of the optional Driver Assistance Package and allows for hands-free driving at speeds up to 85 mph on limited-access highways, and Parking Assistant Professional now allows owners to use their smartphone to remotely guide their X7 in and out of tight parking spaces. On the outside, Crystal Headlights (accurately named, they’d be called Crystal Daytime Running Lights and Side Marker Lights) use LEDs to backlight real Swarovski crystals for a unique, multifaceted lighting pattern.\n\nPowertrain Specs and MPG\n\nThe X7 is available with three engines: a twin-turbocharged inline-six-cylinder, a twin-turbocharged V-8 and a higher-output twin-turbo V-8 in the Alpina XB7. All are paired with an eight-speed automatic transmission; all-wheel drive is standard. The X7 xDrive40i’s 3.0-liter inline-six makes 375 horsepower and 398 pounds-feet of torque; it gets an EPA-estimated 21/25/22 mpg city/highway combined. In the X7 M60i, a twin-turbo 4.4-liter V-8 whips up 523 hp and 553 pounds-feet; while a tweaked version of the same engine delivers 631 hp and 590 pounds-feet in the Alpina XB7 high-performance model. The M60i’s fuel economy is estimated at 16/21/18 mpg; the Alpina is rated at 16/20/17 mpg.\n\nAvailability and Pricing\n\nThe 2024 BMW X7 is on sale now. Full pricing is as follows:\n\nxDrive40i: $82,895\nM60i xDrive: $109,695\nAlpina XB7: $150,395\nTrim Levels and Safety Features\n\nActive Driving Assistant (distinct from Highway Assistant) is standard on every 2024 X7. It includes forward collision warning with pedestrian and bicyclist detection, automatic emergency braking, blind spot monitors, lane departure warning and road-sign recognition.\n\nThe base X7 xDrive40i rides on 21-inch wheels and a standard air suspension. It also gets keyless entry and start, a panoramic moonroof, four-zone automatic climate control, synthetic leather upholstery, heated front seats and steering wheel, a head-up display, navigation, Android Auto, Apple CarPlay and wireless phone charging.\n\nA 360-degree camera system and automated parking are standard on the M60i, as are 22-inch wheels and blue brake calipers, an illuminated grille and rear-wheel steering. The M60i’s soft-close doors catch and automatically close themselves the last little bit to prevent slamming, and it gets a 16-speaker Harmon Kardon surround-sound system and real leather seating.\n\nIn addition to the 630-hp, twin-turbo V-8, the Alpina XB7 adds lane departure steering assist. Other upgrades include heated, ventilated and massaging front seats, heated rear seats, five-zone climate control and unique glass pieces for the shifter, engine start button and infotainment control knob.\n\nVersus the Competition\n\nAside from the Mercedes-Benz GLS, most of the X7’s competitors in the full-size three-row SUV class ride on frames derived from pickup trucks. Its most direct competition, the GLS, starts at $88,150 (prices include destination). The Cadillac Escalade bases at $83,890; its crosstown rival, the Lincoln Navigator, starts at $84,760. From across the Pacific, the Infiniti QX80 starts at $76,045 and the Lexus LX 600 at $93,915.\n\nMore From Cars.com:\n\nIs the 2023 BMW X7 a Good SUV? 4 Pros, 3 Cons\n2023 BMW X7 Gains Mild-Hybrid Power, New Look and Higher Price\nBMW Unveils Next-Gen In-Car Tech, Automated Valet Parking at CES\nWhich SUVs Can Tow at Least 5,000 Pounds?\nWhich Cars Have Panoramic Moonroofs or Sunroofs?\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$81900",
+          "specifications": {}
+        },
+        {
+          "name": "M60i Sports Activity Vehicle",
+          "price": "$108700",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/2b5274b5-6fa1-495b-9b1e-239fcda2b215.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/3f60d5fa-af38-4a15-a46e-5d5fe3ee9b71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/641c7fbe-2d6d-4147-9370-a3461c5e94e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/371e8521-f63e-4e04-8deb-9226755b70be.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/b583397c-26f1-400a-82e9-7f80ac45a3e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/c330c2ff-7134-462a-928b-fa881126ef5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/973f246a-e0b2-471d-9d04-c0fe4cad5065.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/88d125ad-36a1-4212-9418-6d4219ae4f98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/60315c43-b31f-408e-84a9-2701c9f5ce15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/5db23bce-94a1-44cd-93a8-413da0e28824.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/967c0491-d40b-40a8-a2ca-a50b4cbd164f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/73d5ccc8-221f-4527-9d8f-3accda8efc87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/6c995fb4-9867-497b-ac53-265cd0b3b1ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/e5d4493b-f69c-4295-be9a-ec0464e8ad62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/00312b8a-0e89-4d53-99e5-6141a69a4295.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/123f1f75-4951-4d11-9c60-503cb7a598d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/a8d09b2e-d557-4698-b268-c2982a7eee11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/7ae7f532-3527-4a64-91cb-b59e429d0f95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/7197aab8-5ec5-4125-ae60-0938ec93346a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/0ba304fa-6d43-4b3c-8ef6-6e974f7901ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/b3db4fce-9b8e-4730-9364-16e35fde3a1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/3f0d671d-b0e0-4099-acbb-334f65d5e8a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/9790f989-b201-4c0b-bb34-26374adcae4d.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cc97665-2952-459f-8d7c-7cfc5441baee/b583397c-26f1-400a-82e9-7f80ac45a3e1.png"
+      ],
+      "expert_review": "What Is the 2025 BMW X7?\n\nThe BMW X7 is a three-row SUV with seating for up to seven. Large and luxurious, the X7 has an impressive roster of standard comfort and technology features. The base xDrive40i is motivated by a 375-horsepower, turbocharged 3.0-liter inline-six engine, while the M60i gets a twin-turbo 4.4-liter V-8 that churns out 523 hp. Each is paired to an eight-speed automatic transmission and all-wheel drive. For even more muscle, the specially trimmed Alpina XB7 features a 630-hp, twin-turbocharged 4.4-liter V-8. The X7’s competitors include the Mercedes-Benz GLS-Class, Land Rover Range Rover, Jeep Grand Wagoneer and Cadillac Escalade. \n\nWhat’s New on the 2025 BMW X7?\n\nThe X7 is unchanged for 2025 save for one update: The Driving Assistance Professional Package adds Active Lane Change with eye activation, in which the vehicle will suggest lane changes to the driver when operating in its hands-on semi-autonomous mode. All the driver has to do to initiate the lane change is look at the appropriate mirror; the car will then activate the turn signal and perform the lane change itself.\n\nWhat Features in the 2025 BMW X7 Are Most Important?\n\nStandard features include:\n\n12.3-inch digital instrument panel\n14.9-inch touchscreen\nNavigation\nWireless device charging\nAndroid Auto and Apple CarPlay\nHeated front seats and armrests\nPanoramic moonroof\nForward collision warning with city collision mitigation\nLane departure warning\nBlind spot warning\n\nAvailable features include:\n\nHarman Kardon surround-sound audio system\nM Sport exhaust\nLeather-wrapped dashboard\nHeated and cooled cupholders\nMassaging front seats\nSecond-row captain’s chairs\nHeated second-row seats\nHead-up display\n360-degree camera system\nShould I Buy the 2025 BMW X7?\n\nThe BMW X7 is the German luxury brand’s largest vehicle, though it doesn’t feel unwieldy when you want to have a little fun behind the wheel on a curvy road. Keep in mind, though, that some rivals deliver more third-row passenger space and a roomier cargo area. Still, the X7’s overall space is abundant by most standards, and its acceleration is sports-car-quick when equipped with one of the X7’s optional twin-turbo V-8 engines.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$84300",
+          "specifications": {}
+        },
+        {
+          "name": "M60i Sports Activity Vehicle",
+          "price": "$111900",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/f8fa0dc4-9d38-47a6-acc1-4de0373744cf.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/61c89660-c7f7-479e-b2e9-218f827cda71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/40b0dd46-5941-4497-a127-66729a4861bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/eddde50e-2bcb-4f03-9927-a6b64df257d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/88e201a2-69a5-43f2-812d-cb22a189439e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/c616dd4d-f704-4b74-942b-c89bb34591e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/f9e6dacf-b7b9-46ac-adbc-8fe95a8ad61b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/453c39de-234f-41cc-9b3b-86198d260cf5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/3f4d1dd6-8a3b-40da-97e7-6f798de373f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/2afa10c1-c65b-4e04-aade-24e63e1f9a26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/a592e207-aaba-418a-987d-aca007df0a50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/582fbbd6-5f4c-443b-a4da-067ebecd9cbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/1effe339-ee5c-4322-bdf3-1a425433c9f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/73f92f2d-7551-4ddf-bab7-5493a7a463e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/e214e725-4e8b-464d-a9ca-3c488968f971.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/4e41ab8f-2ad6-4bde-a5a5-1dd5bff99bd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/03554345-5440-4fdc-a986-925c4ff90673.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/381a3f2e-23a2-413f-8199-147e39348b5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/90685e43-a088-45a4-b081-58cf5f51b1b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/a943f397-beae-4741-a32a-c6d7ea80c0d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/4d2d806c-c394-4b11-bbad-92d305f72b34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/0a2a7767-126f-4e69-99c4-f6617629db26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/e51db5a4-5a8a-43aa-9d3d-469aebe589d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/6073ffe4-0702-4e9a-a931-a920b9b38427.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/21ef01c9-423f-49ce-995c-005228c510ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/30dafc8b-7338-4ab3-808a-6a7a178d5f3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/2af8a927-76d8-4067-b5a2-e5750598d2d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/ee4442d1-5db3-4c4c-955a-92bb2320e9e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/4fce8531-6397-4a08-9fae-9e16fea32e24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/61c89660-c7f7-479e-b2e9-218f827cda71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/e81da5b8-f62b-44fc-9cec-72138d875a75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/532f51cf-63ed-4a34-8efa-08ad613b15b7/638c351f-5e7d-4f81-b8bf-34a5ba4d7323.png"
+      ],
+      "expert_review": "The verdict: The X7 is a true luxury vehicle that ticks all the boxes of what a big SUV should be, with plenty of space, technology and style.\n\nVersus the competition: The only luxury SUVs that can match the X7’s roominess are much larger and more cumbersome to drive (and park).\n\nIt’s a case of “better late than never” for BMW, which arrives to the large three-row luxury SUV game later than its competitors but has done a great job focusing on the “better” part of that statement. It feels as though BMW took notes on what the rest of the three-row class did well — and not so well — then applied those observations directly to the X7.\n\nThe X7 is offered in two trim levels: xDrive40i and xDrive50i, representing different engines. There’s a big gulf between the starting prices: The xDrive40 starts at $74,895, while the xDrive50i costs nearly $20,000 more, starting at $93,595 (prices include destination charges). It competes against other three-row luxury SUVs, such as the Mercedes-Benz GLS-Class, Lincoln Navigator and Cadillac Escalade.\n\nI tested both varieties of the X7 over the course of a week and found plenty to like. It was as if I’d made a wish list for the things a large, top-flight luxury SUV should be — and the X7 proceeded to check each item off that list, starting with …\n\nA First-Class Interior\n\nThe number “7” in the X7’s name creates plenty of expectations, as it’s the number also used by BMW’s flagship luxury sedan. Thankfully, the X7’s fantastic cabin lives up to those expectations with very comfortable, highly adjustable seats and a light and airy feel thanks to some large side windows (which also help with outward visibility). Materials also impress, especially when you get the seats adorned in the optional Merino leather (which my test vehicles had). That leather will cost you, though: It was a $5,150 option for the very attractive two-tone Ivory and Night Blue full Merino setup on my xDrive40i. The xDrive50i came with a pricey leather option of its own, but instead of full Merino, it was only “extended” Merino and thus cost only an extra $1,000.\n\nThe X7 comes with a standard three-passenger bench in the second row; captain’s chairs are a $600 option. The captain’s chairs are the more comfortable choice, but in addition to losing seating capacity, bear in mind that those seats don’t fold down all the way. This prevents you from opening up the cargo area as fully as you can with the bench.\n\nMost impressive, though, is how interior quality is maintained all the way back to the third row. Often in larger vehicles, the materials and presentation can drop off rapidly as you move backward. Not so in the X7, where the pillars were all nicely covered in Alcantara all the way to the back and the third-row bench had the same quality Merino leather found up front, though the seats had a little less padding. Speaking of the third row …\n\nThree Usable Rows\n\nThird rows are often neglected in SUVs, but not in the X7. Its third row has enough room to fit two adult passengers for long periods, in part due to the second row’s 5.7 inches of fore/aft adjustment, which allows you to find room for everyone. Besides being roomy and well-upholstered, the third row also has some striking amenities and options, including its own set of climate controls, a pair of USB-C charging ports and (my favorite feature) its own moonroof, set behind the large panoramic moonroof that covers the first two rows. This is a rare feature, and it really helps stave off claustrophobia for passengers back there. The third-row vents are also properly placed up in the ceiling, where they actually help with airflow.\n\nAdditionally, third-row adjustments are powered, just like the first two rows. BMW has handily included controls in three places: the cargo area, on the openings to the rear side doors and through the touchscreen up front. Press one button in the cargo area to open up maximum cargo space, then another to bring all the seats back up. One caveat: The seats move pretty slowly, taking them about 15 seconds to move up and down. Still, it beats crawling around the interior or walking around the X7 from door to door, moving each seat individually.\n\nA Powerful Engine and a Plush Ride\n\nThe xDrive40i has a 335-horsepower, turbocharged 3.0-liter inline-six-cylinder that makes 330 pounds-feet of torque. The xDrive50i boosts those figures with its larger engine: a 456-hp, twin-turbocharged 4.4-liter V-8 that makes 479 pounds-feet of torque. Both come with an eight-speed automatic transmission and standard all-wheel drive.\n\nWith that big a difference in power, there’s a clear difference in driving between the two trims. The xDrive50i’s engine feels a lot more substantial — noticeably faster both off the line and in passing, along with much easier power delivery. The xDrive40i’s engine is up to the task of moving the X7 around competently, but it doesn’t hide the amount of work it’s doing, making it feel less luxurious.\n\nThe two vehicles I tested also came with different suspension setups, though both had giant 22-inch alloy wheels and run-flat tires. The xDrive40i had the X7’s standard self-leveling air suspension with adaptive shock absorbers. It rode a bit like a traditional SUV, with some noticeable body roll, but felt compliant and comfortable. I was a bit afraid the large wheels would make things choppy, but at both high and low speeds, the xDrive40i felt stable, with no weird vibrations or noises from the wheels.\n\nDriving the xDrive50i, though, was a different experience. It came outfitted with a Dynamic Handling Package ($4,750), which included Active Comfort Drive with Road Preview, M Sport brakes, an M Sport differential and integral active steering (four-wheel steering). The end result is a vehicle that feels at once tighter and more comfortable. Much of this can be attributed to the Active Comfort Drive system, which uses forward-facing cameras to detect oncoming turns and road imperfections, then prepares the suspension accordingly. It feels like the X7 glides down the road when it’s going straight, and the system even helps mitigate body roll in turns, making it feel more athletic.\n\nThe xDrive40i strikes back with much better fuel economy, checking in at an EPA-estimated 20/25/22 mpg city/highway/combined versus 15/21/17 mpg for the xDrive50i and its larger engine.\n\nTechnological Superiority\n\nI was also impressed by the X7’s technological acumen, from both a multimedia standpoint and a safety one. The multimedia system is powered by the latest version of BMW’s iDrive, which has come a long way. Early versions weren’t good, but it’s gotten more powerful, easier to use and more intuitive since. It is most easily operated via the touchscreen itself, but the placement of the screen — up high on the dash for better visibility — makes it a bit of a reach while driving. I ended up using the dial controller between the seats most of the time, unless I was at a stoplight and could safely lean forward.\n\nA small point of caution: Just because the system is easier to use doesn’t mean it’s easy. There’s a lot of content and settings for the X7’s various features built into the system, and it can be overwhelming. My recent experience driving the new BMW 3 Series, as well as the Z4, gave me a head start on knowing how to navigate the different menus and submenus. The good news is that I believe the system can be mastered within a few weeks. But it can be a bit frustrating at first.\n\nThe 12.3-inch touchscreen is joined by another 12.3-inch display in the gauge cluster. This screen isn’t quite as customizable as Audi’s Virtual Cockpit system, but it does its job of relaying both the standard speed and tachometer info, as well as map information and the state of the X7’s various safety systems (more on this later). The X7 also offers a really big head-up display (standard on the 50i, part of a Premium Package on the 40i), which can show much of the same information, so you look down even less. But the display disappears if you wear polarized sunglasses even if its brightness is turned all the way up.\n\nPerhaps more impressive than the X7’s multimedia setup is the amount of safety technology it can have. Pretty much every safety feature you can think of is available on the X7, including blind spot warning, forward automatic emergency braking with pedestrian and cyclist detection, lane departure warning, speed limit information, and front and rear parking sensors — all standard. On top of that, the xDrive50i adds a 360-degree camera system, head-up display, lane keep assist, adaptive cruise control, automatic parallel parking and BMW’s Extended Traffic Jam Assistant. Each of these safety features made their way onto the xDrive40i I tested, so it’s possible to outfit the lower model generously, as well.\n\nAs someone who deals with traffic on a regular basis living in Los Angeles, Extended Traffic Jam Assistant piqued my interest. The system works in traffic on the highway at speeds under 37 mph, using a camera in the instrument panel to make sure the driver is watching the road. As long as you don’t look away, the X7 will basically pilot itself; there’s no need to put your hands on the steering wheel. Beyond that speed, the X7 reverts to standard lane keeping and adaptive cruise control functionality, which does require you to put a hand on the wheel. The system works pretty much as advertised, crawling along and stopping smoothly. At speed, the lane-centering system is a bit busy; you can see the steering wheel making micro-adjustments constantly — which can make the nose wiggle a little, but only the driver will really notice. My passengers were none the wiser.\n\nWhat’s the Catch?\n\nThis last item isn’t a wish, but rather a reality check. All the things I’ve mentioned sound pretty great, right? Bad news is, they’ll cost you: Both the vehicles I tested stickered at over $100,000, which is quite a stretch for the xDrive40i and its $74,895 starting price. My test vehicle added about $25,000 worth of options, bumping its price up to $100,995. The xDrive50i I drove cost a cool $117,645.\n\nDoes the amount of car you get match the price tag? I’d argue yes given the incredible interior quality, technology and comfortable performance you get out of the vehicle. The xDrive50i does feel like the more substantial of the two thanks to that crazy-good powertrain, but the base model is no slouch.\n\nBMW might have shown up rather late to the large SUV party, but it brought caviar.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$74900",
+          "specifications": {}
+        },
+        {
+          "name": "M50i Sports Activity Vehicle",
+          "price": "$99800",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/5f12140c-c651-44d2-8086-3f246d0f1d33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/3bf3d076-7eb5-45fc-b5c5-e7ebb8b12a67.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f864af5a-6328-4489-b3ce-2921e4947882/f3140f3b-d929-4f6c-be3c-e55bf7809179.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/3e769c2f-9b3a-4db2-b469-a109c3469967.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/fed7815f-a0e7-4e08-a329-8148b48faf31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/961d89dd-631a-4ca4-8fb9-542cc1e13e91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/7818dd7d-1953-480b-8d27-5fdb70274038.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/386d119f-6495-4a84-95a7-2833627514eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/9332927c-07c5-4182-9aef-c27b2cdbbb48.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/595ed895-5b6d-44d3-b173-67ab8d5dc5ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/78c90793-baa2-4a5b-9521-f99c07e0812a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/b16ad247-d00f-4409-a117-1741b287d26d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/c877c4da-e78a-4e0b-8cc5-f10a74fd9125.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/d909438c-8634-4a17-a8f7-d59d00a8ebc2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/0459ab72-0123-44f6-8461-3d87199279e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/db26f055-cc85-400e-94d2-68c81f731f50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/97a8a96c-1076-41fc-93ab-66ea207c66e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/8e2b7de3-9796-4bec-ac89-29c8f0678d47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/f4f3bafb-beaf-4851-a877-ff28f6a332c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/823091d7-a0d0-4007-99a3-f44a07d21c6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/b2ab296c-b879-4f5f-a8ff-dbc5ca03a2fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/99202c31-1e03-4e05-90f6-d6b022b692da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/3a69d632-d026-4676-b5a1-91d8e8905d59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/4ba6f896-a78d-4534-a4ac-69e4273e6b37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/ad44c92d-3c85-4ae1-a165-24dff64001b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/1a650d8f-768e-45e9-a3ed-b1eea802100f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/8e093978-c624-46a3-bc8a-5ecd0f26cfff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/7af17997-0e0a-4974-8a9a-1a492cd71482.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/d311bd8f-3e46-42fc-9c52-6334593120bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/f6eeee9c-050a-4731-a573-12df20f761d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/d73f590c-df1c-4f85-8bf2-d60c7fd2939a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdecb00-c1ec-4334-9436-0a26b20d35a0/7524dc36-90f2-4b81-8de0-6d26bc8e3061.png"
+      ],
+      "expert_review": "The verdict: The X7 is a true luxury vehicle that ticks all the boxes of what a big SUV should be, with plenty of space, technology and style.\n\nVersus the competition: The only luxury SUVs that can match the X7’s roominess are much larger and more cumbersome to drive (and park).\n\nIt’s a case of “better late than never” for BMW, which arrives to the large three-row luxury SUV game later than its competitors but has done a great job focusing on the “better” part of that statement. It feels as though BMW took notes on what the rest of the three-row class did well — and not so well — then applied those observations directly to the X7.\n\nThe X7 is offered in two trim levels: xDrive40i and xDrive50i, representing different engines. There’s a big gulf between the starting prices: The xDrive40 starts at $74,895, while the xDrive50i costs nearly $20,000 more, starting at $93,595 (prices include destination charges). It competes against other three-row luxury SUVs, such as the Mercedes-Benz GLS-Class, Lincoln Navigator and Cadillac Escalade.\n\nI tested both varieties of the X7 over the course of a week and found plenty to like. It was as if I’d made a wish list for the things a large, top-flight luxury SUV should be — and the X7 proceeded to check each item off that list, starting with …\n\nA First-Class Interior\n\nThe number “7” in the X7’s name creates plenty of expectations, as it’s the number also used by BMW’s flagship luxury sedan. Thankfully, the X7’s fantastic cabin lives up to those expectations with very comfortable, highly adjustable seats and a light and airy feel thanks to some large side windows (which also help with outward visibility). Materials also impress, especially when you get the seats adorned in the optional Merino leather (which my test vehicles had). That leather will cost you, though: It was a $5,150 option for the very attractive two-tone Ivory and Night Blue full Merino setup on my xDrive40i. The xDrive50i came with a pricey leather option of its own, but instead of full Merino, it was only “extended” Merino and thus cost only an extra $1,000.\n\nThe X7 comes with a standard three-passenger bench in the second row; captain’s chairs are a $600 option. The captain’s chairs are the more comfortable choice, but in addition to losing seating capacity, bear in mind that those seats don’t fold down all the way. This prevents you from opening up the cargo area as fully as you can with the bench.\n\nMost impressive, though, is how interior quality is maintained all the way back to the third row. Often in larger vehicles, the materials and presentation can drop off rapidly as you move backward. Not so in the X7, where the pillars were all nicely covered in Alcantara all the way to the back and the third-row bench had the same quality Merino leather found up front, though the seats had a little less padding. Speaking of the third row …\n\nThree Usable Rows\n\nThird rows are often neglected in SUVs, but not in the X7. Its third row has enough room to fit two adult passengers for long periods, in part due to the second row’s 5.7 inches of fore/aft adjustment, which allows you to find room for everyone. Besides being roomy and well-upholstered, the third row also has some striking amenities and options, including its own set of climate controls, a pair of USB-C charging ports and (my favorite feature) its own moonroof, set behind the large panoramic moonroof that covers the first two rows. This is a rare feature, and it really helps stave off claustrophobia for passengers back there. The third-row vents are also properly placed up in the ceiling, where they actually help with airflow.\n\nAdditionally, third-row adjustments are powered, just like the first two rows. BMW has handily included controls in three places: the cargo area, on the openings to the rear side doors and through the touchscreen up front. Press one button in the cargo area to open up maximum cargo space, then another to bring all the seats back up. One caveat: The seats move pretty slowly, taking them about 15 seconds to move up and down. Still, it beats crawling around the interior or walking around the X7 from door to door, moving each seat individually.\n\nA Powerful Engine and a Plush Ride\n\nThe xDrive40i has a 335-horsepower, turbocharged 3.0-liter inline-six-cylinder that makes 330 pounds-feet of torque. The xDrive50i boosts those figures with its larger engine: a 456-hp, twin-turbocharged 4.4-liter V-8 that makes 479 pounds-feet of torque. Both come with an eight-speed automatic transmission and standard all-wheel drive.\n\nWith that big a difference in power, there’s a clear difference in driving between the two trims. The xDrive50i’s engine feels a lot more substantial — noticeably faster both off the line and in passing, along with much easier power delivery. The xDrive40i’s engine is up to the task of moving the X7 around competently, but it doesn’t hide the amount of work it’s doing, making it feel less luxurious.\n\nThe two vehicles I tested also came with different suspension setups, though both had giant 22-inch alloy wheels and run-flat tires. The xDrive40i had the X7’s standard self-leveling air suspension with adaptive shock absorbers. It rode a bit like a traditional SUV, with some noticeable body roll, but felt compliant and comfortable. I was a bit afraid the large wheels would make things choppy, but at both high and low speeds, the xDrive40i felt stable, with no weird vibrations or noises from the wheels.\n\nDriving the xDrive50i, though, was a different experience. It came outfitted with a Dynamic Handling Package ($4,750), which included Active Comfort Drive with Road Preview, M Sport brakes, an M Sport differential and integral active steering (four-wheel steering). The end result is a vehicle that feels at once tighter and more comfortable. Much of this can be attributed to the Active Comfort Drive system, which uses forward-facing cameras to detect oncoming turns and road imperfections, then prepares the suspension accordingly. It feels like the X7 glides down the road when it’s going straight, and the system even helps mitigate body roll in turns, making it feel more athletic.\n\nThe xDrive40i strikes back with much better fuel economy, checking in at an EPA-estimated 20/25/22 mpg city/highway/combined versus 15/21/17 mpg for the xDrive50i and its larger engine.\n\nTechnological Superiority\n\nI was also impressed by the X7’s technological acumen, from both a multimedia standpoint and a safety one. The multimedia system is powered by the latest version of BMW’s iDrive, which has come a long way. Early versions weren’t good, but it’s gotten more powerful, easier to use and more intuitive since. It is most easily operated via the touchscreen itself, but the placement of the screen — up high on the dash for better visibility — makes it a bit of a reach while driving. I ended up using the dial controller between the seats most of the time, unless I was at a stoplight and could safely lean forward.\n\nA small point of caution: Just because the system is easier to use doesn’t mean it’s easy. There’s a lot of content and settings for the X7’s various features built into the system, and it can be overwhelming. My recent experience driving the new BMW 3 Series, as well as the Z4, gave me a head start on knowing how to navigate the different menus and submenus. The good news is that I believe the system can be mastered within a few weeks. But it can be a bit frustrating at first.\n\nThe 12.3-inch touchscreen is joined by another 12.3-inch display in the gauge cluster. This screen isn’t quite as customizable as Audi’s Virtual Cockpit system, but it does its job of relaying both the standard speed and tachometer info, as well as map information and the state of the X7’s various safety systems (more on this later). The X7 also offers a really big head-up display (standard on the 50i, part of a Premium Package on the 40i), which can show much of the same information, so you look down even less. But the display disappears if you wear polarized sunglasses even if its brightness is turned all the way up.\n\nPerhaps more impressive than the X7’s multimedia setup is the amount of safety technology it can have. Pretty much every safety feature you can think of is available on the X7, including blind spot warning, forward automatic emergency braking with pedestrian and cyclist detection, lane departure warning, speed limit information, and front and rear parking sensors — all standard. On top of that, the xDrive50i adds a 360-degree camera system, head-up display, lane keep assist, adaptive cruise control, automatic parallel parking and BMW’s Extended Traffic Jam Assistant. Each of these safety features made their way onto the xDrive40i I tested, so it’s possible to outfit the lower model generously, as well.\n\nAs someone who deals with traffic on a regular basis living in Los Angeles, Extended Traffic Jam Assistant piqued my interest. The system works in traffic on the highway at speeds under 37 mph, using a camera in the instrument panel to make sure the driver is watching the road. As long as you don’t look away, the X7 will basically pilot itself; there’s no need to put your hands on the steering wheel. Beyond that speed, the X7 reverts to standard lane keeping and adaptive cruise control functionality, which does require you to put a hand on the wheel. The system works pretty much as advertised, crawling along and stopping smoothly. At speed, the lane-centering system is a bit busy; you can see the steering wheel making micro-adjustments constantly — which can make the nose wiggle a little, but only the driver will really notice. My passengers were none the wiser.\n\nWhat’s the Catch?\n\nThis last item isn’t a wish, but rather a reality check. All the things I’ve mentioned sound pretty great, right? Bad news is, they’ll cost you: Both the vehicles I tested stickered at over $100,000, which is quite a stretch for the xDrive40i and its $74,895 starting price. My test vehicle added about $25,000 worth of options, bumping its price up to $100,995. The xDrive50i I drove cost a cool $117,645.\n\nDoes the amount of car you get match the price tag? I’d argue yes given the incredible interior quality, technology and comfortable performance you get out of the vehicle. The xDrive50i does feel like the more substantial of the two thanks to that crazy-good powertrain, but the base model is no slouch.\n\nBMW might have shown up rather late to the large SUV party, but it brought caviar.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "xDrive40i Sports Activity Vehicle",
+          "price": "$73900",
+          "specifications": {}
+        },
+        {
+          "name": "xDrive50i Sports Activity Vehicle",
+          "price": "$92600",
+          "specifications": {
+            "Notable features": [
+              "New 523-hp M50i trim level available",
+              "Seating for six or seven in three rows",
+              "Turbo six-cylinder or V-8 engine",
+              "All-wheel drive standard",
+              "12.3-inch multimedia screen",
+              "Powered combination liftgate/tailgate"
+            ],
+            "Highlights": [
+              "15 City / 21 Hwy MPG",
+              "6 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "479 @ 1500 SAE Net Torque @ RPM",
+              "456 @ 5250 SAE Net Horsepower @ RPM",
+              "4.4 L/268 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "5,400 lbs Maximum Trailering Capacity",
+              "540 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,400 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,617 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "M50i Sports Activity Vehicle",
+          "price": "$99600",
+          "specifications": {
+            "Notable features": [
+              "New 523-hp M50i trim level available",
+              "Seating for six or seven in three rows",
+              "Turbo six-cylinder or V-8 engine",
+              "All-wheel drive standard",
+              "12.3-inch multimedia screen",
+              "Powered combination liftgate/tailgate"
+            ],
+            "Highlights": [
+              "15 City / 21 Hwy MPG",
+              "6 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "4.4 L/268 Displacement",
+              "523 @ 5500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "553 @ 1800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "5,661 lbs Base Curb Weight",
+              "5,950 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "5,950 lbs Maximum Trailering Capacity",
+              "595 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

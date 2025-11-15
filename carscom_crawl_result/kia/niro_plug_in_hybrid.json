@@ -1,0 +1,1709 @@
+{
+  "make": "kia",
+  "model": "niro_plug_in_hybrid",
+  "years": {
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/24f7ff6b-d161-4e06-9a9f-029cdf3a4650.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/7c8a44be-9b70-4e67-9c0a-ac52d183c1d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/89e87d9f-d5e3-4056-ac6d-f0e13a1e8a89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/d388e088-fbb6-4a27-930f-27630afd0874.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/5d8cca9a-3c40-4b60-9448-19dd824b25c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/ab4e5557-3d28-4f47-94ba-23aafe58b930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/182c62f1-7c0e-473f-a652-e6a497ac34b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/36f6a8af-2ad8-423e-a1b7-1c58b8f24580.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/e0e9d6a8-64a5-4de6-99f2-3150c126289a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/d6d24d58-019e-4a0a-87b4-3177805eede8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/73bab1d6-fa07-4feb-beea-676dcd07b005.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/090940e5-653b-4942-acef-4729ba36ad71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/d492ee6e-a0d0-4f9a-b7e4-a9a354800e44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/e8c8a025-57bf-4dad-a8a7-6d2d587bde8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/bcbb18ab-9825-4e44-b623-315ed77e2afa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/fee2ec2e-b591-4828-9193-28495d87e294.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/78340341-6ea8-4e9d-b523-b23a2da6686d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/deb18f16-954b-4be4-93f7-3a5a61db3179.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/fd81e3e0-99bf-4088-8f64-bd71145fa9b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/c2c5c589-4a32-4c48-baa0-2311c045851c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2d93f72a-b6c8-4587-ac09-46d433e3ce35/26540e2a-0277-48a5-a7da-d61ab66e4422.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/382915c5-0e29-4c81-99c6-3d33e9d2e9f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/044dffdc-5ef0-460e-a33f-1050b565f285.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/72d68445-b720-44ab-aa75-3df3c2665f47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/065c143a-6558-4433-bbc7-bcac043f11a5.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/0a2edf18-b2ad-4471-a762-27702f3da0c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a0e7d111-7864-4ca9-a8bc-b23c24eff1da/2ea8b279-a9c2-41dc-9fb9-13cde121d275.png"
+      ],
+      "expert_review": "What Is the 2025 Kia Niro?\n\nThe Kia Niro is an SUV-styled compact four-door hatchback available with a hybrid, plug-in hybrid or all-electric powertrain, all with front-wheel drive. The Niro hybrid is the value leader in that it has the lowest price, but with just 139 horsepower, it’s poky to accelerate — while generating lots of engine noise. The 180-hp PHEV is quicker and more refined, and it delivers a handy 33 miles of electric range before its gas-powered four-cylinder comes into play. At the top of the lineup, the 201-hp Niro EV has 253 miles of range and gets down the road briskly and in near silence. Because of its powertrain choices and genre-straddling design, the Niro competes with a range of vehicles, including the Ford Escape Hybrid and Escape PHEV, Hyundai Kona Electric and Toyota Corolla Cross Hybrid.\n\nWhat’s New on the 2025 Kia Niro?\n\nThe Niro lineup is unchanged for 2025 save for minor alterations to its standard equipment.\n\nWhat Features in the 2025 Kia Niro Are Most Important?\n\nStandard features include:\n\n8-inch touchscreen\nWireless Apple CarPlay and Android Auto (base LX only)\nSix-speaker stereo system\nThree USB ports\nBlind spot warning\nRear cross-traffic alert\nLane departure steering assist\nDual-zone climate control\nAutomatic high-beam headlights\n\nAvailable features include:\n\n10.25-inch infotainment touchscreen\nHeated and ventilated front seats\nHeated rear seats\nHeated steering wheel\nNavigation\nSatellite radio\nIntersection assist\nAdaptive cruise control\nRain-sensing wipers\nAmbient interior lighting\nPower liftgate\nEight-speaker Harman Kardon stereo system\nShould I Buy the 2025 Kia Niro?\n\nThe easy answer is yes: When it debuted two years ago, the Niro nabbed our Best Car of 2023 award, but a lot depends on which model you’re considering and what’s most important to you. The Niro hybrid has a budget-friendly price, but it’s slow, and engine noise is prevalent. The Niro’s city-friendly proportions make it easy to maneuver in urban driving, but it also boasts a decent amount of passenger and cargo room given its smallish size. Both the PHEV and electric versions are swifter and smoother getting down the road, but they’re also considerably more expensive.",
+      "trims": [
+        {
+          "name": "EX FWD",
+          "price": "$34490",
+          "specifications": {
+            "Notable features": [
+              "Five-seat, SUV-styled compact hatchback",
+              "Front-wheel drive",
+              "Hybrid, plug-in hybrid and all-electric versions",
+              "EPA-rated 253-mile range (EV)",
+              "Eco-conscious interior materials"
+            ],
+            "Highlights": [
+              "32 - 33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 SAE Net Torque @ RPM",
+              "180 @ 5700 SAE Net Horsepower @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,336 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "SX Touring FWD",
+          "price": "$40790",
+          "specifications": {
+            "Notable features": [
+              "Five-seat, SUV-styled compact hatchback",
+              "Front-wheel drive",
+              "Hybrid, plug-in hybrid and all-electric versions",
+              "EPA-rated 253-mile range (EV)",
+              "Eco-conscious interior materials"
+            ],
+            "Highlights": [
+              "31 - 33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 SAE Net Torque @ RPM",
+              "180 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,336 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/ff6da4b5-b201-49c2-86ee-0fb591944459.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/f308b84f-8e33-44ec-8c80-58c7cc4bc837.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/3891195c-857d-4a59-a65b-e8892358b3fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/084032bd-9ee3-49b7-aee0-0b153f0b015c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/de88aee9-a81c-4725-aced-9b21703e33bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/ed845aa9-c52c-4b08-bc66-4307cb84ba18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/005b76b5-0f30-41b1-8764-68b93cc2f75c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/362c93ee-bf33-4a51-8a3d-907665d59141.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/05fe0fa7-d6e4-45a0-a8ce-9941b2ff9684.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/76460c53-3d2a-4d0a-acaf-72c8a8ecd59c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/0fa4d6f5-3df7-46c4-8ace-a805bc900047.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/950640ef-302a-4a3b-8a85-a5d9b0c78c61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/67295d7d-5342-466a-a88c-0c9a203ef914.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/404f3f22-e64f-4933-a053-e0b23e9656a0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/57aca83e-1df7-4c17-bbb2-dcb1e0f24d43/42c6d268-16e5-492c-a342-03a26583385a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/142868aa-94f3-4cbb-80e6-1d3a84f1041e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/08174b7e-5374-4890-b19b-93d40fbdd22e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/355c7637-c83b-4a63-97c9-b87b44f5c06f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/f5af84f5-6610-4ffb-acc4-ec05ca6cdcfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/8a334d6f-99d2-454c-8ced-5b4e0c4e6c10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/2aa0848a-6167-4061-9954-fc0abd94c14e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/037a3ced-06dd-438f-ae41-7f4729395b4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/5f00e284-aae8-4aa3-8eb4-67d755b1018d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/02768bdd-0b5c-428f-bda3-85e75a7ac31c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/85d7a290-6556-4a7b-a7ef-07ec5de18b97/a680c173-c83e-4943-b075-d33a3d015cb5.png"
+      ],
+      "expert_review": "The verdict: The redesigned Kia Niro family gains cargo room, new technology, expressive styling and improved efficiency across the model lineup, making all three Niro versions more attractive choices. \n\nVersus the competition: The Niro straddles several vehicle classes as an efficient alternative to a number of compact hatchbacks, subcompact and compact SUVs, and all-electric vehicles.   \n\nThe new-car marketplace — especially the mainstream-brand EV segment — have changed quite a bit since the first-generation Kia Niro was introduced for the 2017 model year. Since then, hybrid and plug-in-hybrid small SUVs have proliferated, as have dedicated-platform all-electric vehicles. With its redesign for 2023, the Niro sticks with its three-in-one electrified powertrain strategy (hybrid, PHEV and pure EV), but it gets a more distinctive look inside and out, better efficiency, new technology and mildly upsized dimensions. I attended the 2023 Niro’s press preview in Encinitas, Calif., to drive each and see how they stack up. (Per our ethics policy, Cars.com pays for its own airfare and lodging when attending manufacturer-sponsored events.)  \n\nRelated: 2023 Kia Niro: Three Familiar Flavors, One Spicy New Look\n\nFlashier Flanks \n\nIn terms of footprint and overall profile, the Niro lands in the gray area between a compact hatchback and a subcompact or compact SUV. It has SUV-like features such as a tallish body height and contrasting-color wheel and fascia cladding, but it doesn’t offer all-wheel drive or fortifications for all-terrain capability. Unlike the first-gen Niro offered only in select states, the new one is available nationwide. \n\n2023 Kia Niro (from left) PHEV, EV and hybrid | Cars.com photo by Damon Bell\n\nThe previous-gen Niro’s appearance was rather anonymous, but you’ll have a harder time losing the new one in a parking lot. The bolder look was inspired by Kia’s HabaNiro concept, and styling highlights include sharply angled LED daytime running lights, a contrasting-color panel that runs along the lower body sides, and “Aero Blade” accent panels on the rear quarters; Kia says the panels are functional, aiding airflow underneath the rear roof pillars. Body-color Aero Blades are standard, but top-line models can be outfitted with contrasting-color panels (black on the HEV and PHEV, gray on the EV) if you want a flashier look. \n\nDriving the Niro \n\nNiro EV \n\nThe Niro EV is the quickest Niro, with its 150-kilowatt electric motor rated at 201 horsepower supplying smooth, quiet acceleration that’s satisfyingly quick in city and highway driving. Accelerator pedal response is immediate and easy to modulate, and choosing the Sport drive mode makes things extra snappy, while Eco mode mutes the acceleration response, though not to the point of lethargy.  \n\nNiro \n\nI swapped into the Niro hybrid after getting out of the EV, and the noise from the four-cylinder gasoline engine was especially striking after the near-silent whirr of the EV’s powertrain. The engine’s exhaust note is a bit coarse and gravelly, especially when accelerating quickly — or at least as quickly as the hybrid can muster. Its 1.6-liter four-cylinder and 32-kW electric motor combine to produce 139 hp and 195 pounds-feet of torque, which is enough for adequate acceleration but nothing more. Choosing the Sport mode brought a slightly peppier feel, but also more noise, as the transmission held lower gears longer for higher-rpm operation.  \n\nNiro PHEV \n\nI also got brief seat time in the plug-in version, which gets the same 1.6-liter four-cylinder as the regular hybrid but pairs it with a 62-kW electric motor for a total output of 180 hp and 195 pounds-feet of torque. Fully charged, the PHEV can deliver an EPA-rated 33 miles of all-electric driving; unfortunately, my test vehicle’s battery had been fully depleted when I drove it, so I could only sample it in hybrid mode — no EV for me. Even as a hybrid, however, the PHEV’s 41-hp advantage over the dedicated Niro hybrid is apparent as it feels noticeably peppier overall.  \n\nBoth the hybrid and PHEV use a six-speed dual-clutch automatic that performs well, with none of the occasional bogging-and-surging feel or clunkiness in low-speed driving that some DCTs exhibit. Kickdowns for extra passing power are prompt and smooth, and there’s no herky-jerkiness in stoplight-to-stoplight driving. Likewise, the transitions from gas to electric power are laudably smooth in both hybrids, almost to the point of being undetectable.\n\nAll three Niros have multiple levels of regenerative braking — from no regen up to an “i-Pedal” one-pedal driving mode (exclusive to the EV) — that are selected via the steering-wheel paddles. The i-Pedal enables one-pedal driving that in many driving situations can bring the vehicle to a stop without pressing the brakes at all. The hybrid and PHEV include a Smart Regeneration System that automatically adjusts the braking regen level based on road conditions or a vehicle being detected in front. Regardless of the setting, regen feel is smooth and predictable, and I like having the option to choose my own setting based on driving conditions.  \n\nThe Niro is a competent handler overall in part because of its relatively trim dimensions, but overt athleticism is not its forte. The steering feel doesn’t offer much in the way of road feel or feedback, though it’s nicely weighted and accurate. The EV weighs 500-plus pounds more than the hybrid Niro and around 200-plus pounds more than the PHEV, depending on equipment, but it doesn’t feel noticeably heavier or more cumbersome in the corners. The Niro’s ride quality is pleasant and composed regardless of powertrain, at least on the pristine San Diego-area roads of our test-drive routes. The EV comes solely with 17-inch wheels; the hybrid and PHEV come with 16s or 18s, depending on the model.  \n\nEfficiency \n\nThough there are no major changes to the 2023 Niro’s powertrains compared to the first-generation models, efficiency has been improved across the board. The hybrid is EPA-rated at 53/54/53 mpg city/highway/combined, but those numbers drop substantially to 53/45/49 mpg if you choose an EX Touring or SX Touring due to 18-inch wheels. The two Tourings’ projected driving range drops significantly, too, from 588 to 479 miles.  \n\nThe PHEV’s all-electric driving range is an EPA-estimated 33 miles on a full charge (up from 26 miles previously) and combined driving range is 510 miles. Kia says the PHEV’s 11.1-kilowatt-hour lithium-ion polymer battery pack can be charged from zero to full in less than three hours via a Level 2 charger.  \n\nThe Niro EV’s driving range has been improved to an EPA-rated 253 miles, up from 239 miles in the first-gen model. That’s right in the ballpark of max range with the Chevrolet Bolt EV (259 miles) and Bolt EUV (247 miles), Toyota bZ4X (252 miles) and Volkswagen ID.4 (275 miles), but it doesn’t match the best two-wheel-drive versions of EVs such as the Ford Mustang Mach-E (314 miles), Hyundai Ioniq 5 (303 miles) and Kia EV6 (310 miles).  \n\nThe NIro EV’s 64.8-kWh battery can be recharged from empty to full in about seven hours on a Level 2 charger thanks to an onboard charger that has been upgraded from 7.2 kW to 11 kW. (The 2022 Niro EV took about 9.5 hours.) A maximum DC fast-charging capability of 85 kW means that the Niro EV can be charged from 10% to 80% in about 45 minutes. Again, most rival EVs do better: The extended-range EV6 can be charged from 10% to 80% in about 18 minutes thanks to its 240-kW capability. \n\nSpeaking of the EV6, the Niro EV gains the same vehicle-to-load onboard generator functionality offered in the EV6 and Ioniq 5: Plug the supplied adapter into the car’s exterior charge port, and the car supplies 120-volt power for various household appliances and other devices. That charge port is located at the nose of the Niro EV instead of the driver-side front fender as it is on the PHEV. We’ve experienced the front-mounted charge-port doors of some EVs get iced shut in nasty Chicago winter weather and have had to use hot water or windshield-washer fluid to get them to open. Kia has given some thought to the EV’s cold-weather usability, however: An optional heat pump and battery warmer are available to help preserve driving range in frigid temperatures. \n\nInside Story \n\nThe 2023 Niro’s mildly upsized dimensions include a 2.5-inch stretch in overall length that provides improved cargo volume and slightly better occupant room; 6-footers should find ample space in the front seats and respectable room in the rear seats. I had sufficient space in the driver’s seat for my 6-foot-6-inch frame even under the moonroof’s housing, which usually steals an inch or two of headroom, but I wished the steering wheel telescoped out a bit farther for an optimal driving position.  \n\nRear-seat space is tight for extra-tall passengers as legroom shrinks quickly when the front seats are adjusted rearward, and the front seat backs are entirely hard plastic, so there’s no cushioning at all if your knees and shins rub against them. Also, the Niro EV’s battery-pack hardware raises the floor in the rear-seat area, which further compromises legroom for tall passengers. On the plus side, the rear-seat climate control vents (standard on all but the hybrid’s base LX model) are generously sized, there’s a handy USB charging port built into the inboard side of both front seatbacks, and the PHEV and EV versions can be equipped with heated outboard rear seats.  \n\nThe Niro’s cargo volume is better than most compact hatchbacks and subcompact SUVs, approaching the capacity of some smaller compact SUVs. The cargo area’s load floor is rather high, but the hybrid’s cargo-floor panel can be installed in a lower position to free up a few inches of extra vertical space. The EV includes a small frunk under the hood with its own hinged, latched cover and a tie-down net for loose items. Inside, small-items storage is about average among compact hatchbacks. The front and rear door pockets are a bit stingy, but one of my favorite features from the first-gen Niro carries over: clever retractable cupholders that can be stowed to create an undivided cargo bin.  \n\nKia touts the fact that the Niro’s interior is finished in several animal-free, enviro-conscious materials, such as a headliner made from recycled wallpaper and upholstery material made from eucalyptus leaves. That’s nice, but what’s also nice is that those eco-focused materials don’t look or feel cut-rate. A variety of padded surfaces and satin-finish accents give the cabin a respectably classy ambiance for a mainstream compact, at least in the top-line versions I drove.  \n\nThe dynamic dashboard layout is highlighted by a pair of 10.25-inch screens on top models, one for the instrument cluster and one for the infotainment touchscreen. Most controls are straightforward and easy to use. As with the first-gen Niro, the PHEV and EV versions get an ergonomically agreeable rotary-dial gear selector, while the hybrid sticks with a more traditional T-handle shift lever. \n\nLike the EV6 and redesigned-for-2023 Sportage compact SUV, all Niros use a dual-purpose capacitive-touch panel that toggles between climate and infotainment controls at the touch of a virtual button; this includes the panels’ two physical knobs, which switch from volume and tuning functions to driver and passenger temperature control functions. This dual-purpose setup is space-efficient, but it necessitates an extra step when you need to switch from climate to infotainment controls and vice-versa. On the whole, however, the layout strikes the right balance between flashy and functional; it’s easier to live with day to day than some current EVs that seem to aim for a “different for the sake of different” control layout (looking in your direction, VW ID.4). \n\nMore From Cars.com: \n\nKia Announces 2023 Niro Hybrid Prices \nUp Close With the 2023 Kia Niro EV, PHEV and Hybrid \nHere Are the 11 Cheapest Electric Vehicles You Can Buy \nWhat Are the Most Fuel-Efficient Cars for 2022? \n2020 Kia Niro PHEV Review: Old-School Hybrid With Old-School Issues \n2022 New York Auto Show: Best in Show \nTechnology and Safety \n\nAll Niros come standard with Apple CarPlay and Android Auto connectivity, but it’s wireless only on the base HEV LX model; on the rest, you’ll need to plug in your phone. Available features include a wireless charging pad, ambient cabin lighting, a head-up display, power liftgate, Kia Connect remote-access services, a digital key and eight-speaker Harman Kardon audio. \n\nThe HEV and PHEV offer a Green Zone Drive Mode feature that Kia says uses navigation data to automatically activate EV mode in residential areas and near schools and hospitals. Navigation-based adaptive cruise control with stop-and-go capability and automatic road-curve speed reduction is also available. Kia’s Highway Driving Assist II driver-aid system is also optional; it adds lane centering and lane change assist to cruise control capabilities (the driver must keep his or her hands on the steering wheel).   \n\nKia’s Drive Wise suite of safety features is also standard and includes forward collision warning with pedestrian detection and automatic emergency braking, lane departure steering assist, driver-attention and blind-spot monitors, rear cross-traffic alert with automatic braking, and a safe-exit warning system. All but the base LX hybrid include forward collision avoidance assist with junction turning, which can help avoid collisions in intersections.  \n\nValue \n\nKia has only released pricing for the Niro hybrid and PHEV so far. The hybrid is starting to arrive in dealerships now; the PHEV and EV will follow. The hybrid starts at $27,785 (all prices include $1,295 destination) in base LX trim and runs up to $36,085 for the SX Touring. Those prices should make the Niro competitive with rivals such as the soon-to-arrive Toyota Corolla Cross, though the latter is available with AWD. \n\nThe PHEV starts at $35,035 in EX trim and $40,785 in SX Touring form, which puts it right in the mix with the Ford Escape PHEV and Subaru Crosstrek Hybrid (also a plug-in). We’ll have to wait and see where the EV lands price-wise, but my hunch is that it will compare well with the Toyota bZ4X and VW ID.4. \n\nThe Niro doesn’t break new ground in efficiency or driving range, but the numerous enhancements and welcome new features for 2023 make it a compelling competitor to any number of compact vehicles regardless of which powertrain you choose. \n\nRelated Video: \n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "EX FWD",
+          "price": "$33840",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2023",
+              "Hybrid, plug-in-hybrid and battery-electric versions",
+              "EPA-rated 253 miles of range (EV)",
+              "Five-seat hatchback",
+              "Front-wheel drive",
+              "Eco-conscious interior materials"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "195 SAE Net Torque @ RPM",
+              "1.6 L/96 Displacement",
+              "180 @ 5700 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "3,336 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "SX Touring FWD",
+          "price": "$39590",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2023",
+              "Hybrid, plug-in-hybrid and battery-electric versions",
+              "EPA-rated 253 miles of range (EV)",
+              "Five-seat hatchback",
+              "Front-wheel drive",
+              "Eco-conscious interior materials"
+            ],
+            "Highlights": [
+              "31 - 32 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "180 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type",
+              "195 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "3,336 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/35ac30bc-88ac-47f6-a02a-a11935cf4a8f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/0f653549-f11e-4c28-8d5c-922cf1ea61cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/cc1d1840-691e-4cc8-9084-4533b8938d89.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/76d0cdf5-d137-48f3-9ee7-bfcb73fddf8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/bfb1fa69-735a-4027-a6d5-e7291f0a9412.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/758bd479-f4ce-41da-9cbf-07e8848a86a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/247eb8a9-1448-4d1f-b5da-b2fbb1a69dbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/d18cd8fc-e0a4-4206-9359-98dd7c114e54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/519a19cc-a3c2-43b1-81f3-b3c4489e8644.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/592c265a-a32c-4336-ad9d-724b8a177ce2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/8c484225-cc29-4e31-9c25-212172a3942c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/ea9c89c8-c17b-410d-9f26-7d3c2a679360.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/7f364b86-300e-483d-98cc-5f64693f51ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/5b201540-ccf3-4d01-9530-9eb7c16fd1a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/958ca519-cb6d-4481-8fb6-9d01841c3465.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/0f653549-f11e-4c28-8d5c-922cf1ea61cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/c34af21c-1e4d-4c7d-9462-429fb4142df0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/c614059e-203a-43b0-b0f8-29200ff81819.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/6e6978fd-4a4b-437f-b4e2-5431b30b797d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/c4a82203-df8a-43f1-9256-616456f25458.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/1f61af2a-6481-41e1-80ec-adb04cf32f0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/76515dcf-9adc-455b-8b03-8f429043b03f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/9562741b-6186-4223-8cf6-a98bce18cbb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/e9e84bda-aecd-4709-8c0f-c5d2ccaa5b83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/b857ae42-1f84-488d-9d5a-67052d7088af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e697ef37-0d96-41b0-b671-7a9a2b1077f5/112bb58b-b5e9-4989-b277-7547495f0f7f.png"
+      ],
+      "expert_review": "The Kia Niro is like those toys that grow with your kid: The first step is the baby toy, the Niro hybrid; toddlers graduate to the second step, the Niro Plug-in Hybrid. Kia fully redesigned the Niro lineup for the 2023 model year, so the only change to the plug-in for 2024 is that Fire Orange Metallic paint is no longer available. (The regular hybrid is detailed here. The company has not released details on the all-electric Niro EV yet.) For 2024, the Niro PHEV starts at $35,615 (all prices include $1,325 destination).\n\nRelated: Up Close With the 2023 Kia Niro EV, PHEV and Hybrid\n\nTrim Levels and Pricing\n\nWith its 180-horsepower, 1.6-liter four-cylinder engine augmented by an electric motor and battery pack, the front-wheel-drive Niro PHEV is capable of 33 miles of all-electric travel and is rated at 108 miles per gallon-equivalent, according to Kia. A six-speed dual-clutch automatic is the only transmission offered.\n\nThe base EX trim level includes rain-sensing windshield wipers, keyless entry and start, remote start, synthetic leather and cloth upholstery, heated front seats, a power driver’s seat and dual-zone climate control. All Niro PHEVs also get a 10.25-inch touchscreen with navigation, Android Auto and Apple CarPlay, and wireless phone charging.\n\nThe plug-in’s higher-tech powertrain relative to the regular hybrid is matched by more standard safety tech. All Niro PHEVs include lane departure steering assist, adaptive cruise control, blind spot monitors, rear cross-traffic alert, rear parking sensors, and forward collision warning with pedestrian detection, automatic emergency braking and additional functionality to assist at intersections.\n\nTo that, the SX Touring adds a power moonroof, power liftgate and the ability to use a paired smartphone as a key. Inside, it has an eight-speaker Harman Kardon audio system, perforated synthetic leather upholstery and ventilated front seats.\n\nThe 2024 Kia Niro PHEV is on sale now. Pricing for the EX trim starts at $35,615; the SX Touring starts at $41,365.\n\nMore From Cars.com:\n\n2023 Kia Niro Review: More Personality, Still Practical\nWhat’s the Difference Between a Hybrid and a Plug-in Hybrid?\nWhat Are the Most Fuel-Efficient Cars?\nResearch the Kia Niro Plug-in Hybrid\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "EX FWD",
+          "price": "$34390",
+          "specifications": {
+            "Notable features": [
+              "Five-seat, SUV-styled compact hatchback",
+              "Front-wheel drive",
+              "Hybrid, plug-in hybrid and battery-electric versions",
+              "EPA-rated 253-mile range (EV)",
+              "Eco-conscious interior materials"
+            ],
+            "Highlights": [
+              "32 - 33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/96 Displacement",
+              "180 @ 5700 SAE Net Horsepower @ RPM",
+              "195 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,336 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "SX Touring FWD",
+          "price": "$40140",
+          "specifications": {
+            "Notable features": [
+              "Five-seat, SUV-styled compact hatchback",
+              "Front-wheel drive",
+              "Hybrid, plug-in hybrid and battery-electric versions",
+              "EPA-rated 253-mile range (EV)",
+              "Eco-conscious interior materials"
+            ],
+            "Highlights": [
+              "31 - 33 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 SAE Net Torque @ RPM",
+              "180 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "3,336 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/fff0a7df-ced9-4a96-9b0d-79df79b21690.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/2589edc4-7bd9-422a-818e-79f0d97d8550.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/4e7ba4c3-fac1-4116-b50c-3909b632b4d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/5b23d29e-5205-4bd8-a3f0-fb3f6caae95c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/449f7741-f8cd-4df9-9d4d-fab16181353e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/c075c7c1-7eed-4e2e-817d-a764c29665e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/eb4b6de8-9713-490e-b04c-6c31d2f0bd77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/376ee958-6fdd-422c-9e51-f7676c7d6e0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/d2946d39-ddc4-4d53-9763-04a9c516d116.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/89c0d6e8-e1db-46f5-a40c-df5b18628eb1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/db5f9988-5f8f-42c6-b2f4-bb383da003e5/fab8f06b-ab8f-4533-b36c-d55cb549c18f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/aa78317d-72b4-4b55-9b26-cfdbdbfaee21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/08cf6462-163a-42bb-a37d-73d33c13a0ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/55b5b0be-2a77-4cd8-a964-334b3c07891d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/2f42eae6-a0e8-4ace-aad0-a63f0a5e7ecb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/65edcc61-db7a-4381-beae-fc41fc5df0ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/1dc10157-8e58-43f6-badb-05a1701a6507.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/9790f2c2-8ecd-4f62-8516-3c1fe1ad226d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/b008bf66-ce8c-417f-a079-f2db72f59501.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/82f39afd-98be-4f2a-b3a9-018686a3ff10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/8f7d5609-a2db-46b3-83c6-d81eeb12d6e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/02c9e307-4c33-4b0a-82f5-e627b1949e46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/9fa1cddf-86cb-476d-b36d-8d395a10714f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/6d4000f5-bab9-4601-91a6-05902905450a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/69351dee-e57b-4543-8ec8-c5fb94c20b27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/671a9209-e5a8-4e32-a986-49ae5b7dd37e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/d930ad83-6a06-43ed-a32e-9163f4d30ada.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/552a84da-bb0d-40f9-8c47-765701f0cbef/0fd8721f-d573-41b4-bde5-97ee737089bc.png"
+      ],
+      "expert_review": "The verdict: The Kia Niro Plug-In Hybrid’s efficiency, practicality and utility are outweighed by its unpleasant driving experience. \n\nVersus the competition: Newer, next-generation plug-in hybrids are here, and they feel far more refined than the Niro PHEV while offering up competitive technology, comfort and, in some cases, superior range — not to mention all-wheel drive. \n\nI was about 5 miles into my first spin behind the wheel of a 2020 Kia Niro plug-in hybrid when I realized this was not going to be a pleasant motoring experience. Those 5 miles made me realize just how much electric and plug-in vehicles have improved in the past decade. Gone from most of the market’s electrified vehicles are those artificial-feeling brakes, numb steering, odd powertrain noises and nonlinear, jerky, odd acceleration and deceleration qualities. “Most” is the operative word here, though, as I’ve apparently found one vehicle that hasn’t gotten the memo yet — the Niro Plug-In Hybrid. This crossover-style wagon has a few issues in terms of how it drives and performs, but if it’s as efficient as it seems to be and provides a decent amount of occupant room and cargo space, is that enough to overcome its driving deficiencies? \n\nWhat’s It Packing?\n\nThe Kia Niro comes in three flavors: hybrid, plug-in hybrid and pure electric vehicle, the difference being the size of battery pack each car has and how far it can drive in electric-only mode. The hybrid has no plug-in ability and operates much like any other hybrid out there, while the EV has no gasoline motor to help it recharge on the go, meaning it operates only in electric mode. The PHEV version is kind of the best of both worlds — it operates first and foremost in electric mode but uses its onboard gas engine to keep the vehicle moving and recharge the batteries when they’re depleted. Plus, it provides extra propulsion even when they aren’t. The PHEV version can also be plugged in to refill the battery, allowing you to drive in electric mode using land-generated power instead of electricity created by the onboard engine. \n\nThe Niro PHEV is powered by a 1.6-liter four-cylinder engine paired with a 60-hp electric motor for a total system rating of 139 hp and 195 pounds-feet of torque. The system is mated to something rare in a hybrid — an actual automatic transmission. In this case, it’s a six-speed dual-clutch unit. It’s far more common to have a hybrid employ a continuously variable automatic — to more easily make use of the mixing of gasoline and electric propulsion methods — but Kia’s gone for something different here, and it doesn’t work that well. The six-speed transmission does not shift smoothly, especially under deceleration, and seems to be at odds with the electrified gasoline powertrain. The engine and electric motor combination is also less than adequate: Acceleration is slooooow, without any of the zippiness one usually finds in cars with electrified powertrains. \n\nThe Niro PHEV feels heavy and ponderous whether you keep it in EV-only mode or allow it to mix in some gasoline-sourced propulsion. It behaves like an old-school hybrid, one from the days in which automakers were still ironing out the interaction and function of hybrid systems. Putting the Niro into Sport mode does not help matters; the brakes are terrible, with an artificial, nonlinear feel. The last 10 feet of any stop sees the mechanical brakes grab with sudden bite, causing head-bobbing among occupants regardless of how carefully and smoothly one tries to bleed off speed. The regenerative braking function has a few settings, controlled by the paddle shifters in normal mode (Sport mode turns them back into gear selectors). The most aggressive regen mode is far too aggressive, again causing passenger discomfort when the driver lifts off the accelerator, while the mildest setting doesn’t seem to do much. \n\nThe car doesn’t ride or handle well, either, weighing about 3,400 pounds and featuring slow, highly boosted steering and a stiff ride that transmits a lot of bumps and noise into the cabin. In short, the Niro PHEV simply isn’t a pleasant car to drive. \n\nScores Points on Practicality\n\nSo if it’s not particularly pleasant, does the Niro PHEV at least make up some ground on practicality or efficiency? Yes, it does. Being a plug-in hybrid means it can operate in electric mode for a limited distance before needing to employ its onboard gas engine to keep going, allowing drivers to get to a charging station to refill the battery. It can also use that gas engine to add additional propulsive force (so if you’re in EV mode and floor the accelerator, it’ll add some grunt to the mix) to maintain a certain level of charge on the battery while cruising, or even to recharge the battery while you’re driving. I took the Niro on my traditional plug-in-hybrid testing loop to see how far it would go on electricity alone, starting with a full battery and driving mixed urban streets in EV mode with the climate control off and the windows up until the gas engine kicked on — no hypermiling, just driving normally and smoothly, sticking to posted speed limits.\n\nThe Niro PHEV is rated to go 26 miles on electricity only, then topping out at a total range (gas engine included) of 560 miles (assuming the EPA’s gas-only fuel economy rating of 48/44/46 mpg city/highway/combined). My test saw the Niro PHEV best that number, delivering 32.8 miles of observed electric range before the gas engine kicked on — a 26% improvement over what the EPA said the car would achieve. Recharging the fairly small 8.9-kilowatt-hour battery from a household 120-volt outlet should take about nine hours, according to Kia, or 2.5 hours on a more powerful 240-volt charger. (DC fast charging is not an option on the Niro PHEV.) So yes, it does have the expected plug-in hybrid chops, allowing most people to commute electrically the majority of the time and giving drivers options as to how they’d like to allocate power —  either maintaining the battery charge by using the gas engine, recharging the battery en route, or draining the battery every time they drive and recharging it at home. \n\nUtility Is Strong, Comfort Is Mixed\n\nThe Niro’s practicality isn’t limited to its hybrid efficiency; it genuinely works as a small compact SUV. There’s plenty of occupant space up front and in back, with more than adequate backseat legroom. Cargo room is also surprisingly plentiful, as the batteries for the hybrid system don’t intrude much into that space. Headroom is also plentiful, and the seats are decently sized and supportive. It works quite well as a small family crossover in terms of roominess, efficiency and utility. \n\nIts comfortable seats, though, are tempered by the fact that ride quality is only mediocre, with a lot of bumps and noise transmitted into the cabin. In fact, noise is one of the more troublesome aspects of the Niro PHEV — and not just road and wind noise, but noises the car generates. It feels like it’s always dinging or beeping at you: the moaning low-speed noise all EVs are required by law to broadcast as a warning to sight-impaired pedestrians, the beeping when you shift into Reverse, the welcome noise, the shut down noise, the warnings. The appeal of a quiet EV is never met with the Niro. \n\nThe interior design is also quite good when it comes to the buttons, switches and multimedia system. Kia and its sister brand Hyundai have the secret to a good multimedia system, and while the one in the Niro PHEV might not be Kia’s latest and greatest, it’s still miles better than most. It’s accompanied by plenty of dedicated buttons that are big, easy to locate while driving and very complete. The voice commands are questionable in their function, however: Asking the car to change the radio to SiriusXM’s NPR channel somehow got me navigation directions to the nearest Pier 1 outlet.\n\nAt Least It’s Cheap(ish)\n\nThe Niro comes in several versions at several prices for the 2020 model year. A plain, basic Niro hybrid starts at a not-inconsiderable $25,710 including destination, while the base Niro PHEV starts at $30,610 and the Niro EV begins at a hefty $40,210. (That said, plug-in models may be eligible for federal or local rebates or tax advantages.) My specific test car was a Niro PHEV EX Premium, which comes nearly loaded for $37,510, with options limited to paint color, cargo accessories and mats. My as-tested price was $38,085 before any tax credits. \n\nStacking the Niro PHEV up against a proper competitor is not easy given few other plug-in hybrids offer the same body style as the Niro — a tall sort-of-crossover, sort-of-SUV, sort-of-wagon. The closest competitor might be the Subaru Crosstrek Hybrid, which went all plug-in for the 2018 model year and starts at nearly $5,000 more than the Niro PHEV. The Subaru does have a few advantages, however, such as standard AWD and Subaru’s standard safety systems, but it doesn’t achieve the Niro’s range, with only 17 miles EV-only and 480 miles overall.\n\nTwo plug-in hybrid SUVs are available for 2020, one from Ford and one from Toyota. The 2020 Ford Escape Hybrid PHEV is front-drive only, as is the Niro PHEV, and starts a little more than $3,500 higher than the Niro PHEV. It features more interior space and greater range: 37 miles EV and 530 miles overall. Another AWD option is the 2021 Toyota RAV4 Prime, which has a range of 42 miles EV and a bladder-busting 600 miles overall — but costs a whopping $8,600 and change over the base price of a Niro PHEV. \n\nThere are better plug-in choices than the Niro PHEV these days. It feels a generation behind many of its hybrid and plug-in contemporaries in terms of powertrain refinement, and its practicality, efficiency and utility sadly don’t outweigh its general unpleasantness to drive. \n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LXS FWD",
+          "price": "$29490",
+          "specifications": {
+            "Notable features": [
+              "Five-seat plug-in hybrid crossover",
+              "Gas-electric hybrid powertrain",
+              "Six-speed automatic transmission",
+              "Front-wheel drive only",
+              "Rated at 26 miles of EV range, 560 miles with gas",
+              "Apple CarPlay, Android Auto standard"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "1.6 L/96 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "3,384 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$33290",
+          "specifications": {
+            "Notable features": [
+              "Five-seat plug-in hybrid crossover",
+              "Gas-electric hybrid powertrain",
+              "Six-speed automatic transmission",
+              "Front-wheel drive only",
+              "Rated at 26 miles of EV range, 560 miles with gas",
+              "Apple CarPlay, Android Auto standard"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "3,384 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "EX Premium FWD",
+          "price": "$36390",
+          "specifications": {
+            "Notable features": [
+              "Five-seat plug-in hybrid crossover",
+              "Gas-electric hybrid powertrain",
+              "Six-speed automatic transmission",
+              "Front-wheel drive only",
+              "Rated at 26 miles of EV range, 560 miles with gas",
+              "Apple CarPlay, Android Auto standard"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,443 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/e7aa4623-7ccd-487a-a5dd-d70a26397004.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/ee732cd0-9d89-4dbf-bc81-25cc8f72d19a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/123b8de7-a763-4b73-8508-712c17630e16/9e30c958-badf-427a-b577-bc15f5c6a7d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/08014136-7060-4bfc-83c5-bfc11f1de2ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/55a37752-2c6b-4d6f-a359-9fd6ffaebbd0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/99bce566-7615-476d-aebc-51172707acee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/ae3f5a2b-51da-455d-8e48-140fc57ac499.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/8a2dadda-ffc5-4f0a-a8f4-ef65513bf268.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/79c64374-e326-40a2-83a2-ee3b3d162523.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/645c5864-5979-424c-8814-52f396464128.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/95452259-da92-49ea-b007-959bd3b6f218.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/1f372958-0f4d-43e4-b27c-02e4d1a72c09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/f9a4e87c-4f51-4418-b9bc-5c5b5221b69b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/299a02ce-aee9-4395-aa32-90645b355ba4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/30462c86-30cc-4f10-a235-fc72f8157683.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/d01ebec7-2499-409f-9ba9-e388c9760f27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/3ec394f6-d753-4229-bc23-51bee26523b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/19db43cc-f779-4f2c-8bd5-d6ca41af5f21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/af2f70ec-b48a-4f4b-b70b-170bdc9a8f3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/6b32bcd1-980c-4501-ba26-7ed981f74692.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/8a5a6a05-01aa-4bb9-896f-9d53524c43a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/af0b4182-87db-4c8d-aae6-fe34a3d55a35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/57951263-aad6-44bb-bed6-002a3967cc1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/34ea82bf-cc63-46a2-99cb-13229d9e13c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/91e05e87-6671-43d8-a182-359458cb7717.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/92245e52-3c1a-4ac4-8b33-68f7fe2b97f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/a55e1ef6-c3f0-47e6-b1f6-e157ed39c5f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/0fe1c70b-1804-49ca-acf7-601d1c6b2a97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/b6f7a4b6-f88a-4716-8cee-ea3806703cb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/bd04e1aa-1285-4762-83dd-61fcad7ea7b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7029fec3-9e85-4cd8-bdab-0b0b688b93ef/bec57dfb-1522-4b80-b0da-65cff174a629.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$27900",
+          "specifications": {
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "139 @ 5700 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,391 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$31500",
+          "specifications": {
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "139 @ 5700 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "3,391 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX Premium FWD",
+          "price": "$34500",
+          "specifications": {
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,391 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6cd94d14-bcdd-48c5-94b8-df4f0cf58d74/d32019f9-b4fd-4cab-a222-cacb697de1c5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2de72ca4-1ccb-40f6-9e63-933e5401477e/8c5d3e70-d49c-4c08-9043-23894f97c1a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6cd94d14-bcdd-48c5-94b8-df4f0cf58d74/32876423-9c5e-4b35-8456-8990dc3927d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6cd94d14-bcdd-48c5-94b8-df4f0cf58d74/307b6d9d-0553-4906-985f-227f77a23b7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6cd94d14-bcdd-48c5-94b8-df4f0cf58d74/066b776a-608d-4362-a361-496b6abb3093.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "LXS FWD",
+          "price": "$29590",
+          "specifications": {
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$33390",
+          "specifications": {
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "3,384 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "11 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "EX Premium FWD",
+          "price": "$36550",
+          "specifications": {
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,443 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/400f72a9-f34b-4ad5-a061-77dee9938ace.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/1badf113-9f9d-4181-af02-b1e2fc508458.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/5b0cc8e6-1f90-41e7-87bb-1bc69e98f5f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/e25e6926-2ce6-4105-b8b7-6d4a3c6061d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/35718764-d3b1-4ddf-8ff1-bacd7d68cce2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/617cc356-9173-442f-9bc4-9ac5dfca9f55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/cbeabef8-a7f9-4f16-9c64-36f400882144.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/97ab2726-0ca9-4f98-90fc-3eb22c7131ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/a1b83519-f2c5-4fa1-8988-bfd6db3959c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/e1a60d0a-f9d1-4f3d-aa74-283e0dbe185c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/289c5d53-3bfd-4bdb-ba71-0b1ef8ce96a7/a0fe0ce2-41e4-4cc4-b835-4de675e251af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/f8cce123-de3c-40de-bd1e-abf93630c045.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/e5fbcf7c-6423-4b9b-ae96-f1a8fa189ff7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/354d2b5d-59b9-43bc-a397-243a71c428b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/545f8a94-ca9c-4fae-a238-13233575845e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/493e0d88-18ce-49b9-9bdd-05082cb85f53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/24bd8026-f3a0-4d0e-8610-52a0e362aa02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/61d33ce0-4da0-435f-aaa6-ba2045fe61ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/b8dcdefe-171d-401f-8a09-401d36911dbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/6667a274-ad2c-455d-b0be-fe792ce98c13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/d84d3929-b4cd-4f9e-acfa-f6e89684200a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/eb0752c1-c655-40c3-a6c9-6a706b9ff999.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/6e8e4a71-fe94-4ee4-8af8-8e17567161a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/61fe4a01-edbb-4c32-94f8-fc0f5abf7bd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/a43af20c-30d0-437e-8946-59ec0a6728ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/34186f58-e4bb-46cc-9928-20c2b5a19d7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/80910ddf-1994-4e07-bf76-050d78c6b0c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/2461af86-865b-465d-96d6-3817238357f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/ec63a414-c72c-462f-9bc6-37ed5d7c7b3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/36c79371-b889-4858-a780-28e5dfe9e04c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0eaad0-ee51-4c07-ae42-d95e61c0300d/a44e88a9-3fc4-4942-af15-71168c4cb72c.png"
+      ],
+      "expert_review": "What Is the 2019 Kia Niro?\n\nThe Kia Niro is a compact hatchback with room for up to five people. It’s offered with a choice of a hybrid drivetrain, a plug-in hybrid drivetrain or an all-electric drivetrain. All models have front-wheel drive, and competitors include the Toyota Prius and Hyundai Ioniq.\n\nWhat’s New on the 2019 Kia Niro?\n\nThe new all-electric Niro EV has an EPA-estimated driving range of 239 miles on a charge.\n\nWhat Features in the 2019 Kia Niro Are Most Important?\n\nThe Niro drives more like a conventionally powered car than a traditional hybrid thanks to its six-speed dual-clutch automatic transmission, which it uses instead of a continuously variable automatic transmission. Standard features include a 60/40-split folding backseat, dual-zone automatic air conditioning, a 7-inch touchscreen multimedia system with Apple CarPlay and Android Auto smartphone connectivity, and cruise control. Available active safety features include blind spot warning, rear cross-traffic alert, forward collision warning, automatic emergency braking, lane keep assist and adaptive cruise control.\n\nShould I Buy the 2019 Kia Niro?\n\nThe Niro offers respectable hybrid gas mileage without looking like something out of a science-fiction movie. Other practical elements include good visibility, a spacious backseat and low cargo load-in height. However, if all-wheel drive or a lot of cargo room are on your checklist, you should check out one of the many conventionally powered compact SUVs available.",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$28500",
+          "specifications": {
+            "Notable features": [
+              "New all-electric Niro EV model",
+              "Hybrid and plug-in hybrid versions also offered",
+              "Five-seat hatchback body style",
+              "Five-seat hatchback body style Apple CarPlay and Android Auto standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM",
+              "1.6 L/96 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "11 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "3,391 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$32100",
+          "specifications": {
+            "Notable features": [
+              "New all-electric Niro EV model",
+              "Hybrid and plug-in hybrid versions also offered",
+              "Five-seat hatchback body style",
+              "Five-seat hatchback body style Apple CarPlay and Android Auto standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,391 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX Premium FWD",
+          "price": "$35200",
+          "specifications": {
+            "Notable features": [
+              "New all-electric Niro EV model",
+              "Hybrid and plug-in hybrid versions also offered",
+              "Five-seat hatchback body style",
+              "Five-seat hatchback body style Apple CarPlay and Android Auto standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,391 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/827ab717-b108-4b85-b683-5c9c5173872b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/0c8cf39d-5a2b-4c48-96a4-2dbdbe8d9640.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/5d1dad85-3411-4d26-bfdf-aab87ef42059.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/552447d2-9742-45d8-a2fe-129fda5592ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/461d29ae-f912-4930-8b47-5a757d9cd3b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/e96dd923-e604-4c21-b137-aa71f2d6aa56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/03f94c6d-2d59-4a93-8288-fde272a92f6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/0fbc3830-fe9c-406e-9b66-58663bd9177e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/b21ffa58-73a5-4b58-a8dd-c3c7154dc102.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/8ea29758-e866-4555-b0fe-a059f6f2dc5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/fc82869a-e979-45c1-876d-3167b07e6372.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/79957669-55e4-4228-9316-fd87a64d492b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/40fc179e-aa7a-4fae-8a60-348e0275733e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/439f3899-6b11-4b19-a8a2-392914e3e72e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/80de7c03-12b6-415b-bd01-e9bdd1aa091b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/f57795e5-4fef-4a4e-99ab-8f61456956a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/c89a0403-2124-4e87-aee0-36e1be04e7f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/6e4f67d9-7e4c-4936-a175-c3a620e977fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/c4a04f87-d361-4bad-a62c-143788845085.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/ecdf6ffc-f494-468e-bc78-0beb9765abee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/6685ded2-5195-4269-b17a-2bb2f8e43fed.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e4d55db9-4cb4-4b2a-b491-c1c7a85af9b2/6863e0cf-3278-44bc-9eca-eba2210a5134.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/cfb006eb-f5f4-4457-99b5-f98c2cc0ba6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ab756779-a7dd-4e02-9869-7b68462ca6b3/dbb21b30-cbcd-4aa0-b6fa-2796e65e3d2a.png"
+      ],
+      "expert_review": "What Is the 2022 Kia Niro?\n\nA four-door hatchback that seats five, the Kia Niro is available with a hybrid, plug-in hybrid or battery-electric drivetrain, all with front-wheel drive. Competitors include the Subaru Crosstrek Hybrid, Toyota Prius and Hyundai Kona EV.\n\nWhat’s New on the 2022 Kia Niro?\n\nAll Niro variants wear Kia’s new corporate logo. New standard features for the Niro EV include a 10.25-inch touchscreen navigation system and a Harman Kardon premium stereo.\n\nWhat Features in the 2022 Kia Niro Are Most Important?\n\nStandard features include:\n\nDual-zone automatic air conditioning\nCloth seats\n60/40-split folding backseat\n8-inch touchscreen multimedia system\nWireless Apple CarPlay and Android Auto smartphone connectivity\n\nAvailable features include:\n\nPower moonroof\nRemote start\nSimulated leather upholstery\nHeated and ventilated front seats\nHeated steering wheel\n25-inch touchscreen navigation system with wired CarPlay and Android Auto\nHarman Kardon premium stereo\nSatellite radio\nWireless device charging\nAutomatic emergency braking\nLane-keeping assist\nBlind spot warning with rear cross-traffic alert\nAdaptive cruise control with stop-and-go capability\nAutomatic high-beam headlights\nShould I Buy the 2022 Kia Niro?\n\nThe Niro is a great choice for anyone who wants to limit their gas station visits; opt for the all-electric Niro EV and you’ll never have to visit one again, though its EPA-estimated 239 miles of range is significantly less than the Niro hybrid and plug-in hybrid offer thanks to the addition of a gas engine. Agile and easy to drive, the most affordable Niro is the hybrid. Downsides include modest power from the hybrid drivetrains and a lack of available all-wheel drive.",
+      "trims": [
+        {
+          "name": "LXS FWD",
+          "price": "$29590",
+          "specifications": {
+            "Notable features": [
+              "Hybrid, plug-in hybrid and battery-electric versions offered",
+              "Five-seat hatchback",
+              "Front-wheel drive",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,391 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$33390",
+          "specifications": {
+            "Notable features": [
+              "Hybrid, plug-in hybrid and battery-electric versions offered",
+              "Five-seat hatchback",
+              "Front-wheel drive",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/96 Displacement",
+              "Gas/Electric I-4 Engine Type",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "3,391 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX Premium FWD",
+          "price": "$36490",
+          "specifications": {
+            "Notable features": [
+              "Hybrid, plug-in hybrid and battery-electric versions offered",
+              "Five-seat hatchback",
+              "Front-wheel drive",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "26 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "1.6 L/96 Displacement",
+              "139 @ 5700 SAE Net Horsepower @ RPM",
+              "195 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,450 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

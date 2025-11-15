@@ -1,0 +1,544 @@
+{
+  "make": "chevrolet",
+  "model": "prizm",
+  "years": {
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b08e9d65-f5eb-4959-94c7-2e5f7d57ea96/34546216-e919-4c7f-97a7-6bcf8800cf0a.png"
+      ],
+      "expert_review": "If you’re looking for any 1998 Geos, you have a long look coming. Chevrolet has done away with the brand, but the cars survive, now badged as Chevrolets.\n\nMake no mistake though, the ’98 Prizm is still an identical cousin to Toyota’s Corolla. Both are built at the same plant, and both got similar upgrades for the new year.\n\nThat starts with a new set of clothes, fresh, but blandly conservative. Not exactly startling, but safe.\n\nThat bland econocar exterior belies the newfound power under the hood. Now motivating the Prizm is a 1.8-liter double overhead-cam four-cylinder engine, good for 120 horsepower, a 15-horsepower increase over last year. With 66 fewer pounds to move around, it lets this little scooter haul asphalt. Three transmissions are available: A five-speed manual is standard, with three- and four-speed automatics offered as options.\n\nThis is a silky smooth drive train that reeks of refinement and even at full tilt, there’s not a lot of engine noise filtering into the passenger compartment. There’s good power at all speeds — even with the automatic transmission — for safe passing. It never feels underpowered. Yet the power doesn’t diminish its excellent fuel economy, rated at 28 mpg city, 36 mpg highway.\n\nHandling was quite good, thanks to the optional handling package. This includes bigger tires and a front stabilizer bar that allows the already tossable Prizm to be almost athletic. There’s still some body lean, and it’s up to you whether the slight handling difference is worth the extra money.\n\nInside, the Prizm is a mixed bag. While it might be made at the same factory, the seating position is nowhere near as comfortable as its Toyota counterpart. There’s little adjustment for the driver’s seat, which is mounted low in an already low vehicle. The Prizm is an inch lower than its Toyota counterpart. This makes every other car on the road look bigger, even Chevy’s own Cavalier. The seats are spongy and uncomfortable.\n\nThe dash is a model of efficiency, with good ergonomics and high quality switch gear. The dash itself feels cheap, with lots of hard plastic, but it was assembled impeccably. One minor complaint was the new stereo. First, it’s mounted too low in the dash, making it easy to knock the transmission lever, and second, it isn’t as good as Toyota’s radios, with a tinny sound and hard to push buttons.\n\nBut ride comfort was good, as was noise insulation. Trunk space is improved — 12.1 cubic feet can swallow a nice amount of stuff.\n\nSafety is good, too. The front disc-rear drum brakes can be equipped with anti-lock. Side air bags are optional, unusual in this class. Other nice features include an outside temperature gauge, and automatic locking if the car is unlocked for more than a couple of minutes.\n\nOf course, all this niceness isn’t cheap. There are two trim levels, base and LSI. The test vehicle was a fully loaded LSI, with handling package and lots of power goodies. What started out at a reasonable $14,673 zoomed to an eye-popping $19,488, a lot of money for a car this size.\n\nBut if you take it easy on the options, this little scooter will transport you with uncommon comfort, quiet and great economy for years.\n\nJust don’t call it a Geo.\n\n1998 Chevrolet Prizm LSI Standard: 1.8-liter double overhead-cam I-4 engine, power brakes, power rack and pinion steering, rear stabilizer bar, daytime running lamps, remote releases, adjustable seat belts, dual outside power mirrors, full wheel covers, power door locks, floor mats, console with cup holders, cargo area light, rear heating ducts, keyless entry, intermittent wipers, split folding rear seat. Options: Group 3 (air-conditioning, AM/FM-CD player with four speakers, cruise control, handling package, tilt steering wheel, power windows), four-speed automatic transmission, anti-lock brakes, 14-inch alloy wheels, side air bags, rear window defroster, tachometer. Base price: $14,673 As tested: $19,4 88 EPA rating: 28 city, 36 highway",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$12143",
+          "specifications": {
+            "Highlights": [
+              "28 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "122 @ 4400 SAE Net Torque @ RPM",
+              "120 @ 5600 SAE Net Horsepower @ RPM",
+              "1.8L/108 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,403 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn LSi",
+          "price": "$14714",
+          "specifications": {
+            "Highlights": [
+              "28 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.8L/108 Displacement",
+              "120 @ 5600 SAE Net Horsepower @ RPM",
+              "122 @ 4400 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Rear",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,431 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2002": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/6534cab1-565c-484d-ab21-e068a90e1bc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/e34f899e-a146-4b0a-b43d-bb01dc95d2dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/899b5088-b2cb-41be-9141-50d6f1359ae6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/8a2c0797-9ab2-45c5-92bb-6449638d9338.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/cca40eb0-fa0b-477e-ab17-cdc0cca7bd29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/5a338628-59dd-47bf-92c1-1c11d5e1d8e2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/96a809f5-7a92-42c4-9289-6fa295fde89b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/d40d27eb-31fe-4803-87c5-c2db8459995b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/5a857581-84e0-4536-9b7b-c836fe0762cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/319a2480-593d-4680-95b0-26fad3a796ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/706b25b6-2f53-442c-bfaf-dcfe2cbed7ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/a8307d14-9d65-45d4-a71c-4bcc6478d4b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b98822ec-9147-441e-9087-6134887fa967/96a809f5-7a92-42c4-9289-6fa295fde89b.png"
+      ],
+      "expert_review": "Vehicle Overview\nA near-twin of the Toyota Corolla, Chevrolets subcompact front-drive four-door sedan will fade away after the 2002 model year, when Toyota switches to a new Corolla generation. Both models are built at a California plant that General Motors shares with Toyota, and only minor styling and equipment differences separate the two sedans.\n\nChevrolets Prizm has never been as popular as the Corolla. Sales rose during 2000, to 52,116 units, while Toyota moved more than 230,000 Corollas in the same 12-month period.\n\nExterior\nOnly a four-door sedan body style is offered; it rides a 97.1-inch wheelbase and measures 174.2 inches long overall. Thats a hair shorter than the Honda Civic sedan and 7 inches shorter than the Chevrolet Cavalier. Options include 14-inch alloy wheels and an electric-sliding sunroof.\n\nInterior\nSeating five passengers, the Prizm comes in base and more costly LSi price levels. Air conditioning is standard on both models. The LSi has several additional standard features, including power windows and locks, cruise control, a rear-window defogger, tachometer and tilt steering column. Only the LSi comes with a 60/40-split rear seat. A CD stereo is optional. The Prizms trunk capacity is 12.1 cubic feet, with the rear seat in place.\n\nUnder the Hood\nAll Prizms share the same 125-horsepower, 1.8-liter four-cylinder engine used in the Corolla. A five-speed-manual transmission is standard, and three- or four-speed-automatic transmissions are optional. Antilock brakes and side-impact airbags for the front seats are optional.\n\nDriving Impressions\nIn just about every respect, Prizm buyers get the same quality, reliability and smooth, refined performance as those who opt for the Corolla. What they dont get is the Toyota badge. Because the Prizm has been less popular, new or used, it has a lower resale value than the Corolla.\n\n \n\nReported by Jim Flammang  for cars.com;\nFrom the cars.com 2002 Buying Guide;\nPosted on 4/15/02",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$14330",
+          "specifications": {
+            "Highlights": [
+              "29 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "125 @ 5800 SAE Net Horsepower @ RPM",
+              "125 @ 4000 SAE Net Torque @ RPM",
+              "1.8L/108 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,403 lbs Base Curb Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Power Brake Type",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn LSi",
+          "price": "$16395",
+          "specifications": {
+            "Highlights": [
+              "29 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "125 @ 5800 SAE Net Horsepower @ RPM",
+              "1.8L/108 Displacement",
+              "125 @ 4000 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Rear",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,431 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1999": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0891a32a-d1d8-44e1-a9e3-d8468e777eed/0abc427c-8088-4418-a049-63c3c4519e6b.png"
+      ],
+      "expert_review": "One way to get a fix on what’s happening in the world of small sedans is to look through a Prizm — a Chevrolet Prizm.\n\nWhat we see is a car that feels like a scaled-down version of a mid-size sedan, boasts good fit and finish and provides a lot value for the money.\n\nThis compact sedan shares both its basic structure and mechanical components with the Toyota Corolla. Both are produced in the Fremont, Calif., plant that is a joint operation between General Motors and Toyota.\n\nPrizms are available in two models, and our test car was the upscale LSi whose standard equipment includes air conditioning, power door locks, power mirrors, power windows, AM/FM stereo cassette and a 60/40 folding rear seat.\n\nDriving the front wheels is a 1.8-liter, 120 horsepower, 4-cylinder engine that has four valves per cylinder and dual overhead cams. This new all-aluminum engine performs with the vigor of a larger engine, even when mated to the optional four-speed automatic transmission.\n\nIt weighs 64 pounds less than the previous 1.8-liter, uses a serpentine belt to drive accessories and has excellent throttle response because it has been tuned to supply its torque, or pulling power, at fairly low engine speeds. Mileage is about 10 percent better, too.\n\nThis engine is devoid of bothersome noise and vibration; so much so, in fact, that on cool mornings the whine of the transmission was the loudest thing I heard for the first few miles.\n\nTo improve this engine’s exhaust emissions, it has been repositioned in the vehicle so the exhaust manifold sits closer to the catalytic converter. A fast-warming converter reduces emissions and enables the Prizm to meet California’s tough Low Emission Vehicle (LEV) standard.\n\nLike its Corolla cousin, the Prizm rides on a 97-inch wheelbase and has an overall length of 174.3 inches, which puts it in the same category as the Honda Civic, Mazda Protege and Nissan Sentra.\n\nStandard safety features include dual front airbags, three-point safety belts for all passengers, including the one in the center of the rear seat. All belts have pretensioners and force-limiters to improve their effectiveness.\n\nSide airbags ($295) and four-wheel anti-lock brakes ($645) are both optional, and our test was equipped with both.\n\nSound-absorbing foam and asphalt panels located strategically throughout the body cut down on the amount of wind, road and engine noise that finds its way into the passenger compartment. Special seat foam and a special alloy in the steering column isolate the driver from unwanted vibration.\n\nThe instrument panel has large gauges and switches that glide with a satisfying smoothness. Cupholders and storage nooks are plentiful.\n\nWhile the Prizm and Corolla share basic body dimensions, the Prizm’s styling is more lively and youthful.\n\nCompeting effectively in the small car segment requires a serious commitment, and it looks like Chevrolet has made one with the Pri zm.\n\nPrice: The base price of our test car was $14,839. Options included side airbags, electric sunroof, anti-lock brakes, alloy wheels, 4-speed automatic transmission and the LSi package. The sticker price was $18,914.\n\nWarranty: Three years or 36,000 miles.\n\nPoint: The Prizm is a tight, well-built small sedan with an efficient and responsive 4-cylinder engine that sips gas. There is space for four (five in a pinch) and a good-sized trunk.\n\nCounterpoint: A transmission that whined when cold was my only gripe.\n\nSPECIFICATIONS:\nENGINE: 1.8-liter, 4-cyl.\nTRANSMISSION: automatic\nCONFIGURATION: Front-engine, front-wheel drive\nWHEELBASE: 97 inches\nCURB WEIGHT: 2,403 lbs.\nBASE PRICE: $14,839\nPRICE AS DRIVEN: $18,914\nMPG RATING: 28 city, 36 hwy.",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$12393",
+          "specifications": {
+            "Highlights": [
+              "28 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "122 @ 4400 SAE Net Torque @ RPM",
+              "120 @ 5600 SAE Net Horsepower @ RPM",
+              "1.8L/108 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,403 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn LSi",
+          "price": "$14964",
+          "specifications": {
+            "Highlights": [
+              "28 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "120 @ 5600 SAE Net Horsepower @ RPM",
+              "Gas L4 Engine Type",
+              "122 @ 4400 SAE Net Torque @ RPM",
+              "1.8L/108 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Rear",
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,431 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "356 Cold Cranking Amps @ 0° F (Primary)",
+              "80 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2000": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1e82b0a0-75b6-4ca5-a2de-e8f4a4da7021/3c64c3c3-d7aa-4819-8b88-01cd16c9495a.png"
+      ],
+      "expert_review": "Vehicle Overview\nDespite the Chevrolet bow-tie emblem on the grille, Prizm comes from Japanese DNA, not American. Prizm is a kissing cousin of the Toyota Corolla, and both are built at a California plant jointly operated by the two automotive giants. Chevrolet makes minor styling changes and equips its models differently, but Prizm is a Corolla by another name. Prizm is shorter than Chevy’s homegrown Cavalier, but starts at a higher base price: $13,816 vs. $13,065. Based on interior volume, Prizm is a compact and Cavalier is a subcompact.\n\nInterior\nNew standard features on the base Prizm include air conditioning, a four-speaker stereo and floormats. The upscale LSi model adds power windows, a rear defogger, tachometer and tilt steering column. Both models seat five, but only the LSi comes with a standard 60/40-split folding rear seat. Chevy lists trunk capacity as 12.1 cubic feet, not including the folded rear seat.\n\nExterior\nAvailable only as a four-door sedan, Prizm’s overall length of 174 inches is about 1 inch shorter than a Honda Civic sedan and 7 inches shorter than a Cavalier.\n\nUnder the Hood\nPrizm uses the same 1.8-liter four-cylinder as the Corolla, and for 2000 it gains Toyota’s variable-valve technology that boosts horsepower by five to 125. The engine meets California’s Low Emission Vehicle standards. A five-speed manual transmission is standard, and three- and four-speed automatic transmissions are optional.\n\nSafety\nSide-impact airbags for the front seats are optional, an unusual feature for a small car in this price range. Anti-lock brakes also are optional, and daytime running lights are standard.\n\nPerformance\nBecause it is a Corolla in disguise, Prizm offers the same quality, reliability and durability. Because Prizm is not as popular as Corolla, either new or used, it has lower resale value.\n\n \n\nReported by Rick Popely  for cars.com\nFrom the cars.com 2000 Buying Guide",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$13960",
+          "specifications": {
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "122 @ 4400 SAE Net Torque @ RPM",
+              "120 @ 5600 SAE Net Horsepower @ RPM",
+              "1.8L/108 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,403 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn LSi",
+          "price": "$16010",
+          "specifications": {
+            "Highlights": [
+              "28 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "120 @ 5600 SAE Net Horsepower @ RPM",
+              "1.8L/108 Displacement",
+              "122 @ 4400 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "MacPherson Strut Suspension Type - Rear",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,431 lbs Base Curb Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2001": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/b264ce10-6e34-4cec-b41b-23c9aaf53c11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/753b433a-a416-4a84-8cb2-57ea980f68c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/3cdc5c0d-17a7-4156-8802-870c9d7c3c13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/5fd7e7a6-a893-4daa-a0bd-f2c07e32645f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/5b88e0d5-8582-4463-8d8c-53eb456b8327.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/7eee6e2d-8c36-4c8a-b708-4a7441596e1d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/3cdc5c0d-17a7-4156-8802-870c9d7c3c13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/b64ef359-d31c-4891-9956-0d8ce91ef10f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/701f6f12-e080-4f64-9458-975b63edf717.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/4a907f1d-43b5-45c2-b41e-1f863ddbc4aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/90f68bb4-7552-4e9f-aee1-d42328bdf7d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/ed2b20f1-9810-40c3-a033-6295cc4e0a28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/69eabbc9-ac84-4398-b232-241374c374f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/98a6a979-a543-48e0-b335-46dcc7c00ca6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/412a1720-25d4-45f1-9667-539a45effc80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/65d8d228-690d-4542-be76-a9b851b40a55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cf868eb8-0d7b-4155-a87d-5a4e19d698d0/a83f54bd-e325-4d98-b567-8b51df1c85c2.png"
+      ],
+      "expert_review": "Vehicle Overview\nThe Prizm is a clone of the Toyota Corolla with minor styling and equipment differences; but despite its close kinship, the Prizm has never been as successful as its Japanese cousin.\n\nBoth cars are built at a California plant that General Motors shares with Toyota. When Toyota switches to a new version of the Corolla in the next year or two, Chevrolet is expected to drop the Prizm.\n\nExterior\nAvailable only as a four-door sedan, the front-drive Prizm is 174 inches long  about an inch shorter than the Honda Civic sedan and 7 inches shorter than the Chevrolet Cavalier.\n\nInterior\nThe Prizm comes in base and more-expensive LSi price levels. Air conditioning is standard on both, but the LSi has several other standard features, including power windows and locks, cruise control, a rear window defogger, tachometer and tilt steering column.\n\nBoth models seat five, but only the LSi comes with a 60/40 split folding rear seat. Chevy lists trunk capacity as 12.1 cubic feet without the rear seat folded.\n\nUnder the Hood\nThe Prizm uses the same 125-horsepower 1.8-liter four-cylinder engine as the Corolla. A five-speed manual transmission is standard, and three- and four-speed automatic transmissions are optional.Side-impact airbags for the front seats and antilock brakes are optional.\n\nDriving Impressions\nBecause it is a Corolla in disguise, the Prizm offers the same quality, reliability and smooth, refined performance. But because the Prizm isnt as popular as the Corolla, new or used, it has a lower resale value.\n\n \n\nReported by Rick Popely  for cars.com\nFrom the cars.com 2001 Buying Guide",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$14155",
+          "specifications": {
+            "Highlights": [
+              "29 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "125 @ 4000 SAE Net Torque @ RPM",
+              "125 @ 5800 SAE Net Horsepower @ RPM",
+              "1.8L/108 Displacement",
+              "Gas L4 Engine Type"
+            ],
+            "Suspension": [
+              "Coil Springs Suspension Type - Rear (Cont.)",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,403 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn LSi",
+          "price": "$16220",
+          "specifications": {
+            "Highlights": [
+              "29 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas L4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "125 @ 5800 SAE Net Horsepower @ RPM",
+              "125 @ 4000 SAE Net Torque @ RPM",
+              "Gas L4 Engine Type",
+              "1.8L/108 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "Coil Springs Suspension Type - Front (Cont.)",
+              "Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,431 lbs Base Curb Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "80 Maximum Alternator Capacity (amps)",
+              "356 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "10.04 x 0.87 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

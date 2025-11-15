@@ -1,0 +1,909 @@
+{
+  "make": "bmw",
+  "model": "530e",
+  "years": {
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/80e63e9a-a5be-4823-b62f-3b842dce27c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/73179c15-16f0-4551-9edd-0addc7d03c14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/e920ea20-16f6-49c3-8e8d-63f77b1f65bf.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/8db30605-0341-4c23-b154-6e33db286099.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/05260cdc-0666-4f85-8753-e2d80debc04c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/9abfc5a6-59f4-4133-bbcc-22eee34512a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/97e6bcac-8967-4dd0-afb6-cebb12bbabed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/0c85fe78-ba0f-4493-b8ce-60bc6932b044.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/7a1d4fcb-ca32-4c4c-87f8-00df00b751cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/5257811f-4af8-478c-8c3e-cb78918430c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/91421a78-66b2-461e-9698-81bf98798bc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/8db30605-0341-4c23-b154-6e33db286099.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/cfd4321c-7c28-44a8-a79d-633e1de3469a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/e6a23f1c-a46a-41eb-ae28-dbb7bd46cae1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/223bf272-cc4c-486e-8ddc-a174e42cf719.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/fd7052d0-aa95-45fd-b993-a178e407b4f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/9da57e2a-131b-479d-8713-ebfa34c451a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/d46d43e0-9e20-471e-99a2-3e7009e11d87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/ae3c3abe-60d3-4a84-ad2d-cc387db29a3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/e1f3c878-7b67-44a1-a80e-8d844f8c16cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/12eb3a21-3096-455a-9c53-f658509cdced.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/6a19a528-2221-4e2d-8d58-8f23ba6f4edb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/e6843b7c-06d5-4ccc-98da-4c4766a42c5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/c169dd78-af23-4136-8a14-27f4fd41bb7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3cfbd196-1c00-449b-9de5-ba81e9f6be29/0c74f4e7-95e2-44ab-845c-5823fb621151.png"
+      ],
+      "expert_review": "The BMW 5 Series is entering the 2023 model year with some changes in packaging and increased prices as the German automaker’s large four-door sedan aims to stay fresh against a pool of rivals.\n\nRelated: 2021 BMW 5 Series Is Feeling Refreshed\n\nMost updates are found inside, with BMW reintroducing the Executive Package on the 530i, 530e, and 540i variants. The package adds heated front seats (heated rear seats are an extra $500), a head-up display, power-operated trunk, power rear sunshade and side curtains, remote engine start and a Harmon Kardon premium sound system. Additionally, the Premium Package now gets remote start, and the Parking Assistance Package is now only available on the M550i. BMW has removed gesture control from all variants.\n\nMeanwhile, the range-topping M5 loses six exterior colors but adds two new ones (San Remo Green metallic and Skyscraper Grey metallic). Its interior is once again available with the Individual Smoke White with Black Full Merino leather and Tartufo Full Merino leather. Gone is the Bowers & Wilkins Diamond Surround sound system.\n\nThe base 530i model is powered by a 248-horsepower, turbocharged 2.0-liter four-cylinder engine; the 530e combines the 2.0-liter with an electric motor and a 12-kilowatt-hour battery to bump total system output up to 288 hp; the 540i gets a 335-hp, turbo 3.0-liter inline-six; the M550i xDrive gets a 523-hp, twin-turbo 4.4-liter V-8; and the M5 has a version of the 4.4-liter that makes 600 hp (617 hp with the Competition Package). All 5 Series come with a standard eight-speed automatic transmission. Rear-wheel drive is standard; all-wheel drive adds $2,300 to the price of the 530i, 530e and 540i, while the M550i and M5 get it standard.\n\nPricing and Release Date\n\nThe 2023 BMW 5 Series lineup is available now. Full pricing is below (all prices include the $995 destination charge; the M5 includes a $1,000 gas guzzler tax).\n\n530i: $56,995\n530e: $58,595\n540i: $63,895\nM550i: $82,495\nM5: $111,895\n\nMore From Cars.com:\n\n2021 BMW M5: Updates for the Ultimate 5 Series\n2021 BMW 540i M Sport Review: Light on Sport, Heavy on Tech\nIIHS: 2022-23 BMW 5 Series, X3 Upgraded to Top Safety Pick Plus\nMore BMW News\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "530e Plug-In Hybrid",
+          "price": "$57600",
+          "specifications": {
+            "Highlights": [
+              "19 - 21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "310 SAE Net Torque @ RPM",
+              "288 @ 3800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "4,222 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "530e xDrive Plug-In Hybrid",
+          "price": "$59900",
+          "specifications": {
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "310 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "288 @ 3800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,321 lbs Base Curb Weight",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/c721b448-beca-44b5-8a9b-8c6ee5832b26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/6d6e93e5-3f54-4a72-8f24-f646514880e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/c6e416e3-8bfb-45ca-95a5-d263e6ec2930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/dd997fcb-09af-4a36-b569-5aded3f311c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/e4b4443b-b17f-4714-9799-786474ad01cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/a58b22fe-cb28-4420-bd81-048186ed0c7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/3ef92480-2cfc-4547-86a4-3994e40ed6a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/081705b3-48d3-4915-b1b5-f5facc37ff1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/1556c921-05d2-4fe5-a392-130da0864b94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/7dd88781-3f99-41fb-84f6-71a490398381.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/b3daac94-a8f1-4823-a6c5-2a446c2c2347.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/0a8dde19-981a-42be-8dcd-36f298183187.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/a0921c52-d961-4492-9a4a-eac3da3f7c92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/da1dbefa-99a0-4b5a-aba2-f0a3d105c26b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/1f087d6b-ff7a-4835-9704-0a78622e4efa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/29d5bcbd-4661-44a9-9701-4668106174e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/0179cc93-221c-4f2f-be69-17fc75d64acb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/72794093-adab-4709-88da-60a2a367f001.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/04ad0006-d868-4d1a-b92c-00cdafe4ecb4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/973f5992-7f62-412c-be63-3d266b6270a4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4fcbfd21-96e7-4e3e-ac4c-04836a987e42/6d6e93e5-3f54-4a72-8f24-f646514880e1.png"
+      ],
+      "expert_review": "What Is the 2019 BMW 5 Series?\n\nThe 2019 BMW 5 Series is a five-seat mid-size luxury sedan that competes with the Mercedes-Benz E-Class and Audi A6, among others. It offers a choice of turbocharged gas engines as well as plug-in hybrid, M Performance and M5 versions. Rear- and all-wheel-drive models are offered.\n\nWhat’s New on the 2019 BMW 5 Series?\n\nStandard active safety features include blind spot warning, lane departure warning, forward collision warning, pedestrian detection, city collision mitigation and rear cross-traffic alert. Park Distance Control and a one-year trial of Apple CarPlay smartphone connectivity are also standard.\n\nWhat Features in the 2019 BMW 5 Series Are Most Important?\n\nStandard luxury features include wood trim, automatic air conditioning and navigation. Available features include an active suspension, power trunk lid, aluminum cabin trim, Nappa leather upholstery, massaging front seats, a heated steering wheel, a head-up display, wireless device charging, a gesture-based interface, a Harman Kardon or Bowers & Wilkins surround-sound system, a night vision system, adaptive cruise control and a 360-degree camera system.\n\nShould I Buy the 2019 BMW 5 Series?\n\nWhether you’re looking for an efficient luxury car or a high-powered sports sedan, there’s probably a version of the 5 Series that’ll fit your needs. Its high-quality interior impresses and it can be loaded up with tech features, but some shoppers might find the backseat isn’t roomy enough.",
+      "trims": [
+        {
+          "name": "530e iPerformance Plug-In Hybrid",
+          "price": "$53400",
+          "specifications": {
+            "Notable features": [
+              "New standard active safety features",
+              "Apple CarPlay now standard",
+              "Five-seat mid-size luxury sedan",
+              "Turbo four-cylinder (530i) or six-cylinder (540i) engine",
+              "Plug-in hybrid, M Performance and M5 versions available",
+              "Gesture-recognition system available"
+            ],
+            "Highlights": [
+              "16 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "248 @ 4000 SAE Net Horsepower @ RPM",
+              "310 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,266 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "530e xDrive iPerformance Plug-In Hybrid",
+          "price": "$55700",
+          "specifications": {
+            "Notable features": [
+              "New standard active safety features",
+              "Apple CarPlay now standard",
+              "Five-seat mid-size luxury sedan",
+              "Turbo four-cylinder (530i) or six-cylinder (540i) engine",
+              "Plug-in hybrid, M Performance and M5 versions available",
+              "Gesture-recognition system available"
+            ],
+            "Highlights": [
+              "15 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "248 @ 4000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,385 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/a90f240b-e30a-4f6d-a20c-f89b5173c1e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/a9689f43-182f-4f27-a1b4-b3486cfcc31e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/00d3d965-2172-425c-8e7c-01d4a4e9ae07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/efd91205-06d3-4b88-bd71-ee7719dcefb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/8761f1c8-d116-4e18-832c-794aa32064e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/e392074b-e742-485d-9f7b-18610218061b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/858aa4af-deba-4512-bc7c-0d27048e6643.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/6f7ed403-3489-4383-82ea-331ff0096d05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/9d3dbea2-a532-4ace-825a-4f526ab5474f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/84408aff-fffc-4ece-b8b4-c0241b2e75b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/487f1427-b223-43fa-afe1-4bcffdefa272.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/b9559af7-52dc-4f12-933f-e5b13f519c32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/bb9a686d-6312-42ca-84ab-2d8f419a2700.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/fefce8ab-7d1e-48e1-9ee5-ba03eb081830.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/64533da7-8ed5-4b09-bd2f-7fbe9196a23d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/2ce80c92-b379-4991-bfbc-9934cda86659.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/5ca0951b-a960-469a-8785-a31d524cc6ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/02720b56-719c-4668-8200-c08714ff7a7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/8b49e872-21ec-407d-9b9f-6935116a5f90.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f8bb5998-6157-4571-8d72-788143b7e8c3/77eac076-5499-4933-9512-908b8ffa1322.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6e85bd1-af83-40cf-8771-3438ba664c0d/0a4a49e8-f180-47f0-8fd0-8fed55e0522e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "530e iPerformance Plug-In Hybrid",
+          "price": "$52650",
+          "specifications": {
+            "Notable features": [
+              "Mid-size luxury sedan",
+              "Turbo four-cylinder (530i) or six-cylinder (540i) engine",
+              "Gesture-recognition system available",
+              "Remote-control parking available",
+              "Plug-in hybrid, M Performance versions available"
+            ],
+            "Highlights": [
+              "16 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "248 @ 4000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,266 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "530e xDrive iPerformance Plug-In Hybrid",
+          "price": "$54950",
+          "specifications": {
+            "Notable features": [
+              "Mid-size luxury sedan",
+              "Turbo four-cylinder (530i) or six-cylinder (540i) engine",
+              "Gesture-recognition system available",
+              "Remote-control parking available",
+              "Plug-in hybrid, M Performance versions available"
+            ],
+            "Highlights": [
+              "15 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "248 @ 4000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "310 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,385 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/4f59f94b-94e8-4ccf-9908-50395eade960.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/05f9c96f-f4bc-48c6-a3a3-a75209706253.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/b321f8f6-130c-42ad-b56d-c6d70c437bfc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/4994f43d-bc21-49ea-9837-958a4fe46533.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/0c3bede1-04c9-49f2-aa78-b234faea0c8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/ad60a8f2-1b93-41d6-9208-da48df1427a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/11e02c99-37bd-46f2-afb5-70e2d97644ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/d1cedd90-a189-4407-8985-1092e6acc9aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/6cb7ecb7-b79e-493d-bb6e-25da73697850.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/6581b3c5-0040-4575-a34b-474a99e0b742.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/83c57e82-5c3c-4e2c-8b8c-f319318eaa5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/3ab60c09-fb6d-4ae5-8d46-8e2d50e8b0c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/e01d449c-31c3-41e4-b82b-6ced67e1180d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/c58553a3-135d-44e1-937a-55feb3b5824d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/6b063d0e-0b48-46ef-ae4d-23a1bc1f2720.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/4e2830b8-7b25-4aa1-861d-e3a4b753a5f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/0751f54e-f26c-4174-8d99-9f2a58e7b128.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/0074ec26-2d58-4201-bbea-5426319f6f3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/ef973aff-95c2-4db4-9812-0e6f9f8d2911.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/ee29479b-5f06-4a58-9504-ce72a4c2448a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/bfd27027-52d2-40ad-97b8-c6bc60f09447.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/a51a3b92-2fb8-40ef-838e-872d5a47fca3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/bd5714a3-d081-4d46-aa05-49c21fec6b95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/8807c4bb-cf13-4aa1-8ca9-b5f2ac81f06c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/5fe3d7ea-e0d2-4557-8e90-720f5f7b9274.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/6bed8bfd-526c-412d-b8d1-1fc0eb2f4324.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/f0fcd180-f12f-4564-be27-ecfc736af526.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/7ad8fb07-e497-42bc-99f5-004fc76f3cef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/0e4d4f2e-8d4f-4c88-a499-3b1fdcdd945b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/235f1e9e-421b-45ca-95b5-e96deee558dd.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/6b063d0e-0b48-46ef-ae4d-23a1bc1f2720.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a3e97cd-b766-4aab-8ddc-512bef91032c/35faa622-8675-417a-a92b-2a8c6f6c4b0d.png"
+      ],
+      "expert_review": "What Is the 2020 BMW 5 Series?\n\nThe 2020 BMW 5 Series is a five-seat mid-size luxury sedan that competes with the Mercedes-Benz E-Class and Audi A6, among others. It offers a choice of turbocharged gas engines as well as plug-in hybrid, M Performance and M5 versions. Rear- and all-wheel-drive models are offered.\n\nWhat’s New on the 2020 BMW 5 Series?\n\nKeyless entry is now standard. The performance-oriented M550i’s twin-turbocharged V-8 engine is now rated at 523 horsepower and 553 pounds-feet of torque; that’s an increase of 67 hp and 73 pounds-feet of torque from last year, and the sedan’s 0-60-mph time has dropped 0.3 second to just 3.6 seconds. Meanwhile, the 530e gets a larger high-voltage battery pack that increases the car’s all-electric range from 16 to 20 miles for rear-drive versions and from 14 to 18 miles for all-wheel-drive models.\n\nNewly standard features for the M5 include a digital instrument panel and wireless device charging. The M5 lineup also includes the Edition 35 Years, which celebrates 35 years of the M5 sports sedan. Just 35 have been allotted for the U.S.\n\nWhat Features in the 2020 BMW 5 Series Are Most Important?\n\nStandard active safety features include blind spot warning, lane departure warning, forward collision warning, pedestrian detection, city collision mitigation and rear cross-traffic alert. Standard luxury features include wood trim, automatic air conditioning and navigation. Available features include an active suspension, power trunk lid, aluminum cabin trim, Nappa leather upholstery, massaging front seats, a heated steering wheel, a head-up display, wireless device charging, a gesture-based interface, a Harman Kardon or Bowers & Wilkins surround-sound system, a night vision system, adaptive cruise control and a 360-degree camera system.\n\nShould I Buy the 2020 BMW 5 Series?\n\nWhether you’re looking for an efficient luxury car or a high-powered sports sedan, there’s probably a version of the 5 Series that’ll fit your needs. Its high-quality interior impresses and the car can be loaded up with tech features, but some shoppers might find the backseat not roomy enough.",
+      "trims": [
+        {
+          "name": "530e iPerformance Plug-In Hybrid",
+          "price": "$53900",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size luxury sedan",
+              "Turbo four-cylinder (530i) or six-cylinder (540i) engine",
+              "Plug-in hybrid, M Performance and M5 versions available",
+              "Apple CarPlay standard",
+              "Gesture-recognition system available"
+            ],
+            "Highlights": [
+              "21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "248 @ 4000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,266 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "530e xDrive iPerformance Plug-In Hybrid",
+          "price": "$56200",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size luxury sedan",
+              "Turbo four-cylinder (530i) or six-cylinder (540i) engine",
+              "Plug-in hybrid, M Performance and M5 versions available",
+              "Apple CarPlay standard",
+              "Gesture-recognition system available"
+            ],
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "248 @ 4000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,385 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/cf65b4b4-fdfe-40de-ab39-08aae97000ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/9fe595b2-7b44-40d8-800b-39502cb2a4ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/c9acd793-5624-47c4-8112-7e3524e8859a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/a4f21673-d0d6-4669-8816-2f49d1a55f60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/7949a25a-b9a9-411b-b070-4c4c24eee399.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/17e1c33b-3423-41db-b644-1c13893fd5b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/6b39b8db-e65a-49ac-85fd-1bcd3b0dac43.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/47236056-5df7-49e0-9dc3-b5bcfbd8d86c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/6f1e801e-eefd-4542-b2da-0318a7b5dc4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/436a0ee6-56ab-4fb4-a1b8-0b1d753da04d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/75d749db-2676-4160-8460-702ac675780f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/49f6f9c2-bed2-454c-bbf9-a1cdd0ad05d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/9df16e99-393a-4abb-b887-337d91421200.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/ceeae672-7851-41e9-8d12-500169058b2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/7bee2e0d-be9a-473c-a6d3-3f49b644465d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/3611b9f9-b6d3-4bc0-aab8-dcdb21cc948f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/ece49817-eb83-4103-9f42-6b4b913f2e64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/4bba2b2f-11a1-40fe-99a1-0e16f8760f5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/61b1d8bb-4c24-457b-9db7-34620695ba52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/07ce77f0-9534-49cb-bf02-9d75221c1fb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/37da8cb0-86b6-493d-9a49-2372459222b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/782cf34a-3bc2-4efe-851d-c35db9a58d47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/d371787f-76f3-4330-b41d-d12adcb1b63d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4b1e7c65-a3d0-4da8-97d0-cd910cb40934/a2329776-880b-4749-86f9-689d7393d5a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/d3234681-681e-4d08-a859-2dad6b3912e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/12e7f195-06bf-45d5-9f17-a9a88c2e785f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/464665b9-ac2a-4967-a9a7-bf63dcaf18ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/34949ac1-b407-4bc7-8150-5c2c215d4a05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/bf39d120-24cf-4350-8ad9-e5eb00400f43.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3311b9d2-fd89-4b5b-926e-5583b64fd559/fd5fbd00-392b-4dc9-9960-67b235df663d.png"
+      ],
+      "expert_review": "European plug-in hybrid vehicles like the 2021 BMW 530e tend to have a pretty specific purpose in mind: They’re meant to allow drivers to enter European cities that have congestion charges without being charged. Some cities like London or Antwerp charge drivers to enter the city centers in a car, but that charge is lessened or waived if your car is a zero-emissions vehicle. Until pure EVs gain traction among the wider populace, we’ll get vehicles like this one: the 2021 BMW 530e. It features a bigger battery pack than a traditional hybrid that allows it to be recharged from a ground-side charger, enabling the 530e to travel on electricity alone up to 21 miles, according to the EPA, and a total range of up to 340 miles before a refill of the gas tank is required.\n\nFor 2021, the 530e received powertrain updates providing more power and performance, but our curiosity centered around its EV capabilities. How far can it go on electric power alone before the gas engine kicks in? \n\nRelated: 2021 BMW 5 Series Is Feeling Refreshed\n\nThe Ride\n\nBMW updated the 2021 530e along with the rest of the 5 Series lineup. The plug-in hybrid gets a boost to its overall combined power resulting in quicker 0-60-mph times, according to BMW. It’s powered by a turbocharged 181-horsepower, 2.0-liter gasoline engine augmented by a 107-hp electric motor that’s been integrated with the standard eight-speed automatic transmission. The combined output is rated at 288 hp and 310 pounds-feet of torque, an increase of 40 hp over previous 530e models. And when you switch the Driving Control switch into Sport mode, the new XtraBoost feature bumps that by another 40 hp for up to 10 seconds after you floor the accelerator. \n\nAnd lest you think that a 181-hp four-cylinder mated to an electric motor will probably make for tepid performance, know that BMW says the 530e can go from 0-60 mph in 5.7 seconds, which isn’t shabby in the slightest for a mid-size performance sedan. This is all made possible by a 12-kilowatt-hour lithium-ion battery pack, a decent size for this car. Recharging can be accomplished via a 240-volt charger in about two to four hours, depending on how far it has been depleted. All-wheel drive is an option for the 530e, creating the 530e xDrive with 19 miles of EPA-rated EV range and 320 miles of overall range, but my test vehicle was the standard rear-drive model.\n\nThe Route\n\nThe path I take to test electric range on plug-in hybrid models doesn’t vary — I go from Ann Arbor, Mich., to a fixed point in Dearborn, Mich., and back again. It’s a mixed-speed route with a combination of urban stop-and-go driving and higher-speed, divided multilane boulevards. It’s good for providing a variety of conditions, but speed limits are adhered to and acceleration and deceleration are always done at a moderate, easy pace — no stoplight drag races and no slamming on the brakes unless it’s necessary. I also keep the climate control off, which can trigger the gasoline engine in some cars and drop electric range by a couple of miles right off the bat in others. With the tires filled to their manufacturer-recommended settings, off I went yet again.\n\nThe Results\n\nFully charged, the 530e predicted an EV range of 19 miles. This is largely determined from what the car has seen in terms of driving behavior from prior drivers — it extrapolates based on that behavior what you’re likely to expect over the next few miles. Well, I was able to get a bit better than 19 miles — and significantly better than the rated 21 miles. Shifting the car into its electric-only mode, I was able to hit 28.4 miles in the 530e in mixed driving conditions before the gasoline engine popped on. It’s an exceptional result for the car, and if you happen to have a commute that falls inside that range, it’s conceivable that you could use the 530e in electric mode the majority of the time, employing the gasoline engine for highway duty and extended range trips.\n\nThe nice part about the 530e is that it still looks, feels and drives like a BMW. The steering feel is excellent, the ride and handling balance is quintessentially German in its sporty-yet-compliant feel, and additional entertaining driving fun is just a button push away in Sport mode. The only iffy change to the 530e from a standard 5 Series is the regenerative braking. The 530e’s brakes feel like typical hybrid car brakes: They work fine until the last few feet of a stop where they become numb and mushy, making smooth stops often tricky and causing some head-bobbing among occupants.\n\nBut in terms of equipment, style, interior quality, and all the other bells and whistles that you’d expect on a 5 Series sedan, the 530e delivers. The base price isn’t even all that unreasonable: $58,195 for a very well-equipped FWD model. Additional options like $2,500 for white leather interior, $550 for Phytonic Blue Metallic paint and additional packages like the M Sport, Luxury Seating, Shadlowline, Driving Assistance, Parking Assistance and more boosted the price of my test car up to a rather unnecessary $70,495.\n\nNo American city has enacted a congestion charge scheme (yet), so the 530e’s true intended purpose doesn’t exactly fit with U.S. usage, but given its excellent observed EV range and  normal-feeling operation for most driving conditions, it would be an intriguing option to someone who isn’t quite ready to fully dive into a pure EV like a Tesla Model 3.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "530e Plug-In Hybrid",
+          "price": "$57200",
+          "specifications": {
+            "Highlights": [
+              "19 - 21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "288 @ 3800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,222 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "530e xDrive Plug-In Hybrid",
+          "price": "$59500",
+          "specifications": {
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "310 SAE Net Torque @ RPM",
+              "288 @ 3800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,321 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/520852d0-2483-421c-b645-71e0c75b705a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/e583f002-92ae-4eff-b229-9a9eb14c43d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/e8ea9b15-6a42-4f4a-8bf7-3ad3f000d071.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/ea57ad8e-fe7e-492c-a7d3-7e41027bed9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/33bb1e21-a94a-47e2-b87a-194171293725.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/a73d449b-c15c-45e9-9c19-883fd72c162c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/3e8e4e53-26d5-436a-8ebb-7752f54a2286.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/7d23d07a-0d33-48cb-9bb2-809b6628196a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/a6e8cb0f-84b8-4dc9-a2c9-ab0e91c19bef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/bf14209c-dafc-4375-b9ef-9417e6df2250.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/1a816873-8b46-4f5b-8502-bc148dd4503e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/ada6f15a-7b84-4f92-b37e-89905a8acf84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/e779af47-5e51-4f56-afe3-0d370679a236.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/86ff6915-3985-4522-98d4-d5bdcb56061e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4d8686ad-6046-4322-8a96-ce62070fffd4/9ff114db-10f1-4da9-bf16-8eee11775dfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/ae3e01d8-030d-4a7f-a4e4-6db07e49b8a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/3444c015-4248-4545-92e3-8e2819c2786e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/1c24ef67-fd15-4a9d-915e-12105a752475.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/1c1ab8df-078b-4ddb-b077-560aa0928f56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/4d0862ed-e85a-40e7-b9a1-6901c29cab8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/341d9afc-d899-410a-ae0e-27674d6cabd9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/8c40f1f6-46ba-4272-84c2-1a77054c5e9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/cf7266c5-6eef-4e61-8e65-b1074a3e698c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/5e0d5b4d-6ad2-4487-b296-01140bf508c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/55abc1ec-944d-4645-874d-7a55af3621e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/77f6a7aa-fae5-4c4d-b7b1-fdbe291b633c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/1e4d2795-ecbb-44f8-b82b-bef731d2eb8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/56c1d806-d4e2-4ee3-8575-80563ab5a52e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/17a5dd87-f541-4656-a491-61f047babe19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ddc4e6fb-c3f8-4c01-850a-fe98bd91cace/b3b82853-c559-4afa-b850-19152dbcee5e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "530e Plug-In Hybrid",
+          "price": "$55550",
+          "specifications": {
+            "Highlights": [
+              "19 - 21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "310 SAE Net Torque @ RPM",
+              "288 @ 3800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,222 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "530e xDrive Plug-In Hybrid",
+          "price": "$57850",
+          "specifications": {
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "288 @ 3800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,321 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

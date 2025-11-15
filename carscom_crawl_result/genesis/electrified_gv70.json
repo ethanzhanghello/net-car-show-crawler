@@ -1,0 +1,330 @@
+{
+  "make": "genesis",
+  "model": "electrified_gv70",
+  "years": {
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/fd29d656-434e-4e8a-afa7-1de585694af5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/ee715ae0-93bd-45f3-94f2-9407ee66938f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/4db6820b-4344-48f3-aed7-44ccfdb8d53e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/5914535a-7f04-48fd-aa84-cbaf5e99b1b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/80602517-222a-4e7f-be00-1966b79b070b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/24865192-649e-4f91-995a-013708238159.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/56320004-e174-4e66-b501-ae2ba31c7e29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/d4a18c02-d445-4bf5-aaa4-7a97a4915df6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/49a9d543-8391-4178-adef-005e50a08ff9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/b41cfe0b-47dd-410f-b42e-a7dad261fa46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/f2711c49-e468-4903-8dd0-849a488a1768.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/a2c8afdb-9e95-4e2f-9491-00e4d0f24d34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/d046122e-a10e-4193-8e03-472a9fe4567e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/e2890c86-148c-417a-8041-1ff1344d9704.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/e2890c86-148c-417a-8041-1ff1344d9704.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/46662aa8-c8ce-4aca-aa35-98cb4c24f933.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/f6fd6fae-cbb4-4d78-91c4-262c9cd72b02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/f9e29bf2-fdbb-4a9a-8fa1-4fc060bb36ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/14d7f24d-c053-4f78-96b8-a73a052b04be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/30223204-41c9-4e31-96c0-991f47c712d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/6b67aeac-25fb-4607-b57e-b184ad1b2b22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/7b5011bc-cdbf-461c-8b66-1ec4f5caaf79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/6780f9a0-922a-44b8-baf7-081bcbc83aa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/6ab9564a-aaf5-4a32-a596-f09d7d434e8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa5d0c7-7692-4ed6-a5cf-398dffcdb588/87bbbf4b-1235-4c23-8ac6-6194bcb5e019.png"
+      ],
+      "expert_review": "The verdict: A vehicle that combines sport, luxury, comfort and efficiency sounds like a unicorn, right? Well, the all-new 2023 Genesis Electrified GV70 does all of that (minus the rainbows and glitter), and its price is a little bit magical, too. \n\nVersus the competition: The Electrified GV70 is among the nicest-driving EVs on the market, with few of the quirks that plague some of its rivals. It has the classiest interior of the bunch when it comes to design and materials, as well as slick, no-nonsense controls that are easy to use — not a given nowadays.\n\nThe Electrified GV70 competes in the growing luxury electric SUV space against models like the Audi Q8 e-Tron, BMW iX and Tesla Model Y (see their specs compared). It sits alongside the gas-powered GV70 in Genesis’ lineup, and it’s the brand’s second all-electric SUV after the smaller GV60. It looks a lot like the gas-powered GV70 (which is a very good thing), with a couple of subtle differences. For one, the Electrified GV70’s grille wears what Genesis calls a “G-Matrix” design, which is solid instead of open because there’s no internal-combustion engine to cool. The grille also cleverly hides the SUV’s charge port, which can be found behind an integrated cover (see the Electrified GV70 and GV70 compared).\n\nRelated: 2023 Genesis Electrified GV70 Up Close: Hiding in Plain Sight\n\nBoost Is a Blast\n\nThe Electrified GV70 is a joy to drive in many ways; this SUV is not a one-trick pony. From a stop, power is nearly instant and smooth. Around town, the Electrified GV70 feels nimble in corners, with an overall sporty quality that’s similar to the gas-powered model. Although EV components make it 529 pounds heavier than the V-6-powered GV70, that extra weight isn’t apparent in its handling. Overall, it’s entertaining and engaging to drive.\n\nAt higher speeds, the Electrified GV70 is a sedate highway cruiser, with smooth, ample power and calm road manners. The ride is on the firm side, but it remains comfortable. A touch of a button, however, takes things from mild to wild.\n\nPressing the Boost Mode button on the Electrified GV70’s steering wheel unlocks an additional 54 horsepower for 10 seconds, increasing total output to 483 hp. On paper, this enables the SUV to go from 0-62 mph in just 4.5 seconds, according to Genesis. In real life, it translates to thrilling, pin-you-in-your-seat fun that I couldn’t get enough of. Just do your passengers a favor and warn them before you press it; I first tested it out while pulling away from a toll booth, and my passengers were not ready (namely my husband, who was trying to take a sip of iced tea).\n\nPower comes from two 160-kilowatt electric motors paired with a 77.4-kilowatt-hour battery pack. The motors are mounted in the front and rear, giving the Electrified GV70 all-wheel drive, but the SUV has a system that automatically determines when only two wheels are needed and disconnects one motor to conserve energy and boost driving range.\n\nOn a full charge, that driving range is 236 miles, which is on the low side in its class. The 2024 Q8 e-Tron, 2023 iX and 2023 Model Y all come in higher, with standard driving ranges of 285, 324 and 279 miles, respectively.\n\nI did, however, find the Electrified GV70’s range estimate to be conservative: When I traveled 72 miles, for example, I used only 67 miles of range. Driving range can be influenced by several variables, including drive mode, air-conditioning use and braking setting. I chose to drive both legs of that 72-mile trip in Eco mode in order to maximize range, and while this dulled acceleration a bit, it was still plenty strong. I also used the air conditioning and engaged an i-Pedal setting that maximizes the regenerative braking system and activates one-pedal operation. This maximizes range while also adding convenience in around-town driving.\n\nUnlike some other EVs, I found the Electrified GV70’s regenerative braking system to feel natural and predictable, but I didn’t love its controls. The system’s strength can be dialed up or down via steering-wheel paddles, which is also how you engage the one-pedal driving setting. I’d prefer a simpler setup, such as a console button, to engage and disengage it.\n\nWhile its range is on the lower end in its class, the Electrified GV70 has an edge when it comes to fast-charging times. Genesis says it takes approximately 18 minutes to charge the battery from 10% to 80% when using a DC fast charger that’s delivering more than 250 kW of power. Audi, meanwhile, says the Q8 e-Tron’s battery can fast-charge from 10% to 80% in as little as 31 minutes, though the resulting driving range would be greater than the Electrified GV70’s. Genesis has partnered with Electrify America to provide Electrified GV70 owners with three years of complimentary 30-minute DC fast-charging sessions.\n\nThe Electrified GV70’s onboard charger can accept up to 10 kW of power from a Level 2 home charging system, and Genesis says it takes around seven hours to charge the battery from 10% to 100% with a charging setup capable of delivering this level of power. Both the Q8 e-Tron and iX have higher-capacity batteries that take longer to fully charge when being supplied with the same level of power, but they also have longer estimated ranges than the Electrified GV70 when fully charged.\n\nThe Electrified GV70 has a vehicle-to-load feature that can supply up to 3.6 kW of power to run a small electric appliance. For giggles, I plugged a blender into the SUV’s household outlet, and it worked; this feature would be convenient for tailgating. Our Best of 2021 winner, the Ford F-150, has an available Pro Power Onboard generator system that can supply up to 7.2 kW of power, which we found pretty useful and used to power a lot of stuff.\n\nSlick, Easy Tech\n\nAside from a couple of hiccups, the Electrified GV70’s infotainment system is a winning combination of modern and easy. It mirrors the gas GV70’s setup with a standard 14.5-inch multimedia touchscreen that’s paired with an available 12.3-inch digital instrument cluster (an 8-inch screen with analog gauges is standard). Like other Genesis and Hyundai models (Genesis is Hyundai’s luxury brand), the system features slick graphics, an easy-to-use menu structure and a responsive screen. There are also physical volume and tuning controls conveniently placed near the (redundant) multimedia control knob on the center console.\n\nClimate functions can be controlled by a separate touchscreen or more traditional dials and buttons located below the multimedia screen. All the controls are logically arranged, responsive and easy to use when driving.\n\nA few things did annoy me, however. While many brands — even mainstream ones — are moving to wireless Apple CarPlay and Android Auto connectivity, that’s missing from the GV70. Smartphone integration in this SUV requires a wired connection, and reaching the touchscreen also required a bit of a stretch for me.\n\nAnd back to that multimedia control knob: It’s both redundant and unnecessary. Using the touchscreen is much simpler and less distracting while driving. What’s more, the knob’s placement isn’t ideal, as it sits too close to the gear shifter — which is also a knob.\n\nOn the safety front, standard features include automatic emergency braking (forward and rear), lane following assist, rear cross-traffic assist, blind spot collision avoidance assist, a blind spot monitor in the instrument cluster, adaptive cruise control, rear occupant alert and safe exit assist.\n\nRemote smart parking assist is also standard, and with the press of a button on the key fob, it can automatically park the Electrified GV70 in perpendicular or parallel spots.\n\nOther available tech features include some pretty wild entries, such as a remote image capture system. Cameras on the GV70 can monitor it and the surrounding environment, and you can access them via a Genesis Connected Services app. Another is a standard fingerprint authentication system, which allows you to use your fingerprint to both start the vehicle and load personal settings for things like the seats and the multimedia and navigation systems.\n\nLuxe Front and Back\n\nAs with the exterior, the cabin’s vibe is simple yet elegant, highlighted by a classy design and high-quality materials. My test car had a Glacier White interior, which gave the cabin an open feeling, and lovely ivory Nappa leather seats (both elements are part of a Prestige Package). It’s a stark contrast from the Model Y’s spartan, bland cabin.\n\nAmbient lighting around the doors, dash and center console adds some visual interest, and the colors are cleverly tied to the vehicle’s drive modes. For example, when you engage Boost mode, the ambient lighting changes to red.\n\nUp front, driver comfort and visibility are excellent thanks to plush seats and clear sight lines. In back, the seats power recline for added comfort, and there’s decent legroom for two smaller adults; a third could fit in the middle seat in a pinch. By the numbers, the Electrified GV70 has less rear legroom than its competitors, and one 6-foot-plus editor of ours said he needed more space; at 5 feet, 6 inches tall, I had ample room.\n\nUnfortunately, there’s not quite enough space to comfortably accommodate rear-facing car seats, which take up a lot of room. In our Car Seat Check, the Electrified GV70 earned a high grade for its easy-access lower anchors, but its grades dropped when it came to accommodating rear-facing infant and convertible seats, both of which reduce front-passenger legroom. Check out the full Car Seat Check for more.\n\nThe Electrified GV70’s cargo area measures 28.7 cubic feet, according to Genesis’ measurements, which is similar to the gas GV70. Highlights include a wide cargo opening, a shallow underfloor storage bin and a small netted storage area on the side that’s good for corralling small things. For more space, the backseat folds in a 60/40 split via handy cargo-area levers. There’s also a small front storage area under the hood.\n\nMore From Cars.com:\n\nGenesis GV70 EV Brings Ultra-Fast Charging, High-Power Boost Mode\nGenesis GV60 Makes Surprise Appearance as Brand’s First All-Electric SUV\nWhat to Know Before Purchasing an Electric Vehicle: A Buying Guide\nWhat Does the EV Tax Credit Overhaul Mean for Car Shoppers?\nShop for an Electric Car\nThe Price Is Right, But Your State May Not Be\n\nThe Electrified GV70 won me over big-time, but there are two caveats.\n\nFor one, it’s only available in 23 states as of publication (limited distribution has been an issue for other all-electric models from parent company Hyundai). Second, it’s priced appropriately for the luxury segment but is not currently eligible for a $7,500 federal tax credit as the Model Y and Cadillac Lyriq are. The 2023 Electrified GV70 starts at $67,550 (all prices include destination). The 2024 Audi Q8 e-Tron and 2024 BMW iX have higher starting prices ($75,595 and $88,095, respectively), and the Tesla Model Y, which loses points for its confounding controls and unluxurious interior, has a significantly lower $49,380 starting price, though it can go even lower thanks to its tax credit eligibility.\n\nWhile the Electrified GV70 won’t work for everyone, it should be at the top of the list for luxury EV shoppers. It delivers high levels of refinement on multiple levels, from its coddling cabin to its composed, confident road manners — and if that sounds boring, there’s always Boost mode.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/122be0c9-56c8-4892-b876-e48e923380b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/86cea4aa-be09-4835-8d61-a7d0122e3e6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/5f605b27-3062-4105-97ff-7c0bbafd271e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/c118e121-d74a-4cee-b88a-ad9cfd648d64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/afcc74fc-0ca1-4fea-bce0-ff4a62d90d8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/13100220-426a-4561-af48-6ad65dc43f6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/c2eb0186-1faa-4f2b-b5c8-4f0e3d517680.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/e8da3759-a5f5-4723-ae4b-4a4cc436c407.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/a9ebcf6f-5318-4976-bfa0-6690ced50d10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/6474f854-800d-4056-88ac-6c17214cc2ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/5d5fe87a-590f-4c72-ac88-549af693e78a.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/966ce839-3544-448d-9b13-8ce88e6d121f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/ae331523-74bf-41cb-8903-2d1351cbfd0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/705ae36d-8df9-47f2-94ae-9be1db9f3f82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/3ddea131-63fa-41b0-b774-a4028c4cc76d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/5a75b857-a92f-48d1-a6fb-7536a4d6045e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/45f338d0-b7b6-4070-8da2-0ec3e59ce6c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/91265f4b-42f0-4a95-b030-bf679da8e3b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/8ac4fcc4-3134-499a-87fe-e34593cb00ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/5e5afdb0-dae3-4925-84ec-128d58937378.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/84c7bc5e-af67-40fb-b132-0269b8cd5ce1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/9fa008ad-c3d3-475b-bc9b-e6b0324b0d20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/64cd1031-ec24-4d3e-a673-ca8ab4359729.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/81f1e489-0738-46c4-9e4e-c0060ce8767e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/9fa008ad-c3d3-475b-bc9b-e6b0324b0d20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e711c60-2d82-4933-bd63-6ca3bda48ae9/186dbd59-40fb-4276-a2a3-323de9167f86.png"
+      ],
+      "expert_review": "What Is the 2025 Genesis Electrified GV70?\n\nThe Genesis Electrified GV70 is a five-seat luxury compact SUV that’s an all-electric version of the gas-powered GV70 (reviewed separately on Cars.com). The Electrified GV70’s powertrain uses two electric motors to produce 429 horsepower (which can be bumped to 483 hp in 10-second bursts via a Boost Mode). A long list of standard comfort and technology features includes a fingerprint authentication system, which allows you to use your fingerprint to both start the vehicle and load personal settings for things like the seats and the multimedia and navigation systems. The Electrified GV70 competes with the Acura ZDX, Audi Q4 e-Tron and Q8 e-Tron, and Cadillac Lyriq.\n\nWhat’s New on the 2025 Genesis Electrified GV70?\n\nThe Electrified GV70 is easier to find for 2025, as it’s now available in 37 states (up from 23 states for 2024). Wireless Android Auto and Apple CarPlay are now standard along with Genesis Connected Services for remote vehicle access. \n\nHow Much Range Does the 2025 Genesis Electrified GV70 Have?\n\nThe Electrified GV70’s EPA-estimated driving range is 236 miles.\n\nHow Long Does it Take to Charge the 2025 Genesis Electrified GV70?\n\nAccording to Genesis, the Electrified GV70 can be charged from 10% to 80% in as little as 18 minutes on a 250-kilowatt DC fast charger, or from 10% to 100% in about seven hours on a standard 240-volt Level 2 charger. \n\nWhat Features in the 2025 Genesis Electrified GV70 Are Most Important?\n\nStandard features include:\n\n14.5-inch touchscreen\nDigital instrument panel\nWireless Apple CarPlay and Android Auto\nWi-Fi hot spot\nNavigation\nWireless device charging\nLeather upholstery \nHeated and ventilated front seats\nTri-zone climate control\nPanoramic sunroof\nSurround-view parking camera\nRear cross-traffic alert and blind spot warning\nAdaptive cruise control\nSafe-exit assist\nDriver drowsiness monitor\n\nAvailable features include:\n\n15-speaker Lexicon stereo\nHeated rear seats\nHeated steering wheel\nPull-up rear window shades\nNappa leather upholstery\nSynthetic suede headliner\nHead-up instrument display\nShould I Buy the 2025 Genesis Electrified GV70?\n\nThe gas-powered GV70 is already a standout luxury compact SUV, and the Electrified GV70’s all-electric powertrain only enhances this vehicle’s premium feel. The dual electric motor system is smooth, whisper-quiet and incredibly fast, but its driving range is mediocre — and like most electric vehicles, it tacks on a significant price premium over an internal combustion engine. The Electrified GV70’s conventional exterior styling and interior layout are refreshing compared with some aggressively unorthodox EV rivals. All GV70s come standard with a long lineup of comfort and tech features, and the cabin deserves credit for its modern design and refinement — even if the touchscreen is placed too far from the driver and its console-mounted control dial is easily confused with the rotary-style shifter.",
+      "trims": [
+        {
+          "name": "Base_Price_61770",
+          "price": "$61770",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/51bbf413-0261-4dd8-9d11-48c7adb687e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/9eaf4e11-e519-48a7-8d44-400885dfab96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/11ae437b-6864-4327-9a06-ed671cb462a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/f24d68b8-877e-41dd-9330-479bf4e4e56b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/78ec4c75-e303-4818-a7e7-a5ccd4dd887e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/9714a7d8-3caa-4a06-935b-5fdc88680833.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/e126ca9b-ea30-428e-90bb-3e7763d51a9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/2e8af32a-7e47-4476-8496-4c5b1875135a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/475a54ec-2b5d-4413-8850-c7a17681e9e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/491475ae-fa78-4119-ba43-bfff6d3dc2ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/aeaf63da-734c-44d4-a90c-6f8afd44a22c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/92f14954-40da-4b2c-8d20-b0af38abe790.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/b4f81e99-b279-43d4-83ca-161b868cd493.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/46107d2a-4035-4d30-8f3b-d155a30fea7f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/ead84a8d-1185-4327-a41c-58fac073687a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/b2d578c2-a059-4b9e-b3ce-73a5f5325df2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/104c694b-87cd-42b7-8005-9c8d781776ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/4c8391af-d1da-4ff6-a515-57621952a454.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/245341da-fc0d-41ba-8205-ad8191113f91.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/7b2c2aca-f266-47ee-a9bc-3893b6aced0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/5c59767c-5ce3-468d-bf39-73c4fa7a6ee4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/94d4026a-4e4f-488c-a72f-84f93fbcbc0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/d87dcdb0-bb95-46b5-9e55-23f07f650f91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/ead84a8d-1185-4327-a41c-58fac073687a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/a32fac93-30d3-4e5a-b674-8ca69bbcd340.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e300871-2767-4a99-8644-d45bf4e3b59e/736682b3-c5cb-4694-b843-e3a7b4564914.png"
+      ],
+      "expert_review": "The South Korean Hyundai-Kia conglomerate hit the ground running in the electric-vehicle market, racking up awards from around the industry, and half of the lineup from Hyundai’s luxury spinoff Genesis is electric. As we found in our review linked below, the clumsily (but accurately) named Electrified GV70 shares much of those vehicles’ excellence. It also shares in their value: While nothing significant changes for 2024 (unless a newly standard Wi-Fi hot spot or five new paint colors change your buying decision), nothing needed to. For the new model year, the Electrified GV70 starts at $67,645 (all prices include $1,195 destination).\n\nRelated: 2023 Genesis Electrified GV70 Review: EV Luxury From Mild to Wild\n\nPricing and Trim Levels\n\nOn sale now, the 2024 Genesis Electrified GV70 starts at $67,645 for the Advanced trim and $74,445 for the Prestige.\n\nAll 2024 Genesis Electrified GV70s come with a 77.4-kilowatt-hour battery pack good for an EPA-rated 236 miles of range. Dual motors grant it 429 horsepower and all-wheel drive, while Boost mode can increase output to 483 hp for up to 10 seconds at a time. With this engaged, the Electrified GV70 can hit 62 mph in a claimed 4.5 seconds.\n\nThe SUV also comes with the trick Road Preview, an advanced suspension system that uses a camera to scan the road ahead and proactively prepare the adaptive suspension for upcoming bumps, potholes and other surface irregularities. (Other such systems are normally found on six-figure flagships, where they’re still an added-cost option.) Additionally, the Electrified GV70 Advanced includes keyless entry and starting, a panoramic moonroof, leather upholstery, heated and ventilated front seats, and a 14.5-inch touchscreen with navigation, satellite and HD radio, Bluetooth, Apple CarPlay, Android Auto and wireless phone charging.\n\nStandard safety equipment includes forward collision warning with automatic emergency braking, pedestrian detection and junction assist; lane departure steering assist; blind spot monitors; rear cross-traffic alert with emergency braking; adaptive cruise control; a 360-degree camera system; and front and rear parking sensors.\n\nFor the additional $6,800, the Prestige trim adds Nappa leather seats, a synthetic leather dash and synthetic suede headliner, 12.3-inch digital instrument cluster, head-up display, heated steering wheel and second-row seats, and a 15-speaker Lexicon audio system. Passersby can identify the Prestige by its white brake calipers.\n\nFor now, the Electrified GV70 is only for sale in 23 states — distribution being a problem with Hyundai EVs, as well. If you can get your hands on one, you’ll find it packed with value.\n\nMore From Cars.com:\n\nHow Do Car Seats Fit in a 2023 Genesis Electrified GV70?\n2023 Genesis Electrified GV70 Up Close: Hiding in Plain Sight\nWhat’s New With Electric Vehicles for 2023?\nMore of a Good Thing: 2024 Genesis GV70 Gets More Standard Equipment\nGenesis GV70 EV Brings Ultra-Fast Charging, High-Power Boost Mode\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_38222",
+          "price": "$38222",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/97867836-70ad-4801-bca5-fbcd354be68d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a9f3d3b6-bf52-4e6f-ab31-74077e860839/0b2b7da4-facb-496e-97c5-9b082b423faa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/624fed35-f442-4ff4-af9f-f2f8934cb9b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/3f8ec8a6-72d1-4c01-97f8-f3514987fb1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/b026748e-3934-4123-bb06-f116b243583c/c236b6d0-fd8b-4206-a13f-74c151643171.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/469e0ddb-e3e5-4866-a20c-82b7dfa33c0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/45a9b02b-0f8a-4e93-927e-c817bf93ff56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/aa01f920-03db-4252-b61c-8057efcd0afb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/a3d3b130-f6ae-4aba-9ce4-c207b566a54f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/6950be98-5975-4fdd-b209-d383e4263d9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b026748e-3934-4123-bb06-f116b243583c/a3f81320-0f2a-4874-a200-153770768410.png"
+      ],
+      "expert_review": "Since it was introduced in 2021, the Genesis GV70 compact SUV has become one of the South Korean luxury brand’s most popular models. So it was about due for its first refresh, and that’s what’s arrived for the 2026 model year for both the gas-engine and all-electric versions. But don’t feel bad if you gaze upon the SUVs pictured here and think “… What exactly did they change?” Despite brand representatives hyping up the new GV70 as the “next direction of Genesis design language” before the tarps came off, many of us in the audience looked at each other in confusion as soon as they were uncovered. They didn’t seem any different.\n\nRelated: More 2024 L.A. Auto Show Coverage\n\nBut they are, in subtle ways. This can be best described as a mild refresh and certainly stops short of a full redesign. The biggest design changes include new headlights and taillights, new grilles and a new power-actuated charge port door for the Electrified variant (which gets a new Tesla-style North American Charging Standard port as standard equipment). There are some new wheel styles and paint colors, as well, but overall, the shape, trim and general look of the GV70 isn’t any different than the outgoing model’s. Only true brand aficionados will be able to tell it’s a new 2026 model if they passed it on the street.\n\nThe New Display\n\nInside, there isn’t too much difference, either, with the grand exception of the new 27-inch display panel. It combines the gauge cluster and center console multimedia display into one big, tacked-on-looking panel that frankly looks completely incongruous with the rest of the GV70’s lovely interior. The GV70 has long been known for its ellipsoid shapes and flowing lines; the big, ugly panel perched atop the dash is in keeping with the trend that a number of automakers are perpetuating (see: BMW, other Hyundai/Kia/Genesis models, some Fords and some GM products), but it’s a disappointing addition to the GV70’s otherwise beautiful cabin. A new D-shaped steering wheel is also available, but it’s flat on the bottom instead of the top, so seeing all of the new gauge display becomes an issue.\n\nThe rest of the interior is just as nice as the outgoing model’s, which has long impressed us with the tactile quality of its knobs and buttons, the material quality of its upholstery and trim, and the comfort for both front and backseat passengers. Visibility is still good, comfort is still excellent, and cargo room is perfectly adequate. The technology in the GV70 is still top notch, too, with some of the best multimedia controls on the market, especially in the luxury segment.\n\nMore Electric Capability\n\nSome of that new technology is exclusive to the Electrified GV70, including the appearance of the Tesla-style NACS charge port, which replaces the old Combined Charging Standard-style port that had been the previous industry standard. Genesis says that the all-electric SUV will ship with this new-style port, opening up easier charging at all of Tesla’s Supercharger network stations. A new 84-kilowatt-hour battery — larger than the outgoing model’s 77.4-kWh battery — should provide for improved range for the vehicle, too. The current one is rated at 236 miles of range by the EPA, but Genesis didn’t say how far the new model can go.\n\nThe changes for the 2026 GV70 are subtle, and you might have to squint to see them. But aside from the disappointing switch to the big, soulless rectangular panel display inside, they should prove to keep the bestselling Genesis in North America as popular as ever.\n\nMore From Cars.com:\n\n2025 Genesis G80 Gets Minor Face-Lift, Priced From $58,350\n2024 Genesis G80 and G90 Earn IIHS Top Safety Pick+ Status\nIs the Genesis Electrified GV70 a Good Electric SUV? 6 Pros, 3 Cons\n2023 Genesis Electrified GV70 Review: EV Luxury From Mild to Wild\nResearch the Genesis Electrified GV70\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Standard AWD",
+          "price": "$64380",
+          "specifications": {
+            "Highlights": [
+              "236 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 SAE Net Torque @ RPM",
+              "429 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,201 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Advanced AWD",
+          "price": "$69250",
+          "specifications": {
+            "Highlights": [
+              "236 - 238 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "429 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "3,500 lbs Maximum Trailering Capacity",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "5,311 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Prestige AWD",
+          "price": "$75350",
+          "specifications": {
+            "Highlights": [
+              "236 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 SAE Net Torque @ RPM",
+              "429 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,311 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Optional Automatic Parking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

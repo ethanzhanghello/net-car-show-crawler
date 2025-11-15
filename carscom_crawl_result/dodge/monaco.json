@@ -1,0 +1,24 @@
+{
+  "make": "dodge",
+  "model": "monaco",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ec46a0c1-8af3-40af-9b6f-4c1a578c1376/c26145e3-3e20-4862-8ca0-dce94619abf4.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan LE",
+          "price": "$14354",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan ES",
+          "price": "$17203",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

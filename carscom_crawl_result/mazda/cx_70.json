@@ -1,0 +1,726 @@
+{
+  "make": "mazda",
+  "model": "cx_70",
+  "years": {
+    "2024": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5cb099ee-be70-4b24-bee4-8e8db3bfa49d/90ef3c8c-9b2e-42c3-b874-9397a7479efd.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3.3 Turbo Preferred AWD",
+          "price": "$42250",
+          "specifications": {
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 2000 SAE Net Torque @ RPM",
+              "280 @ 5000 SAE Net Horsepower @ RPM",
+              "3.3 L/200 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,782 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo Premium AWD",
+          "price": "$46280",
+          "specifications": {
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "3.3 L/200 Displacement",
+              "280 @ 5000 SAE Net Horsepower @ RPM",
+              "332 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,782 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo Premium Plus AWD",
+          "price": "$49570",
+          "specifications": {
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "3.3 L/200 Displacement",
+              "280 @ 5000 SAE Net Horsepower @ RPM",
+              "332 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,782 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo S Premium AWD",
+          "price": "$53240",
+          "specifications": {
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "3.3 L/200 Displacement",
+              "340 @ 5000 SAE Net Horsepower @ RPM",
+              "369 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,848 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo S Premium Plus AWD",
+          "price": "$56670",
+          "specifications": {
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "3.3 L/200 Displacement",
+              "340 @ 5000 SAE Net Horsepower @ RPM",
+              "369 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,848 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/372c91e9-48e9-4feb-984e-79b36a8c2422.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/dff65999-aa74-4e46-b5b0-f82eb8a625d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/265d6666-26c6-4226-b8b0-1602feea73d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/7fb4e5f1-2126-4a99-a5b2-42526843958d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/65a8e78c-d795-406f-b51d-82be9d9a175b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2c988135-f12a-486a-8c1a-b80a88cc2596/40385724-48de-4a73-a8a0-dfa9e624ba21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/4ce26e6a-02c3-4545-8add-b0135cdde134.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/7cb93e80-35b6-4157-a533-dc1ec27e5195.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/9bb35a34-0ad3-49ee-8557-6caf93cab5d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fba2b0e5-6d92-4e66-a971-4731907c84aa/6d95f077-c011-4f50-a71b-a6190b7ed52e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/43542e3b-3066-49bc-979e-dde46d3b1dce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/0533e2ae-54af-4778-a534-e54a5ae2ab66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/f707fe83-fcb6-40e7-8a32-7dacc3b541b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/406acb56-a4b7-4048-bd80-40d08c594539.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/1da80d79-9119-4017-8c41-3f612089c244.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/793d8e80-e811-4df2-a82b-37bbae55cd16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/658542f4-1f01-45b2-a9b9-d3bafbe93c4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/d92b46ad-afbe-44f8-a164-2b5d33f82c26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/ba503cb5-3dcb-4f23-8a12-c01dbe990f7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/e7b0217e-6f31-4ee5-8a69-b7273e2d75bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/77746909-fb2e-4752-95ce-f846eff11559.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/731fcc45-b8dc-410f-a6f1-de6714d834b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/17e01812-7b69-4794-8fe6-c6ca0dd1632c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1388ea0b-cae6-4060-8b83-c335595d9c7a/fe8f468d-ef34-4e2d-943b-0c8324f480c7.png"
+      ],
+      "expert_review": "Mazda, like so many other automakers, has wholeheartedly gone in on the idea of replacing sedans and conventional cars with crossovers. The Japanese brand’s showroom is full of ’em: The CX-90 is the three-row big daddy up top; the CX-50 takes the sporty two-row role; the CX-5 is a Toyota RAV4, Nissan Rogue and Ford Escape fighter; and the CX-30 is the cheap and cheerful subcompact. Into this mix of quasi-truckiness Mazda has introduced a new model: the 2025 CX-70 two-row mid-size SUV. But there’s a twist: If you think the CX-70 pictured here looks a lot like the big CX-90, you’re right, it does. It basically is a CX-90 but without a third row of seats.\n\nRelated: 2024 Mazda CX-90 Review: More Than Mainstream\n\nWhy’d Mazda do this? Reasons vary, and none of the explanations coming from Mazda really seem to explain it, especially when the company makes a distinctive CX-60 model for other markets that would seem to slot in well between the CX-50 and CX-90. Alas, the strategy Mazda has taken is to eliminate the CX-90’s third row, black out all of its chrome trim, offer up some unique exterior and interior colors, and keep all of the available powertrains. But taken on its own, is it any good? And is it worth choosing over a CX-90?\n\nSpot the Differences\n\nFrom the outside, you’re going to be hard-pressed to tell the two-row CX-70 from the three-row CX-90, but there are a few differences. First, there’s no chrome trim; exterior trim pieces have shiny painted black or matte anthracite gray finishes. The CX-70’s front bumper design is also different from the CX-90’s, with two hexagonal elements flanking the lower air dam instead of the CX-90’s slimmer inlets. There are different wheel designs and the badge on the liftgate, and that’s it — same sheet metal, same glass, same design.\n\nSame powertrains, too: a turbocharged straight-six-cylinder gas engine with 48-volt mild-hybrid technology or a plug-in hybrid system with a four-cylinder gas engine. The base turbocharged 3.3-liter straight-six makes 280 horsepower and is available for 3.3 Turbo Preferred, Premium and Premium Plus trims, while a 340-hp version of the engine goes in 3.3 Turbo S Premium and S Premium Plus variants. The PHEV combines a 2.5-liter four-cylinder with a 68-kilowatt electric motor for 323 hp system total and is available only in PHEV Premium and Premium Plus trims. All-wheel drive is standard on all versions. I was able to sample a loaded-up PHEV version of the ’25 CX-70 at the Midwest Automotive Media Association’s 2024 Spring Rally in Elkhart Lake, Wisc.\n\nMy brief stint behind the wheel came in the PHEV Premium Plus, resplendent in sparkling white paint with one of the few unique elements of the CX-70 versus the CX-90: a red Nappa leather interior (the CX-90 gets an exclusive white Nappa leather interior instead). Just like the outside, the inside of the CX-70 is akin to the 90 — and it is truly lovely, perhaps the CX-70’s best attribute. With beautiful shapes and immaculate construction, it feels like a premium product (and it had better given its price; more on that in a moment). The Mazda family feel comes through well in the cabin, with the traditional gauge faces (now done in digital format) in front of you, and Mazda’s decidedly quirky idea of how a multimedia system should work on display in the center dashboard screen.\n\nThe Mazda multimedia system has menu-based operation that can only be controlled by a rotary knob and surrounding buttons on the center console, right where a front-seat passenger would rest their hand — unless you have Apple CarPlay or Android Auto running (wireless connectivity for them is standard), in which case the display magically becomes a touchscreen. While the interior overall might be the best attribute of the CX-70, that multimedia system is undoubtedly the worst; it’s tricky to use and its user interface is more of a distraction than the safety measure Mazda intended. It almost encourages you to instead use Apple CarPlay or Android Auto just so you have the touchscreen abilities of the system instead of having to use the rotary controller. It’s 2024; you’d think the debate over what works and what doesn’t for an effective multimedia system would be over by now, but clearly Mazda hasn’t gotten the message.\n\nIf you can forget about the silly multimedia system for a moment, the CX-70 rewards you with an outstanding driving experience. Few companies do driving dynamics like Mazda, with a potent combination of responsive powertrains, attention to body control and communicative steering that makes the CX-70 much more engaging and entertaining to drive than nearly any competitor. Acceleration is brisk when you call for it, with the PHEV system switching fairly seamlessly between electric and gasoline operation. I didn’t have a long enough drive to test the CX-70’s electric-only range (a manufacturer-estimated 26 miles) or fuel economy, as this was just a brief spin during the rally — not unlike what a car shopper would experience on a 30-minute dealership test drive. But during that 30 minutes, I came away with the solid impression that the CX-70 is indeed just a CX-90 without the third row. In how it drives, looks and works, it feels identical.\n\nMore From Cars.com:\n\n2025 Mazda CX-70: For When You Want a Little Less CX-90\nUp Close With the 2025 Mazda CX-70: Appearances Are (Not) Deceiving\n2025 Mazda CX-70s Named IIHS Top Safety Pick\n2024 Mazda CX-90 Up Close: Mazda’s Crown Jewel?\nShop for a 2025 Mazda CX-70\nPricing Weirdness\n\nHere’s where things get odd. Trim level to trim level, Mazda has priced the two-row 2025 CX-70 identically to the three-row 2024 CX-90, though the CX-90 has a lower starting price because it comes in a base Select trim not offered for the CX-70. The cheapest CX-70 is $41,900 (all prices include $1,455 destination fee) for a 3.3 Turbo Preferred trim, but the cheapest three-row CX-90 is $39,300 for a 3.3 Turbo Select trim. A CX-90 in Turbo Preferred trim is also $41,900. It’s the same situation with the plug-in versions: The CX-70 starts at the PHEV Premium trim level for $55,855, which is what the CX-90 PHEV Premium costs, but you can get a CX-90 in PHEV Preferred trim for $51,400.\n\nSo, the CX-90 offers a cheaper budget version that has more seats but less content for less money, while the CX-70 has a higher starting trim and price but fewer seats. Nearly everything else is identical between the two models. The logic of the marketing plan here escapes us, but it does offer buyers a choice. Frankly, all things being equal (including the price), I’d be more inclined to go with the CX-90 and have that extra seating “just in case,” especially if you have a family or do any kind of carpool duty — but that choice will actually be yours.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "3.3 Turbo Preferred Package AWD",
+          "price": "$40445",
+          "specifications": {
+            "Notable features": [
+              "All-new two-row version of CX-90 mid-size SUV",
+              "Seats five people",
+              "Choice of mild-hybrid inline-six or plug-in hybrid powertrain",
+              "All-wheel drive standard",
+              "Cruising and Traffic Support driver-assist system available",
+              "Available 1.5-kW household outlet (PHEV)"
+            ],
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.3 L/200 Displacement",
+              "332 @ 2000 SAE Net Torque @ RPM",
+              "280 @ 5000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "4,863 lbs Base Curb Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Maximum Trailering Capacity",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo Premium Package AWD",
+          "price": "$45900",
+          "specifications": {
+            "Notable features": [
+              "All-new two-row version of CX-90 mid-size SUV",
+              "Seats five people",
+              "Choice of mild-hybrid inline-six or plug-in hybrid powertrain",
+              "All-wheel drive standard",
+              "Cruising and Traffic Support driver-assist system available",
+              "Available 1.5-kW household outlet (PHEV)"
+            ],
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.3 L/200 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "280 @ 5000 SAE Net Horsepower @ RPM",
+              "332 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "4,863 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo Premium Plus Package AWD",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "All-new two-row version of CX-90 mid-size SUV",
+              "Seats five people",
+              "Choice of mild-hybrid inline-six or plug-in hybrid powertrain",
+              "All-wheel drive standard",
+              "Cruising and Traffic Support driver-assist system available",
+              "Available 1.5-kW household outlet (PHEV)"
+            ],
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 2000 SAE Net Torque @ RPM",
+              "280 @ 5000 SAE Net Horsepower @ RPM",
+              "3.3 L/200 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,863 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo S Premium Package AWD",
+          "price": "$52450",
+          "specifications": {
+            "Notable features": [
+              "All-new two-row version of CX-90 mid-size SUV",
+              "Seats five people",
+              "Choice of mild-hybrid inline-six or plug-in hybrid powertrain",
+              "All-wheel drive standard",
+              "Cruising and Traffic Support driver-assist system available",
+              "Available 1.5-kW household outlet (PHEV)"
+            ],
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 @ 2000 SAE Net Torque @ RPM",
+              "340 @ 5000 SAE Net Horsepower @ RPM",
+              "3.3 L/200 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,863 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "3.3 Turbo S Premium Plus Package AWD",
+          "price": "$55950",
+          "specifications": {
+            "Notable features": [
+              "All-new two-row version of CX-90 mid-size SUV",
+              "Seats five people",
+              "Choice of mild-hybrid inline-six or plug-in hybrid powertrain",
+              "All-wheel drive standard",
+              "Cruising and Traffic Support driver-assist system available",
+              "Available 1.5-kW household outlet (PHEV)"
+            ],
+            "Highlights": [
+              "23 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "3.3 L/200 Displacement",
+              "340 @ 5000 SAE Net Horsepower @ RPM",
+              "369 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,863 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

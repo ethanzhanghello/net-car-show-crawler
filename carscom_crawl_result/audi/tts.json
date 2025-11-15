@@ -1,0 +1,1958 @@
+{
+  "make": "audi",
+  "model": "tts",
+  "years": {
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/dd320034-ab57-4766-ac7c-634a5c0f11fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/a89eb2f3-6662-4f34-a0ce-0294b54d3113.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/ef52c0dc-d6a2-4d4e-9410-0dfa5c79b1a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/dd320034-ab57-4766-ac7c-634a5c0f11fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/e7905178-cf10-4d03-ac3b-199b48efffe1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/cc5e4d3d-da60-4e55-a9e4-9e5dfb9191dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/2de6abfe-dc0f-447a-a0c1-3ca4bd12872c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/3d89a685-f021-4f27-b855-8816d976f9f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/ce112751-61a7-4615-b28e-7852f16574e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/11d31f96-5eb1-4d78-9229-86576d465e27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/aff03a60-d979-4a7b-8e88-e1bc32c92cd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/4194744c-b331-4c0f-871b-808bd08e92eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/49776773-54ce-437e-ba8f-cb5458b35533.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/303ff58b-0263-496b-8c43-8cdcb3ce610d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/4792dc9e-3629-47ef-afd2-fbc5a73bf2b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/ff3ee1e2-71dd-43fb-ae6d-3394da578662.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/57654198-d8e4-459c-afde-cc68d6a846d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/28c286b9-8b3d-45bb-a110-2b9ff7a7ff8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/63031427-8f1f-4b9f-8652-45acda2ddc3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/f2526198-6e05-4f1b-9354-6722150e51ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/51354d79-5285-47dc-8d65-a03d9ac073bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/b9f7f5c8-bb8a-44fd-8aa4-6bedf0f73820.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/0782e801-24c0-4a6a-892b-b867a3e310af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/c894f89a-6254-4a59-868a-46acc786fd81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/91f29c43-0ea4-4b89-9edf-abff53b2a473.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/3a75cb4b-92e5-47a6-b563-247f89a08d37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/9126e3c3-2190-45fb-9844-86d106dac93e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67db24aa-830e-40e0-b903-3f8241e54e70/0bd2cd28-39ae-49dc-9cdb-eb12660ac119.png"
+      ],
+      "expert_review": "What Is the 2023 Audi TT?\n\nOffered as a two-passenger convertible and four-passenger coupe, the Audi TT is a stylish and entertaining sports car that competes with the likes of the BMW Z4, Porsche 718 Cayman and 718 Boxster, and the Lexus RC. Under the TT’s pert hood is a 228-horsepower, turbocharged 2.0-liter four-cylinder engine that sends power to all four wheels via a seven-speed dual-clutch automatic transmission. The TTS, which is only available in coupe form, comes with a 288-hp version of the same powertrain and is also equipped with all-wheel drive.\n\nWhat’s New on the 2023 Audi TT?\n\nThe TT gets a new 18-inch wheel design, and the high-performance TT RS coupe has been discontinued.\n\nWhat Features in the 2023 Audi TT Are Most Important?\n\nStandard features include:\n\nAll-wheel drive\nDigital instrument cluster with 12.3-inch screen\nApple CarPlay and Android Auto\nDual-zone climate control\nFlat-bottomed steering wheel with shift paddles\nHeated front seats\nWireless device charging\nFront and rear parking sensors\n\nAvailable features include:\n\nAdaptive suspension\n20-inch alloy wheels\nShould I Buy the 2023 Audi TT?\n\nThe Audi TT coupe and convertible are a delight to drive, and standard all-wheel drive means they can be used even when the weather forecast is bleak. Many direct rivals are quicker, but the TT and TTS have plenty of punch and deliver surprisingly good fuel economy for sports cars. Granted, the convertible’s trunk is tiny, and the backseat in the coupe isn’t suitable for adults or even teens; it’s best suited for luggage or shopping bags.",
+      "trims": [
+        {
+          "name": "Base_Price_46980",
+          "price": "$46980",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/8cf94591-f7bd-4ea7-a40d-5804609fdff7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/49d6763f-09be-4eab-8b64-1d7a123bd5d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/bf6754f2-8f1b-4513-99f5-4b1c367b9681.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/52d3f18c-6911-419d-882c-ac1179c31b53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/455cfc22-e5af-46c8-862a-237976021754.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/eff6336a-dcd1-41a7-a809-95bf18feebc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/87837845-0a63-412e-ad75-a530262cdda1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/70bea345-2460-4caf-a5a9-f297bc7880aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/716619ed-b21c-46d9-9c65-b08b44cefc5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/9781e37c-c119-4e00-9d09-129b319843c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/53d085a7-75b0-4eaf-ae03-a4f6b737a0a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/f1f6ba0f-264e-4149-b0a1-cdf555d67c77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/703da894-6d18-4405-b18a-5efb013d3091.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/f3c4c519-f2a6-45f3-9a93-ffa1f22618ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/8cf94591-f7bd-4ea7-a40d-5804609fdff7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/9e9181d1-7290-4ec9-bfff-404b63f6f20e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/507ad62c-455b-4aaa-b619-da5ff9a113b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/62ee67a5-651f-40bc-92c1-fd2e15966e68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/c9a4d161-bd13-4a42-b054-567e7494df22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/06f56c8c-8b12-4407-b8a1-b448677a9e31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/0ad54933-24d5-46d5-8479-a909b655d437.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/9342c2eb-e792-4b01-acfc-12c303a96d0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/d102f579-2408-4675-80c2-de458b2720bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/44e47156-063c-4f7d-8b7f-4323b9054b94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/e27fc0f5-bba8-42c4-b145-7ef97893ab7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/f92581c0-52e0-42b2-916e-bfdabe1ba874.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/4d0f4d12-bab2-44d7-8e39-456da1f75da9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/054f9af0-e596-4c3b-a0fb-19a27c24a472/da2b21ae-5049-4e83-8e4c-8cc5d374244a.png"
+      ],
+      "expert_review": "What Is the 2021 Audi TT?\n\nThe Audi TT comes as a four-seat coupe or two-seat roadster. Both have a standard turbocharged 2.0-liter four-cylinder engine that delivers 228 horsepower. This engine pairs with a seven-speed dual-clutch automatic transmission, and all-wheel drive is standard. The more powerful TTS coupe is powered by a 288-hp, turbo four-cylinder.  \n\nAt the top of the range is the TT RS coupe, which is powered by a turbocharged 2.5-liter five-cylinder engine that makes 394 hp. Rivals to this Audi performance trio include the Mercedes-Benz SLC-Class, BMW 2 Series and Lexus RC.\n \n\nWhat’s New on the 2021 Audi TT?\n\nNew standard features include sport seats finished in Nappa leather upholstery, additional leather interior accents, navigation, blind spot warning and a Bang & Olufsen stereo. The TT roadster also gains a standard neck-level heating system.\n\nWhat Features in the 2021 Audi TT Are Most Important?\n\nStandard features include:\n\nDigital instrument cluster with 12.3-inch screen\nFlat-bottomed steering wheel with shift paddles\nHeated front seats\nWireless device charging\nFront and rear parking sensors\nShould I Buy the 2021 Audi TT?\n\nAs sports cars go, the Audi TT is practical so long as you accept its limitations. The coupe’s rear seat is barely usable, while the roadster’s tiny trunk forces you to pack light for weekend getaways. The range-topping TT RS is a riot to drive, but it’s very pricey and will mostly appeal to diehard Audi fans.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/d04d755d-bf2c-4796-b1ca-9813aea85c3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/8852fe24-a8c4-4e46-b787-574bc941b16c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/aaa39a99-1bda-4af2-8f3b-3f5d4a1b63e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/40182cb6-eae0-42af-a6e1-0c5e48591ecb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/d66cca86-f898-4559-b7c8-6763364e34ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/8e4b699b-f3a0-4c59-8727-4e95b916b4aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/fbc8f2df-c362-444a-8b13-c7f87ce6fcc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/455d0ed7-7509-4d7d-ba18-ab11bc903519.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/59777258-dbc5-4610-8088-99b4e2c4a7bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/db74ce5f-2cb2-4532-88d5-f01244d9ac58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/b8d5d09b-960e-4cd8-b8b5-166c12cbc64c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/446555bd-63e7-480c-a31b-8ec41ea801ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/3a187bda-400c-4ca0-9570-8b99dd7933ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/a1b18461-35f0-449e-b967-07e962d38130.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/7037f984-c260-4ea4-9b15-eee17a5b7ea5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/b2de09e0-ab7d-41fc-80e3-5a600cb81d6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/d04d755d-bf2c-4796-b1ca-9813aea85c3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/891c5693-3055-4169-9a7c-736bcca89350.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/b4a1680d-2e7e-4cb0-add9-778ce4107333.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/3fd379af-23e9-4243-97d5-9e30848a9aa8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1b140aa-2fba-47c6-a1da-97c77cfb4e32/9730ad41-c957-42e7-820e-f0654aa864b6.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nWhat it is: Redesigned last year, the Audi TT comes as a four-seat coupe or two-seat soft-top roadster. Both employ a turbocharged four-cylinder engine, a dual-clutch automatic transmission and all-wheel drive. Audi also offers a higher-powered TTS coupe. Competing convertibles include the BMW Z4 and Mercedes-Benz SLC-Class while coupe alternatives range from BMW’s 2 Series to the Lexus RC 200t.\nNew for 2017\nThe TT now comes standard with a backup camera and auto-dimming, power-folding side mirrors.\nSignificant Standard Features\n\n220-horsepower, turbocharged 2.0-liter four-cylinder (TT)\nSix-speed dual-clutch automatic transmission\nAll-wheel drive\nFull-LED headlights\n18-inch alloy wheels\nDual tailpipes\nConfigurable driving modes\nLeather and Alcantara simulated suede seats\nFull-LCD instrument panel\nBluetooth streaming audio \nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\n292-hp, turbocharged 2.0-liter four-cylinder (TTS)\nQuad tailpipes, unique bumpers and adaptive suspension (TTS)\nBang & Olufsen premium stereo\nNavigation system\nIn-car 4G LTE Wi-Fi hotspot (subscription required)\nBlind spot warning system",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/8038af6d-86c8-4151-bcd6-0672b65cfe0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/06c21a61-fc4c-4f19-a216-469b3ee79af1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/0b0a3bbb-b43b-4bf9-9af8-06be6eddce4c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/0fa666b9-55a2-475f-abae-f01c4d881a7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/c653fc85-7441-49ee-a4bd-3a7d637d33b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/3f2ab4ab-8459-49ac-916c-90c107368082.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/ca1ccc9a-66f0-4e7e-b047-b534ae48141f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/15a699ab-6e46-4bfd-a39f-0df3da7aabf1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/1696fb60-905b-487e-b10a-0b6de282ebe9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/bd3ceb7e-2f35-4631-ae47-1225ded77a47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/03ab6071-1fb2-43b9-aa95-9447981b9dec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/ecb500f2-0975-42c3-87cc-5361c8a5748a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/03ab6071-1fb2-43b9-aa95-9447981b9dec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/21f7357f-afbb-40c6-a724-ca5775aa612d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/bd233495-4834-4cae-8db2-794bde807e17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/7d0d46e2-0d8f-4ba1-aca5-c8d6aa4300fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/cce1c4fe-867c-4717-93d8-9e220f7d530c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/e59161d6-bb81-4f85-9682-5fe1982bef9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/07997f8c-72ff-4d58-90cf-8b7e8c6e70bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/dde8d271-b813-446a-87f6-7b2282202dbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3a301b4-e3f5-4157-bb36-e88db22f0a18/7dce13b7-2ccc-4291-b180-56686a660411.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/66c5b94c-6ca7-4726-8692-ed7eba253be2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/23dee920-a16c-44a7-ad87-e61b1d3df397.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/8f026da6-0d05-441a-b171-5e2770019236.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/ba8b24df-8f2d-4d0a-8701-bbf6c7f6a582.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/10dd546a-f97a-4bf7-bdc6-df30ed5deb75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/3b1604c2-e31f-40c7-9dcd-a054b590e02a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/d581cf9c-8643-4bd5-8212-22b6c632eca0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/b28b320c-a0c9-4e58-96ed-51ece944996b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/5781bee8-1381-4abc-b270-1b10c82c21a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/ffab62c3-bef8-4732-9e5d-dca4caa9107c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/b3784740-8ae5-4176-8cad-45f2593e30df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/2353c43c-552b-4a86-afca-032f0c07bec7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/b4418b56-dea0-4381-ad0a-60ab401ba65f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/f23ad9b9-2024-4fef-a501-440ff45b3eb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/c4f3202f-9c5e-4538-890d-b6bfa614efef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/f1193026-45c6-4898-a239-0aff68b3f035.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/f23ad9b9-2024-4fef-a501-440ff45b3eb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/019f0784-c0da-447a-bd32-96f39818ec08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/c80fbdde-15de-43b6-a686-cc11bf321fed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/7b1548f7-d09a-424d-9284-efeb98a6ec2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/58c00a84-7335-4365-8b0b-d59c21cde663.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/c63944ea-3b02-4758-b1e2-4ee5ba1cd1e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/8a5b57bd-2e95-472d-83d2-73f8b4a74859.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/aeeada87-bc6c-4930-8fc0-ef1f8de645d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/655f1a63-fe05-429a-a551-c2bc1f8b0403.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/cd1a8f54-41cc-42b7-aee7-4100f76a9e5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/a1ec65e6-3354-4fbd-bfd2-7f62d6999c6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e98385e4-5288-4dad-b470-41050ccc64ed/6e2f40b0-b83a-4724-a5ce-6a50203ae7f1.png"
+      ],
+      "expert_review": "What Is the 2019 Audi TT?\n\nThe Audi TT comes as a four-seat coupe or two-seat soft-top roadster. Both have a turbocharged 2.0-liter four-cylinder engine with 220 horsepower, a seven-speed dual-clutch automatic transmission and all-wheel drive. Audi also offers a more powerful TTS coupe with 288 hp. Competing convertibles include the Mercedes-Benz SLC-Class, while coupe alternatives range from BMW's 2 Series to the Lexus RC.\n\nWhat's New on the 2019 Audi TT?\n\nA seven-speed dual-clutch automatic transmission replaces a six-speed automatic as standard on all models, which also get the Audi phone box with wireless charging as standard. A Competition Package for the TTS includes carbon fiber interior trim, leather sport seats, 20-inch black wheels, black exterior trim and red brake calipers.\n\nWhat Features in the 2019 Audi TT Are Most Important?\n\nStandard all-wheel drive is a plus, as are LED headlights, configurable driving modes, a full LCD instrument panel and a lushly furnished interior.\n\nShould I Buy the 2019 Audi TT?\n\nYou will stand apart from the crowd of SUVs on today's roads with the TT; Audi sold fewer than 1,300 in 2018. Its handling and performance are commendable, though there's a noticeable lag after stepping on the gas before a rush of power arrives in normal driving modes. The cabin is spacious and comfortable for two and comes with a wide assortment of amenities. The limited practicality of the TT, though, means it works best as a second or third car in a family fleet, albeit one that can be a pleasure to drive.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/8ee5571f-dd1a-4b25-8bd6-3e888dcc2576.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/589c2eb2-9819-4d99-a196-701e1d4bf6d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/0a758876-5ab4-4552-93f5-6f282a9e7d86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/fe1c4572-0ef8-4c2c-a68a-b3996ec71340.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/23cd3b39-2517-49ba-ad36-4e9ae8b4885c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/2f232b47-7d3f-41fb-903b-086cdbc85d6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/1bf0d1a9-382c-46ad-bb1d-38080c9b5064.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/8eb2dc2e-0dbb-4290-b2c3-39b7b781cf4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/6b92bb73-3a26-432e-a191-3b0cbb22ea99.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/2d8a0253-974b-41f1-9224-f9999ee2cfeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/169d09bb-2301-4370-a044-ec5d1efa3818.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/48ac49fa-0b04-4f80-a04f-97400be260da.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/0a758876-5ab4-4552-93f5-6f282a9e7d86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/21d1d56e-8621-4322-be83-4549eb7d65e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/140c7171-f90a-445a-9a70-01729730639a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/bb5da271-5826-49a5-956f-ca9e79696077.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/c0f63e2d-10f4-49e7-bcfb-44694aeb81d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/d451afbb-a906-4bb6-9462-dab3ff537498.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/1fe52df9-b25b-4eb8-9dd7-e3e517bd989c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/77fe5360-c611-4d1f-bb3c-3dda60d7b205.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/40f34652-b252-4831-9160-ed37459e26de/dcb363c0-351b-417f-ae17-277f02792da8.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nAudi updated its TT and TTS sports cars for the European market for model-year 2015, and the cars will hit U.S. shores as model-year 2016 coupes and convertibles. The third-generation TT is all angles up front with a large hexagonal grille, sharp hood contours and sleek, slit-like LED headlights.\n\nTT coupes and roadsters will again use a turbocharged 2.0-liter four-cylinder, but horsepower is up slightly for 2016 to 220 hp from 211 hp; in the sporty TTS model, the 2.0-liter will make 292 hp, up from 265. A six-speed dual-clutch automatic is again the sole transmission; no word on if Europe’s diesel version or manual-transmission model will be available in the U.S. The TT will be available as coupe and roadster; the TTS will be available as a coupe only.\n\nInside, a customizable digital instrument cluster replaces traditional gauges. Audi calls the setup a “virtual cockpit” and says the 3-D display combines the functions of a central MMI monitor with a conventional instrument cluster in one display. The Audi connect connected car system is also updated this year with picture navigation; read-aloud news headlines, Facebook and Twitter alerts; access to more than 7,000 Web radio stations; and personalized RSS news feeds; it also includes an integrated Wi-Fi hotspot.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/62332b98-bc58-418c-b985-a9b3c5449cb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/873635c6-80da-4f26-9097-495ceb410c8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/7ab05619-fccd-4c83-b20f-5df22fd79494.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/5e16544c-9437-43be-8478-ba5645b2fcb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/d2745a8d-6dca-434a-bdaf-d36bdce57645.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/4664ee45-6e80-4dd0-b4a1-af9ea875396b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/7e45027f-71bd-4d6f-87d4-405149edd466.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/51703de8-bc62-4204-89df-0cff72114fa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/7e085d65-3fd0-4b5a-b29b-4536d7f1c238.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/51581971-7463-463c-9cf5-f633d2a6f362.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/ec87bacd-7f7f-4aad-a426-0ad444e273d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/9c392475-2b56-44a0-9b84-9e7267097184.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/e58aa94d-cf81-4c8a-a268-f01c3f17030f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/08dfb0d2-4082-440b-b59f-6cf9f945ef54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/daa8bab3-de81-468f-94ef-8a697052de7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/933ade64-1166-4b55-b689-c026d91cfc19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/b043774d-d2a9-4394-bf95-c15f19fbfbbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/4eebe7a3-a091-454a-80a9-bcbf3b67333f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/aa535ed1-682e-41d1-b9d4-45cf6dfdb3cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/9bb45aa6-f6a6-4436-b681-7e1d914e4ed9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/26d29026-bda3-4b12-9778-fb78fd2564dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/39203fcc-843f-4cfa-9e7a-f574f3dfb7aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/51b40731-9936-44af-a9b0-eebd4b2f20cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/3c29b96e-60ad-415d-9ff6-8c2f5a05a4f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/aa746531-f0cf-4dcd-8d0d-4036cf8838cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/40d254bf-3768-492c-a040-982c21a96b52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/5e16544c-9437-43be-8478-ba5645b2fcb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4093d20-2a28-4ffc-97e8-b37738df0ac3/5b096785-9e3d-4d29-923f-c231805fb523.png"
+      ],
+      "expert_review": "What Is the 2022 Audi TT?\nThe Audi TT comes as a four-seat coupe or two-seat roadster. Both have a standard turbocharged 2.0-liter four-cylinder engine that delivers 228 horsepower. The more powerful TTS coupe is powered by a 288-hp, turbo 2.0-liter four-cylinder. Both engines pair with a seven-speed dual-clutch automatic transmission, and all-wheel drive is standard.\nAt the top of the range is the TT RS coupe, which is powered by a turbo 2.5-liter five-cylinder engine that makes 394 hp. Rivals to this Audi performance trio include the BMW 2 Series and Lexus RC.\nWhat’s New on the 2022 Audi TT?\nA new Bronze Selection Package for the TTS features black exterior accents, 20-inch bronze wheels, Nappa leather with copper-colored stitching, and aluminum and bronze-colored interior accents. \nWhat Features in the 2022 Audi TT Are Most Important?\nStandard features include:\n\nDigital instrument cluster with 12.3-inch screen\nFlat-bottomed steering wheel with shift paddles\nHeated front seats\nWireless device charging\nFront and rear parking sensors\n\nShould I Buy the 2022 Audi TT?\nAs sports cars go, the Audi TT is practical so long as you accept its limitations. The coupe’s rear seat is barely usable, while the roadster’s tiny trunk forces you to pack light for weekend getaways. The range-topping TT RS is a riot to drive, but it’s very pricey and will mostly appeal to diehard Audi fans.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/633b39ea-f19d-4e7f-9a7f-944c1a3a8d32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/d6c84747-ace8-4a37-862a-601ed0d772f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/1c1e0329-4ed0-437f-803a-64fa732f4da7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/4a8657d5-5d6c-44fa-ac48-fa13b88c91f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/bd428dbc-638f-47d0-b6d7-e9fe713a869d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/41b0f42f-9d08-47fb-a32b-aa4043846d8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/b69e2ff3-ccb3-4d2f-a34e-91165af1d0fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/68c72113-ca89-4fc1-9ca0-f1e78b3d1706.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/806221ad-226f-4f57-84e5-3f3f6122c740.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/82d03f7c-fa95-44ec-8673-5e91f94e7817.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/5c377604-d596-430f-80ed-ddee831227b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/a4ee07df-b6a1-4580-b0cc-c1497fe758c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/360daa2b-4e48-4e72-8f87-04e86c763fe0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/4db1edc3-9aaf-4c0f-9f74-1d1fdf259bd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/cff052fd-b3d1-47fa-8559-383ba403a3dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/6cc21cd4-3575-45d7-8327-6454582457ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/7ac992d7-e783-40ad-b95e-aee6d31d0ad9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/1326b696-077c-436e-9756-8826715c97f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/1ecda4d9-49de-4358-ba4d-78f9fde08652.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/f8b350db-e04a-4b69-86db-9abe70948860.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/201981ff-25f9-4249-a293-9271b1fad52f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/d58ffecd-bf52-4b87-a16c-a6b4beeceb6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/e0f1ad05-6686-411b-987f-079aa63ab03d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/5c377604-d596-430f-80ed-ddee831227b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/31ec9299-aecf-4755-b60c-7b46923d7037.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/cd357eb8-dd5c-428d-b7f8-f3409e19c263.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/06199fdd-c9fc-48d0-8c45-3034c57de42f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bbd5686f-e25e-4a1a-b5a4-e448d3bd416a/d4c26b5f-850d-462f-a088-4bc8bdcf5d5b.png"
+      ],
+      "expert_review": "What Is the 2020 Audi TT?\nThe Audi TT comes as a four-seat coupe or two-seat roadster. Both have a standard turbocharged 2.0-liter four-cylinder engine that delivers 228 horsepower. This engine pairs with a seven-speed dual-clutch automatic transmission, and all-wheel drive is standard. The more powerful TTS coupe is powered by a 288-hp turbo four-cylinder.  At the top of the heap is the TT RS coupe, which is powered by a turbocharged 2.5-liter five-cylinder engine that makes 394 hp. Rivals to this Audi performance trio include the Mercedes-Benz SLC-Class, BMW 2 Series and Lexus RC.\nWhat’s New on the 2020 Audi TT?\nThe TT and TTS get an alarm system with a motion sensor, while red brake calipers are a stand-alone option for the TT RS.\nWhat Features in the 2020 Audi TT Are Most Important?\nThe Audi TT comes with a fun and relatively frugal turbo four-cylinder engine, and standard all-wheel drive enhances the sports car’s all-weather capability. The cabin is classy, featuring a high-tech instrument panel, but it forgoes a central dashboard screen, so anyone who likes their passenger to play co-pilot and navigator should take note.\nShould I Buy the 2020 Audi TT?\nAs sports cars go, the Audi TT is relatively practical so long as you accept its limitations. The coupe’s rear seat is hardly usable, while the roadster’s tiny trunk will force you to pack light for weekend getaways. The range-topping TT RS is a riot to drive, but it’s awfully pricey and will mostly appeal to diehard Audi fans.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/f48ed294-0917-403b-8a7d-53fa25f19e26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/8f9152a3-9850-4e92-bffd-135ec0a20183.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/4151ad88-90ca-41a4-abc6-eea61b4e5e2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/a4322e50-ab33-4062-9c59-18c6702f83f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/e4728ca5-5bb1-4711-b662-bda3b23b38e3.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/eb0d5ee6-32ed-4068-ba34-15a90bd5d79a/480b4b38-81ae-45f1-a44d-5eebc919e52a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/dec75a26-36e9-49c6-9042-87930fec3175.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/c96d0481-0bbe-419e-8697-76fcade33dae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/99d58430-cb35-481d-a292-1621c9997e19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/babb3279-dd55-4318-97d9-db1af3945026.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/877b90e6-f64c-4e3f-9556-b9bf89a951c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/da5980e1-8010-478d-b076-23a57c21c666.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/28d1c39e-8baf-4e19-8269-405a119809e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/80d835aa-fb41-4323-bb8d-640891fe1734.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/53716939-cdc8-431f-897e-57ed55f98129.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/c6d60bee-4d88-4555-b2d0-d60b4ce89370.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/f5f9fe77-cd78-406a-9cb7-9ac32a012334.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/0a1a787e-3a55-4335-aae6-b35ab82d6adb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/632d94c1-bef6-47b9-a9c6-ed5c70d058e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/405dd783-1d12-48b1-a1e8-ec3fd0fa2bc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/eaa15254-ebdd-44a1-8d18-72107c0c2396.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d12a45a8-9719-45ab-b809-9fdb45d93499/418877da-475c-48ed-85ba-5fd2d23dff2c.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe distinctively styled Audi TT sports car is available in coupe or roadster form. It’s powered by a turbocharged four-cylinder engine and has standard all-wheel drive. Competitors include the BMW Z4 and Mercedes-Benz SLK-Class. Audi also offers a higher-performance version of the TT, the TTS.\n\n(Skip to details on the: TTS)\nNew for 2014\nThe TT gains S Line exterior styling, LED cabin lighting and a Bose stereo. The S Line Competition Package introduced last year is now available for the roadster and includes new gray-colored brake calipers.\nExterior Highlights\n\nAluminum-intensive construction\nStandard 18-inch wheels; 19-inch wheels available\nLED daytime running lights\nRetractable spoiler\nHeated side mirrors\n\nInterior Highlights\n\nSmall rear seat for four-person coupe; roadster seats two\nLeather/Alcantara simulated suede seat upholstery\nBose stereo\nAutomatic air conditioning\nBrushed aluminum trim\nAvailable heated front seats\nAvailable navigation system\n\nUnder the Hood\n\n211-horsepower, turbocharged 2.0-liter four-cylinder engine\nEngine uses premium gas\nSix-speed dual-clutch automatic transmission\nAll-wheel drive\n\nSafety Features\n\nAntilock brakes\nSide-impact airbags for the front seats\nFront knee airbags\nElectronic stability system\n\nTTS\nThe TTS is a high-output version of the TT. Available in roadster and coupe versions, both with all-wheel drive, the TTS is powered by a 265-hp, turbocharged 2.0-liter four-cylinder engine.\n\nSix-speed dual-clutch automatic is the only transmission\nLarger lower air intake \nRear diffuser\nQuad exhaust pipes\nBi-xenon high-intensity-discharge headlamps with LED daytime running lights\nNew features for 2014 include heated front seats and adaptive headlights\nNew Black Optic Package includes a new 15-spoke wheel design, carbon fiber side mirror housings and black interior inlays\n\nBack to top",
+      "trims": [
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T",
+          "price": "$48700",
+          "specifications": {
+            "Notable features": [
+              "Available performance-oriented TTS with 265 hp",
+              "Six-speed dual-clutch automatic transmission",
+              "Standard AWD",
+              "High-performance TT RS no longer offered"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "4 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,263 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T",
+          "price": "$51700",
+          "specifications": {
+            "Notable features": [
+              "Available performance-oriented TTS with 265 hp",
+              "Six-speed dual-clutch automatic transmission",
+              "Standard AWD",
+              "High-performance TT RS no longer offered"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "2 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,439 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/5d38c791-afab-4dbb-abf1-f5369905c222.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/cd139f1e-6c13-42ec-b5f9-964aecd9970c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/902b1a4c-3741-4b81-90de-f50bd041f23a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/15bc830e-5973-4ce2-9f85-af217e37abca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/62655590-4690-4bf6-93e2-c103fe3d9099.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/62c625ab-20f0-4070-a921-5310fc841030.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/71178027-f46b-4e29-a0d6-ec611e67861d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/d149d926-ab35-47d5-9434-0258f48020e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/d26e2b26-5e0f-44aa-93b3-019417bdd542.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/fd7ca8d8-cecb-498f-bec4-243a372e776f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/6f67df6b-7050-4d56-96f1-68242d14df4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/54b52eba-4181-4ea3-aaa2-0a86e254383b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/cd139f1e-6c13-42ec-b5f9-964aecd9970c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/4b7e03e1-fd17-4db0-a40b-0931ab744e14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/e2ecf77a-34c3-4652-9789-47c1c0b48e26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/3e81815a-ec6c-48d4-a763-53297c3b5545.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/5946afdd-19a7-41cd-81cd-56f6bfc5d559.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/91620ecf-4244-41ab-9406-3038638f1440.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/5ad51ef3-5d72-4eca-a1f9-6602e9ad93fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/ca3d0643-c717-4486-8a96-47ceb7a9280f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/30a27450-d401-430f-a95d-617163e87ab9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5a747e79-acd3-407e-906b-d01019345aee/a27a5933-aadb-4126-9869-25d1431d273a.png"
+      ],
+      "expert_review": "Vehicle Overview\nThe distinctively styled Audi TT sports car is available in coupe or roadster form. It’s powered by a turbocharged four-cylinder engine and has standard all-wheel drive. Competitors include the BMW Z4 and Mercedes-Benz SLK-Class. Audi also offers a high-performance version of the TT, the TTS. \n(Skip to details on the: TTS)\nNew for 2015\nHeated front seats are now standard. The TTS can have a new available Competition Package with a fixed rear spoiler and leather seats with yellow accents. \nThe below is a list of highlighted features and not an exhaustive list. Features are standard unless otherwise noted. \nExterior Highlights\n\nAluminum-intensive construction\n18-inch wheels; 19-inch wheels available\nLED daytime running lights\nRetractable spoiler\nHeated side mirrors\nRain-sensing windshield wipers\n\nInterior Highlights\n\nSmall rear seat for four-person coupe; roadster seats two\nLeather/Alcantara simulated suede seat upholstery\nAutomatic air conditioning\nBrushed aluminum trim\nHeated front seats\nAvailable Bose stereo\nAvailable navigation system\n\nUnder the Hood\n\n211-horsepower, turbocharged 2.0-liter four-cylinder engine\nSix-speed dual-clutch automatic transmission\nAll-wheel drive\n\nSafety Features\n\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\nSide-impact airbags for the front seats\nFront knee airbag\n\n\nTTS\nThe TTS is a high-output version of the TT. It’s available as a roadster or coupe, and both have all-wheel drive. The TTS is powered by a 265-hp, turbocharged 2.0-liter four-cylinder engine.\nWhat’s Special\n\nSix-speed dual-clutch automatic is the only transmission\nLarger lower air intake \nRear diffuser\nQuad exhaust tips\nBi-xenon high-intensity-discharge headlamps with LED daytime running lights\nNew available Competition Package with a fixed rear spoiler and leather seats with yellow accents\n\nBack to top",
+      "trims": [
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T",
+          "price": "$48700",
+          "specifications": {
+            "Notable features": [
+              "Heated front seats now standard",
+              "New Competition Package for TTS available",
+              "Coupe or roadster",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "4 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,263 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T",
+          "price": "$51700",
+          "specifications": {
+            "Notable features": [
+              "Heated front seats now standard",
+              "New Competition Package for TTS available",
+              "Coupe or roadster",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "2 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,439 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "380 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2010": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/b6bcffb2-8dbc-4a42-8ea7-5f7465548a91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/ab875318-90c5-4c03-ae8b-29d659775701.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/78d57475-f461-4cfe-8902-341e80578aa8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/821cee87-7a49-415f-a807-6b5fe103dfce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/e40a1ba2-c598-4389-9b3e-4efd62c1c221.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/370aa5ba-c5fe-4769-8bc6-d6e06fd9da57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/e34a0afe-58dc-482b-a559-75b8a6844e58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/03dfd182-2eeb-49d4-9789-d40f31d6965e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/fa104e85-ab9f-4594-8a77-7bd70226a797.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/ec8421dc-1cf3-4028-a254-f18d25ba30b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/23a8069d-7183-46b9-8ca8-3e3eb16b251d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/0f22af00-3937-4e51-aa0e-8c57a140e7c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/76aa005c-7358-483a-9e82-cd0add6ce11e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/c5f4ba14-a186-4722-8019-251699ddb75c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/2deafc90-93f9-469d-8fcd-08be9d0bbbba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/0bff3f35-3531-4688-ae68-d72bb80fa19c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/0ffaa592-291e-4c5b-9438-395008cf0aeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/bc66ea99-cb5c-4347-a75a-012c8e49fa2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/0a4dafaa-bd82-49d2-b536-fb550ccfd65e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/88ceceb9-10f9-4553-a2e0-6f3028ca358e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/9c4f8383-64b2-4c7d-ba07-b40b7af659a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/b34cc69a-f8a7-4043-b0bd-89d555dbc46c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/fba9c283-ae39-4db6-9978-6df3c1aaa172.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/d81ca427-863f-45e8-b258-a1543b2bfe75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/c42c2ab0-c44d-4cb5-aae9-a5702870cb79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/572d1e04-8264-4ae4-83e9-6a9776dd31d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/e9b2eea9-eec7-4e14-9dcf-123fe155ee32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/ed10a7d4-9d6c-4c3d-bdb5-6a2759574098.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/03dfd182-2eeb-49d4-9789-d40f31d6965e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/e09dc7de-bb7b-41c2-944e-13f2c66f1d96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/8f3d333f-729d-446e-bfc9-c4ebdfa41849.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/572b1833-f8e2-4865-9ac9-9732d60699d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/34eff74c-4f6b-4558-888c-aa299f124fbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/78ccc56f-2fb1-469f-a341-b4088db129ee/76d32923-466c-4548-be38-540c2b380d6a.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in May 2009 about the 2009 Audi TTS. Little of substance has changed with this year’s model. To see what’s new for 2010, click here, or check out a side-by-side comparison of the two model years.\n\nAudi enthusiasts know that “S” is a powerful letter in the automaker’s lineup, and it’s just as significant in the new TTS. An offshoot of the TT coupe and roadster, the TTS has a host of performance enhancements, like a great turbocharged engine and a special suspension setup, but U.S.-bound versions are missing the one feature they need most: a true manual transmission.\n\nEfficient, Strong Turbo Four-Cylinder\nAudi’s turbocharged 2.0-liter four-cylinder that’s found in the TT is one of my favorite engines because it offers a lot of power in a small package. It’s also incredibly smooth-revving, encouraging you to run it all the way up to its redline. The TTS’ turbo four-cylinder has the same displacement, but it features numerous changes that affect the engine block, cylinder head, pistons and turbocharger, among other components.\n\nThe result is stronger output — 265 horsepower at 6,000 rpm and 258 pounds-feet of torque at 2,500 rpm — without any loss of the smoothness that makes the TT’s base turbo engine so appealing. The TTS’ engine still feels strong at highway speeds, where it’s able to propel the coupe forward with a degree of assertiveness that you might not expect from a four-cylinder, even a turbocharged one (Audi cites a zero-to-60-mph acceleration time of 4.9 seconds for the coupe). Despite its quickness and power, the TTS achieves impressive gas mileage for a sports car, with an EPA-estimated 21/29 mpg city/highway.\n\nThe TTS is offered only with Audi’s S tronic six-speed dual-clutch automatic transmission in the U.S. (a six-speed manual is available in other markets). There’s no question it’s a technically advanced transmission, and it does have some appealing qualities, but there are times when you want the simplicity of a plain-old manual gearbox, and this is one of them.\n\nFirst, let’s hit what’s good about the dual-clutch automatic. Put it in Drive and it’ll knock off quick upshifts on hard acceleration, and it also makes quick downshifts when you use the paddle shifters behind the steering wheel, or the console gear selector’s manual mode. Oddly, driver-initiated upshifts feel much slower than when the car makes them for you.\n\nIf your daily drive involves a lot of stop-and-go tedium, I could see this transmission being preferable to a stick. Audi, however, makes the choice for you by not offering a manual in the States, which is something some enthusiasts won’t accept. You’re left to dream about what might have been.\n\nNow for the automatic’s low points: The first one is that when it’s left in Drive the transmission tends to rob the engine of power by upshifting through the gears to keep the four-cylinder’s rpm as low as possible. The transmission’s Sport mode does a better job of keeping the engine in its power band by letting it rev, but this setting includes an aggressive downshifting program when slowing that keeps engine rpm high. That might get old in everyday driving.\n\nRide & Handling\nThe TTS comes standard with Audi’s magnetic ride adaptive suspension that includes normal and Sport modes (yes, there’s a Sport setting for the suspension as well as the transmission). The normal setting is fairly firm, but not overly harsh by sports car standards. The shocks, however, can be notably stiffened by selecting Sport mode. The change in the TTS’ dynamics is instantaneous when you press the button to select Sport; the suspension takes on a harder edge as it transmits more road imperfections to the cabin.\n\nThe ride can get a bit bumpy on heavily rutted pavement even when using the suspension’s normal mode, so that’s something to consider if you live somewhere with pavement that isn’t universally smooth. Even if your roads are pothole-free, I found that some concrete sections of highway made the TTS bounce up and down repeatedly, accompanied by what sounded like a bass drum solo courtesy of the low-profile summer tires, mounted on optional 19-inch alloy wheels. Activating Sport mode increased the severity of the coupe’s oscillations. At 97.2 inches, the TTS’ wheelbase is short. That likely didn’t help matters on these concrete-slab roads.\n\nThe TTS’ steering feel is classic Audi at lower speeds — it takes little effort to turn the wheel, and it turns with a smoothness befitting a high-end luxury car — but when you get above parking-lot speeds it firms up a little, which better aligns with the TTS’ mission. The steering wheel feels nowhere near as weighty as the ones in BMW and Infiniti luxury coupes, but if that’s not your thing, then the TTS’ setup might suit you better. It’s reasonably responsive, too.\n\nTrack Performance\nIn addition to testing the TTS on public roads, I had the opportunity to take it for a lap at Road America in Elkhart Lake, Wis. This four-mile track combines long straightaways, tight turns and elevation changes to make for a technical road course. With the suspension’s Sport setting activated, there’s still moderate body roll when cornering.\n\nThe TTS has standard Quattro all-wheel drive, but unlike some of Audi’s all-wheel-drive applications, which have rear-biased torque distribution, the TTS’ system has an even 50-50 split, front-to-rear. Though the TTS exhibits decent balance when cornering, it doesn’t have the feel of a rear-wheel-drive sports car, which is what a rear-biased all-wheel-drive system can simulate.\n\nThe Inside\nThe TTS coupe looks small from the outside, but the cabin — at least the front bucket seats — are relatively accommodating. There’s room for taller drivers to get comfortable, and the seats have fairly firm cushioning that provides good support — including thigh support — for longer drives. Leather and Alcantara seats are standard, but my test car was fitted with what Audi calls “baseball optic” leather seating. As its name implies, those seats have thick leather strands woven together along the sides that wouldn’t be out of place on a baseball glove. This was one of the elements that distinguished the first-generation TT, which debuted for the 2000 model year, and it’s still unique in 2009.\n\nSomething else you might think would be compromised in a small coupe like the TTS is visibility, but it’s not bad. Forward and over-right-shoulder views are good, though there’s a bit of a blind spot near the driver’s head restraint when reversing.\n\nThere is a two-person backseat in the TTS coupe (the roadster is a two-seater). Like the backseat of a Porsche 911, however, if you asked someone to sit there they’d ask if you were joking. Why? The backrest is set at an almost perfectly vertical angle, and legroom is nonexistent. I’m not sure it would even be practical for children.\n\nDespite a backseat that only a contortionist could love, in characteristic Audi fashion the TTS coupe offers quite a bit of versatility. Its cargo area measures 13.1 cubic feet, and the 50/50-split backseat folds flat with the cargo floor. With the backseat folded, the space is large enough to easily fit two golf bags.\n\nTTS in the Market\nThere’s a lot to like about the TTS. Its turbocharged four-cylinder is remarkably powerful and smooth, its interior is classy and unique, and its standard all-wheel-drive system distinguishes it from other sports cars in its class.\n\nThe TTS faces stiff competition from the likes of Porsche, with its Cayman, as well as BMW, which redesigned its Z4 for 2009. I haven’t driven the new Z4 yet, so I can’t comment on how it drives, but as of right now, if I had $50,000-$60,000 to spend on a small sports car — the as-tested price of the TTS I drove was $54,600 — I’d try to find a way to get the more expensive Cayman. It offers one of the most engaging and entertaining driving experiences around, and it comes with a manual transmission.\n\nSend Mike an email",
+      "trims": [
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Prestige",
+          "price": "$45900",
+          "specifications": {
+            "Notable features": [
+              "Turbocharged four-cylinder engines",
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "Turbo Gas I4 Engine Type",
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "MacPherson strut Suspension Type - Front",
+              "Not Available Suspension Type - Front (Cont.)",
+              "4-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,153 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "4-wheel Brake ABS System",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Premium",
+          "price": "$45900",
+          "specifications": {
+            "Notable features": [
+              "Turbocharged four-cylinder engines",
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "Turbo Gas I4 Engine Type",
+              "265 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "4-link Suspension Type - Rear",
+              "MacPherson strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,153 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "4-wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Premium",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "Turbocharged four-cylinder engines",
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbo Gas I4 Engine Type",
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "258 @ 2500-5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson strut Suspension Type - Front",
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,395 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/5904ed5b-9df8-46e4-9580-47a13fdb45ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/16fde580-e9bb-4b55-86ea-96ab4574146f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/120a90a7-780f-4dcc-bd29-56e101e3260b/76994eef-180c-4c7f-b690-83798c0abe3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/53578630-2965-4cfe-8273-c9490637b6fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/f4ef9413-7bd4-4226-a5a1-043bdbaf790e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/b58a5617-ef37-4fd1-99e8-2d640034e552.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/2895c77f-258e-4681-8436-22673982bbe6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/331ffb91-e791-48be-b93a-7d10802f0960.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8b85c74a-e611-4a73-a914-8355bcde448b/f6daffc9-066e-4582-b18d-51894e145254.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe distinctively styled Audi TT sports car is available in coupe or roadster form. It’s powered by a turbocharged four-cylinder engine, and all models have all-wheel drive. Competitors include the BMW Z4 and Mercedes-Benz SLK-Class.\n\nAudi offers two high-performance versions of the TT: the TTS and TT RS. The TT RS is covered in a separate report in the Cars.com Research section.\n\n(Skip to details on the: TTS)\n\nNew for 2012\nThere are no significant changes for 2012.\n\nExterior\nThe TT has a taut, muscular appearance that helps distinguish it on the road. It’s immediately recognizable as an Audi thanks to the large trapezoidal grille that dominates the car’s front end. The coupe’s roofline tapers gracefully to its tail. Exterior features include:\n\nAluminum-intensive construction\n18-inch wheels; 19-inch wheels available\nLED daytime running lights\nRetractable spoiler\nHeated side mirrors\nAvailable S line styling cues\n\nInterior\nThe TT coupe has front bucket seats and a small rear seat. The large rear hatch opens to a cargo space that Audi says can carry two golf bags. The TT roadster is a two-seater. The driver faces two large, round gauges behind a flat-bottom, multifunction steering wheel. The air vents on the dashboard are round, too, and trimmed with aluminum. Interior features include:\n\nCD stereo with MP3 jack and satellite radio; six-CD changer available\nAutomatic air conditioning\nCruise control\nBrushed aluminum trim\nLeather/Alcantara simulated suede seat upholstery\nAvailable Nappa leather upholstery and heated front seats\nAvailable Bose stereo\nAvailable LED lighting\nAvailable DVD-based navigation system\nAvailable iPod connectivity\n\nUnder the Hood\nThe TT is powered by a 211-horsepower, turbocharged 2.0-liter four-cylinder that makes 258 pounds-feet of torque. It’s mated to a six-speed dual-clutch automatic transmission. Mechanical features include:\n\nEngine uses premium gas\nAll-wheel drive\n\nSafety\nSafety features include:\n\nAntilock brakes\nSide-impact airbags for the front seats\nFront knee airbags\nElectronic stability system\n\nTTS\nThe TTS is a high-performance version of the TT. Available in roadster and coupe versions, both with all-wheel drive, the TTS is powered by a 265-hp, turbocharged 2.0-liter four-cylinder engine with 258 pounds-feet of torque. The only transmission offered is a six-speed dual-clutch automatic.\n\nThe TTS features unique bi-xenon high-intensity-discharge headlamps with LED daytime running lights. There’s also a larger lower air intake up front, lower rocker panels on the sides, a rear diffuser and quad exhaust pipes out back. Back to top",
+      "trims": [
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Premium Plus",
+          "price": "$47000",
+          "specifications": {
+            "Notable features": [
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "Turbocharged Gas I4 Engine Type",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "MacPherson strut Suspension Type - Front",
+              "4-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,219 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-wheel Brake ABS System",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Prestige",
+          "price": "$47000",
+          "specifications": {
+            "Notable features": [
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "258 @ 2500-5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson strut Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,219 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Prestige",
+          "price": "$50000",
+          "specifications": {
+            "Notable features": [
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "4-link Suspension Type - Rear",
+              "MacPherson strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,395 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Premium Plus",
+          "price": "$50000",
+          "specifications": {
+            "Notable features": [
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "MacPherson strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,395 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-wheel Brake ABS System",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d47e756f-e444-430e-bcd8-c8e27e237072/30a50cb2-b658-44c8-b6c3-3ff7f6bea3e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/b43d210c-4ac7-471d-9fd1-c68e0f7cf0ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/489098b8-83e5-4cd6-90c5-680cc770d102.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/714c5d60-7ccb-4dfe-8a1d-bed79ea7310d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/ac507522-f5f4-46f5-9f2f-af3de18402eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/67367243-e87f-4c40-bd8f-05a4839548db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/0cc3eec6-93a4-47d4-be72-a80c729ea1c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/fb9a4c2c-e952-4372-b3de-fd23b622c06b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/54efc154-33e7-45e7-a812-6d79c1520312/d0c19fad-e64b-4c9d-9431-e3f1864de83c.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe distinctively styled Audi TT sports car is available in coupe or roadster form. It’s powered by a turbocharged four-cylinder engine, and all models have all-wheel drive. Competitors include the BMW Z4 and Mercedes-Benz SLK-Class.\n\nAudi offers two high-performance versions of the TT: the TTS and TT RS. The TT RS is covered in a separate report in the Cars.com Research section.\n\n(Skip to details on the: TTS)\n\n\nNew for 2013A newly available S line Competition Package includes unique 19-inch matte-black wheels with performance tires, black exhaust tips, a front splitter, rear diffuser and a rear spoiler. The cabin gains S line cues.\nExterior\nThe TT has a taut, muscular appearance that helps distinguish it on the road. It’s immediately recognizable as an Audi, thanks to the large trapezoidal grille that dominates the car’s front end. The coupe’s roofline tapers gracefully to its tail. Exterior features include:\n\nAluminum-intensive construction\n18-inch wheels; 19-inch wheels available\nLED daytime running lights\nRetractable spoiler\nHeated side mirrors\n\nInterior\nThe TT coupe has front bucket seats and a small rear seat. The large rear hatch opens to a cargo space that Audi says can carry two golf bags. The TT roadster is a two-seater. The driver faces two large, round gauges and a flat-bottom, multifunction steering wheel. The air vents on the dashboard are round, too, and trimmed with aluminum. Interior features include:\n\n\nCD stereo with MP3 jack and satellite radio; six-CD changer available\nAutomatic air conditioning\nCruise control\nBrushed aluminum trim\nLeather/Alcantara simulated suede seat upholstery\nAvailable heated front seats\nAvailable Bose stereo\nAvailable LED lighting\nAvailable navigation system\nAvailable iPod connectivity\n\nUnder the Hood\nThe TT is powered by a 211-horsepower, turbocharged 2.0-liter four-cylinder that makes 258 pounds-feet of torque. It’s mated to a six-speed dual-clutch automatic transmission. Mechanical features include:\n\n\nEngine uses premium gas\nAll-wheel drive\n\nSafety\nSafety features include:\n\n\nAntilock brakes\nSide-impact airbags for the front seats\nFront knee airbags\nElectronic stability system\n\nTTS\n\nThe TTS is a high-output version of the TT. Available in roadster and coupe versions, both with all-wheel drive, the TTS is powered by a 265-hp, turbocharged 2.0-liter four-cylinder engine with 258 pounds-feet of torque. The only transmission offered is a six-speed dual-clutch automatic. The TTS features bi-xenon high-intensity-discharge headlamps with LED daytime running lights. There’s also a larger lower air intake up front, lower rocker panels on the sides, a rear diffuser and quad exhaust pipes out back. For 2013, a two-tone leather interior is available. Back to top",
+      "trims": [
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Premium Plus",
+          "price": "$47350",
+          "specifications": {
+            "Notable features": [
+              "New S line Competition Package",
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "4 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,219 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Prestige",
+          "price": "$47350",
+          "specifications": {
+            "Notable features": [
+              "New S line Competition Package",
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "4 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "258 @ 2500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,219 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Premium Plus",
+          "price": "$50350",
+          "specifications": {
+            "Notable features": [
+              "New S line Competition Package",
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "2 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,395 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Prestige",
+          "price": "$50350",
+          "specifications": {
+            "Notable features": [
+              "New S line Competition Package",
+              "211-hp, turbo four-cylinder engine",
+              "Six-speed dual-clutch transmission",
+              "Standard AWD",
+              "High-performance TTS, TT RS versions"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "2 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "258 @ 2500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,395 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "12.2 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/deb7df54-be50-47de-8539-7ec4072cae27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/1039685d-a978-463c-b6bd-eadbde096f6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/432af4ff-b28d-4c44-8cb5-b3714e5156af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/4e268a04-20cb-4980-b66f-86154acb8134.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/7209ad0e-00d3-4963-8269-70e1dc557e7d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/1039685d-a978-463c-b6bd-eadbde096f6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/cd9f75f7-1c7a-4dfc-83b2-9c216040c117.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/8e76ad73-d51c-4c5c-ab22-f91780343995.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa3ea997-0853-4827-ad2b-2c981c738275/408c82c9-7acd-466a-98ca-677bc6a7fbfe.png"
+      ],
+      "expert_review": "What does an S add?\n\nGrammatically speaking, an S can create a plural. Tack it on to the end of a noun and suddenly there’s more.\n\nIn the automotive world, the S at the end of a car’s name is shorthand for speed, sportiness and a certain amount of sexiness that just doesn’t come with the standard model. S is the big plus sign and exclamation mark all at the same time.\n\nThe 2011 Audi TTS is no exception. The TT is a great little coupe that already provides a sporty ride wrapped around German precision. The TTS is more; it’s like a TT that goes to 11.\n\nThe heart of the TTS is its beautifully built 265-horsepower TFSI direct injection turbocharged 2-liter four-cylinder engine. While nearly identical to the TT’s 2-liter engine, the TTS uses a few different pieces to add 54 horsepower. But because the TTS is also lighter than the TT — Audi uses more aluminum in its body components — it matches the less powerful TT’s gas mileage: 22 mpg city and 31 mpg highway.\n\nSadly, there’s no manual transmission to go along with that beautiful engine. Instead, Audi offers a silky smooth S tronic dual clutch six-speed transmission. This gear box shifts incredibly fast and anticipates what the driver will do next. (This is meant as a metaphor; Audi uses a number of sensors and a computer to send messages to the transmission and get ready for the next shift.)\n\nAll of that power, light body and high-speed transmission lets the TTS bolt from 0 to 60 mph in 4.9 seconds. Standard all-wheel drive doesn’t hurt either, letting the TTS rip through corners as if it were on rails instead of pavement.\n\nOf course, the magnetic suspension, a high-tech dampening system that can nearly instantly adjust how the car’s body reacts to bumps, corners and other high speed driving, adds to the car’s performance.\n\nThen there’s the car’s Servotronic steering system. A new standard edition to the TT family for this model year, it feels extremely precise. The new system is speed sensitive and changes the steering ratio depending on the speed. If you’re driving slowly, the ratio is quicker, and as you speed up, it gets tighter. This means it’s easier to park and safer to cruise along on the highway. It’s also incredibly fun to drive; there may be a reason why TTS rhymes with yes.\n\nThe one gripe I had with the TTS was the accelerator pedal. There was a brief pause between the moment you pressed the pedal and when the car began moving forward. An owner may get used to this idiosyncrasy, but I found it annoying. The one way I was able to bypass this lag was to always mash the pedal when taking off.\n\nLike TT but better\n\nInside, the TTS is similar to the TT, but still better.\n\nThere are some features such as the Silk Nappa Leather package that are options for the TT but are standard on the TTS.\n\nIn fact, for the 2011 TTS, Audi has added a number of standard features such as the auto dimming rearview mirror, 10-way power seats, nicely placed aluminum accents on the flat bottom steering wheel, center console and door handles. These add just the right amount of sparkle to an otherwise dark interior.\n\nThere are all of the features you’d expect in a luxury sports car. Audi includes the large color screen in the center stack, and it’s easy to operate. There’s an uncluttered feel to the entire cabin that exudes purpose. This car caters to the driver and allows the driver to focus on driving.\n\nThe leather interior with its heavy stitching is simply stunning. But that isn’t enough for a bunch of German engineers. This leather is specially treated so that if the car is parked in the sun, the leather can reduce thermal heating by as much as 68 degrees. This means you can wear shorts and drive the car during the summer and not worry about burning your thighs.\n\nThe TTS coupe comes with a 2+2 configuration, which is automotive shorthand for second-row seats so small no people can actually fit in them. (There’s 32.6 inches of head room in the second row and 29.3 inches of legroom back there.) The second row, however, does fold down and creates a lot of very useable space — transforming the 10.1-cubic-feet space behind the second row into 24.7 cubic feet.\n\nOf course, it will play your iPod or Sirius satellite radio through the nine-speaker stereo system, allow for Bluetooth connectivity for hands-free cell phone operation, bring up maps on a crystal-clear screen and offer other features you’d expect.\n\nNice, not mean\n\nThe exterior is just as nice with just as many pieces of jewelry that help it sparkle.\n\nThe TTS is not a big coupe. It is only 164.5 inches long, about the size of many subcompact cars. But it’s perfectly proportioned, with its big 19-inch wheels pushed out to the corners of the coupe. It may be small, but it looks sharp; call it the Tom Cruise of sports cars.\n\nWell, maybe more of a Christian Slater, because the TTS doesn’t look aggressive or mean. There’s a roundness to the exterior that hides much of this car’s capabilities. Only the S badge might suggest there’s something more to it.\n\nA stripe of LED lights below the headlight gives the TTS some electrical war paint that makes everyone recognize this car means business. The LED trend around the headlights has caught fire with lots of carmakers, but still, Audi seems to just do it better.\n\nOf course, you need the letter S if you want to spell the word “cash.”\n\nThe TTS isn’t cheap. It may be just a one letter difference, but the TTS starts at $47,000, $8,700 more than the regular TT.\n\nIt’s a small price to pay to keep that grin on your face every day you drive it. The TTS will add an S to every mile.\n\nsburgess@detnews.com (313) 223-3217\n\nReport Card\n\nOverall: *** 1/2\n\nExterior: Excellent. Well-proportioned and curvy. Looks good from every angle.\n\nInterior: Excellent. Nicely laid out and excellent choice in materials.\n\nPerformance: Good. All-wheel drive and powerful engine make this car a dream to drive.\n\nPros: Fun to drive, lots of high-tech performance features. Clearly outperforms the base model TT.\n\nCons: Expensive and only seats two people.\n\n**** Excellent *** Good ** Fair * Poor",
+      "trims": [
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Premium Plus",
+          "price": "$47000",
+          "specifications": {
+            "Notable features": [
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "3.2-liter V-6 engine dropped",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "2.0L/121 Displacement",
+              "Turbo Gas I4 Engine Type",
+              "265 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "MacPherson strut Suspension Type - Front",
+              "4-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,153 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "4-wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe S tronic quattro 2.0T Prestige",
+          "price": "$47000",
+          "specifications": {
+            "Notable features": [
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "3.2-liter V-6 engine dropped",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbo Gas I4 Engine Type",
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "258 @ 2500-5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson strut Suspension Type - Front",
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,153 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Premium Plus",
+          "price": "$50000",
+          "specifications": {
+            "Notable features": [
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "3.2-liter V-6 engine dropped",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "Turbo Gas I4 Engine Type",
+              "2.0L/121 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson strut Suspension Type - Front",
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,395 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Roadster S tronic quattro 2.0T Prestige",
+          "price": "$50000",
+          "specifications": {
+            "Notable features": [
+              "High-performance TTS trim level",
+              "Automatic transmission only",
+              "AWD only",
+              "3.2-liter V-6 engine dropped",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 2500-5000 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Turbo Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "4-link Suspension Type - Rear",
+              "MacPherson strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,395 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.2 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.4 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2009": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/d1d45532-8f8f-4779-afa6-a866d00cda7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/a3076f00-2870-453e-ab2a-50ff8a0b04a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/08edf033-5ad2-418e-b33e-9042cc55dd49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/30afff2b-e642-4171-9245-9548166d73ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/8e2cdec1-4c03-4da1-91b5-21442fd2937a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/b3f30f62-395c-4c1d-adc7-fbb1d7dbc66f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/0d572a75-3ba4-4ce4-96e0-55ebf091198e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/65657e54-c593-4f61-98de-b4de9810656d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/693be040-6331-460c-adc9-703f966eb806.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/c1ecb4fe-e285-462a-8bf2-cace6448db4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/e93d7abf-bbd6-434f-b5d1-4bf824f5977c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/695d43e5-4424-41ca-bb50-72b41428dd74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/fd3b2ac0-97c3-4f48-aad2-a52a02d52cca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/f4fadaec-c79a-4d86-b46e-4949f54d259d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/8ad136c1-396c-4526-8028-94192eb720b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/0e18f78f-eba4-4a5c-9dff-af22000a8104.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/05bc3f02-4877-4cc1-b065-d20d4817b960.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/306747ec-9432-449e-8466-da67c7b1bcbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/aefe8777-0eda-4a3d-bcf1-5ae700394503.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0e199306-39d2-4551-93d4-904f2caf92e6/95013d44-1fb0-42d5-8b9e-31e90c7c2d4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/fce6d2ee-746f-4cac-af52-04f8df15963c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/5b8f0a2f-9f19-46eb-9d67-aa8a2dbfbc35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/afc9f8c1-d511-415f-8672-681d576762e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/70f28593-6caf-49f2-8386-d1cba14506ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/f955d9fe-f681-4f80-a516-349a07c99b22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/e26b95c7-2b0e-4f6d-8727-ae4b7ff691e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7e850f55-f932-43f2-9a9f-cf1847dd3aeb/1ae3b6e8-dd2b-4dfc-a31e-5827f5b2c161.png"
+      ],
+      "expert_review": "The 2009 Audi TTS arrived in America at the end of last year as the performance version of an already very capable coupe.\n\nI hope it applies for citizenship.\n\nA powerful turbocharged all-wheel drive little coupe is the kind of citizen we need to encourage to immigrate here. The redesigned TT is already a looker, refined with a modern and graceful appearance, its curvy fenders matching the gentle slope of the roof. The TTS adds some pieces that help differentiate itself from the regular TT, but nothing feels over the top. The silver mirror casings and unique rocker panels are noticeable, if you look closely.\n\nThe key with the TTS’s appearance is its understated good looks. It’s the same as the TT, but different.\n\nThe big 19-inch wheels hint at something, and the black brake calipers and dual chrome exhaust pipes could mean something, an onlooker might guess.\n\nThen, before onlookers know it, the tail lights have become two dots in the distance. The front end creates a laid back power look with its all of the grille work above and below the bumper. The LED lights emphasize the lower edge of the special Xenon plus headlamps. Audi continues to lead carmakers when it comes to lighting, creating little glowing works of art. Ride is constantly adjusted\n\nDesigned to take on the likes of the Mercedes-Benz SLK350, the Porsche Cayman and BMW Z4 3.0si, the TTS offers a magnetic ride suspension that constantly adjusts the ride, while blasting 265 horses through the direct injection turbocharged inline four-cylinder engine. This magnetic system eats up bumps and smooths out the ride. (It works by running electricity at different levels through the shocks, which instantly changes the viscosity inside them. There are different settings that allow you to pick how stiff you want the ride to be — the stiffer the ride, the faster you can go. But even in normal mode, the TTS performs like a champ.\n\nThe performance S tronic dual-clutch transmission clutch also is quick and seamless. It works like a manual with an automatic clutch system — meaning no pauses to push in a clutch. The paddle shifters are fast and clean and the TTS never lurches between shifts. It just goes faster.\n\nThe light weight body — known as Audi Space Frame construction — is 69 percent aluminum and 39 percent steel. This keeps its weight down to 3,200 pounds — even with an all-wheel drive system.\n\nThe stiff frame, magnetic suspension and powerful engine all contribute to this car’s great performance. Entrance and exit ramps never became so exciting. The body hardly rolls no matter how hard you press it. Really, there’s much more car than my driving abilities could truly test. On a trip to Macomb County, the TTS flew through traffic. Zig or zag, the TTS offers scary speed that you don’t even realize you’re hitting.\n\nIf you own a TTS, you should also own a radar detector. Not that I would encourage anyone to drive over the speed limit, but, well, I’m just saying, take a look at some of its numbers:\n\n* 0-60 mpg: 4.9 seconds\n\n* Top speed: 155 mph\n\n* Shift time: .2 seconds\n\nAll that and it still manages to get 21 miles per gallon in the city and 29 mpg on the highway — though if you’re tossing this car around corners like a rag doll, don’t expect high mileage numbers. Artful interior aims at driver\n\nPart of this illusion of driving slower is that the TTS was remarkably quiet. My test vehicle was a coupe and I’m certain that the roadster would be at least slightly noisier. And the quality interior keeps up with Audi’s growing reputation as a top-line carmaker. There is the big front cockpit, and seats in the back for two (though this space really seems like a place to hold two brief cases). I’d like to see a two-seater coupe version in which the second row is completely removed and replaced by functional storage space.\n\nThere is an artful function to the interior that feels luxurious but emphasizes driving. Everything inside the cabin points to the driver, with the aim of making his job easier. It’s only when you blast off that you really appreciate the TTS.\n\nIf you take the TTS out once, you want to do it again. And again.\n\nMy biggest gripe about this car was Audi only gave it to me for a few days. I reluctantly returned the keys. It’s one of the most fun Audis available, and that’s saying something.\n\nNow, it just needs to convince its brother, the TT RS, to join it on this side of the Atlantic. There’s room on the road for both.\n\nSburgess@detnews.com (313) 223-3217",
+      "trims": [
+        {
+          "name": "2dr Cpe AT 2.0T quattro Prestige",
+          "price": "$45500",
+          "specifications": {
+            "Notable features": [
+              "New for 2009",
+              "265-hp turbo four-cylinder",
+              "Dual-clutch automatic transmission",
+              "Adaptive suspension",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Turbo Gas I4 Engine Type",
+              "221 @ 2500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "MacPherson Suspension Type - Front",
+              "4-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "2,965 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "12.3 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe AT 2.0T quattro Prem Plus",
+          "price": "$45500",
+          "specifications": {
+            "Notable features": [
+              "New for 2009",
+              "265-hp turbo four-cylinder",
+              "Dual-clutch automatic transmission",
+              "Adaptive suspension",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/121 Displacement",
+              "Turbo Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "4-link Suspension Type - Rear",
+              "MacPherson Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "2,965 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.3 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe AT 2.0T quattro Prem",
+          "price": "$45500",
+          "specifications": {
+            "Notable features": [
+              "New for 2009",
+              "265-hp turbo four-cylinder",
+              "Dual-clutch automatic transmission",
+              "Adaptive suspension",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "4 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbo Gas I4 Engine Type",
+              "2.0L/121 Displacement",
+              "221 @ 2500 SAE Net Torque @ RPM",
+              "265 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "4-link Suspension Type - Rear",
+              "MacPherson Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,965 lbs Base Curb Weight",
+              "15 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "12.3 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Rdstr AT 2.0T quattro Prem",
+          "price": "$47500",
+          "specifications": {
+            "Notable features": [
+              "New for 2009",
+              "265-hp turbo four-cylinder",
+              "Dual-clutch automatic transmission",
+              "Adaptive suspension",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "221 @ 2500 SAE Net Torque @ RPM",
+              "Turbo Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "MacPherson Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,965 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "12.3 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Rdstr AT 2.0T quattro Prem Plus",
+          "price": "$47500",
+          "specifications": {
+            "Notable features": [
+              "New for 2009",
+              "265-hp turbo four-cylinder",
+              "Dual-clutch automatic transmission",
+              "Adaptive suspension",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/121 Displacement",
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "Turbo Gas I4 Engine Type",
+              "221 @ 2500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "MacPherson Suspension Type - Front",
+              "4-link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "2,965 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "140 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "12.3 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Rdstr AT 2.0T quattro Prestige",
+          "price": "$47500",
+          "specifications": {
+            "Notable features": [
+              "New for 2009",
+              "265-hp turbo four-cylinder",
+              "Dual-clutch automatic transmission",
+              "Adaptive suspension",
+              "Coupe or roadster"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "2 Seat capacity",
+              "Turbo Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "265 @ 6000 SAE Net Horsepower @ RPM",
+              "221 @ 2500 SAE Net Torque @ RPM",
+              "Turbo Gas I4 Engine Type",
+              "2.0L/121 Displacement"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "MacPherson Suspension Type - Front",
+              "4-link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,965 lbs Base Curb Weight",
+              "15 gal Fuel Tank Capacity, Approx"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "140 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "12.3 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "11.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

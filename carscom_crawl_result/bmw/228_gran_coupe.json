@@ -1,0 +1,801 @@
+{
+  "make": "bmw",
+  "model": "228_gran_coupe",
+  "years": {
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/62238562-56c2-46f4-874e-bb3a42c143fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/b85ce11e-103a-4d59-afaf-441fdb94d3be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/e48949d9-7f6c-4ce8-a1a5-06444802544c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/62238562-56c2-46f4-874e-bb3a42c143fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/f517f4c5-bbbb-40cd-aee3-96dd66352380.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/9c8b4d2a-b9c7-4cfa-9d1f-58242dc34006.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/a692e6f5-5104-42a6-957e-573e84116149.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/356122a7-7f71-44b2-a172-eccb777638c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/9ca4307e-fc7f-4e3c-bd7f-53e7161251ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/3ba414ce-aa8a-4988-8a74-fbe5fd49b08b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/283eacaa-160d-4ffe-b13d-baf1c7af3f3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/283ab2d6-ee26-4832-9725-b8aa1bbac7c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/9be9c563-0b55-423d-a3ba-357bf4cf2592.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/32fe65d0-4455-4339-840e-c4bbb5ef9e77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/410d791f-0030-49ff-9fd0-6c0d7cb86822.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/17576b3e-1a8c-4d17-986d-5da2d8a6e6b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/335595f6-ec8d-4a91-90d6-8f1a89ee899c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/2146cf9c-5d68-4b14-a551-a158c5a6e1d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/0455031f-4f98-492f-8655-ebe274ffcd85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/a3d856b1-5bf9-4fb4-9499-109f69b8349b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/7948f550-d744-47f2-966f-b81fdc0ce2d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/c663450f-57d4-455b-90ba-6e3527fae002.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/f33090fb-2872-4c88-adda-5f7fd8d02fb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/f370728b-b73e-4f6b-bb2a-55ff6cefe00a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/ad6ba25d-bb84-494c-a3b8-969db487b1ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/fca6a19d-ba06-4fca-974a-30be0073f71e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/1e1bc996-c271-4504-b722-27a552fdf0a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/9ae0b93a-8f04-492e-bc9f-1ddfd8122197.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/885daafd-8433-4584-a40a-955d8a3853b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/7aa9da1d-a98a-43f3-bf9d-d85a8d47af45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b9662d24-d7de-4d6d-8efd-b6f9dfd06f75/eabcbc91-addf-4a0d-a6be-95146490f3ed.png"
+      ],
+      "expert_review": "The verdict: The 2020 2 Series Gran Coupe is an adequate subcompact sedan so unlike traditional BMWs you’ll wonder if the Bavarians have created a new sub-brand.\n\nVersus the competition: More expensive than the Audi A3 and Mercedes-Benz A-Class but cheaper than Mercedes’ CLA, the 228 Gran Coupe offers first-rate interior technologies but a lackluster powertrain.\n\nThe 228i xDrive Gran Coupe is new for 2020, ostensibly a sibling of the 2 Series coupe despite sharing a platform with the X1 and X2 SUVs. It’s also the base trim level of the 2 Series Gran Coupe; a more-powerful M235i xDrive version is also available. Despite their front-wheel-drive platform, both are offered only with BMW’s xDrive all-wheel-drive system. The 228i xDrive starts at $38,495 with destination charge; with options, our test car totaled $48,495.\n\nRelated: 2020 BMW 2 Series Gran Coupe: Small But Spendy\n\n“How’s the Kia?” was a question I heard multiple times from my colleagues while driving the 2020 BMW 228 Gran Coupe, which made me think from time to time that maybe I was driving a Kia. The 228 Gran Coupe would be a solid Kia — albeit a very expensive one — but it’s a lousy BMW.\n\nDriving it for multiple days led to feelings of embarrassment — not for myself, but for BMW, which seems intent on squandering its “ultimate driving machine” cachet when it comes to road cars. (That said, even some apparently boring BMWs still shine when pushed, as we discovered last summer in the 2019 330i sedan, but exigent circumstances prevented any similar closed-course testing of the 228).\n\nFirst-Rate Tech, With a Learning Curve\n\nWhere the 228 Gran Coupe shines is in its use of technologies pioneered in more expensive BMWs. The 8.8-inch screen for BMW’s iDrive has some of the highest-quality graphics of any automaker, and that’s also true of the optional 10.25-inch digital instrument cluster with which our test car was equipped. The display quality also shines when using the backup camera, offering a clear picture of the area behind the car even in low-light situations. When I put on sunglasses inside a parking structure I was still able to see the camera display clearly.\n\nApple CarPlay smartphone connectivity is included as standard equipment, but there’s a catch: It only functions wirelessly. Some staff members here at Cars are staunchly pro-wireless CarPlay, while others, myself included, find it lacking. This may be because I have an older iPhone (7 Plus), leading to connectivity issues, but those issues were especially prevalent in the 228. My music would occasionally “skip,” like I’d been listening to a CD and gone over a harsh bump, and occasionally others complained about my half of the audio in phone conversations. My older phone also meant I couldn’t take advantage of the car’s wireless charging, so I still had to plug it in using a USB cord. If BMW could figure out how to offer wired and wireless CarPlay, I’d be far less annoyed. Android users need not worry about the wireless connection; Android Auto isn’t offered at all.\n\nWhile screen quality is top-notch, iDrive does leave something to be desired when it comes to user interface. It isn’t the most complex infotainment system currently in a car — I find Mercedes-Benz’s MBUX even more Byzantine, and the current systems in Jaguar and Land Rover products are a mess — but iDrive’s latest evolution has brought back complexity where it needn’t have, choosing deep menus instead of straightforward information delivery.\n\nSounds Good, Feels Meh\n\nDriving the 228 Gran Coupe with the windows down, you’ll hear some great turbocharger “whoosh!” noises coming from the engine compartment, but you won’t feel like those noises mean much. Powered by a turbocharged 2.0-liter four-cylinder engine taken from the X1 and X2, the 228 Gran Coupe has 228 horsepower and 258 pounds-feet of torque at its disposal, directed to all four wheels via an eight-speed automatic transmission.\n\nIn theory, that’s good enough to hit 60 mph in 6.0 seconds, BMW says. In practice, though, the Gran Coupe is a bit sluggish off the line and slower to respond to a stab of the gas pedal than I would prefer, particularly in a car covered with BMW M symbols. I found myself leaving the 228 Gran Coupe in Sport mode for much of my time with it to try to wring any enjoyment out of the car. Sport mode didn’t seem to change throttle response much, but the usually higher rpm did reduce the time needed for the turbo to spool up. Interestingly, where some cars have a Sport mode hold a lower gear even during highway driving, which can cause an annoying amount of engine drone, the 228 Gran Coupe’s programming would eventually shift up to its 8th and highest gear. \n\nConstant use of Sport mode will reduce the 228i xDrive Gran Coupe’s fuel efficiency, which the EPA estimates at 23/33/27 mpg city/highway/combined. That’s identical to the 2020 Mercedes-Benz CLA250 4Matic and higher than the 2020 Audi A3 quattro’s 22/30/25 rating. The 2020 Mercedes-Benz A220 4Matic has slightly better ratings, at 24/34/28 mpg. Most damning, however, is that even the 2020 BMW 330i xDrive is rated higher than the 228i xDrive Gran Coupe, at 25/34/28 mpg. All these cars recommend premium gasoline with the exception of the Audi, which takes regular.\n\nRide quality was surprisingly adequate for a small car, even with optional 18-inch wheels and an optional M Sport suspension. It was significantly better, in fact, than the similarly optioned but larger 2019 330i xDrive we had in our office late last summer. The Gran Coupe was still thwacked by bumps on the road, but it remained composed. However, it seemed to have greater difficulty staying on track at highway speeds, exhibiting some surprising tramlining behaviors for a car without wide, high-performance tires.\n\nThe 228 Gran Coupe’s greatest shortcoming, though, is its numb steering. We’ve been complaining about this phenomenon in contemporary BMWs for some time, but this is one of the worst cases. The steering isn’t communicative at all, making it hard to feel like you can point the Gran Coupe exactly where you want it to go. Throw in some understeer and you’re left with what should be a small, nimble car that instead feels much more “Gran” than it actually is.\n\nNot Gran on the Inside\n\nInterior space is at a premium in the 228 Gran Coupe — even for the driver. The footwell is narrow, and there’s not much legroom or space to spread your legs. Forward visibility is somewhat diminished by the raked windshield, but thinner A-pillars help counteract this. To the rear, visibility is affected more by the rear head restraints  than anything else, and the 228 Gran Coupe’s design doesn’t create any significant blind spots.\n\nSitting in the backseat behind my preferred driving position proved nearly impossible. Legroom is tight to begin with, but my driving position pushed the seat so far backward that rear legroom was reduced to almost nothing. Add to that a sloping roofline that leaves backseat passengers with less headroom than they’d have in a 2 Series coupe, and it’s a very uncomfortable place to be. \n\nSpace was better behind the front passenger seat, but sitting ahead of myself left my knees resting on the dashboard. The interior of the 228 Gran Coupe is a place of compromises that won’t satisfy anyone, which makes me think it was designed by Henry Kissinger (or that a BMW sedan with a front-wheel-drive platform might be a war crime).\n\nInterior materials quality is hit or miss. The optional leather upholstery — in place of SensaTec imitation leather — felt luxurious enough to justify its $1,450 cost, but there’s a lot of hard plastic around the cabin that frustrated me, particularly on the lower halves of the doors and the lower sides of the center console. BMW did find an upscale way to make use of some hard plastic, however, with trim pieces featuring a digital matrix pattern that also house the ambient light elements. It might not be as nice as wood or metal accents, but the younger buyer BMW seems to be targeting with this car might find it more interesting.\n\nStated cargo specs for the 228 Gran Coupe are 12.0 cubic feet, which isn’t much. Both the 2 Series coupe and 3 Series offer more trunk space, according to BMW’s own measurements. The trunk is enough to hold a decent week’s worth of groceries for one or two people and maybe a bag of dog food, but luggage for a longer trip for two might end up in the backseat.\n\nSafety Tech Sort of Standard\n\nBMW’s Active Driving Assistant suite of safety technologies comes standard, including forward collision warning, automatic emergency braking, lane departure warning and blind spot detection. BMW used to make buyers pay extra for those features, so this is a nice change. Lest you think BMW has completely turned over a new leaf, however, adaptive cruise control is still a separate, $1,200 option — and one that was not part of our test car.\n\nAs of this writing, the 228i xDrive Gran Coupe has not yet been evaluated by either the National Highway Traffic Safety Administration or the Insurance Institute for Highway Safety.\n\nWhat Price a Badge?\n2020 BMW 228 Gran Coupe | Cars.com photo by Brian Normile\n\nAt an as-tested price of $48,495 (including a $995 destination fee), it’s exceedingly difficult to make the case for a BMW that isn’t all that enjoyable to drive and doesn’t offer a backseat adults can use. Even the car’s $38,495 starting price seems steep. \n\nOur as-tested price of nearly $50K could also get you a new 330i xDrive with some options (or a rear-wheel-drive 330i with even more options). The 3 Series is bigger, faster and somehow more fuel-efficient, according to the EPA, and while it may not offer the visceral driving experience of its predecessors, it’s certainly more enjoyable to drive than the 2 Series Gran Coupe. And no one will mistake it for a Kia.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_23661",
+          "price": "$23661",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/547c5367-6aed-4561-8b96-ae43dfce3568.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/13246c9b-7678-4d89-a246-7aa37abfefbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/df524e7e-7ff8-488c-a9df-bdb952d14a39.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/03c0fb66-785c-49ce-8946-546261f9fee7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/5e4b9d85-7ab3-4bb3-85ae-19af99c8d3be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/94c3e856-789a-449c-916e-e1ae5375acec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/43be9034-8cac-4efc-96ee-9f89781f08f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/5a01d8c2-738d-4e56-adf9-c5e2ab977406.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/03c0fb66-785c-49ce-8946-546261f9fee7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/cbbba0b0-7e56-4847-a4aa-9d852ddeeb41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/e13ac1e3-1b17-475e-8e9e-454959db6e3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9483c9bf-11e8-4172-8c96-44a6b86c61d1/90c234e8-b1d5-4003-957b-9c7fadb32afc.png"
+      ],
+      "expert_review": "Competes with: Audi A3, Mercedes-Benz CLA-Class\nLooks like: It did before, but with a standard M Sport exterior package\nPowertrains: 241- or 312-horsepower, turbocharged 2.0-liter four-cylinder engine; seven-speed dual-clutch automatic transmission; all-wheel drive\nHits dealerships: March 2025 (228 xDrive, M235 xDrive)\nIt sounds more like a thorough mid-cycle refresh (and, coming five years after the model launched, it’s timed like one), but BMW is calling the 2025 2 Series Gran Coupe the second generation of its compact sedan. With its wheelbase and width unchanged, length up an imperceptible 0.7 inch and standing an inch taller, the 2025 2 Series Gran Coupe doesn’t look all that different from its predecessor. But under the hood and in the cabin, the smallest BMW is comprehensively reworked.\nRelated: 2022 BMW M240i Review: BMW’s Tiniest Grand Tourer\n\n  \n    \n  \n    Standard M Sport Exterior\nThe 2025 2 Series Gran Coupe is most distinguishable from its predecessor from head-on or directly behind thanks to its standard M Sport exterior design package. There’s less plastic and more negative space in the front bumper, with a larger intake under the grille flanked by vertical inlets. Headlights with prominent LED daytime running lamp elements mimic those on the face-lifted 3 and 4 Series. Similarly exaggerated forms dramatize the rear bumper, with an amplified central diffuser element and large outboard vents. It’s not just the M Sport appearance that is standard on the second-gen car; it also rides on an adaptive M suspension.\nThe Gran Coupe will be available in 228 and M235 guises. (BMW is now reserving the “i” in its model designations for electric models.) Both get heavily revised versions of the brand’s four-cylinder engine that still displaces 2.0 liters, but the 228’s now generates 241 horsepower and 295 pounds-feet of torque, increases of 13 and 37, respectively. The M235’s outputs 312 hp and 295 pounds-feet, up 10 hp but down 37 pounds-feet from its predecessor. BMW claims the 228 will accelerate from 0-60 mph in 5.8 seconds, and the M235 will need just 4.7 seconds.\nBoth engines swap out the eight-speed automatics of the pre-face-lift — excuse us, first-generation — Gran Coupe for a seven-speed dual-clutch automatic. A front-wheel-drive 228 sDrive will be available later for 2026; at launch, BMW will offer both engines exclusively with all-wheel drive.\n\n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n  \n    Meat-Free, Screen-Heavy Interior\nThe 2025 2 Series Gran Coupe’s interior is updated to incorporate BMW’s Curved Display, which abuts a 10.25-inch digital instrument panel and 10.7-inch touchscreen behind a single curved screen; it runs on BMW Operating System 9. Completely leather-free, the refreshed interior is upholstered with perforated Veganza synthetic leather and features standard heated front seats, cloud-based navigation, a 12-speaker Harman Kardon sound system and wireless device charging.\nThe 2 Series Gran Coupe already enjoyed a thorough suite of standard safety gear, but the 2025 model gains some significant optional driver-assistance tech. Forward collision warning with automatic emergency braking, blind spot monitoring, lane departure steering assist and road-sign recognition are standard, as are front and rear parking sensors. However, the list of optional upgrades now includes adaptive cruise control, lane-centering steering, lane change assist, traffic jam assist for hands-free self-driving at speeds up to 40 mph, and front and rear cross-traffic alert. Automated parking and a 360-degree camera system are also available.\nMore From Cars.com:\n\n2024 BMW 2 Series Carries Over Mostly Unchanged, Starts at $39,395\n2023 BMW M2 Review: Mmm Mmm Good (and Nearly Great)\n2020 BMW 2 Series Gran Coupe: 5 Things We Like, 6 Things We Don’t\nResearch the BMW 228 Gran Coupe\nFind Your Next Car\n\nAvailability and Pricing\nThe 2025 BMW 228 xDrive and M235 xDrive Gran Coupe will launch in March of 2025. The 228 xDrive starts at $42,775, while the M235 bases at $50,675 (all prices include $1,175 destination fee). When the sDrive hits dealers, it will be priced from $40,775.\nEditor’s note: This story was updated Aug. 13, 2025, to clarify that BMW pushed back the launch of the 228 sDrive for model-year 2026, not 2025.\nRelated Video:\n\n  \n    \n\n  \n    Cars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_37000",
+          "price": "$37000",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/1f41fd5e-4936-4f5a-b42c-0f0d3f1cc509.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/523750d9-312c-49e1-80c1-ace8768abc44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/e52f9853-55d5-4cab-9a13-1df38987b7c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/f635e928-c5af-4723-a0fe-7f77b00b682f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/e640a27c-d19d-4373-9c83-aa505d430881.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/28cfdee8-9431-4f43-b7c8-12f15ef44e2a.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/687c258b-4cac-4483-8918-48cdbe6e59b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/483afb7e-18f6-491b-8d4e-44b87a4abb0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/dac117c0-c7fb-4de5-a067-a682385f89c7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/dac117c0-c7fb-4de5-a067-a682385f89c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/00b09094-974d-4421-b132-ea4553ea63c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b2f7feb-c0dd-4b4c-914e-615d59ad924f/e3000788-b2d7-46ef-8732-f0953c36a7ea.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "228 Gran Coupe",
+          "price": "$39600",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "241 @ 4500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "228 xDrive Gran Coupe",
+          "price": "$41600",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "241 @ 4500 SAE Net Horsepower @ RPM",
+              "295 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/15e70f0a-42cf-4bc2-9d4b-730929bc428e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/c7660d8b-a628-4c8b-8ecd-c09205cbe284.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/f33397ce-7839-4e8b-9a4a-9ac58cedbfee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/4f09ab0c-6a55-4cbc-a367-255bb15055b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/3488f6a7-0691-46b8-95b1-f3cdfc2a109c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/f90aedcb-a6f4-493d-85c7-f5af5eccc701.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/0ccf6ec5-43db-4d95-a902-d38b20ace476.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/3ee7a08e-db3e-40a0-916b-1baf7355ab61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/2e2f4e69-5c2c-4244-97c3-aea2819343c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/28467f6c-4e62-4061-868a-92e403a51838.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/3edb4d8a-8d00-4909-9ee7-2bfc7951b315.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/6d66ba31-e964-4eea-8d7b-53db64a269a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/e9f863a1-0260-46e3-b9c3-e8d90239bac9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/10659818-5abe-4d51-96c7-8840028deb16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/3ad39424-7ec1-499b-b858-7ba55506ff29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/1c168866-3956-41f6-b27b-f9b271ab08ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/22e85224-2189-4113-96b4-28fb538c1db4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/b47067b6-118b-4175-9536-1c9858232262.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/9f097e22-34f8-4ce9-a460-abeba9e136dc.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7e27760f-dd24-44f4-a2dd-d9e41fdbf2ef/9cd6ee7a-004e-49ca-95a3-c410962f3909.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/e775a1e4-c9bd-405b-b14e-103d19872638.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/78e2a86e-b275-404d-b30a-d1700fc3c736.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/233c30d2-3f7b-4090-96d6-43a764ad8829.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/6ba113c1-23a5-4ca9-bbb4-70900f8bde93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/4844e45c-8997-48fd-b035-da4ba9c2b6eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/e4881ee4-9734-409c-af16-c4c4db2124ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/8ef4d88a-8066-4e72-8f64-25eca8da5d94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/46c1562b-102c-4c06-a0a6-acbd0fd7044e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/9f779b36-89ed-4676-a4c5-4e771b13238c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/2bb9095d-e6b3-4311-b9ec-7cc4baaf886d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19b248a6-9b58-4b7b-b8d4-c47011979dd4/e3dfe502-fb22-47ce-98bf-ea5ee97684f5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "228i Gran Coupe",
+          "price": "$35700",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "228 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,393 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "228i xDrive Gran Coupe",
+          "price": "$37700",
+          "specifications": {
+            "Highlights": [
+              "23 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "228 @ 5000 SAE Net Horsepower @ RPM",
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,534 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/371c044a-637c-4ae9-ab88-f1a884ace2bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/84bf4bb8-93bd-42ed-a870-59f01341e439.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/9d3ffd23-c993-43ab-932d-0f7fa026998e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/945e6f8c-de1c-4125-b7cd-7cf18d5de1f7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/4d2bc2c1-0716-4af3-92f3-f4823aed63e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/ef023756-235a-4840-bf82-c2f103090270.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/10c42df1-0232-435e-af87-db702cd842bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/cfade530-870d-4205-a173-150bd62d67ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/101ee017-9fb2-4600-a409-cf3cf39cc31b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/ae92ef7b-bd73-4936-9c5b-87afbf593c6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/1aaca0a4-b2d4-4268-a89c-2b44159f939f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/4d2bc2c1-0716-4af3-92f3-f4823aed63e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/c653749e-279e-4625-80f7-22b7a1a8a1f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/9b0cdb41-16f7-4556-85b3-0cf582a680ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/f4866e27-ed0a-4c11-adad-08f7d5c88483.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/fa7e7379-7b15-4846-b353-8b91851b3c2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/edb30f84-09ec-4c8b-bbeb-410683179f5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/74c7b5c0-2fc6-4f2c-90c4-86dc5b622eb7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/e8881012-2860-47a4-9a77-bc7f0325146d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/901ade64-3cdf-4375-8a1f-c03ce16eb499.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/9d5d8a4f-a72d-4423-8362-01e532c88037.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/8185b7c1-a40b-4f6e-821b-b9f0cc4a6dd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/5c468e65-34f7-4d61-82f2-6278bd3ee8a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/d342f5e2-eab9-40fa-8229-2ef5ed20761a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/1f274158-fd29-482f-a9e8-3c5d8e9b6a02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/26b93451-ce10-4819-aa19-4bd9e00d45a3/573a1bb7-c90f-4974-a226-da6c86376520.png"
+      ],
+      "expert_review": "The 2023 BMW 2 Series received a major redesign for 2022, so the German luxury automaker is making only minor changes to the compact coupe for 2023 and bumping up the price slightly to $39,195 (all pricing includes a $995 destination charge).\n\nRelated: 2022 BMW M240i Review: BMW’s Tiniest Grand Tourer\n\nThe 2023 2 Series’ exterior styling carries over largely unchanged. However, all 2023 variants now get BMW’s curved gauge cluster as standard equipment. The remainder of the updates are defined by trim-option deletions for the 230i; Satin Aluminum exterior trim and Black High Gloss interior trim are no longer available. The M2 was fully redesigned for the 2023 model year; details can be found here.\n\nPerformance for the 2023 BMW 2 Series is also mostly unchanged, with the base 230i being powered by a turbocharged 2.0-liter four-cylinder that makes 255 horsepower. The M240i gets a 382-hp, turbocharged 3.0-liter inline-six; the 228i xDrive Gran Coupe comes with a 228-hp, turbo 2.0-liter inline-four; the M235i xDrive Gran Coupe has a turbo 2.0-liter inline-four that makes 301 hp; and the range-topping M2 now has a 453-hp, twin-turbo inline-six. An eight-speed automatic is the lone transmission for most of the lineup; the M2 comes with a standard six-speed manual and has the automatic transmission available.\n\nPricing and Release Date\n\nThe 2023 BMW 2 Series is available now. Rear-wheel drive is standard, and optional all-wheel drive adds $2,000; the M2 is RWD only. Full pricing is below:\n\n230i: $39,195\n228i Gran Coupe: $38,795\nM235i xDrive Gran Coupe: $48,595\nM240i: $50,095\nM2: $63,195\n\nMore From Cars.com:\n\nRedesigned 2023 BMW M2: The Smallest M Scores Big HP Boost\n2020 BMW 228 Gran Coupe Review: Little, and of Little Point\n2020 BMW 2 Series Gran Coupe Poised to Take on Mercedes CLA\n2022 BMW 2 Series Coupe Gains Power, Loses Manual\n2020 BMW 2 Series Gran Coupe: 5 Things We Like, 6 Things We Don’t\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "228i Gran Coupe",
+          "price": "$37800",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "228 @ 5000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,393 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "228i xDrive Gran Coupe",
+          "price": "$39800",
+          "specifications": {
+            "Highlights": [
+              "23 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "228 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,534 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/a58c3133-f1d4-467e-a0e5-6f6731c06198.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/cf789919-e287-480e-8e7d-473d4d30247c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/a6908f75-5d2a-4fb2-be76-38abbcb964fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/73f8a54b-9240-43e4-bb18-8edec08fd9da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/36f00a6c-596d-4b8b-8687-53cb221b58f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/1810c63b-f5d7-468b-a4e0-607b10f1c6a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/e5310be3-ba77-4d9e-b4c8-5bdf448a6433.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/8631e553-3425-4283-84fc-eb5d289ffb2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/87324eba-7c60-41e0-be60-21ccf892a9dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/627719ad-fd24-4ea1-9cd6-faf4718dd448.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/5870805a-f890-44ce-9f82-4b27f02c89e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/0c9a69d8-fe3a-49fe-acea-1597970090bf.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/a6908f75-5d2a-4fb2-be76-38abbcb964fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/fee82903-ee37-4f03-88a8-8cb1ff25d7d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/bb2b0df6-51cb-491b-b463-7e842124c258.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/f76b2dd2-f62b-4a30-be7e-9c143ffc6081.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/c08fdc58-a0dc-40e3-9119-05bf72aa71fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/038cbab1-9ca8-4094-9040-1139df878421.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/88b608eb-8d54-4851-978a-0ef07297f945.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/b8a5ef23-9894-4a06-bb63-ba92dbe48492.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/630a6cf1-585b-47aa-8966-2d85dcf64c0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/83e9baf8-8eb7-406f-a42e-545bbf2e2ccc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/5df9f08d-3afc-448b-9539-c9abd90d7458.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/d7adce3d-7b38-40b1-bbe4-bb92825f6e45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/700a74a7-bc6f-4eee-9d5f-25049e642b6d.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/6fa20570-6cdf-46e6-88b4-8b89192256a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c111f2c-7870-4f1e-a56e-dee072aea9a8/e1962da8-036d-4b82-b8b9-3ececfd62bb3.png"
+      ],
+      "expert_review": "What Is the 2024 BMW 2 Series Gran Coupe?\n\nThe BMW 2 Series Gran Coupe is a small luxury sedan with a coupelike shape. Motivating the base 228i model is a 228-horsepower, 2.0-liter turbo four-cylinder that sends power to the front wheels via an eight-speed automatic transmission; all-wheel drive is optional. The M235i version gets a peppier 301-hp version of this engine with the same gearbox and standard all-wheel drive. The 2 Series Gran Coupe’s rivals include the Acura Integra, Audi A3, Cadillac CT4 and Lexus IS.\n\nWhat’s New on the 2024 BMW 2 Series Gran Coupe?\n\nThere are no notable changes or updates to the 2024 BMW 2 Series Gran Coupe. \n\nWhat Features in the 2024 BMW 2 Series Gran Coupe Are Most Important?\n\nStandard features include:\n\n10.3-inch digital instrument panel\n8.8-inch infotainment touchscreen\nWireless Apple CarPlay and Android Auto\nNavigation \nWi-Fi hot spot\nDual-zone climate control\nTwo USB ports\n10-speaker stereo\n\nAvailable features include: \n\n10.3-inch touchscreen\nWireless device charging\nHeated front seats\nHeated steering wheel\nLeather seating\nPanoramic moonroof\nM Sport brakes\nM Sport differential\nRemote start\nBlind spot warning\nLane departure steering assist\nShould I Buy the 2024 BMW 2 Series Gran Coupe?\n\nThe 2 Series Gran Coupe trades sedan practicality for the more dashing shape afforded by a traditional two-door coupe. That’s fine if you don’t mind limited headroom and legroom in the backseat and a relatively modest amount of cargo space. From the driver’s seat, the 2 Series Gran Coupe lacks some of the verve and refinement expected of a BMW. Thankfully, its attractive cabin design and dashboard control layout are more in keeping with its premium image and price.",
+      "trims": [
+        {
+          "name": "228i Gran Coupe",
+          "price": "$38400",
+          "specifications": {
+            "Notable features": [
+              "Compact four-door sedan with coupelike roofline",
+              "Front- or all-wheel drive",
+              "Choice of two turbo four-cylinder engines",
+              "Eight-speed automatic transmission"
+            ],
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "228 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,393 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "228i xDrive Gran Coupe",
+          "price": "$40400",
+          "specifications": {
+            "Notable features": [
+              "Compact four-door sedan with coupelike roofline",
+              "Front- or all-wheel drive",
+              "Choice of two turbo four-cylinder engines",
+              "Eight-speed automatic transmission"
+            ],
+            "Highlights": [
+              "23 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "228 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,534 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/fce552cb-cb58-494c-8b4f-5ee3d49cab9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/42e51bae-50b8-4fd0-9eda-21727cb2fb30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/c2da3cb0-8950-4dd0-b918-14ee9fa630bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/bd1295d9-4a21-4c8d-9250-772e6daebd80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/53238d01-8c4d-44ba-ae3b-bb92d07e963d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/5d261139-a3e3-43ed-9804-6d0d89ce8058.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/b19e0709-a156-4c7b-8486-5b5238093a52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/646bccec-b867-4d64-b098-16cb840c06b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/3ed086d5-9d66-4113-bb3f-fd68a2de7099.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/2f097b05-b617-4cc5-8ec3-9fc8ebd05ac7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/787c3c4e-758b-49d5-abf0-a4f4e584d0e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/9d99282c-e105-4693-ba2d-1d717006509e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/65227a3d-ac18-43ad-bde8-9265f18a86b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/fbbed95a-facb-499a-a18a-c8f8f1007edc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/28fc7555-1fdb-4abe-b4ca-29acf8399bf6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/ff12e032-3c56-43b7-8b28-c3513be26877.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/0c1182d4-d9ea-4cca-b7c1-5258c5956aa3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/46fae296-622e-4084-b909-507516d5bb70.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/afa0758a-f6ad-437e-a123-1d71d9e6bfb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/afa0758a-f6ad-437e-a123-1d71d9e6bfb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/165bca33-b58c-485f-bd9b-d926ad06b6f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/8f08993a-1440-48c5-9082-88d81a382f42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/98998d00-cba6-4f59-97da-5a97f3c2aa0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/fc03d1bc-ba9a-47de-bc43-094a2338b106.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/8484008b-b292-4898-8920-62f9c4f967f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/66a6f17d-e2ff-4655-a221-d62468aa7adc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/ff294753-5692-476f-ba72-6544d4829217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/abf2aa96-2b4d-4920-8425-5526fcce5b83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/e7d1c8c1-8be3-48e9-ad7d-f45caad77e38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/45cd1b42-4288-4b61-84ff-6d674a588c9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b2e3d171-193c-4e58-af27-363c40ae8dd0/4f626826-a52d-49cc-b45a-06cae0478bad.png"
+      ],
+      "expert_review": "The verdict: The 2020 2 Series Gran Coupe is an adequate subcompact sedan so unlike traditional BMWs you’ll wonder if the Bavarians have created a new sub-brand.\n\nVersus the competition: More expensive than the Audi A3 and Mercedes-Benz A-Class but cheaper than Mercedes’ CLA, the 228 Gran Coupe offers first-rate interior technologies but a lackluster powertrain.\n\nThe 228i xDrive Gran Coupe is new for 2020, ostensibly a sibling of the 2 Series coupe despite sharing a platform with the X1 and X2 SUVs. It’s also the base trim level of the 2 Series Gran Coupe; a more-powerful M235i xDrive version is also available. Despite their front-wheel-drive platform, both are offered only with BMW’s xDrive all-wheel-drive system. The 228i xDrive starts at $38,495 with destination charge; with options, our test car totaled $48,495.\n\nRelated: 2020 BMW 2 Series Gran Coupe: Small But Spendy\n\n“How’s the Kia?” was a question I heard multiple times from my colleagues while driving the 2020 BMW 228 Gran Coupe, which made me think from time to time that maybe I was driving a Kia. The 228 Gran Coupe would be a solid Kia — albeit a very expensive one — but it’s a lousy BMW.\n\nDriving it for multiple days led to feelings of embarrassment — not for myself, but for BMW, which seems intent on squandering its “ultimate driving machine” cachet when it comes to road cars. (That said, even some apparently boring BMWs still shine when pushed, as we discovered last summer in the 2019 330i sedan, but exigent circumstances prevented any similar closed-course testing of the 228).\n\nFirst-Rate Tech, With a Learning Curve\n\nWhere the 228 Gran Coupe shines is in its use of technologies pioneered in more expensive BMWs. The 8.8-inch screen for BMW’s iDrive has some of the highest-quality graphics of any automaker, and that’s also true of the optional 10.25-inch digital instrument cluster with which our test car was equipped. The display quality also shines when using the backup camera, offering a clear picture of the area behind the car even in low-light situations. When I put on sunglasses inside a parking structure I was still able to see the camera display clearly.\n\nApple CarPlay smartphone connectivity is included as standard equipment, but there’s a catch: It only functions wirelessly. Some staff members here at Cars are staunchly pro-wireless CarPlay, while others, myself included, find it lacking. This may be because I have an older iPhone (7 Plus), leading to connectivity issues, but those issues were especially prevalent in the 228. My music would occasionally “skip,” like I’d been listening to a CD and gone over a harsh bump, and occasionally others complained about my half of the audio in phone conversations. My older phone also meant I couldn’t take advantage of the car’s wireless charging, so I still had to plug it in using a USB cord. If BMW could figure out how to offer wired and wireless CarPlay, I’d be far less annoyed. Android users need not worry about the wireless connection; Android Auto isn’t offered at all.\n\nWhile screen quality is top-notch, iDrive does leave something to be desired when it comes to user interface. It isn’t the most complex infotainment system currently in a car — I find Mercedes-Benz’s MBUX even more Byzantine, and the current systems in Jaguar and Land Rover products are a mess — but iDrive’s latest evolution has brought back complexity where it needn’t have, choosing deep menus instead of straightforward information delivery.\n\nSounds Good, Feels Meh\n\nDriving the 228 Gran Coupe with the windows down, you’ll hear some great turbocharger “whoosh!” noises coming from the engine compartment, but you won’t feel like those noises mean much. Powered by a turbocharged 2.0-liter four-cylinder engine taken from the X1 and X2, the 228 Gran Coupe has 228 horsepower and 258 pounds-feet of torque at its disposal, directed to all four wheels via an eight-speed automatic transmission.\n\nIn theory, that’s good enough to hit 60 mph in 6.0 seconds, BMW says. In practice, though, the Gran Coupe is a bit sluggish off the line and slower to respond to a stab of the gas pedal than I would prefer, particularly in a car covered with BMW M symbols. I found myself leaving the 228 Gran Coupe in Sport mode for much of my time with it to try to wring any enjoyment out of the car. Sport mode didn’t seem to change throttle response much, but the usually higher rpm did reduce the time needed for the turbo to spool up. Interestingly, where some cars have a Sport mode hold a lower gear even during highway driving, which can cause an annoying amount of engine drone, the 228 Gran Coupe’s programming would eventually shift up to its 8th and highest gear. \n\nConstant use of Sport mode will reduce the 228i xDrive Gran Coupe’s fuel efficiency, which the EPA estimates at 23/33/27 mpg city/highway/combined. That’s identical to the 2020 Mercedes-Benz CLA250 4Matic and higher than the 2020 Audi A3 quattro’s 22/30/25 rating. The 2020 Mercedes-Benz A220 4Matic has slightly better ratings, at 24/34/28 mpg. Most damning, however, is that even the 2020 BMW 330i xDrive is rated higher than the 228i xDrive Gran Coupe, at 25/34/28 mpg. All these cars recommend premium gasoline with the exception of the Audi, which takes regular.\n\nRide quality was surprisingly adequate for a small car, even with optional 18-inch wheels and an optional M Sport suspension. It was significantly better, in fact, than the similarly optioned but larger 2019 330i xDrive we had in our office late last summer. The Gran Coupe was still thwacked by bumps on the road, but it remained composed. However, it seemed to have greater difficulty staying on track at highway speeds, exhibiting some surprising tramlining behaviors for a car without wide, high-performance tires.\n\nThe 228 Gran Coupe’s greatest shortcoming, though, is its numb steering. We’ve been complaining about this phenomenon in contemporary BMWs for some time, but this is one of the worst cases. The steering isn’t communicative at all, making it hard to feel like you can point the Gran Coupe exactly where you want it to go. Throw in some understeer and you’re left with what should be a small, nimble car that instead feels much more “Gran” than it actually is.\n\nNot Gran on the Inside\n\nInterior space is at a premium in the 228 Gran Coupe — even for the driver. The footwell is narrow, and there’s not much legroom or space to spread your legs. Forward visibility is somewhat diminished by the raked windshield, but thinner A-pillars help counteract this. To the rear, visibility is affected more by the rear head restraints  than anything else, and the 228 Gran Coupe’s design doesn’t create any significant blind spots.\n\nSitting in the backseat behind my preferred driving position proved nearly impossible. Legroom is tight to begin with, but my driving position pushed the seat so far backward that rear legroom was reduced to almost nothing. Add to that a sloping roofline that leaves backseat passengers with less headroom than they’d have in a 2 Series coupe, and it’s a very uncomfortable place to be. \n\nSpace was better behind the front passenger seat, but sitting ahead of myself left my knees resting on the dashboard. The interior of the 228 Gran Coupe is a place of compromises that won’t satisfy anyone, which makes me think it was designed by Henry Kissinger (or that a BMW sedan with a front-wheel-drive platform might be a war crime).\n\nInterior materials quality is hit or miss. The optional leather upholstery — in place of SensaTec imitation leather — felt luxurious enough to justify its $1,450 cost, but there’s a lot of hard plastic around the cabin that frustrated me, particularly on the lower halves of the doors and the lower sides of the center console. BMW did find an upscale way to make use of some hard plastic, however, with trim pieces featuring a digital matrix pattern that also house the ambient light elements. It might not be as nice as wood or metal accents, but the younger buyer BMW seems to be targeting with this car might find it more interesting.\n\nStated cargo specs for the 228 Gran Coupe are 12.0 cubic feet, which isn’t much. Both the 2 Series coupe and 3 Series offer more trunk space, according to BMW’s own measurements. The trunk is enough to hold a decent week’s worth of groceries for one or two people and maybe a bag of dog food, but luggage for a longer trip for two might end up in the backseat.\n\nSafety Tech Sort of Standard\n\nBMW’s Active Driving Assistant suite of safety technologies comes standard, including forward collision warning, automatic emergency braking, lane departure warning and blind spot detection. BMW used to make buyers pay extra for those features, so this is a nice change. Lest you think BMW has completely turned over a new leaf, however, adaptive cruise control is still a separate, $1,200 option — and one that was not part of our test car.\n\nAs of this writing, the 228i xDrive Gran Coupe has not yet been evaluated by either the National Highway Traffic Safety Administration or the Insurance Institute for Highway Safety.\n\nWhat Price a Badge?\n2020 BMW 228 Gran Coupe | Cars.com photo by Brian Normile\n\nAt an as-tested price of $48,495 (including a $995 destination fee), it’s exceedingly difficult to make the case for a BMW that isn’t all that enjoyable to drive and doesn’t offer a backseat adults can use. Even the car’s $38,495 starting price seems steep. \n\nOur as-tested price of nearly $50K could also get you a new 330i xDrive with some options (or a rear-wheel-drive 330i with even more options). The 3 Series is bigger, faster and somehow more fuel-efficient, according to the EPA, and while it may not offer the visceral driving experience of its predecessors, it’s certainly more enjoyable to drive than the 2 Series Gran Coupe. And no one will mistake it for a Kia.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "228i Gran Coupe",
+          "price": "$35700",
+          "specifications": {
+            "Notable features": [
+              "Four-seat coupe or convertible",
+              "Five-seat, four-door Gran Coupe body style",
+              "Choice of turbocharged engines",
+              "Rear- or all-wheel drive",
+              "Forward collision warning standard"
+            ],
+            "Highlights": [
+              "24 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "228 @ 5000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,393 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "228i xDrive Gran Coupe",
+          "price": "$37700",
+          "specifications": {
+            "Notable features": [
+              "Four-seat coupe or convertible",
+              "Five-seat, four-door Gran Coupe body style",
+              "Choice of turbocharged engines",
+              "Rear- or all-wheel drive",
+              "Forward collision warning standard"
+            ],
+            "Highlights": [
+              "23 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 @ 1450 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "228 @ 5000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,534 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

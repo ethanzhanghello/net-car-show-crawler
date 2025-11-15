@@ -1,0 +1,56 @@
+{
+  "make": "acura",
+  "model": "vigor",
+  "years": {
+    "1992": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cd22b944-d74f-4019-b286-af9c26c29565/4cf13533-a76c-4065-889f-679712b5c5cc.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr LS 5-Spd",
+          "price": "$26350",
+          "specifications": {}
+        },
+        {
+          "name": "4dr LS Auto",
+          "price": "$27100",
+          "specifications": {}
+        },
+        {
+          "name": "4dr GS 5-Spd",
+          "price": "$28350",
+          "specifications": {}
+        },
+        {
+          "name": "4dr GS Auto",
+          "price": "$29100",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

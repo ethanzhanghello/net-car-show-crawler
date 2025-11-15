@@ -1,0 +1,622 @@
+{
+  "make": "bmw",
+  "model": "m440_gran_coupe",
+  "years": {
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/b1064269-7faf-47d1-ab99-8189cfeebbfa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/a69a820d-1417-43f6-9d51-75a543ce0336.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/16f5c118-9532-49e4-bda3-e58b66c96493.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/a5ac8f1d-ed8a-4ad3-8b5a-4fb9017c9b7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/82ea9f9c-e66f-49c5-8fce-43d4efebb1ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/bc38c66f-037f-47a1-916c-0e75868792fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/f7c11a50-43c7-4297-9917-8b8d51ae2e79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/c0dfea4b-3bce-458b-9f6b-8fa7fea7ce61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/b58577c7-b800-488b-9dd9-8dc06ea2c657.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/6e20f856-a15e-4042-b8f7-61d7e989ad1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/6326b0a2-0716-4971-84d6-db05bd7848dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/986d4930-72db-4094-ad93-2d54d583b866.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/bda048ed-af9b-43ee-9efe-e08065656a6b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/f7c11a50-43c7-4297-9917-8b8d51ae2e79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/09df3a63-2971-421e-a43e-a732e7bba098.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/e699b8e8-4b55-4450-862a-cf4109957a03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/9ae1ff9d-037a-4ce4-a337-5efe0bcc6d44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/cac2bda4-0607-4456-8177-9a1b74128a39.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/9934a79b-bf25-4bdb-bcf9-8e5ae18c452c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/a5c27ce1-eaa3-4141-bb18-062571e4b7d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/4b6cf857-ca73-4c3f-8548-c1e0ca841f44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/ed42afad-c86b-4087-8d36-2405239fad78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/4f58e875-02da-46c3-8d22-6813c39edaa7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/c1b6be3a-cae6-4510-8bd4-f7c6ac08101b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/8f5f4dc5-3eb8-41a8-a783-262ccbe1e930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ecb56fb7-b324-4343-a9d5-df2d8e8b2e28/6240c565-1272-4aab-975b-45086c2f3406.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_44980",
+          "price": "$44980",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8020feff-bdfb-4fb6-9d02-473bf70ac48c/08c1ef5e-7cdb-4998-aa8c-32b63e96c06e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8020feff-bdfb-4fb6-9d02-473bf70ac48c/7ecc562c-1d53-45cd-acb7-137ff3000cd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8020feff-bdfb-4fb6-9d02-473bf70ac48c/66ff5fe1-5c2e-4170-8fd0-8d37403de9ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8020feff-bdfb-4fb6-9d02-473bf70ac48c/882d4d87-ab7a-4b95-b7aa-fb7112c4ba12.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/92c3f6f3-97d6-4f8b-a473-a3ab75d3d565/53547e42-4130-45ea-a1b3-debe0d732cc4.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "M440i Gran Coupe",
+          "price": "$64400",
+          "specifications": {
+            "Highlights": [
+              "26 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "386 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "398 @ 1900 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Base Curb Weight",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "M440i xDrive Gran Coupe",
+          "price": "$66400",
+          "specifications": {
+            "Highlights": [
+              "25 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 1900 SAE Net Torque @ RPM",
+              "386 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/791e0141-34f6-4caf-b6e9-9e4a2bc59e46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/1848d4cc-f621-4a6a-9623-3107619cb455.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/bc59239b-db5b-4167-825d-b3cec43330c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/4e43e245-c83e-42e5-9f48-7ddd1cc0e7cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/2ff52aeb-1434-4ffc-aa52-b6d382fc98be.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/6d539d95-c807-4355-aba2-c19dadaf210e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3d9d8e57-450e-4cae-831b-1236022b542a/b5cc3cda-6757-4dba-84f5-8284f2a85936.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/83a78c0d-5b7a-4404-aaa2-ede56a22a720/69722829-3f7c-4132-9643-4539cc19f267.png"
+      ],
+      "expert_review": "The BMW 4 Series Gran Coupe and its electric stablemate, the i4, were just overhauled for the 2022 model year, but BMW is tweaking the pair for 2025 with updated infotainment tech, new head- and taillights, and more.\n\nRelated: 2024 BMW i4 Adds xDrive40 Variant, Priced From $53,195\n\nWhat’s New?\n\nThe biggest change is to the gas-powered 4 Series Gran Coupe. As with other BMWs, the 2025 4 Series Gran Coupe now includes a standard 48-volt mild-hybrid system with both available engines. The 430i Gran Coupe’s turbocharged 2.0-liter four-cylinder is thoroughly reworked for increased efficiency, but with the additional hybrid components, its output remains unchanged at 255 horsepower and 295 pounds-feet of torque.\n\nThe turbocharged 3.0-liter inline-six in the M440i Gran Coupe gets some efficiency rework, and the mild-hybrid system bumps its total output up to 386 hp and 398 pounds-feet, increases of 4 hp and 29 pounds-feet. Both engines are paired exclusively with an eight-speed automatic transmission, with rear-wheel drive standard and all-wheel drive available. EPA fuel economy estimates for the hybrid engines are not yet available. The i4’s electric powertrain is unchanged for 2025.\n\nOther Updates\n\nRevised head- and taillights are the extent of the major exterior updates on the cars, and the upper portion of the i4’s grille is now closed. Inside, the standard Curved Display, in which the digital instrument panel flows seamlessly into the central touchscreen behind a single piece of curved glass, is updated to the latest generation of BMW’s iDrive with QuickSelect. Running on BMW Operating System 8.5, the infotainment system features a revised menu structure aimed at keeping more commonly used functions readily accessible through the touchscreen.\n\nThis software version also expands the use of voice commands and works with the My BMW mobile app to allow remote access to vehicle information — and, in some cases, functions like door locking and unlocking — from anywhere with cellular service or Wi-Fi connectivity. The newly standard Personal eSim allows for a 5G data connection for communications and connectivity services even in the absence of a paired smartphone.\n\nMore From Cars.com:\n\nBMW i4, Mini Cooper SE Hardtop Top 2024 J.D. Power EV Owner Satisfaction Survey\n2024 BMW 4 Series Gets Minor Equipment Updates, Starts at $49,295\nHow Do Car Seats Fit in a 2023 BMW i4?\n2022 BMW i4 M50 Gran Coupe Review: Electric Rocket Ship\nFind Your Next Car\nAvailability and Pricing\n\nProduction of the 2025 BMW 4 Series Gran Coupe and i4 will start this July, with deliveries beginning shortly thereafter. Pricing will be announced closer to the on-sale date.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "M440i Gran Coupe",
+          "price": "$63200",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible and four-door Gran Coupe body styles",
+              "Rear- or all-wheel drive",
+              "Choice of turbo four- or six-cylinder engine",
+              "Eight-speed automatic transmission",
+              "High-performance M4 versions"
+            ],
+            "Highlights": [
+              "26 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 1900 SAE Net Torque @ RPM",
+              "386 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "M440i xDrive Gran Coupe",
+          "price": "$65200",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible and four-door Gran Coupe body styles",
+              "Rear- or all-wheel drive",
+              "Choice of turbo four- or six-cylinder engine",
+              "Eight-speed automatic transmission",
+              "High-performance M4 versions"
+            ],
+            "Highlights": [
+              "25 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 1900 SAE Net Torque @ RPM",
+              "386 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/f758b203-15a9-4c6f-98a4-cd2c99621448.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/fbf4c208-c1f4-4bd3-8ac4-84c6fea09cbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/087fef09-b8e0-4267-8b85-de1404f67d5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/a68cebd6-c07c-4c80-b9fd-fce67bdeed16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/1b431a5a-e6f6-4d45-b1d9-88b39af16e22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/1b7b81e5-ead0-4b0a-9abb-0db3501ce43d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/a94d1516-9c78-4776-a392-4160c7c1ebe6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/d961de1e-bb07-4e58-83bc-a9fffa05ddc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/ba424859-f5de-4eaf-b5b4-dfb4828c8e42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/d62b4097-bcd1-4349-bb78-a9a7a80ef72e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/d961de1e-bb07-4e58-83bc-a9fffa05ddc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/2d829eb1-fc4e-4d03-9a76-fe65309e830f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/3f7708f7-b983-4ba7-a593-a81b659452ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/0777f1cb-ea03-4ec9-acea-20f9cbd65c30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/3f5b966a-248f-4547-ac3c-1ca509219e2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/8b5c313c-8de9-480f-8668-007a0c0c47f6.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/7a86e845-78e5-48b8-8883-06f2329264c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/b1bc4b0a-3cd1-4cc2-b588-be25eb3a5eb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/2ea477cb-aca1-4b2d-b45a-6e17728516b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/56c7a918-7f31-4b06-baf9-f44626fc9997.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/5fd518aa-d670-4f4b-bdcd-d54a2da1e517.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5097d10-10cd-4972-b789-cdf01a3a4d8c/fa94e159-c7f5-401f-ba63-f3210a90ebae.png"
+      ],
+      "expert_review": "What Is the 2024 BMW 4 Series?\n\nThe BMW 4 Series lineup shares basic underpinnings with BMW’s 3 Series compact car, but with sleeker, personal-luxury-focused body styles. The 4 Series comes as a two-door coupe or convertible, as well as a four-door Gran Coupe sedan with a low, coupelike roofline. The 430 is powered by a 255-horsepower, turbocharged 2.0-liter four-cylinder, while the M440 gets a 382-hp, turbo 3.0-liter inline-six. The mighty M4 high-performance variant has an upgraded version of the 3.0-liter six-cylinder that produces 473 or 503 hp, depending on the model. BMW still offers a six-speed manual transmission, but only on the M4; all other 4 Series cars have a silky eight-speed automatic. Most 4 Series models offer a choice of rear- or all-wheel drive. The 4 Series’ rivals include the Audi A5, Lexus RC and Mercedes-Benz C-Class.\n\nWhat’s New on the 2024 BMW 4 Series?\n\nAll 4 Series models receive BMW’s Curved Display, which includes a 12.3-inch digital gauge cluster and a 14.9-inch infotainment touchscreen integrated into a single curved panel. The infotainment software is upgraded to the latest iDrive 8 version, which includes new graphics and additional functions.\n\nWhat Features in the 2024 BMW 4 Series Are Most Important?\n\nStandard features include:\n\n12.3-inch digital instrument panel\n14.9-inch infotainment touchscreen\nWireless Apple CarPlay and Android Auto\nSatellite radio\nNavigation \nWi-Fi hot spot\nDual-zone climate control\nTwo USB ports\n10-speaker stereo\nRear cross-traffic alert\nBlind spot warning\nLane departure warning\n\nAvailable features include: \n\nWireless device charging\nHeated and ventilated front seats\nHeated steering wheel\nLeather seating\nHead-up instrument display\nAdaptive M Sport suspension\nM Sport differential\nM Sport brakes\n360-degree parking camera\nLane departure steering assist\nShould I Buy the 2024 BMW 4 Series Gran Coupe?\n\nLuxury car shoppers on the fence about what they want most in their next vehicle will appreciate the many body styles offered by the BMW 4 Series. Few vehicles can be had as a sleek coupe, a sun-loving convertible and a relatively practical sedan. No 4 Series will spoil you with backseat space or cargo volume, particularly not with the coupe and convertible, but when it comes to performance and interior quality, this car impresses with its sharp driving manners and elegant cabin layout.",
+      "trims": [
+        {
+          "name": "M440i Gran Coupe",
+          "price": "$61050",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible and four-door Gran Coupe body styles",
+              "Rear- or all-wheel drive",
+              "Choice of turbo four- or six-cylinder engine",
+              "Eight-speed automatic transmission",
+              "High-performance M4 versions"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 @ 1800 SAE Net Torque @ RPM",
+              "382 @ 5800 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "M440i xDrive Gran Coupe",
+          "price": "$63050",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible and four-door Gran Coupe body styles",
+              "Rear- or all-wheel drive",
+              "Choice of turbo four- or six-cylinder engine",
+              "Eight-speed automatic transmission",
+              "High-performance M4 versions"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-6 Engine Type",
+              "382 @ 5800 SAE Net Horsepower @ RPM",
+              "369 @ 1800 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,169 lbs Base Curb Weight",
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/3f46bfdc-0d51-4a52-8bf8-7cb181d9bf55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/97c4b7ed-399a-4ec9-9164-7a8c4443174d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/aa7bfc9b-6d60-4753-8f08-cedfb670e42f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/fa580707-ce93-46af-9e65-0416f6c5cd72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/b9fbaa28-71f0-404b-b516-015f9b04f72e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/36b8f8bd-54e2-46ff-afd3-5ed2e7472161.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/6fcac32e-43f1-4815-9945-d3d03db2ae6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/16298fc9-e67a-4710-812e-45d4763924f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/929afa7d-21bb-47f8-9399-de55713b9713.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/3408014e-da60-4aa1-bb55-7144b6090fa7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/20517fea-142f-45a4-84a9-de3802adb59c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/5586a0e0-570d-4778-9edf-1168795391db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/50f9aad5-7843-4eed-b14b-d0fb43afad80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/4875bf98-eaa0-48c5-9b76-726698279f83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/4bc58bb1-43b9-45ca-876b-d2557e5343e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/0f9ca9da-912c-4eae-9b10-2cfa645f55dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/0b4593a8-c821-415c-a154-9664fec06b93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/ad7c3779-734d-4377-9ae5-a7cb990d9776.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/451d24a0-6640-42f5-899a-6d505a67f79e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/0ba297b4-47a8-4956-ba43-49e637c32c1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/dbf01857-1be1-4d2e-a176-911ad7fcadb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/4a6235c6-7000-428c-a2a4-27f9200c1a0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/ec2acdf7-42b8-4efa-9685-9a700ba43f9c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/f951bdb8-8e2d-41dd-8a7b-c1232e66c150.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/86960eca-f88e-4c97-819f-2e3423e3994c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/d7340891-e3d2-4722-ac6c-b51bba1156a5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/ec2acdf7-42b8-4efa-9685-9a700ba43f9c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/8bd9ed6f-48ca-4574-a381-beeefeb71250.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/54f7d5d1-925a-4121-95b1-68379d2a1748.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/dfa155b6-8f39-42c7-ad66-55254078a422.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90716336-743b-4def-b438-98aaaeb3ea4d/87037ce2-6664-41b3-bcab-7d4ed9adb239.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "M440i Gran Coupe",
+          "price": "$57450",
+          "specifications": {
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "382 @ 5800 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "369 @ 1800 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "M440i xDrive Gran Coupe",
+          "price": "$59450",
+          "specifications": {
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 @ 1800 SAE Net Torque @ RPM",
+              "382 @ 5800 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Intercooled Turbo Gas/Electric I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "353 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "3,527 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,527 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,169 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "353 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

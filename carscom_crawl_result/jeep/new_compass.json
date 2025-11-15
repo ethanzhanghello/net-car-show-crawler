@@ -1,0 +1,448 @@
+{
+  "make": "jeep",
+  "model": "new_compass",
+  "years": {
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/a575bce1-1f5e-4942-9eb8-335e7a8c51dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/80039d96-e760-4e42-a281-25f6dc6ae5b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/3747ce11-336c-4c28-af65-19a9430ace29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/4a83b1ff-47e1-46f2-b204-dff968067e17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/a03ab828-cbe1-4bd0-a819-6fbeb659a870.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/a16cbd37-88fb-4050-9fbd-d9e61953d7de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/9c2665d0-8597-42ae-a82c-f7ecfc718c22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/4c32a585-725e-4c4c-bf6f-bb50808572cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/4e493df5-9650-4b20-9d56-aa5ed34b48ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/d113da6b-b1c7-40e1-b988-dafa5cc0e0e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/39fa1472-47e0-4715-80f4-e176ba3bdab1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/3208f623-0e41-4c4f-bc9e-c5aa50aea4c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/6c300469-cdb6-4bb7-bddd-cb96e3785fad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/826c8214-e594-4e48-8a4c-3f81a76d03e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/d8e4acb8-cef5-421e-90d4-b1ed99bd4ab4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/f3e8da3f-c3a7-414e-b49d-fb038a386ff0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/b1f1b505-1ed0-4cf6-a0d2-efed4b96bc3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/48ea9859-f256-47f4-9df7-ee0bc267fd3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/7c6ade51-740f-4b03-b23b-7e9dfe8896c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/bd7d2c31-f88a-42aa-bc40-dc099d570d71.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7f814c7b-c769-4f8b-a31d-988d587e6178/b2555abc-f65a-42b9-98a2-1fba1a03708d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/5029e224-d155-4bc4-9d9b-0afa0430054b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/5c8b62a2-5b18-4bdd-9264-930a70b9f3df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/5172d32a-81f2-4f33-a645-6ef2104325b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/223c463b-a1c0-40db-a272-ea8b64d19600.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/505abf6f-b7a8-4a3f-897e-79e5c60b9fde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a1ea20f8-3826-4290-ae05-545b24bd4c11/f8b3f607-a089-4e92-8e1e-6bfce4a3e467.png"
+      ],
+      "expert_review": "The old Jeep Compass is dead. An unloved creation birthed from the DaimlerChrysler days, it was based on the Dodge Caliber and shared showroom space with the equally reviled Jeep Patriot. Now in its place is a shiny new 2017 Compass, slotting in Jeep’s lineup above the diminutive Renegade and below the V-6-powered Cherokee. (The Patriot remains dead.)\n\nThe new Compass is nothing like the old one — only the name is shared. The new Compass rides on a Fiat-derived chassis that has a lot in common with other Fiat Chrysler Automobiles products. Jeep wants to put the Compass up against successful compact SUVs like the Honda CR-V, Toyota RAV4, Nissan Rogue, Ford Escape and Chevrolet Equinox. The old one couldn’t hold a candle to any of these competitors; is the new a worthy entry into a highly competitive and crowded field?\n\nExterior and Styling\n\nThe new Compass certainly looks the business. Its exterior styling may be its best attribute, with a baby-Grand-Cherokee look that keeps with one of the two known Jeep styles (the other being the round-eyed, chunky Wrangler look that’s also worn by the Renegade). The seven-slot grille up front is traditional but not functional (the holes aren’t open), and the headlights look like Grand Cherokee units. The wheel openings are the squarish Jeep style, as well.\n\nThe roofline is the biggest departure, with the “floating roof” look that’s starting to be much too common among new automotive designs these days. At least you can get it in either a body color or contrasting hue, so if you want the roof to blend into the body, you can.\n\nThe Trailhawk is the top-of-the-line trim, off-road-ready and Trail Rated. Opt for it and you’ll get some beefier parts, including a different front bumper for better approach angles; an inch higher ride height for better obstacle clearance; the ubiquitous red tow hooks; and blacked-out trim and hood decals for visual distinction.\n\nHow It Drives\n\nOnly one engine powers the new Compass: the 2.4-liter Tigershark four-cylinder found under the hood of a number of FCA products, including the Jeep Renegade. In the Compass, it’s mated to either a standard six-speed manual transmission, in Sport and Latitude trims, or a six-speed automatic that’s standard on the Latitude 4×2 (but not the 4×4) and optional on the Sport 4×2. All other 4x4s and trims get a nine-speed automatic transmission.\n\nThe engine makes 180 horsepower and 175 pounds-feet of torque but unfortunately does little to move the Compass with any urgency — the new Compass is slow, slow, slow. Part of the blame for that centers on the nine-speed automatic models I drove, which are tuned more for fuel economy than for acceleration.\n\nFrom a standing start, you’ll will the Compass to go faster but the engine just won’t cooperate. From a rolling start, you’ll put your foot down and not much will happen. Push through the accelerator’s travel and eventually you’ll get a kickdown from the transmission, but even then, the 2.4-liter motor sings its heart out without providing much in the way of sprightly motion. The Honda CR-V feels much more nimble, and the Kia Sportage SX Turbo would embarrass the Compass in a race up a freeway on-ramp. I’m hoping the six-speed automatic and manual transmissions are tuned to provide better acceleration, because the nine-speed matchup is a dog.\n\nHandling isn’t the Compass’ strong suit, either. I drove it on twisting, forested roads, and while the steering felt light for the first 30 degrees of travel, it firmed up considerably past that, resulting in overall feel that was both too light and too heavy. The Compass is also softly sprung, so while ride quality is good, the Compass tips and tilts in corners, with pronounced body roll. Handling isn’t much better, with prominent understeer through corners that has the little SUV pushing and scrubbing through tight sweepers.\n\nWhile the Compass may not be entertaining on the road, it shines as soon as the pavement ends. I drove Latitude and Trailhawk models, and the Trailhawk is definitely the one to have. An additional inch of lift to its suspension smooths out the ride on washboard dirt roads astonishingly well, and the way the four-wheel-drive system electronically sets all aspects of the powertrain to match the terrain is likewise astonishing.\n\nThe Trailhawk is the trail-rated version of the Compass, and it’s no joke. It felt just as capable off-road as the last Grand Cherokee Trailhawk I tested. Two four-wheel-drive systems are available on the Compass, and the Trailhawk gets the second, more advanced one, which comes with a rock-crawling mode and a 20:1 crawl ratio.\n\nThe Compass’ Selec-Terrain system allows drivers to twist a dial through Auto, Snow, Sand and Mud modes, and the Trailhawk adds a Rock mode. The Trailhawk even gets Hill Descent Control.\n\nThe problem, of course, is how many compact SUV owners are really going to take their trucks off-road? Sure, the Compass can do things the Honda CR-V and Toyota RAV4 can only dream of, but unless you live on a dirt road, or drive one every day, the trade-offs with the rest of the Compass’ performance aren’t worth it.\n\nJeep says the Compass will have a fuel economy rating of up to 30 mpg combined, but full EPA ratings were not yet available at press time. My brief drive in the Compass was insufficient to gather real fuel economy numbers.\n\nInterior\n\nA stronger selling point for the Compass is its all-new interior, which closely mimics the insides seen on the rest of the Jeep lineup — to the point that if you didn’t know which Jeep you were sitting in, you might not know which Jeep you were sitting in. The front seats are comfortable, with decent support and plenty of room in every dimension.\n\nVisibility is also good and includes a fun Easter egg when you look in the rearview mirror, out the back window, to find something looking back at you — I won’t spoil the surprise. Material quality of the various surfaces is good, but the colors are dull. There’s none of the pizzazz in the color selections that we’ve seen before, and nothing like what’s offered in the smaller Renegade. The Trailhawk brings some touches of color to the trim, but it feels like Jeep is going conservative on its interiors again after having experimented a bit with more unique combinations.\n\nBackseat room is surprisingly good as well, with decent legroom, but headroom is curtailed by the optional moonroof. There is some road and wind noise at speed, but no more than might be found in any of the Compass’ competitors. There’s not much engine noise, either, until you floor the gas pedal, at which point the four-cylinder creates more sound than speed. My biggest quibble with the interior is a near total lack of front storage space. Cubbies and storage pockets are few, with only the front cupholders to hold a larger smartphone, and then not very securely.\n\nErgonomics and Electronics\n\nThe Compass benefits from having the latest FCA Uconnect technology, including a new, optional higher resolution 8.4-inch touchscreen with the latest and greatest software. The new Uconnect builds upon the goodness of the old one, with easy-to-use icons, simple menus, excellent legibility and quick functionality. A 5.0-inch touchscreen is standard, while a larger 7.0-inch and the 8.4-inch screens are optional. Apple CarPlay and Android Auto are now also offered on the 7.0- and 8.4-inch systems, with navigation also offered on the 8.4.\n\nThe gauge cluster features a 3.5-inch digital display; a larger 7-inch display is optional. Both are reconfigurable and customizable to the driver’s whims, as seen in other FCA products.\n\nCargo and Storage\n\nThe Compass’ overall footprint is nearly as big as the larger Cherokee; the biggest difference between the two is that the Compass comes only with a four-cylinder engine. Inside, the Compass actually has more cargo room than the Cherokee: 27.2 cubic feet of room behind the backseat and 59.8 cubic feet with it folded. That’s almost 3 cubic feet more behind the backseat than the Cherokee has, and nearly 1 cubic foot more overall room. It’s still smaller than the Kia Sportage, though, which has 30.7 cubic feet of cargo room, expandable to 60.1 cubic feet. The spacious Honda CR-V is also bigger, with 39.2 cubic feet in back that’s expandable to 75.8 cubic feet.\n\nSafety\n\nAlong with the new platform comes a host of safety upgrades for the Compass. Newly featured are forward collision warning and autonomous emergency braking; lane departure warning and lane keep assist; blind spot monitoring with rear cross-path detection; and automatic distance-keeping cruise control with full autonomous stop. Also available are items like automatic parallel and perpendicular park assist, and trailer sway control for towing.\n\nValue in Its Class\n\nPricing for the new Compass had not been released as of publication, but it is expected to be competitive with other vehicles in its class. And a crowded class that is: The compact SUV segment has seen massive growth in recent years.\n\nThe Compass will fill an interesting place in the Jeep showroom. It’s not as powerful as the V-6-optional Cherokee, but it’s marginally bigger inside and should be less expensive. It does allow for the next Cherokee to get a little bit bigger, further differentiating Jeep’s offerings.\n\nCompared with its competition, the Compass falls short in on-road drivability, seating utility and cargo room. It fares quite well, however, when compared on style, amenities, comfort and available safety systems. And it absolutely spanks every other compact competitor in off-road ability, but that’s a dubious victory in this class, where on-road behavior is, frankly, far more important.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Sport FWD",
+          "price": "$20995",
+          "specifications": {
+            "Notable features": [
+              "All-new five-passenger compact SUV",
+              "Front-wheel drive or optional all-wheel drive",
+              "One engine, three available transmissions",
+              "Fits between smaller Renegade and larger Cherokee",
+              "Trail-rated Trailhawk model available",
+              "Updated Uconnect multimedia system"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "175 @ 3900 SAE Net Torque @ RPM",
+              "180 @ 6400 SAE Net Horsepower @ RPM",
+              "2.4 L/144 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "1,000 lbs Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,184 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Sport 4x4",
+          "price": "$22495",
+          "specifications": {
+            "Notable features": [
+              "All-new five-passenger compact SUV",
+              "Front-wheel drive or optional all-wheel drive",
+              "One engine, three available transmissions",
+              "Fits between smaller Renegade and larger Cherokee",
+              "Trail-rated Trailhawk model available",
+              "Updated Uconnect multimedia system"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "175 @ 3900 SAE Net Torque @ RPM",
+              "180 @ 6400 SAE Net Horsepower @ RPM",
+              "2.4 L/144 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "1,000 lbs Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,327 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Latitude 4x4",
+          "price": "$24295",
+          "specifications": {
+            "Notable features": [
+              "All-new five-passenger compact SUV",
+              "Front-wheel drive or optional all-wheel drive",
+              "One engine, three available transmissions",
+              "Fits between smaller Renegade and larger Cherokee",
+              "Trail-rated Trailhawk model available",
+              "Updated Uconnect multimedia system"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "175 @ 3900 SAE Net Torque @ RPM",
+              "180 @ 6400 SAE Net Horsepower @ RPM",
+              "2.4 L/144 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "1,000 lbs Maximum Trailering Capacity",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,327 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Latitude FWD",
+          "price": "$24295",
+          "specifications": {
+            "Notable features": [
+              "All-new five-passenger compact SUV",
+              "Front-wheel drive or optional all-wheel drive",
+              "One engine, three available transmissions",
+              "Fits between smaller Renegade and larger Cherokee",
+              "Trail-rated Trailhawk model available",
+              "Updated Uconnect multimedia system"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "180 @ 6400 SAE Net Horsepower @ RPM",
+              "2.4 L/144 Displacement",
+              "175 @ 3900 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "3,184 lbs Base Curb Weight",
+              "1,000 lbs Maximum Trailering Capacity",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "160 Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Trailhawk 4x4",
+          "price": "$28595",
+          "specifications": {
+            "Notable features": [
+              "All-new five-passenger compact SUV",
+              "Front-wheel drive or optional all-wheel drive",
+              "One engine, three available transmissions",
+              "Fits between smaller Renegade and larger Cherokee",
+              "Trail-rated Trailhawk model available",
+              "Updated Uconnect multimedia system"
+            ],
+            "Highlights": [
+              "22 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.4 L/144 Displacement",
+              "180 @ 6400 SAE Net Horsepower @ RPM",
+              "175 @ 3900 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,633 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Maximum Trailering Capacity",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "500 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Limited 4x4",
+          "price": "$28995",
+          "specifications": {
+            "Notable features": [
+              "All-new five-passenger compact SUV",
+              "Front-wheel drive or optional all-wheel drive",
+              "One engine, three available transmissions",
+              "Fits between smaller Renegade and larger Cherokee",
+              "Trail-rated Trailhawk model available",
+              "Updated Uconnect multimedia system"
+            ],
+            "Highlights": [
+              "22 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.4 L/144 Displacement",
+              "175 @ 3900 SAE Net Torque @ RPM",
+              "180 @ 6400 SAE Net Horsepower @ RPM",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "1,000 lbs Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,327 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "500 Cold Cranking Amps @ 0° F (Primary)",
+              "160 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

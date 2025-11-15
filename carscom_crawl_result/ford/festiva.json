@@ -1,0 +1,42 @@
+{
+  "make": "ford",
+  "model": "festiva",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/63f33c83-6718-47aa-98c6-662057dc3d58/c054b5ab-8798-42f2-91f3-50a2eff1da50.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr L",
+          "price": "$6941",
+          "specifications": {}
+        },
+        {
+          "name": "3dr GL",
+          "price": "$7869",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5f90ab86-1a42-4b8f-85f4-06aa2105d7c5/7a5416ee-c018-42cb-bf8c-4968a49c2028.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Hatchback L",
+          "price": "$6941",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback GL",
+          "price": "$7980",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

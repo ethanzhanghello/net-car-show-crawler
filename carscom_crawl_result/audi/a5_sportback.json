@@ -1,0 +1,953 @@
+{
+  "make": "audi",
+  "model": "a5_sportback",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2.0 TFSI Prestige",
+          "price": "$42600",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "252 @ 5000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "273 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,704 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2.0 TFSI Premium Plus",
+          "price": "$42600",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "252 @ 5000 SAE Net Horsepower @ RPM",
+              "273 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,704 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2.0 TFSI Premium",
+          "price": "$42600",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "273 @ 1600 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "252 @ 5000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,704 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/a754e35d-1b13-49ca-9e39-c9a903962e0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/6f060468-0f6f-452d-8336-fd7da89bfb40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/c7458e2f-df2d-4de5-8eb2-82842c94b8da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/80fd27c9-69cd-4964-9b56-1a37bd97e4f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/46410abe-3725-416b-a59d-3b36b25c5bf3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/ace3be9c-34d4-4b1b-aef8-41eb4d6c54ca.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/914c05e1-8e35-4e04-bae9-045f3dccc32c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/cc9f7e8d-8654-485f-9095-e07026ece9eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/5f9d24ca-affa-46db-822f-a8d62c0af1b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/d1ee560b-e796-4816-8151-6076a1ef6e76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/fc0eb55d-c9f8-417b-a8a7-bbf2f39228fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/73bb39ce-5e2a-46de-933a-39f1acab8006.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/b7d323a9-d950-48a9-9be7-a7e4bc070ebc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/21a3e287-53b4-4783-bfd1-6d4432649c4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/70e99eb4-b6cc-452d-9b52-21e16ef65a63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/3fcbc0b1-4888-4eba-8948-0aae32a8886a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/19a54028-90ea-4476-a530-a2b102db36fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/886023ec-483a-4f40-8220-78c90cb20879.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/5344c7d1-7618-47b4-bda2-be4ff5bf667c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/64cce176-a764-4ebc-b480-78195846d074.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/9376a6eb-de70-4f6f-ab1b-ee52732c1da6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/481d46fa-0812-4ec5-8a3c-bcce53365595.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/6f36d599-d286-476b-90e1-8c071af67112.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/d68d82bb-1e60-4fd8-815e-b2de72901446.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c9429b6-b351-4523-bdd6-81e9bdcdeb30/0a7b0f0a-b79d-4d52-a7c1-a959cbbeae6a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a12e7bd6-cc01-4fe6-8048-ba58e256be90/e8ee5631-1d35-4a5d-b2ab-ac76b5574830.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Premium Plus 40 TFSI quattro",
+          "price": "$46300",
+          "specifications": {
+            "Highlights": [
+              "26 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "236 @ 1450 SAE Net Torque @ RPM",
+              "201 @ 4475 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Prestige 40 TFSI quattro",
+          "price": "$46300",
+          "specifications": {
+            "Highlights": [
+              "26 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "201 @ 4475 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "236 @ 1450 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Premium 40 TFSI quattro",
+          "price": "$46300",
+          "specifications": {
+            "Highlights": [
+              "26 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "236 @ 1450 SAE Net Torque @ RPM",
+              "201 @ 4475 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium 45 TFSI quattro",
+          "price": "$48400",
+          "specifications": {
+            "Highlights": [
+              "23 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "261 @ 6300 SAE Net Horsepower @ RPM",
+              "273 @ 4200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,770 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium Plus 45 TFSI quattro",
+          "price": "$48400",
+          "specifications": {
+            "Highlights": [
+              "23 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "273 @ 4200 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "261 @ 6300 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,770 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "S line Prestige 45 TFSI quattro",
+          "price": "$48400",
+          "specifications": {
+            "Highlights": [
+              "23 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "261 @ 6300 SAE Net Horsepower @ RPM",
+              "273 @ 4200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,770 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/36a6a47c-8d63-46ff-9825-736b251d03a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/2c0e7f6a-ebaa-4f92-806e-4df70ac7687b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/fefc01c1-8660-409c-b019-0c1c4a186f00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/0906bf44-956c-4f55-92ab-d49beac5152d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/4f112f7b-00b4-4796-949e-044221d5f613.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/61d3c013-1962-4621-a498-f9e992d90afa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/9dfb3a9c-7598-427c-acb3-867369b55146.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/99e64478-2805-4bb5-83d4-34910958675c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0d0b45e2-7e42-4480-ad74-c04e745e52c2/2a228302-35f6-4269-a35b-b68f402d256d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/bd3fc76e-3e7d-45a3-911b-b773d1fd5831.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/6074a53c-3ce3-4e4b-a8cf-198579796b2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/e9bb0b1f-9946-4136-ae02-1ecf1f9320a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/9d16cef7-9d36-44f8-bc9b-d416f3bcc87f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/997f1d47-d09f-4888-8e9d-b7df9371ee33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/fc63ab81-ea35-43a7-b576-cbce7de80dab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/757f71bd-ef0c-447e-8d4f-fbf06e56f294.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/bf0bce62-895a-448b-9571-f3a4a92cc1b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/87a954cf-1ed8-427f-b1dc-2d818be57502.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/f909d7a0-ec60-41fb-a948-08329e1010e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/7d3269ef-64dc-4b51-9028-f9c362dec4a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/1af4cfd0-6488-4d59-b4b4-91f24e222436.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/3a8610eb-1743-4221-8ea4-5db104b54a6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/7d68c740-16a2-4322-920e-37239809ed9c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/36e9f0ed-16bf-47d8-9fd1-e3218b8228a8.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/d6c7bde5-ff75-45d5-9160-cdf9e17128f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7bbd7a23-d768-4eb0-a2a0-4c6949c9b943/9ad8deb9-8a37-4e15-807a-95b420703f0a.png"
+      ],
+      "expert_review": "What Is the 2024 Audi A5?\n\nFor luxury-car shoppers who like choices, the Audi A5 is offered as a coupe, convertible (Cabriolet) and four-door hatchback (Sportback). In the A5 Sportback, the standard engine is a 201-horsepower, turbocharged 2.0-liter four-cylinder coupled with a seven-speed dual-clutch automatic transmission. A 261-hp, turbocharged 2.0-liter four-cylinder is the base engine in the coupe and convertible. All three come standard with Audi’s Quattro all-wheel-drive system. Performance fans can opt for an S5, which is available in all three body styles and features a 349-hp, turbocharged 3.0-liter V-6 engine, eight-speed automatic transmission, firmer suspension and upgraded brakes. If that’s not enough, the high-performance RS 5 gets a 444-hp, twin-turbo 2.9-liter V-6 and other performance upgrades, though it’s offered only as a coupe or hatchback. The A5 family’s rivals include the Mercedes-Benz C-Class, BMW 4 Series, Lexus IS and Acura Integra. \n\nWhat’s New on the 2024 Audi A5?\n\nAll models and trims except the base A5 Sportback 40 get additional standard features for 2024, including adaptive cruise control, lane departure steering assist, parking assist and a heated steering wheel with hands-on detection. The Navigation Package that’s optional on the Premium Plus trim and standard on Prestige versions gets added functionality, including traffic sign recognition that activates predictive adaptive cruise control. Navigation-equipped models now come with a six-month trial subscription to Audi Connect Plus, making music, video, gaming, navigation and other apps accessible through the center touchscreen.  \n\nWhat Features in the 2024 Audi A5 Are Most Important?\n\nStandard features include:\n\nAWD\nTri-zone climate control\nLED headlights with high-beam assist\nLeather seats\nHeated front seats\nHeated steering wheel\n10.1-inch touchscreen multimedia system\nWireless Apple CarPlay and Android Auto\nPower-operated trunk lid\nAdaptive cruise control\nAutomatic emergency braking\nLane departure warning\nLane departure steering assist\nParking assist \n\nAvailable features include:\n\nAudi Virtual Cockpit with 12.3-inch instrument panel screen\nVentilated front seats\n360-degree camera system\nHead-up display\nBang & Olufsen premium stereo\nRear cross-traffic alert\nBlind spot warning\nShould I Buy the 2024 Audi A5?\n\nThe A5 offers sleek styling in the coupe, open-air thrills in the convertible, and a roomier backseat and spacious trunk in the four-door Sportback. The S5 and RS 5 offer higher levels of performance and, not surprisingly, significantly steeper price tags. Engine refinement is excellent, and cabin quality helps the A5 stand out among some very worthy competitors. Keep in mind, though, that the coupe’s and convertible’s backseats are snug for taller adults, and luggage space is especially dear in the drop-top A5. Even with added standard equipment on most models for 2024, Audi would be smart to include even more standard safety features, like blind spot warning and rear cross-traffic alert.",
+      "trims": [
+        {
+          "name": "Premium 40 TFSI quattro",
+          "price": "$46200",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible or four-door hatchback",
+              "Turbo four-cylinder (A5)",
+              "Turbo V-6 (S5 and RS 5)",
+              "Standard all-wheel drive"
+            ],
+            "Highlights": [
+              "26 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "236 @ 1450 SAE Net Torque @ RPM",
+              "201 @ 4475 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Prestige 40 TFSI quattro",
+          "price": "$46200",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible or four-door hatchback",
+              "Turbo four-cylinder (A5)",
+              "Turbo V-6 (S5 and RS 5)",
+              "Standard all-wheel drive"
+            ],
+            "Highlights": [
+              "26 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "236 @ 1450 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "201 @ 4475 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,726 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus 40 TFSI quattro",
+          "price": "$46200",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible or four-door hatchback",
+              "Turbo four-cylinder (A5)",
+              "Turbo V-6 (S5 and RS 5)",
+              "Standard all-wheel drive"
+            ],
+            "Highlights": [
+              "26 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "236 @ 1450 SAE Net Torque @ RPM",
+              "201 @ 4475 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,726 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium 45 TFSI quattro",
+          "price": "$48400",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible or four-door hatchback",
+              "Turbo four-cylinder (A5)",
+              "Turbo V-6 (S5 and RS 5)",
+              "Standard all-wheel drive"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "261 @ 6300 SAE Net Horsepower @ RPM",
+              "273 @ 4200 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,759 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Prestige 45 TFSI quattro",
+          "price": "$48400",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible or four-door hatchback",
+              "Turbo four-cylinder (A5)",
+              "Turbo V-6 (S5 and RS 5)",
+              "Standard all-wheel drive"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "261 @ 6300 SAE Net Horsepower @ RPM",
+              "273 @ 4200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,759 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "420 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium Plus 45 TFSI quattro",
+          "price": "$48400",
+          "specifications": {
+            "Notable features": [
+              "Coupe, convertible or four-door hatchback",
+              "Turbo four-cylinder (A5)",
+              "Turbo V-6 (S5 and RS 5)",
+              "Standard all-wheel drive"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "273 @ 4200 SAE Net Torque @ RPM",
+              "261 @ 6300 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,759 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "420 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

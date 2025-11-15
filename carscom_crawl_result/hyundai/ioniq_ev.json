@@ -1,0 +1,708 @@
+{
+  "make": "hyundai",
+  "model": "ioniq_ev",
+  "years": {
+    "2025": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/f4f82dae-6c35-4af0-b22a-332ae9610963.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/39f33a9a-bffd-48ef-9e4e-0a0ee5b64204.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/63c13c52-a6ef-4208-b20f-cb230662937a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/930ad4ca-248d-4fd0-9660-94475e2ebb04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/f4f82dae-6c35-4af0-b22a-332ae9610963.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/4185ab36-12e5-4941-a8d5-2dd6357dc086.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/4b335b13-05de-4d45-83c7-445acd730a4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/87fb2d08-00e4-4fe4-85e8-86e768e930d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/6b9e9936-0a64-40b1-bcf0-b1dfc5fb18c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ac74eafd-a281-4522-9c8e-2f8e403923f3/00802cf9-4278-475f-939e-65ab4d92ad49.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "SE Hatchback",
+          "price": "$33245",
+          "specifications": {
+            "Highlights": [
+              "170 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles (FLT) Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "134 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,371 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited Hatchback",
+          "price": "$38815",
+          "specifications": {
+            "Highlights": [
+              "170 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles (FLT) Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 SAE Net Horsepower @ RPM",
+              "218 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear",
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,488 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/a6a41aef-881e-4580-9993-b6562e19b396.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/4e3f88c0-8754-4831-b484-c061ba7c4622.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/192003af-125a-490a-b4ec-67e36e9f81bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/0e7185cb-59af-4cac-94b6-cd81705d6162.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/348f7a9b-9dd6-48f2-b127-69c1fe64ba56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/d753296c-4711-4cdb-a70b-3a83b25d64dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/7558c158-7824-4fea-a752-42c17c336620.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/ce6f5995-5a59-4c6a-b426-e758e23deae7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/ff40924c-2a40-4439-bafe-06316eda7374.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/92fc56f2-1599-4b53-8e15-bf91c8663768/7558c158-7824-4fea-a752-42c17c336620.png"
+      ],
+      "expert_review": "Hyundai will show off its refreshed-for-2020 Ioniq electrified compact sedans at the 2019 Los Angeles Auto Show. The juicier Ioniq — which rolled out for 2017 and has hybrid, plug-in hybrid and full electric versions — comes as Hyundai announced plans to expand its offering of “eco-friendly” or alternative-power vehicles to 13 by 2022.\n\nRelated: More 2019 L.A. Auto Show Coverage\n\nThe 2020 Ioniqs are getting a U.S. unveiling, but already have been revealed for Europe with styling and interior tweaks, as well as with a bigger 38.3-kilowatt-hour battery (up from 28) and more range for the EV version.\n\nEPA ratings already are out for the new 2020s, and the Ioniq EV now is rated for 170 miles of range, up more than 35 percent from 2019’s 124 miles (compare them here). The EV also gets a more capable 7.2-kilowatt onboard charger for faster fill-ups. Ratings for the other models also are posted and remain unchanged, including 29 miles of electric range for the plug-in hybrid. See EPA ratings for the 2019s here and the 2020s here.\n\nThe European-spec 2020s (gallery above) also revealed a new grille for the gasoline-engine models, with new bumpers and tweaked headlights and taillights for all. Inside, the dash is redone and the screen moves atop the dash in the tablet style now used in other new Hyundais. There also is at least the option of a larger 10.25-inch touchscreen, up from 8 inches, and there are touch controls for the climate system.\n\n2020 Hyundai Ioniq line of hybrid, plug-in hybrid and electric compact sedans | Manufacturer image\n\nBy Hyundai’s accounting, the three refreshed 2020 Ioniq versions apparently count for three of the 13 new eco-models coming. A fourth, next up after the freshened Ioniqs, will be a hybrid version coming in 2021 of the newly redesigned Sonata sedan (the current Sonata offers a hybrid in conventional and plug-in form). Hyundai alternative-fuel vehicles also already include an EV version of its Kona small SUV in select markets and the Nexo fuel-cell vehicle in California.\n\nHyundai says that six of the 13 coming vehicles will be sedans and seven SUVs. Given the short time frame, most or all seem likely to be refreshed or electrified versions of existing product lines rather than all-new vehicles. Said Mike O’Brien, Hyundai vice president of U.S. product, corporate and digital planning: “As the automotive industry evolves to meet the needs of a diverse customer base and environmentally aware society, we will continue to provide alternative-propulsion options in a variety of product choices.”\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SE Hatchback",
+          "price": "$33045",
+          "specifications": {
+            "Highlights": [
+              "170 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles (FLT) Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "134 SAE Net Horsepower @ RPM",
+              "218 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,371 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Limited Hatchback",
+          "price": "$38615",
+          "specifications": {
+            "Highlights": [
+              "170 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles (FLT) Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "134 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,488 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/f503d4eb-4ca0-44a5-b8e1-cb1f07a32c6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/2777c691-c1b6-47e6-941d-58b576671f41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/f298d2d0-b131-4737-bc2f-1a1722d5582e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/a6c18e10-943f-463c-981a-4e6685d230b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/ffc93719-37b3-41eb-a72f-499683254fc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/323f8fdc-31a1-4d93-8094-7ba2f5bed7dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/07e94316-56ba-44d6-8c64-770236bd36f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/4e0d4db5-2024-47e5-afdb-45334bfe4be7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/290ef63f-4cf0-47e1-adf3-46123477fd63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/8eff59d0-31fc-41f6-b881-f471dc6fe442.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/472e10c1-99e6-4eb8-a518-0abb5ecfcf33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/cf6f3e0f-802b-4aba-8eaf-537632b00184.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/5b85d8ab-eb88-4117-8669-6711e7885f97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/65761c1a-69e7-410c-ace4-d32c49f38278.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/81463569-382d-4bea-a5d9-da41bdf5f081.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/470892aa-0219-455a-8eeb-67c6b6fd2d27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/9186ec51-e901-4e68-a0f7-974a7c639387.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/477288b3-f854-479e-9a3c-e76044483011.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/408adc2c-8762-4983-98e5-8c1cab4b5049.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33829c8b-9dac-40cb-ba6c-27d5af182774/9f131772-9959-4170-85c6-946e41cc06e4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/569ff324-0e30-4e08-b329-6351779484d5/a8d5999a-62c2-4cf5-855a-dabac261b95b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Hatchback",
+          "price": "$29500",
+          "specifications": {
+            "Highlights": [
+              "124 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "118 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Torsion Beam Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,164 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Limited Hatchback",
+          "price": "$32500",
+          "specifications": {
+            "Highlights": [
+              "124 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "118 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,164 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/2686acd8-08f3-479b-a16f-de032ee2a15c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/b0541cdc-1954-4e5f-9f49-dd912ba488b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/85862690-e3b1-4d87-9c63-1751a9fc6b8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/c599c10b-7de6-44c4-bf04-72e5c0016647.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/e45ac5e9-be68-4129-a905-e9b4da94a6e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/62816d81-0454-4e71-b208-49bab4cb9ab9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/939b28ba-0621-4ce4-8ed9-5be913519652.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/4df35dbf-b953-442d-a75d-91629a05ffbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/0ee42547-0a3c-4391-aa06-34e8d8c09312.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/92b0f365-bef8-478e-83f5-38770781f355.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/5d8f32c1-f25d-4473-ad4d-023967559849.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/a4e2322a-ca6f-4ba0-a843-07e23c2b4a13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/58d00ebf-8ec1-47de-a826-8677d479e693.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/43743280-6929-42b2-b42e-ecdd8b5a314d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/385e0a0a-f8aa-494c-a600-39d4ae2051aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/d9dd2dc6-b11e-4cef-be17-c71c14ef3be0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/da989eba-7244-4370-92e2-b8a9d73bf22a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/9916699b-a8ce-4b92-950c-b66014be262a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/294cb9a5-961d-402b-b26d-7d4fce38493c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/385e0a0a-f8aa-494c-a600-39d4ae2051aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/165fb268-4e70-40b6-ad0f-a5a6895f5205.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/d5684088-1928-4305-866d-a6bae2c72edd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/c3b213bb-bb17-4efd-b4df-426677c886f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/776f61d8-505d-44f3-81a5-85fa4333317c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/470b8281-a62d-48e8-8dfa-84ad58411122.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/27c3da10-08e4-423c-8634-5973df859be3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/50621022-068d-4de2-9fca-c8b7d48a9dde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/8376a93b-2c8a-4d34-a46e-ade6cac79a94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/e7251f0d-6fa1-44a5-9a6b-5470e99a7849.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8c497d6e-4673-4a59-9480-30739bdd3db9/76108082-f4cd-4c05-b9ea-b5a38e41d19c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Hatchback",
+          "price": "$30315",
+          "specifications": {
+            "Highlights": [
+              "124 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "118 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,164 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited Hatchback",
+          "price": "$36815",
+          "specifications": {
+            "Highlights": [
+              "124 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "118 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Torsion Beam Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,164 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/fe1c75fb-7d05-481b-ab21-a509e15bc052.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/d5ba4e14-a8b3-48b4-ac91-2c83932925fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/e7843fb6-b49c-4696-8057-4f9ac9a9fd4c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/dcc83dae-9e5c-417d-9906-301ed25cae0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/cc6d0315-409c-455c-8dd7-4ea11e859393.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/cd2aae14-49f8-4b82-bf0e-279dc6e8829e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/d57b32ca-3138-4bab-89d9-b8cce8ed60d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/5b1c068f-b75f-47c3-9788-2231f908f5b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/5c6f7c1a-7ac7-481f-9034-6bc50125b128.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/4420b90e-0636-4510-9c09-410aecb77a7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/caa5a480-e2df-4aa4-a42d-3c6489e4bd4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/8ad4825a-74fe-4e45-a479-1c8c61967b7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/dd8c52d1-611b-45fa-9b35-3e95e6547fab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/31da39d8-91a7-42bc-a333-d98558aa0277.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/4e3ef2e4-8684-4cef-ae28-b72f9f9df51c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/55274cb5-850c-41be-8e75-177c3df4d7fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/d1553deb-6464-4530-9900-6e55ad615a4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/5f958927-56db-4877-a784-bddc0f80c16e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/7c21419c-76a5-4ca8-8fda-e66a472d4c9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/228fcb0e-ab89-4c79-8ab0-70f957af9368.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/a7f15b59-c421-475c-84a1-0bc9f3a2fcc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/e616c835-4df5-4265-b0aa-1a70c382f7c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/dd5ee243-8c93-41cf-809c-4047066a4893.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/b4727a59-7b4f-4b34-b2c2-7b0b987c9001.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/3cc6a195-7ac0-4188-9cc7-4b3b18f8439d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/e616c835-4df5-4265-b0aa-1a70c382f7c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/d3c63eac-82b8-42ad-8ab9-390d634824f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/d5005a12-2cf2-40ad-8e3c-b134b1dd60ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/2dc33252-4dbb-46ea-92a9-26489dec374e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/aca3c3b6-1d4b-4620-8721-761d73ac2b8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/f6379406-2a5a-4011-8c2a-bc0b9127cc69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b87617c-4e17-49df-baa0-5539eff4f5e7/390b0410-50df-44a6-b522-27924567d914.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Hatchback",
+          "price": "$29500",
+          "specifications": {
+            "Highlights": [
+              "124 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "118 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,164 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited Hatchback",
+          "price": "$36000",
+          "specifications": {
+            "Highlights": [
+              "124 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "218 SAE Net Torque @ RPM",
+              "118 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,164 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Optional Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

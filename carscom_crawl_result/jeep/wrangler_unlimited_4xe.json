@@ -1,0 +1,728 @@
+{
+  "make": "jeep",
+  "model": "wrangler_unlimited_4xe",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/862974f4-688e-4a2f-8e1e-77d25bcd02c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/474bf54f-c240-4b21-a4e7-f87815a88196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/8655a9fc-c2b4-4703-ac23-e36267f310a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/ffba21dc-609d-47b8-9927-462f5454313b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/8b47d008-717e-4c5d-80e3-b0320728548a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/12b45b7d-310e-406f-ba45-a8ce2299720d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/8eb9f376-1141-4aa4-b10c-fecd4a46316d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a57381a5-6f18-4a5e-914a-d6c248e21ed1/cc6ebf38-f2ce-4acd-911a-23c58b5e1789.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/382483c4-a8f2-4a05-aa0d-ef27cc78edab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/021fdf70-08ac-4c94-a4a2-d2570aba845d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/7aaace59-99d4-4c4d-a7e1-c6c4ffe95b83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/5cb8acac-4ff4-42c6-8b76-e6e0291475cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/1988ee5b-43bc-4893-a296-8c2854312bd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/26162098-001b-4137-bc39-7774e19057dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/4a4ba427-7a26-44d8-ba80-b493343ba1ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/dc0fca43-4fc7-4598-92b8-ee1dbb01cadf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/001ef685-82a6-48b8-b862-306046e9dbeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/3d351f6a-6cdc-4be5-8545-310b63d752a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/8ae00aac-fdd7-4107-8d11-1a097079060e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/49cdb38c-f524-4785-a80d-38fdd8799a92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/c0021e59-d2ff-449c-a8be-d9c9c23ecb45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/e0c0620a-cfeb-4a14-9e36-09c5cd027546.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/c7151cbe-f977-4159-93b7-37dece38bf30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/644cc2c4-0d29-42f9-a906-88cb2bdad73c/a9b95873-dd63-4399-bb66-678483275159.png"
+      ],
+      "expert_review": "What Is the 2022 Jeep Wrangler?\n\nThe Wrangler is Jeep’s long-serving 4×4. It’s available as a two- or four-door SUV, the latter known as the Wrangler Unlimited. The two-door model has room for four people, while the Unlimited version seats five.\n\nA standard 285-horsepower, 3.6-liter V-6 engine works with a six-speed manual transmission or an eight-speed automatic. Other available engines include a 270-hp, turbocharged 2.0-liter four-cylinder; a 260-hp, turbo-diesel 3.0-liter V-6 and a 470-hp, 6.4-liter V-8. The Wrangler Unlimited 4xe has a plug-in hybrid drivetrain that lets the SUV travel up to 21 miles on electric power alone, according to EPA estimates.\n\nFour-wheel drive is standard, and the Rubicon trim level features upgraded mechanicals for serious off-roading. Wrangler competitors include the Ford Bronco, Toyota 4Runner and Land Rover Defender. The Wrangler Unlimited offers 18.2 cubic feet of cargo space behind its backseat, according to Cars.com’s cargo measurements.\n\nWhat’s New on the 2022 Jeep Wrangler?\n\nA 4.88:1 axle ratio is optional for Rubicon models with the gas V-6, and Jeep says the cabin air filter can remove 95% of particulates. The Sahara 4xe adds blue tow hooks.\n\nWhat Features in the 2022 Jeep Wrangler Are Most Important?\n\nStandard features include:\n\nFolding soft top\nPush-button start\nCloth seats\nTilt/telescoping steering wheel\nCruise control\n\nAvailable features include:\n\nPower locks, windows and mirrors\nLED headlights\nThree-piece hard top\nRemote start\nAir conditioning\nLeather-trimmed seats\nHeated front seats\nHeated steering wheel\nAlpine premium stereo\n7- or 8.4-inch touchscreen multimedia system\nApple CarPlay and Android Auto smartphone connectivity\nBlind spot warning\nAdaptive cruise control\nAutomatic emergency braking\nShould I Buy the 2022 Jeep Wrangler?\n\nThe Wrangler is a back-to-basics SUV, but that doesn’t mean it comes cheaply. The base two-door model lacks creature comforts like power windows, air conditioning and power locks, but it still starts around $31,000. The more practical Wrangler Unlimited is even pricier. For your money, you get a rugged 4×4 that’s fun to drive, has an iconic look and is extremely capable off-road. Better still, the latest Wrangler is better-behaved than its predecessor on paved surfaces.",
+      "trims": [
+        {
+          "name": "Unlimited Sahara High Altitude 4x4",
+          "price": "$54595",
+          "specifications": {
+            "Notable features": [
+              "Four- or five-seat convertible SUV",
+              "Four-wheel drive standard",
+              "Gas, diesel or plug-in hybrid drivetrains",
+              "Removable top, doors and windshield",
+              "Two- and four-door Unlimited versions"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,200 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "9,000 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,100 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Sahara 4x4",
+          "price": "$54595",
+          "specifications": {
+            "Notable features": [
+              "Four- or five-seat convertible SUV",
+              "Four-wheel drive standard",
+              "Gas, diesel or plug-in hybrid drivetrains",
+              "Removable top, doors and windshield",
+              "Two- and four-door Unlimited versions"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,200 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "9,000 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,100 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Rubicon 4x4",
+          "price": "$58395",
+          "specifications": {
+            "Notable features": [
+              "Four- or five-seat convertible SUV",
+              "Four-wheel drive standard",
+              "Gas, diesel or plug-in hybrid drivetrains",
+              "Removable top, doors and windshield",
+              "Two- and four-door Unlimited versions"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "375 @ 5250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Maximum Trailering Capacity",
+              "5,222 lbs Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A As Spec'd Payload",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "6,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A As Spec'd Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Gross Axle Weight Rating",
+              "0 lbs Option Weight - Rear",
+              "9,200 lbs Gross Combined Wt Rating",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c2f9852b-3724-4664-a8ab-215b8b0c44e6/dfc041dd-76cf-4741-9e1b-8767d997e398.png"
+      ],
+      "expert_review": "The verdict: The Jeep Wrangler Unlimited 4xe gets a new plug-in hybrid powertrain but very much remains a Jeep Wrangler, just one with better fuel economy — so long as you keep the battery charged.\n\nVersus the competition: Competing mostly against non-PHEV Wranglers — though there are a few other PHEVs that can do some off-roading — the Wrangler Unlimited 4xe might be a good way for Wrangler buyers to afford a higher trim level, thanks to its available federal tax credit, but the experience it offers is not my favorite of the bunch.\n\nLike other brands under the Stellantis umbrella, Jeep loves to offer shoppers a lot of choices within the parameters of a single vehicle. I previously reviewed the Grand Cherokee, which can be had as a high-end luxury SUV, a capable off-roader or in two flavors of tire-shredding Mopar monster. While Jeep hasn’t thrown a Hellcat motor into a Wrangler — yet — the new-for-2021 Jeep Wrangler Unlimited 4xe plug-in hybrid electric vehicle is yet another option for shoppers in an already-diverse Wrangler lineup.\n\nRelated: A Whisper In the Woods: Jeep Details the 2021 Wrangler 4xe Plug-In Hybrid\n\nIn addition to the 4xe, buyers can choose a two- or four-door Wrangler powered by either a turbocharged four-cylinder gas engine (the same one in the 4xe), a six-cylinder turbo-diesel, a gas V-6 or the newer and completely bonkers 6.4-liter V-8.\n\nThat said, Jeep strangely — and frustratingly — limits options on the 4xe when it comes to door count and trim level choices. The 4xe is available only as a four-door and only in three high-end Wrangler trims: the premium Sahara, the more premium High Altitude and the off-road Rubicon. The Wrangler 4xe’s door count may have to do with packaging the PHEV powertrain, but it would be nice to see more affordable 4xe trims. The Sahara trim we tested was priced at $56,380 including destination but not including any available tax credits; it’s currently eligible for the full $7,500 federal tax credit (and possibly additional state or local credits).\n\nDriving the 4xe\n\nBefore we begin, a quick caveat: Mine are on-road driving impressions (despite Chicago’s streets often doing good impressions of an off-road park). The version we tested was a Sahara, so it didn’t have all the off-road goodies or knobby tires of the Rubicon, and we didn’t have an opportunity to take it off-road. The 4xe retains roughly the same off-road specs as other Wranglers, and that — plus the instant torque of its electric motor — should make it just as formidable off the pavement as its non-PHEV siblings.\n\nI really wish I had been able to drive the 4xe off-road because its on-road experience wasn’t any better than other Wranglers I’ve driven, which is to say … OK. Like other Wranglers, the 4xe required constant steering corrections to keep it tracking straight, and the ride, while not overly firm, still felt pretty clumsy. This is the price one pays for the Wrangler’s off-road prowess and cultural cool factor, but without getting to drive it off a paved road, I came away frustrated.\n\nUntil the arrival of the Rubicon 392, the Wrangler 4xe was the quickest Wrangler one could buy — though at a Jeep-estimated 0-60 mph time of 6.0 seconds, that was a low bar to step over. In regular driving, the powertrain is a bit poky off the line under electric power alone. It gets better when the gas engine kicks in, which (to Jeep’s credit) happens seamlessly. With electric and gas power making a total of 375 horsepower and 470 pounds-feet of torque, the 4xe is quick enough for easy passing and highway merging. Part of its slowness under electric power is almost certainly due to the 4xe’s heft: A Sahara 4xe weighs 5,100 pounds — about 800 pounds more than a gas-only four-cylinder Sahara.\n\nThe 4xe’s default driving mode is Hybrid, using both electric and gas power. Other modes include a self-explanatory Electric (though the gas engine will still kick in if you mash the go-pedal) and E-Save, which uses only the gas four-cylinder and is the quickest-feeling from a stop. The 4xe’s EPA-estimated 21 miles of electric-only range is both very short and very impressive for a vehicle with the aerodynamics of a house. Regardless of how impressive the figure, though, anything other than a light touch on the accelerator runs the range down very quickly.\n\nUsing the near-standard J1772 charging connector, Jeep says the 4xe’s 17.3-kilowatt-hour battery can be fully charged in roughly two hours with a 240-volt Level 2 charger capable of 7.2 kilowatts or higher, which is pretty typical. (Some Level 2 hardware is rated lower.) Using a charger I had access to at home was painless (aside from fitting the Jeep into my cramped two-car garage) and did, indeed, take around two hours to fully charge the battery from empty.\n\nCharging from a standard 120-volt household outlet is sometimes feasible with a plug-in hybrid because they have smaller batteries than pure electrics, but the 4xe might not be the best candidate. We didn’t experiment, but based on generous math, it would take 12 hours or more to fully charge from empty. And as we always point out, one key to satisfying plug-in motoring is being able to preserve your range by preheating or precooling the cabin before departing while the vehicle is still plugged in. In our experience, Level 2 is necessary to generate enough heat or air conditioning and is worth the investment.\n\nPublic charging, however, remains something of an adventure, which is why we continue to recommend that buyers of electric and plug-in-hybrid vehicles install home charging. That’s especially important for PHEVs like the Wrangler 4xe, which has an EPA-estimated mpg-equivalent rating of 49 mpg-e combined when operating under gas and electric power — but only a 20 mpg combined rating under gas power alone. Four-door gas-only Wranglers are rated 22 mpg combined with the four-cylinder and 21 mpg combined with the V-6. So unless you keep your 4xe charged, you’ll actually get worse gas mileage than if you’d just bought a basic Wrangler.\n\nFor those who want to use the 4xe’s instant electric torque on off-road trails, Jeep says it’s installing charging stations at trailheads, beginning with the Rubicon Trail and at Big Bear in California, and in Moab, Utah. For trails without charging, there’s always E-Save mode, which will keep the battery full until you get where you want to use it.\n\nBesides the fuel economy benefits, keeping the 4xe’s battery pack charged means you don’t have to hear the four-cylinder make a racket under the hood. While it offers decent performance, it sounds tinny and strained, and the relative lack of sound-deadening in the Wrangler’s cabin makes it more intrusive than it would be in a “normal” vehicle — the price you pay for being able to take the roof and doors off.\n\nLike other PHEVs (as well as hybrids and EVs), the Wrangler 4xe has regenerative braking, which uses the motor as a generator to return energy to the battery pack. Additionally, there’s a Max Regen mode, activated by a button below the touchscreen, that turns on a nearly one-pedal braking feature in which letting off the accelerator slows the Jeep down even faster than braking. It doesn’t quite work down to a full stop, eventually requiring use of the actual brake pedal, and it feels overly grabby and nonlinear. I usually left it off. The regular braking system also left something to be desired in terms of feel and linearity, but at least it was more linear than in Max Regen mode.\n\nInside the 4xe\n\nThe 4xe’s interior is nearly identical to every other Wrangler’s. In terms of physical changes, there’s a light bar atop the dashboard to indicate battery charging status, as well as PHEV-specific drive mode buttons to the left of the steering wheel and the Max Regen button below the touchscreen. The instrument panel and touchscreen also have 4xe-specific displays, and the touchscreen even has hybrid-specific “pages” similar to the Rubicon’s off-road pages or the performance pages in several Stellantis performance cars.\n\nThe 4xe’s backseat was redesigned to accommodate the battery pack, which sits under the seat and high up inside the frame, allowing the 4xe to retain its off-road abilities (and protect the battery in those scenarios). The result is a backseat that no longer folds completely flat, with a slight outcropping behind it that cuts into cargo space. Compared with non-PHEV Wranglers, Jeep estimates the 4xe loses 4 cubic feet of cargo space with the backseat up and 5 cubic feet with the seat folded.\n\nComfort is still hit or miss in the Wrangler. With the doors and roof attached, the front seat feels a bit cramped and narrow for my liking, and in back my knees were raised slightly higher than I’d like. Legroom and headroom were adequate in back.\n\nSafety\n\nThe Insurance Institute for Highway Safety has yet to test the Wrangler 4xe and says the gas-only Wrangler’s crashworthiness ratings will not apply to the 4xe due to its significant weight difference. Whether it’s ever tested and performs better or worse than the gas-only Wrangler — which rolled over in crash-testing — remains to be seen. If it is tested, you’ll find its ratings here.\n\nAs of this writing, the National Highway Traffic Safety Administration hadn’t fully tested any 2021 Jeep Wrangler and had not tested the Wrangler 4xe at all.\n\nMore From Cars.com:\n\nThe 470-HP Jeep Wrangler Unlimited Rubicon 392 Is Completely Bonkers\nJeep Charging Up Trailheads as Part of Electrification Push, Wrangler 4xe Launch\n2021 Easter Jeep Safari: Jeep Unveils All-Electric Wrangler Magneto, Other Concepts\nFeds Update Safety Standard in Wake of Cars.com Investigation\n2021 Jeep Wrangler 4xe Plug-In Hybrid Launch Editions Priced Just Under $50,000\nSo You Hate the 4xe?\n\nI don’t! That’s the beauty of the Wrangler, really. It has so many characteristics that would be deal-breakers in other vehicles, but because of what a Wrangler is — what it means to the general public and what it’s capable of doing — those can often be overlooked. Somehow, the Wrangler’s flaws work in its favor, making it more endearing. See also the whole Jeep Wave phenomenon. (Speaking of which, I’d like to take the time here to apologize to all the other Jeep drivers whose waves I unintentionally ignored; I sometimes forgot I was driving a Jeep.)\n\nNow, do I understand the appeal or purpose of the 4xe specifically? Not really. It’s certainly not the Wrangler I would choose for pure fun (Rubicon 392) or for daily driving (any of the V-6 models), or even some other very specific purpose, like overlanding (EcoDiesel). But it doesn’t feel that much different from a non-PHEV Wrangler, and Jeep deserves credit for that. As an added bonus, tax incentives might actually make it a cheaper — and more fuel-efficient — way to get into a higher trim level than one could afford in a non-PHEV Wrangler.\n\nThe Wrangler 4xe is interesting, and it has a few things going for it relative to other Wranglers, but it’s not the one for me.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Unlimited Sahara 4xe",
+          "price": "$47995",
+          "specifications": {
+            "Notable features": [
+              "New plug-in hybrid version of iconic Jeep Wrangler",
+              "Four-door only",
+              "Available in Sahara, Rubicon, High Altitude trims",
+              "375 total system horsepower from four-cylinder gas engine, electric motors",
+              "EPA-estimated 21 miles of electric-only range",
+              "EPA-estimated 20 mpg-equivalent combined rating with depleted battery"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,200 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Sahara High Altitude 4xe",
+          "price": "$47995",
+          "specifications": {
+            "Notable features": [
+              "New plug-in hybrid version of iconic Jeep Wrangler",
+              "Four-door only",
+              "Available in Sahara, Rubicon, High Altitude trims",
+              "375 total system horsepower from four-cylinder gas engine, electric motors",
+              "EPA-estimated 21 miles of electric-only range",
+              "EPA-estimated 20 mpg-equivalent combined rating with depleted battery"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Non-Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear",
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Option Weight - Front",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A As Spec'd Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A As Spec'd Payload",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,200 lbs Gross Vehicle Weight Rating",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Axle Weight Rating",
+              "0 lbs Option Weight - Rear",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Sahara 4x4",
+          "price": "$51525",
+          "specifications": {
+            "Notable features": [
+              "New plug-in hybrid version of iconic Jeep Wrangler",
+              "Four-door only",
+              "Available in Sahara, Rubicon, High Altitude trims",
+              "375 total system horsepower from four-cylinder gas engine, electric motors",
+              "EPA-estimated 21 miles of electric-only range",
+              "EPA-estimated 20 mpg-equivalent combined rating with depleted battery"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,200 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "9,000 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,100 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Sahara High Altitude 4x4",
+          "price": "$51525",
+          "specifications": {
+            "Notable features": [
+              "New plug-in hybrid version of iconic Jeep Wrangler",
+              "Four-door only",
+              "Available in Sahara, Rubicon, High Altitude trims",
+              "375 total system horsepower from four-cylinder gas engine, electric motors",
+              "EPA-estimated 21 miles of electric-only range",
+              "EPA-estimated 20 mpg-equivalent combined rating with depleted battery"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "375 @ 5250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Leading Link Suspension Type - Front",
+              "Trailing Arm Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "17 gal Fuel Tank Capacity, Approx",
+              "5,100 lbs Base Curb Weight",
+              "6,200 lbs Gross Vehicle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A As Spec'd Payload",
+              "0 lbs Total Option Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Axle Weight Rating",
+              "9,000 lbs Gross Combined Wt Rating",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Rubicon 4xe",
+          "price": "$51695",
+          "specifications": {
+            "Notable features": [
+              "New plug-in hybrid version of iconic Jeep Wrangler",
+              "Four-door only",
+              "Available in Sahara, Rubicon, High Altitude trims",
+              "375 total system horsepower from four-cylinder gas engine, electric motors",
+              "EPA-estimated 21 miles of electric-only range",
+              "EPA-estimated 20 mpg-equivalent combined rating with depleted battery"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "470 @ 3000 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Trailing Arm Suspension Type - Rear",
+              "Non-Independent Axle Type - Front",
+              "Leading Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "N/A Base Curb Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Option Weight - Rear",
+              "6,400 lbs Gross Vehicle Weight Rating",
+              "N/A Maximum Payload Capacity",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Curb Weight - Rear",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A As Spec'd Curb Weight",
+              "N/A Curb Weight - Front",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A As Spec'd Payload",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Option Weight - Front"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Unlimited Rubicon 4x4",
+          "price": "$55225",
+          "specifications": {
+            "Notable features": [
+              "New plug-in hybrid version of iconic Jeep Wrangler",
+              "Four-door only",
+              "Available in Sahara, Rubicon, High Altitude trims",
+              "375 total system horsepower from four-cylinder gas engine, electric motors",
+              "EPA-estimated 21 miles of electric-only range",
+              "EPA-estimated 20 mpg-equivalent combined rating with depleted battery"
+            ],
+            "Highlights": [
+              "21 - 22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "375 @ 5250 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "470 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Non-Independent Axle Type - Front",
+              "Trailing Arm Suspension Type - Rear",
+              "Leading Link Suspension Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "5,222 lbs Base Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Gross Axle Weight Rating",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "3,500 lbs Maximum Trailering Capacity",
+              "9,200 lbs Gross Combined Wt Rating",
+              "6,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

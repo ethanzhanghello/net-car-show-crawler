@@ -1,0 +1,2522 @@
+{
+  "make": "toyota",
+  "model": "corolla_hatchback",
+  "years": {
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/556c5005-bc9f-4f43-9190-9e8b8c17092a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/9d19c1dc-50cb-4e75-8732-b027a94fd349.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/5342440e-4cbb-410b-a71f-49974b2a99c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/9d19c1dc-50cb-4e75-8732-b027a94fd349.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/1282b82f-fd1b-4f90-98a3-f6ed58b61406.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/5fca8d39-feb1-4a80-8a7b-3e0fe17ba33e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/f05eb3f5-eb26-420e-9a40-5808f5e74ddd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/a2ed5df3-c55c-4235-bdc5-0af44024c512.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/bffe67fd-2fe6-40bf-9c52-ced5b98c9cc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/f67e4546-bd4f-42f3-8169-c4db113a3891.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/34ae9d6b-51be-41ef-8dfe-f63d25c437d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/5767b178-e92c-44b7-bfcc-e2f41137a377.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/f3d5d19e-85a2-4a5b-9f8c-266a6026721c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/828dab33-0135-476d-b1f7-13e51f39a08d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/0ca81e8c-03bc-48e5-a792-2acb8ba4afc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/35c6f238-891a-4baa-be16-bc9f6c76e9ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/45ff10c0-fd48-4e98-affe-1fc5d4b091cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/d414cd92-812d-4084-821f-29aa53839a51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/c75f72d5-5cc8-46e0-a9a1-3ddaeca3f0e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/a3a70ae2-c65b-4e65-85df-a6973967678a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/5a17943d-30e5-4111-a916-49d61c1c68f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/2f2f5d83-b9a5-4a0e-b40f-026d2c343432.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/4528836e-37be-4e69-a034-2a84ce98e68b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/fdcc1c08-ce49-4fe4-a9f8-7947ce26701b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/4fafe333-e7ac-4475-b55a-7e0e01b47ca8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/c76c6036-3175-4995-b12c-16040c241a36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/33bbd576-ef86-4582-949d-3d635a546d8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/f270dc41-baef-4c3c-82dd-0801e2f8d575.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/85a7e371-7e6e-46b1-8cdd-7842397ea587.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c05c5907-232f-47aa-8e97-bb48b60d18d7/9a3d9206-bdab-49f9-a834-439fafea5c95.png"
+      ],
+      "expert_review": "The all-new 2019 Toyota Corolla Hatchback is a head-turner (in a good way), bringing some sorely needed styling updates, inside and out, versus the two 2018 models bearing the Corolla name, the sedan and the Corolla iM hatchback, previously sold as the Scion iM. Though it’s easy to get caught up in those more cosmetic updates, don’t let the new clothes distract you from the more significant updates to the 2019’s technology and safety offerings.\n\nRelated: Toyota Hatches New Corolla Variant to Replace Ex-Scion iM\n\nThe Corolla Hatchback isn’t based on the current Toyota Corolla sedan or the Toyota Corolla iM, which it replaces (that sound you hear right now is nobody crying because that car also left much to be desired). It has much more in common with the European 2019 Toyota Auris, with a new platform and different enough powertrains and new technology to be considered its own entity. Toyota currently declines to comment on whether the Hatchback is a reliable preview of an updated sedan, but it’s logical and likely. If the sedan adopts the Corolla Hatchback’s changes, it will be a dramatically better car.\n\nI headed to Toyota’s national media drive in San Diego to drive several new variants of the Corolla Hatchback to see how all those changes play out on the road. (Per company policy, Cars.com pays for its airfare and lodging at such automaker-hosted events.) The 2019 Corolla Hatchback will be offered in two trim levels, SE and XSE.\n\nWhat’s New\n\nBeyond the new styling inside and out, the Corolla Hatchback features a few firsts not just for Corolla models, but also for the Toyota brand itself: a new 2.0-liter four-cylinder engine, two new transmissions and the new Toyota Safety Sense 2.0 suite of safety technologies (which is standard) that includes a few key additions that improve the systems. Toyota’s new global architecture lies underneath, along with suspension upgrades such as an independent multilink rear suspension that’s superior to the 2018 sedan’s semi-independent torsion beam design and lowers the car’s center of gravity.\n\nThere are technology updates as well: A larger, 8-inch touchscreen is now standard and the multimedia system adds much needed connectivity features such as Apple CarPlay and Amazon Alexa. Two USB ports and a Qi wireless smartphone charging pad are also available, as is a 7-inch electronic display that serves most instrument panel functions.\n\nHow It Drives\n\nThe Corolla Hatchback’s new 2.0-liter four-cylinder engine makes 168 horsepower and 151 pounds-feet of torque, an improvement of 31 hp and 25 pounds-feet over the Corolla iM, significant jumps that help the Corolla Hatchback feel lighter on its feet (a needed change).\n\nWhat I was more enthusiastic to test were the new transmissions, the Dynamic-Shift continuously variable transmission and a six-speed manual, both of which are available on either trim level.\n\nThe CVT features a fixed 1st gear that it uses to launch from a stop before transferring over to operate like a conventional CVT. This provides smoother launches and eliminates some of the initial rubber-band-type delay in accelerator response that conventional CVTs exhibit off the line. The transmission also features 10 preset gear ratios that drivers can flip among with the standard paddle shifters, giving the feeling of a conventional stepped-gear transmission.\n\nThe CVT feels in many ways like a normal automatic transmission, which is the point. Off the line, the fixed gear offers more linear acceleration, and it transitions into conventional CVT mode seamlessly. I couldn’t pick it out while I was driving around town.\n\nThe new six-speed manual transmission is a big improvement over that in the Corolla iM, which has a weirdly high clutch catch point and gears that are hard to find. (When reviewing the Scion iM, I found it so distasteful that I preferred the CVT.) With the new manual, the catch is lower and the shifter moves more naturally.\n\nThe hatchback Toyota Corolla manual transmission also comes with a new rev-matching feature: Click on the “iMT” button behind the shifter and the engine will automatically rev up to meet the transmission’s speed if you select a lower gear, for smoother downshifts. It’s a system we’ve tested in other cars from the Nissan 370Z to the Porsche 911, but never in a car this affordable.\n\nThe transmission’s ability to manipulate the engine rpm gives it a fun additional benefit — it’s basically impossible to stall it, unless you really try. On flat ground, I tried giving the car minimal throttle, then no throttle, then just letting the clutch go completely. After dropping the clutch with no gas, the Corolla Hatchback crawled forward at around 3 mph, seemly saying to me, “Is that about it?” This makes the Corolla Hatchback a great car for beginners, or those interested in learning how to drive a manual.\n\nThe powertrain and suspension changes make the Corolla Hatchback a well-driving compact, though I’d stop short of calling it a sporty one. Competitors like the Mazda3 and Volkswagen Golf offer a crisper driving experience, but the new Toyota still drives circles around the hatchback it replaces.\n\nInterior\n\nDespite all those mechanical updates (which do work quite well), I think that the Toyota Corolla Hatchback’s more meaningful changes are its improved multimedia and safety technology.\n\nThe multimedia system, as mentioned before, gets a larger, standard 8-inch touchscreen and connectivity upgrades. Moving up to the XSE adds satellite radio and Entune 3.0 Connected Services, while an optional third system adds native (built-in) navigation, replacing the standard Scout GPS link compatible system that employs the in-dash display but relies on an app running on your smartphone.\n\nNot only does the new screen look better, but its position is great as well. It sits high up on the dashboard for easy visibility but not so far forward that it’s unreachable. In other vehicles with high screens, like Toyota’s also redesigned 2019 Avalon sedan, you need to lean way forward to reach those controls or have Go-Go-Gadget arms. In the Toyota Corolla Hatchback I could stay seated comfortably in the driver’s seat and just reach an arm up to access all corners of the touchscreen and the physical controls flanking it. The rest of the Corolla Hatchback’s controls are tightly clustered right underneath the screen and easy to access as well.\n\nBackseat Crunch\n\nAll of that is good stuff, so what’s the rub? Fortunately, the driver won’t experience it, but a friend/spouse/child might. The backseat seems to be have been utterly neglected; there isn’t much legroom or headroom to speak of and the back of the center console is completely bare. That means no USB charging port, no 12-volt outlet and no visible air vents — a shortcoming that makes motion-sensitive folks like me cringe.\n\nMuch Needed Safety Innovations\n\nEvery Toyota Corolla Hatchback comes equipped with a suite of safety technology called Toyota Safety Sense 2.0, a mix of new technologies and updates to existing systems that were a part of TSS-P, the standard suite of safety features found on the 2018 Corolla sedan.\n\nNew features include lane keeping for the lane departure prevention (Lane Tracing Assist or LTA) system, road sign reading and daytime detection for cyclists, which is tied into the forward automatic emergency braking. Toyota also says the system’s pedestrian detection has been upgraded to work better in low-light situations.\n\nMy favorite change comes to the adaptive cruise control system, which is now a full-speed system, meaning it can work all the way down to a stop, making the feature much more useful in stop-and-go traffic, which I appreciate living in Los Angeles. This system is available only with the CVT; manual-transmission models get an adaptive cruise control system that works between 15 and 110 mph.\n\nConclusion\n\nThe 2019 Toyota Corolla Hatchback is a comprehensive package, with greater visual appeal and performance than the 2018 sedan and Toyota Corolla iM that’s backed up by big leaps in technology. It has transformed a car that used to inspire yawns into a fun, funky compact hatchback that offers serious standard safety features.\n\nWe are still waiting for final pricing and fuel-economy details, but unless those come back as large surprises I can confidently say that the new hatchback is the most appealing Corolla I’ve seen in a few generations. Those details should come shortly, as the 2019 Toyota Corolla Hatchback heads to dealerships in July.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SE Manual (Natl)",
+          "price": "$20140",
+          "specifications": {
+            "Highlights": [
+              "28 City / 37 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4800 SAE Net Torque @ RPM",
+              "168 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (Natl)",
+          "price": "$21240",
+          "specifications": {
+            "Highlights": [
+              "32 City / 42 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4800 SAE Net Torque @ RPM",
+              "168 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "XSE Manual (Natl)",
+          "price": "$23140",
+          "specifications": {
+            "Highlights": [
+              "28 City / 37 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4800 SAE Net Torque @ RPM",
+              "168 @ 6600 SAE Net Horsepower @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (Natl)",
+          "price": "$24240",
+          "specifications": {
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4800 SAE Net Torque @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "168 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [],
+      "expert_review": "If you’re looking for a little more visual flair on a practical Toyota Corolla Hatchback, you may want to look for one of the limited-edition FX Edition variants coming for the 2026 model year. The Corolla Hatchback joins its sedan counterpart in getting the limited-edition trim, with only 1,600 of them made.\n\nRelated: New FX Trim Joins 2025 Toyota Corolla Lineup\n\nWhat Does the Toyota Corolla Hatchback FX Edition Include?\n\nWith the Corolla sedan’s FX trim getting some mild retuning, you might be expecting some performance tweaks on the Corolla Hatchback FX Edition, which is named for the fun Corolla FX16 hot hatch of the ‘80s. Unfortunately, that’s not the case here, as the new FX Edition is primarily an appearance package. It’s powered by the same 2.0-liter four-cylinder engine as the rest of the Corolla Hatchback lineup, which is good for 169 horsepower and 151 pounds-feet of torque and is mated to a continuously variable automatic transmission. (The Toyota GR Corolla is still there for you if you need a true hot hatch, though.)\n\nThe Corolla Hatchback FX Edition will look cool, though. It is based on the Corolla Hatchback’s base SE trim and adds 18-inch alloy wheels finished in gloss white, black lug nuts, a black vented rear wing (which Toyota claims improves the hatch’s aerodynamics), a black interior with orange stitching and well-bolstered sport seats with suede inserts. The FX Edition also adds the customizable 7-inch digital gauge cluster and wireless phone charging pad from the top XSE trim. It’s available in three exterior colors: Ice Cap (white), Inferno (orange) and Blue Crush Metallic (blue). Throwback-style badging on the rear hatch recalls the FX16’s era and adds another special touch.\n\nJust because it’s based on the SE doesn’t make the FX an otherwise bare-bones trim, as the SE comes with LED exterior lighting, automatic climate control, an 8-inch infotainment touchscreen, and wireless Apple CarPlay and Android Auto. As with the other Corolla Hatchback trims, the FX Edition includes the full Toyota Safety Sense 3.0 suite of driver assists, including forward collision avoidance with pedestrian detection, adaptive cruise control, lane departure warning with steering assist, lane-centering steering and automatic high beams.\n\nAdditionally, Toyota claims the new FX Edition will get 33 mpg combined, which puts it right in line with the EPA ratings for the other trims with 18-inch wheels, which get 30/38/33 mpg city/highway/combined.\n\nWhat Is the 2026 Corolla Hatchback FX Edition’s Release Date and Pricing?\n\nThe new Corolla Hatchback FX Edition will arrive in dealerships in fall 2025, with pricing to be announced closer to the 2026 Corolla Hatchback on-sale date.\n\nMore From Cars.com:\n\nNot Cheap, Affordable: 2025 Toyota Corolla Hatchback Priced From $24,600\nWhat’s New for the 2025 Toyota Corolla?\n2025 Toyota Corolla Gets FX Special Edition, New Available Touchscreen\n2024 Toyota Corolla Hybrid Review: An Ideal Appliance\n2021 Toyota Corolla Apex Edition Review: Why Put Track Shoes on an Accountant?\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SE CVT (Natl)",
+          "price": "$24180",
+          "specifications": {
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "FX CVT (GS)",
+          "price": "$26780",
+          "specifications": {
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "FX CVT (SE)",
+          "price": "$26780",
+          "specifications": {
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "FX CVT (Natl)",
+          "price": "$26780",
+          "specifications": {
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (Natl)",
+          "price": "$27175",
+          "specifications": {
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/ce8fdbc6-222c-42d3-8809-6483d7cd744e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/1b9c2483-6e9a-49a7-b83a-3dc42520519c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/393e3056-e251-4b07-803a-0dcaea9b3fb4/e74317e1-63fc-4589-aaad-0bdd1ab6d7ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/ff8792d7-2a88-440d-b592-d2a7a5ec38b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/e3efcf45-ceea-40fc-b0c2-a29e01aa9a99.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/c5007517-7ffd-464e-89c4-0d8fcafc64e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/f0eed6e1-c3c3-4990-bf47-de387c01dda5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/2f707249-c43e-4e96-a5f4-0bdb146ad3ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/ffe6f065-b32e-45f4-b013-27b9ddb21b44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/e1660917-7c76-4214-9376-cc13513dbfcf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/474778ef-68d4-4c95-87cc-c77cc4d38b3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/15e7c862-5ba9-49b5-b34f-1d94e16e4d85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/21bf4cd9-3b3c-497c-bcf3-1c1c9d8b51c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/fea107a1-d611-4088-b4c5-317dedaeb251.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/50ac0b69-b3b8-4243-a901-e47f991d3910.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/e969622f-544d-4a87-a59a-920fccc391b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/aece916e-e7db-43e7-9aad-a5358fa903a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/77882f0d-483a-43b1-a01b-0ffa0f0dfe10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/b853b501-1f5b-45b3-af83-08a0cb3839d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/4b2d6b44-de1d-41ed-89db-ac558fb2a699.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/1a244688-9b75-48f9-89e7-d641266870d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/1e2d2b00-51df-4498-b374-69be1ee9ba5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/298813be-0541-428d-8771-393d9ba717a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/5549bd73-82dc-4fad-a770-01374d3dda8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/230d4b0c-3ba6-460b-8dab-f68af802a328.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/bfc26db6-28bd-4750-9979-99c265644c14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/9a0ce393-2352-415b-8296-bb3a41869641.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/7f9cbc9a-dedb-45a3-8678-fb6ecdfa30f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/078432f5-4e50-4b79-b775-49fb874aa415.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eafbf17e-e5c7-4d38-b8f1-949200308a34/43483b60-cb34-4549-a5f0-d8179ba063e2.png"
+      ],
+      "expert_review": "What Is the 2020 Toyota Corolla Hatchback?\n\nThe five-seat, four-door Toyota Corolla hatchback is a sporty compact car that competes with the Mazda3 hatchback and Volkswagen Golf. It’s powered by a 168-horsepower, 2.0-liter four-cylinder engine that works with a six-speed manual or continuously variable automatic transmission. \n\nWhat’s New on the 2020 Toyota Corolla Hatchback?\n\nAndroid Auto smartphone connectivity joins Apple CarPlay for 2020. A contrasting black roof is now optional, and a new Nightshade version gets blacked-out 18-inch alloy wheels and black exterior trim. \n\nWhat Features in the 2020 Toyota Corolla Hatchback Are Most Important?\n\nLike the Corolla sedan, the Corolla hatchback blends an easy-to-drive feel and good fuel economy. The hatchback’s long list of standard active safety features includes forward collision warning, automatic emergency braking, adaptive cruise control, lane departure warning with steering assist and automatic high-beam headlights.  \n\nShould I Buy the 2020 Toyota Corolla Hatchback?\n\nWith a starting price of a little more than $21,000, the Corolla hatchback is an affordable compact car that also offers some driving fun. The engine is noisy, however, and there isn’t a lot of storage space in the cabin.",
+      "trims": [
+        {
+          "name": "SE Manual (Natl)",
+          "price": "$20290",
+          "specifications": {
+            "Notable features": [
+              "Android Auto now offered",
+              "Five-seat compact hatchback",
+              "Front-wheel drive",
+              "168-hp four-cylinder engine standard",
+              "Manual or automatic transmission",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "28 City / 37 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (Natl)",
+          "price": "$21390",
+          "specifications": {
+            "Notable features": [
+              "Android Auto now offered",
+              "Five-seat compact hatchback",
+              "Front-wheel drive",
+              "168-hp four-cylinder engine standard",
+              "Manual or automatic transmission",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade CVT (Natl)",
+          "price": "$22290",
+          "specifications": {
+            "Notable features": [
+              "Android Auto now offered",
+              "Five-seat compact hatchback",
+              "Front-wheel drive",
+              "168-hp four-cylinder engine standard",
+              "Manual or automatic transmission",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "XSE Manual (Natl)",
+          "price": "$23240",
+          "specifications": {
+            "Notable features": [
+              "Android Auto now offered",
+              "Five-seat compact hatchback",
+              "Front-wheel drive",
+              "168-hp four-cylinder engine standard",
+              "Manual or automatic transmission",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "28 City / 37 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (Natl)",
+          "price": "$24340",
+          "specifications": {
+            "Notable features": [
+              "Android Auto now offered",
+              "Five-seat compact hatchback",
+              "Front-wheel drive",
+              "168-hp four-cylinder engine standard",
+              "Manual or automatic transmission",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/4349f228-6f30-4d18-a504-c7f73f0abe37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/1cbd819f-69fe-4fc9-a597-36674541927a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/ae965fa5-bd3a-44c7-bbf1-dd200023574b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/0174f73d-64b9-4e9e-bf8c-9e28d3a14a75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/b6586c1d-f02c-4ef4-8c87-a3b692acada9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/45affbc1-496c-462e-b546-ca1ee2eceb04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/424f6d7a-e322-4275-85b8-97f6605f5b26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/c6ff060c-3e79-4354-b72c-1928ed8d0423.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/bd171403-e1f9-41b7-a428-00cdf41494a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/c4b990b1-48ba-4055-aaf9-c94da5612960.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/16b415ea-bc46-4fb0-b7ba-9d6108f4883b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/c65f16d7-3068-4978-872f-3f6422727187.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/dfb3c4df-f8bf-4b9d-a097-6894ae5df3f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/2ca1167d-9ea2-4041-bfff-a987000b80c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/92f4c861-fc34-4463-b3ea-cbd4d75a4e0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/7aa5737b-eb7d-462f-aae3-3c2d709d8711.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/7e35d1d2-a210-4680-80b0-b777475343d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/a19359b9-813b-45be-9704-f789f9f9efea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/671b3db9-6ac2-4c2d-8785-c173b434ac6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/ae084217-aedf-4a96-b8ef-44e81be57337.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/8a2db320-0661-4efa-98a8-36f275a4f54d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/c2305d0e-86b1-4a98-a7e6-fc63fba986f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/aca2f6e9-6a89-47fb-9210-ac4d1978c087.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/614abe98-bc5f-4a7c-a269-b50e0dae512a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/dc176479-a4fa-4e56-a9f0-427180e8e5dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/b5d3f42e-3ab4-4e1f-879e-d8a8610bdb22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/7d23d28d-f482-42f4-8558-6503fcc32a9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/4349f228-6f30-4d18-a504-c7f73f0abe37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/0c15ce08-18b4-4602-bbd3-448edf416f3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66110a44-5a59-4a33-857d-7e6edb63ab69/0be0914e-e010-49cc-9285-d517924e7729.png"
+      ],
+      "expert_review": "What Is the 2022 Toyota Corolla?\n\nThe compact Toyota Corolla is offered in sedan and four-door hatchback form and seats five. It’s powered by a standard 139-horsepower, 1.8-liter four-cylinder engine that pairs with a continuously variable automatic transmission or a 169-hp, 2.0-liter four-cylinder that works with a CVT or a six-speed manual transmission. A hybrid drivetrain is also offered, and the Corolla Hybrid is EPA-rated 52 mpg combined. Front-wheel drive is standard.\n\nCorolla competitors include the Honda Civic, Nissan Sentra and Mazda3. The Corolla sedan offers 19.1 cubic feet of truck space, according to Cars.com’s cargo measurements.\n\nWhat’s New on the 2022 Toyota Corolla?\n\nThere are no significant changes this year.\n\nWhat Features in the 2022 Toyota Corolla Are Most Important?\n\nStandard features include:\n\nLED headlights and taillights\nAir conditioning\nFabric upholstery\n60/40-split, folding backseat\n7-inch touchscreen multimedia system\nAndroid Auto and Apple CarPlay smartphone connectivity\nSatellite radio\nWi-Fi hot spot\nForward collision warning with automatic emergency braking\nLane departure warning with steering assist\nAdaptive cruise control\nAutomatic high-beam headlights\n\nAvailable features include:\n\nAlloy wheels\nPower moonroof\nAutomatic air conditioning\nHeated front seats\nWireless device charging\n8-inch touchscreen\nJBL premium stereo\nNavigation\nBlind spot warning with rear cross-traffic alert\nShould I Buy the 2022 Toyota Corolla?\n\nAlready a solid choice among compact sedans, a 2020 redesign of the sedan brought big improvements to the Corolla, including improved fuel economy, better ride and handling and a nicer interior. A long list of standard safety features and an easy-to-use multimedia system add to the Corolla’s appeal. The four-cylinder engines are noisy, however, and there’s not a lot of storage space in the cabin.",
+      "trims": [
+        {
+          "name": "SE Manual (Natl)",
+          "price": "$21165",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback body style",
+              "Choice of four-cylinder engines",
+              "Manual or automatic transmission",
+              "Android Auto, Apple CarPlay standard",
+              "Automatic emergency braking standard",
+              "Hybrid version available"
+            ],
+            "Highlights": [
+              "28 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE Manual (SE)",
+          "price": "$21165",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback body style",
+              "Choice of four-cylinder engines",
+              "Manual or automatic transmission",
+              "Android Auto, Apple CarPlay standard",
+              "Automatic emergency braking standard",
+              "Hybrid version available"
+            ],
+            "Highlights": [
+              "28 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (Natl)",
+          "price": "$22265",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback body style",
+              "Choice of four-cylinder engines",
+              "Manual or automatic transmission",
+              "Android Auto, Apple CarPlay standard",
+              "Automatic emergency braking standard",
+              "Hybrid version available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade CVT (Natl)",
+          "price": "$23165",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback body style",
+              "Choice of four-cylinder engines",
+              "Manual or automatic transmission",
+              "Android Auto, Apple CarPlay standard",
+              "Automatic emergency braking standard",
+              "Hybrid version available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "XSE Manual (Natl)",
+          "price": "$24115",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback body style",
+              "Choice of four-cylinder engines",
+              "Manual or automatic transmission",
+              "Android Auto, Apple CarPlay standard",
+              "Automatic emergency braking standard",
+              "Hybrid version available"
+            ],
+            "Highlights": [
+              "28 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (Natl)",
+          "price": "$25215",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback body style",
+              "Choice of four-cylinder engines",
+              "Manual or automatic transmission",
+              "Android Auto, Apple CarPlay standard",
+              "Automatic emergency braking standard",
+              "Hybrid version available"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/a0976137-6834-4050-9f1f-3f00a887379d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/74a8ac39-9ea9-4384-bfc0-1856a1050593.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/cc02d706-b0ac-49cf-92bc-d83b164a5ea5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/1050b77f-9951-40a1-9084-bf012aa97ae7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/fdda8d57-638f-4fe2-8a8d-f049835994d6.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/7850303e-dd55-4e30-bca7-a33f7a8bb9a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/f0c7b646-f015-4864-9416-80e9e36e56b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/df3d4638-5a7e-46ee-ae56-46e697009bfc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/a43c9e89-d9ce-438a-a8bc-bc23b8b823c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/bd6cb06d-d06c-4af0-94ce-58fa3015adcf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/047cc64a-d6f1-4089-b0dc-86e82476b46b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/cc5fbbb6-fbab-40a6-94c6-df86e08f8d88.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/2707d6a3-dede-4c8a-9796-adca2153fdf2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/47b1b631-5d32-4515-b9c7-70ca5541aaab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/3ad16857-e224-46e5-9087-73aa4e67f928.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c6dd3c9b-8fc0-4f28-8bef-43db418f76e3/ea2ac9d2-ad32-4384-9db9-019064b96fda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/9f8016ec-5083-4184-ad2d-e872f7a084fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/6329cd94-44a6-4377-acfb-de2787156ddb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/81df931f-25eb-4c94-83b0-4422d15a7d9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/e4aef37e-20f5-4b8e-b5d6-48c0cf06e238.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/dd62e0b8-d4e1-4fd0-b079-62767fedde26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/a70e105d-3c94-4d60-a560-ac6043d6cbac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/4d4ea1b7-b688-4bd9-833e-9c8327e30c95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/36e236b1-e8b3-468c-890c-7a78087df3e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b49c6780-2c7c-46b5-9d37-ab27eeff4cf9/c0f993d1-035e-4365-ba88-4023b4d8e363.png"
+      ],
+      "expert_review": "What Is the 2025 Toyota Corolla? \n\nThe Toyota Corolla is available as a compact sedan or four-door hatchback. A 169-horsepower, 2.0-liter four-cylinder is standard and sends power to the front wheels via a continuously variable automatic transmission. A fuel-sipping hybrid version is available, returning up to an EPA-estimated 47 mpg in combined city/highway driving. The Corolla Hybrid is powered by a 1.8-liter four-cylinder that’s paired with an electric motor for a total output of 138 hp; it offers a choice of front- or all-wheel drive, with the latter version getting a second electric motor to power the rear wheels.\n\nThis sensible Toyota economy car also has a seriously wild side in the form of a high-performance, racetrack-tuned GR Corolla hatchback. Motivated by a 300-hp, turbo 1.6-liter three-cylinder that can be paired with a six-speed manual or eight-speed automatic transmission, it comes standard with AWD, a performance-tuned suspension and exclusive styling touches. The GR Corolla competes with the Honda Civic Type R, Hyundai Elantra N, Subaru WRX and Volkswagen Golf R.\n\nWhat’s New on the 2025 Toyota Corolla?\n\nThe regular gas-engine Corolla sedan gets an FX trim for 2025 that adds specific exterior and interior trim details, such as satin-black 18-inch wheels and gray cloth seats with orange accent stitching. The FX also rides on a lowered suspension and features retuned power steering for a sportier feel. A 10.5-inch infotainment touchscreen is now available on pricier versions of the Corolla sedan and Corolla Hybrid in place of the standard 8-inch touchscreen. \n\nThe Toyota GR Corolla’s engine gets a rework that increases torque by 22 pounds-feet, to a total of 295 pounds-feet (output remains at 300 hp). An eight-speed automatic transmission is now offered in addition to the six-speed manual gearbox. Previously part of an option package, front and rear limited-slip differentials are now standard. The front fascia is restyled slightly to accommodate a new radiator and transmission cooler. Toyota also tuned the suspension to reduce squat during acceleration and improve tire grip in aggressive cornering.\n\nWhat Features in the 2025 Toyota Corolla Are Most Important? \n\nStandard features include:\n\n8-inch touchscreen multimedia system\nWireless Apple CarPlay and Android Auto\nSatellite radio\nWi-Fi hot spot\nFour USB ports\nAutomatic climate control\nLane departure warning\nLane departure steering assist\nAdaptive cruise control\nTraffic sign recognition\nAutomatic high-beam headlights\n\nAvailable features include:\n\nAlloy wheels\nPush-button start\nPower moonroof\nHeated front seats\n10.5-inch touchscreen multimedia system\nWireless device charging\nJBL premium stereo\nNavigation\nBlind spot warning\nRear cross-traffic alert\nShould I Buy the 2025 Toyota Corolla? \n\nIn its standard sedan form, the Corolla is a sensible, no-nonsense choice for anyone who simply wants affordable, economical transportation. Performance is fine for routine driving needs, but rivals like the Honda Civic and Mazda3 feel livelier behind the wheel.  Don’t assume the Corolla is bare-bones, however — even the entry-level trim comes with a solid range of safety and tech features. The Corolla Hybrid is the mileage champ in the lineup, and the raucous GR Corolla is an absolute blast to drive if you’re willing to pay its significantly higher price tag and tolerate its stiffer ride. This wide variety makes the Corolla a highly adaptable pick for all kinds of driving needs and all kinds of budgets.",
+      "trims": [
+        {
+          "name": "SE CVT (GS)",
+          "price": "$23780",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (SE)",
+          "price": "$23780",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (Natl)",
+          "price": "$23780",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade Edition CVT (GS)",
+          "price": "$24780",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade Edition CVT (Natl)",
+          "price": "$24780",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade Edition CVT (SE)",
+          "price": "$24780",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (GS)",
+          "price": "$27080",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (SE)",
+          "price": "$27080",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (Natl)",
+          "price": "$27080",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder engine",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid version",
+              "High-performance GR Corolla version"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/d7a33be0-e940-416e-b033-4b1a5a5c3c5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/877b0c50-175c-4226-9f62-b010d05c1ff3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/8768c04f-dbbd-4cb8-9e1d-089d73f5a12f.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/3a998b80-883d-4073-a933-37d366292993.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/dbc32364-7b10-48e5-bdf3-cff45d6b0a9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/818ff137-a2b1-45f9-ae87-7dfb9743da2b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/94d5359e-26df-4354-a193-ce2b3e3158a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/49a53763-c10c-49b0-9014-95db84627688.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/b86ec6e4-ef88-4010-9284-df325a4430d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/fb96ce4e-5946-466e-b2dc-1493b87ff49e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/94d5359e-26df-4354-a193-ce2b3e3158a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/1f3b42bb-d20d-44a5-9f00-4c3d0e706d93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/504405e5-e2e1-47da-9532-63d8c34ee6c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/b92081f3-34e0-45c2-80ae-ee233281963a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/e9847519-2217-4fa6-9d25-249f81887473.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/b851e8fc-0745-4dce-8eb9-8626a09f79cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/8a7d266b-e841-482b-a99b-4d2d79c84986.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/03243e46-04f0-44ca-b37b-3e8363ade718.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/a60f7486-a728-49d5-ae2b-8300ac82a2cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/28616692-03d8-4c9f-9aef-559263c3b908.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/eb13980f-fff9-4363-9271-81f5e7335715.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/10ddb657-3d59-4f6c-b2ee-ee9db9e7c718.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/3abc29d3-9c4f-4361-b50b-ce2ec7867630.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/36f6e552-6e94-4e81-9caa-fd15ca338ade.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/994ade1f-5fe2-4afc-b704-b2017de8b64e/7483360b-0994-4a86-8826-cb38327258e1.png"
+      ],
+      "expert_review": "What Is the 2024 Toyota Corolla? \n\nThe Toyota Corolla is available as a compact sedan or four-door hatchback. A 169-horsepower, 2.0-liter four-cylinder is standard, and it sends power to the front wheels via a continuously variable automatic transmission. Performance is fine for routine driving needs, though rivals like the Honda Civic and Mazda3 feel livelier behind the wheel. A fuel-sipping hybrid version is available, returning up to an EPA-estimated 50 mpg in combined city/highway driving. The Corolla Hybrid is powered by a 1.8-liter four-cylinder that’s paired with an electric motor for a total output of 138 hp. It offers a choice of front-wheel drive or all-wheel drive, in which case it gets a second electric motor to power the rear wheels. \n\nThis sensible Toyota economy car also has a seriously wild side in the form of a high-performance, racetrack-tuned GR Corolla hatchback. Motivated by a 300-hp, turbocharged 1.6-liter three-cylinder, it comes solely with AWD and a six-speed manual transmission along with a performance-tuned suspension and exclusive body-styling touches.  \n\nWhat’s New on the 2024 Toyota Corolla?\n\nThe Nightshade Edition returns to the Corolla lineup for the 2024 model year. This special-appearance trim adds blacked out exterior badging and bronze-colored alloy wheels to the sedan. When ordered on the Corolla hatchback, it also includes a black roof and an available vented sport wing mounted on the roof. Meanwhile, the hot-rod GR Corolla gains a mid-level Premium trim that slots between the base Core and line-topping Circuit trims.\n\nWhat Features in the 2024 Toyota Corolla Are Most Important? \n\nStandard features include:\n\n8-inch touchscreen multimedia system\nWireless Apple CarPlay and Android Auto\nSatellite radio\nWi-Fi hot spot\nFour USB ports\nAutomatic climate control\nLane departure warning\nLane departure steering assist\nAdaptive cruise control\nTraffic-sign recognition\nAutomatic high-beam headlights\n\nAvailable features include:\n\nAlloy wheels\nPush-button start\nPower moonroof\nHeated front seats\nWireless device charging\nJBL premium stereo\nNavigation\nBlind spot warning\nRear cross-traffic alert\nShould I Buy the 2024 Toyota Corolla? \n\nIn its standard sedan form, the Corolla is a sensible, no-nonsense choice for anyone who simply wants affordable, economical transportation. Don’t assume the Corolla is bare-bones, however — even the entry-level trim comes with a solid range of safety and tech features. The hybrid is the mileage champ in the lineup, and the raucous GR Corolla is an absolute blast to drive if you’re willing to pay its significantly higher price tag and tolerate its stiffer ride. This wide variety makes the Corolla a highly adaptable pick for all kinds of driving needs and all kinds of budgets.",
+      "trims": [
+        {
+          "name": "SE CVT (Natl)",
+          "price": "$23505",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/121 Displacement",
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "169 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (GS)",
+          "price": "$23505",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE CVT (SE)",
+          "price": "$23505",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade Edition CVT (Natl)",
+          "price": "$24505",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade Edition CVT (GS)",
+          "price": "$24505",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Nightshade Edition CVT (SE)",
+          "price": "$24505",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "32 City / 41 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (GS)",
+          "price": "$26805",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "151 @ 4400 SAE Net Torque @ RPM",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (Natl)",
+          "price": "$26805",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,060 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "XSE CVT (SE)",
+          "price": "$26805",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "30 City / 38 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "169 @ 6600 SAE Net Horsepower @ RPM",
+              "151 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,060 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

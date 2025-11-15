@@ -1,0 +1,90 @@
+{
+  "make": "mazda",
+  "model": "navajo",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6f8c8023-0299-40a5-95d8-63b92c5e67a7/0c6e8483-989f-4e60-ba92-1ab8d169629b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Wagon DX 5-Spd",
+          "price": "$15795",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon LX 5-Spd",
+          "price": "$17495",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon DX 5-Spd 4WD",
+          "price": "$17595",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon LX 5-Spd 4WD",
+          "price": "$19295",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/24d7fef7-ac6a-4a58-bc7e-23e7d91f8618/cab4fbd5-95be-438c-a4d1-a4b7469405bd.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Wagon DX 5-Spd",
+          "price": "$18785",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon LX 5-Spd",
+          "price": "$20005",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon DX 5-Spd 4WD",
+          "price": "$20575",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon LX 5-Spd 4WD",
+          "price": "$21795",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d667ba67-865a-4e06-a685-b48b7cbef986/f6a0dab4-d1a6-4386-bcb5-ebcb73638a34.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Wagon DX 5-Spd",
+          "price": "$17355",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon LX 5-Spd",
+          "price": "$18455",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon DX 5-Spd 4WD",
+          "price": "$19155",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Wagon LX 5-Spd 4WD",
+          "price": "$20255",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

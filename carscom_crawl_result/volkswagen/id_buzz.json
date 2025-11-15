@@ -1,0 +1,570 @@
+{
+  "make": "volkswagen",
+  "model": "id_buzz",
+  "years": {
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/eb335456-b9f7-4aa6-9dee-540dee91c3e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/90e35069-c187-4fa9-a19d-a12723d02534.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/d5e8f66a-5289-4280-b465-d5c038b32d2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/e2d52ef9-922b-45ea-ba1c-c1ade377192a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/84b6cc87-82a1-4430-88ed-f04cdfd9f805.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/edf805c9-1c14-47d2-b42a-1777a466c2ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/8159002b-a232-4cb8-ba1b-a9eb7e47b30f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/c1da80a3-077b-475f-a74a-ef8b19d3907c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/4368bcba-05b1-449e-b27d-45bb769f00d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/5ab3a4ac-0ed0-495a-92c1-5f10d9dd7f96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/0c895409-74aa-4c63-abf1-69bd273dc57b.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/a15dcfde-721d-4fc2-ad20-41cfef70b67a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/ab512f3d-231e-42df-bc70-c387fc464f67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/3aa4f001-704c-422e-8ace-621a85d68f1e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/5ab3a4ac-0ed0-495a-92c1-5f10d9dd7f96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0644c39c-0f72-4274-b174-cccef2c5bcb1/7f222036-0468-4144-a872-1596ae17ac6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/ec12f9d4-af33-473c-883e-0443a8112d41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/c5b1fa69-66df-48d7-8dcb-2eabc2c7625d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/f105257c-80cd-4d05-86e2-058c6fbf17dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/d9bf7349-7653-4170-aa60-95de4dc44a2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/b7825ccf-cda7-4116-8ee2-01c537280e1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/d5b292ae-3f33-45ee-8000-0cee0754432f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/866ff6aa-b152-4506-9273-bafa1a0fe0c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/4ea24ba2-30f3-4afc-97da-022daf498888.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/923f9d96-dfb4-4462-b607-67d90ebe83a3/0b4fb8db-e70b-4350-844e-067e6d305d6f.png"
+      ],
+      "expert_review": "The verdict: The all-new Volkswagen ID. Buzz is one of the most characterful, interesting and fun-to-operate new vehicles on the market regardless of its status as an electric minivan. Groovy, baby!\n\nVersus the competition: Well, ah, there isn’t any competition. At the time of its release, the ID. Buzz is the sole all-electric minivan on the market, with the closest competitor being the Kia EV9 three-row SUV. Compared with that, the Buzz is comprehensibly better for frequently shuttling a full house, though its modest driving range and power might turn some shoppers off of it.\n\nThe 2025 Volkswagen ID. Buzz? Oh, that’s a neat vehicle. Drives sweet, looks fantastic, is cleverly packaged. I can see why someone would plunk down the heavy side of $60,000 for one of their own.\n\nI’m surprised, to be honest. Prior to driving the ID. Buzz, I was fairly convinced VW’s very expensive electric minivan was set to be D.O.A. in the USA. Its $61,545 base price (including destination) and EPA-rated range of 231-234 miles looked to be the double tap keeping consumers out of seats, particularly during a period of slowing EV sales.\n\nRelated: Volkswagen Unveils Starting Price, New Interiors for 2025 ID. Buzz\n\n2025 Volkswagen ID. Buzz | Cars.com photo by Conner Golden\n\nAfter driving my two-tone Pomelo Yellow test van for only a quarter mile, I shook my head at shotgun-ridin’ Cars.com videographer Max Bednarski and said, “Dang, man. I love this goofy thing.” It was a wild about-face considering I previously believed the exhumation of the iconic VW Type 2 — colloquially and interchangeably known as the Bus, Van, Minibus or Kombi — as a nu-retro all-electric minivan came across as both cynical and overly navel-gazing on VW’s part.\n\nBut it isn’t. The ID. Buzz is perhaps the most characterful and aesthetically joyful car you can buy in the states’ increasingly antiseptic and homogenous new-car market, and it ain’t just me. Public reaction to the Buzz was unsurprisingly exuberant, and that we had waves, smiles and photos taken by passersby in California’s Bay Area was telling.\n\nRelated Video:\n\nA Star in SF\n\nSan Francisco is one of the most anti-car cities in America, right up there with New York City. SF’s tight grid of narrow one-way streets offers drivers bleak parking and terrible traffic counterbalanced with a wonderfully walkable and easily navigable urban tableau that encourages many SFers to forgo car ownership outright. Bay Area Rapid Transit trains and novel cable cars share unprotected road space with cars, while dedicated bike and massive crimson bus lanes further squeeze the streets.\n\nEven so, there’s a thriving undercurrent of car culture that goes wholly unnoticed by the greater populace, just as in New York. Overmoneyed tech bros in air-cooled Porsches and old Land Rovers weave between Waymo’s fleet of autonomous Jaguar I-Paces, the latter wearing a shocking array of sensors and cameras that appear as an infection of bilious protrusions.\n\nAgainst this odd jumble of transportation, the Buzz pops like a spilled mango smoothie. Folks of all varieties filmed us as we passed, with a whole gaggle of hikers at a sleepy beachhead repeatedly interrupting our filming to ask about our yellow bus. An hour north on the coast, a contractor slid out of his shiny Ford Super Duty F-250 to inquire on behalf of his wife.\n\n2025 Volkswagen ID. Buzz | Cars.com photo by Max Bedarski\nStyle Sizzle\n\nAnd why wouldn’t they? Many memorable car designs in history present as concept cars, and the ID. Buzz appears as if it rolled straight from the 2017 Detroit auto show stand. I’m not sure VW could have better balanced the modernization of the Kombi within the constraints of safety regulations and aerodynamic efficiency. It’s cool ‘n’ cutesy in photos, but remarkable in person.\n\nIt’s broad-sided in the very best way, being both visually and dimensionally tall. Its 76.2-inch height means it’s taller than some Ford F-150s and nearly as tall as a GMC Yukon. This makes the interior a veritable cathedral, with headroom that’s better than any other minivan on the market — especially with the trick optional electrochromic glass roof.\n\nSpace Race\n\nLeg and shoulder room are equally impressive. The U.S.-market Buzz is offered only in what other markets consider to be the long-wheelbase model, so second-row passengers can stretch out to ludicrous lengths while third-row comfort is easily some of the most spacious in any segment, bar none. The driver also gets all that headroom and shoulder space, but the conspicuous lack of a front “area” where the engine would usually go led Volkswagen down some creative engineering paths in order to meet crash regulations.\n\nGone are the days where a crumple zone was just the bin where you threw your empty burrito wrapper. The driving position is moved back from that flat front into more of a traditional minivan/crossover seating position, though there’s nothing traditional about the windshield. The upright glass is flanked by structural A-pillars on either side of the dash with narrow wing windows; it’s a fascinating view, with all of that dash space juxtaposed by soaring glass that allows for panoptic visibility in all environs.\n\nUtility and storage was a tenet of the O.G. Bus, and the ID. Buzz is one of the most cleverly cavernous minivans I’ve ever futzed with. Bilevel storage canals are molded into front and rear door panels, with passenger-side front and both sliding rear doors also offering USB-C charge ports. The third row doesn’t get left out either, with a few molded storage trays, overhead air-conditioning vents and USB-C charge ports for each side. Above the glove box, an open rubber-lined shelf space is perfect for devices, keys, toys, candy or whatever you can’t cram into the Buzz Box center console.\n\nDon’t Forget the Driver\n\nVW considers the Buzz Box to be one of the cockpit’s centerpieces. Entirely removable or adjustable to the second row, the Buzz Box console offers a lengthy pullout drawer in the rear and a smaller tilt-open compartment in the front, complemented by a rubber-lined open tray on the top. In the latter, you’ll find two removable dividers, one that doubles as an ice scraper and the other featuring an integrated bottle opener for all of your road-legal caps you might need popped.\n\n2025 Volkswagen ID. Buzz, BuzzBox Dividers | Cars.com photo by Conner Golden\n\nIt’s a massively clever interior. Not so much on the driver gizmos, however: From a purely driver-controls perspective, most of the Buzz’s hardware and displays are lifted from the ID.4 SUV and other VW products. These systems operate just fine, with slight frustration due to the touch-sensitive volume and climate controls, though you admittedly become accustomed to them after only short exposure.\n\nRegardless of trim, all ID. Buzz (Buzzes? Buzzi?) have a 5.3-inch digital driver display and 12.9-inch center infotainment touchscreen. VW’s updated user interface remains nice to look at and is a marked improvement over earlier iterations, but it can still occasionally be frustrating to use and navigate. However, unlike some prior experiences with the ID.4 and Atlas, our infotainment system never crashed or froze on us.\n\nDriving Duties\n\nBeyond ergonomics and tech, materials and overall fit and finish recall an era of Volkswagen we thought was long dead. It feels quality, and though the beefy price tag — we’ll talk about it, don’t worry — might have some folks running scared, it’s well equipped enough with goodies like a heated steering wheel, three-zone automatic climate control and 12-way power massaging front seats that are heated and ventilated, with the rest of the cabin adorned with nicely stitched upholstery. It’s Audi-esque, and you certainly won’t feel taken advantage of.\n\n… Well, at least from a materials perspective, as driving range and performance leaves a bit to be desired. Base Buzzes hum around with a single rear-mounted electric motor that makes 282 horsepower and 413 pounds-feet of torque, with all-wheel-drive 4Motion variants appending that rear motor with a front unit for a combined 335 hp.\n\n2025 Volkswagen ID. Buzz | Cars.com photo by Max Bedarski\n\nNo matter which motor configuration you spec, all ID. Buzzes drink from a 91-kilowatt-hour battery that can DC fast-charge at up to 200 kilowatts. As mentioned, you’re not getting any better than an EPA-rated 234 miles of range in the thriftiest single-motor model, with the dual-motor version lopping off just 3 EPA miles.\n\nRange Anxiety\n\nIs this enough? That’s not for me to say. I suspect most Buzz customers will overlap geographically with those who perform EV conversions on their classic VW Kombis. That is to say, most Buzzes will live on the East or West Coast of the U.S, with some clustered in central urban environments where you’re often near a charging network or don’t require longer legs than it offers.\n\nI think most of my disappointment with the range figure stems from just how phenomenal of a road tripper the ID. Buzz is, kids or no kids. We put roughly 120 miles on the Buzz’s smoothie-style wheels, cutting through the greater San Francisco area all the way up the coast on some of California’s best roads. I reserved driving impressions for the later portion of this review only because they’re the least important part of the ID. Buzz’s story, but yet again, I’m damn impressed.\n\n2025 Volkswagen ID. Buzz | Cars.com photo by Conner Golden\nDelightful to Drive\n\nIt just drives so sweetly. It’s not quick by any means — even its dual-motor configuration feels just a notch above adequate — but its power is more than enough for merging, and the electric motors’ insta-torque shouldn’t be overly affected when loaded up with occupants and cargo, at least up to safe merging and interurban speeds. Steering is utterly artificial-feeling, but it was quick and quick-adapting enough to easily maneuver the 3-ton brick through Golden Gate traffic, the squiggly Pacific Coast Highway and the incomprehensibly windy Lombard Street.\n\nIt’s heavy, but the center of gravity is noticeably low, and it performed far better on the snaking sections of PCH than need be. A Golf GTI it ain’t, but you have the option to make the kiddos laugh and scream in equal parts en route to grandma’s cottage. And your partner won’t be sick or whiplashed, as I found the brake blend (the balance between physical brake engagement and regenerative braking) to be top notch and a significant improvement over the ID.4’s.\n\nThe excellent ride quality was the standout dynamic for me, with all of the solidity and reassuring firmness that made past VWs so satisfying. Beyond comfort, it’s quite composed, with well-managed body motions and isolation from bumps. It’s also impressively quiet, with remarkably little wind noise and only minimal road noise intrusion.\n\nMore From Cars.com:\n\n2025 Volkswagen ID. Buzz Trim Levels Detailed\n2025 Volkswagen ID.7 to Offer AWD, Other Equipment Details Revealed\nHere Are the New Electric Vehicles Planned by 2027\nWhat to Know Before Purchasing an Electric Vehicle: A Buying Guide\nElectric Cars With the Longest Range\nI’m Buzzing\n\nIt’s funny — many of Volkswagen’s highest points are its most characterful cars, and the 2025 ID. Buzz is one of the most impressive, well-executed and interesting products from Wolfsburg in some time. The pricing is quite high, but there is room to de-content in the future if there’s demand. I’d also be tickled to see the Euro market’s seatback foldout tray tables make an appearance, along with — oh heck, why not dream — a cargo van, pickup truck and camper version.\n\nWhat a refreshing vehicle. For those who seek an electric minivan, this is your only option. If you have any interest in this vehicle but are put off by some factor — the range, or maybe you’d prefer a crossover — I believe it’s absolutely worth checking out, even if it’s just to see what all of the Buzz is about.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Pro S RWD w/Two-Tone",
+          "price": "$59995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "234 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "413 SAE Net Torque @ RPM",
+              "282 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "260 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "260 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,968 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Automatic Parking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Front Disc/Rear Drum Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Pro S RWD",
+          "price": "$59995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "234 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "282 SAE Net Horsepower @ RPM",
+              "413 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,968 lbs Base Curb Weight",
+              "2,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "260 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "260 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Front Disc/Rear Drum Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Pro S Plus RWD",
+          "price": "$63495",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "234 mi. Range",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "413 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "282 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "260 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "260 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "5,968 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Parking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "Front Disc/Rear Drum Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Pro S Plus RWD w/Two-Tone",
+          "price": "$63495",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "234 mi. Range",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "413 SAE Net Torque @ RPM",
+              "282 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "2,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "5,968 lbs Base Curb Weight",
+              "260 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "260 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Parking",
+              "Optional Backup Camera",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Front Disc/Rear Drum Brake Type",
+              "4-Wheel Brake ABS System",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "1st Edition RWD w/Two-Tone",
+          "price": "$65495",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "234 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "413 SAE Net Torque @ RPM",
+              "282 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "260 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "260 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,968 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Parking",
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Front Disc/Rear Drum Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Pro S Plus 4MOTION",
+          "price": "$67995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "231 mi. Range",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "335 SAE Net Horsepower @ RPM",
+              "413 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "6,197 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Parking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Front Disc/Rear Drum Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Pro S Plus 4MOTION w/Two-Tone",
+          "price": "$67995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "- MPG",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "413 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "335 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "6,197 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Parking",
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Disc - Rear (Yes or )",
+              "Front Disc/Rear Drum Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "1st Edition 4MOTION w/Two-Tone",
+          "price": "$69995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2025",
+              "All-electric van with seating for six or seven",
+              "RWD or AWD",
+              "231 to 234 miles of EPA-rated range",
+              "Up to 335 hp (AWD)",
+              "Standard 12-way-power heated and ventilated front seats with massage feature"
+            ],
+            "Highlights": [
+              "231 mi. Range",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "335 SAE Net Horsepower @ RPM",
+              "413 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "6,197 lbs Base Curb Weight",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Parking",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Front Disc/Rear Drum Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

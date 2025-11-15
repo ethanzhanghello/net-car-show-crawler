@@ -1,0 +1,946 @@
+{
+  "make": "aston_martin",
+  "model": "vanquish",
+  "years": {
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff09aee5-64a6-41d4-82f2-6a68e1ea0ed5/fdfa3989-5d8b-457a-b362-fb31f9668e85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff09aee5-64a6-41d4-82f2-6a68e1ea0ed5/2a6567f8-a9d4-4033-a3fc-e19dfff4ee56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff09aee5-64a6-41d4-82f2-6a68e1ea0ed5/d7af11d6-e794-4323-9731-b4216476f744.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff09aee5-64a6-41d4-82f2-6a68e1ea0ed5/1654a276-d356-4f96-a397-6e65d5857f7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff09aee5-64a6-41d4-82f2-6a68e1ea0ed5/e4fc013b-5a35-4a31-9dbd-7f24cbcf763f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ff09aee5-64a6-41d4-82f2-6a68e1ea0ed5/d7af11d6-e794-4323-9731-b4216476f744.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_468900",
+          "price": "$468900",
+          "specifications": {}
+        }
+      ]
+    },
+    "2002": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/69ca2fda-df6b-43d6-9786-2786c1e0534e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/9f4a543d-18b4-4073-966a-68526802c3a5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/840e60e5-1a25-46d1-99f5-25d7739fc4cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/4730f7a6-093c-47ce-8033-613b469e4ec0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/0d6b4bf0-91d3-49ff-a230-906d8e78b2ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/840e60e5-1a25-46d1-99f5-25d7739fc4cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/be0c82a7-ab28-41d8-b6b5-9b1eb1ff76fa/3f0d3f29-a4a0-4843-9d61-3529061303e3.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S Coupe",
+          "price": "$294950",
+          "specifications": {}
+        },
+        {
+          "name": "S Volante",
+          "price": "$312950",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-12 Engine Type",
+              "6.0 L/362 Displacement",
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "580 @ 7000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,065 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/c983fa7d-bcda-4e24-8a65-818c3e15e30f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/4f4586d5-3663-40a4-8015-4f4367be7ff3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/c1208807-8f56-4271-8bfb-bf610b006a7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/83385ba5-9136-42f8-a493-7155b598f5a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/48a6a595-5708-498a-881f-25cf3762137f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/5586efd2-ea28-41e1-9d20-8050806f873e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/4e508ffe-0c04-4933-b9eb-491f823f562e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/62c40d9c-d411-4ca2-9107-50d4f28a250e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/5ddac2e7-3c31-46b8-abad-94cead9588fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/ef7f2583-98d8-4dcf-a86b-7bd1416718af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/67164e82-8043-464e-85a7-d553def9e268.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/cbccc80e-b0b7-42a1-a55d-cc5aa3f28e1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/37c287a8-6c20-4df8-a67e-fd0054df072e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/689efdbd-698b-4e7f-b804-f32eda47e97f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/a41b6c06-275e-48ac-94b5-49906fd00ffa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/3797fc3c-92bc-40d6-899b-09d5e47f0f79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/33dbe412-1cd9-4a48-b29e-f090424f9f70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/77cc38a3-6257-4d75-92db-6dfd37673217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/366fdcb6-9415-4afe-9cf4-1aa3d73580aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/af1cfa3d-400c-4aad-80ef-98e150c6d7f0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/47122322-c5bc-4e3c-af06-d3befa43c90a/48a6a595-5708-498a-881f-25cf3762137f.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Vanquish name returns to the Aston Martin lineup for 2014 as the replacement for the DBS. Branded the “ultimate grand tourer,” the all-new Vanquish is powered by a 6.0-liter V-12 engine that makes 565 horsepower.  The exterior makes extensive use of carbon fiber and shares similar bits from the limited-production One-77 supercar. Competitors include other high-performance sports cars like the Lamborghini Aventador and Ferrari F12berlinetta.\n\nExterior\nEngineers at Aston Martin incorporated many styling cues from the One-77 when designing the new Vanquish, the most noticeable being LED “light blade” taillamps. The body consists of a mix of lightweight carbon fiber, aluminum and magnesium alloy. Exterior features include:\n\n\nBi-xenon headlamps\nLED taillamps\n20-inch wheels\nAvailable black grille trim\nAvailable exposed carbon fiber trim pieces\n\nInterior\nThemes of luxury, exclusivity and high-performance are present in the new Vanquish’s cabin. There’s leather upholstery and an Alcantara headliner, as well as a Bang & Olufsen stereo. There are numerous opportunities for buyers to customize the cabin, heated front seats and a Garmin-based navigation system are standard. Interior features include:\n\n\nSeating for two or four\nSatellite radio, Bluetooth streaming audio and iPod connectivity\nTouch-sensitive glass buttons in the middle of the dashboard\nAvailable ventilated seats\n\nUnder the Hood\nThe rear-wheel-drive Vanquish features a 6.0-liter V-12 paired with a six-speed automatic transmission. The engine makes 565 hp and 457 pounds-feet of torque. Aston Martin claims the Vanquish will go from zero-to-62 mph in 4.1 seconds and reach a top speed of 183 mph. Mechanical features include:\n\n\nLimited-slip differential\nThree-stage adjustable suspension with Normal, Sport and Track driving modes\nCarbon-ceramic front and rear brake discs\nLaunch control\n\nSafety\nSafety features include:\n\n\nAntilock brakes with electronic brake-force distribution and brake assist\nElectronic stability system with Track mode\nTraction control\nSide-impact airbags\nSide curtain airbags\nAvailable backup camera",
+      "trims": [
+        {
+          "name": "2dr Cpe",
+          "price": "$279995",
+          "specifications": {
+            "Notable features": [
+              "New for 2014",
+              "Coupe or convertible",
+              "565-hp V-12 engine",
+              "Available seating for four",
+              "Made of lightweight carbon fiber"
+            ],
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-12 Engine Type",
+              "565 @ 6750 SAE Net Horsepower @ RPM",
+              "457 @ 5500 SAE Net Torque @ RPM",
+              "6.0 L/362 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,833 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Volante",
+          "price": "$296295",
+          "specifications": {
+            "Notable features": [
+              "New for 2014",
+              "Coupe or convertible",
+              "565-hp V-12 engine",
+              "Available seating for four",
+              "Made of lightweight carbon fiber"
+            ],
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "457 @ 5500 SAE Net Torque @ RPM",
+              "6.0 L/362 Displacement",
+              "565 @ 6750 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,065 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/2040f0ee-5189-4886-83e3-514f537877fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/94c83b49-0219-47bb-a77e-69eb04052292.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/8bd95117-07cd-4e5c-a742-87280310b5c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/b5937572-239c-4d4b-b662-347a70729f30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/8cfc04e0-617c-40dd-9f46-29b3febba6b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/f8df5dbb-a045-4606-b5d7-0669dbcb52e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/d0af676f-6351-441d-b55b-3d770136385b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/8b7c9a01-65ab-4ec5-a98a-903bdce5d4f3.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/92deabb9-81d3-4872-a6e3-e08a7441ac3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/f7692d9d-68b8-4c47-b8c4-6e3709dee36d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/4d009e13-8c22-4595-9007-de5cf489da27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/cecf889d-63f0-4f8c-b808-89942222a163.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/a076f682-19c7-44b0-be6f-bd74667b8591.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/949d7598-f0aa-44e1-ad70-9e5003990879.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/4b34104c-28ec-4aae-b525-80ef298990de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/269118b8-dc96-4ec6-9e69-b6ea394b988a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/60174e2b-c671-4968-898b-1f26020d1616.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/92deabb9-81d3-4872-a6e3-e08a7441ac3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/e7922040-38ed-41b2-95de-14180d2c7eac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/c19405fc-0473-473a-8682-2720e6cafc0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6ded97-7b20-416c-9b39-da394913bca3/88233116-d3dc-482c-9d9b-bd119bec37db.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe",
+          "price": "$283295",
+          "specifications": {
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "568 @ 6650 SAE Net Horsepower @ RPM",
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,999 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Volante",
+          "price": "$301295",
+          "specifications": {
+            "Highlights": [
+              "13 City / 19 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type",
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "568 @ 6650 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,065 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/4df859c1-7ce7-4dd7-a03e-017044ed8e8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/50474c94-1889-4855-927b-1093f50575ff.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/50474c94-1889-4855-927b-1093f50575ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/76c669ed-d21e-4f87-bf43-c4338da00460.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/0261178a-d830-4fbf-adaf-0431e3a00c6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/e1848939-b6ef-4ff6-8572-b4fa6d67b22f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/07f0266d-1292-4cbd-a172-b72fba72191a/fbd8ad6f-9416-4286-a632-4d5b00ecfbd8.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S Coupe",
+          "price": "$293650",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "580 @ 7000 SAE Net Horsepower @ RPM",
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,834 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S Volante",
+          "price": "$311650",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "580 @ 7000 SAE Net Horsepower @ RPM",
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,065 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/6ede3807-3b8b-4d3d-a7e7-d8aed5057d6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/8a871662-6aa9-4c7d-863f-ddd0fd4fde87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/386338ed-00a8-445a-8cba-0f281dde0eef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/16db4729-23a1-437c-b442-082a686f6013.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/e8218522-7949-4a2c-a543-e2b240fa2df6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/79a9c28e-f280-43d1-a3b2-5fdcdfcd8020.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/d693adf9-0f1b-400d-924c-49f3cabd8bef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/f763e091-a95a-4b38-b1aa-d9ab71104429.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/447a62ac-60de-4d27-9c21-7fd31c8b7e67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/0dd224af-533d-49f1-9537-70ae6ac8e9f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/c47b4df9-93cc-4a93-be55-d6d311f63bc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/45eb34e4-e8cd-40f2-a1d1-9684a103cbc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/395a334b-ba59-47a9-b6df-81facc80a0b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/73d71dd0-1ea1-4e7b-b470-7730994afaea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/6041ad02-8efe-484d-ab89-2250ed3ba187.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/08f3494b-1bfa-4a2c-bbf0-69b55cfe1196/37a13963-314a-43d1-b5a8-c16cfc06a603.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/f4a219e2-fee5-4bc9-beb3-f19c83e85ff3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/86fba555-9101-4382-833c-fd555713460e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/8d9d8d10-46f1-4555-ab5e-29fb2d2aabd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/9e8a1b28-a3cf-4a62-862e-53b50b6a4747.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a013513-fa3f-481d-8f25-6014e8f92bb3/71a8e986-c639-4fb1-9f62-218b4246ff44.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe",
+          "price": "$287650",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Cpe Carbon",
+          "price": "$302695",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "6.0 L/362 Displacement",
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "568 @ 6650 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,999 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "2dr Volante",
+          "price": "$305650",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-12 Engine Type",
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "6.0 L/362 Displacement",
+              "568 @ 6650 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,065 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Volante Carbon",
+          "price": "$320695",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "568 @ 6650 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-12 Engine Type",
+              "6.0 L/362 Displacement",
+              "465 @ 5500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,065 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/c8c44047-7c96-4f77-bca9-db47861c87ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/3bf1bb04-3feb-4587-823f-d3c7e8b0e4f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/c8c44047-7c96-4f77-bca9-db47861c87ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/a8abba24-29f0-4d90-9a66-b960d90e340b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/53aaeb25-544d-46ef-8db6-b2415a756790.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/01be3889-03c8-4cca-8b62-a825398e0626.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/b3c427f0-55e5-430e-a280-ae5e9dc865c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5e820e03-c35b-475b-85a7-590df495f35f/097e1e05-c787-465c-a40f-053706520f57.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S Volante",
+          "price": "",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "6.0 L/362 Displacement",
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "Premium Unleaded V-12 Engine Type",
+              "580 @ 7000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,065 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Coupe",
+          "price": "$287650",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "568 @ 6650 SAE Net Horsepower @ RPM",
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,834 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Volante",
+          "price": "$305650",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "568 @ 6650 SAE Net Horsepower @ RPM",
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,065 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S Coupe",
+          "price": "$312950",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "465 @ 5500 SAE Net Torque @ RPM",
+              "580 @ 7000 SAE Net Horsepower @ RPM",
+              "6.0 L/362 Displacement",
+              "Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,834 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

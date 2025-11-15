@@ -1,0 +1,3214 @@
+{
+  "make": "land_rover",
+  "model": "discovery_sport",
+  "years": {
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8786200-41be-437c-a6d3-5d12f9750966/e795a8ff-afcd-47e7-a665-e38aaf79e1e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e8786200-41be-437c-a6d3-5d12f9750966/38df5bf2-d518-4af5-a40c-179faa456ec2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/e8786200-41be-437c-a6d3-5d12f9750966/d69b6c3f-8f67-42f4-bf0d-e4454daa94f9.jpg",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e8786200-41be-437c-a6d3-5d12f9750966/38df5bf2-d518-4af5-a40c-179faa456ec2.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/5006c79b-29ad-4967-9b47-d813359f7b34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/281cb466-e438-4bef-b20f-f3a2f65e1a82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/c1ff0f99-0710-4bd9-bccc-d8f42f9d9682.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/fce7b980-6d47-4600-8e1b-ae4e39e5ab75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/ff80aabd-c87c-46a6-86c6-c97a75b28880.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/5d08665f-7519-4749-9f8b-080a5982fddb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/d32244bb-feb7-45a1-9b82-041c6f55b01c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/eeeb7e07-6706-427d-858b-020d64b4941d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/ff69bc25-f5f9-4f59-8b6e-3dc3acb82ac8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/ea1c29e0-996c-4bbc-b7bd-22fdf072dd2d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/c1ff0f99-0710-4bd9-bccc-d8f42f9d9682.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/139e698a-54d4-4397-87fc-cbbc73562072.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/85d47f15-ef25-4b0f-b0b9-28cd8be8745d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/559e3c6f-e08b-465f-b009-010cbff5d1ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/f08dc042-752b-4085-8367-7690ddd27305.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/c8e0dc3c-4d0c-4e68-8eed-7371da08d425.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/c3288b59-d70d-4dd7-a658-50595bcb24d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/6c4cef73-6e53-4358-91ab-b9b136b5618f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/ba6b0f67-bd34-4b7c-8e71-28757a488cd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/42911679-7d1b-4413-9904-ea3158e16028.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f55dff7-03c5-4c14-a024-14f563246594/80fd5952-fc9c-4cf0-8db3-678c3f9066d3.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nWhat it is: The Land Rover Discovery Sport debuted for 2015 as a replacement for the LR2 in the automaker’s lineup and slots below the larger LR4. It is compact in dimensions and has standard seating for five. An optional two-seat third row transforms it into a seven-seat SUV. All-wheel drive is standard, along with a 240-horsepower, turbocharged 2.0-liter four-cylinder engine and a nine-speed automatic transmission. Competitors include the Acura RDX, BMW X3 and Audi Q5.\nNew for 2017\nThe newly available InControl Touch Pro multimedia system features a 10.2-inch dashboard touch-screen that supports smartphone-style interaction by responding to swiping and pinching motions. New available safety features include a driver-drowsiness monitor, a speed limit monitor and lane departure prevention.\n\nHSE and HSE Lux trim levels are now available with a Dynamic Design Package. The package features unique front bumper styling, a different rear bumper with integrated exhaust tips, black accents and gloss-black 20-inch wheels. Interior features include contrast stitching on the seats and gear selector, special carpeted floormats and metal pedals.\nSignificant Standard Features\n\n8.3 inches of ground clearance\nPartial-leather seating surfaces\nRemovable lower front bumper trim\nBackup camera\nRoll Stability Control\nHill descent control\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\nTwo-seat third row\nLeather seats, dashboard and door trim\nHeated front and rear seats\nHeated steering wheel\nAutomatic emergency braking\nPanoramic moonroof\nAutomated parking system\nNavigation system",
+      "trims": [
+        {
+          "name": "SE 4WD",
+          "price": "$37695",
+          "specifications": {
+            "Notable features": [
+              "Lane departure prevention now available",
+              "10.2-inch touch-screen now available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "250 @ 1750 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,854 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "HSE 4WD",
+          "price": "$42195",
+          "specifications": {
+            "Notable features": [
+              "Lane departure prevention now available",
+              "10.2-inch touch-screen now available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 1750 SAE Net Torque @ RPM",
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "HSE Luxury 4WD",
+          "price": "$46595",
+          "specifications": {
+            "Notable features": [
+              "Lane departure prevention now available",
+              "10.2-inch touch-screen now available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "250 @ 1750 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,854 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/be2aa281-8ba0-4b0e-9000-34cf0ded56d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/db49dcf5-6268-437a-8c50-b27a9c164079.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/61c929dc-5878-4ad5-890d-467074e5335a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/fdd7749f-788f-4ad3-91db-aa8da651acc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/4c7d3dfd-f0f3-4136-8eb3-067d772fbbfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/60b155a5-626d-46e0-9bb1-dd9dd53eda5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/f4309a3d-c394-4322-ada3-7f4eee435414.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/711e4d32-d6f8-4559-9097-d5f02668e6f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/35bd888f-712c-4779-81c6-cc8053a84591.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/72145daf-78a0-4ab3-982a-4440c69bb72f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/e70fbf98-df0a-42a2-89a7-d487d69f4568.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/df77c2c4-d36d-4fd2-8e74-4f915b8f4e54/0c440031-11f7-44b6-ada6-edf21edc2b4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/0d6a64ac-6ed1-4a6c-8d59-bd73b25cfe78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/8cfdb568-766e-44fc-86d4-0c1d0cc62304.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/17175024-8f6f-4322-b647-7a7944b112fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/3861d354-4950-4d97-88dd-dcbf4c4e5b1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/36edb2d5-a975-48c4-a1fc-127f5e72b3e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/8d60bdde-b7b8-4202-859e-ba5540be6160.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/a4bd125e-13ec-43f5-800d-a1c32d073f8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/188d0e6b-f5a0-4644-96e2-8804565d741c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b6169a44-1cd6-4595-bdc3-9afa244b839c/833a918c-1414-4555-93d9-407253910cc0.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in July 2015 about the 2015 Land Rover Discovery Sport. Little of substance has changed with this year’s model. To see what’s new for 2016, click here, or check out a side-by-side comparison of the two model years.\n\nOutright excellence in the automotive world is a hard thing to attain, as it requires absolute attention to every detail. Everything needs to work well, look good and be in harmony while doing it.\n\nThe Land Rover Discovery Sport is a good-looking car with good interior quality and room, but it’s let down by a disappointing driving experience and some poor ergonomics.\n\nWe tested a 2015 Land Rover Discovery Sport HSE with five seats. Notable options include an upgraded audio system, forward-collision warning with autonomous braking, and heated and ventilated seats. It cost $46,620 as equipped, including a $995 destination charge. The Discovery Sport is new for 2015 and shares its name with a larger, more off-road-capable Land Rover: the Discovery, last sold in 2004.\n\nThe Discovery Sport competes with other compact luxury SUVs, such as the Acura RDX, BMW X3 and Mercedes-Benz GLK-Class. Compare them here.\n\nExterior & Styling\nThe Discovery Sport carries a lot of familiar Land Rover appearance traits that are most obvious from the front and rear of the vehicle. Up front, the Discovery Sport shares the same grille pattern as other Land Rover SUVs, as well as headlight shape. Around back, there’s a smallish rear window that sits on top of a large gate section.\n\nFrom the side, the Discovery Sport has fairly short overhangs that can help in off-road situations, but in this case they may just serve to make the Discovery Sport look like it’s ready to take on the off-road world.\n\nAll in all, Land Rover has made the Discovery Sport look very much like the rest of the Land Rover range, but in a smaller package. It’s a good-looking SUV.\n\nHow It Drives\nDriving the Discovery Sport is frustrating because of a drivetrain that suffers from major acceleration lag. The Discovery Sport is powered by a 240-horsepower, turbocharged four-cylinder engine that makes 250 pounds-feet of torque. It’s mated to a nine-speed automatic transmission.\n\nWhenever you press the gas to go faster, there’s a pronounced wait … and then the power comes rushing on. You’re forced to time your moves based on when the power is going to kick in, and kick in it does — sometimes pretty abruptly. Once everything gets sorted out the engine doesn’t feel like it’s lacking in power, but the overall performance is poor thanks to the lag and abrupt power delivery.\n\nSome reviewers attribute this lag to the transmission, but I found that even when I was using our test car’s paddle shifters to force the Discovery Sport to hold a lower gear, the lag was still present. I’m thinking it’s the engine’s problem.\n\nThere’s a Sport mode, but it doesn’t resolve the lag issue. It’s designed to let the transmission hold on to each gear longer and provide a quicker response. It does hold on to gears longer around town, but the overall effect is negligible. It did not transform the Discovery Sport.\n\nThat’s all a shame, because the rest of the Discovery Sport is much better, particularly the steering. It’s light when you want it to be — around parking lots — and firms up so it’s not darty on the highway.\n\nRide and handling are largely good. The Discovery Sport doesn’t absorb bumps to the degree that other luxury SUVs do, especially other Land Rovers, but I wouldn’t call the ride jarring by any stretch. There’s enough compliance in the suspension that you notice a bit of lean in sharper turns, but then the suspension firms up and the lean doesn’t get more pronounced. That helps it live up to the “Sport” part of its name.\n\nThe “Land Rover” part of its name is hard for the little SUV to live up to. Land Rover’s full-size Range Rover SUVs have impressive off-road capabilities. Once the Discovery Sport hits the trails, it has to work harder to maintain traction on rocky inclines than other Land Rovers. It’s not that the Discovery Sport is unfit for light off-roading, but it’s one of the few Land Rover vehicles that’s not fully off-road capable and doesn’t have a dual-range transfer case. Also, the underside of the Discovery Sport doesn’t appear to be designed for heavy off-road use, as you can tell from the photo gallery.\n\nFinally, mileage is on par with its competitors. The Discovery Sport is rated 20/26/22 mpg city/highway/combined, which compares to 19/27/22 mpg for the RDX with all-wheel drive. The all-wheel-drive BMW X3 xDrive 35i is rated 19/26/21 mpg, and the GLK350 is rated 18/25/21 mpg with all-wheel drive. The Discovery Sport requires premium gas, as do the other three models listed.\n\nInterior\nThe Discovery Sport has a roomy interior that belies its smaller size. There’s a lot of room up front, which is surprising because the SUV has a large central tunnel/center console. I never felt cramped when driving the Discovery Sport.\n\nIt’s the same story in the sliding backseat. I had plenty of head, hip and legroom and could stretch and move my legs around a lot. Read our Discovery Sport Car Seat Check here. It’s also worth noting that the Discovery Sport offers an optional third-row seat. Our test model didn’t come optioned that way, but others on staff who’ve sat in the Discovery Sport’s third row report that it’s tiny, best used for kids or emergencies.\n\nThe Discovery Sport’s interior quality is good for the class. The hard plastic that’s there is tucked out of touching range, and what you will normally handle feels and looks good. I find the GLK350 to have the best-looking interior of this group, but the Discovery Sport is so close in design and execution that this could be more a matter of personal taste than of material superiority.\n\nThis is not to say the Discovery Sport is perfect by any stretch of the imagination. By far, the biggest complaint I have is a lack of support in the seats. I really felt as if I were sitting on top of a bench, and no amount of adjusting could make me feel the Discovery Sport was holding me in any way. This discouraged any sort of spirited driving, and the fast driving I did do was spent with my arms bracing myself as best I could.\n\nThis lack of support is especially annoying as there’s no dead pedal (foot rest) to speak of. What room there is for your left foot is both narrow and sloped, so my foot never felt like it was resting flat on a surface. It was also being pitched inward.\n\nLastly, visibility is mixed. To the rear, the small window/high hatch combination restricts visibility to the point I needed to rely on the backup camera more than the mirrors, as I would in another SUV. Also, looking ahead, the windshield pillars are raked at an angle that can hide pedestrians. I had more difficulty with this in the Discovery Sport than in other SUVs I’ve driven lately. On the highway, though, visibility was better and I was easily able to judge passing maneuvers and the like.\n\nErgonomics & Electronics\nThere are many things in this area that could be improved.\n\nThe best example is the available heated and ventilated seats. To use them, you have to press a button on the console that brings up a menu on the screen where you select heating or cooling. Interestingly, every other heated/ventilated seat I’ve ever used in which the heated seat comes on at its highest setting, to turn it down you touch the “heated” button on the screen again and it goes to the lower setting(s). With the Discovery Sport, you have to touch the “Cool” button to get it to go to a lower setting. That’s something I suppose you could get used to, but the need to use both a button on the console and then the screen is objectionable.\n\nLikewise, there’s a knob to control radio volume but no knob to change the radio station. You have to do that on the screen, and the station-selection portion of the screen was too far away to reach comfortably for me and other editors.\n\nThe multimedia system gets mixed reviews. It has a pretty interface that matches the high-quality look of the interior. It’s also a fairly intuitive interface; it’s easy to find what you need, and there are a couple of options for how the home screen can look. Also, the available navigation and media system responds quickly once you reach the screen.\n\nHowever, there’s a bit of lag when swapping between systems — from navigation to radio, for example. Also, more than one editor reported problems connecting a smartphone through Bluetooth and maintaining the connection.\n\nBy far the most annoying feature for me, though, was the backup camera, which comes standard. Instead of the usual reminder advising drivers to check all their surroundings when reversing, the Discovery Sport has the lettering appear in a dark band that — while I’m sure it looked lovely in some software designer’s mind — obscures a large portion of the camera’s view until it disappears. Frequently, I’d put the Discovery Sport in Reverse, wait for the screen to clear, then start reversing. It got old after a while, and the Discovery Sport’s limited rear visibility added to the frustration with the camera setup. Others do this better.\n\nThere was, however, one feature that the Discovery Sport mastered better than any other car I’ve ever driven: the automatic windshield wipers. I normally don’t use the rain-sensing setting for windshield wipers because I usually find them either too sensitive — triggering at the slightest dribble of rain — or too inattentive. The Discovery Sport’s system never disappointed me in many wet drives. It provided the right amount of clearing whether I was in a steady rain, mist or drizzle.\n\nCargo & Storage\nThe cargo area was large in our two-row test model, with ample room behind the seats even though the overall cargo area is a bit narrow. The specs show the Discovery Sport’s cargo volume is greater than that in the RDX, X3 or GLK. The Land Rover has a maximum luggage volume of 66.9 cubic feet, compared to 61.3 (RDX), 63.3 (X3) and 54.7 (GLK) in its competitors.\n\nIn-cabin storage is decent, with a larger center console and a number of cubbies and cupholders in the cabin. One thing to note: If two people are bringing drinks and using the center cupholders, the armrest will not extend to a place where it can be of any use. So you can have two people using the cupholders or you can use the armrest. Simple as that.\n\nSafety\nThe Land Rover Discovery Sport has not been crash-tested by our preferred safety organization, the Insurance Institute for Highway Safety, nor has it been tested by the National Highway Traffic Safety Administration.\n\nOur test model included the optional Driver Assist Plus Package with autonomous emergency braking — a feature that can bring the car to a stop in an emergency — and lane departure warning. Standard features include hill descent control and emergency brake assist. You can browse the full list of safety features here.\n\nValue in Its Class\nThe Land Rover Discovery Sport disappoints in some ways, but where it succeeds — interior room and exterior looks — are likely enough to attract many buyers. Add in the fact that the Discovery Sport can be had with third-row seats and that its price isn’t outlandish when compared with the RDX, X3 and GLK-Class, and it’s easy to see the Discovery Sport as a competitive entry in that field.\n\nStill, I just can’t see driving the Discovery Sport getting any more enjoyable or familiar with age. The drivetrain lag that I didn’t like when I first got in the SUV was just as objectionable at the end of my test. And, while I learned to adjust my expectations to deal with the touch-screen controls and ergonomic challenges, there was still that little part of my brain that kept saying, “This is wrong.” It would be incorrect to say familiarity breeds contempt in this case, but familiarity didn’t make me fall in love with the Discovery Sport, either.\n\nPerhaps what’s most damning is that even though the Discovery Sport is aimed upmarket, throughout my test I kept finding myself comparing the car to our Jeep Cherokee long-term test model that cost about $12,000 less than the Discovery Sport. I found the Jeep’s interior to be almost as good as the Discovery Sport’s. The driving experience was no more or less objectionable, and the Jeep’s multimedia setup was superior. As the Jeep Cherokee wasn’t beloved in our office, that’s not a good thing for Land Rover.\n\nIn the end, the success of the Discovery Sport will likely ride on its room and its looks, not anything that happens when you drive it or use its electronics.\n\nSend Bill an email",
+      "trims": [
+        {
+          "name": "AWD 4dr SE",
+          "price": "$37455",
+          "specifications": {
+            "Notable features": [
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Turbocharged four-cylinder engine",
+              "Nine-speed automatic transmission",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "250 @ 1750 SAE Net Torque @ RPM",
+              "240 @ 5800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "3,854 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr HSE",
+          "price": "$41955",
+          "specifications": {
+            "Notable features": [
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Turbocharged four-cylinder engine",
+              "Nine-speed automatic transmission",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "250 @ 1750 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "3,854 lbs Base Curb Weight",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr HSE LUX",
+          "price": "$45955",
+          "specifications": {
+            "Notable features": [
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Turbocharged four-cylinder engine",
+              "Nine-speed automatic transmission",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 1750 SAE Net Torque @ RPM",
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/3d2d054a-af7b-477e-9f82-2f9144a5bdef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/fe17c555-27a7-4730-ba12-66b97b00e57a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/48fb307d-b0c7-47a1-a17d-c97a33ea63a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/08931869-f1ca-4bf9-84ad-04cbec9992f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/5a1d68d7-d16f-4bdb-980b-b2a04432fad6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/afae9287-0010-46df-894b-b0465168ff4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/b3f6b688-f191-49b1-9f1c-df63ad553450.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/d1656b64-ed83-4712-9422-3bed2427c528.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/b181b952-9dfc-465a-a63d-0e5cfd274d3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/0057c5e5-4c0d-403e-80d4-823e6ca8be2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/8a08458d-aad0-4bc3-816b-2e1a0076b304.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/b07749a6-99b2-4a7d-b92d-a63633877633.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/a3e8d27c-a7d2-4ef4-8840-58c349cbdb85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/48fb307d-b0c7-47a1-a17d-c97a33ea63a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/16e6e326-6728-4263-ac7e-28f1311d1660.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/7c0ae7ee-d42c-4200-91d9-ad7da77e69cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/57b2053f-372b-4bb7-bce6-433f66b38471.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/58114f16-d646-4487-8f85-0e5f086c012b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/6a7e56e9-a209-4f6d-86fc-25633724f939.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/de2620fe-ec8b-46ea-92c6-0af94e748710/3e1e747f-540a-4359-8e8f-c038cc98f165.png"
+      ],
+      "expert_review": "Outright excellence in the automotive world is a hard thing to attain, as it requires absolute attention to every detail. Everything needs to work well, look good and be in harmony while doing it.\n\nThe Land Rover Discovery Sport is a good-looking car with good interior quality and room, but it’s let down by a disappointing driving experience and some poor ergonomics.\n\nWe tested a 2015 Land Rover Discovery Sport HSE with five seats. Notable options include an upgraded audio system, forward-collision warning with autonomous braking, and heated and ventilated seats. It cost $46,620 as equipped, including a $995 destination charge. The Discovery Sport is new for 2015 and shares its name with a larger, more off-road-capable Land Rover: the Discovery, last sold in 2004.\n\nThe Discovery Sport competes with other compact luxury SUVs, such as the Acura RDX, BMW X3 and Mercedes-Benz GLK-Class. Compare them here.\n\nExterior & Styling\nThe Discovery Sport carries a lot of familiar Land Rover appearance traits that are most obvious from the front and rear of the vehicle. Up front, the Discovery Sport shares the same grille pattern as other Land Rover SUVs, as well as headlight shape. Around back, there’s a smallish rear window that sits on top of a large gate section.\n\nFrom the side, the Discovery Sport has fairly short overhangs that can help in off-road situations, but in this case they may just serve to make the Discovery Sport look like it’s ready to take on the off-road world.\n\nAll in all, Land Rover has made the Discovery Sport look very much like the rest of the Land Rover range, but in a smaller package. It’s a good-looking SUV.\n\nHow It Drives\nDriving the Discovery Sport is frustrating because of a drivetrain that suffers from major acceleration lag. The Discovery Sport is powered by a 240-horsepower, turbocharged four-cylinder engine that makes 250 pounds-feet of torque. It’s mated to a nine-speed automatic transmission.\n\nWhenever you press the gas to go faster, there’s a pronounced wait … and then the power comes rushing on. You’re forced to time your moves based on when the power is going to kick in, and kick in it does — sometimes pretty abruptly. Once everything gets sorted out the engine doesn’t feel like it’s lacking in power, but the overall performance is poor thanks to the lag and abrupt power delivery.\n\nSome reviewers attribute this lag to the transmission, but I found that even when I was using our test car’s paddle shifters to force the Discovery Sport to hold a lower gear, the lag was still present. I’m thinking it’s the engine’s problem.\n\nThere’s a Sport mode, but it doesn’t resolve the lag issue. It’s designed to let the transmission hold on to each gear longer and provide a quicker response. It does hold on to gears longer around town, but the overall effect is negligible. It did not transform the Discovery Sport.\n\nThat’s all a shame, because the rest of the Discovery Sport is much better, particularly the steering. It’s light when you want it to be — around parking lots — and firms up so it’s not darty on the highway.\n\nRide and handling are largely good. The Discovery Sport doesn’t absorb bumps to the degree that other luxury SUVs do, especially other Land Rovers, but I wouldn’t call the ride jarring by any stretch. There’s enough compliance in the suspension that you notice a bit of lean in sharper turns, but then the suspension firms up and the lean doesn’t get more pronounced. That helps it live up to the “Sport” part of its name.\n\nThe “Land Rover” part of its name is hard for the little SUV to live up to. Land Rover’s full-size Range Rover SUVs have impressive off-road capabilities. Once the Discovery Sport hits the trails, it has to work harder to maintain traction on rocky inclines than other Land Rovers. It’s not that the Discovery Sport is unfit for light off-roading, but it’s one of the few Land Rover vehicles that’s not fully off-road capable and doesn’t have a dual-range transfer case. Also, the underside of the Discovery Sport doesn’t appear to be designed for heavy off-road use, as you can tell from the photo gallery.\n\nFinally, mileage is on par with its competitors. The Discovery Sport is rated 20/26/22 mpg city/highway/combined, which compares to 19/27/22 mpg for the RDX with all-wheel drive. The all-wheel-drive BMW X3 xDrive 35i is rated 19/26/21 mpg, and the GLK350 is rated 18/25/21 mpg with all-wheel drive. The Discovery Sport requires premium gas, as do the other three models listed.\n\nInterior\nThe Discovery Sport has a roomy interior that belies its smaller size. There’s a lot of room up front, which is surprising because the SUV has a large central tunnel/center console. I never felt cramped when driving the Discovery Sport.\n\nIt’s the same story in the sliding backseat. I had plenty of head, hip and legroom and could stretch and move my legs around a lot. Read our Discovery Sport Car Seat Check here. It’s also worth noting that the Discovery Sport offers an optional third-row seat. Our test model didn’t come optioned that way, but others on staff who’ve sat in the Discovery Sport’s third row report that it’s tiny, best used for kids or emergencies.\n\nThe Discovery Sport’s interior quality is good for the class. The hard plastic that’s there is tucked out of touching range, and what you will normally handle feels and looks good. I find the GLK350 to have the best-looking interior of this group, but the Discovery Sport is so close in design and execution that this could be more a matter of personal taste than of material superiority.\n\nThis is not to say the Discovery Sport is perfect by any stretch of the imagination. By far, the biggest complaint I have is a lack of support in the seats. I really felt as if I were sitting on top of a bench, and no amount of adjusting could make me feel the Discovery Sport was holding me in any way. This discouraged any sort of spirited driving, and the fast driving I did do was spent with my arms bracing myself as best I could.\n\nThis lack of support is especially annoying as there’s no dead pedal (foot rest) to speak of. What room there is for your left foot is both narrow and sloped, so my foot never felt like it was resting flat on a surface. It was also being pitched inward.\n\nLastly, visibility is mixed. To the rear, the small window/high hatch combination restricts visibility to the point I needed to rely on the backup camera more than the mirrors, as I would in another SUV. Also, looking ahead, the windshield pillars are raked at an angle that can hide pedestrians. I had more difficulty with this in the Discovery Sport than in other SUVs I’ve driven lately. On the highway, though, visibility was better and I was easily able to judge passing maneuvers and the like.\n\nErgonomics & Electronics\nThere are many things in this area that could be improved.\n\nThe best example is the available heated and ventilated seats. To use them, you have to press a button on the console that brings up a menu on the screen where you select heating or cooling. Interestingly, every other heated/ventilated seat I’ve ever used in which the heated seat comes on at its highest setting, to turn it down you touch the “heated” button on the screen again and it goes to the lower setting(s). With the Discovery Sport, you have to touch the “Cool” button to get it to go to a lower setting. That’s something I suppose you could get used to, but the need to use both a button on the console and then the screen is objectionable.\n\nLikewise, there’s a knob to control radio volume but no knob to change the radio station. You have to do that on the screen, and the station-selection portion of the screen was too far away to reach comfortably for me and other editors.\n\nThe multimedia system gets mixed reviews. It has a pretty interface that matches the high-quality look of the interior. It’s also a fairly intuitive interface; it’s easy to find what you need, and there are a couple of options for how the home screen can look. Also, the available navigation and media system responds quickly once you reach the screen.\n\nHowever, there’s a bit of lag when swapping between systems — from navigation to radio, for example. Also, more than one editor reported problems connecting a smartphone through Bluetooth and maintaining the connection.\n\nBy far the most annoying feature for me, though, was the backup camera, which comes standard. Instead of the usual reminder advising drivers to check all their surroundings when reversing, the Discovery Sport has the lettering appear in a dark band that — while I’m sure it looked lovely in some software designer’s mind — obscures a large portion of the camera’s view until it disappears. Frequently, I’d put the Discovery Sport in Reverse, wait for the screen to clear, then start reversing. It got old after a while, and the Discovery Sport’s limited rear visibility added to the frustration with the camera setup. Others do this better.\n\nThere was, however, one feature that the Discovery Sport mastered better than any other car I’ve ever driven: the automatic windshield wipers. I normally don’t use the rain-sensing setting for windshield wipers because I usually find them either too sensitive — triggering at the slightest dribble of rain — or too inattentive. The Discovery Sport’s system never disappointed me in many wet drives. It provided the right amount of clearing whether I was in a steady rain, mist or drizzle.\n\nCargo & Storage\nThe cargo area was large in our two-row test model, with ample room behind the seats even though the overall cargo area is a bit narrow. The specs show the Discovery Sport’s cargo volume is greater than that in the RDX, X3 or GLK. The Land Rover has a maximum luggage volume of 66.9 cubic feet, compared to 61.3 (RDX), 63.3 (X3) and 54.7 (GLK) in its competitors.\n\nIn-cabin storage is decent, with a larger center console and a number of cubbies and cupholders in the cabin. One thing to note: If two people are bringing drinks and using the center cupholders, the armrest will not extend to a place where it can be of any use. So you can have two people using the cupholders or you can use the armrest. Simple as that.\n\nSafety\nThe Land Rover Discovery Sport has not been crash-tested by our preferred safety organization, the Insurance Institute for Highway Safety, nor has it been tested by the National Highway Traffic Safety Administration.\n\nOur test model included the optional Driver Assist Plus Package with autonomous emergency braking — a feature that can bring the car to a stop in an emergency — and lane departure warning. Standard features include hill descent control and emergency brake assist. You can browse the full list of safety features here.\n\nValue in Its Class\nThe Land Rover Discovery Sport disappoints in some ways, but where it succeeds — interior room and exterior looks — are likely enough to attract many buyers. Add in the fact that the Discovery Sport can be had with third-row seats and that its price isn’t outlandish when compared with the RDX, X3 and GLK-Class, and it’s easy to see the Discovery Sport as a competitive entry in that field.\n\nStill, I just can’t see driving the Discovery Sport getting any more enjoyable or familiar with age. The drivetrain lag that I didn’t like when I first got in the SUV was just as objectionable at the end of my test. And, while I learned to adjust my expectations to deal with the touch-screen controls and ergonomic challenges, there was still that little part of my brain that kept saying, “This is wrong.” It would be incorrect to say familiarity breeds contempt in this case, but familiarity didn’t make me fall in love with the Discovery Sport, either.\n\nPerhaps what’s most damning is that even though the Discovery Sport is aimed upmarket, throughout my test I kept finding myself comparing the car to our Jeep Cherokee long-term test model that cost about $12,000 less than the Discovery Sport. I found the Jeep’s interior to be almost as good as the Discovery Sport’s. The driving experience was no more or less objectionable, and the Jeep’s multimedia setup was superior. As the Jeep Cherokee wasn’t beloved in our office, that’s not a good thing for Land Rover.\n\nIn the end, the success of the Discovery Sport will likely ride on its room and its looks, not anything that happens when you drive it or use its electronics.\n\nSend Bill an email",
+      "trims": [
+        {
+          "name": "AWD 4dr SE",
+          "price": "$37070",
+          "specifications": {
+            "Notable features": [
+              "New model",
+              "Replaces LR2",
+              "Seats five or, optionally, seven",
+              "Standard &quot",
+              "partial&quot",
+              "leather",
+              "Eight-inch touch-screen"
+            ],
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 1750 SAE Net Torque @ RPM",
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr HSE",
+          "price": "$41570",
+          "specifications": {
+            "Notable features": [
+              "New model",
+              "Replaces LR2",
+              "Seats five or, optionally, seven",
+              "Standard &quot",
+              "partial&quot",
+              "leather",
+              "Eight-inch touch-screen"
+            ],
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "250 @ 1750 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,854 lbs Base Curb Weight",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr HSE LUX",
+          "price": "$45570",
+          "specifications": {
+            "Notable features": [
+              "New model",
+              "Replaces LR2",
+              "Seats five or, optionally, seven",
+              "Standard &quot",
+              "partial&quot",
+              "leather",
+              "Eight-inch touch-screen"
+            ],
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 1750 SAE Net Torque @ RPM",
+              "240 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/b4ec7605-2fa8-489f-9c29-5dbe5cb6e414.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/6727f47b-c54a-4554-bd4a-166fd92fb34f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/5f1d6dd0-90f8-41fe-85e3-a92da7314caa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/0756c4e9-401c-4d1d-a6a4-db9dc056091a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/5c646b9d-f318-4a8b-a3d0-a62329ddf0d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/ed245ba2-fd8c-410c-938d-2a754b594688.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/601b1ee6-6f7b-4f0f-90f3-a95ce8b0f37d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/a1a77f18-da68-42b1-bea3-4fbf9b68c6be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/1b7ea666-3fda-4d5f-bf23-b20316113870.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/2668bb71-690e-4701-94fb-2f1f28f17842.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/427efcf5-064d-4a59-97e5-ea23c37eacee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/bbc566b1-5daf-4cb0-a108-d36bebb19e41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/538c7ae4-d5dd-4242-b814-102f3dd1e6a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/20fdafd0-45bd-4a6c-af6d-9738b951be7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/101c5863-8b67-4675-8ff2-693b502c67cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/db9228e5-db0a-409b-8bd6-5d021b455e51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/bf1f86fa-9c7e-4e7a-8f6b-840e51559e4d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/61966789-d3fe-440b-a1db-50bd57b7f5ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/17f5d04c-f734-4ba8-8812-95c89c2b4326.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/2764d43d-8ea7-43d7-ad47-505bf6c730ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/61966789-d3fe-440b-a1db-50bd57b7f5ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/9f388314-7390-477c-8a24-2f4bb3163c23.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a3fcd528-eaab-46cd-be28-614f59e54c20/e9c9ffb2-04a8-4df1-8fa2-08dc581e2a3b.png"
+      ],
+      "expert_review": "What Is the 2024 Land Rover Discovery Sport?\n\nThe Land Rover Discovery Sport is a luxury compact SUV that’s powered by a 246-horsepower, turbocharged 2.0-liter four-cylinder engine paired with a nine-speed automatic transmission. A tenacious four-wheel-drive system with Land Rover’s Terrain Response feature comes standard, giving the Discovery Sport outstanding off-road capability. The Discovery Sport’s rivals include the Acura RDX, BMW X3, Genesis GV70 and Mercedes-Benz GLC.\n\nWhat’s New on the 2024 Land Rover Discovery Sport?\n\nAll 2024 Discovery Sports have a revamped dashboard with a new steering wheel, new shifter and a new infotainment system with an 11.4-inch curved-glass touchscreen, which absorbs several previously physical controls. The model lineup is pared down from four to two trims, both with a higher level of standard equipment (and notably higher starting prices).  \n\nWhat Features in the 2024 Land Rover Discovery Sport Are Most Important?\n\nStandard features include:\n\n11.4-inch touchscreen\nDigital instrument cluster\nWireless Apple CarPlay and Android Auto\nAmazon Alexa\nWireless device charging\nSatellite radio\nHeated, power-folding side mirrors\nLeather-wrapped steering wheel\nLeather-trimmed seats\nAdaptive cruise control\nBlind spot warning\nAutomatic emergency braking\nLane departure steering assist\nFront and rear parking sensors\n19-inch wheels\n\nAvailable features include:\n\nThird-row seats\nSliding and reclining second-row seats\nPanoramic moonroof\nSynthetic leather upholstery\nSafe exit warning\nDigital-camera rearview mirror\nRear cross-traffic alert\nHeated windshield\nHeated steering wheel\nHead-up display\n21-inch wheels\nShould I Buy the 2024 Land Rover Discovery Sport?\n\nThough it’s increasingly showing its age since its introduction for the 2015 model year, the Land Rover Discovery Sport is attractively styled inside and out. Its standard 4WD system makes it far more capable off the beaten path than many competitors. Its lackluster handling and subpar fuel economy, however, are disappointing. And while extra seating from the optional third row sounds good, keep in mind that it’s best suited for kids.",
+      "trims": [
+        {
+          "name": "Core S 4WD",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "New infotainment system, revised dashboard for 2024",
+              "Five- or seven-seat luxury compact SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder engine"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "269 @ 1400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Dynamic SE 4WD",
+          "price": "$53100",
+          "specifications": {
+            "Notable features": [
+              "New infotainment system, revised dashboard for 2024",
+              "Five- or seven-seat luxury compact SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder engine"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/4b5185e7-4fcd-4df8-bfce-9f15d0c0d40f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/bb7e583a-bc1b-4a5f-a0a4-7dde4a6400ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/f01ce6d5-9c0e-45d4-9357-3cd31599f391.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/a655ccbc-d2de-4cfa-81b1-989b5d345a6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/c3c358b9-99b3-4447-9bef-215dcb3df824.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/88c01e23-d8f7-46b4-84b7-b3b083a42f82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/c3d7db41-404b-4e23-87c8-8bb21884760c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/58749bbc-3dfb-45c0-b2a8-dd8b2f5bd879.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/d4b6cfd5-51e8-4524-bb6f-1ba5a7527592.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/b3d93c3c-abbd-4f07-b58f-d15182eea63d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/0adad3da-b7da-466d-97ed-215afc30f02a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/2dc78648-3f65-44bc-83f1-db86fd6938c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/7e5fa068-5763-4d5c-b019-0ecc6ce3b6c5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1fd5c338-71a6-4c6a-a3ff-74daa797c29e/ee5149ac-cad3-453d-a79f-f98d87bb8814.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/eb32bf54-2322-4c8b-96b8-7a59b4b54b3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/16f7e74c-9f55-40b3-b11e-a79102a8f5d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/5e6fcd66-e0ce-47c6-bdbf-8b1c728a444e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/740433b0-09da-4b59-b4f4-b4cfdd57a724.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/42b74171-4a02-4a46-878b-973c0936fd28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/efb1b970-7f5f-4ff0-b84d-986e71eb45cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/82e022d6-8b0a-468e-8f39-2a687d8d125b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/397994e7-787d-49e7-97e5-89b009c4c15a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87ddfd9b-5658-4cd2-b8da-83569f04ce46/5e8172f0-841b-47b9-a987-99177e71e5d4.png"
+      ],
+      "expert_review": "What Is the 2025 Land Rover Discovery Sport?\n\nThe Land Rover Discovery Sport is a luxury compact SUV that’s powered by a 246-horsepower, turbocharged 2.0-liter four-cylinder engine paired with a nine-speed automatic transmission. A tenacious four-wheel-drive system with Land Rover’s Terrain Response feature comes standard, giving the Discovery Sport outstanding off-road capability. The Discovery Sport’s rivals include the Acura RDX, BMW X3,  Genesis GV70 and Mercedes-Benz GLC.\n\nWhat’s New on the 2025 Land Rover Discovery Sport?\n\nAfter a refresh for 2024, the Discovery Sport is carried over for 2025 with minor alterations to optional equipment availability, plus the addition of two optional accessory packages: one for dog owners and one for bicyclists.\n\nWhat Features in the 2025 Land Rover Discovery Sport Are Most Important?\n\nStandard features include:\n\n11.4-inch touchscreen\nDigital instrument cluster\nWireless Apple CarPlay and Android Auto\nAmazon Alexa\nWireless device charging\nSatellite radio\nHeated, power-folding side mirrors\nLeather-wrapped steering wheel\nLeather-trimmed seats\nAdaptive cruise control\nBlind spot warning\nAutomatic emergency braking\nLane departure steering assist\nFront and rear parking sensors\n19-inch wheels\n\nAvailable features include:\n\nThird-row seats\nSliding and reclining second-row seats\nPanoramic moonroof\nSynthetic leather upholstery\nSafe exit warning\nDigital-camera rearview mirror\nRear cross-traffic alert\nHeated windshield\nHeated steering wheel\nHead-up display\n21-inch wheels\nShould I Buy the 2025 Land Rover Discovery Sport?\n\nThough it’s increasingly been showing its age since its introduction for the 2015 model year, the Discovery Sport is attractively styled inside and out. Its standard 4WD system makes it far more capable off the beaten path than many competitors. Its lackluster handling and subpar fuel economy, however, are disappointing. And while the extra seating of the optional third row sounds good, keep in mind that it’s best suited for kids.",
+      "trims": [
+        {
+          "name": "S 4WD",
+          "price": "$48900",
+          "specifications": {
+            "Notable features": [
+              "Five- or seven-seat luxury compact SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder engine",
+              "Terrain Response system with off-road driving modes"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1300 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Dynamic SE 4WD",
+          "price": "$53100",
+          "specifications": {
+            "Notable features": [
+              "Five- or seven-seat luxury compact SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder engine",
+              "Terrain Response system with off-road driving modes"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "269 @ 1300 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "4,035 lbs Base Curb Weight",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/319e8256-9a9c-4351-970b-60ff4f75bf3e/d241e778-a872-4389-b345-ee8a7034c629.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/bba687b4-6bfd-42a6-81c1-4f9edeecaf96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/8687d7c2-f806-4fea-a893-724f8a617198.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/4962c4e2-32e0-439f-b4f3-0df3a2caa6ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/3f748cfd-c1e5-4c2e-89b7-4b8f80abf569.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/ccbdd475-3932-4490-a50a-70d50f1858bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/43b8d9ed-7f70-48bb-887a-e35a8bde6fda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/45fb7738-ca54-439f-8133-39d3fd4a627a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/9acdd6d3-4957-4a19-bbac-5dfe2e092df1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/c6e4183e-5212-4d28-810a-e5960cae0c9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/9e34b7eb-20a5-4663-a953-0722a05c8bac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/4097d83f-0fc3-4e1a-8ba4-303075da5e63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/99a57d7d-ba67-4154-bd8d-eb779db515a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/101ac2a6-0c85-4dd3-8f5c-53741d7c488e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/9e207740-8a4b-4c5d-8f23-3aee138f2802.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/c9f4d6de-432e-4bf2-bfe0-6d303e967ecb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/d508dfc3-9df9-479f-acfd-8b39c1950d16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/304db565-15c4-4bc7-b9bf-e32a808817c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/be7f8646-3b23-4eac-996e-f33955eb542e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/25bdd341-1891-415a-8648-c9233c4106aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/38c7385a-2c22-4e82-b11c-3106383cd7a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/046a8904-0822-42bd-92e5-857fbee9e39e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/2c70e857-a2ac-40ac-b914-62f46e7dacb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/8efcbbf9-f8b9-4b78-8f5e-8b442183d9f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/25ab0e7d-df69-432c-a82a-ae14f9be6e14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/709dac43-218b-4595-bdff-67bcc3718b34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/7f91a3df-9418-415d-90e2-9762e282df02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/6fb2ac06-a0b5-4f25-bef0-3899c76302d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/22b48a81-b254-4392-980e-35ae02de6d49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/9c278793-9b45-4eca-a48c-455a271daa27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/566929ff-228c-4d74-81df-4224cb1f8701/e0fdbc8c-4d69-4519-b98c-ff7d78c8ecc9.png"
+      ],
+      "expert_review": "What Is the 2023 Land Rover Discovery Sport?\n\nThe Land Rover Discovery Sport is a compact luxury SUV that offers a choice of two turbocharged engines. The base powertrain is a 246-horsepower, 2.0-liter turbo-four paired with a nine-speed automatic transmission. Optional is a 355-hp, turbo 3.0-liter inline-six coupled to the same gearbox. Both engines come standard with a tenacious four-wheel-drive system that gives the Discovery Sport outstanding all-terrain capability. The Discovery Sport’s direct rivals include the BMW X3, Mercedes-Benz GLC, Acura RDX and Genesis GV70.\n\nWhat’s New on the 2023 Land Rover Discovery Sport?\n\nNewly standard features on the 2023 Discovery Sport include Amazon Alexa and adaptive cruise control.\n\nWhat Features in the 2023 Land Rover Discovery Sport Are Most Important?\n\nStandard features include:\n\n10-inch touchscreen\nApple CarPlay and Android Auto\nAmazon Alexa\nWireless device charging\nSatellite radio\nHeated, power-folding side mirrors\nLeather-wrapped steering wheel\nLeather-trimmed seats\nAdaptive cruise control\nLane departure steering assist\nFront and rear parking sensors\n\nAvailable features include:\n\nThird-row seats\nSliding and reclining second-row seats\nPanoramic moonroof\nSafe exit warning\nRear cross-traffic alert\nHeated windshield\nHeated steering wheel\nHead-up display\nBlind spot warning\nShould I Buy the 2023 Land Rover Discovery Sport?\n\nThe 2023 Land Rover Discovery Sport is attractive inside and out. Its standard 4WD system makes it far more capable off the beaten path than many competitors. Lackluster handling and poor fuel economy with either of the two turbocharged engines, however, is disappointing. And while the extra seating provided by the optional third row sounds good, keep in mind that it’s best suited for kids.",
+      "trims": [
+        {
+          "name": "S 4WD",
+          "price": "$43300",
+          "specifications": {
+            "Notable features": [
+              "Five- or seven-seat compact luxury SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder standard",
+              "Turbo inline-six optional"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,035 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S R-Dynamic 4WD",
+          "price": "$45100",
+          "specifications": {
+            "Notable features": [
+              "Five- or seven-seat compact luxury SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder standard",
+              "Turbo inline-six optional"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "269 @ 1400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Maximum Trailering Capacity",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SE 4WD",
+          "price": "$46800",
+          "specifications": {
+            "Notable features": [
+              "Five- or seven-seat compact luxury SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder standard",
+              "Turbo inline-six optional"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,409 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "4,035 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "SE R-Dynamic 4WD",
+          "price": "$48500",
+          "specifications": {
+            "Notable features": [
+              "Five- or seven-seat compact luxury SUV",
+              "Four-wheel drive standard",
+              "Turbo four-cylinder standard",
+              "Turbo inline-six optional"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "269 @ 1400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "4,409 lbs Maximum Trailering Capacity",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/088181af-6095-43ec-a915-18a51c231a5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/5f4b605e-5f62-40bb-822f-bc87d087cede.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/d1805ebe-ee3c-47da-aa93-34db09bf2039.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/69c03f98-51d2-4df9-9dd9-10593db3f335.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/65169a65-1ae7-40ba-96f6-7c4f0ec81cb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/b200cb29-db27-4225-b1d1-7792ce9c4b91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/d84c7cef-9ba9-4093-b2d3-913710af201f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/f87fe35d-542f-4c06-9067-5e895831a1f2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0a6f61ab-bfc0-4067-aa1b-1cadd7730d57/16422439-ce95-4b9c-ad0c-c104ac343fc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/cba83098-56d2-4819-8e94-1b5118f37752.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/fcd5fc78-d459-4f6a-a14d-37292c0a8f70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/3faa54a1-c38d-4289-a787-dd99147ceb3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/d9ae2028-f8fa-4187-865e-3b2a5745d422.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/c6bc4825-c4e3-4972-be81-18bfa9b2e01a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/8ceee2c6-9595-4f91-9d53-18c225b4cffd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/7759e8a9-6c71-4aa5-8ce8-32b33d3b4590.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/f72eb710-7253-4e76-98dd-61c49c1d8714.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/3a67d7c8-4b6d-4f6f-a6e9-c30e1b60b918.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/b879b216-c5f0-470d-9397-e59939bda918.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/4ea283ab-7463-4121-a136-0b3693886943.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/40a0e7e4-9f62-4507-9ba2-8bd299fe65f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/4390e225-4f43-4237-94ac-1e5e058bc4c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/4d8b3953-c8b8-453a-abef-1481eb342ac2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/f7411a90-9bc0-40f2-a3d2-84d2729e1134.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/3f787dd0-4940-47fe-be22-89ce11c59c47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/1af48dfc-9b84-4a84-b341-24c2c26d70e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/62896268-8bd0-4f43-89b6-957b68f92fac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/4471c318-48f1-4217-9b12-b7bbf6ee295d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/c54b03ef-22df-44f0-85e8-c559747d34fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/89dd6102-601f-41a3-a4ed-22f36610c703.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/897ad122-2a61-4a92-8a0d-f14f36739705/9379fdfd-a665-4f4a-932d-7395eb3741e6.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S 4WD",
+          "price": "$43200",
+          "specifications": {
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S R-Dynamic 4WD",
+          "price": "$45000",
+          "specifications": {
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Maximum Trailering Capacity",
+              "4,035 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "SE 4WD",
+          "price": "$46700",
+          "specifications": {
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE R-Dynamic 4WD",
+          "price": "$48500",
+          "specifications": {
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "246 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,409 lbs Maximum Trailering Capacity",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/47a6a232-4424-44c4-a037-6a5f332434cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/e83b93fb-0642-44bd-9644-15759e0aed8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/26df4767-4c5d-4e32-b1ff-b5a7201d3844.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/5b2f4e89-82ed-4749-a6e0-9b1865401034.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/0e6346af-00c2-4804-8028-24585c400300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/4c640e6b-4489-4c7a-b334-ddc8ec464d23.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/3b6a66f0-078d-405d-af20-937cfee2dbd5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/9c24deaf-9e3d-4304-bd0e-578b9a8fa016.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/35e00999-c236-455c-8831-28f7a277ed6d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3a7c709e-7765-419c-b43e-46364c63ea10/04ff90b4-9d1f-4acd-963f-d3f3ccec0dc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/57b0061c-d64a-4a04-992b-6ec2362803ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/eb1cda8b-5493-4704-8ab1-2b3044e61d38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/14266f37-3265-47b9-9ccd-9b2a62c46bfa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/2f329adf-0587-488e-b2ef-0597bde850f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/8165c63b-b675-4ae9-abd9-22fd892c0712.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/892b6a19-c95f-439c-a3c9-2e784bd65229.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/fa1d0a6b-b410-4d7a-ad01-fdd05bfb182a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/ff5b64cd-bc1d-4b83-99b9-301991659889.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/6997c5b7-9555-4246-8c24-ce65fda02268.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/d359fca0-a5d8-457c-ab1a-db70a2d7ebae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/444e4e44-2d8c-4d92-a94a-2f5f1875ae82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/e58843ca-9be4-45d7-ba19-aa1916932e13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/6ac8aa18-7078-4a96-bdf6-fc1ec9c909d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/59a3ab1b-2995-476e-a4f0-a37f37087da7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/14de6a0e-d69b-4913-89d7-6f2ecb3565a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/8004f1c2-c66d-4e0c-bdcd-8722164d7402.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/7c8a9860-40b2-437e-83a2-afc70b58c56d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/f115a5f0-2597-49e6-b9b2-796f20dc0f24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/762329bd-b0e0-4958-b3a5-9aad835ae4c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/a8c23095-65fc-4cb0-96bf-77f353721d79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/74c0315d-5e56-4820-b51f-3bedf3b503c8/f631e235-b344-46fd-a7b9-1bbd4692f806.png"
+      ],
+      "expert_review": "What Is the 2021 Land Rover Discovery Sport?\n\nThe Land Rover Discovery Sport compact luxury SUV debuted for 2015 as a replacement for the LR2 in the automaker’s lineup. It has standard seating for five, but an optional two-seat third row transforms it into a seven-seat SUV. \n\nPower is supplied by a 246-horsepower, turbocharged 2.0-liter four-cylinder engine that pairs with a nine-speed automatic transmission, and four-wheel drive is standard. Competitors include the Acura RDX, BMW X3 and Audi Q5.\n\nWhat’s New on the 2021 Land Rover Discovery Sport?\n\nA new Pivi Pro multimedia system with Apple CarPlay and Android Auto smartphone connectivity is standard, and the system supports over-the-air software updates. A 360-degree camera system is also standard. \n\nWhat Features in the 2021 Land Rover Discovery Sport Are Most Important?\n\nStandard features include:\n\nLED headlights\nHeated, power-folding side mirrors\nLeather-wrapped steering wheel\nLeather-trimmed seats\nDual-zone air conditioning\nForward collision warning\nAutomatic emergency braking\nLane-keeping assist\nFront and rear parking sensors\n\nAvailable features include:\n\nPanoramic moonroof\nPower liftgate\nHeated windshield\nHeated steering wheel\nWireless device charging\nHead-up display\nBlind spot warning\nAdaptive cruise control\n2021 Land Rover Discovery Sport Vs. 2021 Acura RDX: How Do They Compare?\n\nThe Discovery Sport’s available third row is something you can’t get in an RDX, even if it isn’t very spacious. Both luxury SUVs include Android Auto and Apple CarPlay connectivity. The RDX has sporty handling and quick acceleration as well as excellent crash ratings. We’re not fans of the multimedia interface in the RDX, however. \n\nShould I Buy the 2021 Land Rover Discovery Sport?\n\nThe Discovery Sport should meet the needs of small families or other buyers looking for a premium SUV with some off-road capability. The interior is luxurious and well-appointed with plenty of room for five. But space is very limited in the optional third row, which is useful only for children.",
+      "trims": [
+        {
+          "name": "S 4WD",
+          "price": "$41900",
+          "specifications": {
+            "Notable features": [
+              "New multimedia system with Apple CarPlay, Android Auto standard",
+              "360-degree camera system now standard",
+              "246-hp, turbo four-cylinder engine standard",
+              "Seats five or seven",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S R-Dynamic 4WD",
+          "price": "$43600",
+          "specifications": {
+            "Notable features": [
+              "New multimedia system with Apple CarPlay, Android Auto standard",
+              "360-degree camera system now standard",
+              "246-hp, turbo four-cylinder engine standard",
+              "Seats five or seven",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE 4WD",
+          "price": "$45350",
+          "specifications": {
+            "Notable features": [
+              "New multimedia system with Apple CarPlay, Android Auto standard",
+              "360-degree camera system now standard",
+              "246-hp, turbo four-cylinder engine standard",
+              "Seats five or seven",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE R-Dynamic 4WD",
+          "price": "$46950",
+          "specifications": {
+            "Notable features": [
+              "New multimedia system with Apple CarPlay, Android Auto standard",
+              "360-degree camera system now standard",
+              "246-hp, turbo four-cylinder engine standard",
+              "Seats five or seven",
+              "Four-wheel drive standard"
+            ],
+            "Highlights": [
+              "19 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/c639fa8f-2075-4ea5-b9d6-83c8dcba7c97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/bcdcb6c0-e49b-4e66-83d2-7c05a756e6b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/56673600-ae2b-404e-8217-2578e5a44722.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/1c7dda16-cdde-427e-b521-08573d1de1cc.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/59175db3-2bfa-4b24-9a94-f0653ecf7dbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/23742a8e-dde9-4b82-834b-c89fed47d868.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/0bf7baec-7b55-45be-b6cb-509befc91cde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/8b2b6038-5521-47ea-a0d0-f9128463bbd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/c46cfd8d-f672-4da8-b4d5-ed7766a6c8cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/e11a85dc-e511-4865-b6da-843227c45912.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/c3d19ff5-9e39-4a89-80c2-e193cd0acac3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/62aba48d-e43b-443d-8fa9-75f64da78af9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/27916833-257c-4e2b-99a8-b4dcf9f4081b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/87420cee-942e-4d79-ab5f-1948ec206042.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/3b832e3c-488c-4750-869c-f48134a04816.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/59175db3-2bfa-4b24-9a94-f0653ecf7dbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/b67f6c3d-9798-43c4-b8a5-a4fd30124745.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/8ba86e40-15fd-404c-913f-ec925c95de05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/ff87ef76-c170-4c71-a284-747cdf21f7dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/9467c83c-b55f-406d-b9cd-bc96a54dba6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/80ccb322-ff6c-4630-9678-509f1acf36e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0949dc58-f43b-456b-83e5-45e990334753/1e0dadd5-c71f-49f1-aa2e-4191e96281be.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "SE 4WD",
+          "price": "$37795",
+          "specifications": {
+            "Notable features": [
+              "New four-cylinder gas engine",
+              "Available in-car Wi-Fi now uses 4G",
+              "10.2-inch touchscreen available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "251 @ 1250 SAE Net Torque @ RPM",
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "HSE 4WD",
+          "price": "$42395",
+          "specifications": {
+            "Notable features": [
+              "New four-cylinder gas engine",
+              "Available in-car Wi-Fi now uses 4G",
+              "10.2-inch touchscreen available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "251 @ 1250 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "3,854 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "HSE Luxury 4WD",
+          "price": "$46795",
+          "specifications": {
+            "Notable features": [
+              "New four-cylinder gas engine",
+              "Available in-car Wi-Fi now uses 4G",
+              "10.2-inch touchscreen available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "251 @ 1250 SAE Net Torque @ RPM",
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "HSE 286hp 4WD",
+          "price": "$49395",
+          "specifications": {
+            "Notable features": [
+              "New four-cylinder gas engine",
+              "Available in-car Wi-Fi now uses 4G",
+              "10.2-inch touchscreen available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "286 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "HSE Luxury 286hp 4WD",
+          "price": "$52895",
+          "specifications": {
+            "Notable features": [
+              "New four-cylinder gas engine",
+              "Available in-car Wi-Fi now uses 4G",
+              "10.2-inch touchscreen available",
+              "Seats five or seven",
+              "All-wheel drive standard",
+              "Remote start standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "286 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,854 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/4c762892-cf84-4e0b-82b9-ea7f4e37e587.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/d3c90a7b-824f-46a5-876d-d9765fc475b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/48a3e1ec-d8ca-4505-860a-09a02c342d1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/79a982bf-cdc0-4941-8419-aff1f7a60cca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/cb4a94b3-1420-411d-ae99-4d60e31dfdae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/39127c53-cbad-492c-a98f-d9112e521545.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/237d902c-d268-4c69-8cb7-3950d25843b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/7100d8dc-71a2-4ac1-bb3a-84beaa1c2918.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/1aabe311-bb49-4a0a-806a-c9adfb13f7c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/f80aa116-43c5-4e34-9f9d-85e683e666d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/10842c74-c8e1-4868-bafe-c75ce8cc3e2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/9e0bc8f5-9d62-4cdc-9463-74e88f8347b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/a468fd16-8164-427b-b7b7-67917d3b77dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/21da3c22-43fd-49d9-88f7-e777d125d3f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/52e38b26-e44d-47d1-aec1-f264bd92933d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/9e977074-77d5-471a-864a-6759f1dbc89d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/e030f43b-7d8e-4a47-8a09-ff47339fc07a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6e6a0bd6-e1f3-4e52-b5bb-4f36b272df9a/12e69ff3-2ba0-48ae-8514-12f5790cd920.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/513e437e-d059-4ba3-8576-a3b6f7dd9288.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/b7bc7c20-3395-4828-83b7-2ba09c293f31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/ddd4e8a3-d1b1-4ad3-868c-806dccc10a5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/becced49-7ef2-4c02-ab3a-57022ccdd2e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/57dba88b-eb48-4374-9b0f-71ab1b2a24a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/ac6bd32f-6308-4a1e-80d5-7ccf00b26f7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/76861692-fcea-40da-9385-d2f531445302.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/f3cc6e78-d67a-4bca-ae87-29756c1256e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/a3a4c3fb-1192-484e-85f4-fb8912843ede.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/4d3d70a4-8339-42d5-98fa-ebd7d69b0f6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/1f30c2b7-5b7f-41fd-88e2-2e8afe32ea8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/a839d55e-1845-4ce5-8c23-cbb9409e3052.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c15d02e4-0087-403c-9b53-1adadd8f4776/cc10ec19-bcb2-4bad-a626-3c72c1b45810.png"
+      ],
+      "expert_review": "What Is the 2020 Land Rover Discovery Sport?\n\nThe Land Rover Discovery Sport compact luxury SUV debuted for 2015 as a replacement for the LR2 in the automaker’s lineup. It has standard seating for five, but an optional two-seat third row transforms it into a seven-seat SUV.\n\nPower is supplied by a 246-horsepower, turbocharged 2.0-liter four-cylinder engine or a new-for-2020 mild-hybrid four-cylinder drivetrain that makes 286 hp. Both drivetrains pair with a nine-speed automatic transmission, and four-wheel drive is standard. Competitors include the Acura RDX, BMW X3 and Audi Q5.\n\nWhat’s New on the 2020 Land Rover Discovery Sport?\n\nThe standard turbocharged gas 2.0-liter four-cylinder engine gets a slight power increase to 246 hp, while a new R-Dynamic HSE trim gets a mild-hybrid version of the same engine that’s good for 286 hp.\n\nStyling changes include new front and rear bumpers, an updated grille and full-LED lighting. All trims also get an updated interior with available Luxtex sustainable fabric. Wireless phone charging and a 4G Wi-Fi hot spot are available. A new front camera system uses the center display to provide a better view ahead while off-roading, and a new rear camera paired with the rearview mirror gives drivers a clear view of the rear when visibility is hampered by passengers or cargo.\n\nWhat Features in the 2020 Land Rover Discovery Sport Are Most Important?\n\nStandard features include dual-zone automatic air conditioning, cruise control, a leather-wrapped steering wheel, rain-sensing windshield wipers and power-folding heated side mirrors. Available features include a panoramic moonroof, a hands-free power liftgate, navigation and a Meridian premium stereo.\n\n2020 Land Rover Discovery Sport Vs. 2020 Acura RDX: How Do They Compare?\n\nThe Discovery Sport upped the luxury ante for 2020 with updated styling and new features. It is also available with a third row, even if it isn’t very spacious. That’s something you can’t get in an RDX. While Android Auto and Apple CarPlay connectivity are both offered in the Discovery Sport, only CarPlay is offered in the RDX. The RDX has sporty handling and quick acceleration as well as excellent crash ratings. We’re not big fans of the multimedia interfaces in either SUV, but the Discovery Sport at least offers a touchscreen.\n\nShould I Buy the 2020 Land Rover Discovery Sport?\n\nThe Discovery Sport should meet the needs of small families or other buyers looking for a premium SUV with some off-road capability. The interior is luxurious and well-appointed, with plenty of room for five. But space is very limited in the optional third row, which is useful only for children.",
+      "trims": [
+        {
+          "name": "Standard 4WD",
+          "price": "$37800",
+          "specifications": {
+            "Notable features": [
+              "Refreshed styling",
+              "More powerful base engine, new mild-hybrid drivetrain available",
+              "Seats five or seven",
+              "Four-wheel drive standard",
+              "Apple CarPlay and Android Auto available"
+            ],
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S 4WD",
+          "price": "$41500",
+          "specifications": {
+            "Notable features": [
+              "Refreshed styling",
+              "More powerful base engine, new mild-hybrid drivetrain available",
+              "Seats five or seven",
+              "Four-wheel drive standard",
+              "Apple CarPlay and Android Auto available"
+            ],
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "269 @ 1400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "S R-Dynamic 4WD",
+          "price": "$43100",
+          "specifications": {
+            "Notable features": [
+              "Refreshed styling",
+              "More powerful base engine, new mild-hybrid drivetrain available",
+              "Seats five or seven",
+              "Four-wheel drive standard",
+              "Apple CarPlay and Android Auto available"
+            ],
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "246 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Maximum Trailering Capacity",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "SE 4WD",
+          "price": "$44600",
+          "specifications": {
+            "Notable features": [
+              "Refreshed styling",
+              "More powerful base engine, new mild-hybrid drivetrain available",
+              "Seats five or seven",
+              "Four-wheel drive standard",
+              "Apple CarPlay and Android Auto available"
+            ],
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "269 @ 1400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "4,035 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,409 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SE R-Dynamic 4WD",
+          "price": "$46150",
+          "specifications": {
+            "Notable features": [
+              "Refreshed styling",
+              "More powerful base engine, new mild-hybrid drivetrain available",
+              "Seats five or seven",
+              "Four-wheel drive standard",
+              "Apple CarPlay and Android Auto available"
+            ],
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1400 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "4,409 lbs Maximum Trailering Capacity",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "HSE R-Dynamic 4WD",
+          "price": "$52800",
+          "specifications": {
+            "Notable features": [
+              "Refreshed styling",
+              "More powerful base engine, new mild-hybrid drivetrain available",
+              "Seats five or seven",
+              "Four-wheel drive standard",
+              "Apple CarPlay and Android Auto available"
+            ],
+            "Highlights": [
+              "19 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "286 @ 5500 SAE Net Horsepower @ RPM",
+              "295 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "441 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,409 lbs Maximum Trailering Capacity",
+              "4,145 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "4,409 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "441 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,409 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/15a19c95-4432-4962-847d-8ff9348084b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/53c7cd23-fe00-4292-a403-c94bb558366f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/68536b63-b7bf-40ea-acad-2e7525d89eaf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/50d7a5aa-65db-489a-98d6-e77b157f9b9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/a3194460-819f-4d07-9e44-d6d2416d424f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/803c2aef-3a94-4575-b73c-a90b06661f32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/8e4719fa-0869-4196-a83e-d9badee49563.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/4cb66780-624a-43a9-86ea-7f3918de6233.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/74a720f9-45c2-4abe-b4de-134165a3fcc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/061afc0f-49b3-4360-a5fc-ce9658690191.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/20b1ed53-2395-4819-a042-40513f24ff70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/af6aab2d-aa00-41c5-a64a-662a5047d468.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/a73b66d8-f8fb-4bcb-83e6-cff5e7cf248d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/05eade46-b1b7-4c78-a1f6-2f89b2acef0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/6973ad12-9ffe-4d3b-9f8c-2bc578013d27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/92f6b9ef-6070-4fba-83f7-a9c4ebea55dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/1a786a5e-cf84-4330-b778-e75a48b6549e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/a3194460-819f-4d07-9e44-d6d2416d424f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/506a77b2-74c9-4c6a-a119-5e0b3e645d84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/ec756ccc-3e5b-45f0-afa2-d6be7f95913b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/6062902d-ad9d-4b50-a75a-bf0ce437c446.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/87fac638-fcca-4c8d-a4b5-5043a37b999b/0e833a91-b19d-4924-9af9-09d69ef4228c.png"
+      ],
+      "expert_review": "What Is the 2019 Land Rover Discovery Sport?\n\nThe Land Rover Discovery Sport compact luxury SUV debuted for 2015 as a replacement for the LR2 in the automaker’s lineup. It has standard seating for five, but an optional two-seat third row transforms it into a seven-seat SUV. Power is supplied by a turbocharged 2.0-liter four-cylinder engine rated at 237 or 286 horsepower, depending on the model. The engine works with a nine-speed automatic transmission, and all-wheel drive is standard. Competitors include the Acura RDX, BMW X3 and Audi Q5.\n\nWhat’s New on the 2019 Land Rover Discovery Sport?\n\nApple CarPlay and Android Auto smartphone connectivity are now available. A new Landmark Edition with special design cues also joins the lineup.\n\nWhat Features in the 2019 Land Rover Discovery Sport Are Most Important?\n\nStandard features include dual-zone automatic air conditioning, cruise control, a leather-wrapped steering wheel, partial-leather upholstery, rain-sensing windshield wipers and power-folding heated side mirrors. Available features include a panoramic roof, a hands-free power liftgate, navigation and a Meridian premium stereo.\n\nShould I Buy the 2019 Land Rover Discovery Sport?\n\nThe Discovery Sport should meet the needs of small families or other buyers looking for a premium SUV with some off-road capability. The interior is luxurious and well-appointed, with plenty of room for five. But space is very limited in the optional third row, which is useful only for children.",
+      "trims": [
+        {
+          "name": "SE 4WD",
+          "price": "$37990",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay and Android Auto now available",
+              "Updated interface for available touchscreen multimedia system",
+              "Turbocharged four-cylinder engine standard",
+              "Nine-speed automatic standard",
+              "Seats five or seven",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "251 @ 1250 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "3,960 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "HSE 4WD",
+          "price": "$42600",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay and Android Auto now available",
+              "Updated interface for available touchscreen multimedia system",
+              "Turbocharged four-cylinder engine standard",
+              "Nine-speed automatic standard",
+              "Seats five or seven",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "251 @ 1250 SAE Net Torque @ RPM",
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,960 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Landmark 4WD",
+          "price": "$45000",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay and Android Auto now available",
+              "Updated interface for available touchscreen multimedia system",
+              "Turbocharged four-cylinder engine standard",
+              "Nine-speed automatic standard",
+              "Seats five or seven",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "251 @ 1250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "3,960 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "HSE Luxury 4WD",
+          "price": "$46990",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay and Android Auto now available",
+              "Updated interface for available touchscreen multimedia system",
+              "Turbocharged four-cylinder engine standard",
+              "Nine-speed automatic standard",
+              "Seats five or seven",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "21 City / 25 Hwy MPG",
+              "7 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "237 @ 5500 SAE Net Horsepower @ RPM",
+              "251 @ 1250 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,960 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "HSE 286hp 4WD",
+          "price": "$49700",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay and Android Auto now available",
+              "Updated interface for available touchscreen multimedia system",
+              "Turbocharged four-cylinder engine standard",
+              "Nine-speed automatic standard",
+              "Seats five or seven",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "286 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,960 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "HSE Luxury 286hp 4WD",
+          "price": "$53200",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay and Android Auto now available",
+              "Updated interface for available touchscreen multimedia system",
+              "Turbocharged four-cylinder engine standard",
+              "Nine-speed automatic standard",
+              "Seats five or seven",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "286 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "18 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,960 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

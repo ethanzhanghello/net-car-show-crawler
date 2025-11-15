@@ -1,0 +1,42 @@
+{
+  "make": "dodge",
+  "model": "d250",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/826c8128-39d3-41ea-a50d-f6009862930f/f364ed96-0417-4937-b846-d1f7f4d3c918.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 131\" WB",
+          "price": "$15110",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB",
+          "price": "$17375",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2466aec9-cd2b-4e2b-ae4c-161f036267cc/0725c619-c29d-4b19-9bf9-d12c9b2f309a.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 131\" WB",
+          "price": "$14341",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB",
+          "price": "$16225",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "make": "mercedes_benz",
+  "model": "eqs_580",
+  "years": {
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/1d3c9346-08b3-4923-b78e-41828c864a07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/415860f8-cafe-4151-a2c6-33f9ad653efa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/1ae8dc49-7cdd-4daf-aac3-f9e8176419d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/e5722c8e-fe01-463b-b961-c368864374a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/b1f6815b-dc05-4773-a2c4-ae6fb81d17c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/ceed6deb-ba61-4c68-a1e0-1ae3094c55bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/d29fccb9-beda-43d9-9631-902c918e3f51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/4c3d38d7-bbf8-4706-8bcb-4161b0b03a92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/0ef78636-3315-41d4-9b85-5aefca898fa4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/2af1d6c4-2dc9-4e45-9a2a-7ec62b85fe33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/96e17c67-ffb4-46d8-a0da-08e693606e74.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/0ef78636-3315-41d4-9b85-5aefca898fa4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/ad41504d-5151-419f-ba99-583db6dc9188.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/05fa6fdd-6781-490b-859a-aac08366875d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/3d1554b0-46e7-4c14-a4ed-e7d99ea94cf8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/d585b694-eb66-43db-8bcf-99225d47028f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/a2997cce-2371-489b-81e7-49dcfa0aadca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/da1aee8a-d3a1-4f19-926f-ed7f5d0b71a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/32605f38-b9a6-47e7-92bd-0108024267a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/c6a52728-ab35-44af-a5c4-ea74b24b87e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/2f29c3cf-4287-4ada-9bde-8e172cee2c5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/8bfa5e3d-6bc5-4c83-8773-9afccb25d94e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/734626b5-dd5e-4fe3-88a7-adfbf72f9e85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/09e7ed50-c0d4-4011-aa33-79d254e712a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/ba508e02-98a1-41a6-a621-7d6a357127ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/43127c5f-be26-4bb0-b9c6-c0d12e3d99a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/b553093a-ebac-40d1-b6f5-adaa5d62d946.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/bd199965-09c4-41e6-bcac-1c4547279f62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/70118272-94a6-473d-ac80-bd0817393bfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/262a3e8c-5a87-4b85-9308-63b6b7c29184/49ebb44b-8eb2-4ab7-9ac3-9bbbe21debed.png"
+      ],
+      "expert_review": "The verdict: Mercedes-Benz’s first dedicated electric vehicle flagship, the 2022 EQS, is meant to set the tone for all future electric Mercedes — and it mostly succeeds.\n\nVersus the competition: Against a Tesla Model S, the EQS feels like the next generation of EV luxury — but against Mercedes-Benz’s traditional S-Class flagship, it feels like buyers will need to accept some compromises.\n\nIf it seems to you that there’s a sudden flood of electric cars coming from established automakers, that’s understandable — you’re not wrong. Mercedes-Benz in particular seems to have gone from zero to hero overnight with regard to electric vehicles. Nothing notable to talk about, then suddenly we see models like the 2022 Mercedes-EQ EQS, an S-Class-style flagship electric sedan meant to go toe-to-toe with the Tesla Model S. Mercedes Chairman Ola Kallenius explains this as an “S-curve” effect — it seems as if nothing is being done, then suddenly a new technology is everywhere and everyone has it. Work on the EQS started five years ago, according to Kallenius, along with half a dozen other EVs that Mercedes-Benz will put on sale in 2022 and the year after. Credit Tesla for sparking the change and proving that yes, there is a rather sizable market for premium EVs — it’s convinced the world to start building their own, and the world is about to become a much more interesting place because of it.\n\nRelated: All-Electric 2022 Mercedes-EQ EQS Sedan Starts at $103,360\n\nThis new Mercedes flagship sedan represents the future of the storied luxury brand. It’s a clean-sheet design on a new platform called Electric Vehicle Architecture that the automaker will use to create a whole lineup of vehicles, including the AMG EQS sedan, the EQS SUV and the EQE mid-size sedan and SUV coming soon. But first out the gate is a pair of high-zoot luxury sedans, the EQS450 Plus and EQS580 4Matic, that Mercedes is billing as electric alternatives to the traditional S-Class sedan, which itself was redesigned for the 2021 model year. But the mission of the EQS is different from that of the S-Class — the EQS embodies the automaker’s new “progressive luxury” aesthetic, as opposed to the S-Class’ more traditional “sophisticated luxury” idea. That means a lot more tech, more adventurous design and a new attitude toward how a Mercedes-Benz should look, feel and work. I drove the new models through Northern California to get an idea of what it’s billed as its future and came away impressed … mostly.\n\nPick Your Powertrain\n\nThe biggest difference between two the EQS models available at launch is in the powertrain: The EQS450 Plus is a rear-wheel-drive single-motor model making 329 horsepower and 419 pounds-feet of torque. The EQS580 4Matic is an all-wheel-drive dual-motor model generating a whopping 516 hp and 631 pounds-feet of torque. They use the same battery: a 112-kilowatt-hour lithium-ion unit that rests in the vehicle’s floor. Mercedes-Benz says it can be recharged in about 11 hours on a 240-volt Level 2 charger (rated at 32 amps), or it can go from 10% to 80% charge on a 200-kilowatt DC fast charger in about 31 minutes. Like almost all EVs, each EQS is torque-y and quick — Mercedes reports that the 450 Plus will do 0-60 mph in 5.9 seconds, while the more powerful 580 will do it in 4.1 seconds. These are exceptional numbers for such a heavy vehicle (about 5,600 pounds for the 450 Plus and just under 5,900 pounds for the 580).\n\nMercedes-EQ EQS580 | Cars.com photo by Aaron Bragman\n\nOut on the street, both models feel like excellent heirs of the Mercedes-Benz S-Class ideal — they’re incredibly smooth, whisper quiet and deliver acceleration in an instant rush that comes at the stab of the accelerator without any fury, drama or visceral cues. While maybe not as tightly wound as a top Tesla Model S, that’s likely to matter only at a drag strip. The mission of an EQS is to be an electric S-Class, which is more about confident wafting between home and office than carving corners in your favorite canyon (and if that’s really what you want to do, maybe wait for the high-performance AMG EQS that’s coming a few months after the lesser EQS models). The EQS’ steering is only moderately communicative, but then, so is that of an S-Class. The real trick with the steering is the effect the rear-axle steering function has on the car’s agility — it’s astonishing. The rear wheels can turn up to 10 degrees, assisting the front wheels in shortening the car’s turning circle in urban settings, or improving its agility on tight and twisty roads. It works beautifully, making the big EQS feel like a much smaller car to drive in any environment.\n\nThe ride is butter smooth thanks to a standard air suspension, and even when turned to Sport mode, it’s only a tick firmer. This is not a sports car — it’s a grand touring sedan, and nothing from the outside should disturb your zen. Acceleration from the single-motor 450 Plus is brisk, but stomp the pedal in the 580 4Matic and it’s downright neck-snapping. The duality of their personalities makes me smile — it’s a mild-mannered, floaty luxury sedan until you floor the accelerator, then the best quality of EVs becomes clear: immediate torque at zero rpm. That means confidence in getting onto that highway ramp ahead of that truck, or making it through that next traffic light before it turns yellow. Either EQS goes, turns and rides beautifully … but it doesn’t stop so well.\n\nMercedes-EQ EQS580 | Cars.com photo by Aaron Bragman\n\nThe problem with how the EQS works is the brakes — they’re simply terrible. They’re a combination of electric regenerative braking and traditional hydraulic friction operation, and the mixing is poorly tuned. There are four levels of “recuperation,” as Mercedes-Benz calls it: None, which lets the car coast freely; Normal, which employs a modicum of motor braking to recapture some energy; Automatic, which determines on its own how much to apply based on a number of factors; and Maximum recuperation, which is the one-pedal-driving option that many EV owners love to use. In any condition, the brake pedal has a super-long travel and spongy feel, inspiring no confidence whatsoever in the car’s braking feel. In Maximum recuperation mode, it even moves the brake pedal on its own when coming to a stop, so when you go to push the pedal, it’s not actually located where you thought it was; that causes you to push faster and harder than you’d planned to, creating a more abrupt panic stop. The braking feel and performance is extremely un-Mercedes-like, and it’s the only true blemish on an otherwise sublime driving experience. It’s not enough to be a deal breaker for the EQS, but it did prevent me from switching the car into one-pedal driving mode most of the time.\n\nThat Screen, Good Lord …\n\nPlop yourself into the posh front seats and there’s only one thing that will rivet your attention: the accurately named Hyperscreen, a stunning, single 56-inch piece of curved glass behind which rests three different digital displays. The 12.3-inch gauge cluster is located behind the steering wheel, while a 17.7-inch organic light-emitting diode display graces the center console, while another 12.3-inch OLED display sits in the passenger-side dash, allowing the co-pilot to operate various functions. It’s a jaw-dropping combination of gorgeous technological wizardry and a bizarrely designed expanse of super-reflective glass that will glare the outside sunshine into your eyes regardless of which angle the car is facing. It’s also confusingly tall, meaning you need to adjust the steering wheel to an unnaturally high position in order to see the gauge cluster, resulting in an “arms-up” driving position that is not comfortable. You’re likely to end up holding the steering wheel at the 4 and 8 o’clock positions instead of the 10 and 2 positions to give your arms a break now and then.\n\nMercedes-EQ EQS580 | Cars.com photo by Aaron Bragman\n\nBut the Hyperscreen is stunning to behold, and it’s perhaps the biggest departure from traditional ideas of Mercedes-Benz luxury, even more so than the EQS’ wild cab-forward, “one-bow” exterior design. The huge central screen is daunting at first due to the massive amount of information it delivers, and it does something we generally hate in all new cars: It incorporates nearly all of the controls into a capacitive-touch-sensitive interface, which is both distracting to use while driving and generally less easy to use than dedicated buttons. But the sheer size of the thing makes it a bit easier once you’ve progressed through the learning curve of where everything is located and how it works. Older Mercedes-Benz buyers will almost certainly be hopelessly lost trying to use any of it. Younger ones, people for whom an advanced luxury EV like this is primarily a tech toy first and transportation device second, will likely take to it immediately.\n\nMercedes-Benz’s latest augmented reality tech, also seen in the S-Class, is present in the EQS, and it’s just as amazing as ever. Not only will a camera display an actual live picture of the way forward in the central screen with floating blue arrows over the route you’re to take, but those arrows are actively duplicated in the massive head-up display in the driver’s line of sight. It’s frankly remarkable, and seems to be just one step away from the whole windshield eventually being an augmented reality screen.\n\nFlagship Material?\n\nOnce you’re done gawping at the unprecedented digital displays, taking a closer look at the rest of the cabin reveals that this … simply isn’t as nice as an S-Class, either in space or materials. First, space: The EQS interior feels considerably more intimate than the S-Class’ roomy environs. The front-seat space feels narrower, and when it combines with thick windshield pillars, the unusually tall dash, and a low and racy roofline, the EQS doesn’t feel as spacious as an S-Class or Model S. Then you pop into the backseat and realize this doesn’t feel like an S-Class at all. The backseat is higher than normal, but the floor feels taller, too, creating a slight knees-up position. Legroom is fine, but headroom is not. Sitting in the back, my head was hard up into the headliner, and combined with the high beltline, narrow windows and dark upholstery of my test cars, it felt positively cavelike in the rear. Here’s to hoping a long-wheelbase model is coming eventually to help address that. The upcoming EQS SUV might be more popular than the sedan due to likely increased high-up airspace in the cabin.\n\nMercedes-EQ EQS580 | Cars.com photo by Aaron Bragman\n\nMaterials quality is also important in a luxury flagship, but there are a few obvious places where Mercedes-Benz cut some corners, likely due to the hugely expensive battery. The center console is that place, with a hard plastic consistency and hollow-sounding construction that simply did not feel up to S-Class standards. There’s also a ton of windshield reflection from the head-up display’s smooth, plastic housing surround that manifests in unwelcome light artifacts in the driver’s line of sight near the HUD. (Why this isn’t a flocked surface to diffuse any reflection boggles me.)\n\nMore From Cars.com:\n\nMercedes EQC, Self-Driving Audis and Other Things That Never Came to Be\n2022 Mercedes-EQ EQB: The GLB Goes Electric\n2023 Mercedes-EQ EQE: Like the EQS, in a Smaller Package\nHere Are the New Electric Vehicles Planned by 2025\n2021 Mercedes-AMG GLA45 Review: Upright and Awkward\nThe Wave of the Future\n\nLike it or not, Mercedes-Benz executives said at the launch drive event in San Francisco that electrification and touch-sensitive interiors are here to stay. For the old generation of Mercedes-Benz intenders, this is going to be a painful transition. But for bringing in legions of new buyers, the shift in how the company approaches its vehicles will be extremely enticing. For a Model S buyer who recognizes the cachet of the historic brand but still wants a fully modern vehicle, the EQS should be amazingly compelling. It features some of the most gee-whiz interior lighting of any modern vehicle, and can even be tuned to play tunes and tones that make it sound like a spaceship when accelerating. It will come with a high level of semi-autonomous driving tech, but also a significant amount of suspension sophistication that many upstart automakers can’t match.\n\nIt’s even priced squarely among the new crop of high-zoot luxury EVs, such as the Tesla Model S, Porsche Taycan, Audi e-Tron GT and Lucid Air. Mercedes-Benz has created a new sub-brand to house all EQ models called Mercedes-EQ, which joins Mercedes-AMG and Mercedes-Maybach. Both models, EQS450 Plus and EQS580 4Matic, are available in three trim levels: Premium, Exclusive and Pinnacle. Premium comes very well equipped with a starting price of $103,360 (including a surprisingly reasonable $1,050 destination fee) for the 450 Plus and $120,160 for the 580 4Matic. The loaded Exclusive trim starts at $106,760 for the 450 Plus and $123,560 for the 580 4Matic. The big difference between the Exclusive and the Pinnacle comes in their backseats — Pinnacle adds all kinds of limousine-like features, including reclining rear seats, and starts at $109,560 for the 450 Plus and $126,360 for the 580 4Matic. That’s a consistent $16,800 gap between the 450 Plus and the 580, and while there are some minor styling and wheel differences, you’re largely paying mostly for the standard Hyperscreen and the second motor with AWD system.\n\nMercedes-EQ EQS580 | Cars.com photo by Aaron Bragman\n\nFrankly, as nice as the explosive power is from the 580 4Matic’s dual-motor setup, the lighter single-motor 450 Plus is the way to go. It’s more agile, nearly as quick and can be optioned up to the 580’s level of equipment easily enough. Both of them are truly impressive machines, and as cars designed to draw EV intenders into the Mercedes-EQ brand, they’re going to be massively successful, in my opinion. It’s going to be a whole new era at Mercedes if all the EQ cars end up with this level of astonishing tech, smooth operation, swift recharging and head-turning style. I expect an EQS Maybach model will address the few interior shortcomings. I hope a concerted effort to improve the braking performance is also in the cards. Furthermore, I hope that buyers will be patient in learning the myriad multimedia systems’ quirks and stick with it through the learning curve. There’s a lot to like in the new EQS — but also some things that need to be addressed.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_44995",
+          "price": "$44995",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/5a7c4447-8eae-4b95-accd-04a8f561fc0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/40c0ac47-c078-4dae-97e7-26ae8bd7f855.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/5a813690-4ef9-4e14-8c55-9119d3a8249c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/228d6174-72fa-4bc8-bd42-45dd3a0c272f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/a47def3f-7804-4656-a750-9738fc332e2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/b2568573-e2b1-40de-b7d9-5ae67d7c008e.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/7e75f535-7ac8-4a96-b35f-8bf2c1ccbe14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/9013c20b-601e-4873-89a1-6c294416e299.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/5a813690-4ef9-4e14-8c55-9119d3a8249c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b3f74da4-baed-4e6b-9f01-0dfca6f29ddf/6f5dd507-ea30-4499-a7b8-c9163d1e9ea5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/f1cc2ba0-81b2-4b45-b9fa-9c1122a8ecf9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/efc350cb-38fd-4d06-b067-36edcfecbc30.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/ccf71f15-7428-4608-af85-b45b43193e30.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cb5c1c67-0c46-4e08-92f9-f7113cc75636/36997e42-5407-49ac-8933-b3d50e349cfb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/5589d385-f324-4791-9cc5-ba686e1e1d8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/db2d31b7-b4d3-43cc-98b2-b1b9b23f94ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/8f704b70-83d8-4a71-8d11-0fcb493299a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/a2142347-fb08-42bb-8912-c32a04494319.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/0ab7905e-a6b6-4cdf-ad48-48a38e7491c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/19a8dc42-f71c-43f1-acff-42a5a6158db2/46a26184-c697-4127-9c3e-8233870c3f46.png"
+      ],
+      "expert_review": "What Is the 2025 Mercedes EQS?\n\nThe Mercedes EQS Sedan and SUV are the German luxury automaker’s flagship electric vehicles. Both body styles have five seats, and the SUV offers an optional third row for a seating capacity of seven. The sedan has a hatchback-style trunk lid and cargo area, giving it improved versatility over a traditional sedan. Both body styles are available in three trim levels: 450+ (with a 355-horsepower, single-motor rear-wheel-drive powertrain), 450 4Matic (with a 355-hp, dual-motor all-wheel-drive powertrain) and 580 4Matic (with a 536-hp, dual-motor AWD powertrain). Exclusive to the Sedan is a high-performance EQS AMG trim with a 649-hp version of the EQS580’s powertrain. The EQS SUV offers an ultraluxury Maybach EQS680 variant that also has 649 hp and AWD along with decadent trim and coddling luxury features. \n\nAmong the EQS lineup’s noteworthy available features are a 56-inch Hyperscreen digital dashboard, rear-axle steering, massaging rear seats, and a detachable touchscreen tablet for backseat passengers. The Maybach EQS680 even offers massaging calf rests, a beverage chiller and silver champagne flutes. The EQS sedan’s rivals include the Audi E-Tron GT, BMW i7, Lucid Air, Porsche Taycan and Tesla Model S. The EQS SUV competes with the Audi Q8 e-Tron, BMW iX, Porsche Macan EV, Rivian R1S and Tesla Model X.\n\nWhat’s New on the 2025 Mercedes EQS?\n\nThe EQS Sedan gets new regenerative-braking software and a larger, 118-kilowatt-hour battery for improved driving range, as well as exterior styling tweaks, including a new grille design. In addition to the aforementioned updates, the AMG EQS Sedan also gains a center airbag between the front seats as standard equipment. \n\nThe EQS SUV gets additional standard equipment and an optional Automatic Comfort Door Package that enables fully automatic closing of the front and rear doors. The SUV’s uplevel Exclusive and Pinnacle trims gain a high-efficiency particulate air cabin filtration system. \n\nHow Much Range Does the 2025 Mercedes EQS Have?\n\nThe EQS’ EPA-estimated driving range runs from 302 to 390 miles, depending on body style, trim level and drive wheels.\n\nHow Long Does It Take to Charge the 2025 Mercedes EQS?\n\nThe EQS battery can be charged from 10% to 100% in about 12 hours using a typical 240-volt Level 2 charger. You’ll need only 30 minutes to go from 10% to 80% when using a Level 2 DC fast-charging connection. These times apply to both the Sedan and the SUV.\n\nWhat Features in the 2025 Mercedes EQS Are Most Important?\n\nStandard features include:\n\n56-inch curved-dash Hyperscreen\nLeather upholstery\nPower-adjustable front seats\nHeated and ventilated front seats\nPower-operated trunk or liftgate\nWireless Apple CarPlay and Android Auto\nAmbient interior lighting\nWireless device charging\nSatellite radio\nNavigation\n15-speaker Burmester audio system\nFront and rear cross-traffic alert\nLane departure steering assist\nLane-centering steering\nBlind spot warning\n360-degree camera system\nAdaptive air suspension  \n\nAvailable features include:\n\nNappa leather upholstery\nHead-up instrument display\nFour-zone climate control\nRear refrigerator\nCabin fragrance diffuser\nHeated rear seats\nFolding seatback-mounted tables\nMassaging front and rear seats\nDetachable touchscreen tablet for backseat passengers\nShould I Buy the 2025 Mercedes EQS?\n\nWhether you choose the Sedan or the SUV, the Mercedes EQS is a tech-forward EV packed with cutting-edge features — almost to the point of overkill. The newly standard 56-inch Hyperscreen dashboard looks like something from a sci-fi movie, but its myriad functions will require time and patience to master, and it’s prone to distracting glare and reflections. Acceleration is a strong point across the line: It’s brisk in 450 trims and stunningly fast in higher ones. The Sedan’s passenger space and ergonomics are disappointing for a large flagship vehicle, though, so unless you prioritize style, the SUV is the more versatile and practical choice — especially given it’s priced about the same as the Sedan.",
+      "trims": [
+        {
+          "name": "EQS 580 4MATIC Sedan",
+          "price": "$127350",
+          "specifications": {
+            "Notable features": [
+              "Full-size, luxury electric sedan-shaped hatchback or SUV",
+              "Single-motor RWD or dual-motor AWD powertrains",
+              "Up to 200-kW DC fast-charging capability",
+              "Up to 390 miles of EPA-estimated range",
+              "High-performance AMG sedan and ultraluxury Maybach SUV versions"
+            ],
+            "Highlights": [
+              "285 - 371 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "536 SAE Net Horsepower @ RPM",
+              "633 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,864 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Brake Assist",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "EQS 580 4MATIC SUV",
+          "price": "$128200",
+          "specifications": {
+            "Notable features": [
+              "Full-size, luxury electric sedan-shaped hatchback or SUV",
+              "Single-motor RWD or dual-motor AWD powertrains",
+              "Up to 200-kW DC fast-charging capability",
+              "Up to 390 miles of EPA-estimated range",
+              "High-performance AMG sedan and ultraluxury Maybach SUV versions"
+            ],
+            "Highlights": [
+              "285 - 330 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "633 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,327 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/39d86ab6-713c-4f88-89da-45898ff827de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/f4522e30-d50d-4f7a-89b0-f36e6b43e587.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/88036889-6baa-4ffa-9750-02c6b3c7deac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/276496f0-2e48-4160-ae17-d32f6fe55343.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/a0fb276a-ea91-49fb-9136-3ff3d0f554a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/ab7de149-4dc1-457b-a202-222204973903.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0759c7f4-0904-44f1-97b6-9698107f67b1/2bf2d56c-c9da-4bab-a9de-9ff9f33b4c3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/6afa6af7-2531-4dce-868e-52205e59bc85.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/09d43a87-a1f2-4736-9c16-ddc0554d6956.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/56122488-79ba-4fd4-b833-317ea40e3570.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/5fb8a416-e8f8-4d71-9d67-2083d37edc7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/777da9fb-3159-4636-a6a3-796a2022550f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/bff64b6e-d7c5-4d2d-b6b7-300238774293.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/313a459b-8d11-48c4-93ba-56817e0fdba4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/a79977f1-f108-413c-a8f9-0ad2e9c2f2af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/54e1d4a1-582f-49b0-a755-a0a99bb09b86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/391306a7-07f0-446c-ac8d-47bd4d2ca6ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/0b80a2db-28cd-4d14-8fdf-de2256297182.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/a378f823-6d24-4bfa-89da-6bb61c7f0658.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/5ba813a7-2984-4433-920d-345963d7bc5a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/ba3fb1d3-e2cc-4913-897f-97fb613f2771.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0eecd313-66ca-4a5c-be52-f40fd29188b2/468f0f18-6303-40da-82db-e6f63b6ddff6.png"
+      ],
+      "expert_review": "What Is the 2024 Mercedes-EQ EQS?\n\nThe Mercedes-EQ EQS sedanlike hatchback and SUV are the German luxury automaker’s flagship electric vehicles. Both body styles have seating for five people, and the SUV offers an optional third row for a seating capacity of seven. The sedan has a hatchback-style trunk lid and cargo area, giving it improved versatility over a traditional sedan. Both body styles are available in three trim levels: 450+ (with a 355-horsepower, single-motor rear-wheel-drive powertrain), 450 4Matic (with a 355-hp, dual-motor all-wheel-drive powertrain) and 580 4Matic (with a 536-hp, dual-motor AWD powertrain). Exclusive to the sedan is a high-performance EQS AMG trim with a 649-hp version of the EQS580’s powertrain. For 2024, the EQS SUV adds an ultraluxury Maybach EQS680 trim that also has 649-hp and AWD, along with decadent trim and coddling luxury features.\n\nAmong the EQS lineup’s noteworthy available features are rear-axle steering, massaging rear seats and a detachable touchscreen tablet for backseat passengers. The Maybach EQS680 even offers massaging calf rests, a beverage chiller and silver champagne flutes. The EQS hatchback’s rivals include the Audi E-Tron GT, BMW i7, Lucid Air, Porsche Taycan and Tesla Model S. The EQS SUV competes with the Audi Q8 e-Tron, BMW iX, Porsche Macan EV, Rivian R1S and Tesla Model X.\n\nWhat’s New on the 2024 Mercedes-EQ EQS?\n\nIn addition to the debut of the Maybach EQS680, the EQS lineup also sees several incremental updates for 2024. The expansive 56-inch Hyperscreen curved-glass dashboard is now standard on every EQS, and some trims get increased horsepower and driving range. The braking system has been revamped, gaining new software that Mercedes says improves pedal feel and regenerative braking. AWD models can now disengage the front electric motor to reduce powertrain drag and increase driving range.\n\nHow Much Range Does the 2024 Mercedes-EQ EQS Have?\n\nThe EQS’ EPA-estimated driving range runs from 280 to 352 miles, depending on body style, trim level and drive wheels.\n\nHow Long Does It Take to Charge the 2024 Mercedes-EQ EQS?\n\nThe EQS’ battery can be charged from 10% to 100% in about 12 hours using a typical 240-volt Level 2 charger. You’ll need only 30 minutes to go from 10% to 80% when using a DC fast-charging connection. These times apply to both the hatchback and the SUV.\n\nWhat Features in the 2024 Mercedes-EQ EQS Are Most Important?\n\nStandard features include:\n\n56-inch curved-dash Hyperscreen\nLeather upholstery\nPower-adjustable front seats\nHeated and ventilated front seats\nPower-operated liftgate\nWireless Android Auto and Apple CarPlay\nAmbient interior lighting\nWireless device charging\nSatellite radio\nNavigation\n15-speaker Burmester audio system\nFront and rear cross-traffic alert\nLane departure steering assist\nBlind spot warning\nSurround-view camera system\nAdaptive air suspension\n\nAvailable features include:\n\nNappa leather upholstery\nHead-up instrument display\nFour-zone climate control\nRear refrigerator\nCabin fragrance diffuser\nHeated rear seats\nFolding seatback-mounted tables\nMassaging front and rear seats\nDetachable touchscreen tablet for backseat passengers\nShould I Buy the 2024 Mercedes-EQ EQS?\n\nWhether you choose the sedan or the SUV, the Mercedes-Benz EQS is a tech-forward EV packed with cutting-edge features – almost to the point of overkill. The newly standard 56-inch Hyperscreen dashboard looks like something from a sci-fi movie, but its myriad functions will require time and patience to master, and it’s prone to distracting glares and reflections. Acceleration is a strong point across the line; it’s brisk in 450 trims and stunningly fast in higher ones. The sedan’s passenger space and ergonomics are disappointing for a large flagship vehicle, though, so unless you prioritize style, the SUV is the more versatile, practical choice – especially given it’s priced about the same as the sedan.",
+      "trims": [
+        {
+          "name": "EQS 580 4MATIC SUV",
+          "price": "$127350",
+          "specifications": {
+            "Notable features": [
+              "Full-size, luxury electric hatchback or SUV",
+              "Single-motor RWD or dual-motor AWD powertrains",
+              "Up to 200-kW DC fast-charging capability",
+              "Up to 352 miles of EPA-estimated range",
+              "High-performance AMG sedan and ultraluxury Maybach SUV versions"
+            ],
+            "Highlights": [
+              "285 - 330 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "633 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Fuel Tank Capacity, Approx",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "6,327 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EQS 580 4MATIC Sedan",
+          "price": "$127350",
+          "specifications": {
+            "Notable features": [
+              "Full-size, luxury electric hatchback or SUV",
+              "Single-motor RWD or dual-motor AWD powertrains",
+              "Up to 200-kW DC fast-charging capability",
+              "Up to 352 miles of EPA-estimated range",
+              "High-performance AMG sedan and ultraluxury Maybach SUV versions"
+            ],
+            "Highlights": [
+              "285 - 345 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "633 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,765 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/ae407a4b-fa61-4842-b1d0-b2539c9f82ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/c13ee25a-ce96-48be-a645-5efe09bf52a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/e171c71c-91fa-4de3-af16-113da16432c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/d8c7d2c1-2b61-45ef-913c-912d3277ddef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/eaf7e542-0ee5-4aca-b6ad-46329b6bd087.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/78e88348-643a-4928-a63e-b140c8a880fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/922eb8ad-62e2-4038-803e-ef9d17054e50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/d13dff36-8c85-445f-b1ec-60e4b4e80f50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/d83e3941-7303-4ff0-bf96-0fca18ad86c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/eb712fde-41f6-4f03-817b-9e90b8dda5b7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/b90a68f0-6365-407e-a12a-bb2bb68fb330.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/e7d10e20-67e0-4e2b-b044-7619a3eaca36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/e3dac319-8b6c-4c12-9d87-b346455e34f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/9ce8d78f-f123-4577-80c8-17f4035accf8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/23506329-a89b-4350-8bc3-8997dad32258.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/fff551e1-b066-4bfb-96b3-20824220a8e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/33804ae3-df15-4837-90ce-71be64d246ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/b90a68f0-6365-407e-a12a-bb2bb68fb330.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/1df8d93a-04b6-4756-b9b1-1bef0c862519.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/8eeb8748-05fb-4a88-abb0-dc6dd23a2f6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/673767ac-85c9-47b0-b310-e3ffe1cd4bb2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/428023c1-a69a-400e-8305-f8c9d431c3de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/6a0494d4-d249-4a24-87c1-f0b702404745.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/b720ed02-da8f-4c5f-b886-dd7fe13d47f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/405ed82b-b37b-4877-9702-6d0a6d07a37d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/b4b27fc0-a6e3-46ac-9dbf-51ee4cf97d14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/aff57f00-a55b-46e6-8317-06431c7dc8fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/96d1ec54-590c-4f07-a8d4-f86a5e46ce35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/6a450885-32b0-41a5-ac0e-aeb8baa4a44a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a2867c47-3a89-4fb7-9d45-25a9feea6b9e/518d0f66-92ca-42e8-a077-0c208c53a032.png"
+      ],
+      "expert_review": "Competes with: Audi e-tron, Tesla Model X, Volvo C40 Recharge, Jaguar I-Pace\n\nLooks like: A higher-riding version of the EQS sedan\n\nPowertrains: 107.8-kilowatt-hour battery pack; 355-horsepower, single motor and rear-wheel drive (450 Plus) or 536-hp, dual motors and all-wheel drive (580 4Matic)\n\nHits dealerships: Late 2022\n\nFollowing in the tracks of the all-electric Mercedes-EQ EQS sedan is the brand’s first all-electric EQS SUV. While the first SUV from Mercedes-Benz’s EQ sub-brand — the EQC SUV — never made it to the U.S. market, the 2023 EQS SUV is expected to arrive later this year with a single-motor RWD base model and a more powerful dual-motor AWD variant.\n\nRelated: 2022 Mercedes-EQ EQS Review: Ze Germans Embrace ze Future\n\nAccording to the automaker, the battery-powered EQS SUV offers more space for occupants than its sedan counterpart, an aerodynamic exterior design and an interior that promotes relaxation, even encouraging power naps during driving breaks. While the automaker only provides specs for the European model, the SUV promises a generous range that should outperform the competition.\n\nExterior\n\nThe EQS SUV shares a long wheelbase with the EQS sedan, but the SUV sits nearly 8 inches taller. The all-electric SUV is comparable in size to its gas-powered counterpart, the GLS-Class SUV, which is slightly taller and longer but has a 3-inch shorter wheelbase. The vehicle’s adjusted dimensions give it a wagonlike exterior appearance compared to the more traditional exterior of the GLS-Class.\n\nThe EQS SUV sports a smooth exterior with minimal creases and flush door handles; Mercedes says the vehicle’s shape, wheels and mirror placement were designed for aerodynamics. The vehicle’s front and rear end take cues from its EQS sedan sibling. In front, the EQS SUV sports a dark faux grille with the headlights and daytime running lights incorporated as well as various sensors used for the driver-assist functions. The rear features a single curved light bar that encompasses the SUV’s LED taillights. The SUV comes with a panoramic moonroof and rides on 20- or 21-inch wheels.\n\nInterior and Tech\n\nInside, the EQS SUV features a standard two-row, five-seat configuration and an optional third row with seating for up to seven. According to the automaker, the SUV’s long wheelbase and tall height make for a spacious interior with above-average headroom and shoulder room. High-quality materials including leather, leatherette and a new wood-aluminum hybrid trim are used throughout the interior with neutral trim color options including gray, brown and beige.\n\nMercedes’ large available Hyperscreen seen in the EQS sedan and smaller EQE also makes its way into the automaker’s first electric SUV. Stretching across the entire width of the dashboard, the 56-inch screen, which comes standard on the AWD model, combines a 12.3-inch instrument cluster, 17.7-inch center touchscreen and a 12.3-inch passenger display. There’s also an available rear-seat entertainment system with dual 11.6-inch screens.\n\nAn available wellness system that includes ambient lighting with seven colors, three acoustic nature themes and a new power-nap function for driving breaks — such as waiting at a charging station — encourages relaxation. The power-nap function reclines the front seats, closes the windows and blinds, and adjusts the sound and ambient lighting to facilitate rest.\n\nPerformance, Range and Charging\n2023 Mercedes EQS SUV | Manufacturer image\n\nTwo variants of the EQS SUV will be available at launch, both utilizing a 107.8-kWh battery pack. The base 450 Plus offers a single-motor RWD system for 355 hp and 419 pounds-feet of torque. The dual-motor AWD 580 4Matic model increases horsepower to 536 with 633 pounds-feet of torque. A standard air suspension offers four driver-selectable modes — Eco, Comfort, Sport and Individual — and 580 4Matic models add an Offroad mode for mild off-pavement pursuits.\n\nAccording to Mercedes, the EQS SUV will get approximately 373 miles of range on a single charge, but that estimate is based on the European test cycle, which is different from the U.S.-based EPA ratings. If it can match the range prediction for the U.S. market, the EQS SUV will be well positioned among its rivals: The 2022 Audi e-tron gets an EPA-estimated 222-mile maximum range; the 2022 Volvo XC40 Recharge travels 223 miles, according to EPA estimates; and the Tesla Model X gets an EPA-rated maximum 348-mile range.\n\nUsing a 240-volt/32-amp home charging system, the estimated charge time for the EQS SUV is 11.25 hours. The SUV can charge from 10% to 80% in 31 minutes using DC fast charging at 110 kilowatts and up to 200 kW at compatible DC fast charging stations. Two complimentary years of DC fast charging from Electrify America’s charger network is included.\n\nSafety\n\nThe EQS SUV includes a standard driver-assist suite with adaptive cruise control, hands-on lane-centering steering assistance, blind spot warning with collision intervention, automatic forward emergency braking with pedestrian and cross-traffic detection, and more.\n\nA standard Parking Package works with a 360-degree camera and the vehicle’s other driver-assist technologies to monitor surroundings, automatically guide the vehicle into a parking spot and warn the driver of possible collisions and limit the driving speed.\n\nThe EQS SUV’s head-up display is offered in two sizes, including an available augmented reality display with three-dimensional images. A new safety feature — occupant presence reminder — alerts drivers to check the rear seats to ensure passengers aren’t left behind.\n\nPricing and Release Date\n2023 Mercedes EQS SUV | Manufacturer image\n\nThe 2023 Mercedes EQS 450 Plus and EQS 580 4Matic will be available in late 2022. Pricing for both the EQS SUV and sedan will arrive with a six-figure price tag, starting at $105,550 (all prices include destination charge).\n\nMore From Cars.com:\n\n2022 Mercedes EQS: Think of It as an Electric S-Class\nWhat to Know Before Purchasing an Electric Vehicle: A Buying Guide\n2022 Mercedes-EQ EQS: 6 Things We Like and 4 We Don’t\n2023 Mercedes-EQ EQE: Like the EQS, in a Smaller Package\nHere Are the New Electric Vehicles Planned by 2025\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "EQS 580 4MATIC SUV",
+          "price": "$125950",
+          "specifications": {
+            "Highlights": [
+              "285 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "633 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,228 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "EQS 580 4MATIC Sedan",
+          "price": "$125950",
+          "specifications": {
+            "Highlights": [
+              "285 - 340 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "631 SAE Net Torque @ RPM",
+              "516 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,888 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,966 @@
+{
+  "make": "tesla",
+  "model": "model_x",
+  "years": {
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/51d7e0f4-fa5f-4288-9983-a4fe440849f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/9deff24a-c958-444b-bf87-b50d4f96e69a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/ea237305-5554-4f51-90d4-6af6292bc397.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/bcd4d359-bf0c-4739-9beb-934bad0b77f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/b672e5f0-cfd9-4c67-9057-b3cbac66bd71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/f92eae41-83b4-4eee-ae34-42bbea9c0f52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/c592171c-6194-4813-aff1-aab027685718.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/14b78025-285c-4601-87b0-62e941996528/258f83d6-152c-429c-9dcb-545baadd04c0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cd5a4bc1-721c-4176-8a31-72d27ec08eb6/0b6b80c3-2aa2-4ff5-aed8-f143ef460b39.png"
+      ],
+      "expert_review": "Tesla’s vehicles have always carried a futuristic, minimalist styling vibe, and the all-electric automaker is doubling down on that with an interior refresh for the Model S sedan and Model X SUV that include a steering wheel with a truncated rim as well as the absence of some key equipment, like a gear selector. Additionally, extra-powerful new Plaid and, for the Model S, Plaid Plus models join the updated interior as part of the refreshes.  \n\nRelated: Tesla Model S Smashes 400-Mile Range Ceiling\n\nThese updates should comprise the vast majority of available models, though not necessarily all of them — a representative on Tesla’s consumer site told us there are Model S examples in Tesla inventory “that were built before the updates.” Outside, styling changes are minor and limited to a new front bumper design with tweaked air intakes, a restyled rear diffuser and new wheel designs.\n\nTesla Model S, before (top) and after January 2021 updates | Manufacturer images\n\nInside, the changes are much bigger. They’re anchored by the new steering wheel that’s missing the top portion of the rim (think K.I.T.T. from “Knight Rider”) and a revised central multimedia screen; the large 17-inch screen now sits horizontally instead of its previous vertical orientation. Tesla says the system is more powerful, claiming it allows for in-car gaming on par with today’s newest consoles. Model S backseat and Model X second-row passengers get a smaller screen with the same multimedia and gaming functions; wireless controller compatibility is also possible from any seat, the automaker said. \n\nIn a controversial move, the new steering wheel has a blocky U-shape, but what it adds in aesthetics, it risks losing in functionality. There are no steering wheel stalks like there were with the gear-selector and turn-signal stalks on prior models; those functions have now been absorbed by touch buttons on the steering block. In a statement, Tesla says the move to this curious setup puts “the ultimate focus on driving: no stalks, no shifting.” Since shifting is an integral part of driving, we have questions about this, but we’ll reserve judgment until we can test it.\n\nTesla Model X, before (left) and after January 2021 changes | Tesla Model X\n\nThe lineups orderable on Tesla’s configurator as of this writing start with the Long Range, which in both the Model S and Model X has 670 horsepower, two motors and all-wheel drive. Tesla says the Model S Long Range sprints from 0-60 mph in 3.1 seconds, has a top speed of 155 mph and 412 miles of driving range on a full battery; the Model X will do 0-60 in 3.8 seconds and has a range of 360 miles. The sedan starts at $81,190, while the SUV starts at $91,190.\n\nTesla Model X, before (top) and after January 2021 changes | Manufacturer images\n\nUpgrade to the Plaid model (another “Spaceballs” reference on top of the movie tie-in for Tesla’s Ludicrous Speed) for a third motor, adding up to 1,020 hp and an absurd 1.99-second 0-60 time, 200-mph top speed and 390 miles of range in the Model S and 2.5-second 0-60, 163-mph top speed and 340 miles of range in the Model X. Both body styles start at $121,190.\n\nAnd because that might not be enough, there’s the Model S Plaid Plus. Tesla says it pumps out more than 1,100 hp and will hit 60 mph in less than 1.99 seconds. It has a top speed of 200 mph, 520 miles of range and a steep $141,190 price. (Range estimates appear strictly Tesla’s for now; as of this writing, the EPA’s published ranges for the 2021 Model S have yet to match.)\n\nThe 2021 Model S Long Range and Plaid models go on sale in March, with Plaid Plus models coming in late 2021. The 2021 Model X variants, meanwhile, go on sale in April.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Long Range Plus AWD *Ltd Avail*",
+          "price": "$79990",
+          "specifications": {
+            "Highlights": [
+              "351 - 371 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "557 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "557 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,960 lbs Maximum Trailering Capacity",
+              "5,534 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "4,960 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "496 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,960 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "496 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Performance AWD *Ltd Avail*",
+          "price": "$99990",
+          "specifications": {
+            "Highlights": [
+              "341 - 351 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "840 SAE Net Torque @ RPM",
+              "778 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,960 lbs Maximum Trailering Capacity",
+              "496 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,960 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "496 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,960 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,648 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Long Range AWD",
+          "price": "$104990",
+          "specifications": {
+            "Highlights": [
+              "351 - 371 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "670 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "5,185 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Plaid AWD",
+          "price": "$119990",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1020 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,390 lbs Base Curb Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/67e2e59b-7089-434a-9a8c-e962239625e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/a46627d5-7e95-41b1-a1b9-549846493c93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/ef63a9c0-b9e9-435e-95ec-3eff13e060f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/a2cc058a-3472-41ef-8d2c-cfbaf24f8721.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/be87c3e8-c790-45c7-9f2d-40a7d69ef358.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/40055c66-fa62-4748-af2b-4dd7c2fa2b44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/65c7be96-5889-4e3b-8d49-574a6458f05d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/cb9db0ab-60e0-4077-8c16-5c4d030556aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/e61f2f95-9b07-4312-9f13-c938c78affa1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/d1be6564-0993-4bd8-8c39-efb573e2c6a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/3f6e9828-528a-4e11-84c3-60349b03f165.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/03b8b29f-9347-4288-9004-16d9dc15265d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/978404c7-32e0-4cba-a992-75aa953ec3ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/6b6459a8-1739-46c5-b900-108b884fe268.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/1eef2ff0-d6b8-440c-a6f9-49aac84a44f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/052bd6fc-149b-44f8-8ad8-cbf399aa9cae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/f3cda888-370a-44c3-899f-b6621749c21d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/52493baf-f05f-495f-8bea-c9db786da1a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/7de40685-ba8c-40f0-b581-94bdb609ad70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/cb4b781d-11df-4f34-ace5-262b045b36a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/ed911739-c27a-43f4-b020-3dbdb24a190f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/6579b316-d2fa-4c53-8b05-ec46b32816db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/5b8be971-be3c-47d1-9057-d0ab1f0ee414.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/bc0996e4-b128-4c72-9eb8-1dec674f8006.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/190e4528-d99b-4b62-8ea3-988a9fc458d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/662b21bd-4736-4991-b631-2eeabd926ca0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9d67de52-032b-4a8b-b56c-aed8ce398395/d00ff271-0b10-4c47-823d-933a4f97e8e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/8fb7ae40-aa91-4c5c-8e54-30905e7417e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/52aa33c6-c92c-4588-8f41-061bf6cd8334.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/9cfd2bf1-1a77-45c8-a8ad-5a8d07476033.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/26a22e81-1e09-4ee7-b087-5bf324f3fd77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/d1150281-cc27-411d-bd19-13d8ea353353.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3e9b2e18-a21f-484b-81fb-40ec4af19ff8/ebd36648-84e1-4daa-a8d9-ff45e3f9f313.png"
+      ],
+      "expert_review": "Tesla’s electric cars and SUV may seem otherworldly and mysterious to those not ingrained in the Tesla-verse, especially the Model X SUV, with its “Star Trek”-like shuttle pod doors and 17-inch command center touchscreen. But while there is some showboating and gimmickry to the Model X,  it’s for the most part perfectly happy doing SUV things, just like other $100,000 luxury family vehicles.\n\nLooks Like a Spaceship and Drives Like One, Too\n\nIf a rush of acceleration tingles your senses, the Model X is for you; there’s little else out there (except for other Teslas) that offers the same instantaneous blast of acceleration. The Model X has two electric motors — one in front, one in back — providing electric all-wheel drive. Being an electric car, the Model X has no transmission in the conventional sense, which means there’s no downshifting or hesitation when you need to go, go, go. More than simply entertaining, it’s especially useful when trying to fit into a closing traffic gap.\n\nWe clocked the 100D’s zero-to-60-mph time at 4.76 seconds and its quarter-mile at 13.01 seconds at 108.7 mph. A Porsche Cayenne E-Hybrid has the same zero-to-60 rating, but it has only 14 miles of EPA-estimated electric-only range before switching to gas hybrid operation.\n\nThe Model X’s braking experience is equally impressive, with natural, linear brake-pedal feel that’s sometimes foreign even to non-electric cars. Its regenerative braking has Standard and Low modes to recapture energy and send the surplus to the battery. In Standard mode, the car decelerates quickly when you let off the accelerator and don’t step on the brake. In Low mode, it coasts longer and stops more like a normal car.\n\nRide quality is less impressive. The Model X doesn’t isolate occupants from the road like a Land Rover Range Rover or Mercedes-Benz GLS-Class. Its ride is busier and the wheels feel less controlled over broken pavement, plus the tires have noticeable impact noise. Perhaps it’s because there’s no hum of an engine, but I also think the available 22-inch wheels and rubber-band-thin Pirelli Scorpion Zero tires didn’t help separate the cabin from thumps and thwacks on the road. Also, suspension firmness isn’t independently adjustable, as it is on many luxury SUVs, but ride height is adjustable with the standard air suspension — and it has the exclusive trick of location memory, so you can program the Model X to always raise itself at a particular location to prevent scraping or bottoming out.   \n\nThe Model X weighs 5,421 pounds, and it feels that heavy when you try to challenge Sir Isaac Newton by throwing it into a corner. It isn’t eager to change directions, exhibiting ugly body roll, and its all-wheel drive doesn’t seem designed to help the SUV turn much, either. This weight isn’t abnormal for the class, however: Gas-powered Range Rovers and GLS550 SUVs tip the scales in the mid-5,550-pound range, too. If you want to carve corners, you’ll be happier with a Porsche Cayenne — or a sedan.\n\nAutopilot is for those who want less driving engagement instead of more, and Tesla’s semi-autonomous driving mode is among the more seamless on the market. Autopilot is a hands-on assist mode that uses auto steering and adaptive cruise control to follow the road and the car ahead while pacing with traffic, coming to a complete stop and restarting as needed. It’s not an uncommon feature in luxury cars, but the Model X was designed with more in mind as regulations and technology catch up: Tesla says a Model X with the $5,000 Enhanced Autopilot Package will provide “full self-driving capabilities in the future.” One feature the Model X doesn’t have is a traditional blind spot warning system with alert lights that illuminate in the side mirrors when a car is in your blind spot. The information is instead shown on the instrument panel via colors of varying intensity. It’s not as easily recognizable as a warning in the mirror, as other cars provide. \n\nRange Anxiety? What’s That?\n\nPerhaps most impressive is that the Model X can complete regular commuting or errands well before it depletes its 295 miles of EPA-estimated range, a feat to which only a couple of compact EVs come close: The Chevrolet Bolt EV goes 238 miles and the new 2019 Hyundai Kona Electric is good for 258 miles, as estimated by the EPA. To give you an idea of how unique almost 300 miles of range still is, the 2018 Nissan Leaf has a maximum of only 151 miles of range in its second generation.\n\nRange anxiety simply wasn’t a concern after a week using the Model X as my primary car — including commuting, daycare pickup, grocery and hardware store runs, etc. And that’s without the home charging station owners should have (public charging isn’t the way to go with any EV). The predictive range was eerily accurate — how did it know I was going to ignore its nav directions? — and for longer drives, the X’s navigation will plot a route with Supercharger stations in mind, providing an estimated arrival time with charging.\n\nSuperchargers are the fastest way to charge a Tesla, and their locations have multiple charging cables usable only by Teslas. The growing network of Tesla Supercharger stations in the Chicago area made living with the Model X doable without a home charging station for a short time. There’s a Supercharger on my way to work, and one just half a mile from Cars.com’s downtown Chicago headquarters. And much to my surprise, there was a Supercharger 20 minutes away from the drag strip where we tested the Model X’s acceleration.\n\nSuperchargers charge at a maximum rate of 120 kilowatts — kilowatts is a measure of charging speed, unlike kwh, which is a measure of capacity — but that wasn’t the norm in my brief experience. I observed the Model X accepting up to 116 kW for a short period during one charge, but it mostly charged at around 70-80 kW. Tesla recommends not sharing an adjacent Supercharger (1a and 1b, for example) to avoid splitting the charge rate between two vehicles. Also, the charge rate slows as the battery tops off. The Supercharger in the city was one of Tesla’s urban units, which are more compact and charge at a maximum of 72 kW. No need to worry about sharing chargers at those stations, as they provide that maximum charge regardless. I observed a consistent 70 kW at this station.\n\nI ended up adding an average of around 140 miles of range per hour when Supercharging was complete — an hour that could have easily been used at the Meijer grocery store near one location, or at the Nordstrom Rack, DSW or Whole Foods by the other. And the station near the drag strip? Yup, in an outlet mall.\n\nWhile doable, the cost of exclusively Supercharging could add up after a driver’s allowance of Supercharger credits is depleted. Included with the Model X are an annual 400 kwh of Supercharger credits, which works out to roughly 1,000 miles, Tesla says. After that, the cost depends on your area; in Illinois, Supercharging costs $0.24 per kwh, which is double the national average cost of household electricity. It would cost about $24 to recharge a completely depleted Model X 100D at a Supercharger station without any credits.\n\nMore likely than not for convenience and cost, it’ll still be best to have a 240-volt home charger installed. Tesla’s Wall Connector is currently $500 plus installation, which can cost anywhere from hundreds to thousands of dollars depending both on how much current you want to provide (which influences charging speed) and how far away your home’s electric service panel is. Tesla’s Wall Connector can charge up to 45 miles of range per hour if supplied with 72 amperes (a 90-amp circuit breaker). The provided Mobile Connector is good for a respectable 20 miles of range per hour if plugged into a 240-volt outlet rated for 32 amps (40-amp breaker). The only option that’s not feasible on its own is plugging this unit into a regular 120-volt household outlet, which added just 3 miles every hour in our observation.\n\nRoomy, and Pretty Nice Inside\n\nThe Model X’s tall side windows, spacious interior and large windshield that stretches over the first and second rows combine to provide an airy feel. Second-row passengers have little skylights built into the Falcon Wing doors for extra light. It gets a little tight in the optional third row, but as a slender 6-foot-tall adult, I thought it was still usable once back there. It’s not the easiest third row to access, however, because the second row doesn’t slide far enough forward. The captain’s chair configuration, with an aisle down the middle, might be the way to go for frequent third-row users, though that arrangement sacrifices one seat, making for a maximum of six occupants. Also, the captain’s chairs don’t fold flat like the second-row bench seat does, cutting back on maximum cargo space. The Model X also took a hit in our Car Seat Check, as the third row’s limited access, stiff upholstery and deep-set Latch anchors dinged its score for child seat accommodation.\n\nThe X’s interior is relatively simple but by no means cheap; the materials are supple and the fitment precise. The main focal point is the 17-inch touchscreen, which is the command center for vehicle controls and setup, as well as the multimedia system. Response is fast and the display is sharp and intuitively laid out, with easy-to-find menus. Controls you want to use frequently aren’t hidden in menus; there’s a way to quickly call up and control cabin temperature and fan speed through the steering-wheel controls, and though the seat-heater button is digital, it’s always front and center. Most automakers fail when they replace knobs and dials with exclusively touch controls, but Tesla did not. We had one glitch while driving, however, when the touchscreen and digital instrument panel both froze, requiring us to restart the screens by holding both steering-wheel thumbwheels, which fixed the problem. The Model X continued to drive in this state, but it was definitely disconcerting.\n\nIt’s Quirky\n\nThe Model X does things other SUVs doesn’t, for better and worse. Those Falcon Wing doors are unique, and so is the experience of living with them daily. The opening they provide is larger than that of a normal door, but I didn’t find it worth the trouble that comes with waiting for them to open — or giving passengers a tutorial on how to enter the car. They’re also attention-getters, attracting curious eyes in parking lots as people wait to see what will exit from the time-machine doors.\n\nThe self-presenting front doors are also power-operated, and it’s a fun trick to walk up to the car and have them open automatically, then close once you touch the brake pedal, but they never opened fast enough for it to be seamless; I always had to slow my approach in order for the door to open before I got to it. I simply didn’t like the feeling that the car was slowing me down, even if briefly. The rear doors, similarly, can introduce delays opening or closing when people or obstacles (real or perceived) are nearby. Fortunately, they’re smart and can be programmed to remember a specific location, so, for example, they’ll always open to a lower height in a garage or parking structure. They did a commendable job sensing obstructions and adjusting door height, but it does limit accessibility to have the doors so low in a parking garage. They can also be programmed to open fully when they sense an obstruction (like a tree branch) that isn’t truly in the way. In the end, we weren’t convinced these rear doors were worth the complexity, weight and cost.\n\nThe touchscreen, while powerful, isn’t at the forefront of smartphone integration: There’s no Apple CarPlay or Android Auto to work as an extension of your phone, utilizing podcast and streaming music apps or navigation, including Google Maps and Waze. Tesla’s map graphics are powered by Google, but the guidance is Tesla’s. I’m an iPhone user, yet Tesla doesn’t even offer Siri integration (as some automakers do in lieu of CarPlay), so there’s no voice-to-text function. All in all, it’s basic Bluetooth that feels like phone integration from five years ago. You aren’t likely to be too thrilled by it unless you’re a user of Slacker or TuneIn, both of which are integrated into the Model X. Integrated Spotify is not, at this time, though it is available in oversea markets.\n\nMoving past tech, what’s also strange are the thin and questionably useful sun visors. The large tinted windshield does a commendable job blocking the heat of the sun, but light is still an issue. The sun visors didn’t do the trick when the sun was low in the sky — probably not a problem in Seattle, but in Phoenix, I imagine it’s not great. A large mesh sunshade can be installed on the interior of the windshield to help block light and heat.\n\nTesla Model X in the Market\n\nThere’s technically not a model year assigned to the Model X, and for good reason; over-the-air updates through the standard onboard cellular connection or your home Wi-Fi can keep the car fresh. Some updates have a relatively small impact, but some change major systems and features, such as acceleration or braking. During our two-week loan, the Model X received two OTA pushes: One primarily updated background software, and the other provided owners the option to add a personal identification number lock screen, like on a phone, as an added security step to start the car. Instead of giving it a model year, it’s most accurate to call the Model X we tested Version 8.1 (2018.32.4).\n\nLarger releases happen less frequently, such as the introduction of Tesla’s version 9.0 operating system, which rolled out after we tested the Model X and included changes to Autopilot, adding suggested traffic lanes for most efficient driving, plus a 360-degree camera system, more warning when an object is detected in a blind spot, visual changes to the touchscreen layout, and even some Atari games.\n\nNo matter how you cut it, there isn’t another SUV that can improve as dramatically. With other vehicles, you’d have to buy an all-new car in the next model year to get similar updates. That’s one of the Model X’s biggest differentiations, along with its long electric range, instantaneous acceleration and flashy but usable touchscreen. The Model X is still out in left field with some of its aspiring technology, and perhaps if it were a little more traditional, it would be slightly less polarizing — but then it wouldn’t be the decidedly unique alternative that it is in the luxury class, the electric class and the entire class of SUVs.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "75D AWD",
+          "price": "$84000",
+          "specifications": {
+            "Notable features": [
+              "295 miles of rated electric range (100D)",
+              "Standard all-wheel drive",
+              "Zero-to-60 mph in 4.7 seconds (100D)",
+              "Captain's chairs or bench second row",
+              "Available third row",
+              "Seating for five, six or seven"
+            ],
+            "Highlights": [
+              "238 - 295 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "509 SAE Net Torque @ RPM",
+              "641 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "4,980 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,185 lbs Base Curb Weight",
+              "4,980 lbs Maximum Trailering Capacity",
+              "4,980 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "498 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "498 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "100D AWD",
+          "price": "$99000",
+          "specifications": {
+            "Notable features": [
+              "295 miles of rated electric range (100D)",
+              "Standard all-wheel drive",
+              "Zero-to-60 mph in 4.7 seconds (100D)",
+              "Captain's chairs or bench second row",
+              "Available third row",
+              "Seating for five, six or seven"
+            ],
+            "Highlights": [
+              "238 - 295 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "509 SAE Net Torque @ RPM",
+              "641 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,980 lbs Maximum Trailering Capacity",
+              "498 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,980 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "498 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,980 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,421 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P100D AWD",
+          "price": "$140000",
+          "specifications": {
+            "Notable features": [
+              "295 miles of rated electric range (100D)",
+              "Standard all-wheel drive",
+              "Zero-to-60 mph in 4.7 seconds (100D)",
+              "Captain's chairs or bench second row",
+              "Available third row",
+              "Seating for five, six or seven"
+            ],
+            "Highlights": [
+              "238 - 295 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "731 SAE Net Torque @ RPM",
+              "762 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "498 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,980 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,980 lbs Maximum Trailering Capacity",
+              "498 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,483 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "4,980 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/40ce030c-1f31-4ad7-8617-8f357a82f2cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/6a83a4d5-3cc6-45a0-b000-ef962f1a6d3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/b72cf4aa-bf33-4b3f-aec4-c4c603a7b664.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/d7237b1e-2d76-4d04-9226-59913499950b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/d888f4b3-741a-47bf-bade-39249bf0de02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/fca49ae0-eb7a-4803-89c9-5d66f292b430.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/97f396be-f7f0-49fe-966c-94468b23b0a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/e3930954-5043-47ce-b134-3e545cdf139f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/b7134cf3-7a9e-4bca-bcd0-a4210afba28e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/b97939fc-944b-43cc-8a0e-efa93ca024e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/fd91575a-7d16-42ae-ae44-b70432b422a5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/288f27e7-f5d2-42f0-a3e4-9c620da5e46f/8793adb4-deb7-49f3-9851-765d241d6081.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/3de83047-9579-4ace-8801-6e42f7facae2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/2af7b531-6f5f-492a-93e7-bac0bca79901.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/c7618d97-32b1-430d-939a-0bb391b7e18d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/d883dfbc-fc9f-4b70-b90f-52f34a8e67c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/9fc39c4d-30cb-4148-9e22-ff58aebee5c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/7d8218f8-6b69-42cc-b3ee-a645b819dfc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/accb4540-2dea-46a8-a735-4c62623d8a04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/5437e0ad-7aa0-476c-80b3-d84693340b5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/fde047d5-6d77-43c7-a4dc-6247b47bf70a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/986464b4-78bf-4482-b268-8989d49b2546/92392760-f009-495d-ac28-54bc37f2c8fd.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nTesla has updated its Model X SUV with a new base model. The Model X 75D replaces the old 70D and includes a larger 75-kilowatt-hour battery pack. The changes boost the base Model X’s range from 220 miles to 237 miles, but doesn’t affect acceleration or top-speed performance. Those remain given as 6.0 seconds from zero-to-60 mph and 130 mph, respectively.\n\nThe other models are the 90-kilowatt-hour P90 and P90D, with a Ludicrous Speed upgrade that’s optional on the latter. Both models employ front and rear electric motors with 259 horsepower apiece on the P90, or 259 hp up front and 503 hp in back on the P90D.\n\nWalk up to Tesla’s Model X and the front doors automatically open. The second-row “Falcon Wing” doors, also powered, go through an elaborate up-and-out sequence, and Tesla sensors in all four will detect an obstruction to stop before hitting it, whether an adjacent car or a low garage roof.\n\nSome other details Tesla revealed:\n\nWith no conventional engine, the hood opens to offer a second trunk. Tesla claims it can hold two golf bags.\nThe automaker says the Model X is the most aerodynamic SUV in the world, with a self-adjusting, three-position rear spoiler.The P90 has an EPA-estimated range of 257 miles, while the P90D’s range is 250 miles. Maximum towing capacity tops out at 5,000 pounds.\nThe climate control includes a massive high-efficiency particulate air filter, which enables “air cleanliness levels which [are] comparable to a hospital operating room in the car,” Tesla CEO Elon Musk said at the SUV’s Sept. 29 unveiling. A “bioweapon defense mode” maxes out the filtration, Musk continued, adding that “this is a real button.” Zombie apocalypse, do your worst.\nThe second-row seats tip forward, like in the Nissan Pathfinder and Infiniti JX-turned-QX60, to enable third-row access without having to remove a car seat from the second row. Here, they’re powered.",
+      "trims": [
+        {
+          "name": "AWD 4dr 60D *Ltd Avail*",
+          "price": "$74000",
+          "specifications": {
+            "Notable features": [
+              "Battery-electric drivetrain",
+              "Four-door hatchback seats 6 or 7",
+              "Front and rear cargo areas",
+              "Standard all-wheel drive",
+              "Standard active-safety features",
+              "Powered falcon-wing rear doors"
+            ],
+            "Highlights": [
+              "200 - 289 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "518 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,421 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr 70D *Ltd Avail*",
+          "price": "$80000",
+          "specifications": {
+            "Notable features": [
+              "Battery-electric drivetrain",
+              "Four-door hatchback seats 6 or 7",
+              "Front and rear cargo areas",
+              "Standard all-wheel drive",
+              "Standard active-safety features",
+              "Powered falcon-wing rear doors"
+            ],
+            "Highlights": [
+              "200 - 289 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "387 SAE Net Torque @ RPM",
+              "328 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,421 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr 75D",
+          "price": "$85500",
+          "specifications": {
+            "Notable features": [
+              "Battery-electric drivetrain",
+              "Four-door hatchback seats 6 or 7",
+              "Front and rear cargo areas",
+              "Standard all-wheel drive",
+              "Standard active-safety features",
+              "Powered falcon-wing rear doors"
+            ],
+            "Highlights": [
+              "200 - 289 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "518 SAE Net Horsepower @ RPM",
+              "387 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,185 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr 90D",
+          "price": "$95500",
+          "specifications": {
+            "Notable features": [
+              "Battery-electric drivetrain",
+              "Four-door hatchback seats 6 or 7",
+              "Front and rear cargo areas",
+              "Standard all-wheel drive",
+              "Standard active-safety features",
+              "Powered falcon-wing rear doors"
+            ],
+            "Highlights": [
+              "200 - 289 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "485 SAE Net Torque @ RPM",
+              "417 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,267 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr P90D *Ltd Avail*",
+          "price": "$115500",
+          "specifications": {
+            "Notable features": [
+              "Battery-electric drivetrain",
+              "Four-door hatchback seats 6 or 7",
+              "Front and rear cargo areas",
+              "Standard all-wheel drive",
+              "Standard active-safety features",
+              "Powered falcon-wing rear doors"
+            ],
+            "Highlights": [
+              "200 - 289 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "691 SAE Net Horsepower @ RPM",
+              "713 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,381 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "AWD 4dr P100D",
+          "price": "$135500",
+          "specifications": {
+            "Notable features": [
+              "Battery-electric drivetrain",
+              "Four-door hatchback seats 6 or 7",
+              "Front and rear cargo areas",
+              "Standard all-wheel drive",
+              "Standard active-safety features",
+              "Powered falcon-wing rear doors"
+            ],
+            "Highlights": [
+              "237 - 289 mi. Range",
+              "6 Seat capacity",
+              "96 month/unlimited Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "722 SAE Net Torque @ RPM",
+              "762 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,377 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

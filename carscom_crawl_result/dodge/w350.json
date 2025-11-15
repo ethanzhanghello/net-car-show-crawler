@@ -1,0 +1,52 @@
+{
+  "make": "dodge",
+  "model": "w350",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/05e9863a-ad4a-4210-bfb4-d043f5fbaee1/53473484-7c64-4f01-a052-e810f54ab10b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Base Van",
+          "price": "$13501",
+          "specifications": {}
+        },
+        {
+          "name": "131\" WB 4WD",
+          "price": "$17231",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB 4WD DRW Diesel",
+          "price": "$23417",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b3aefc1c-0e33-4bb5-8d2c-841b742077a4/c2ee2ead-e10d-4d29-b23f-2d3705789631.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Base Van",
+          "price": "$14248",
+          "specifications": {}
+        },
+        {
+          "name": "Sweptline 131\" WB 4WD",
+          "price": "$18592",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB 4WD DRW Diesel",
+          "price": "$24657",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

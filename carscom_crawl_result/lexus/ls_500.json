@@ -1,0 +1,2460 @@
+{
+  "make": "lexus",
+  "model": "ls_500",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/ffdb048c-c8f8-4795-be42-4da9b47ed292.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/03de95f1-0b22-45e8-905e-854e65302948.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/0eec9244-733f-404b-b830-ae74d8ed26d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/56cda827-601c-4192-8f26-33ed1dcbf942.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/67191eb4-41b8-465e-bd0e-491262f63546.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/335914f5-7308-4bcb-82a1-312c41461b67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/9507220c-7a8d-4324-8e6d-ca8911d5db77.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/623a57b6-8bb2-4334-a943-545c93a25560/86ca8f3f-926e-4533-88c3-d034efda2358.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/468579bb-3a36-4341-8d21-212435a8bf09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/04dd30eb-4788-464b-8b9e-3e61b91d1a33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/64ac7dda-827a-4158-a944-1d6197a4fa6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/9da7b65b-db0b-447f-9e68-fd6d11963728.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/16511532-15fe-4013-9e79-5b4b9243abcc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/02f245fe-3c32-497a-b00f-da4eee0ae66d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/71c5c4f8-27d8-4d84-bc91-f599ea06c500.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/24321430-d3f7-46df-9124-36ed3be0782b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/dbe0d8b3-07d8-4b3c-9eaf-25f0eb5be8dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/f9c9ad84-39d6-44a5-91b3-a5cc65152b68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/6f2ab760-5d4a-411c-8db4-2160db27e2cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/49c81d83-66d2-44d4-b40f-0115b64d0b71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/96278369-6708-4b31-8413-7c27a881cacd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/dd5268d8-6163-4286-a169-878e20130ca8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/937bbeb1-fdc1-4258-8db6-154a41b8105e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/8582a615-5fc6-42fc-a630-06b2d88fb1dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/43a5baa2-7db9-4cc1-8ec7-48996516de34/a850577a-f9a9-4e36-af9b-0ab58270f38d.png"
+      ],
+      "expert_review": "What Is the 2022 Lexus LS?\n\nThe five-seat LS 500 is Lexus’ flagship full-size luxury sedan. It’s powered by a 416-horsepower, twin-turbocharged 3.5-liter V-6 engine that drives a 10-speed automatic transmission. Rear- and all-wheel-drive versions are offered, along with a gas-electric hybrid drivetrain in the 354-hp LS 500h. The LS competes with the Audi A8, BMW 7 Series and Genesis G90.\n\nWhat’s New on the 2022 Lexus LS?\n\nLexus Teammate, a new hands-free driving system for limited-access highways, is available for the LS 500h. \n\nWhat Features in the 2022 Lexus LS Are Most Important?\n\nStandard features include: \n\nLED headlights and taillights\nHands-free power trunk lid\nPower moonroof\nHeated steering wheel \nHeated and ventilated front seats \nPower rear sunshade \nNavigation\nWi-Fi hot spot (subscription required after data trial)\nAndroid Auto and Apple CarPlay smartphone connectivity\nAutomatic emergency braking \nLane departure warning with steering assist\nBlind spot warning with rear cross-traffic alert\nFull-speed adaptive cruise control\nAutomatic high-beam headlights\n\nAvailable features include: \n\nPanoramic glass roof \nAir suspension \nMassaging front seats\nPower-adjustable massaging rear seats\nHeated rear seats \nRearview camera mirror\nHead-up display \nMark Levinson premium stereo\nLane change assist\nShould I Buy the 2022 Lexus LS? \n\nThe Lexus LS is less expensive than its German luxury competitors, but the Genesis G90’s starting price undercuts it a little. If you’re looking for eco-friendliness in a large luxury sedan, the LS 500h gets an EPA-estimated 25 mpg combined. Lexus’ Remote Touch multimedia controller remains frustrating to use, which makes the car’s touchscreen all the more welcome.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$76100",
+          "specifications": {
+            "Notable features": [
+              "New hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,696 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$79350",
+          "specifications": {
+            "Notable features": [
+              "New hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,905 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$79700",
+          "specifications": {
+            "Notable features": [
+              "New hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,839 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$82950",
+          "specifications": {
+            "Notable features": [
+              "New hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,960 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/23ce68d8-9a35-45e7-aaa1-35661acdf039.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/0e98e63f-6038-4638-8c06-20ac3fa345cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/904f354b-25ca-43fc-a185-2f66995288de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/bcf8aad4-2f8f-443b-bc8c-c35b1e4fdd0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/531bbfc5-2e2d-4c17-9379-ba1fa26307e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/f760727c-205c-4766-a201-fde0e0c8a826.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/0e98e63f-6038-4638-8c06-20ac3fa345cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/88a278f4-e834-43e0-92c3-ccac6587da3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/2fc9b618-308f-4bad-b087-72a9c50624f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/8e691a93-0b4d-4ff9-a57d-0b5c0db6f469.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/169e2471-a99f-434f-94c1-b3ff43adc2f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/ba458940-4bd1-4e2a-b70f-0c510b18f7fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/6fc376fb-9f21-4c67-9e10-9cd6c91f8086.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/d26ead1e-8226-427d-b118-32e2349022cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/42ec4649-cd3c-4b98-99e6-eae45f8325ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/aa4abf42-6e12-4fd9-bad0-81033a141279.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/1a44f2af-8d52-43de-b57f-6fd6b4fa3132.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/d2c6703a-f42e-4b55-bf3e-28d5bc470a46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/369d720c-1341-4680-b023-62f266b6531a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/5c6e5437-9d6f-462a-bfbc-8b92dd71a684.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1e6164b3-1502-4839-bb2b-8b36c6ec4e35/dee7ac62-8f89-4672-84e0-4ca38e7c3bee.png"
+      ],
+      "expert_review": "A decade since its last full redesign, the Lexus LS sedan is all-new, going on sale in February 2018 for roughly $75,000. The long-wheelbase version has been discontinued, but the LS 500h hybrid returns, now offering rear- as well as all-wheel drive, just like the regular LS 500. This review covers both vehicles.\n\nI drove three versions: an LS 500 with optional AWD, an F Sport version with standard RWD, and an LS 500h hybrid with RWD at a Lexus event in and around San Francisco. (Per our ethics policy, Cars.com pays for its airfare and lodging for such events.)\n\nBarrier to Entry\n\nThere’s something you’ll have to get past if you’re going to buy a Lexus LS, and it’s not the giant grille. Actually, you’ll have to get past that, too, but I think it’s a relatively low hurdle. A taller hurdle is the Remote Touch interface system, which comprises an impressively large, 12.3-inch mid-dashboard display and a touchpad controller on the center console. Historically, we’ve called this a multimedia system, but that term underrepresents its importance. It’s a foundational interface through which the driver controls many of the car’s features, and there are a lot of those in this car.\n\nProspective buyers have to accept the controls in any car, but I single this one out because it’s been one of the least popular among our editors and consumers. In lieu of a touchscreen (our preferred interface), some automakers separate the display from the means of controlling the onscreen menus — usually a rotary knob on the center console that also has a joystick motion and press-to-enter function. This isn’t a great way to get a cursor around a screen, but unfortunately, Lexus’ solutions to that problem — mouses and touchpads — have been controversial at best. We find the touchpads especially difficult to use when the car is in motion, but at least the generation in the new LS seems a little better than that in the RC coupe and NX SUV. It also helps that these cars are more docile and smoother-riding, so disruptions are fewer — but on the flip side, this car’s menus are more numerous and complex, so you’ll need to use Remote Touch more frequently. One step forward, one back.\n\nHow It Drives\n\nDriving the LS shows how thoroughly reengineered it is in all its versions. The 2018 sedan replaces the LS 460’s 4.6-liter V-8 engine with a twin-turbocharged 3.5-liter V-6. The switch boosts rather than hurts performance: The new LS 500 packs 416 horsepower versus the old V-8’s 386 hp. Torque is 442 pounds-feet at 1,600-4,800 rpm versus 367 pounds-feet at 4,100 rpm with the V-8. The 2018 also has two additional gears — a 10-speed automatic transmission — to get the most out of the engine. Lexus estimates a zero-to-60-mph time of 4.6 seconds with rear-wheel drive. That’s a full second quicker than the 2017 LS 460.\n\nDespite the specifications and the additional gears, the Lexus LS 500 doesn’t have quite the off-the-line immediacy one might expect. Still, it’s plenty quick once it gets going, and the drivetrain behaves very nicely. As automatic transmissions have added gears, they’ve too often been stricken with indecision and hesitation, but the Lexus 10-speed is admirably responsive whether you jab the accelerator pedal or operate the steering wheel’s shift paddles.\n\nDriving modes — selectable via a dashboard knob positioned at roughly 2 o’clock behind the steering wheel — include Eco, Normal, Comfort, Custom, Sport S and Sport S Plus. Accelerator pedal and downshifting sensitivity increase progressively with almost every step (Normal and Custom are the same in terms of acceleration, but the modes change other vehicle characteristics, as well). Engine sound also increases in the two sport modes, augmented through the audio system — another near-universal technique in the age of turbocharged engines. (BMW was the first.)\n\nIt’s unclear at this early stage which suspension features will be standard and which will be optional on the new LS trim levels, but all the cars I drove included Lexus’ air suspension (in lieu of coil springs) and variable-firmness shock absorbers, called Adaptive Variable Suspension. With these features, the LS is both comfortable and capable — a mix that isn’t ensured merely because the technology is present. To the contrary, Lexus is one of many non-European brands that spent years pursuing so-called European handling and ended up with cars that were neither as lavishly comfortable as the original LS nor as sporty as their benchmarks.\n\nWith these suspensions, the 2018 finally has it dialed in nicely, leaning toward the comfort you want in a large luxury sedan but with the option of enhanced sportiness for street driving. The front-to-rear weight distribution seems more balanced, and the steering has a very good feel on-center, recalling the LC 500. Body motions are well-controlled even without the optional active stabilizer bars, with which my F Sport was equipped. (The F Sport cornered remarkably flat, but I would have preferred if a tad more body roll were programmed in to make it feel more real and less like I was driving in a video game.)\n\nF Sport\n\nEven in the softer modes, like Comfort, the F Sport’s suspension is a bit firmer, but comfort remains the order of the day. Again recalling the LC 500, activating the Sport S and Sport S Plus settings on less-than-perfect pavement is more likely to introduce mild vibration than jarring bumps. Though the adaptive shock absorbers aren’t magnetic (arguably the best type), the new model year brings continuously variable firmness where the previous generations had just a few fixed levels.\n\nWhile the F Sport treatment is mostly cosmetic, in addition to the suspension differences this package replaces the standard four-piston front brake calipers and 14-inch rotors with six-piston calipers and 15.7-inch discs. The rear brakes go from two to four pistons and gain an inch of disc diameter, up to 14 inches.\n\nThe brakes were the most dramatic difference between the regular and F Sport versions of the LS 500. I had no problem with the standard setup, but I found the F Sport’s braking to be stronger and more confidence-inspiring for spirited driving, with superior pedal feel.\n\nA Real Hybrid\n\nThe most improved award goes to the LS hybrid, now dubbed the LS 500h, which for the first time provides what you might want from a hybrid — high gas mileage. (Duh!) The LS 600h L, last sold as a 2016, increased mileage by a whopping 1 and 2 mpg (combined) versus the rear- and all-wheel-drive non-hybrids, respectively, and it started at $121,415 versus $83,280 for an LS 460 L AWD. No amount of PR spin was able to head off our mockery of this vehicle.\n\nThe EPA hadn’t published estimates for the LS 500h as of publication, but Lexus estimates fuel economy of 25/33/28 mpg city/highway/combined with RWD and 23/31/26 mpg with AWD. That’s an enormous improvement over the 600h’s estimated 19/23/20 mpg (AWD only). It’s also a healthy increase over the non-hybrid LS 500’s mileage, which Lexus estimates at 19/29/23 mpg (RWD) and 18/27/21 mpg (AWD). These are respectable gains over the 2017 model’s combined ratings of 19 and 18 mpg for rear- and all-wheel drive, respectively. All the LS sedans require 91-octane premium gasoline.\n\nIf Lexus’ estimates are accurate, the LS 500 trails the less powerful 2018 BMW 740i by 1 to 2 mpg combined, depending on driveline, but beats the more powerful 750i by 2 to 3 mpg combined. As for hybrid competition, the BMW 740e — an all-wheel-drive plug-in hybrid — beats the LS 500h AWD by 1 mpg but trails the RWD version by 1 mpg. The BMW also goes an estimated 14 miles on electric power, but I wasn’t impressed when I reviewed it.\n\nHow does it drive? Quite well. It feels like the electric motor gives the 500h a little more oomph off the line, even though the hybrid system’s total power is 354 hp — less than the non-hybrid. Lexus estimates zero-to-60-mph times of 5.1 seconds (RWD) and 5.2 seconds (AWD).\n\nThere’s no question it’s a hybrid, as you’ll notice the non-turbocharged version of the 3.5-liter V-6 engine starting and stopping, and acceleration isn’t perfectly linear, though it feels more natural than, say, a Prius. The usual Toyota hybrid drivetrain — two motor/generators and a gas engine connected through a “power-split” gearset — has continuously variable properties that are efficient but may delay response or lead to engine drone at unexpected times.\n\nIn the 500h, those same components combine with what’s essentially a built-in four-speed transmission, and the system is programmed to add artificial rev-and-shift action, so the whole shebang feels like a 10-speed automatic. (Not exactly like one, but enough to quell complaints.) On some level, this extra hardware and stair-stepping diminishes efficiency a little, but it compensates by increasing driver acceptance a lot.\n\nIn the end, if you’re picky about acceleration and braking — which feels good but undeniably hybrid in the LS 500h — you’ll probably prefer the LS 500, but the 500h improves on drivability versus earlier hybrids.\n\n21st-Century Interior Design\n\nI find the cabin much improved, thanks especially to Lexus’ efforts to bring in new materials and textures. The technology will always be there, but if you want relatively conservative environs, you can get traditional glossy wood trim and the like.\n\nWhere the new LS really stands out is with optional ornamentation, such as gemlike Kiriko cut-glass door appliques whose facets complement aspects of the interior design, including the backlit, translucent panel in front of the passenger. The laser-etched wood does the same thing. Other patterned wood trim options, like Herringbone and Organic Art, recall the design innovation for which Audi is revered. I can’t emphasize enough that you must see these daring additions in person, because photos (including mine) all make them look louder and more conspicuous than they are in real life — none more so than the origami-inspired pleated-cloth door panels. It’s truly neat stuff to check out in person, and it’s exclusive to Lexus.\n\nThe extended-wheelbase LS is gone, but the backseat gained 2.2 inches of legroom over the LS 460. (The front seats lost 2.7 inches, but at 6 feet tall, I didn’t miss it a bit.) I had plenty of room in back, too, along with an optional touchscreen in the center armrest for controlling the rear climate zones, lighting, audio and more.\n\nI was duly impressed with the optional Executive Power Rear Seat with Ottoman. The motorized ballet as it reclines is just as appealing as it was in the BMW 7 Series, but Lexus has done a better job of keeping the front passenger seat from obstructing the driver’s view when it’s scooted forward. (The BMW even issues a warning to the driver as a precaution.)\n\nTechnology by Lexus, Not Apple\n\nLexus has stepped up its game with safety and convenience technology. One tech omission is that the LS isn’t compatible with Apple CarPlay or Android Auto. The LS includes basic connectivity via two USB ports in front, and my test vehicles had two in the backseat armrest, as well, to charge mobile devices with a healthy 2.1 amps.\n\nMore ground is broken in the safety area. In addition to rear cross-traffic alert, which is becoming common in vehicles with blind spot warning, the LS adds the less common rear auto braking and pedestrian protection. Even more exclusive, the LS offers the same for the front of the car with the optional Advanced Package. With it, when you’re creeping into an intersection the LS alerts you to cars or pedestrians coming from either side.\n\nWhat really sells it is the optional, giant color head-up display image, which measures 24 inches wide by 6 inches high in the driver’s field of view. It flashes arrows showing which side has the threat, and the car can also brake automatically. The configurable HUD’s size allows it to show a wealth of other information, as well. If you like HUDs you’ll welcome this one, but its size probably won’t convert any detractors.\n\nValue in Its Class\n\nPrecise comparisons aren’t yet possible pending complete pricing information, but at “roughly $75,000,” according to Lexus, the LS 500 will continue to offer a price discount of about eight to 20 grand versus German competitors — more in line with the Jaguar XJ. It brings bold styling and distinctive Lexus character inside and out, and it’s more appealing that it’s been in many years.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$75000",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2018",
+              "New turbo 3.5-liter V-6 engine (LS 500)",
+              "New 10-speed automatic transmission",
+              "LS 500 gas or LS 500h gas/electric hybrid",
+              "Rear- or all-wheel drive on all versions",
+              "F Sport enhanced cosmetics and performance"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "4,707 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$78220",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2018",
+              "New turbo 3.5-liter V-6 engine (LS 500)",
+              "New 10-speed automatic transmission",
+              "LS 500 gas or LS 500h gas/electric hybrid",
+              "Rear- or all-wheel drive on all versions",
+              "F Sport enhanced cosmetics and performance"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,905 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F Sport RWD",
+          "price": "$81000",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2018",
+              "New turbo 3.5-liter V-6 engine (LS 500)",
+              "New 10-speed automatic transmission",
+              "LS 500 gas or LS 500h gas/electric hybrid",
+              "Rear- or all-wheel drive on all versions",
+              "F Sport enhanced cosmetics and performance"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,707 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F Sport AWD",
+          "price": "$84220",
+          "specifications": {
+            "Notable features": [
+              "Redesigned for 2018",
+              "New turbo 3.5-liter V-6 engine (LS 500)",
+              "New 10-speed automatic transmission",
+              "LS 500 gas or LS 500h gas/electric hybrid",
+              "Rear- or all-wheel drive on all versions",
+              "F Sport enhanced cosmetics and performance"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,905 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/452b5a08-26a8-46f7-8459-a7f81b3cd7ac.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/42399b89-1588-4b46-97e9-2ddd8faef307.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/c0be8e68-cbf2-45d7-b8d0-45d9efed7a00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/704b14a7-b8e5-4d37-94ce-c7d8160a05da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/040e238b-e52b-498f-ba12-7aa83a44ed37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/f4450ccd-a95c-4087-b9d5-67b72f063f16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/9aecb0c3-d074-42f0-8de9-f163e0cb12ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/3b877ae3-7c98-40ba-bf06-3255a00e6be4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/c85d3555-2f4a-40a1-bb3c-b89e82c8e495.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/7868c951-a5f2-40e2-96a1-e0044bddd144.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/ba52bccb-86e2-4901-ab42-6f93f8a16ef3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/411bb600-88e3-4201-96b5-3fc442fb94b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/365b9a06-1c7e-4789-8ac6-e4bd19999c94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/7c56d7a7-e2ed-4698-886c-198e48f3286c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/417f9d6d-0b95-43f2-aea1-19aacab2786e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/493ed1e4-5326-44c6-abcb-2219fc7097d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/519294bb-480a-4185-b04b-91bf26dcb07c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/4587ba23-16bf-445b-ae88-63eae7bce875.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/ca9cf555-4b4a-4725-938d-8692c4f815ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/dda6aea4-aea9-4a0d-b534-bd8d1425f9e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/d60fdf19-c415-4333-8263-7bd241a2bff9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/a25df846-e851-47eb-a2b5-bf136df8caca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/4e67b08f-4b35-43cb-9b15-6d100d4affc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/e24e8c72-aa2d-413d-83a7-1a2805036f88.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/face8cca-10c3-4d90-9687-dcdf207d4434/873f8dd7-e179-409a-ab6b-a3abb76dc11c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/dce0ed06-da94-49d9-baf7-d8252b42d5ee/37f9dcad-902b-439c-8247-b420ee860a93.png"
+      ],
+      "expert_review": "The Lexus LS 500 isn’t just the brand’s flagship luxury sedan; with available finery crafted using traditional Japanese techniques, the car is a sort of ambassador of traditional Japanese craftsmanship and culture as a whole. The available Haku metal trim is created using a technique that dates back more than 400 years. Glass being a more modern invention, the optional Kiriko cut-glass trim honors a tradition from only the mid-19th century. Lexus is increasing the price of the LS 500 some for the 2024 model year, though, so students of Japanese culture will need to pay at least $80,685 for the honor of decorating their ride with these styles (all prices include a $1,350 destination charge).\n\nRelated: The 2022 Lexus LS 500h Has a Hands-Free Driving System; We Try It\n\nWhat’s New?\n\nLexus has been overhauling its lineup to address a major complaint with its cars, and for 2023, the LS got the fix in the form of a new touchscreen infotainment system. Replacing the awkward and distracting touchpad controller immediately wiped away a big complaint. With that out of the way, Lexus only made minor changes to the LS for 2024: A wireless phone charger is now standard on both the LS 500 and LS 500h hybrid, and the LS 500 gets a standard head-up display and a digital key, which allows drivers to use a paired smartphone as a key.\n\nPowertrain Specs and MPG\n\nAs before, the LS 500 is powered by a twin-turbocharged 3.4-liter V-6 engine making 416 horsepower and 442 pounds-feet of torque. The V-6 is backed by a 10-speed automatic transmission, and the LS 500 is available with either rear- or all-wheel drive. The hybrid LS 500h gets a naturally aspirated 3.5-liter six-cylinder and two electric motors combining to produce a total of 354 hp. AWD is standard, and the hybrid uses a continuously variable automatic transmission.\n\nThough official figures for the 2024 model are not yet available, the EPA rates the 2023 version of the rear-drive LS 500 at 18/29/22 mpg city/highway/combined, while the AWD version scores 17/27/21 mpg. The hybrid is listed at 22/29/25 mpg.\n\nSafety Systems Tailored to the Vehicle\n\nLexus Safety System+ 3.0 is standard in the gas-powered LS 500. The suite includes forward collision warning with pedestrian detection and automatic emergency braking, as well as emergency steering assist and the ability to watch for potential collisions during a left turn, adaptive cruise control and active lane-centering steering assist. The LS 500 also comes with Proactive Driving Assist, which enables hands-free highway driving and automatic parking. Hybrid LS 500s include LSS+ 2.5, which includes much of the same technology, minus Proactive Driving Assist.\n\nMore From Cars.com:\n\nHow Do Car Seats Fit in a 2019 Lexus LS 500?\nI ‘Hypermiled’ the 2018 Lexus LS 500h From L.A. to Napa and … It Sucked\nWhich Cars Have Panoramic Moonroofs or Sunroofs?\nResearch the Lexus LS 500\nAvailability and Pricing\n\nThe 2024 Lexus LS 500 and LS 500h will go on sale later in the year. Pricing is as follows:\n\nLS 500: $80,685\nLS 500 AWD: $83,935\nLS 500 F Sport: $84,825\nLS 500 F Sport AWD: $87,275\nLS 500h: $115,560\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$79335",
+          "specifications": {
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.4 L/207 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,696 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$82585",
+          "specifications": {
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.4 L/207 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,905 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$83475",
+          "specifications": {
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.4 L/207 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,861 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$85925",
+          "specifications": {
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "3.4 L/207 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,960 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/9af34de8-1bfc-4054-bf27-12785a00961e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/d195d52d-749e-4d5f-8707-483c27f860f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/2b722dc5-ee17-48df-917c-ed7d0f68d401.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/11212fb0-dc5e-423c-b56a-ff9522c3575e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/31588785-d82a-46bd-8e78-9ebb967612e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/489551ee-7481-477f-8266-a34c2dcc6e2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/2ff4ed92-ee7d-4499-9b07-c9a52e429859.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/d8896196-bb22-4bb7-9a8b-627b73062336.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/b81b448a-13ef-46e1-9e32-a4a9e9a6c8df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/b3955bac-8e6a-466d-9bb6-510e6fe8a133.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/6a8fa398-a142-4e81-bf27-bc66033afde9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/79282c55-7236-45f2-9f44-ed681b0a6af9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/f5d566c3-b011-4655-8e72-8c2e53e0200c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/c38cda7a-c923-4105-9031-ddd961f5a952.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/52a15398-c981-47bd-850a-88a616fd287e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/dbd6ca54-e233-4eb6-a766-9c368d6c2931.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/ed3607ba-2e2b-4dcd-beb8-e4adb5d1c76c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f79f6143-2198-47c1-9603-e89ce33185e6/953f368c-53ae-4e34-adc6-b19f84637217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/b281a2ac-1a86-4476-8951-756215d8e8e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/99e9a59b-4876-4e04-9db1-d519355e8416.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/31da8a1b-56a3-4a4a-b684-a363a7c702e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/d55d5132-c887-4a7b-8abe-27a276b965d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/ee432713-b00b-4d01-a65a-559981e96b42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/1a8bbf69-b1e8-4081-be62-b3e32ec07563.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/0cf11753-c916-4377-a632-5333ba4aa8b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/b7567d86-91ec-4065-aff0-abd9fb464fad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/e2743190-e6a6-4685-b4b2-d2e241693781.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/bb19f027-a14b-454a-8c13-4b009ade55e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/7f74a6d9-bc51-4cb3-9ca7-f1eaf9dc6b47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/f61ccca6-0a41-45fa-9a81-d2ea6c030ea0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/20c0f3b7-d3b0-419e-a050-b2a58b2c6679.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/008b4b70-263a-4edf-af78-4fccb91794c1/7761daea-ca81-419e-b10a-42c28b9a97b2.png"
+      ],
+      "expert_review": "A decade since its last full redesign, the Lexus LS sedan is all-new, going on sale in February 2018 for roughly $75,000. The long-wheelbase version has been discontinued, but the LS 500h hybrid returns, now offering rear- as well as all-wheel drive, just like the regular LS 500. This review covers both vehicles.\n\nI drove three versions: an LS 500 with optional AWD, an F Sport version with standard RWD, and an LS 500h hybrid with RWD at a Lexus event in and around San Francisco. (Per our ethics policy, Cars.com pays for its airfare and lodging for such events.)\n\nBarrier to Entry\n\nThere’s something you’ll have to get past if you’re going to buy a Lexus LS, and it’s not the giant grille. Actually, you’ll have to get past that, too, but I think it’s a relatively low hurdle. A taller hurdle is the Remote Touch interface system, which comprises an impressively large, 12.3-inch mid-dashboard display and a touchpad controller on the center console. Historically, we’ve called this a multimedia system, but that term underrepresents its importance. It’s a foundational interface through which the driver controls many of the car’s features, and there are a lot of those in this car.\n\nProspective buyers have to accept the controls in any car, but I single this one out because it’s been one of the least popular among our editors and consumers. In lieu of a touchscreen (our preferred interface), some automakers separate the display from the means of controlling the onscreen menus — usually a rotary knob on the center console that also has a joystick motion and press-to-enter function. This isn’t a great way to get a cursor around a screen, but unfortunately, Lexus’ solutions to that problem — mouses and touchpads — have been controversial at best. We find the touchpads especially difficult to use when the car is in motion, but at least the generation in the new LS seems a little better than that in the RC coupe and NX SUV. It also helps that these cars are more docile and smoother-riding, so disruptions are fewer — but on the flip side, this car’s menus are more numerous and complex, so you’ll need to use Remote Touch more frequently. One step forward, one back.\n\nHow It Drives\n\nDriving the LS shows how thoroughly reengineered it is in all its versions. The 2018 sedan replaces the LS 460’s 4.6-liter V-8 engine with a twin-turbocharged 3.5-liter V-6. The switch boosts rather than hurts performance: The new LS 500 packs 416 horsepower versus the old V-8’s 386 hp. Torque is 442 pounds-feet at 1,600-4,800 rpm versus 367 pounds-feet at 4,100 rpm with the V-8. The 2018 also has two additional gears — a 10-speed automatic transmission — to get the most out of the engine. Lexus estimates a zero-to-60-mph time of 4.6 seconds with rear-wheel drive. That’s a full second quicker than the 2017 LS 460.\n\nDespite the specifications and the additional gears, the Lexus LS 500 doesn’t have quite the off-the-line immediacy one might expect. Still, it’s plenty quick once it gets going, and the drivetrain behaves very nicely. As automatic transmissions have added gears, they’ve too often been stricken with indecision and hesitation, but the Lexus 10-speed is admirably responsive whether you jab the accelerator pedal or operate the steering wheel’s shift paddles.\n\nDriving modes — selectable via a dashboard knob positioned at roughly 2 o’clock behind the steering wheel — include Eco, Normal, Comfort, Custom, Sport S and Sport S Plus. Accelerator pedal and downshifting sensitivity increase progressively with almost every step (Normal and Custom are the same in terms of acceleration, but the modes change other vehicle characteristics, as well). Engine sound also increases in the two sport modes, augmented through the audio system — another near-universal technique in the age of turbocharged engines. (BMW was the first.)\n\nIt’s unclear at this early stage which suspension features will be standard and which will be optional on the new LS trim levels, but all the cars I drove included Lexus’ air suspension (in lieu of coil springs) and variable-firmness shock absorbers, called Adaptive Variable Suspension. With these features, the LS is both comfortable and capable — a mix that isn’t ensured merely because the technology is present. To the contrary, Lexus is one of many non-European brands that spent years pursuing so-called European handling and ended up with cars that were neither as lavishly comfortable as the original LS nor as sporty as their benchmarks.\n\nWith these suspensions, the 2018 finally has it dialed in nicely, leaning toward the comfort you want in a large luxury sedan but with the option of enhanced sportiness for street driving. The front-to-rear weight distribution seems more balanced, and the steering has a very good feel on-center, recalling the LC 500. Body motions are well-controlled even without the optional active stabilizer bars, with which my F Sport was equipped. (The F Sport cornered remarkably flat, but I would have preferred if a tad more body roll were programmed in to make it feel more real and less like I was driving in a video game.)\n\nF Sport\n\nEven in the softer modes, like Comfort, the F Sport’s suspension is a bit firmer, but comfort remains the order of the day. Again recalling the LC 500, activating the Sport S and Sport S Plus settings on less-than-perfect pavement is more likely to introduce mild vibration than jarring bumps. Though the adaptive shock absorbers aren’t magnetic (arguably the best type), the new model year brings continuously variable firmness where the previous generations had just a few fixed levels.\n\nWhile the F Sport treatment is mostly cosmetic, in addition to the suspension differences this package replaces the standard four-piston front brake calipers and 14-inch rotors with six-piston calipers and 15.7-inch discs. The rear brakes go from two to four pistons and gain an inch of disc diameter, up to 14 inches.\n\nThe brakes were the most dramatic difference between the regular and F Sport versions of the LS 500. I had no problem with the standard setup, but I found the F Sport’s braking to be stronger and more confidence-inspiring for spirited driving, with superior pedal feel.\n\nA Real Hybrid\n\nThe most improved award goes to the LS hybrid, now dubbed the LS 500h, which for the first time provides what you might want from a hybrid — high gas mileage. (Duh!) The LS 600h L, last sold as a 2016, increased mileage by a whopping 1 and 2 mpg (combined) versus the rear- and all-wheel-drive non-hybrids, respectively, and it started at $121,415 versus $83,280 for an LS 460 L AWD. No amount of PR spin was able to head off our mockery of this vehicle.\n\nThe EPA hadn’t published estimates for the LS 500h as of publication, but Lexus estimates fuel economy of 25/33/28 mpg city/highway/combined with RWD and 23/31/26 mpg with AWD. That’s an enormous improvement over the 600h’s estimated 19/23/20 mpg (AWD only). It’s also a healthy increase over the non-hybrid LS 500’s mileage, which Lexus estimates at 19/29/23 mpg (RWD) and 18/27/21 mpg (AWD). These are respectable gains over the 2017 model’s combined ratings of 19 and 18 mpg for rear- and all-wheel drive, respectively. All the LS sedans require 91-octane premium gasoline.\n\nIf Lexus’ estimates are accurate, the LS 500 trails the less powerful 2018 BMW 740i by 1 to 2 mpg combined, depending on driveline, but beats the more powerful 750i by 2 to 3 mpg combined. As for hybrid competition, the BMW 740e — an all-wheel-drive plug-in hybrid — beats the LS 500h AWD by 1 mpg but trails the RWD version by 1 mpg. The BMW also goes an estimated 14 miles on electric power, but I wasn’t impressed when I reviewed it.\n\nHow does it drive? Quite well. It feels like the electric motor gives the 500h a little more oomph off the line, even though the hybrid system’s total power is 354 hp — less than the non-hybrid. Lexus estimates zero-to-60-mph times of 5.1 seconds (RWD) and 5.2 seconds (AWD).\n\nThere’s no question it’s a hybrid, as you’ll notice the non-turbocharged version of the 3.5-liter V-6 engine starting and stopping, and acceleration isn’t perfectly linear, though it feels more natural than, say, a Prius. The usual Toyota hybrid drivetrain — two motor/generators and a gas engine connected through a “power-split” gearset — has continuously variable properties that are efficient but may delay response or lead to engine drone at unexpected times.\n\nIn the 500h, those same components combine with what’s essentially a built-in four-speed transmission, and the system is programmed to add artificial rev-and-shift action, so the whole shebang feels like a 10-speed automatic. (Not exactly like one, but enough to quell complaints.) On some level, this extra hardware and stair-stepping diminishes efficiency a little, but it compensates by increasing driver acceptance a lot.\n\nIn the end, if you’re picky about acceleration and braking — which feels good but undeniably hybrid in the LS 500h — you’ll probably prefer the LS 500, but the 500h improves on drivability versus earlier hybrids.\n\n21st-Century Interior Design\n\nI find the cabin much improved, thanks especially to Lexus’ efforts to bring in new materials and textures. The technology will always be there, but if you want relatively conservative environs, you can get traditional glossy wood trim and the like.\n\nWhere the new LS really stands out is with optional ornamentation, such as gemlike Kiriko cut-glass door appliques whose facets complement aspects of the interior design, including the backlit, translucent panel in front of the passenger. The laser-etched wood does the same thing. Other patterned wood trim options, like Herringbone and Organic Art, recall the design innovation for which Audi is revered. I can’t emphasize enough that you must see these daring additions in person, because photos (including mine) all make them look louder and more conspicuous than they are in real life — none more so than the origami-inspired pleated-cloth door panels. It’s truly neat stuff to check out in person, and it’s exclusive to Lexus.\n\nThe extended-wheelbase LS is gone, but the backseat gained 2.2 inches of legroom over the LS 460. (The front seats lost 2.7 inches, but at 6 feet tall, I didn’t miss it a bit.) I had plenty of room in back, too, along with an optional touchscreen in the center armrest for controlling the rear climate zones, lighting, audio and more.\n\nI was duly impressed with the optional Executive Power Rear Seat with Ottoman. The motorized ballet as it reclines is just as appealing as it was in the BMW 7 Series, but Lexus has done a better job of keeping the front passenger seat from obstructing the driver’s view when it’s scooted forward. (The BMW even issues a warning to the driver as a precaution.)\n\nTechnology by Lexus, Not Apple\n\nLexus has stepped up its game with safety and convenience technology. One tech omission is that the LS isn’t compatible with Apple CarPlay or Android Auto. The LS includes basic connectivity via two USB ports in front, and my test vehicles had two in the backseat armrest, as well, to charge mobile devices with a healthy 2.1 amps.\n\nMore ground is broken in the safety area. In addition to rear cross-traffic alert, which is becoming common in vehicles with blind spot warning, the LS adds the less common rear auto braking and pedestrian protection. Even more exclusive, the LS offers the same for the front of the car with the optional Advanced Package. With it, when you’re creeping into an intersection the LS alerts you to cars or pedestrians coming from either side.\n\nWhat really sells it is the optional, giant color head-up display image, which measures 24 inches wide by 6 inches high in the driver’s field of view. It flashes arrows showing which side has the threat, and the car can also brake automatically. The configurable HUD’s size allows it to show a wealth of other information, as well. If you like HUDs you’ll welcome this one, but its size probably won’t convert any detractors.\n\nValue in Its Class\n\nPrecise comparisons aren’t yet possible pending complete pricing information, but at “roughly $75,000,” according to Lexus, the LS 500 will continue to offer a price discount of about eight to 20 grand versus German competitors — more in line with the Jaguar XJ. It brings bold styling and distinctive Lexus character inside and out, and it’s more appealing that it’s been in many years.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$75450",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay connectivity now standard",
+              "Newly available Lane Change Assist",
+              "Twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission",
+              "LS 500h gas/electric hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,707 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$78670",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay connectivity now standard",
+              "Newly available Lane Change Assist",
+              "Twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission",
+              "LS 500h gas/electric hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,905 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$81450",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay connectivity now standard",
+              "Newly available Lane Change Assist",
+              "Twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission",
+              "LS 500h gas/electric hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,707 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$84670",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay connectivity now standard",
+              "Newly available Lane Change Assist",
+              "Twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission",
+              "LS 500h gas/electric hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,905 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/8a2662c2-0046-4e37-9d68-9b50b276abad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/c06de90d-7149-4e01-ab49-7fe463356da7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/09905998-961a-4742-8df0-190f8219de25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/e44d1b10-5bca-4d1f-bdac-2b4df2e778a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/9ff5f613-8757-4be0-a984-84288340beb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/12ae22af-6811-4571-8a03-ef668a6e3b02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/fdd44beb-aa07-4cbf-9ba6-3a63386d2ec5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/e07c91f8-30af-4257-8ec0-470c82847df0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/ac790640-f7e1-4b92-a964-903c743f6cc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/d4dbc86c-6309-4156-a21f-a2ee5d9009e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/8c8e2519-ceb2-41fc-a680-e0416bccc8f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/3ad687e0-6670-4546-a69c-ae8562de5c17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/83ce96bd-2abd-41a4-a026-3c16a337e525.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/d9adccaf-992d-4bae-912c-e213a5a87c3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/727cd843-d95b-4ab8-b0a0-4be1544b7188.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/9f74e3ad-91ab-469e-ad79-7ad5a85568c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/9566c271-3e5a-45c6-8612-c97b88367ddd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/b684c5b3-925c-49cc-bf6f-43c90a774af2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/fca49f0e-f925-412d-bda1-d535abc2c811.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/33e8d390-65a2-4525-82ab-8d5750025974.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/1da190e9-652b-4470-8687-4cada0d84af8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/ead74c10-23cc-434e-bdd1-aa39778ff901.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/e84fef1a-db2e-473f-b38b-d163abca84ba.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/67f38577-3517-4aec-9033-9b2f1b9653e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/717afc0e-dda7-4e1c-a849-5420c27d846d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/f9b3ed72-522a-4e7e-a292-56d66563821e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/9cec0a80-5eba-4305-85de-bbbaf3629975.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/93dbb038-3015-4574-873b-f909ef34335b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/47221e17-fa8c-49f1-8714-9485a904455c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/67f38577-3517-4aec-9033-9b2f1b9653e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6d9063d6-ac36-4192-885a-c2f0eaa7ef1a/87eadeb6-b794-4913-adc4-d2674187df33.png"
+      ],
+      "expert_review": "What Is the 2021 Lexus LS?\n\nThe five-seat LS 500 is Lexus’ flagship full-size luxury sedan. It’s powered by a 416-horsepower, twin-turbocharged 3.5-liter V-6 engine that drives a 10-speed automatic transmission. Rear- and all-wheel-drive versions are offered, along with a gas-electric hybrid drivetrain in the 354-hp LS 500h. The LS competes with the Audi A8, BMW 7 Series and Genesis G90.\n\nWhat’s New on the 2021 Lexus LS?\n\nAll models get a new 12.3-inch touchscreen, and numerous refinements have been made to the suspension, interior and conventional and hybrid drivetrains to improve ride quality, passenger comfort and performance. \n\nWhat Features in the 2021 Lexus LS Are Most Important?\n\nStandard features include:\n\nLED headlights and taillights\nHands-free power trunk lid\nPower moonroof\nHeated steering wheel \nHeated and ventilated front seats \nPower rear sunshade \nNavigation\nWi-Fi hot spot (subscription required after data trial)\nAndroid Auto and Apple CarPlay smartphone connectivity\nAutomatic emergency braking \nLane departure warning with steering assist\nFull-speed adaptive cruise control\n\nAvailable features include:\n\nPanoramic glass roof \nAir suspension \nHead-up display \nHeated rear seats \nPower-adjustable massaging rear seats\nMark Levinson premium stereo\nShould I Buy the 2021 Lexus LS?\n\nThe LS is less expensive than its German luxury competitors, but the Genesis G90’s starting price undercuts it a little. If you’re looking for eco-friendliness in a large luxury sedan, the LS 500h’s EPA-estimated gas mileage is impressive. Lexus’ Remote Touch multimedia controller remains frustrating to use, which makes the new touchscreen all the more welcome.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$76000",
+          "specifications": {
+            "Notable features": [
+              "New 12.3-inch touchscreen standard",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,696 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$79250",
+          "specifications": {
+            "Notable features": [
+              "New 12.3-inch touchscreen standard",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,905 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$79600",
+          "specifications": {
+            "Notable features": [
+              "New 12.3-inch touchscreen standard",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,839 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$82850",
+          "specifications": {
+            "Notable features": [
+              "New 12.3-inch touchscreen standard",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions",
+              "Android Auto, Apple CarPlay standard"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "3.5 L/210 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,960 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/5cdee56a-805c-4d52-8e4b-d03753944a8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/4c51d8a3-304a-47f0-8801-adaef8f1199c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/8814e492-03b1-4549-a7e8-280862b99eae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/06d7473b-0b1e-4cdf-bc99-55890238e0b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/0650af60-0454-42dc-a7ee-c741a4d1975f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/5bf50234-2f1d-4058-8fda-e4994ed7be9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/e596aee3-aad1-4b45-9d5d-563d3a067837.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/669ddbc9-33ee-4ccd-814e-92078ad13840.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/0af1dcb4-42cb-4d73-87b3-73a3b3f7c96b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/0b84dace-4224-45c0-ad7a-e3d931b81470.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/ae61d923-681a-4cf4-b7c8-15e62d6f5ec3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/b418133b-760a-4e1d-8fa5-957da92492f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/35d1fac8-d9cd-49f0-9490-ae08fa227b6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/a07cc5c6-67e4-4ed5-ad4d-3de405159c87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/cc8df7e7-fa21-4705-b351-dd4eca2b7f6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/63d5cf00-b17e-41ea-b832-7431ae090f35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/cf9bfcb0-1a52-4533-bfee-4beb75700b13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/2af25521-a88d-4475-b9d9-daf05f090aa0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/133d9d8b-c66e-4a26-8592-a698987cf439.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/33c53859-2f32-4031-9530-2235ee625c31/1dbb8049-563a-46a6-aca6-667af78dd78a.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/d4e1767d-c5ae-478f-b5ef-209372c8e114.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/edd1d852-d3c6-4fca-8f6a-1933dcafea92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/32f62a2d-77e4-42e2-af54-cd02ab15c090.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/00ec255e-a1ca-48b6-b961-7bdce15c0e25.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b2c8a6d4-97a5-4d7c-86b7-0da37a5503c8/d5225422-1846-43d7-83e8-edee64b0151d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/bdbc6bb3-8b04-4ca5-b500-0cd17049e429.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33c53859-2f32-4031-9530-2235ee625c31/6b831297-13a0-4456-8b3f-74164b7c07b9.png"
+      ],
+      "expert_review": "What Is the 2025 Lexus LS?\n\nThe five-seat LS 500 is Lexus’ flagship full-size luxury sedan. It’s powered by a 416-horsepower, twin-turbocharged 3.5-liter V-6 engine that drives a 10-speed automatic transmission. Rear- and all-wheel-drive versions are available, along with an AWD-only gas-electric hybrid model in the 354-hp LS 500h. The LS competes with the Audi A8, BMW 7 Series and Genesis G90.\n\nWhat’s New on the 2025 Lexus LS?\n\nThe LS is unchanged for 2025.\n\nWhat Features in the 2025 Lexus LS Are Most Important?\n\nStandard features include: \n\nLED headlights and taillights\nHands-free power trunk lid\nPower moonroof\nHeated steering wheel \nHeated and ventilated front seats\nPower rear sunshade \n12.3-inch infotainment touchscreen\nNavigation\nWi-Fi hot spot (subscription required after data trial)\nWireless Android Auto and Apple CarPlay smartphone connectivity\nWireless charging\nAutomatic emergency braking \nLane departure warning with steering assist\nBlind spot warning with rear cross-traffic alert\nFull-speed adaptive cruise control\nAutomatic high-beam headlights\nFront and rear parking sensors\n\nAvailable features include: \n\nPanoramic moonroof\nAir suspension \nMassaging front seats\nPower-adjustable massaging rear seats\nHeated rear seats \nRearview camera mirror\n24-inch-wide head-up display \nMark Levinson premium stereo\nLane change assist\nShould I Buy the 2025 Lexus LS? \n\nThe Lexus LS is less expensive than its German competitors, and its non-hybrid models undercut the price of the Genesis G90. If you’re looking for a bit more eco-friendliness in your large luxury sedan (and don’t mind paying a significant premium for it), the LS 500h gets an EPA-estimated 25 mpg combined. However, in any of its versions, the LS’s ride and handling isn’t as polished as most rivals in its class.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$80335",
+          "specifications": {
+            "Notable features": [
+              "Full-size luxury sedan",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "354-hp LS 500h hybrid available",
+              "RWD or AWD (AWD standard with LS 500h)",
+              "Hands-free driving system available (LS 500h)"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.4 L/207 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,696 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$83585",
+          "specifications": {
+            "Notable features": [
+              "Full-size luxury sedan",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "354-hp LS 500h hybrid available",
+              "RWD or AWD (AWD standard with LS 500h)",
+              "Hands-free driving system available (LS 500h)"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.4 L/207 Displacement",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,905 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$84475",
+          "specifications": {
+            "Notable features": [
+              "Full-size luxury sedan",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "354-hp LS 500h hybrid available",
+              "RWD or AWD (AWD standard with LS 500h)",
+              "Hands-free driving system available (LS 500h)"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.4 L/207 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,861 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$86925",
+          "specifications": {
+            "Notable features": [
+              "Full-size luxury sedan",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "354-hp LS 500h hybrid available",
+              "RWD or AWD (AWD standard with LS 500h)",
+              "Hands-free driving system available (LS 500h)"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.4 L/207 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,960 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/1e93b5d6-ee71-46a0-b6fd-ec95cdbf8762.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/2e9a1607-5c68-4a5d-bbc5-a72947140ea4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/55586121-338c-4d4a-9682-ae3a9b70f0fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/1403cae6-2612-44a0-95a8-425690ace3da.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/0f974db5-7939-4634-9e5c-1d5f8f1db1f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/bcb31cc1-7d34-4e50-8982-971c186aa459.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/0f974db5-7939-4634-9e5c-1d5f8f1db1f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/a4e19031-7d35-49e3-b3da-fc8926df2674.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/483d237d-dee3-4f43-a78c-df66d72d7773.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/e2ce4a99-7338-4460-b096-a0f55d51e9c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/4239c0df-782b-4490-8015-2f4f3b36a38e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/058c786b-081e-48ad-9543-488aa545aace.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/e61e1fa3-8327-4687-bd1a-c0ccb74cdf18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/f8531ae9-29c1-4fd6-a56d-db4ed60ba516.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/a87040f0-3505-49be-b5df-809e9f4d13dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/05da80d2-ac36-4dde-a6ef-7c0c8c6329ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/b552e741-6c74-4d4c-9666-d619ed1f26be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/b53adba0-f409-4002-87f6-5f7c13648810.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/ba90d2f5-44c2-4858-aa5f-814c3146547c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/79c76942-b7d4-430d-b25f-26632a0fe30b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/b45c35a4-cfa7-4625-8fd9-de1de1c8d9bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/0eeecb1e-cf9c-4724-b475-68451e7dec2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/3473d3e5-4c15-4e6c-9acd-9a71bea8c532.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/280098a2-a7d8-407e-a2e9-36db474d1e7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9cd0d947-6e34-4696-9238-da5203392731/14f4f9fb-783e-4dd4-84c0-ac69f11df122.png"
+      ],
+      "expert_review": "The 2023 Lexus LS 500 and LS 500h hybrid are still out to shock the world and steal sales from the 2023 BMW 7 Series and 2023 Mercedes-Benz S-Class. Lexus chose to do light updates for the 2023 model year but focused on where it counts, with new technology leading the charge alongside a revised $77,535 starting price (all prices include a $1,150 destination charge).\n\nRelated: The 2022 Lexus LS 500h Has a Hands-Free Driving System; We Try It\n\nLexus Adds New Tech to Give a Digital Edge\n\nAt first glance, you’d be hard-pressed to find any differences between model-year 2022 and 2023 versions of the LS 500 and LS 500h, with the bulk of the cars being largely carried over. However, slip inside and you’ll see an all-new 12.3-inch infotainment system that comes equipped with wireless Apple CarPlay and Android Auto as well as a voice command feature that can perform various tasks when prompted. This interface also pitches the old touchpad controller and is perhaps the closest the brand has come to matching the poise and usability offered by competitors. Lexus also threw in more USB ports to give occupants more places to charge their mobile devices when out on the move.\n\nPricing and Release Date\n\nThe 2023 Lexus LS 500 and LS 500h will arrive in showrooms later this year. Rear-wheel drive is standard, while all-wheel drive adds $3,250; the hybrid is AWD only. Full pricing for the lineup is below:\n\nLS 500: $77,535\nLS 500 F Sport: $81,135\nLS 500h: $113,435\n\nThe LS 500 continues to use a 416 horsepower, twin-turbocharged 3.5-liter V-6 engine mated to a 10-speed automatic transmission. The 500h carries over its 3.5-liter V-6 that’s paired with two electric motors for a system total of 354 hp; it is also bundled with the Lexus Teammate driver-assistance system.\n\nMore From Cars.com:\n\nHow Do Car Seats Fit in a 2019 Lexus LS 500?\n2018 Lexus LS 500 and 500h: Our View\nWhich SUVs, Minivans and Sedans Have the Most Cargo Space?\nWhat’s New With Lexus for 2022?\nResearch the Lexus LS 500\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$77385",
+          "specifications": {
+            "Notable features": [
+              "New infotainment system",
+              "Hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Wireless Android Auto, Apple CarPlay"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.4 L/207 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,696 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$80635",
+          "specifications": {
+            "Notable features": [
+              "New infotainment system",
+              "Hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Wireless Android Auto, Apple CarPlay"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.4 L/207 Displacement",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "4,905 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$80985",
+          "specifications": {
+            "Notable features": [
+              "New infotainment system",
+              "Hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Wireless Android Auto, Apple CarPlay"
+            ],
+            "Highlights": [
+              "18 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.4 L/207 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,839 lbs Base Curb Weight",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$84235",
+          "specifications": {
+            "Notable features": [
+              "New infotainment system",
+              "Hands-free driving system available (LS 500h)",
+              "416-hp, twin-turbo V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive",
+              "Wireless Android Auto, Apple CarPlay"
+            ],
+            "Highlights": [
+              "17 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.4 L/207 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,960 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/1c93f24a-0192-4c83-813e-79ef64db16d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/f0149324-5be7-4308-98ae-be7d0604056b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/8ce4a5e7-f610-48ab-b1e3-56f7c4e8779c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/5f05daef-090a-43b6-a9c9-d0a508788958.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/d39da782-29ee-40e8-a992-9c9b06ce3bd0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/f2e4a24a-24df-4155-993b-4f4946e1fa0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/f94fcea9-7a92-4722-a96e-fdb515ce9a86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/47b25048-cd7e-4d48-95c4-70d413d8ff74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/e3c634d3-877c-491f-a31c-bfffba2b60a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/fd8c90b2-4829-4343-9cc2-7127b2658557.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/dbe5433f-8914-41d5-b56e-75b6f9c536b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/4991d103-a26a-404c-9406-a9ffede0dd82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/37947aac-f3de-4aff-9c3f-5be3003359e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/c029abcf-3c2e-4bfd-b236-428a092378bb.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0b89a142-7783-49e2-b9e9-522a1c43343a/12badfbc-d2a4-4468-8be9-8c4c723242da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/6d3674b3-ee72-417d-8401-34266d17a476.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/28d745c7-5d8e-49bc-b641-5865886e89e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/de429917-4fe5-4be8-b76a-a316d9af6645.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/6198ba96-3c17-4d43-bef1-12802243cd80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/9db6f09e-9604-47b4-b9fc-6fefcfecc084.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/f57b1b32-315d-4b7a-b998-582a499db8b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/ef470ab7-353a-44d5-8747-c2f2a34d60d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/d00dbb82-fcb3-40cf-9544-ed929f3a6c3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/3cf6f060-ed8a-4f6e-986d-4fc494ae122f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/b1b1c7ec-be80-46c2-b8b8-4ea0b53307b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/a6da4119-66b2-442f-9557-1e153c1e32f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/0829c6c1-41fc-4f18-a898-f3ecc6f7dec1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/c8d780b9-8e27-4060-a6f9-ad64c249fd66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/0796fd0b-5821-441a-ade4-416d745b2f5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/7ac30c57-9de4-4b7b-9968-9b66e93d87e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/d56939c5-1f22-4dbe-ba2e-4efe34925f01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/175525ca-23ec-4665-99fc-6f76664ccbc6/827ecaa9-5711-4a8f-9da9-8e3bbba2b76f.png"
+      ],
+      "expert_review": "What Is the 2020 Lexus LS?\n\nThe five-seat LS 500 is Lexus’ flagship full-size luxury sedan. It’s powered by a 416-horsepower, twin-turbocharged 3.5-liter V-6 that drives a 10-speed automatic transmission. Rear- and all-wheel-drive versions are offered, along with a gas-electric hybrid drivetrain in the LS 500h. The LS competes with the Audi A8, BMW 7 Series and Genesis G90.\n\nWhat’s New on the 2020 Lexus LS?\n\nA limited-edition Inspiration Series joins the LS lineup. It features Deep Garnet exterior paint, 20-inch black-chrome wheels, a white semi-aniline leather interior, Kiriko glass trim and a Mark Levinson premium stereo. Only 300 Inspiration Series LS sedans will be produced. \n\nWhat Features in the 2020 Lexus LS Are Most Important?\n\nThe LS reminds you it’s a no-compromises luxury sedan by offering standard features like a heated steering wheel, heated and ventilated front seats, a power rear sunshade, navigation with a 12.3-inch screen, rain-sensing windshield wipers, and a hands-free power trunk lid. Options include a panoramic glass roof, an air suspension, a head-up display, heated rear seats and power-adjustable rear seats with a massage function. \n\nShould I Buy the 2020 Lexus LS?\n\nThe LS is less expensive than its German luxury competitors, but its starting price is similar to the G90’s. Ride quality is controlled, while the steering is direct.  If you’re looking for eco-friendliness in a large luxury sedan, it’s worth noting that the LS 500h’s EPA-estimated gas mileage is impressive. Unfortunately, the Remote Touch multimedia controller continues to be frustrating to use; be sure to test the system thoroughly before buying.",
+      "trims": [
+        {
+          "name": "LS 500 RWD",
+          "price": "$75450",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Inspiration Series available",
+              "416-hp twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,740 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 AWD",
+          "price": "$78670",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Inspiration Series available",
+              "416-hp twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,938 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT RWD",
+          "price": "$81450",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Inspiration Series available",
+              "416-hp twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,740 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 F SPORT AWD",
+          "price": "$84670",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Inspiration Series available",
+              "416-hp twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,938 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 Inspiration Series RWD",
+          "price": "$97665",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Inspiration Series available",
+              "416-hp twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "19 City / 30 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "3.5 L/210 Displacement",
+              "442 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "4,740 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "LS 500 Inspiration Series AWD",
+          "price": "$100865",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Inspiration Series available",
+              "416-hp twin-turbo 3.5-liter V-6 engine (LS 500)",
+              "10-speed automatic transmission (LS 500)",
+              "LS 500h hybrid available",
+              "Rear- or all-wheel drive on both versions"
+            ],
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "442 @ 1600 SAE Net Torque @ RPM",
+              "416 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/210 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,938 lbs Base Curb Weight",
+              "22 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

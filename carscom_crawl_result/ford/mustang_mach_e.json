@@ -1,0 +1,2391 @@
+{
+  "make": "ford",
+  "model": "mustang_mach_e",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Select RWD",
+          "price": "$37795",
+          "specifications": {
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "387 SAE Net Torque @ RPM",
+              "264 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,595 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$40595",
+          "specifications": {
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "387 SAE Net Torque @ RPM",
+              "264 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,595 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Select AWD",
+          "price": "$40795",
+          "specifications": {
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "325 SAE Net Horsepower @ RPM",
+              "500 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "4,774 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$43595",
+          "specifications": {
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "500 SAE Net Torque @ RPM",
+              "325 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "4,759 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "GT AWD",
+          "price": "$53395",
+          "specifications": {
+            "Highlights": [
+              "260 - 280 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "600 SAE Net Torque @ RPM",
+              "480 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,952 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/28215dc0-5a0c-4871-97c5-9335b2db2d85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/53fe39c4-6cdc-401f-ac30-fddac92c1bf3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/a87d5a97-1b2b-4909-b592-abad5b7fdab1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/1fd894c0-9153-4ef2-9f31-41657ecee1b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/67618119-5cd3-406b-966b-d312ae29af83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/9f83c3fe-364c-47af-84d5-7c509293bb6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/858b681a-d51b-4a48-a917-a9ff601271bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/56734bea-ba57-4b7c-9984-211ac007b967.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/d2cb69f8-107b-4034-a62a-fd3ea8c6eb17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/2dac0c21-4a59-42f6-b35e-8c185bc10099.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/18bab696-94c7-4084-bd18-aff31b263e94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/5ba74bcf-aa9c-4019-bb30-6a8a7e2a46ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/c931cc34-4376-4bc7-95d8-f94e518c32fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/c3b90ccd-4312-4f61-b110-6793cad38a41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/2755c239-f4c8-4657-acb7-e2c099f86d29.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/dc5534ba-e01a-4c2a-88c3-cb8b25b0a0fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/9b639b91-df76-48ab-984f-33b6e29acbb6.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1e28bbd2-f3b8-4866-a78d-7d16a6309a9a/4515a9bc-1ccb-48b2-98c2-c5e38e6b7826.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/6d1cd594-b550-4658-9508-62d7644042c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/7e05a686-d030-4851-9471-bde4411661e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/01704bbd-31df-407a-8b7a-f50af89e53b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/3751e83c-c5f7-490e-a5fb-48e94490dca2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/4c2e5853-fedf-4364-ac2d-8f59c9fd9e0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/907f13fe-df4e-4bcb-bc8e-6e07a9a7d967.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/a83ce554-45fc-45f6-a1f6-d419274a0fb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d64ac674-282d-45c4-8139-ec97b5fa0a54/7cb2b627-103e-4adf-9606-a04301d1bcba.png"
+      ],
+      "expert_review": "What Is the 2024 Ford Mustang Mach-E?\n\nThe Ford Mustang Mach-E is a five-seat electric SUV with a sporty demeanor and a choice of standard or extended-range battery packs and rear- or all-wheel drive. In its base trim, the Mach-E is a spacious and comfortable electric vehicle with an airy cabin and plenty of punch for everyday driving. Lower trim levels offer between 264 and 365 horsepower, depending on configuration, while the GT and Rally boast 480 hp and scorching performance, with 0-60 mph times under 4 seconds. Mach-E rivals include the Hyundai Ioniq 5, Kia EV6, Tesla Model Y and Volkswagen ID.4.\n\nWhat’s New on the 2024 Ford Mustang Mach-E?\n\nA new off-road-oriented Rally trim joins the line for 2024. Based on the GT trim, it gets unique styling touches, a specially tuned suspension that’s been raised 0.8 inches, white 19-inch wheels, all-terrain tires and underbody shielding. It also has a RallySport mode that’s designed for off-road performance driving. Standard on the Rally and available on the GT is a Performance Upgrade that bumps up torque 100 pounds-feet, to 700 total. The GT also gets additional standard features, as well as an available Bronze Appearance Package that adds 20-inch bronze-painted wheels, a matching bronze front grill and exterior badging. All Mach-Es get updated infotainment software and a more powerful rear motor that’s lighter and delivers more torque than the 2023 unit.\n\nHow Much Range Does the 2024 Ford Mustang Mach-E Have?\n\nThe Mustang Mach-E’s EPA-estimated driving range runs from 230 to 320 miles, depending on battery pack, drive wheels and trim.\n\nHow Long Does it Take to Charge the 2024 Ford Mustang Mach-E?\n\nWith its available extended-range battery pack, the Mustang Mach-E’s charging times range from an estimated 10.1 hours on a standard 240-volt Level 2 charger (to go from empty to a 100% charge) to an estimated 36.2 minutes on a 350-kilowatt DC fast charger (to go from a 10% charge to 80%). With the standard battery pack, the estimated charge times are 7.1 hours on a Level 2 charger and 32.3 minutes on a DC fast charger.\n\nWhat Features in the 2024 Ford Mustang Mach-E Are Most Important?\n\nStandard features include:\n\n15.5-inch infotainment screen\nFord Co-Pilot 360 safety features\nWireless Apple CarPlay and Android Auto\nWireless device charging\n18-inch alloy wheels\nAutomatic emergency braking\nForward collision warning\nSatellite radio\nSynthetic leather seating surfaces\nAdaptive cruise control\nBlind spot warning\nLED headlights\nAutomatic high beams\n\nAvailable features include:\n\nBlueCruise hands-free highway driving assist\nPanoramic moonroof\nAll-wheel drive\nSurround-view parking camera\nHands-free park assist\nHeated steering wheel\nBrembo brakes\nAdaptive suspension\nAmbient interior lighting\n20-inch alloy wheels\nShould I Buy the 2024 Ford Mustang Mach-E?\n\n\nUnless you’re a die-hard Mustang purist who insists on the visceral thrill of a gas-fed engine (and can’t cotton to the idea of a Mustang SUV), the Mustang Mach-E is a smart and speedy choice. Thanks to its airy cabin and intuitive infotainment system, getting comfortable and accustomed to the interior takes only a moment. Cargo room is plentiful, which is a compliment you’ll never hear given to the regular Mustang. The GT and new Rally trims have sports-car levels of acceleration, but most EV shoppers will find the Select and Premium trims deliver plenty of performance and range at a much lower price.",
+      "trims": [
+        {
+          "name": "Select RWD",
+          "price": "$39995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "New off-road-oriented Rally trim, minor updates for 2024",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available hands-free driver assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "264 SAE Net Horsepower @ RPM",
+              "387 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,595 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Select AWD",
+          "price": "$43495",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "New off-road-oriented Rally trim, minor updates for 2024",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available hands-free driver assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "500 SAE Net Torque @ RPM",
+              "325 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,774 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Brake Assist",
+              "Optional Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$43995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "New off-road-oriented Rally trim, minor updates for 2024",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available hands-free driver assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "264 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "387 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,595 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$46995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "New off-road-oriented Rally trim, minor updates for 2024",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available hands-free driver assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "500 SAE Net Torque @ RPM",
+              "325 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "4,759 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "GT AWD",
+          "price": "$54995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "New off-road-oriented Rally trim, minor updates for 2024",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available hands-free driver assist"
+            ],
+            "Highlights": [
+              "260 - 280 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "480 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,952 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/80525d3e-f720-4492-a481-1a207f5c2733.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/dbeda153-753e-479d-a906-1a1878c0f58e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/b87c76cd-9267-40e9-b006-2e525bd7f626.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/0cad151f-a4e0-4bbd-b25e-3fa67bdf38b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/2dceea3b-477d-457d-9b33-98dba9b0a3a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/c65ffcf9-2fbb-41cf-9936-97b9f7240a09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/7ddafdf3-6a5c-4207-99bb-0d4a1bccd3fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/89b468d1-ab58-47a8-ab27-5964abf605af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/11c9e26f-488d-4cff-8e07-aff5bc8ab658.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/807cc121-dc3b-4e58-bcd5-42d5f4736461/11427e44-ae7a-4a7c-b997-dbd4302c27f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/7038c16c-ff82-4c9a-b20c-7ca32829430d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/09b4a0ba-fca5-4cf1-b0ca-4834a7a21ba1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/c77387bf-326e-4574-8e67-e9496f496d2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/df3ec14e-90f5-4851-bc3c-039bb2e82d13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/f5faf152-282c-4b49-847d-7bb2d313dcbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/8ce3edd6-f781-485c-926c-f179c3122f72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/5e94607c-fd56-4ef4-b07a-9eb86bf4d849.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/3d953f88-69ca-409b-95dc-57f977554b2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/80c5dd47-d736-4c39-8337-531f19563ae2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/9593313b-6952-4bf0-bc5c-682cee6d721c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/a5add4d6-4da1-42a3-8882-b68ac14f04f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/04e8d084-3d3d-4933-9b1c-e4d1b3317de2.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/50c7ba84-a416-4dcd-be3e-9679bce87f02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/83b957e9-d1ec-46a4-975a-3db992a29460.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/b8e35ac8-b12e-472f-920e-874072c7132b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/adfbfd81-4d81-48cf-81d7-d00153dab4e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ffd3df74-c4e4-45a0-8358-3af559382fa3/3689986d-cd28-4cd6-be7f-febcdaf007ce.png"
+      ],
+      "expert_review": "What Is the 2025 Ford Mustang Mach-E?\nThe Ford Mustang Mach-E is a five-seat electric SUV with a sporty demeanor and a choice of a standard or extended-range battery pack and rear- or all-wheel drive. In its base trim, the Mach-E is a spacious and comfortable electric vehicle with an airy cabin and plenty of punch for everyday driving. Lower trim levels offer between 264 and 365 horsepower, depending on configuration, while the GT boasts 480 hp and scorching performance, including a 0-60 mph time under four seconds. Available for the GT is an off-road-oriented Rally Package that adds unique styling touches, a specially tuned and 0.8-inch higher suspension, white 19-inch wheels, all-terrain tires and underbody shielding. Mach-E rivals include the Chevrolet Blazer EV, Chevrolet Equinox EV, Hyundai Ioniq 5, Kia EV6, Tesla Model Y and Volkswagen ID.4.\nWhat’s New on the 2025 Ford Mustang Mach-E? \nAll Mustang Mach-Es now come standard with a heat pump, which is more efficient at managing cabin temperatures than a traditional climate system. The latest version of Ford’s BlueCruise hands-free highway-driving system (version 1.5) is newly available, adding enhanced functions. Minor trim alterations include new paint colors and wheel choices, along with a Sport Appearance Package that adds some of the GT’s visual elements to the Premium trim.\nHow Much Range Does the 2025 Ford Mustang Mach-E Have?\nThe Mustang Mach-E’s EPA-estimated driving range runs from 250 to 320 miles, depending on battery pack, drive wheels and trim.\nHow Long Does It Take to Charge the 2025 Ford Mustang Mach-E?\nWith its available extended-range battery pack, the Mustang Mach-E’s charging times range from an estimated 10.1 hours on a standard 240V Level 2 charger (to go from empty to a 100% charge) to an estimated 36.2 minutes on a 350kW DC fast charger (to go from a 10% charge to 80%). With the standard battery pack, the estimated charge times are 7.1 hours on a Level 2 charger and 32.3 minutes on a DC fast charger.\nWhat Features in the 2025 Ford Mustang Mach-E Are Most Important?\nStandard features include: \n\n15.5-inch infotainment screen\nFord Co-Pilot 360 safety features\nWireless Apple CarPlay and Android Auto\nWireless device charging\n18-inch alloy wheels\nAutomatic emergency braking\nForward collision warning\nSatellite radio\nSynthetic leather seating surfaces\nAdaptive cruise control\nBlind spot warning\nLED headlights\nAutomatic high beams\n\nAvailable features include: \n\nBlueCruise hands-free highway driving assist\nPanoramic moonroof\nAll-wheel drive\nSurround-view parking camera\nHands-free park assist\nHeated steering wheel\nBrembo brakes\nAdaptive suspension\nAmbient interior lighting\n20-inch alloy wheels\n\nShould I Buy the 2025 Ford Mustang Mach-E?\nUnless you’re a die-hard Mustang purist who insists on the visceral thrill of a gas-fed engine (and can’t cotton to the idea of a Mustang SUV), the Mustang Mach-E is a smart and speedy choice. Thanks to its airy cabin and intuitive infotainment system, getting comfortable and accustomed to the interior takes only a moment. Cargo room is plentiful, which is a compliment you’ll never hear given to the regular Mustang. The GT has sports-car levels of acceleration, but most EV shoppers will find that the Select and Premium trims deliver plenty of performance and range at a much lower price.",
+      "trims": [
+        {
+          "name": "Select RWD",
+          "price": "$37995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available BlueCruise hands-free highway driving assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "387 SAE Net Torque @ RPM",
+              "264 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "4,595 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Select AWD",
+          "price": "$40995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available BlueCruise hands-free highway driving assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "500 SAE Net Torque @ RPM",
+              "325 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,774 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$41995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available BlueCruise hands-free highway driving assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "387 SAE Net Torque @ RPM",
+              "264 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,595 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$44995",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available BlueCruise hands-free highway driving assist"
+            ],
+            "Highlights": [
+              "226 - 320 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "325 SAE Net Horsepower @ RPM",
+              "500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "4,759 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "GT AWD",
+          "price": "$54495",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "Up to 320 miles of EPA-estimated range",
+              "Acceleration in GT trim",
+              "Available BlueCruise hands-free highway driving assist"
+            ],
+            "Highlights": [
+              "260 - 280 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "480 SAE Net Horsepower @ RPM",
+              "600 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,952 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/a6171021-01a6-4de4-85e2-c34afd98f622.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/69d1585a-6c36-46e2-bbce-8b0c14074664.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/e3aaf7db-0f65-42ce-8ab4-0c83a5d9e3f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/bd1cad59-4259-4848-82b3-b35f21fed8a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/e221f5eb-0168-4200-a2f1-81dfe38bb6b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/cf8d52ac-4a73-4cd9-bdbb-b294c0d347d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/1a84f98f-1a62-492c-9ac6-3d3792caffd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/89da2faf-c39e-4153-8706-c17bcf7bf1e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/504ef27f-ca6b-4b2c-80c0-59fd54d5143e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/6cc04503-af9c-40e8-8d07-351e77138526.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/67caa267-34a3-40f7-8960-f6b5dbddc625.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/dec0a6c9-d877-4dee-b5ad-3be3474ca0ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/881546dc-b7f0-4d89-90df-2bdc609fd6cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/61cce0f2-9b51-4552-9d96-c1bf08ebadeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/c5278a1d-db55-46a0-bfdd-c4dd283b1818.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/443c7aa3-3986-4153-a7e1-16be4e58878f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2208186f-509f-4bfe-8c70-4728b04093b0/c4ca1833-a8ee-479a-abe8-aa4fd2dad5ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/cb31ea2e-195e-46e6-9397-40c55c5c42a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/ae1962ce-ee8a-4a27-b3a6-09e5f696ab0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/5d5f1310-1a02-4d48-98ad-7448fde6a9a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/08392c3a-0834-4944-8730-62498b52d472.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/95d1a40c-2901-46dc-88a2-9c212c55c3e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/ec23c587-c557-442f-9400-9b549deddae6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/6182de48-5c25-4ce0-a664-b857a223454e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/493f9c91-dcf8-46f0-85d3-26088f3a63f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/305cc7c5-52ef-4e5e-98f8-fad171f808b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/d911b2c6-fb0b-48a1-8940-e40b7c839d89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/d48029a4-a099-4106-a82a-4024890e913e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/3e155155-b5d3-4ba1-bbc4-8e012306834c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/667f303b-8a52-452d-8a89-1af15673f11e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f42004f2-dc38-497a-b98f-06fd8c0c1b5b/5aaf9987-4626-4455-bd68-56ff9be2ec78.png"
+      ],
+      "expert_review": "The 2021 Ford Mustang Mach-E has a lot going for it, and a few things working against it. Most of the former is clear from looking at the specs, features and photos. I’m going to lay out a lot of those things, but there’s been a fair amount of praise out there about the Mach-E in the past week or so, and we at Cars.com have never been ones to hide a dissenting opinion. Buckle up for that as well.\n\nRelated: Ford Mustang Mach-E Leans Into Muscle-Car Moniker\n\nGobs of Good\n\nAs for what’s good about the Mach-E, just look at the numbers. EPA-estimated ranges extend from 211 miles with the base model’s battery and all-wheel drive to 300 miles with an optional higher-capacity battery and rear-wheel drive (Ford is targeting 305 miles in the California Route 1 version, currently unrated).\n\nFor the trim levels available now — Select, Premium, First Edition (sold out) and California Route 1 — prices range from $43,995 to $50,900 including destination charges but excluding a federal tax credit of up to $7,500 (depending on your finances). Assistant Managing Editor Kelsey Mays and I tested a Premium all-wheel-drive model with the higher-capacity battery over the course of 48 hours. It has separate front and rear drive motors with total 346 horsepower and 428 pounds-feet of torque.\n\n2021 Ford Mustang Mach-E | Manufacturer image\n\nThe Mustang Mach-E is a good-looking, distinctive vehicle in a class where some models are peculiar and others are indistinguishable from gas-powered options. You get in by way of push-button door releases, which I’ve never been a fan of, but I can’t find fault with these. You simply push the button on the outside, and the door pops out. The front ones have wings you can grab as well. What’s this no-handle design about? It’s partly to remove the aerodynamic drag that comes from any kind of door handle. Apparently the front door wing handles at the base of the windows are designed with benign effect. Most important, the doors have normal-feeling release levers on the inside — unlike the electronic releases inside the Chevrolet Corvette, which never felt right to me.\n\n2021 Ford Mustang Mach-E front trunk | Cars.com photo by Joe Wiesenfelder\n\nAbsent an engine under the hood, the Mach-E has a front trunk, and I wish I could praise it as much. It requires you to pull what’s essentially a hood release, twice, in the driver’s footwell in order to open it. There’s no handy push button on the car, key fob, touchscreen or app, as you would expect of a space intended for frequent use. The space itself is clearly secondary to the rear cargo area, but easier access would have been worthwhile.\n\nAs full battery-electric SUVs go (if that’s what this is), the Mach-E manages to be reasonably accommodating inside without being gigantic outside, unlike the pricey Jaguar I-Pace, another electric vehicle. We often have problems with Ford seats; these aren’t bad, but a bottom-cushion tilt adjustment is missing, and was missed. Rearward visibility isn’t great due to the thick rear window pillars. A full-time rearview-camera mirror would be a good addition.\n\n2021 Ford Mustang Mach-E 15.5-inch touchscreen | Manufacturer image\n\nIn terms of controls, the Mach-E seems closest to the Tesla Model Y with a large touchscreen that looks like a floating tablet, but the Ford also has a minimalist instrument panel, itself a digital display, behind the steering wheel — something Tesla vows never to include. The Mach’s tablet measures 15.5 inches diagonally (13.5 inches excluding the fixed section for ventilation controls), and it’s oriented vertically rather than horizontally like the Model Y. Its large physical volume knob, which Ford plants in the lower-middle screen, is a plus, though I think Tesla’s onscreen interface is better. With its over-the-air updatability, there’s opportunity for improvements in this regard.\n\n2021 Ford Mustang Mach-E instrument panel | Manufacturer image\nWe Have Issues\n\nOur one big takeaway about the Mustang Mach-E with 19-inch wheels was that it didn’t ride well. We set the tire pressures to spec, as we do religiously, but we found the ride quality hard and unsettled, particularly for a compact premium SUV. The car’s dynamics are decent, with the expected low center of gravity and minimal body roll. Our AWD car had a definite understeer bias nosing into a curve when off the power, but hitting the accelerator balances it out and even loosens up the tail. As is often the case with electrics, you can’t escape the feeling of the car’s weight when changing direction. Our Mach-E’s base curb weight is given as 4,920 pounds with all-wheel drive, an enormous 526 pounds higher than the rear-drive version.\n\nRide quality depends on personal preference and region (ride quality relates to road quality), and it’s worth noting that the Mach-E offers 18-, 19- or 20-inch wheels, all of which may affect tire profiles and ride harshness. To those ends, Kelsey and I are both sticklers on this issue, and there are many vehicles we think ride like hell that nevertheless sell in the millions (the Honda CR-V is one high-profile example). We live in the Chicago area, where the streets are paved yet disastrous, and there’s no shortage of rough riders like the CR-V on our mean streets.\n\n2021 Ford Mustang Mach-E 19-inch wheel | Manufacturer image\n\nLet’s put things in perspective: We think the Tesla Model S (passive suspension) and Model 3 are also too firm for our region, and by extension, the 3-based Model Y — a key Mach-E competitor — probably is, too (though we haven’t sampled it). But we’ve also spent decades heaping praise on Ford’s frequent ability to provide exceptional handling and ride together. Achieving these seemingly opposing goals in the same vehicle is so rare that I’ve questioned if Ford’s engineers made a pact with the devil. For the Mach-E, well, perhaps their number was up. Or maybe electric-vehicle ride quality is just that difficult. Many examples ride firmly, and not all of them can use sportiness as a convenient excuse. Of the recent crop, I was most comfortable in the Polestar 2, which had manually adjustable shock absorbers set on the softer side. (Laugh if you must, but if the only thing making a car incompatible with your region or preferences is suspension tuning, a one-time adjustment is a pretty compelling option.) The Polestar 2 has its own limitations, most notably its price, partly because of import tariffs (it’s assembled in China).\n\nAnother disappointment for a car bearing the Mustang badge was the braking — not the stopping power, which seemed strong, but the pedal action and controllability. We found it very grabby to start and nonlinear through the range of travel. Regenerative braking action has always been difficult to perfect, but it’s been improving across the market. Not so much here. I switched to the Mach-E’s driver-selectable 1-Pedal Drive mode, which activates strong enough braking when you lift off the accelerator that you barely have to use the brake pedal at all. I always like this type of mode even when not trying to avoid a frustrating pedal, and you might find yourself trying it even if you don’t usually care for it. In the Mach-E’s default mode, the car barely decelerates when you don’t step on the brakes. It just. Keeps. Going.\n\nRegenerative braking has a major software component, so we wonder if any part of what we experienced could be improved with code updates, perhaps using the Mach-E’s over-the-air updatability. It is early, and the car is designed to evolve and improve, as Teslas have done for years. To that end, we had a few other quirks with our early release:\n\nNeither Android Auto nor Apple CarPlay were functional for our phones, either wirelessly or when attached via USB cables.\nThe Propulsion Sound wouldn’t work for the first few hours of our loan. We’d use the touchscreen to turn the defeatable feature on, and it would slide back off again before our eyes. Eventually it just started working on its own.\nWe attempted to use a smartphone as a key, but it got stuck while downloading despite several attempts. To Ford’s credit, most automakers don’t even attempt to give reviewers access to smartphone apps, and we found the FordPass app useful for monitoring charging status, setting up the car without being in it and spying on other journalists after we turned the car back in.\n2021 Ford Mustang Mach-E | Manufacturer image\nIs It a Mustang?\n\nThe Mach-E’s Mustang-inspired external design and the words “GROUND SPEED” under the speedometer are essentially where the similarities end. This SUV is based on a different platform from the real Mustang, and the decision to call it a Mustang was a marketing move — a defensible and possibly brilliant one. (It generates buzz and underscores that electric cars can be fun and sporty.) We knew it wouldn’t drive like a Mustang before we got behind the wheel. Now that we have, we can say it categorically doesn’t drive like a Mustang. Granted, it’s quick, with 0-60-mph estimates as high as 6.1 seconds with the larger battery and RWD to as low as a targeted 3.5 seconds in the coming GT Performance Edition, according to Ford. It has the flat cornering described above, too. But the experience is fundamentally different, and it clearly lacks the original’s decades of refinement.\n\nCharging a Mach-E\n\nFord includes a mobile charger, which can be fitted with a plug for 120 volts or another one for 240 volts. With the latter, this unit should be enough for most owners. Its capacity is 30 amps (requiring a circuit with a 50-amp breaker and a NEMA 14-50 outlet), good to add roughly 20 miles of range for every hour it’s connected, according to Ford. If you want to goose that to roughly 30 miles per hour, you can buy a wall-mounted Ford Connected Charge Station for $799 plus installation. It delivers 48 amps but requires a heartier circuit and 60-amp breaker.\n\nI confirmed Ford’s claim that the Mach-E adds about 3 miles of range for an hour of charging on a 120-volt household outlet drawing a decent 10.5 amps (some units go as high as 12 amps while others are stingier). This is not the way to charge a real EV, but the number of miles you can add at a set voltage and amperage is a window into the vehicle’s efficiency, and this is typical for a plug-in SUV. (Some cars add 5 miles per hour.)\n\nI wasn’t able to test Level 2 (240-volt charging) because of our short loan, but it bears noting that every Mach-E has an onboard charger (the hidden hardware converts AC to DC for Level 1 and 2 charging) with a 10.5-kilowatt capacity, which translates to faster charging than many EVs support if they’re fed enough current at 240 volts AC. Most of today’s electric cars top out at 6.6 kW (Nissan Leaf) or 7.2 kW (Chevrolet Bolt EV), and even some less-efficient SUVs like the Jaguar I-Pace and Audi E-Tron accept only 7 kW and 9.6 kW, respectively. All of that exacerbates the fact that the same amount of current for the same period already translates to fewer miles of range for these models than it does in the Mach-E (more on that next). For reference, Tesla onboard chargers currently range from 7.7 to 11.5 kW, and the coming 2021 Volkswagen ID.4 is rated at 11 kW.\n\nOnboard charger capacity isn’t the only thing that determines how quickly a plug-in can charge. How efficiently the vehicle operates is primary. The EPA rates the Mach-E at 90-100 mpg-equivalent combined, depending on the version, which is better than some. The agency’s mpg-e means little relative to gas-powered vehicles, but it’s good for comparing EVs with each other. The I-Pace is rated a pathetic 76 mpg-e combined, only slightly better than the Porsche Taycan (69 mpg-e at best). The little Volvo XC40 Recharge is also surprisingly bad at 79 mpg-e. The VW ID.4 is rated 97 mpg-e, and the two Tesla Model Y versions currently rated are 111 and 125 mpg-e. For what it’s worth, no one comes near Tesla’s efficiency: Three versions of its Model X SUV, which is considerably larger than the Mach-E, rate higher, up to 105 mpg-e. But the fact that the rest of the models are rated more efficient than the top Mach-E are cars (or cars masquerading as SUVs, like the Hyundai Kona) prove that Ford is doing it right.\n\nI also sought out a higher-powered public DC fast charger because the Mach-E can accept up to 150 kW for a claimed 61 miles in just 10 minutes. Some EVs can’t accept this much DC power, and some charging stations don’t provide it. The fast charger 2 miles from my home is limited to 24 kW. The 50-kW option 7 miles away has been “under repair” for months. A new Electrify America location (150 kW) 3 miles away was also broken, so I drove 7 miles to a different EA station. There, the first of four kiosks I tried failed to work twice; EA remotely rebooted the unit after I called, and then it still failed before I was directed to a different “pump” at the same station. That unit worked.\n\nWhy do I tell you all this? Because this kind of thing is all too common at this stage of the EV revival, at least where I live. Cars.com’s editors want, need and support EVs, but we’re not going to tell you the ownership experience is free of frustrations — especially when it comes to public charging, which is seldom satisfying even at its best, because even “fast” charging isn’t very fast if you’re comparing it to a gas pump. The way to own an electric car is to charge it at home and use public charging as a backup.\n\nCompatibility problems between the latest EVs and charging stations isn’t uncommon, and in this case the obstacle seems to be the one charging unit that combines the older CHAdeMO connector with the nearly universal Combined Charging System connector used by the Mach-E. (Electrify America says the problem will be addressed.) Once I moved over to one of the functional CCS-only chargers, the station automatically recognized the car and its already set-up account, and it started charging before I could use my own app. This Tesla-like seamlessness is welcome.\n\nDC fast-charging a 2021 Ford Mustang Mach-E | Cars.com photo by Joe Wiesenfelder\n\nThe charging station showed it was delivering 87 kW to the Mach-E, but it never went higher than that. Ford says the factors that influence charging rate include external temperature, battery temperature and the battery’s state of charge. The latter might be the issue because my car’s battery was at 50% when I started (all batteries charge faster when empty). All the same, it piled on miles of range, going from an estimated 106 miles to 195 in 28 minutes. I quit at 81% battery capacity when I realized the charging rate had plummeted to just 12 kW at the magic 80% mark, which is when all EVs I’ve tested slow things down to prevent damage.\n\nAccording to Electrify America, the session delivered 31 kilowatt-hours and cost $13.31. That rounds up to 15 cents per mile, which is no bargain, but fast charging seldom is when you’re the one paying. For comparison, the 3 miles I added at home (1.28 kwh per my meter) is just over 5 cents per mile based on my utility rate of 12 cents per kwh. This is decent for an electric SUV, and cheaper than the 8 cents per mile you’d pay to drive a 2020 Ford Escape AWD rated 28 mpg combined on today’s cheap gasoline ($2.25 as I write this). The Mach-E Premium AWD (not the most efficient version) even edges out an Escape Hybrid AWD, rated 40 mpg combined, by a half-cent in my region. Due to regional differences in electric and gas prices, your results may vary.\n\nThe EV That Has It All?\n\nI admit, I was ready to love the Mach-E based on all of the important considerations you can see on paper and through images. It has the range, charging rate, pricing, size, features and even the styling to be a mass-market hit, and that’s been sorely missing in a market subsegment with small cars at one end and high-priced luxury SUVs at the other.\n\nDriving it tempered my enthusiasm quite a bit. Some of that might come because it was an early and glitchy sample, but not all of it. I’m looking for the electric vehicle that has it all, and at first blush, the Mach-E doesn’t seem to be it. But neither does anything else. So far.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Select RWD",
+          "price": "$42895",
+          "specifications": {
+            "Notable features": [
+              "All-electric five-seat SUV",
+              "Estimated ranges of 211-305 miles, depending on equipment",
+              "Over-the-air updatability",
+              "Smartphone-as-key functionality",
+              "Standard DC fast charging up to 150 kW",
+              "Plug & Charge billing at compatible public stations"
+            ],
+            "Highlights": [
+              "211 - 230 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "266 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,394 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Select AWD",
+          "price": "$45595",
+          "specifications": {
+            "Notable features": [
+              "All-electric five-seat SUV",
+              "Estimated ranges of 211-305 miles, depending on equipment",
+              "Over-the-air updatability",
+              "Smartphone-as-key functionality",
+              "Standard DC fast charging up to 150 kW",
+              "Plug & Charge billing at compatible public stations"
+            ],
+            "Highlights": [
+              "211 - 230 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "266 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "428 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,587 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$47600",
+          "specifications": {
+            "Notable features": [
+              "All-electric five-seat SUV",
+              "Estimated ranges of 211-305 miles, depending on equipment",
+              "Over-the-air updatability",
+              "Smartphone-as-key functionality",
+              "Standard DC fast charging up to 150 kW",
+              "Plug & Charge billing at compatible public stations"
+            ],
+            "Highlights": [
+              "211 - 300 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "266 SAE Net Horsepower @ RPM",
+              "317 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,394 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$50300",
+          "specifications": {
+            "Notable features": [
+              "All-electric five-seat SUV",
+              "Estimated ranges of 211-305 miles, depending on equipment",
+              "Over-the-air updatability",
+              "Smartphone-as-key functionality",
+              "Standard DC fast charging up to 150 kW",
+              "Plug & Charge billing at compatible public stations"
+            ],
+            "Highlights": [
+              "211 - 300 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "266 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "428 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,920 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "California Route 1 RWD",
+          "price": "$50400",
+          "specifications": {
+            "Notable features": [
+              "All-electric five-seat SUV",
+              "Estimated ranges of 211-305 miles, depending on equipment",
+              "Over-the-air updatability",
+              "Smartphone-as-key functionality",
+              "Standard DC fast charging up to 150 kW",
+              "Plug & Charge billing at compatible public stations"
+            ],
+            "Highlights": [
+              "305 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "290 SAE Net Horsepower @ RPM",
+              "317 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,727 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "GT AWD",
+          "price": "$59900",
+          "specifications": {
+            "Notable features": [
+              "All-electric five-seat SUV",
+              "Estimated ranges of 211-305 miles, depending on equipment",
+              "Over-the-air updatability",
+              "Smartphone-as-key functionality",
+              "Standard DC fast charging up to 150 kW",
+              "Plug & Charge billing at compatible public stations"
+            ],
+            "Highlights": [
+              "260 - 270 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "612 SAE Net Torque @ RPM",
+              "459 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,920 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/57e07a42-249a-4407-8be1-32936991edfa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/b572d891-ae7a-4fa3-aad8-760b555580c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/7ba5f2ea-f699-4d0a-9b39-82bb9dfd0f14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/dfedd360-3832-4745-b0dd-39a3de1f55ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/5475c989-cd59-4c93-aef7-a7dbb28fcd55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/d86d31ed-da02-483b-a6d7-102572aedb98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/ab2eff47-b2b3-478b-8d1e-e008fe71facb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/8dbcdf7d-ad50-48b4-b1bb-aeb200026cbb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/7eda1afa-f39e-429e-8607-365faa6cf23a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/39373d62-1a47-436b-a389-38f010e95b04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/a14265d3-ecbe-4cd7-a666-dc9e6e631864.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/1818efa8-fad3-428c-a42e-1c317186199e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/c9f65f7b-6f11-4bf1-9add-368e738115f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/1aacaba3-583b-4b02-9bf7-a9b175541396.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/96d95a25-7e11-4618-8860-788fe8a7b297.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/967d0498-a012-4e42-9059-4f7205ea4bd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/967d0498-a012-4e42-9059-4f7205ea4bd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/96a1e12e-455b-448a-a362-ce67cc6e9f21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/645a6c76-bdba-4679-ac2d-cd44a9cdf86d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/e8cbe9a1-817c-4e37-aa92-1bd2c3cc9b56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/4679e9e7-bcdb-4b58-a5f7-cf89d8b23f64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/9074ab57-b982-4306-8530-92a3799f3829.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/4888e992-4d88-44fd-8250-3460a8ec8fa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/b9b18867-135a-4d8f-b62e-4433ba027a83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8dbb40db-325e-4dff-9df3-fff3d39537fa/adc756e9-dd16-4a86-be4e-f2e7b4412567.png"
+      ],
+      "expert_review": "We’re fans of the Hyundai Ioniq 5, naming it our Best Electric Vehicle of 2023, but that doesn’t mean it’s perfect (we haven’t found one yet, but we’ll let you know when we do), and it’s just one of a number of all-electric SUVs you can buy. We use the term SUV loosely here; many of these EVs could be mistaken for mid-size hatchbacks, but since Americans are largely allergic to hatchbacks, SUVs they are.\n\nRelated: Hyundai Ioniq 5 Vs. Tesla Model Y: Functional Vs. Funky\n\nThe Ford Mustang Mach-E is another one of these hatchback-like SUVs, and it’s also a Cars.com award winner; it took home 2021 Best Eco-Friendly Car honors in its debut year. The Mustang Mach-E gets some updates for 2023, including the latest version of Ford’s BlueCruise hands-free driving system, which can now perform lane changes.\n\nWe recently tested both of these EVs in Chicago and its suburbs, driving them back to back and testing both Level 2 home charging and DC fast-charging performance. The testing revealed key differences between the two EVs, as well as who they might be best suited for. You can see what we liked (and disliked) about each below, or check out the related video where we discuss both EVs at length.\n\nRelated Video:\n\n2023 Ford Mustang Mach-E Premium AWD\n\nThe verdict: If you’re looking for a sportier EV, live somewhere with smooth roads or spend a lot of time driving on the highway, the Ford Mustang Mach-E’s handling attributes and hands-free driving system will be appealing, but beware its extremely firm ride.\n\nAs-tested price: $58,795 (including destination, but not counting federal tax credit of up to $3,750)\nEPA-rated combined efficiency: 92 mpg-equivalent\nEPA-rated range: 290 miles\nMiles of range added in 1 hour on 48-amp Level 2 home charger: 30\nMiles of range per minute at DC fast charger: 4.7\nThe Good\n\nHandling: It’s fun to toss the Mustang Mach-E into a corner — the SUV stays flat, composed and doesn’t complain — but its steering doesn’t offer any road feel, which limits overall driver engagement. The car will tolerate your antics, but it doesn’t urge you to push it even harder.\n\nHands-free driving system: Ford’s BlueCruise is a confidence-inspiring system that doesn’t make decisions that leave the driver second-guessing it, though it is better suited to stretches of open highway rather than the busy, sometimes hectic interstates near urban centers. The new lane-changing feature controlled by the turn signal stalk is a helpful addition.\n\nInterior quality: The Mustang Mach-E’s interior features solid build quality and materials that look and feel nice (aside from the faux carbon fiber on the dashboard, which is cheap-looking). Door panel materials and other soft-touch trim in the front of the cabin carry through to the rear seating area, which doesn’t see a drop-off in quality. Overall, the cabin feels just a bit nicer than the Ioniq 5’s.\n\nTouchscreen functionality: While climate controls that appear on a touchscreen still aren’t our first choice, Ford does it better than most on the Mustang Mach-E’s vertically oriented 15.5-inch touchscreen; the controls persist at the bottom of the screen regardless of what’s appearing in the top two-thirds. The touchscreen’s menus for audio and navigation are straightforward, too, though it’d be nice to have a direct tune feature for satellite radio as there is for FM radio. AM radio, alas, is absent.\n\nConnectivity: The Sync 4A infotainment system includes wireless Apple CarPlay and Android Auto connectivity, and there are USB-A and USB-C ports if you prefer a wired connection. Wireless CarPlay is easy to set up, and CarPlay uses the majority of the touchscreen’s real estate above the climate controls.\n\nFront trunk: Unlike the Ioniq 5’s front storage bin that’s so small, it’s of questionable value, the Mustang Mach-E has a proper front trunk that enhances utility; the frunk adds another 2 cubic feet of cargo space, according to Cars.com’s cargo measurements, and it also includes a drain.\n\nRear window wiper: A rear window wiper might not seem like an important feature — and a number of electric SUVs, including the Ioniq 5, don’t have one — but it’s one of those things you don’t miss until you need it, and you’ll be glad you have it whenever it’s raining.\n\nThe Bad\n\nRide quality: Ride quality is the Mustang Mach-E’s Achilles’ heel. It’s too firm for what it needs to be; at one point, a backseat passenger of ours was on the brink of getting out because the ride was so uncomfortable on Chicago’s less-than-perfect blacktop. If you live anywhere potholes and rutted roads are more common than not, you should think twice before purchasing one of these.\n\nVisibility: The driver’s over-left-shoulder view is restricted by the Ford’s B-pillar, and over-right-shoulder visibility is hampered by the SUV’s shorter side windows. Electronic visibility aids include blind spot warning indicators in the side mirrors and a 360-degree camera system, both of which are helpful but not substitutes for natural visibility.\n\nBackseat accommodations: The backseat is reasonably comfortable — taller passengers sit with their knees elevated, but there’s good foot space underneath the front seats, as well as enough headroom with the glass roof — but the side windows are on the shorter side, which restricts visibility. The Ioniq 5’s interior feels airier, and its backseat slides and reclines (the Mustang Mach-E’s does neither).\n\nDC fast charging: It took 32 minutes to DC fast-charge the Mustang Mach-E’s extended-range battery from 26% to 80%, adding 149 miles of range. Our calculated average charging rate was 97.5 kilowatts — a bit below the extended-range variant’s maximum of 150 kW. The Ioniq 5, by comparison, charged from roughly the same level in almost half the time (18 minutes) on the 350-kW DC fast charger we used for our test.\n\nRear cargo area: While the Mustang Mach-E’s usable front trunk is a benefit, it has less cargo space behind its backseat than the Ioniq 5, according to our measurements. The cargo area measures 15.9 cubic feet to the Ioniq 5’s 19.1 cubic feet, and the Mach-E’s frunk can’t make up the difference.\n\nNo sunshade: The Premium trim level’s panoramic glass roof makes the interior of the Mach-E feel more open, but it’d be nice to have a sunshade for times you’d rather keep the sun out.\n\nResearch the 2023 Ford Mustang Mach-E | Search Inventory | Car Seat Check\n\n2023 Hyundai Ioniq 5 Limited AWD\n\nThe verdict: Many practical attributes like a reasonably comfortable ride, good interior space and quick DC fast charging make the Hyundai Ioniq 5 a sensible choice for families and anyone who plans on road-tripping with their EV.\n\nAs-tested price: $58,045 (with destination)\nEPA-rated combined efficiency: 101 mpg-e\nEPA-rated range: 266 miles\nMiles of range added in 1 hour on 48-amp Level 2 home charger: 31\nMiles of range per minute at DC fast charger: 7.2\nThe Good\n\nAcceleration: The Ioniq 5 responds quicker when you press the accelerator pedal, and it feels slightly swifter overall. The 0-60 mph times we observed at the drag strip when testing prior model years of the Mustang Mach-E and Ioniq 5 bear this out, with the Hyundai coming in 0.7 second quicker with a time of 4.7 seconds.\n\nRide quality: The Ioniq 5’s ride quality is better than the Mustang Mach-E’s; even though the Hyundai still rides firmly, it’s not as brittle or harsh over bumps. There’s better isolation from impacts overall, and that results in greater ride comfort. The Hyundai is a better choice if you live somewhere that doesn’t have perfectly smooth roads.\n\nDC fast charging: The Ioniq 5’s higher 235-kW maximum charging rate has real benefits when charging at the right type of DC fast charger. A 350-kW EVgo charger brought the Ioniq 5’s battery from 28% to 80% in 18 minutes, or a little more than half the time it took the Mach-E to charge (32 minutes) from roughly the same starting point. The charge session added 130 miles of range, or 7.2 miles of range per minute.\n\nRoomy interior: The front of the cabin is airy, the seats are comfortable, and the space between the driver and front passenger is relatively open. The Ioniq 5’s backseat also offers adjustability that the Mustang Mach-E doesn’t, with a sliding and reclining seat that has good space for adult passengers.\n\nVisibility: The Ioniq 5’s overall visibility is better than the Mach-E’s thanks to a shorter hood that drops away from the driver’s view, a more upright shape with taller side windows and roof pillars that aren’t as prone to blocking your view. The Hyundai also has a number of blind spot warning indicators — icons in the side mirrors along with camera views and warnings in the digital instrument panel.\n\nThe Bad\n\nHandling: The Ioniq 5’s more comfort-oriented suspension tuning means it doesn’t handle as well as the Mustang Mach-E; there’s more body roll in corners versus the Ford’s flatter cornering.\n\nTouch-sensitive climate controls: The Mach-E’s climate controls are on its large center touchscreen, but the Ioniq 5 has a separate touch panel below its own dashboard screen. We’re not fans of touch-sensitive controls that aren’t part of a screen, and Ioniq 5 drivers would have been better served with actual buttons or knobs for these controls.\n\nWireless connectivity: The Ioniq 5’s standard 12.3-inch touchscreen multimedia system includes Apple CarPlay and Android Auto, but it doesn’t support wireless connectivity for these systems. This might seem like a nitpick, but the convenience of wireless CarPlay and Android Auto is real, and you miss it in cars that don’t have it.\n\nNo hands-free driving system: The Ioniq 5 comes with different versions of Hyundai’s Highway Driving Assist system, depending on the trim level, and while the system can help manage speed and steering on the highway, it’s not a hands-free system like BlueCruise. The Limited trim’s Highway Driving Assist II system also includes lane change assist, but in our testing, it responded too tentatively to be of much use on busy urban interstates.\n\nNo rear window wiper: It’s odd Hyundai decided to skip a rear wiper blade for the Ioniq 5; you’ll find the common (and useful) feature on other Hyundai SUVs, including the inexpensive Venue.\n\nResearch the 2023 Hyundai Ioniq 5 | Search Inventory | Car Seat Check\n\nMore From Cars.com:\n\n2023 Ford Mustang Mach-E: Orders Reopen With Lower Prices, Increased Range\nFord Mustang Mach-E Premium Vs. GT Performance Edition: Is the GT Worth the Extra Money?\n2023 Hyundai Ioniq 5 Gets More Range, Equipment, $1,500 Price Increase\n2022 Hyundai Ioniq 5 Named IIHS Top Safety Pick Plus\nShop Electric Vehicles\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Select RWD",
+          "price": "$39895",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "More than 300 miles of range",
+              "Acceleration in GT trim",
+              "Available BlueCruise automated driving"
+            ],
+            "Highlights": [
+              "224 - 250 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "266 SAE Net Horsepower @ RPM",
+              "317 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,394 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$42895",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "More than 300 miles of range",
+              "Acceleration in GT trim",
+              "Available BlueCruise automated driving"
+            ],
+            "Highlights": [
+              "224 - 310 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "266 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,394 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Brake Assist",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Select AWD",
+          "price": "$42895",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "More than 300 miles of range",
+              "Acceleration in GT trim",
+              "Available BlueCruise automated driving"
+            ],
+            "Highlights": [
+              "224 - 250 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "427 SAE Net Torque @ RPM",
+              "311 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,587 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$45895",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "More than 300 miles of range",
+              "Acceleration in GT trim",
+              "Available BlueCruise automated driving"
+            ],
+            "Highlights": [
+              "224 - 310 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "311 SAE Net Horsepower @ RPM",
+              "427 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,920 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Brake Assist",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "California Route 1 AWD",
+          "price": "$48895",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "More than 300 miles of range",
+              "Acceleration in GT trim",
+              "Available BlueCruise automated driving"
+            ],
+            "Highlights": [
+              "312 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "346 SAE Net Horsepower @ RPM",
+              "428 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "4,727 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "GT AWD",
+          "price": "$52395",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric SUV",
+              "Rear- or all-wheel drive",
+              "More than 300 miles of range",
+              "Acceleration in GT trim",
+              "Available BlueCruise automated driving"
+            ],
+            "Highlights": [
+              "260 - 270 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "600 SAE Net Torque @ RPM",
+              "480 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,920 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/4fec27fa-b781-48e7-826f-b26048530e2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/fcd272ee-9d74-438b-b861-15ac3d0f9748.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/d01c7982-5d5c-45a0-85ac-056882a411d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/3dcb67fd-c4f1-42d1-b41a-9f777e72e946.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/452bc29b-5b02-4938-b027-ba3fe50e4bdd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/a6f61986-6796-402d-bee0-63b80133da4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/ab3d13f1-af3e-4f42-8bcd-ced63b8440e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/af738c5d-8c6e-439d-8c76-ea4fb24b0efc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/61d9e70e-6a07-4e48-bb37-d555bd8c4aca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/e76b0fdd-59f8-40b1-9048-a09891234bff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/2826ef9d-feb9-4990-93ad-3abe57c6ef62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/9ffd3f27-124d-43ac-b584-ceb44a745497.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/3262788c-da3c-4293-badf-80292a6f9eac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/2554f463-1051-454d-ae82-2f781e488a99.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/805097be-815c-4cdd-97d7-785c4a83c1b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/f4ca663e-7e55-497f-9829-1f3cbed5e7c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/1c06ec9b-9325-4167-a408-5e079779e79c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/15a02d67-77ce-46e8-b438-4143f9bd2886/9dc2a8d4-ea21-461f-bb33-120e7a165481.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/b632eab4-895b-473b-8486-c9597dd7b47c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/a3eae27b-0bc1-467d-bbc1-94c0f07c43fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/efe78fa6-e911-4e14-9792-9ee299fd224a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/0ce5f786-1baa-46cd-bb17-a09f8ef42e5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/996d6672-57df-42d1-8b56-66a0b1acd2ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/4cd7d00f-7597-4ecd-a2ef-5d38087cc0a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/633a3593-bad3-4ab9-8260-ee3c3d6d9fdf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e5abea60-ce38-4e59-805b-2a3a97de8647/83278611-fd12-4a2e-b4bd-f1e57037966b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Select RWD",
+          "price": "$43895",
+          "specifications": {
+            "Highlights": [
+              "224 - 247 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "266 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "317 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,394 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Select AWD",
+          "price": "$46595",
+          "specifications": {
+            "Highlights": [
+              "224 - 247 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "266 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "428 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "4,587 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$49100",
+          "specifications": {
+            "Highlights": [
+              "224 - 303 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "266 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,394 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$51800",
+          "specifications": {
+            "Highlights": [
+              "224 - 303 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "428 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "266 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "4,920 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "California Route 1 RWD",
+          "price": "$52775",
+          "specifications": {
+            "Highlights": [
+              "312 - 314 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "290 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,727 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "California Route 1 AWD",
+          "price": "$55475",
+          "specifications": {
+            "Highlights": [
+              "312 - 314 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "346 SAE Net Horsepower @ RPM",
+              "428 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,727 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "GT AWD",
+          "price": "$61995",
+          "specifications": {
+            "Highlights": [
+              "260 - 270 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "600 SAE Net Torque @ RPM",
+              "480 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "4,920 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "make": "ford",
+  "model": "escape_phev",
+  "years": {
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/b221a262-b03b-469b-bf98-db3519b5f6ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/57e17edf-a4e5-4276-8f96-9702e0fc40ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/59abd73e-3107-4c55-875c-b6d1e0da6eff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/12d0027a-62ef-48f8-a6aa-db7aad627fab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/641e8ecf-9913-4551-aa37-3e84776c2b86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/23786173-19f1-4c52-abd1-c564ca501f9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/a23f1c17-e4d6-4fcb-931b-e94a55653fda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/046e102b-59ce-4bd8-98b8-3980b758f4ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/d536322e-98ac-431a-ad1c-0b726d26fa5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/61293bdd-a104-45ba-8af8-bb840031eb2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/a4403a64-043e-444a-8936-d274968487c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/aa55e345-d71c-4534-93e3-04a1746a1e8a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/d536322e-98ac-431a-ad1c-0b726d26fa5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/c16b0fc0-1ef1-4737-89b9-55f885a08b81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/2aaab425-b708-4b17-b0e1-74099a777776.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/2b6389aa-6e29-4477-8528-bdea50f94196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/d28c0a5d-a177-4a55-a821-81cc7c40e555.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/86c65054-2bb7-4f9a-8bd8-5dccfa761edb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/ac45c0bc-eb0d-4007-9df7-0aa248328ac2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/d76bbe7f-c672-426c-a465-6b006282deca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/1da8e58b-d300-4ee4-ae04-99260fc8c71e.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/ec236f48-b80c-464f-a9b0-45725e87b955.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/4372537f-7fb5-4e30-8169-d24d6880a6c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/92f8e95f-2246-4592-b3c9-bdb84e81ee14/246a8414-1214-436e-a288-c7b0fe6ecf9d.png"
+      ],
+      "expert_review": "Key Points\nThe 2026 Ford Escape offers six trim levels: Active, ST-Line, ST-Line Select, ST-Line Elite, Platinum and Plug-in Hybrid.\nPricing starts at $31,845 (all prices include $1,495 destination charge).\nPowertrain choices include two turbocharged gas engines, a hybrid and a plug-in hybrid.\n\nOne of the original compact SUVs, the Ford Escape was once the bestselling vehicle in its class. Today, it’s outsold by a handful of competitors but remains a strong contributor to Ford’s bottom line. With turbocharged, hybrid and plug-in hybrid powertrains; front- or all-wheel drive; and six trim levels all clustered between $31,845 and $38,705 (including the $1,495 destination charge), which 2026 Ford Escape is right for you?\n\nRelated: 2023 Ford Escape Review: Stepping On the Gas (and Some Rakes)\n\nPowertrains Specs and MPG\n\nFord offers two turbocharged gas engines in the Escape, as well as a hybrid and a plug-in hybrid. A 180-horsepower, turbocharged 1.5-liter three-cylinder engine produces 199 pounds-feet of torque. It is paired with an eight-speed automatic transmission. Front-wheel drive is standard, and all-wheel drive is available for $1,400. Fuel economy rings in at an EPA-rated 27/34/30 mpg city/highway/combined with FWD and 26/32/28 mpg with AWD. The three-cylinder setup offers a 2,000-pound towing capacity.\n\nThe larger turbocharged engine is a 2.0-liter four-cylinder generating 250 hp and 280 pounds-feet. It is also teamed with an eight-speed automatic but is only available with AWD. The 2.0-liter returns 23/31/26 mpg and bumps the Escape’s towing capacity to 3,500 pounds with the available towing package.\n\nIn those trim levels that offer the turbo four-cylinder as an option, a hybrid powertrain is the standard setup. It pairs a naturally aspirated 2.5-liter four-cylinder with an electric motor for 192 total hp. A continuously variable automatic transmission and AWD are standard on the hybrid Escape, which is rated at 42/36/39 mpg. Buyers needing to tow should note that the hybrid and plug-in hybrid can only tug a maximum of 1,500 pounds.\n\nThe plug-in hybrid Escape uses the same gas engine but a stronger electric motor to generate a combined 210 hp. A CVT is standard here, as well, but the PHEV is only available with FWD. It has an electric-only range of up to 27 miles and returns 40 mpg once the battery is depleted.\n\nTrim Levels\n\nThe 2026 Ford Escape offers six trim levels:\n\nActive: $31,845\nST-Line: $32,690\nST-Line Select: $35,385\nST-Line Elite: $38,705\nPlatinum: $37,710\nPlug-In Hybrid: $36,895\nActive\n\nOnly available with the turbocharged 1.5-liter three-cylinder engine, the Active comes with standard FWD but can be had with AWD. It rides on 17-inch wheels and features keyless entry and starting, cloth upholstery, manually adjustable front seats, dual-zone automatic climate control, six speakers, and an 8-inch touchscreen with wireless Apple CarPlay and Android Auto.\n\nFord’s Co-Pilot360 safety suite is standard on every 2026 Escape. It includes forward collision warning with pedestrian detection, automatic emergency braking, lane departure steering assist, blind spot monitors and rear cross-traffic alert. Co-Pilot360 Assist+ is optional and adds adaptive cruise control, lane-centering steering, emergency steering assist, oncoming traffic detection for left turns and rear parking sensors.\n\nST-Line\n\nST-badged Escapes all include a more aggressive grille and a larger roof spoiler on the outside, as well as a flat-bottom steering wheel, vinyl-trimmed seats and red accent stitching inside. The base ST-Line also gets 18-inch wheels and a power-adjustable driver’s seat. Like the Active, the ST-Line is only available with the turbocharged three-cylinder but offers a choice of FWD or AWD.\n\nST-Line Select\n\nAWD is standard in the ST-Line Select, which offers a choice between the hybrid powertrain or the powerful 2.0-liter turbo. In addition to the basic ST equipment, it also gets LED foglights, heated side mirrors, a power liftgate and remote start. Inside, it adds heated front seats and a heated steering wheel. A 360-degree parking camera is available on the ST-Line Select and pricier trim levels.\n\nST-Line Elite\n\nThe ST-Line Elite offers the same powertrain options as the Select, but it gets a monochromatic exterior look thanks to body-color rocker-panel trim (instead of the black on lower trim levels), as well as an upgraded lighting signature with an LED bar connecting the headlights. It also adds 19-inch wheels, power-adjustable front seats, a 12.3-inch digital instrument cluster, a 13.2-inch touchscreen with navigation and wireless phone charging. Co-Pilot360 Assist+ is also standard on the ST-Line Elite, and front parking sensors are available on the Elite, Platinum and PHEV.\n\nPlatinum\n\nThe Platinum includes all of the ST-Line Elite’s content in a slightly different package. It gets a different grille and exterior trim, as well as synthetic leather upholstery instead of the ST-Line’s cloth and vinyl, but it’s otherwise the same as the Elite.\n\nPlug-In Hybrid\n\nWhile the PHEV Escape is its own single model, an extensive options list allows buyers to build it out with most any features they want from the other trim levels. Standard equipment includes 18-inch wheels, a power liftgate, remote start, a power-adjustable driver’s seat (but a manual passenger chair), heated front seats, a heated steering wheel and cloth upholstery with vinyl trim. The PHEV gets the larger infotainment touchscreen but not the digital instrument cluster, although the latter is available as an option. It does, however, include Co-Pilot360 Assist+.\n\nRead More About the Ford Escape:\n\nIs the 2023 Ford Escape a Good SUV? 5 Pros and 4 Cons\nWhat’s the Best Compact SUV of 2023?\nWhich Hybrid Vehicles Have All-Wheel Drive?\nWhat Are the Most Fuel-Efficient Cars?\n2025 Cars.com Affordability Report: Best Value New Cars\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_36895",
+          "price": "$36895",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/da2f5351-52b1-48c5-a48f-c5a76125a4bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/3ce8030c-7349-4d00-ad63-be56983b683c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/16bc8ee0-5599-4728-97fe-65b114044bae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/3c14bf62-dbbd-4fdf-a5a9-ff44f42d9dcd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/621e2932-2457-44af-a2cf-d05dabbc7301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/68fe765d-5e10-4111-b087-bc261b694d93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/35364faa-5611-4f45-98cc-aee3b557dadc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/1ae715a2-8f98-4ede-b70b-39b4d0debe4c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/812308fd-5a3b-4dae-85be-f73c01791e3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/bb26fc47-0521-4e32-9459-bd249d16f25a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/e61f4eee-7b06-46fc-ae18-8a7110cfe3af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/34f8068b-3018-4aea-84d6-c2262cc69484.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/6b5dd3f4-5a05-4b7b-b37f-1cce43c736bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/93d2b448-0783-49c4-9cce-dc106a5d58a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/c2b6aaec-b3da-4a31-a481-4135780e6475.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/89f22ea0-05dc-42f1-8be3-094cd928ed3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/79c15f42-84cd-4d39-9a84-8ce6a9f74b4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/0641b490-fbbb-410b-a798-34421012f2c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/006cdb65-b136-4e57-bb5e-996b29105d1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/f9faa351-8620-4833-909a-0072f6cdb5ac.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/34f8068b-3018-4aea-84d6-c2262cc69484.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/9b11e441-cfd1-4087-9bf8-8c00fbb67792.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/ea60334a-c1fd-4262-af6a-b70439600a0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/ea1b1c86-beff-45dd-a0d5-cc3cba8f95bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e552f3e2-7c1e-45d8-97d6-d22ff0c23d72/cda63073-ab4a-42e9-9e43-f632054878a7.png"
+      ],
+      "expert_review": "Competes with: Chevrolet Equinox, Honda CR-V, Hyundai Tucson, Jeep Cherokee, Kia Sportage, Mazda CX-5, Nissan Rogue, Subaru Forester, Toyota RAV4\n\nLooks like: An even more carlike, less boxy take on a compact SUV\n\nPowertrains: 181-horsepower, turbocharged 1.5-liter three-cylinder; 250-hp, turbo 2.0-liter four-cylinder; 200-hp, hybrid 2.5-liter four-cylinder; or 210-hp, plug-in hybrid 2.5-liter four-cylinder; eight-speed automatic (gas-only) or electronic continuously variable transmission (hybrids); front- or all-wheel drive\n\nHits dealerships: Early 2023\n\nFord has updated its venerable Escape SUV for the 2023 model year, giving it a mild styling refresh inside and out, and adding a new ST-Line monochromatic sport appearance look that can be had in several trim levels. The goal is to provide a more carlike model for customers who really aren’t interested in the boxy, rugged idea of an SUV, according to the company. Given Ford’s killed off almost all of its passenger cars with the demise of the Fiesta, Focus and Fusion — and offers the boxier, rugged Bronco Sport for buyers who want that — offering an even more carlike version of its already carlike Escape seems like a good way to try and retain some customers.\n\nRelated: 2021 Ford Escape Plug-In Hybrid: 7 Things We Like and 4 Things We Don’t\n\nDig That Monochromatic Look\n\nWhile all Escapes get an updated look for 2023, the big news is the addition of the ST-Line, a new monochromatic exterior package that brings a sportier look to the SUV. Trim levels for the ‘23 Escape have been renamed and now consist of Base, Active, ST-Line, ST-Line Select, ST-Line Elite, Platinum and Plug-in Hybrid. The ST-Line trims all get a black-mesh grille, rear skid plate, a single-wing spoiler on the rear window and monochromatic paint covering the whole vehicle, including the side moldings. The top ST-Line Elite also gets a “coast-to-coast” LED light bar stretching between the headlights. ST-Line vehicles come with 18-inch wheels as standard, upgraded to 19-inch black-painted wheels on the ST-Line Elite.\n\nPowertrains Carry Over\n\nThe 2023 Escape will come with a choice of powertrains, depending on trim level, with output certification pending. The standard powertrain on Base, Active and ST-Line trims is a 181 horsepower, turbocharged 1.5-liter three-cylinder engine paired with an eight-speed automatic transmission. An optional turbocharged 2.0-liter four-cylinder making 250 hp is available on the ST-Line Select and Elite, and standard on Platinum trims. A 200-hp hybrid powertrain is available on the ST-Line and Platinum trims, front-wheel-drive only on the ST-Line and paired with all-wheel drive on the ST-Line Select and Elite trims, while the Platinum gets an option of FWD or AWD with the hybrid powertrain.\n\nIf you want a bit more electric operation, a stand-alone PHEV trim tops the range, offering 210 hp and allowing for what Ford estimates as 37 miles of all-electric range for the FWD model — and also allowing for speeds of up to 85 mph in electric-only mode. Recharging the PHEV will take about 10 to 11 hours on a standard household 11-volt current, while a 240-volt Level 2 charger should do it in about 3.5 hours, according to the company. Four driver-selectable modes of operation will be available for the PHEV, consisting of Auto EV mode (the vehicle decides the best mix of gas and electric power), EV Now (all-electric until the battery runs too low), EV Later (the gas engine runs to maintain the current level of battery power) and EV Charge (the engine runs to charge the battery for later use).\n\nOfficial EPA estimates aren’t in yet, but Ford is targeting more than 400 miles of range for all variants, with the full hybrid with FWD expected to hit more than 550 miles.\n\nInterior and Tech Upgrades\n\nThe Escape’s interior also gets a little attention for 2023, with new designs, seats and a new optional multimedia screen. Base and ST-Line trims get an Ebony black interior, while Active, Platinum and Plug-in Hybrid all get a choice of Ebony or Space Gray. The ST-Line trims also get a bit of a spiffier cabin with red stitching on the door panels, seat trim, armrest, floormats and flat-bottom steering wheel.\n\nOf note is a new available 13.2-inch center-stack touchscreen running Ford’s Sync 4 multimedia system. A 12.3-inch digital gauge cluster is present on select top trim levels, offering a reconfigurable display experience, and a heads-up display shown on a rotating bit of plastic atop the dashboard also makes it through to the new model year. Seating arrangements are unchanged with room for five only, but the second row does have a 6-inch fore-and-aft slide to maximize either legroom or cargo room as needed.\n\nSome available safety and technology systems include adaptive cruise control with stop-and-go, Evasive Steering Assist and built-in navigation, rear parking sensors, a 360-degree camera system and a wireless charging pad for the cabin. The Sync 4 cloud-connected navigation will be offered, but wireless Apple CarPlay and Android Auto will be standard. Amazon Alexa Built-In will also be a part of the Escape’s suite of connected technologies.\n\nThe 2023 Ford Escape is available for preorder right now and will be showing up in showrooms early in 2023.\n\nMore From Cars.com:\n\n2021 Ford Escape Plug-In Hybrid Review: Infuriating Efficiency\nShopping for a 2022 Ford Escape PHEV? Research One, Here\nFind a 2022 Ford Escape PHEV for Sale Near Your, Now\nFord Escape: Which Should You Buy, 2021 or 2022?\nWhich Cars Have Panoramic Moonroofs or Sunroofs?\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_31995",
+          "price": "$31995",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/ff2c967d-6260-4c10-b26a-06cffc4a2291.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/189c5a17-f9c7-4481-afad-4db66d8379bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/5150eaf8-2756-4fa9-8e13-4b26eb0abd42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/499c1c4f-e453-4696-ac1b-5cbb1a7b5fb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/fc952c7e-0015-4158-b5fe-08660715b3ad.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/9e0a1787-919d-4521-a65d-6175a143fd7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/f379b8b4-cfb8-4b77-8dc4-d83982f4903f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/a5223d46-223f-4bd5-8e19-c02dbc8c4f65.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/8e747662-7ffd-48b8-872c-15c50f7dfcbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/ada8b531-0621-46e2-906a-2070f4815af5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/85b63df7-ea7b-4c54-a208-1d80439089e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/33b71e8c-7a3a-4ff3-8438-52996dba969b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/a97ddb2d-2f8a-497d-bed8-9efededfc788.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/eea628ce-2277-47dd-9683-c077abc83a34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/58af6386-225a-44b3-919c-1f5cb26b96ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/d9cc07a8-fcfc-474d-aa74-e5df6d4c04aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/ffa4c210-5c9f-4f13-a037-428cd75f384a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/896ddf35-2c6c-4b40-a1d3-8f5ef26a943d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/8e747662-7ffd-48b8-872c-15c50f7dfcbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/3d5bd1bb-cc84-4f83-9d7b-bc2359d9fd75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/5da81075-2e46-4abe-b7ae-6d2a142b030c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/c0142054-657c-4ff2-8898-c148ea848b6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/8c88b610-159b-4d33-94ba-9a335f5b6cb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/f0196baf-3e30-4142-816d-7586a355bf0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/7d3c6333-934d-4168-8ae8-99b7ea5b7c4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7a9ae277-a0be-49b7-b861-36c820db1249/be5c81bc-12a7-4ac5-990b-fc1ab75408ae.png"
+      ],
+      "expert_review": "What Is the 2024 Ford Escape?\n\nThe Ford Escape is a five-seat compact SUV that competes in a crowded and competitive segment. Direct rivals are plentiful, including the Honda CR-V, Hyundai Tucson, Mazda CX-50, Nissan Rogue, Toyota RAV4 and more. A turbocharged 1.5-liter three-cylinder that makes 180 horsepower is the base powertrain, while a 250-hp, turbocharged 2.0-liter four-cylinder is optional. Both are paired with an eight-speed automatic transmission. The three-cylinder engine offers a choice of front- or all-wheel drive, while the four-cylinder comes standard with AWD. \n\nThe Escape can also be had in hybrid and plug-in hybrid form, the latter of which has 37 miles of electric driving range. Both use a 2.5-liter four-cylinder engine and a continuously variable automatic transmission. The regular hybrid has a total system output of 192 hp and can be had with FWD or AWD. The PHEV makes 210 total hp and comes only with FWD.  \n\nWhat’s New on the 2024 Ford Escape?\n\nThe Escape enters the 2024 model year largely unchanged. Ford did, however, drop the previous base trim, so the new entry-level model is the Active version.\n\nWhat Features in the 2024 Ford Escape Are Most Important?\n\nStandard features include:\n\n8-inch touchscreen multimedia system\n8-inch digital instrument display\nWireless Apple CarPlay and Android Auto\nFour USB ports\n4G LTE Wi-Fi hot spot\nSatellite radio\nKeyless entry\nPower liftgate\nDual-zone climate control\nForward collision warning\nAutomatic emergency braking\nBlind spot warning\nLane departure steering assist\nAutomatic high-beam headlights\n\nAvailable features include:\n\n13.2-inch touchscreen\n12.3-inch digital instrument display\nWireless device charging\nHeated front seats\nHeated steering wheel\nRemote start\nNavigation\nPanoramic moonroof\n10-speaker Bang & Olufsen stereo system\nAdaptive cruise control with stop-and-go capability\nAmbient interior lighting\nShould I Buy the 2024 Ford Escape?\n\nThe Ford Escape remains fairly competitive thanks to its fuel efficiency, agility and the performance provided by its optional turbocharged four-cylinder. Even in its top trim levels, however, the Escape’s cabin looks and feels cheap compared with most rivals, and its cargo area is smaller than the class norm. In the plus column, the Escape comes with an impressive array of standard comfort features and driver aids — which explains in part why its base price is higher than many of its rivals.",
+      "trims": [
+        {
+          "name": "Base_Price_26799",
+          "price": "$26799",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/1ff215e8-e8e1-4964-9632-6af20a2e0f1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/6dc08cdd-4881-45e0-9d94-8565373db5ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/cf126365-99ac-48c1-bd11-4de0e8016ab1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/531b0dd0-4b63-4628-9d17-0815c129c3b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/f7f3a0ee-84e7-4309-bd96-963238e569b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/cce5f4a9-045f-4701-b5ce-f258ce4f63e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/9bde9b8b-508f-41f2-862f-4429935c0c92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/d55b7ca9-dedf-47ac-a7fe-1e9bad5677b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/53add86a-37c7-483b-8697-b092d0b796d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/834f419e-32a7-444a-b0fe-b3d477d463c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/ab6fc8f4-941b-4acc-b08d-0a21594e27cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/5b51d43b-7a57-4249-bcc0-3a01d72f45e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/e35b900c-8056-4abd-90dc-48e01dc40c42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/46963c1a-bec7-40a0-b075-b4b088ab1a65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/446e0ff3-403a-4dd1-90f7-a5d3e8814bd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/357b5a24-05b1-476b-9eb9-a68e26fc49bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/be28fc4d-f260-47f1-aff9-6fdb8882c23c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/3d0f143b-49a7-4cbf-b083-5cf3fb972d6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/8c8f9ec1-faf7-4353-a7bd-bdd125057760.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/cce5f4a9-045f-4701-b5ce-f258ce4f63e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/2a9cdeb2-b1ab-414d-85b8-7ba60bb69f32.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/825577b8-e8c2-4ffe-8f8c-5312032b2144.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/75c4e95c-fefc-458b-bdf2-0d76c90afc00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/5ee0686c-d000-4b0c-809e-1fcfef06a901.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/4484d8bb-b09b-497f-8c79-f778e2d7985d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/5529f79e-3d8c-4db5-b9fe-74a12e379ffd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2915c211-75a2-4666-9078-ff75a0ab9232/9efd4b0a-b0c0-447b-8de8-490836b3a1f2.png"
+      ],
+      "expert_review": "What Is the 2025 Ford Escape?\n\nThe Ford Escape is a five-seat compact SUV that competes in a crowded, competitive segment. Direct rivals are plentiful, including the Honda CR-V, Hyundai Tucson, Mazda CX-50, Nissan Rogue, Toyota RAV4 and more. A turbocharged 1.5-liter three-cylinder that makes 180 horsepower is the base powertrain, while a 250-hp, turbocharged 2.0-liter four-cylinder is optional. Both pair with an eight-speed automatic transmission. The three-cylinder engine offers a choice of front- or all-wheel drive, while the four-cylinder comes standard with AWD.\n\nThe Escape can also be had in hybrid and plug-in hybrid form, the latter of which has an EPA-estimated 37 miles of electric driving range. Both use a 2.5-liter four-cylinder engine and a continuously variable automatic transmission. The regular hybrid has a total system output of 192 hp and can be had with FWD or AWD. The PHEV makes 210 total hp and comes only with FWD.\n\nWhat’s New on the 2025 Ford Escape?\n\nThe Escape carries over unchanged for the 2025 model year.\n\nWhat Features in the 2025 Ford Escape Are Most Important?\n\nStandard features include:\n\n8-inch touchscreen multimedia system\n8-inch digital instrument display\nWireless Apple CarPlay and Android Auto\nFour USB ports\n4G LTE Wi-Fi hot spot\nSatellite radio\nKeyless entry\nPower liftgate\nDual-zone climate control\nForward collision warning\nAutomatic emergency braking\nBlind spot warning\nLane departure steering assist\nAutomatic high-beam headlights\n\nAvailable features include:\n\n13.2-inch touchscreen\n12.3-inch digital instrument display\nWireless device charging\nHeated front seats\nHeated steering wheel\nRemote start\nNavigation\nPanoramic moonroof\n10-speaker Bang & Olufsen stereo\nAdaptive cruise control with stop-and-go capability\nAmbient interior lighting\nShould I Buy the 2025 Ford Escape?\n\nThe Ford Escape remains fairly competitive thanks to its fuel efficiency, agility and the performance provided by its optional turbocharged four-cylinder. Even in its top trim levels, however, the Escape’s cabin looks and feels cheap compared with most rivals, and its cargo area is smaller than the class norm. In the plus column, the Escape comes with an impressive array of standard comfort features and driver aids — which helps explain why its base price is higher than many of its rivals.",
+      "trims": [
+        {
+          "name": "Base_Price_30899",
+          "price": "$30899",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7b4b4e71-8c6c-4f33-85fa-059a13ed3ded/50d3b7de-8459-4feb-bf26-8895342988c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b4b4e71-8c6c-4f33-85fa-059a13ed3ded/50d3b7de-8459-4feb-bf26-8895342988c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7b4b4e71-8c6c-4f33-85fa-059a13ed3ded/e1f99ef7-6501-4587-a06e-019450dfd1f0.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "SE Plug-In Hybrid FWD",
+          "price": "$33040",
+          "specifications": {
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "2.5 L/152 Displacement",
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "155 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,870 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SEL Plug-In Hybrid FWD",
+          "price": "$35620",
+          "specifications": {
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4000 SAE Net Torque @ RPM",
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "2.5 L/152 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,500 lbs Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,870 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Titanium Plug-In Hybrid FWD",
+          "price": "$38835",
+          "specifications": {
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "155 @ 4000 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "2.5 L/152 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear (Cont.)",
+              "Short And Long Arm Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,500 lbs Maximum Trailering Capacity",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,870 lbs Base Curb Weight",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/59ddff56-2132-482b-82a3-beba6b569f00/1f2f15fb-ac86-41dd-ad2c-077853a10a08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/59ddff56-2132-482b-82a3-beba6b569f00/c57fc941-239a-43b0-bebd-c0791e359d21.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bf764863-5694-4a9f-9d74-8741c825faac/13a92256-fd9e-4f4a-9e6f-f4bae3ee8885.png"
+      ],
+      "expert_review": "The verdict: There’s no denying its efficiency, but the 2021 Ford Escape Plug-In Hybrid’s eagerness to randomly fire up its gas engine will infuriate anyone hoping for a more consistent electric-driving experience.\n\nVersus the competition: The philosophy behind the Escape Plug-In Hybrid — efficiency alone — is very different from the Toyota RAV4 Prime, which emphasizes performance along with efficiency.\n\nDespite the recent proliferation of full battery-electric vehicles (BEVs, in car-speak) from all manner of automakers, plug-in hybrids (or PHEVs) also continue to appear for people who aren’t quite ready to take the plunge into full electrification. These vehicles usually provide the best of both worlds: fully electric operation for a limited distance — giving drivers with a short commute and a home charger the ability to run mostly gas-free — and the ability to drive to the next city and beyond with minimal stopping and quick refueling. That’s why vehicles like the 2021 Ford Escape Plug-In Hybrid exist: They boast fantastic hybridlike fuel economy, and if your commute is short, you can manage it without ever using a drop of gasoline; the Escape PHEV variant’s official electric range is 37 miles.\n\nFord’s newest PHEV is not, however, without its quirks, some of which are sure to confound and infuriate plug-in hybrid fans like myself. So, what’s got me all riled up about this Escape?\n\nRelated: 2020 Ford Escape Plug-In Hybrid: Best-in-Class Equivalent Fuel Economy, Decent EV Driving Range\n\nEfficient Hybrid Motoring\n\nThe Escape Plug-In Hybrid is a compact SUV powered by a gas-electric hybrid system. It combines a 2.5-liter four-cylinder engine with an electrified continuously variable automatic transmission that drives only the front wheels; all-wheel drive is not an option despite it being available on the regular hybrid Escape. Making just a combined 200 horsepower, it’s still pretty zippy thanks to the nature of electric motors: All of the torque is available right off the line, making acceleration brisk when you’ve got the whole hybrid system engaged.\n\nIf you keep it in EV mode, though, acceleration is tepid. The electric traction motor isn’t big, and in order to keep it EV-only, you have to go pretty light on the accelerator. It’s more than adequately powered to keep up with everyday traffic, however, and it motors along quietly when in EV mode and when, at highway speeds, the hybrid system decides it doesn’t need the engine and shuts it off for cruising. The system blends electric and gas operations quite well, providing an excellent combination of usable power and efficient propulsion for daily commuting. It’s no rocket ship like the Toyota RAV4 Prime, but that’s just because Ford approached the Escape Plug-In Hybrid with a different mentality.\n\nHow efficient is it? The EPA says it can go 37 miles on electric power before the gas engine kicks in, pushing it to a total range of 520 miles on a full tank of regular 87-octane gasoline. Its official efficiency rating is 105 mpg-equivalent, 40 mpg combined in gasoline mode — not bad given the regular front-drive Escape hybrid’s combined rating is just 1 mpg better. For comparison, the 2021 Toyota RAV4 Prime is rated at 42 miles of range but only 38 mpg combined when operating in gas mode, while the new 2022 Hyundai Tucson PHEV is rated at 33 miles of EV range and just 35 mpg in gas mode. For PHEVs, our normal course of testing is to do a specific electric-range test with the vehicle in EV-only mode, comparing our results with the official EPA rating, but we weren’t able to do that with the Escape Plug-In Hybrid for one simple reason: Its EV-only mode isn’t actually an EV-only mode.\n\nAll-Electric Operation — When It Wants To\n\nDespite there being an EV mode for our Escape, while it was selected, the gas engine still fired up on its own for any of nearly a dozen reasons, canceling EV mode even when there’s no apparent reason for it. It’s a maddeningly frustrating experience for someone expecting all-electric operation.\n\n2021 Ford Escape Plug-In Hybrid | Cars.com photo by Aaron Bragman\n\nSo why does the Escape PHEV’s engine fire up even when it’s got a full charge and it’s relatively warm outside? A Ford spokesperson confirmed to Cars.com some of the various reasons. The ones that make sense to us include:\n\nDrive power: The engine has turned on because you pressed too hard, too far or too quickly on the accelerator pedal. This is not uncommon for PHEVs with electric motors that don’t make a lot of power. If the car senses you asking it for more power than the electric motor can deliver (e.g., when you’re merging into rapid traffic), the gas engine kicks on to provide added scoot.\nHigh speed: You’re driving faster than the electric motor can accommodate.\nHeater setting: It’s cold outside and you’ve set the climate control to warm the cabin, and the most efficient way to do that is to run the gas engine.\nBattery temperature: The battery is too hot or too cold and running the engine will help it maintain its best operating temperature.\nLow gear: The transmission is in Low (for traction or towing?).\nBattery charging: Normal hybrid operation uses the engine to charge the battery a bit. Alternatively, you can set the car to keep the battery at a specific state of charge while you’re driving, then switch to EV mode later when it makes more (efficient) sense.\n\nFord also gave a bunch of reasons for why the engine might turn on while in EV mode that simply do not make sense to me given the driver has selected EV mode because they don’t want the engine running:\n\nEngine braking: If you set out with a full battery charge and find yourself on a slight downhill grade, the Escape will turn on the gas engine to employ engine braking to maintain speed. Common among EVs, the SUV can’t provide regenerative braking when the battery is full, and just letting you coast isn’t an option, so the engine fires up. It’s part of the Escape’s grade-assist feature. When cruise control is active, it might just do it on its own if your foot doesn’t happen to be on the accelerator. Highly frustrating.\n“Normal operation”: For no obvious reason, the Escape PHEV might turn on the engine when driving in EV mode with the message, “engine activated due to normal operation.” This means the car simply decided to turn on the engine despite the fact that you said you didn’t want it on. In fact, it will first pester you to authorize it to turn on the engine when in EV mode, repeatedly flashing messages up on the instrument cluster, before finally deciding to just do it.\nLow use: If you haven’t used your Escape in a while, it might turn the engine on just to circulate the motor oil. Normally this would be understandable, but not while in EV mode.\nCold engine: Again, this doesn’t make sense if the Escape is in EV mode; the engine’s temperature is irrelevant if you don’t want to use the engine.\nNeutral gear: If the Escape is in Neutral, the engine will run. I’m sure there’s some technical explanation for this one.\n\nSimply put, the Escape Plug-In Hybrid does not reliably operate as an EV when put in EV mode. It fires up the engine so often, it made me wonder why it even has an EV mode given the engine has to run that frequently in order to maintain optimal performance and efficiency. Offering an EV mode just makes for a frustrating operating experience; you’ve spent money for something more than a plain Escape hybrid, but it still operates mostly like an Escape hybrid.\n\nA Solid Cabin\n\nThe Escape Plug-In Hybrid’s interior is a solid effort, combining quality materials with updated controls — and blessedly nothing touch-sensitive aside from the multimedia touchscreen. It’s no different from other Escape interiors, with nothing much to set it apart and all the pros and cons that entails. Visibility is good out front and to the sides and rear thanks to a low beltline and a relatively airy greenhouse. But as is common in Ford’s SUVs, the seats feel short and there isn’t as much legroom in the backseat as you’ll find in some of the Escape’s competitors, such as the Volkswagen Tiguan and Hyundai Tucson.\n\nThe Escape’s multimedia system is not the latest and greatest Sync 4A that you’ll find in other new Fords, including the F-150 or Mustang Mach-E; it’s the older Sync 3, which nevertheless works fine and remains one of the better, easier-to-use systems on the market. There are also the requisite hybrid displays that show what the Escape’s various gas and electric systems are doing to help you monitor your efficiency and gas consumption.\n\nThe Escape PHEV works well as an SUV, with plenty of cargo room behind the backseat and a copious amount of space when the backrests are folded. Despite its more carlike profile, the Escape has a fairly high roof and low floor, making it capable of carrying plenty of gear. A five-seat crossover, the Escape does not feature a third row, which is common in the compact category. Only certain competing models, such as the Mitsubishi Outlander, offer the feature — and as we revealed in our recent Compact SUV Challenge, it didn’t do that model any favors.\n\nMore From Cars.com:\n\nFord Escape: Which Should You Buy, 2020 or 2021?\n2020 Ford Escape: 6 Things We Like and 2 Things We Don’t\nHere’s Every Car That Earned an IIHS Top Safety Award for 2021\nWhich Cars Have Panoramic Moonroofs or Sunroofs?\nWhat’s New for Ford in 2021?\nExtra Cost, Extra Benefit\n\nPlug-in hybrids tend to be extra-cost versions of any model, and the Escape Plug-In Hybrid is no exception. What’s nice about Ford’s approach, though, is that they’re making the system an option even on lower trim levels. The 2021 PHEV can be had at the SE, SEL and Titanium trim levels, meaning prices range from a starting point of $34,320 (including destination fee) and range up to $40,130 for a Titanium. That is, however, a pretty significant $5,000 premium over a regular Escape hybrid. Unless you spend a significant portion of your operating time in your PHEV in electric mode, you’ll be hard-pressed to overcome that initial cash outlay with the money you save on gas versus a regular Escape hybrid. But that’s the case for all plug-in variants over normal hybrid versions; the buyer’s use case is what will make the difference as to whether it’s a good financial decision or not.\n\nFor people looking for a fuel-efficient, comfortable, well-appointed compact SUV that’s easy to use and pleasant to drive in various conditions, the Escape Plug-In Hybrid is a decent choice. For buyers expecting it to be essentially a range-extending electric vehicle — as many PHEVs are — there will be disappointment regarding how Ford has engineered it to work.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SE Plug-In Hybrid FWD",
+          "price": "$33075",
+          "specifications": {
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.5 L/152 Displacement",
+              "155 @ 4000 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "221 @ 6250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "11 gal Fuel Tank Capacity, Approx",
+              "3,870 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "1,500 lbs Maximum Trailering Capacity",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SEL Plug-In Hybrid FWD",
+          "price": "$35815",
+          "specifications": {
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4000 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type",
+              "2.5 L/152 Displacement",
+              "221 @ 6250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Short And Long Arm Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "11 gal Fuel Tank Capacity, Approx",
+              "3,870 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Titanium Plug-In Hybrid FWD",
+          "price": "$38885",
+          "specifications": {
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "2.5 L/152 Displacement",
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "155 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,870 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/41b79c1d-f877-4ffc-99e8-8c54314292c1/233b663d-df44-4070-a547-649594c2f7fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41b79c1d-f877-4ffc-99e8-8c54314292c1/8c1d253c-a502-448d-94e5-fd929a8a7c6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41b79c1d-f877-4ffc-99e8-8c54314292c1/233b663d-df44-4070-a547-649594c2f7fa.png"
+      ],
+      "expert_review": "The verdict: There’s no denying its efficiency, but the 2021 Ford Escape Plug-In Hybrid’s eagerness to randomly fire up its gas engine will infuriate anyone hoping for a more consistent electric-driving experience.\n\nVersus the competition: The philosophy behind the Escape Plug-In Hybrid — efficiency alone — is very different from the Toyota RAV4 Prime, which emphasizes performance along with efficiency.\n\nDespite the recent proliferation of full battery-electric vehicles (BEVs, in car-speak) from all manner of automakers, plug-in hybrids (or PHEVs) also continue to appear for people who aren’t quite ready to take the plunge into full electrification. These vehicles usually provide the best of both worlds: fully electric operation for a limited distance — giving drivers with a short commute and a home charger the ability to run mostly gas-free — and the ability to drive to the next city and beyond with minimal stopping and quick refueling. That’s why vehicles like the 2021 Ford Escape Plug-In Hybrid exist: They boast fantastic hybridlike fuel economy, and if your commute is short, you can manage it without ever using a drop of gasoline; the Escape PHEV variant’s official electric range is 37 miles.\n\nFord’s newest PHEV is not, however, without its quirks, some of which are sure to confound and infuriate plug-in hybrid fans like myself. So, what’s got me all riled up about this Escape?\n\nRelated: 2020 Ford Escape Plug-In Hybrid: Best-in-Class Equivalent Fuel Economy, Decent EV Driving Range\n\nEfficient Hybrid Motoring\n\nThe Escape Plug-In Hybrid is a compact SUV powered by a gas-electric hybrid system. It combines a 2.5-liter four-cylinder engine with an electrified continuously variable automatic transmission that drives only the front wheels; all-wheel drive is not an option despite it being available on the regular hybrid Escape. Making just a combined 200 horsepower, it’s still pretty zippy thanks to the nature of electric motors: All of the torque is available right off the line, making acceleration brisk when you’ve got the whole hybrid system engaged.\n\nIf you keep it in EV mode, though, acceleration is tepid. The electric traction motor isn’t big, and in order to keep it EV-only, you have to go pretty light on the accelerator. It’s more than adequately powered to keep up with everyday traffic, however, and it motors along quietly when in EV mode and when, at highway speeds, the hybrid system decides it doesn’t need the engine and shuts it off for cruising. The system blends electric and gas operations quite well, providing an excellent combination of usable power and efficient propulsion for daily commuting. It’s no rocket ship like the Toyota RAV4 Prime, but that’s just because Ford approached the Escape Plug-In Hybrid with a different mentality.\n\nHow efficient is it? The EPA says it can go 37 miles on electric power before the gas engine kicks in, pushing it to a total range of 520 miles on a full tank of regular 87-octane gasoline. Its official efficiency rating is 105 mpg-equivalent, 40 mpg combined in gasoline mode — not bad given the regular front-drive Escape hybrid’s combined rating is just 1 mpg better. For comparison, the 2021 Toyota RAV4 Prime is rated at 42 miles of range but only 38 mpg combined when operating in gas mode, while the new 2022 Hyundai Tucson PHEV is rated at 33 miles of EV range and just 35 mpg in gas mode. For PHEVs, our normal course of testing is to do a specific electric-range test with the vehicle in EV-only mode, comparing our results with the official EPA rating, but we weren’t able to do that with the Escape Plug-In Hybrid for one simple reason: Its EV-only mode isn’t actually an EV-only mode.\n\nAll-Electric Operation — When It Wants To\n\nDespite there being an EV mode for our Escape, while it was selected, the gas engine still fired up on its own for any of nearly a dozen reasons, canceling EV mode even when there’s no apparent reason for it. It’s a maddeningly frustrating experience for someone expecting all-electric operation.\n\n2021 Ford Escape Plug-In Hybrid | Cars.com photo by Aaron Bragman\n\nSo why does the Escape PHEV’s engine fire up even when it’s got a full charge and it’s relatively warm outside? A Ford spokesperson confirmed to Cars.com some of the various reasons. The ones that make sense to us include:\n\nDrive power: The engine has turned on because you pressed too hard, too far or too quickly on the accelerator pedal. This is not uncommon for PHEVs with electric motors that don’t make a lot of power. If the car senses you asking it for more power than the electric motor can deliver (e.g., when you’re merging into rapid traffic), the gas engine kicks on to provide added scoot.\nHigh speed: You’re driving faster than the electric motor can accommodate.\nHeater setting: It’s cold outside and you’ve set the climate control to warm the cabin, and the most efficient way to do that is to run the gas engine.\nBattery temperature: The battery is too hot or too cold and running the engine will help it maintain its best operating temperature.\nLow gear: The transmission is in Low (for traction or towing?).\nBattery charging: Normal hybrid operation uses the engine to charge the battery a bit. Alternatively, you can set the car to keep the battery at a specific state of charge while you’re driving, then switch to EV mode later when it makes more (efficient) sense.\n\nFord also gave a bunch of reasons for why the engine might turn on while in EV mode that simply do not make sense to me given the driver has selected EV mode because they don’t want the engine running:\n\nEngine braking: If you set out with a full battery charge and find yourself on a slight downhill grade, the Escape will turn on the gas engine to employ engine braking to maintain speed. Common among EVs, the SUV can’t provide regenerative braking when the battery is full, and just letting you coast isn’t an option, so the engine fires up. It’s part of the Escape’s grade-assist feature. When cruise control is active, it might just do it on its own if your foot doesn’t happen to be on the accelerator. Highly frustrating.\n“Normal operation”: For no obvious reason, the Escape PHEV might turn on the engine when driving in EV mode with the message, “engine activated due to normal operation.” This means the car simply decided to turn on the engine despite the fact that you said you didn’t want it on. In fact, it will first pester you to authorize it to turn on the engine when in EV mode, repeatedly flashing messages up on the instrument cluster, before finally deciding to just do it.\nLow use: If you haven’t used your Escape in a while, it might turn the engine on just to circulate the motor oil. Normally this would be understandable, but not while in EV mode.\nCold engine: Again, this doesn’t make sense if the Escape is in EV mode; the engine’s temperature is irrelevant if you don’t want to use the engine.\nNeutral gear: If the Escape is in Neutral, the engine will run. I’m sure there’s some technical explanation for this one.\n\nSimply put, the Escape Plug-In Hybrid does not reliably operate as an EV when put in EV mode. It fires up the engine so often, it made me wonder why it even has an EV mode given the engine has to run that frequently in order to maintain optimal performance and efficiency. Offering an EV mode just makes for a frustrating operating experience; you’ve spent money for something more than a plain Escape hybrid, but it still operates mostly like an Escape hybrid.\n\nA Solid Cabin\n\nThe Escape Plug-In Hybrid’s interior is a solid effort, combining quality materials with updated controls — and blessedly nothing touch-sensitive aside from the multimedia touchscreen. It’s no different from other Escape interiors, with nothing much to set it apart and all the pros and cons that entails. Visibility is good out front and to the sides and rear thanks to a low beltline and a relatively airy greenhouse. But as is common in Ford’s SUVs, the seats feel short and there isn’t as much legroom in the backseat as you’ll find in some of the Escape’s competitors, such as the Volkswagen Tiguan and Hyundai Tucson.\n\nThe Escape’s multimedia system is not the latest and greatest Sync 4A that you’ll find in other new Fords, including the F-150 or Mustang Mach-E; it’s the older Sync 3, which nevertheless works fine and remains one of the better, easier-to-use systems on the market. There are also the requisite hybrid displays that show what the Escape’s various gas and electric systems are doing to help you monitor your efficiency and gas consumption.\n\nThe Escape PHEV works well as an SUV, with plenty of cargo room behind the backseat and a copious amount of space when the backrests are folded. Despite its more carlike profile, the Escape has a fairly high roof and low floor, making it capable of carrying plenty of gear. A five-seat crossover, the Escape does not feature a third row, which is common in the compact category. Only certain competing models, such as the Mitsubishi Outlander, offer the feature — and as we revealed in our recent Compact SUV Challenge, it didn’t do that model any favors.\n\nMore From Cars.com:\n\nFord Escape: Which Should You Buy, 2020 or 2021?\n2020 Ford Escape: 6 Things We Like and 2 Things We Don’t\nHere’s Every Car That Earned an IIHS Top Safety Award for 2021\nWhich Cars Have Panoramic Moonroofs or Sunroofs?\nWhat’s New for Ford in 2021?\nExtra Cost, Extra Benefit\n\nPlug-in hybrids tend to be extra-cost versions of any model, and the Escape Plug-In Hybrid is no exception. What’s nice about Ford’s approach, though, is that they’re making the system an option even on lower trim levels. The 2021 PHEV can be had at the SE, SEL and Titanium trim levels, meaning prices range from a starting point of $34,320 (including destination fee) and range up to $40,130 for a Titanium. That is, however, a pretty significant $5,000 premium over a regular Escape hybrid. Unless you spend a significant portion of your operating time in your PHEV in electric mode, you’ll be hard-pressed to overcome that initial cash outlay with the money you save on gas versus a regular Escape hybrid. But that’s the case for all plug-in variants over normal hybrid versions; the buyer’s use case is what will make the difference as to whether it’s a good financial decision or not.\n\nFor people looking for a fuel-efficient, comfortable, well-appointed compact SUV that’s easy to use and pleasant to drive in various conditions, the Escape Plug-In Hybrid is a decent choice. For buyers expecting it to be essentially a range-extending electric vehicle — as many PHEVs are — there will be disappointment regarding how Ford has engineered it to work.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SE Plug-In Hybrid FWD",
+          "price": "$35455",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Gas-only, hybrid and plug-in hybrid versions",
+              "Front- or all-wheel drive",
+              "Automatic emergency braking standard",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "2.5 L/152 Displacement",
+              "155 @ 4000 SAE Net Torque @ RPM",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Short And Long Arm Suspension Type - Rear (Cont.)",
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "3,870 lbs Base Curb Weight",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "1,500 lbs Maximum Trailering Capacity",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "SEL Plug-In Hybrid FWD",
+          "price": "$38190",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Gas-only, hybrid and plug-in hybrid versions",
+              "Front- or all-wheel drive",
+              "Automatic emergency braking standard",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "155 @ 4000 SAE Net Torque @ RPM",
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "2.5 L/152 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,500 lbs Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,870 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Titanium Plug-In Hybrid FWD",
+          "price": "$40700",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Gas-only, hybrid and plug-in hybrid versions",
+              "Front- or all-wheel drive",
+              "Automatic emergency braking standard",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "37 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "2.5 L/152 Displacement",
+              "221 @ 6250 SAE Net Horsepower @ RPM",
+              "155 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Short And Long Arm Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,870 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

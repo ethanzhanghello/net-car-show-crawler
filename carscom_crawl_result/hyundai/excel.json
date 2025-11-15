@@ -1,0 +1,140 @@
+{
+  "make": "hyundai",
+  "model": "excel",
+  "years": {
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/11f4a8b5-4dc1-42f6-8abe-8af4cf0280fe/a6181f39-5ae5-4b31-873c-be79b45aff38.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Hatchback 5-Spd",
+          "price": "$7390",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback Auto",
+          "price": "$8015",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GS 5-Spd",
+          "price": "$8299",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL 5-Spd",
+          "price": "$8399",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GS Auto",
+          "price": "$8924",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL Auto",
+          "price": "$9024",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c490f0fa-98fe-488f-bbff-549969794b8e/5c6e3fa7-51fa-4414-a7b5-005e7e8fbb1b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Hatchback 4-Spd",
+          "price": "$6595",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback Auto",
+          "price": "$7220",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GS 5-Spd",
+          "price": "$7599",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 4-Spd",
+          "price": "$7695",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GS Auto",
+          "price": "$8174",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Auto",
+          "price": "$8320",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL 5-Spd",
+          "price": "$8499",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL Auto",
+          "price": "$9024",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/aa7c1fe7-17ac-4502-841e-ca5980855749/5744c523-07f7-4d66-8e81-87cdbf78b592.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Hatchback 4-Spd",
+          "price": "$6899",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback Auto",
+          "price": "$7524",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GS 5-Spd",
+          "price": "$7799",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 4-Spd",
+          "price": "$7849",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GS Auto",
+          "price": "$8374",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Auto",
+          "price": "$8474",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL 5-Spd",
+          "price": "$8599",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL Auto",
+          "price": "$9174",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

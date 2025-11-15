@@ -1,0 +1,55 @@
+{
+  "make": "ferrari",
+  "model": "296_gts",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_544999",
+          "price": "$544999",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/100c14de-fb54-437e-81e3-f91a6a78a781.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/4dca3a43-cdad-40dc-b009-52f234a4c4b9.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/100c14de-fb54-437e-81e3-f91a6a78a781.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/e96fa47f-c668-4a51-ae67-cd2abd5b4ca2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/ea1cfb80-0f2e-41a5-92ae-42212450262a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/3ff01a6b-8e03-4e76-a6ce-9245844c8cc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/04997edd-a084-41f1-8180-2bba210538cc/89932f2e-1ab5-43a5-9e6f-8ca3fe88fc88.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_439999",
+          "price": "$439999",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/f40d458f-5ff7-44db-8ea9-ad3e41c91632.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/f2ab19a1-7a17-40d3-b47b-accfdd44d875.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/b6cfc6d1-07e1-4ad3-b5bc-3a00f0299a51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/e9e6c010-5d9c-45db-9452-6e1b0563886a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/b6cfc6d1-07e1-4ad3-b5bc-3a00f0299a51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/ec2ba9d0-a98c-43fb-8d75-75c8b9879390.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94c37a9a-fec3-44f5-9933-9957646efa06/f6a2ed57-8975-43d4-b4fb-7481a4967cd2.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_439999",
+          "price": "$439999",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

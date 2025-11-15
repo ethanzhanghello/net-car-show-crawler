@@ -1,0 +1,2124 @@
+{
+  "make": "jeep",
+  "model": "wagoneer_l",
+  "years": {
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/4cebba91-4fc9-430e-9881-5bd9d7959066.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/9cb8a4b2-2d88-4e48-bac1-6d97e6fb8300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/bffa1e54-230e-4ef4-9ac0-316a92966f44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/6b586e37-a45c-4ab5-838f-986694cf62c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/48e3abd6-bd9e-4b54-afcc-7861b7b2cf30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/bdb42a8c-123f-4d0b-bbd2-289f7172fda3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/879ae6aa-da9f-4853-8dbd-d84fc5bda3c5/0d2b66a2-8330-4455-bd3e-f1a4adfc54be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/4d09dea2-a4b7-44f2-9ddd-e4261d254b3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/ded9a1e0-4361-4ece-b1f6-3003c4e68d0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/2d7842b8-ef07-4bad-9f51-e2bbdd77d2cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/eb17d609-463f-4e49-a2af-20b1c2c9468e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/8499bff3-db40-47b5-b167-91288593efca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/e419e3cd-6b66-47c0-9aa2-35505cfd9f37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/fa19271a-da9e-48cc-a06e-99838d6abdd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/a9774b8e-5804-43e6-a3e1-7ab39a63a27b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fabb2aef-865f-4a56-af64-e0987f046448/56753a06-b3b4-458b-8cb4-f7661710456a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/683f17d4-4c36-4034-b027-be6dffe37e01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/346882c6-545f-4b85-83a6-337b3c674ede.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/8092169d-011d-4f75-b196-92492c8097e7/e232553c-e9d9-4d44-a12b-5e6c1b78860e.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/1d32a883-2fa0-442a-b1d3-9296866e7045.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/dd9d1633-98b5-47e4-a8a7-5e1da3c46e14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/f807aef9-fc2e-4d42-ac26-6a727ec7f6a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/10d7ab3f-5cef-41ed-9dd1-2b05024f8c4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/d01969e7-b5de-47f9-870a-38a86df6319c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/b139d5d7-fd9e-421c-8320-56c744d08d61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/869b6790-86ac-47fc-be5c-5a8ff02c3c7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/53e1d797-5e90-4173-b80f-d29c35e51b10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8092169d-011d-4f75-b196-92492c8097e7/b8630885-cb76-4c51-b068-fc05a2e435c8.png"
+      ],
+      "expert_review": "What Is the 2025 Jeep Wagoneer?\n\nThe Jeep Wagoneer is a full-size three-row SUV that comes in regular and extended-length L versions. The standard Wagoneer is already large, and the L adds another 12 inches of length (including 7 inches to the wheelbase). The sole engine is a 420-horsepower, twin-turbocharged 3.0-liter inline-six-cylinder that’s paired with an eight-speed automatic transmission. Rear-wheel drive is standard, with four-wheel drive optional. Wagoneers have an upscale feel and are available with a plethora of comfort and tech features, including an optional 10.25-inch touchscreen for the front passenger. If you want something more luxurious, Jeep offers the ritzier-still Grand Wagoneer and Grand Wagoneer L. Wagoneer competitors include the Ford Expedition and Expedition Max, as well as the GMC Yukon and Yukon XL.\n\nWhat’s New on the 2025 Jeep Wagoneer?\n\nThe Wagoneer and Wagoneer L gain 20-inch wheels, adaptive cruise control and lane departure steering assist as standard equipment. Power-folding mirrors are newly optional; they’re standard on the line-topping Series III trim. Prices also drop significantly — by at least $3,000 — across the lineup.\n\nWhat Features in the 2025 Jeep Wagoneer Are Most Important?\n\nStandard features include:\n\n10.1-inch touchscreen\n10.3-inch digital gauge cluster\nHeated and ventilated front seats\nHeated steering wheel\nLeather seating surfaces\nAmazon Alexa\nWireless Apple CarPlay and Android Auto\nWi-Fi hot spot\nThree-zone climate control\nFront and rear parking sensors\nBlind spot warning and rear cross-traffic alert\nLane departure steering assist\nAdaptive cruise control with stop-and-go\nHands-free power liftgate\n\nAvailable features include:\n\n22-inch alloy wheels\nPanoramic moonroof\nRear-seat entertainment system\nFront passenger-side touchscreen\nHeated second-row seats\nTrailer tow package\nPower-folding third row\nHead-up display\n360-degree camera system\nWireless charging pad\nShould I Buy the 2025 Jeep Wagoneer?\n\nThe Jeep Wagoneer has the power and amenities you’d expect from a full-size SUV with a fancy luxury badge affixed to its front grille. It’s not exactly cheap, but the Wagoneer is loaded with comfort and safety features even in its base trim. Its infotainment system is impressive and intuitive, though it takes patience to understand all of the available menus and functions. The Wagoneer is a truly plus-size vehicle, with cavernous interior space — and all the commensurate penalties in fuel economy, maneuverability and parking. The Jeep Wagoneer L in particular is a whole lot of SUV; it might be overkill for anyone who won’t routinely make use of its seating capacity or massive cargo bay.",
+      "trims": [
+        {
+          "name": "4x2",
+          "price": "$62945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "12,300 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,870 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "587 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,870 lbs Maximum Trailering Capacity",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "6,069 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4x4",
+          "price": "$65945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,297 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II Limited 4x4",
+          "price": "$69945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,600 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,326 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II 4x4",
+          "price": "$69945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "6,326 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "12,300 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,640 lbs Maximum Trailering Capacity",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,600 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series II Carbide 4x4",
+          "price": "$69945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,640 lbs Maximum Trailering Capacity",
+              "6,326 lbs Base Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "0 lbs Total Option Weight",
+              "N/A As Spec'd Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "7,600 lbs Gross Vehicle Weight Rating",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A As Spec'd Payload",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series III Super 4x4",
+          "price": "$76945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,335 lbs Base Curb Weight",
+              "7,650 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Optional Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series III 4x4",
+          "price": "$76945",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six-cylinder",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "31 gal Fuel Tank Capacity, Approx",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A As Spec'd Payload",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Front",
+              "7,650 lbs Gross Vehicle Weight Rating",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A Gross Axle Weight Rating",
+              "6,335 lbs Base Curb Weight",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "12,300 lbs Gross Combined Wt Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Optional Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/4ed52a68-f97e-464c-a5fa-54734e76aa4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/ff6f9118-9f2a-4248-acfd-9b157acd11bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/7069ca33-92f1-4349-b8b2-b7a7d4f5fe79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/a0a48045-d569-4f11-9acd-1f78690d8914.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/4f10c91d-7a94-4721-bf6c-8f89556e9381.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/e32cfefa-b9a4-48ae-9621-97c2bae4ad8e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5418ec57-2fe0-4d8f-92ed-d9a84c3d4494/e9bd6f33-5c84-46fa-8cc1-9af4711fabba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/a575d729-71d1-4bd0-b6c3-8b0caf52ce87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/bf202553-e32f-46e9-a2dd-1e9395b285a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/bb4be8fc-046f-4964-a58b-687542fd3f82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/4091c992-e897-442e-b5bd-4990a68e5b5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/f4ea6f5c-0055-4e59-a2d9-90df32bd5786.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/bc0c40d5-4954-4c98-beb9-8aa2c5fb582e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/074029e4-6948-4af8-b1da-6eda2fb2e019.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/292baca0-140d-470e-841e-f000a22698ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/4e1e066b-b5c1-4019-a553-a7de48717a5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/2a9b7bcc-759e-41af-a441-2ff7cfcfedda.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/30d39a02-6f7a-4327-a6ed-3cda3675ff6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/489f2b4c-9dde-4200-9883-cff28293657f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/31d90d7f-fa59-4d35-b8ff-5f82b5fcaec1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/0fbae383-e969-4204-97cf-9a11b9f8ac79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/8e235622-44b5-4f40-a21a-c0dc9604fe5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/9bfd6e98-80cf-49f6-b0cd-a5c093801d17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/b42c86a4-c394-4c8a-a209-aee03435a5e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/cc1974a5-cd60-4ce1-a5ed-201c6c299997.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9e9214a7-b13e-4014-93be-3a93030cda86/120e910d-5832-4d91-9669-35a423026c50.png"
+      ],
+      "expert_review": "What Is the 2024 Jeep Wagoneer?\n\nThe Jeep Wagoneer is a full-size three-row SUV that comes in regular and extended-length L versions. The standard Wagoneer is already extra large, and the L adds another 12 inches of length (7 inches to the wheelbase). The sole engine is a twin-turbocharged 3.0-liter inline-six that produces 420 horsepower and is paired with an eight-speed automatic transmission. Rear-wheel drive is standard, with four-wheel drive optional. Wagoneers have an upscale feel and are available with a plethora of comfort and tech features, including an optional 10.25-inch touchscreen for the front-seat passenger. If you want something even more luxurious, Jeep offers the ritzier-still Grand Wagoneer and Grand Wagoneer L. Wagoneer competitors include the Ford Expedition and Expedition Max, as well as the GMC Yukon and Yukon XL.\n\nWhat’s New on the 2024 Jeep Wagoneer?\n\nThe base-model Wagoneer previously came standard with a 392-hp, 5.7-liter V-8, but that engine has been discontinued for 2024. Beyond that, some Wagoneer trims see minor alterations to standard and available equipment.\n\nWhat Features in the 2024 Jeep Wagoneer Are Most Important?\n\nStandard features include:\n\n10.1-inch touchscreen\n10.3-inch digital gauge cluster\nHeated and ventilated front seats\nHeated steering wheel\nLeather seating surfaces\nAmazon Alexa\nWireless Apple CarPlay and Android Auto\nWi-Fi hot spot\nThree-zone climate control\nFront and rear parking sensors\nBlind spot warning and rear cross-traffic alert\nHands-free power liftgate\n\nAvailable features include:\n\n20- or 22-inch alloy wheels\nPanoramic moonroof\nRear-seat entertainment system\nFront passenger-side touchscreen\nAdaptive cruise control with stop-and-go capability\nHeated second-row seats\nTrailer and tow package\nPower-folding third row\nHead-up instrument display\nSurround-view camera system display\nWireless charging pad\nShould I Buy the 2024 Jeep Wagoneer?\n\nThe Wagoneer has the power and amenities you’d expect from a full-size SUV with a fancy luxury badge affixed to its front grille. It’s not exactly cheap, but the Wagoneer is loaded with comfort and safety features even in its base trim. Its infotainment system is impressive and intuitive, though it does take patience to understand all the available menus and functions. The Wagoneer is a truly plus-sized vehicle, though, with cavernous interior space and all the commensurate penalties in fuel economy and ease of maneuvering and parking. The Wagoneer L in particular is a whole lot of SUV; it might be overkill for anyone who won’t routinely need to make use of its seating capacity or massive cargo bay.",
+      "trims": [
+        {
+          "name": "4x2",
+          "price": "$65945",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "N/A Gross Axle Weight Rating",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "6,069 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,870 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,870 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A As Spec'd Payload",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A As Spec'd Curb Weight",
+              "587 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4x4",
+          "price": "$68945",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Rear",
+              "Short And Long Arm Suspension Type - Front",
+              "Independent Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "12,300 lbs Gross Combined Wt Rating",
+              "0 lbs Option Weight - Front",
+              "N/A As Spec'd Payload",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "31 gal Fuel Tank Capacity, Approx",
+              "0 lbs Option Weight - Rear",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "6,297 lbs Base Curb Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A As Spec'd Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "5,640 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II 4x2 *Ltd Avail*",
+          "price": "$69695",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front",
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A As Spec'd Curb Weight",
+              "5,870 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "5,870 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "6,068 lbs Base Curb Weight",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "N/A Curb Weight - Front",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Payload",
+              "0 lbs Option Weight - Front",
+              "587 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Gross Axle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Series II Carbide 4x2 *Ltd Avail*",
+          "price": "$69695",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,870 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "587 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,870 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "6,068 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Optional Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II 4x4",
+          "price": "$75130",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,600 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,326 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II Carbide 4x4",
+          "price": "$75130",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Total Option Weight",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Gross Axle Weight Rating",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "7,600 lbs Gross Vehicle Weight Rating",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "6,326 lbs Base Curb Weight",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A As Spec'd Payload",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A As Spec'd Curb Weight",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "15 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Series III 4x4",
+          "price": "$82630",
+          "specifications": {
+            "Notable features": [
+              "5.7-liter V-8 discontinued for 2024",
+              "Seven- or eight-seat full-size SUV",
+              "Regular- and extended-length L versions",
+              "Twin-turbo 3.0-liter inline-six",
+              "Rear-wheel drive",
+              "Four-wheel drive optional"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,650 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,640 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "564 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,640 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,335 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/fef1e50e-dd13-4ac1-b5ff-b512c338290e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/6118984a-a7e1-480d-a5ee-767483d39e4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/ff1ceb18-53b1-425a-9688-3e15145a1bcc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/f370ef90-8cf7-407d-959d-1b5c817771cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/b3aebb9e-418d-41c7-bdef-339510ae772b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/cffd80b3-5e71-4735-af64-97197a93cbf1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/e7870aa2-2751-4c00-8b47-f42211901b2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/459fc93c-da47-4161-83af-b04868a7824d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/4c11d8b4-8898-4726-b06f-a6ed755abca2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/d240c51e-e47f-41b5-a14b-d706a6575269.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/db6f16ca-8877-4a70-b809-9a9b7ac9fb4c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/dbb43786-c327-46f0-97a7-a08f9587839b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/6d2913ca-3167-4315-ad33-4bf167131838.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/58bf1a43-8645-4f4c-a12e-22d3b0c1e0ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/00f57813-0759-4a53-87fa-2f27dbbb6f2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/398012f6-f231-482f-af5e-86b115b038e7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d404302d-dd72-43f2-bc1a-58c7d4eeb664/4892b48e-b9b6-42d9-bf46-9b795752cbd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/9bc3ce10-e54c-42df-9591-1415763cbfe1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/2cce4cf9-b7bd-4aaf-a1e6-c69d343759a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/03c62103-759c-45f5-a180-e660436409e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/eda9c3e9-bab8-431e-8a34-c51091066d09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/bb4ee57d-2538-46c9-b5fe-335c2c24590c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/fdc7c9e3-29e3-4f79-9052-95a7f8d70625.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/cf738480-87eb-4937-852e-033b2c57dac8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a31bfb47-5dce-41d5-8a1d-d4765c29cb1c/0d287400-b064-4b6b-8de9-a530b8f53bbc.png"
+      ],
+      "expert_review": "The verdict: A longer wheelbase and new powertrain give the 2023 Wagoneer L and Grand Wagoneer L more comfort, space and grunt, but we do miss the rumble of a Hemi V-8.\n\nVersus the competition: The Wagoneer L and Grand Wagoneer L are dead-on challengers to the long versions of GM and Ford full-size and luxury full-size SUVs, stacking up well in every single category from occupant room to cargo space, technology to efficiency and power to price.\n\nWhen the new 2022 Jeep Wagoneer and Grand Wagoneer full-size, truck-based, body-on-frame SUVs arrived a year ago, few people took a look at these behemoths and thought to themselves that the one thing they needed to be … was bigger. And yet, there’s a certain segment of the full-size SUV-buying populace that will only consider an extended-wheelbase version of such a vehicle, according to Jeep product planners. Fully 30% of that market wants only the big model because they simply need that kind of room — the ability to tote along not only the whole brood of six kids, but stuff for themselves, as well. And while standard-wheelbase full-size SUVs can carry seven or eight people, they have to trade cargo room for passenger space when using the third row. But not so in long-wheelbase models like the Chevrolet Suburban, GMC Yukon XL or Ford Expedition Max — or for the luxury-minded, the Cadillac Escalade ESV or Lincoln Navigator L. With this in mind, stretching the Wagoneer and Grand Wagoneer became a no-brainer. Jeep wants those customers, too.\n\nRelated: Up Close With the 2023 Jeep Wagoneer L and Grand Wagoneer L\n\nA year later, here they are: the 2023 Jeep Wagoneer L and Grand Wagoneer L. Same Wagoneer styling, same Ram 1500-based chassis underneath, but now with a 7-inch stretch to the wheelbase and a 12-inch overall lengthening of the entire SUV. All of that extra room went to the cargo area, according to Jeep engineers; the occupant area (which was already best in class for space in a few different metrics) remains unchanged. But that’s not the only “big” change the L models get, as there’s also an all-new standard powertrain under the hood.\n\nSo, what effect do these two big changes have on the Wagoneer siblings? Is bigger really better? We recently drove the new Wagoneer L and Grand Wagoneer L at a media launch in and around Bozeman, Mont., to find out. (Cars.com pays for its own airfare and lodging when attending manufacturer-sponsored events.)\n\nIt Certainly Looks … Longer\n\nThe Wagoneer and Grand Wagoneer’s exterior styling has always been a highly subjective and surprisingly polarizing topic. Some people like the unusually formal, upright cabin that features big windows separated by body-color trim; the tall front end with the imposing Jeep-style seven-slot grille; and the squared-off rear end that looks like the liftgate glass should drop into the hatch but doesn’t.\n\nFrom the front doors forward, everything’s the same as the regular Wagoneer and Grand Wagoneer. There are different headlight and grille treatments between the two models, with the Grand Wagoneer getting more upscale styling accents given its luxury mission. Everything aft of the front doors is new for the L models, with longer rear doors, longer rear quarter panels, longer glass and a longer (but not taller) roof. Taillights and hatch treatments are the same as the regular Wagoneer models, but the bumper is slightly different. Suffice it to say that if you like the way the Wagoneer and Grand Wagoneer looked before the stretch, you’re unlikely to have much objection to how they look after the stretch. It ain’t all that different, it’s just, well … longer.\n\nWhere Size Matters\n\nWhere the benefit of the stretch becomes obvious is inside, especially when you start loading things into the back. The L interiors are positively cavernous, particularly when you put both the second and third rows down and are presented with a flat expanse of cargo space that can swallow the proverbial 4-by-8-foot sheet of plywood with significant room to spare. With all three rows of seats up in the Grand Wagoneer L, you still have 44.2 cubic feet of cargo room, according to Jeep measurements, which is nearly 16 cubic feet more than the regular Grand Wagoneer offers. To put that kind of room into perspective, a regular-length Grand Cherokee only has 37.7 cubic feet of cargo room behind its backseat. Needless to say, you can bring the basketball team and the basketball gear with this SUV.\n\nThe team is going to be comfortable, too, regardless of where they sit. The front seats are high, the dash is low and the windows are tall, providing a commanding view of the surroundings outside. The seats are comfortable in any of the three rows, with tons of second-row legroom and even spacious third-row seats built for full-size humans. The second row is also fore-and-aft adjustable, so the rear two rows of passengers can negotiate legroom amongst themselves, but there’s so much space inside that those negotiations are unlikely to turn testy. Seven- or eight-person seating is available for both the Wagoneer L and Grand Wagoneer L.\n\nInterior trim pieces do differ between the two models, but it basically comes down to the Wagoneer being very well equipped, solidly assembled, nicely styled and full of premium-feeling equipment, while the Grand Wagoneer turns everything up another notch or two. The Grand Wagoneer features genuine wood and metal appointments, more leather trim (both real and simulated), additional screens and touch-sensitive panels for climate and passenger multimedia controls, and more adjustability in everything from seats to settings.\n\nThe same foibles that we found fault with in the regular Wagoneers are still present here in the L models. They mostly deal with some of the design details of the cabin, like the center console panel for drive mode and suspension height that slopes away from the driver and the tacky-looking “Grand Wagoneer” script on the front passenger dash that ruins the lovely wood trim there.\n\nThese issues are countered by the excellent multimedia system, Uconnect 5. It’s easy to use, reconfigurable and responsive. The same can be said for the digital dash and head-up display, both of which are clear and easy to read at a glance.\n\nWhere Size Matters Not\n\nThe big news for the 2023 Wagoneers isn’t just their newfound size; they also have two new engines nestled under the hood of some trims (more on that in a moment), and they’re essentially the beginning of the end for the vaunted Hemi V-8 engine. The two new engines are twin-turbocharged 3.0-liter inline-six-cylinders dubbed “Hurricane,” and they are standard on the L versions of the SUVs.\n\nThat doesn’t mean the 5.7-liter and 6.4-liter Hemi V-8s are entirely gone just yet. Here’s how this works: The base version of the regular 2023 Wagoneer still gets a standard 5.7-liter Hemi V-8, but if you upgrade to the Series II or Series III trim level, it comes with the new Hurricane six-cylinder that’s rated at 420 horsepower and 468 pounds-feet of torque. If you opt for the regular 2023 Grand Wagoneer base model, it still comes with a standard 6.4-liter Hemi V-8, but again, if you upgrade to the Series II or Series III trims, you’ll get a high-output version of the Hurricane engine that makes 510 hp and 500 pounds-feet of torque … that is, unless you opt for the blacked-out Obsidian treatment on the Series II or Series III Grand Wagoneer, in which case you can option the 6.4-liter V-8 if you like the sounds it makes. The L models only come with the Hurricane engines.\n\nSo what’s the advantage here? The twin-turbo inline-six engines have much smaller displacement than the V-8s they replace, yet they’ll come with a small bump in both horsepower and fuel economy versus the V-8 models. And how do they perform in these monstrous SUVs? They’re fantastic. True, you don’t get the iconic burble and roar of a V-8, but that’s not so uncommon anymore, either; Ford did away with V-8 engines in the Expedition and Lincoln Navigator some time ago, and Toyota dumped it in the latest versions of the Sequoia and Lexus LX. What you do get is plentiful power, quick responses and, perhaps most surprising of all, nearly silent operation on the highway: Jeep engineers said that at highway speeds, Wagoneers equipped with the new Hurricane engine are nearly 5 decibels quieter than comparable V-8-equipped models thanks to a combination of sound-insulation improvements and engine refinement. This is quite evident from my test drive.\n\nWhat the powertrain changes create is a vaultlike feel while barreling down an admittedly smooth highway. You feel some bumps along the way, as both the Wagoneer L and Grand Wagoneer L offer up some big wheels on low-profile tires, but the available air suspension smooths things out nicely, and there’s no wind, road or engine noise that intrudes into the serenity of the cabin. Handling is predictable, but there’s no disguising the mass here — this is a big, long, heavy SUV, and it behaves as such. Even so, the L models are excellent cruisers. The ride is well controlled and nicely damped, and the steering is accurate. The brakes are especially strong and progressive, inspiring confidence for the driver. The maximum tow rating is unchanged from the prior V-8 models: up to 10,000 pounds for the rear-wheel-drive Wagoneer L and just a bit less than that for the Grand Wagoneer L.\n\nMore From Cars.com:\n\n2023 Jeep Wagoneer, Grand Wagoneer Go Bigger With New L Versions\n2022 Jeep Wagoneer and Grand Wagoneer Review: Big, Bold and Ready for a Challenge\nHow Do Car Seats Fit in a 2022 Jeep Wagoneer?\n2022 Jeep Wagoneer, Grand Wagoneer Will Offer Amazon Fire TV for Auto\nShop for a 2022 Jeep Wagoneer\nThey Don’t Come Cheap\n\nThe price difference between the regular Wagoneer and Grand Wagoneer and the Wagoneer L and Grand Wagoneer L is about $3,000 across the board, according to Jeep. This means that starting prices will range from a bit less than $68,000 (including a jaw-dropping $2,000 destination fee) for a base 2023 Wagoneer L to nearly $80,000 for a loaded one. Stepping up to the more luxurious Grand Wagoneer L will start you at just under $94,000 and range up to $114,000 for the Series III Obsidian trim. Ouch.\n\nBut people are prepared to pay these kinds of prices for these kinds of SUVs; comparable models from Chevrolet, GMC, Ford, Cadillac, Lincoln, and even Land Rover and Lexus easily cost the same, if not more. The Wagoneer L and Grand Wagoneer L are highly competitive in every single area, from luxurious appointments to driving refinement to interior space. It took a while for a full-size, truck-based SUV to join the Jeep lineup, but the wait has been worth it as the new L models are definitely segment leaders.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Series III Carbide 4x2",
+          "price": "",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "- MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "10,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "10,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,107 lbs Base Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,500 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "220 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series III Carbide 4x4",
+          "price": "",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "- MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,800 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "9,850 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "985 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "9,850 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,335 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "220 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series I Carbide 4x4",
+          "price": "",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "- MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "6,297 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "N/A Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "9,850 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "985 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "9,850 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "220 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series I Carbide 4x2",
+          "price": "",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "- MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "10,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "10,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,069 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "220 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4x2",
+          "price": "$64595",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "6,069 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "12,300 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,990 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "599 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,990 lbs Maximum Trailering Capacity",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4x4",
+          "price": "$67595",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "8 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "5,750 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "575 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,750 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,297 lbs Base Curb Weight",
+              "7,700 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II Carbide 4x2",
+          "price": "$69695",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,068 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "12,300 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,990 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "599 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,990 lbs Maximum Trailering Capacity",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II 4x2",
+          "price": "$69695",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "599 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,990 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,068 lbs Base Curb Weight",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,400 lbs Gross Vehicle Weight Rating",
+              "5,990 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series II Carbide 4x4",
+          "price": "$72695",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "5,750 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "575 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,750 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,326 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Series II 4x4",
+          "price": "$72695",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "6,326 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "12,300 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,750 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "575 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,750 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series III 4x2",
+          "price": "$75200",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "468 @ 3500 SAE Net Torque @ RPM",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Regular Unleaded I-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,990 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "599 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,990 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,300 lbs Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,107 lbs Base Curb Weight",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,500 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Optional Lane Departure Warning"
+            ],
+            "Electrical": [
+              "230 Maximum Alternator Capacity (amps)",
+              "700 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Series III 4x4",
+          "price": "$78200",
+          "specifications": {
+            "Notable features": [
+              "New extended-length model for 2023",
+              "Seven- or eight-seat full-size SUV",
+              "Standard twin-turbo inline-six replaces V-8 in L versions",
+              "Grand Wagoneer is the luxury model",
+              "Can tow up to 10,000 pounds"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "7 Seat capacity",
+              "Twin Turbo Regular Unleaded I-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Regular Unleaded I-6 Engine Type",
+              "3.0 L/183 Displacement",
+              "420 @ 5200 SAE Net Horsepower @ RPM",
+              "468 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "6,335 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "12,300 lbs Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,750 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "575 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,750 lbs Maximum Trailering Capacity",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,800 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Electrical": [
+              "700 Cold Cranking Amps @ 0° F (Primary)",
+              "230 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

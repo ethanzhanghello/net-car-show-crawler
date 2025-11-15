@@ -1,0 +1,62 @@
+{
+  "make": "dodge",
+  "model": "d150",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0815f60a-bd55-4a11-ba51-6f10cb941fe5/ec6f7dc6-fdc7-4bd0-b02a-f1510cd2f743.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 115\" WB",
+          "price": "$13833",
+          "specifications": {}
+        },
+        {
+          "name": "Sweptline 131\" WB",
+          "price": "$14050",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 133\" WB",
+          "price": "$16215",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB",
+          "price": "$16434",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/52c659c4-9215-426c-bbbe-96a5176e25b5/c6e029c4-a22d-4624-84a4-f098762771b4.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 115\" WB",
+          "price": "$13183",
+          "specifications": {}
+        },
+        {
+          "name": "Sweptline 131\" WB",
+          "price": "$13400",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 133\" WB",
+          "price": "$15265",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB",
+          "price": "$15484",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,726 @@
+{
+  "make": "mazda",
+  "model": "b2500",
+  "years": {
+    "2000": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/08511aa0-4dc2-422e-96c1-ffbeabd1bddb/1fd7c6ec-e08d-4b90-94ab-b531f86fa18c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Reg Cab 112\" WB 2.5L Man SX",
+          "price": "$11795",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,311 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.5L/153 Displacement",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "146 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Coil Spring Suspension Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Short/Long Arm Axle Type - Front",
+              "Semi-Floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "1,783 lbs Curb Weight - Front",
+              "1,226 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "3,009 lbs As Spec'd Curb Weight",
+              "1,311 lbs As Spec'd Payload",
+              "1,311 lbs Maximum Payload Capacity",
+              "4,800 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "160 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "4,750 lbs Gross Axle Weight Rating",
+              "3,009 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,320 lbs Gross Vehicle Weight Rating"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "95 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Wheel Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Reg Cab 112\" WB 2.5L Auto SE",
+          "price": "$14105",
+          "specifications": {
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,311 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "2.5L/153 Displacement",
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Leaf Spring Suspension Type - Rear",
+              "Coil Spring Suspension Type - Front",
+              "Semi-Floating Axle Type - Rear",
+              "Short/Long Arm Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,320 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "4,800 lbs Gross Axle Weight Rating",
+              "17 gal Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "3,009 lbs Curb Weight",
+              "2,240 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "224 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,009 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "1,311 lbs As Spec'd Payload",
+              "4,800 lbs Gross Combined Wt Rating",
+              "1,311 lbs Maximum Payload Capacity",
+              "1,226 lbs Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Base Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,783 lbs Curb Weight - Front",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "95 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type",
+              "Rear Wheel Brake ABS System",
+              "Not Available Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Reg Cab 112\" WB 2.5L Man SE",
+          "price": "$14105",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,311 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "2.5L/153 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-Floating Axle Type - Rear",
+              "Short/Long Arm Axle Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Coil Spring Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,320 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "3,009 lbs Curb Weight",
+              "4,800 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "160 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,800 lbs Gross Combined Wt Rating",
+              "1,311 lbs Maximum Payload Capacity",
+              "1,311 lbs As Spec'd Payload",
+              "3,009 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "1,226 lbs Curb Weight - Rear",
+              "1,783 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "95 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Cab Plus 125\" WB 2.5L Auto SE",
+          "price": "$16295",
+          "specifications": {
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,571 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.5L/153 Displacement",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "146 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Coil Spring Suspension Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Short/Long Arm Axle Type - Front",
+              "Semi-Floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "1,866 lbs Curb Weight - Front",
+              "1,323 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "3,189 lbs As Spec'd Curb Weight",
+              "1,571 lbs As Spec'd Payload",
+              "1,571 lbs Maximum Payload Capacity",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "4,800 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,240 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "224 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "20 gal Fuel Tank Capacity, Approx",
+              "4,800 lbs Gross Axle Weight Rating",
+              "3,189 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,760 lbs Gross Vehicle Weight Rating"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "95 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Wheel Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Cab Plus 125\" WB 2.5L Man SE",
+          "price": "$16295",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,571 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.5L/153 Displacement",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "146 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Coil Spring Suspension Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Short/Long Arm Axle Type - Front",
+              "Semi-Floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "1,866 lbs Curb Weight - Front",
+              "1,323 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "3,189 lbs As Spec'd Curb Weight",
+              "1,571 lbs As Spec'd Payload",
+              "1,571 lbs Maximum Payload Capacity",
+              "4,800 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,440 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "144 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "4,800 lbs Gross Axle Weight Rating",
+              "3,189 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,760 lbs Gross Vehicle Weight Rating"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "95 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Wheel Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/69631cfa-2f04-424e-86e9-a9281a8edf5e/6f3f0128-31b1-4b43-a05a-fc986dc5f699.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Reg Cab 112\" WB 2.5L I4 Auto SX",
+          "price": "$11485",
+          "specifications": {
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,290 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "2.5L/153 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-Floating Axle Type - Rear",
+              "Double Wishbone Axle Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Coil Spring Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "3,030 lbs Curb Weight",
+              "4,750 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "222 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,220 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,800 lbs Gross Combined Wt Rating",
+              "1,290 lbs Maximum Payload Capacity",
+              "1,290 lbs As Spec'd Payload",
+              "3,030 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "1,233 lbs Curb Weight - Rear",
+              "1,797 lbs Curb Weight - Front",
+              "N/A Base Curb Weight",
+              "4,320 lbs Gross Vehicle Weight Rating"
+            ],
+            "Electrical": [
+              "95 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Reg Cab 112\" WB 2.5L I4 Man SX",
+          "price": "$11485",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,290 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "2.5L/153 Displacement",
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-Floating Axle Type - Rear",
+              "Leaf Spring Suspension Type - Rear",
+              "Double Wishbone Axle Type - Front",
+              "Coil Spring Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "1,797 lbs Curb Weight - Front",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,030 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Front",
+              "1,290 lbs As Spec'd Payload",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "1,233 lbs Curb Weight - Rear",
+              "4,800 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,030 lbs Curb Weight",
+              "158 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Base Curb Weight",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Rear",
+              "1,580 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,290 lbs Maximum Payload Capacity",
+              "4,320 lbs Gross Vehicle Weight Rating",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "4,750 lbs Gross Axle Weight Rating"
+            ],
+            "Electrical": [
+              "95 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Rear Wheel Brake ABS System",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Reg Cab 112\" WB 2.5L I4 Auto SE",
+          "price": "$13305",
+          "specifications": {
+            "Highlights": [
+              "20 City / 25 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,290 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type",
+              "2.5L/153 Displacement"
+            ],
+            "Suspension": [
+              "Semi-Floating Axle Type - Rear",
+              "Coil Spring Suspension Type - Front",
+              "Double Wishbone Axle Type - Front",
+              "Leaf Spring Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,030 lbs Curb Weight",
+              "1,797 lbs Curb Weight - Front",
+              "3,030 lbs As Spec'd Curb Weight",
+              "222 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,320 lbs Gross Vehicle Weight Rating",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,233 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Rear",
+              "1,290 lbs As Spec'd Payload",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "1,290 lbs Maximum Payload Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "2,220 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,750 lbs Gross Axle Weight Rating",
+              "N/A Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "4,800 lbs Gross Combined Wt Rating",
+              "0 lbs Option Weight - Front"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "95 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Wheel Brake ABS System",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Reg Cab 112\" WB 2.5L I4 Man SE",
+          "price": "$13305",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "3 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,290 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.5L/153 Displacement",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "146 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Coil Spring Suspension Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Double Wishbone Axle Type - Front",
+              "Semi-Floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,320 lbs Gross Vehicle Weight Rating",
+              "N/A Base Curb Weight",
+              "1,797 lbs Curb Weight - Front",
+              "1,233 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "3,030 lbs As Spec'd Curb Weight",
+              "1,290 lbs As Spec'd Payload",
+              "1,290 lbs Maximum Payload Capacity",
+              "4,800 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,580 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "158 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "4,750 lbs Gross Axle Weight Rating",
+              "3,030 lbs Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "95 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Wheel Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Cab Plus 125\" WB 2.5L I4 Man SE",
+          "price": "$15445",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,330 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "2.5L/153 Displacement",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Coil Spring Suspension Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Semi-Floating Axle Type - Rear",
+              "Double Wishbone Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,880 lbs Curb Weight - Front",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "1,380 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "138 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,210 lbs As Spec'd Curb Weight",
+              "4,800 lbs Gross Combined Wt Rating",
+              "1,330 lbs Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "3,210 lbs Curb Weight",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight",
+              "4,540 lbs Gross Vehicle Weight Rating",
+              "1,330 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,750 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "1,330 lbs As Spec'd Payload"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "95 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Rear Wheel Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Cab Plus 4 125\" WB 2.5L I4 Man SE",
+          "price": "$15445",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Rear Wheel Drive Drivetrain",
+              "1,330 lbs Payload Capacity",
+              "N/A Towing Capacity"
+            ],
+            "Engine": [
+              "146 @ 3000 SAE Net Torque @ RPM",
+              "119 @ 5000 SAE Net Horsepower @ RPM",
+              "2.5L/153 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-Floating Axle Type - Rear",
+              "Double Wishbone Axle Type - Front",
+              "Leaf Spring Suspension Type - Rear",
+              "Coil Spring Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "138 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,380 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,800 lbs Gross Combined Wt Rating",
+              "1,330 lbs Maximum Payload Capacity",
+              "1,330 lbs As Spec'd Payload",
+              "3,210 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "1,330 lbs Curb Weight - Rear",
+              "1,880 lbs Curb Weight - Front",
+              "N/A Base Curb Weight",
+              "4,540 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "3,210 lbs Curb Weight",
+              "4,750 lbs Gross Axle Weight Rating"
+            ],
+            "Electrical": [
+              "95 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.28 x 1.33 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

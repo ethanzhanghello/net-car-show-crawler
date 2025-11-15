@@ -1,0 +1,42 @@
+{
+  "make": "mercedes_benz",
+  "model": "190",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/422f0727-5af9-4909-9fbd-6d9ce56e4291/559c3178-d8d8-4cd8-b0ed-cc465a215b5a.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan 190E 2.3 5-Spd",
+          "price": "$28950",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 190E 2.6 5-Spd",
+          "price": "$34000",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/79743bba-18d2-441d-9bba-e1542e2e8ac9/64502555-0041-4b4b-8531-9a2eae28dbde.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan 190E 2.3 5-Spd",
+          "price": "$28950",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 190E 2.6 5-Spd",
+          "price": "$34000",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

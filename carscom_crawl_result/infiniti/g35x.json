@@ -1,0 +1,28 @@
+{
+  "make": "infiniti",
+  "model": "g35x",
+  "years": {
+    "2007": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_4999",
+          "price": "$4999",
+          "specifications": {}
+        }
+      ]
+    },
+    "2004": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_6995",
+          "price": "$6995",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

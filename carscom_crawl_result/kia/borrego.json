@@ -1,0 +1,625 @@
+{
+  "make": "kia",
+  "model": "borrego",
+  "years": {
+    "2009": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/ca860770-dc73-4d7b-90d0-5d502be62d15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/afd0e921-1769-4714-8a8e-80a47d0a3f11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/b4e65ffb-e4d4-4ad3-b653-83cd7a097080.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/e2203ffd-4066-4e00-b32b-536ffca32043.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/2f8efc97-db06-4554-9fa8-e6da5ffd6435.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/450dbc3d-9457-4964-bece-74ada39a954f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/5946a01c-cc3f-49d0-a46a-a0d46e91405a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/3556a107-2143-49cc-ad5b-a4683a55822a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/e774f538-a9b7-4416-ac90-7760686150b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/93b4b136-c27e-4159-a869-483edf5f85db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/1b00d747-4f87-40cc-8a50-e08d1c1c69cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/4fa3f215-9c33-450e-8cf6-f4d3864a5143.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/b0208d6e-86f8-4557-a3d7-0b390d7e22a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/3323a5dc-ca70-497d-b997-13e96fc88235.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/2c7c82f1-551c-4c73-aca3-0d176de79eb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/ac2096a6-aa75-4e59-b9a3-80305decc10c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/02449bae-45ad-41bb-b269-8eb2a685720f/d2199416-5726-4ad4-976c-064f7105c5fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/1b2e603c-9ade-4e7e-8771-fd7284f0d9d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/32a67c4d-f310-4e6a-99da-b30e1ebc4511.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/444aaeb5-5ffe-4fe6-bc14-eca070de31dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/672e61c4-bbcc-4be6-9df8-911662165b47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/1642dac3-add0-431c-b2d8-d2f85880b190.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/53d0bc7d-eaae-4b0a-a1bb-2c0f2a389bc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/5899d509-6839-4b51-a88a-acbdc7ee5e48.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/5ca904a6-4a06-4f3e-a5dd-1970218c9bda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/6e2c5b43-cc9d-4fa0-ab1b-e5ec928642fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/a514c474-6394-4bf8-a2f9-f2e5bbf49d14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/6c58aa1c-90f0-4f99-936b-bf7095b957dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/66990ab8-9339-4acb-b919-d1cef5032110.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/7a4169db-41d9-4974-bdba-9cf7f42e447d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/d69ff0d8-ffea-4acc-897c-bf8b3bc0094e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/f9aea260-e136-4137-86b2-dc7fd2df7e1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/4cf40eea-a6a7-4a19-adde-af9ca50c4db1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed970c9a-8934-4662-acdb-e7d8fc408eec/5941ca0d-47b4-4853-b3d4-1c594b2681d8.png"
+      ],
+      "expert_review": "One of the newest SUVs on the market this year turns out to be one of the best, the full-size Kia Borrego – the first large sport utility from the South Korean automaker owned by Hyundai.\n\nThis is the same company that brought us the versatile Sportage compact SUV in the mid-90s, when Kia first arrived in the United States.\n\nKia has come a long way since then, now fielding a full line of cars, sport utilities, crossovers and a minivan.\n\nThe seven-passenger Borrego is the biggest and most expensive of all of Kia’s U.S. entries so far. Prices begin at $26,245 (plus $750 freight) and range as high as $39,995 for the latest version, the top-of-the-line Limited model. (These are 2009 prices; Kia has not yet introduced the 2010 model nor announced pricing.)\n\nAdded midyear, the Limited comes only in a black monotone exterior color with black interior trim, and has such standard features as a smart key system with pushbutton start, Kia’s Supervision meter cluster, power adjustable pedals, chrome accents on the outside door handles and rear trim, heated second-row seats, Bluetooth phone connection, and special badging.\n\nBorrego is roomier than some of the most-recognized SUV names, such as the Ford Explorer, Nissan Pathfinder, Toyota 4Runner, Jeep Grand Cherokee and Honda Pilot, Kia says.\n\nIt’s also an award winner: Edmunds.com named the Borrego its top-rated SUV in the $25,000-$35,000 price range for 2009, based on consumer ratings of its overall value, power, towing capacity, interior space, outward visibility, fuel economy and its ample standard features.\n\nLike the original Sportage, the Borrego is a traditional body-on-frame SUV with an optional off-road-capable four-wheel-drive system, complete with low-range gearing for serious trail driving. The name comes from one of my all-time favorite places for four-wheeling – the Anza-Borrego Desert State Park near Palm Springs, Calif.\n\nAlthough configured as a traditional SUV, the Borrego has the look, feel and fuel economy of a crossover.\n\nWith the base, 276-horsepower, 3.8-liter V-6 engine, the Borrego has EPA fuel-economy ratings as good as – or even better than — those of some of the popular crossovers: 17 mpg city/22 highway with two-wheel drive, and 16/21 with four-wheel drive. The all-wheel-drive Honda Pilot is rated at 17/22, and its upscale cousin, the Acura MDX, at just 15/20\n\nOptional is a 337-horsepower, 4.6-liter V-8, borrowed from the Hyundai Genesis luxury sedan. This is the first V-8 in a Kia vehicle.\n\nThe $26,245 price brings the base LX V-6 model with rear-wheel drive. V-8 models begin with the two-wheel-drive LX at $30,995; the EX V-8 model with four-wheel drive is $32,995; and the lineup tops out with the Limited.\n\nThose of us who enjoy taking our vehicles and families into the wilderness will find the Borrego quite pleasing. And even though it is as capable off-road as some of those traditional SUVs born in the 1990s, such as the Grand Cherokee and Explorer, the Borrego has a modern design that makes it a great on-road family hauler, as well.\n\nIt’s quite roomy inside, with bucket seats up front, a three-passenger middle-row bench than can slide forward or backward on its track to provide more legroom, and a two-person split bench in the third row. Both of the rear seats can be folded to open up a cavernous cargo area, but with all seats in place, luggage space is limited to 12.4 cubic feet – enough for two or three suitcases or an average load of groceries.\n\nWe tested the midlevel EX V-6 model with four-wheel drive ($29,995 plus freight), so we weren’t able to check out the additional power offered by the V-8. But it’s not a gas hog – with two-wheel drive, it’s rated at 15 city/22 highway, and with four-wheel drive, 15/20 – the same as the Acura MDX.\n\nV-6 models come with a five-speed automatic transmission, while the V-8s have a six-speed. That extra gear helps give the V-8 its decent highway mileage.\n\nThe interior that looks more like that of a luxury sedan than an off-road-capable SUV. We packed it with the family for a weekend trip, and found it to be a great companion for the weekend.\n\nThe kids were able to get into the third seat fairly easily, but I wouldn’t recommend trying to make your adult passengers climb back there unless they are young and nimble. The front bucket seats are quite comfortable, and the middle seat is comfy enough for two adults with a child in the middle.\n\nHighway handling is more carlike than you would expect, and off the highway, the Borrego was very much like a Grand Cherokee in its performance.\n\nThe four-wheel-drive system is automatic, and came in handy on wet roads. A rotary switch on the dash to the left of the steering column allows for manually switching into either four-wheel-drive high or low range. The low range is for serious trail driving.\n\nThe Borrego has earned the highest five-star crash safety ratings from the U.S. government for all seating positions.\n\nAmong standard safety features are advanced front air bags, front seat-mounted side air bags, side-curtain air bags for all three rows of seats, a driver’s knee air bag (V-8 models only); four-wheel antilock disc brakes; electronic stability control and traction control; a tire-pressure monitoring system; electronic brake-force distribution; and electronic brake assist.\n\nTowing capacity is 5,000 pounds for the V-6 models and 7,500 pounds for the V-8.\n\nStandard amenities include air conditioning, an AM/FM/CD/MP3 six-speaker audio system with USB and auxiliary input jack, power windows/mirrors/door locks with remote, and Sirius satellite radio.\n\nOur tester came with the Premium package ($1,800), which added a sunroof; outstanding Infinity audio system with 10 speakers, MP3 playback and CD changer; rear air conditioning with controls on the back of the front center console so rear passengers can adjust it themselves; and running boards.\n\nWe also had the really useful navigation system ($1,500); and the Luxury Package ($1,500), which brought leather seats for the first and second rows, heated front seats, power tilt-and-telescopic steering wheel, and a memory feature for the driver’s seat, outside mirrors and steering wheel.\n\nTotal sticker price for our vehicle was $35,545, including freight and options.\n\nThe automotive columns of G. Chambers Williams III have appeared regularly in the Star-Telegram since 1994. Contact him at 210-250-3236; chambers@star-telegram.com.\n\n2009 Kia Borrego\n\nThe package: Midsize, five-door, seven-passenger, rear- or four-wheel-drive, V-6 or V-8 powered sport utility vehicle.\n\nHighlights: This is the newest and largest SUV in the Kia lineup, and the most-refined family hauler yet from this South Korean automaker. It’s quite refined and comfortable, yet has an optional four-wheel-drive system capable of serious off-road use.\n\nDisadvantages: Limited cargo space when the third seat is in use.\n\nEngine: 3.8-liter V-6; 4.6-liter V-8..\n\nTransmission: Five-speed automatic (V-6); six-speed automatic (V-8).\n\nBrakes, front/rear: Disc/disc, antilock.\n\nPower/torque: 276 HP/267 foot-pounds (V-6); 337 HP/323 foot-pounds (V-8)..\n\nBrakes, front/rear: Disc/disc, antilock.\n\nElectronic stability control: Standard.\n\nExtra air bags: Front seat-mounted side bags; side-curtain, all three rows, standard; driver’s knee bag standard on V-8 model.\n\nLength: 192.1 inches.\n\nCurb weight range: 4,248-4,621 pounds.\n\nCargo volume: 12.4 cubic feet (behind third seat).\n\nTrailer-towing capacity: 5,000 pounds (V-6); 7,500 pounds (V-8).\n\nFuel capacity/type: 20.6 gallons/unleaded regular.\n\nEPA fuel economy: V-6: 17/22 (2WD)/16/21 (4WD); V-8: 15/22 (2WD)/15/20 (4WD).\n\nMajor competitors: Honda Pilot, Ford Flex, Toyota 4Runner, Toyota Highlander, Acura MDX, Ford Explorer, Nissan Pathfinder, Nissan Armada, Dodge Journey, Chevrolet Traverse/GMC Acadia/Buick Enclave, Jeep Grand Cherokee, Jeep Commander, Mazda CX-9.\n\nBase price range: $26,245-$39,995 plus $750 freight (2009 prices; 2010 not announced yet).\n\nPrice as tested: $35,545, including freight and options (2009 EX V-6, 4WD).\n\nOn the Road rating: 8.7 (of a possible 10).\n\nPrices shown are manufacturer’s suggested retail; actual selling price may vary.",
+      "trims": [
+        {
+          "name": "2WD 4dr V6 LX",
+          "price": "$26245",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "17 City / 21 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.8L/231 Displacement",
+              "276 @ 6000 SAE Net Horsepower @ RPM",
+              "267 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,248 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2WD 4dr V6 EX",
+          "price": "$27995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "17 City / 21 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.8L/231 Displacement",
+              "276 @ 6000 SAE Net Horsepower @ RPM",
+              "267 @ 4400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,248 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V6 LX",
+          "price": "$28295",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "16 City / 21 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "276 @ 6000 SAE Net Horsepower @ RPM",
+              "267 @ 4400 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type",
+              "3.8L/231 Displacement"
+            ],
+            "Suspension": [
+              "Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,460 lbs Base Curb Weight",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "21 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V6 EX",
+          "price": "$29995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "16 City / 21 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "267 @ 4400 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type",
+              "3.8L/231 Displacement",
+              "276 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Multi-link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "4,460 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2WD 4dr V8 EX",
+          "price": "$30995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "323 @ 3500 SAE Net Torque @ RPM",
+              "337 @ 6000 SAE Net Horsepower @ RPM",
+              "4.6L/282 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Multi-link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "750 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,405 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 LX",
+          "price": "$30995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "15 City / 20 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "4.6L/282 Displacement",
+              "337 @ 6000 SAE Net Horsepower @ RPM",
+              "323 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,621 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "750 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 EX",
+          "price": "$32995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "15 City / 20 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "4.6L/282 Displacement",
+              "323 @ 3500 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type",
+              "337 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "750 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "4,621 lbs Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type",
+              "Not Available Drum - Rear (Yes or )",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2WD 4dr V8 Limited",
+          "price": "$37995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "323 @ 3500 SAE Net Torque @ RPM",
+              "337 @ 6000 SAE Net Horsepower @ RPM",
+              "4.6L/282 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Multi-link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "750 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,405 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4WD 4dr V8 Limited",
+          "price": "$39995",
+          "specifications": {
+            "Notable features": [
+              "All-new for 2009",
+              "Seats seven",
+              "V-6 or V-8",
+              "Standard rear parking sensors",
+              "10-year/100,000-mile powertrain warranty"
+            ],
+            "Highlights": [
+              "15 City / 20 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V8 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "337 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas V8 Engine Type",
+              "4.6L/282 Displacement",
+              "323 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "Multi-link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "4,621 lbs Base Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "7,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "750 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12.8 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

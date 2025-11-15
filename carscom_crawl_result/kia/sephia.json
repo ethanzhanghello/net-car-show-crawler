@@ -1,0 +1,1890 @@
+{
+  "make": "kia",
+  "model": "sephia",
+  "years": {
+    "2001": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0e302d7d-84ad-451b-9b18-91885ead458d/0fe365e4-91d6-418f-bea6-8505efab3f83.png"
+      ],
+      "expert_review": "Vehicle Overview\nThe subcompact Sephia sedan returns unchanged from last year but now has a hatchback cousin in the new Spectra. Kia added the front-drive Spectra for 2001, and the main difference is its hatchback styling.\n\nKorea-based Kia is owned by Hyundai but maintains a separate dealer network. Hyundais ownership shows in the new warranty for 2001. The whole vehicle is covered for five years/60,000 miles, along with major powertrain components for 10 years/100,000 miles and corrosion for five years/100,000 miles. All Hyundai models are covered under this warranty, which includes free roadside assistance for the first five years.\n\nExterior\nThe conservatively styled Sephia comes only as a four-door and measures 174.4 inches overall  about the same length as the Honda Civic.\n\nInterior\nThe Sephia comes in base and LS price levels. The LS boasts several features not available on the base, which include all-cloth seats (instead of cloth and vinyl), a tilt steering column, a 60/40 split rear seatback that folds for extra cargo room and a tilt feature for the drivers seat.\n\nAn optional Power Package for the LS adds air conditioning, cruise control, a tachometer, and power locks, windows and mirrors.\n\nUnder the Hood\nA 1.8-liter four-cylinder with 125 horsepower is the only engine choice. Consumers get the choice of a standard five-speed manual or optional four-speed automatic transmission.\n\n \n\nReported by Rick Popely  for cars.com\nFrom the cars.com 2001 Buying Guide",
+      "trims": [
+        {
+          "name": "4dr Sdn Manual",
+          "price": "$10845",
+          "specifications": {
+            "Highlights": [
+              "24 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,478 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "10.12 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto",
+          "price": "$11820",
+          "specifications": {
+            "Highlights": [
+              "21 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front",
+              "MacPherson Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,534 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "540 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "10.12 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS Pwr Pkg",
+          "price": "$12445",
+          "specifications": {
+            "Highlights": [
+              "24 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,551 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "10.12 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS Pwr Pkg",
+          "price": "$13420",
+          "specifications": {
+            "Highlights": [
+              "21 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "2,606 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "540 Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type",
+              "10.12 x -TBD- in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bbe9814a-7d85-42af-821f-793df3b09f82/b97abcfb-7678-41cd-9e6a-20a91ede12b1.png"
+      ],
+      "expert_review": "Just what a country with excess production capacity needs is yet another import, this one the Sephia (Seh-fee-uh) from Kia of South Korea, the same company that builds the mini Aspire for Ford Motor Co. Sephia is not a version of Aspire.\n\nKia draws a close comparison with South Korean automaker Hyundai, which brought the Excel to this country on a limited basis by first offering it on the West Coast, then expanding sales nationwide as dealers were added. Kia will follow the same pattern with the Sephia sedan and Sportage sport utility vehicle. You probably won’t see either in the Midwest until late in 1995, Kia says.\n\nThat’s good, because it will give Kia time to update and upgrade the tad crude Sephia. It’s not that Sephia is a Model T. You get a fuel-injected 1.6-liter, 88 horsepower, 16-valve, 4-cylinder engine and AM/FM radio and power windows/door locks/mirrors and rear-window defogger. But there are no air bags and no antilock brakes, and neither will be offered until 1995.\n\nSephia is billed as a low-cost alternative to anything else on the market. Like the Excel, Sephia is promoted as a new car at the same or lower price than many used cars. The three Sephia models-RS, LS, GS-start at $8,495, $9,295 and $10,195, respectively.\n\nWith such common options as automatic transmission ($750), air conditioning($850), power steering ($256 on RS, standard on LS/GS), radio/cassette ($154 RS, $256 LS, $103 GS), cruise control ($205) and alloy wheels ($328), those respective stickers move up to $10,505, $11,151 and $12,431. Add $385 for freight. That’s still about $1,000 less than a Dodge or Plymouth Neon, but without benefit of dual air bags or antilock brakes. And when Sephia adds those items, its prices will go up.\n\nSo consider our test-drive of the ’94 Kia Sephia GS a word of warning: If afriend tells you of a little low-priced car you can get your hands on if you choose to travel to California, Phoenix or New Mexico to pick one up, don’t pack a bag until Kia packs one or two of its own.",
+      "trims": [
+        {
+          "name": "4dr Sedan RS 5-Spd",
+          "price": "$8495",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan RS Auto",
+          "price": "$9245",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan LS 5-Spd",
+          "price": "$9295",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan LS Auto",
+          "price": "$10045",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GS 5-Spd",
+          "price": "$10195",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GS Auto",
+          "price": "$10945",
+          "specifications": {}
+        }
+      ]
+    },
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d2c2403c-9dec-4943-bc40-898ac3a004e7/51b7a655-ff4b-476c-8226-8a571d941c88.png"
+      ],
+      "expert_review": "The tailpipe doesn’t rust, and the rattles are gone. The body looks substantial, but the appearance is deceptive. It’s still a little car, even though it is longer and a tad taller than its predecessor.\n\nThe 1998 Kia Sephia LS is redesigned and all dressed up for this year’s sales, but questions remain about whether it has anyplace to go.\n\nThe problem is this: The Sephia is trying to succeed in a brutally tough segment of the U.S. auto market, the small-car group, cars with wheelbases of up to 104 inches, which account for 27.3 percent of all new cars sold in this country.\n\nEven if the Kia Sephia matched its rivals in quality — and it doesn’t — it would have a tough road to travel. People don’t know Kia Sephia. They know Honda Civic, Toyota Corolla, Chevrolet Prizm, Nissan Sentra, Chevrolet Cavalier, Ford Escort, Mazda Protege, Dodge Neon. And they know Volkswagen Beetle, absent from these shores for 21 years but due to return in grand form this spring.\n\nThe Kia Sephia’s strength is pricing. Its base prices range from $9,995 to $14,300. Compare that with the Honda Civic, priced from $10,650 to $17,280; or the Chevrolet Cavalier, from $11,610 to $19,410; or the VW Beetle, which starts at $15,200.\n\nBut lower prices may not be enough to give the Kia Sephia a boost. Consumers work from complex needs and desires in buying cars. Many are concerned about quality and safety, and they know that, say, a Toyota Corolla is a high-quality and reasonably safe small car.\n\nOther car buyers simply don’t want to look stupid. They want a car that the public perceives as “smart” — something like a Honda Civic — even if that means buying a used model. And others learned long ago that the Chevrolet Cavalier offers solid transportation at a reasonable cost, making it the perfect small car for people who want to “buy American,” or for those with a passion for reverse snobbery.\n\nBelow-market pricing might buy the Kia Sephia some important short-term attention.But South Korea’s Kia Motors Corp., the car’s manufacturer, is going to have to come up with more than that to make a serious run of it.\n\nThe new front-wheel-drive Sephia LS is a beginning. It is a quite decent car, marked by many nice touches, including projector-type headlamps, power door locks and windows, power steering, tilt steering column, cruise control, and a remote trunk-release button. A new,rust-resistant stainless-steel exhaust system is also among the Sephia LS’s improvements.\n\nThe test model also comes with a four-speed automatic transmission — not bad for a car under $15,000.\n\nThe caveat on the Sephia LS involves feel and execution. It’s okay, but it’s not put together as well as a Toyota Corolla or Honda Civic. Those rivals feel tight and well-constructed. Their seams fit perfectly. Their plastics are supple, thus imparting a feeling of wealth. By comparison, the Sephia LS’s plastics are hard and toy-like; they shout, “Cheap!”\n\nThere’s also the matter of th e LS’s engine. It’s a 1.8-liter, double-overhead-cam inline four-cylinder job capable of producing 125 horsepower at 6,000 rotations per minute and 108 pound-feet of torque at 4,500 rpm — again, commendable for a vehicle in this price and size range.\n\nBut the engine in the test car idled roughly, downshifted frequently and tended to whine at highway speeds. Engines in rival cars purred by comparison.\n\nStandard brakes on the Sephia LS include power vented front discs and rear drums. A four-wheel antilock system is optional, along with optional four-wheel discs. A five-speed manual transmission is standard; the four-speed automatic is optional.\n\nThe Sephia is offered in three trim levels — Base, LS and the tested LS Power Package (the power door locks, etc.). All models seat five people.\n\n1998 Kia Sephia LS\n\nComplaints: Rough engine idling; noisy engine at highway speeds.\n\nPraise: All things considered, a good value. A good commuter with promising reliabil ty and dur ability for owners who religiously attend to the Sephia’s maintenance requirements.\n\nHead-turning quotient: In terms of raw visual appeal, actually one of the best-looking small cars available. Cute.\n\nRide, acceleration and handling: Average in all three categories. Highway-competent. Good braking. The test model came with the optional antilocks.\n\nSafety: All the standard safety features. But some initial crash tests suggest that the Sephia fares worse than some competing models in offset crashes — angled hits behind the front fenders and along the forward portions of the front doors.\n\nMileage: About 27 miles per gallon. Fuel tank holds 13.2 gallons. Estimated range is 344 miles on usable volume of recommended regular unleaded gasoline in combined city-highway driving, running driver only with no cargo (trunk capacity, 10.4 cubic feet).\n\nSound system: Six-speaker AM-FM stereo radio and cassette with console-mounted single CD player, installed by Kia. Good.\n\nPrice: Base price on test model is $14,300. Base dealer invoice on that model is $12,601. Price as tested is $14,750, including a $450 destination charge.\n\nPurse-strings note: Basic transportation — with a few spiffs– at a fair price.",
+      "trims": [
+        {
+          "name": "4dr Sdn Manual",
+          "price": "$9995",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,478 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.53 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto",
+          "price": "$10970",
+          "specifications": {
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,534 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "9.53 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS",
+          "price": "$10995",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "2,551 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "9.53 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Yes Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS",
+          "price": "$11970",
+          "specifications": {
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,606 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.53 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS Pwr Pkg",
+          "price": "$13325",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,551 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.53 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS Pwr Pkg",
+          "price": "$14300",
+          "specifications": {
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "2,606 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.53 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "1999": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b47203d1-7725-4791-8e01-7a0d36062c6c/9065d60a-b38a-49c7-bd70-531d64eb08cb.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sdn Manual",
+          "price": "$9995",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,478 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto",
+          "price": "$10970",
+          "specifications": {
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type",
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,534 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS",
+          "price": "$10995",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,551 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS",
+          "price": "$11970",
+          "specifications": {
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,606 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS Pwr Pkg",
+          "price": "$13325",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,551 lbs Base Curb Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS Pwr Pkg",
+          "price": "$14300",
+          "specifications": {
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,606 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "-TBD- (48 amp/hr) Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8d00bf41-f363-42cf-803d-b2ebcb6e0fa3/d796cc2a-7b3c-4f68-80cb-0d18056af28b.png"
+      ],
+      "expert_review": "Because the Kia Sephia doesn’t have a knockout price, why buy it? That’s what I was wondering after spending a week behind the wheel of a silver 1996 Sephia LS.\n\nThis car doesn’t bring anything new to the party. The Sephia is a nicely styled automobile with average – or slightly worse – quality. And its performance, fuel economy and safety features don’t set it apart from the leaders in the class. (Sephia’s main competitors – the Toyota Tercel, Honda Civic and Ford Escort – are three small cars with well-proven reputations for quality and dependability.)\n\nEven though I don’t dislike theSephia, I could find no compelling reason to own it.\n\nSome of the car’s trim parts are very cheap-looking, and the car isn’t as refined as a Honda or Toyota. In a market that is filled with outstanding small cars, paying a premium price for an average car makes little sense.\n\nPERFORMANCE AND HANDLING\n\nThe 2,586-pound Sephia offers pleasing all-round performance. It’s very responsive from astop and has good passing power.\n\nThe Sephia is powered by a 16-valve, 1.8-liter engine that makes 122 horsepower. The engine is nearly a duplicate of the one Mazda installs in the Miata sports car.\n\nKia uses Mazda’s technology for a number of the mechanical parts in the Sephia and the Sportage sport-utility vehicle. Mazda spokesman Fred Aikins in California said Mazda sold Kia the rights to the 1.8-liter engine. Kia manufactures the motor at its giant plant in Asan Bay, South Korea.\n\nOur silver test car started quickly and ran smoothly. The transmission seemed somewhat slow to shift into drive from reverse, but otherwise it worked well.\n\nFuel economy, though, is not impressive. Midsize cars from General Motors, such as the V-6 powered Pontiac Bonneville and Buick LeSabre, are EPA-rated at 30 mpg on the highway. One would expect the smaller, lighter Sephia to do better than its EPA rating of 21 mpg city and 28 highway.\n\nThe four-wheel independent suspension system delivers afirm, stable ride. However, there is a small amount of wind noise at highway speeds, and on poorly paved roads the roaring noise made by the tires finds its way inside the car.\n\nThe power steering is crisp and tight, and the front disc/rear drum brakes work well.\n\nAverage is the way to sum up the Sephia’s performance and handling.\n\nFIT AND FINISH\n\nAt first glance the Sephia LS appears to offer little in the way of accessories. Our test car did not have power windows, mirrors, door locks or cruise control. Without such things, the car seems like just basic transportation.\n\nBut it maybe a car that won’t cost you a lot once you buy it. Our test car came with expensive 14-inch, 60,000-mile Michelin radial tires. It’s very unusual for a small car to have premium tires. The Sephia also comes with a 24-hour roadside assistance plan that pays the bill in nearly every possible emergency.\n\nThe LS model comes standard with a b uilt-in alarm system and power-assisted rack-and-pinion steering – two items that add to the cost of many other small cars.\n\nThese things add value to the Sephia, but my impression is that the car’s performance and overall quality are not good enough to make me want to buy it – not at more than $13,000 (our car’s two main options, air conditioning and a powerful AM/FM cassette, added $1,190 to the base price).\n\nPerhaps I would feel differently about the Sephia if its materials and quality matched that of Honda, Toyota or Saturn.\n\nSome of the Sephia’s interior trim pieces look and feel cheap or are sloppily applied. The sun visors, for instance, are among the cheapest and most flimsy I’ve seen. And carpet can easily become unattached from the velcro strips that hold it to the fire wall under the accelerator.\n\nSome of the controls in the Sephia also make the car feel cheap. For instance, the round temperature knob turns so easily that it feels as if it is connected to nothing, and the turn signal switch felt rubbery.\n\nBut the cloth-covered seats were firm and comfortable, and the doors and trunk closed with a very solid thunk.\n\nThere is plenty of head, leg and foot room front and rear. And Sephia’s rear seats fold forward, enabling you to load large items, such as a mountain bike, into the trunk.\n\nThe Sephia hasn’t earned a reputation for high quality – the car ranks about average. However, Kia has worked hard to ensure replacement parts are readily available and that its customers are taken care of quickly and with as little fuss as possible when service is needed.\n\nTruett’s tip: The Kia Sephia LS is adecent compact car – not the best or the worst in its class.",
+      "trims": [
+        {
+          "name": "4dr Sdn 1.6L Manual RS (CA)",
+          "price": "$9495",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Manual RS",
+          "price": "$9495",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.6L Auto RS (CA)",
+          "price": "$10470",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Auto RS",
+          "price": "$10470",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Manual LS",
+          "price": "$10895",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Auto LS",
+          "price": "$11770",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Manual GS",
+          "price": "$11795",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Auto GS",
+          "price": "$12670",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    },
+    "1997": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/95e97acb-16f5-419b-9cfc-99503350c379/13ea77b9-5771-4a22-8b90-2fc01f340926.png"
+      ],
+      "expert_review": "Basic can be good, if it’s understood to be basic. South Korea’s Kia Motors Corp. understands as much, and therein lies the danger for Japanese and U.S. car companies.\n\nI’ve said it before: It’s a mistake to treat South Korean automakers as ciphers in the global auto business. These folks are serious. They want market share. They rapidly are improving product quality, while continuing to beat rivals on price.\n\nThe 1997 Kia Sephia is a case in point. It’s an ordinary economy car sold at base prices ranging from $9,795 to $12,830. That’s inexpensive. But it’s not cheap.\n\nThe difference is in the notion of value for the dollar. The Sephia offers good value, especially as a commuter. It’s well-made, fuel-efficient and, by economy car standards, almost pleasant to look at.\n\nIn its fully loaded form, the Sephia comes with standard amenities such as a 122-horsepower engine, four-wheel independent suspension system and speed-sensitive rack-and-pinion steering.\n\nBut the car’s real virtue is that it is what it is — an economy runner. It doesn’t over-promise, doesn’t vow to give you what Mazda calls “a passion for the road,” or any of that silliness. It’s just a good little car committed to getting you from place to place in reasonable comfort at a reasonable price.\n\nHmph. What an idea.\n\nBackground: Kia probably will stick with this sensible car-sensible pricing strategy for the next several years. This is to help the company gain respect in the United States. And then it probably will do what every other automaker has done in the U.S. auto market — move upscale.\n\nThat’s life. The poor, we will have with us always. But profit lies in affluence. Kia wants to be profitable in America.\n\nBut until that time, there are deals to be had; and the Sephia is one of the best new-car deals available today.\n\nIt is equipped with an in-line, four-cylinder, double-overhead cam, 16-valve engine rated 122 horsepower at 6,000 rpm with torque rated 117 pound-feet at 4,000 rpm. This engine works best with the Sephia’s standard, five-speed manual transmission. With the optional, electronically controlled four-speed automatic, there is a lot of wheezing and whining in the higher gears.\n\nA 1.6-liter, 105-horsepower version of that engine is sold as standard Sephia equipment in California, where clean-air politicians are doing everything in their power to make the gasoline engine obsolete.\n\nStandard brakes include vented, power front discs/rear drums. Power four-wheel discs are optional, along with anti-lock brakes. There is a four-wheel independent suspension system, which is somewhat compromised by the Sephia’s standard, 13-inch (rim diameter) tires. The optional 14-inch tires and wheels offer better balance and drivability on potholed city streets.\n\nThe front-engine, front-wheel-drive Sephia is sold in the base RS, mid-scale LS, and best-equipped GS trim lines. It seats four people comfortably. It can accommodate a fifth person of extremely narrow stature.\n\nDual air bags are standard up front, which means you put children under 12 years old in the back.\n\n1997 Kia Sephia\n\nComplaints: Engine wheeze and whine at highway speeds in the Sephia GS sedan with the optional automatic transmission. There were no such grumblesome noises in a tested, manual-transmission version of the car.\n\nAlso, Kia might want to change some of its advertisements in America, where its logo is emblazoned on yellow traffic signs. Those signs mean “Warning” in the United States.\n\nPraise: Excellent runabout car. Could prove to be tiring on trips longer than 100 miles. But for the short stuff, it’s hard to beat.\n\nHead-turning quotient: Not much. But some people were attracted by the bright red, oval Kia nameplate on the front and rear of the car.\n\nRide, acceleration and handling: Overall good ride. Good acceleration with the manual transmission. So-so acceleration with the automatic car. Good small-car handling Good braking, wet and dry roads, with and without anti-lock backup.\n\nMileage: About 27 miles per gallon (12.7-gallon tank, estimated 335-mile range on usable volume of regular unleaded), running mostly highway, driver only, with light cargo (11 cubic feet of trunk space).\n\nSound system: AM/FM stereo radio and cassette. Four speakers. Installed by Kia. Okay.\n\nPrice: Base price on the tested 1997 Kia Sephia GS sedan with automatic transmission is $12,830. Dealer invoice on that model is $11,312. Price as tested is $14,125, including $870 for the optional air conditioner and a $425 destination charge.\n\nPurse-strings note: The Sephia should be on all economy car shopping lists. Compare with Honda Civic, Toyota Corolla, Mazda Protege, Ford Escort, Dodge Neon, Mitsubishi Mirage, Hyundai Elantra, Suzuki Esteem, Subaru Impreza, Chevrolet Cavalier, Nissan Sentra.",
+      "trims": [
+        {
+          "name": "4dr Sdn 1.6L Manual RS (CA)",
+          "price": "$9795",
+          "specifications": {
+            "Highlights": [
+              "28 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "100 @ 3600 SAE Net Torque @ RPM",
+              "105 @ 6200 SAE Net Horsepower @ RPM",
+              "1.6L/98 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,493 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Manual RS",
+          "price": "$9795",
+          "specifications": {
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/112 Displacement",
+              "122 @ 6000 SAE Net Horsepower @ RPM",
+              "117 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,476 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.6L Manual LS (CA)",
+          "price": "$10745",
+          "specifications": {
+            "Highlights": [
+              "28 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6L/98 Displacement",
+              "105 @ 6200 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type",
+              "100 @ 3600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "2,537 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.6L Auto RS (CA)",
+          "price": "$10770",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "100 @ 3600 SAE Net Torque @ RPM",
+              "105 @ 6200 SAE Net Horsepower @ RPM",
+              "1.6L/98 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,564 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Auto RS",
+          "price": "$10770",
+          "specifications": {
+            "Highlights": [
+              "23 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "117 @ 4000 SAE Net Torque @ RPM",
+              "122 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/112 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "2,542 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Manual LS",
+          "price": "$10895",
+          "specifications": {
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/112 Displacement",
+              "122 @ 6000 SAE Net Horsepower @ RPM",
+              "117 @ 4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,520 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Auto LS",
+          "price": "$11770",
+          "specifications": {
+            "Highlights": [
+              "23 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.8L/112 Displacement",
+              "117 @ 4000 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "122 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,586 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Manual GS",
+          "price": "$11955",
+          "specifications": {
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/112 Displacement",
+              "117 @ 4000 SAE Net Torque @ RPM",
+              "122 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2,542 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System",
+              "Yes Drum - Rear (Yes or )",
+              "Power Brake Type",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn 1.8L Auto GS",
+          "price": "$12830",
+          "specifications": {
+            "Highlights": [
+              "23 City / 30 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "117 @ 4000 SAE Net Torque @ RPM",
+              "1.8L/112 Displacement",
+              "122 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "2,608 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2000": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/997fe7e3-5b41-4432-b1b4-c3b0aa35406a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/65bbee93-21fb-4476-8351-7e6aa5839598.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cc8fdbfa-d527-4758-a31f-b9935e2200ab/957eeeb1-c4e6-4637-9095-cc495500a918.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/8fd1b41f-9f87-4d70-9eab-46fae3589011.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/944e53ad-876d-4a90-ab82-6c884cc58d15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/1a50a0d1-a7d3-4423-a96d-ecd81f8f532a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/782a2886-6872-4784-b327-cdc0b7042049.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/1da6b0cb-05b9-4b21-b044-b5f91215437f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/918c3c23-6e76-457e-b224-cf607c169928.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/d37d2f94-c632-4dd2-81e5-8481cf62bc87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/944df92d-4d5b-4d35-9ec5-468286a006cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/f2cfbfcc-db5c-4b56-91cd-90d53982cb57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/6ab685c7-69b5-4c3d-abf8-9805c83ecbb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b5b678b0-5471-4206-a33e-b9861df5e13f/a5b3719a-ef6f-4bfd-a42f-cc9bd233e2f8.png"
+      ],
+      "expert_review": "Vehicle Overview\nKia’s subcompact sedan returns unchanged from last year, including the base price of $9,995. Kia is now owned by fellow Korean automaker Hyundai but maintains a separate dealer network in the United States. Kia currently sells the front-drive Sephia and the Sportage sport utility vehicle in the United States, but plans to add a smaller subcompact sedan for the 2001 model year. The new sedan, which may be called Rio, could arrive as early as next spring. The Sephia is set for a 2002 redesign, when it likely will become larger and gain a bigger engine.\n\nInterior\nSephia comes in base and LS price levels, and the LS boasts several features not available on the base. All-cloth seats (instead of cloth and vinyl), a tilt steering column, a 60/40 split rear seatback that folds for extra cargo room, and a tilt feature for the driver’s seat are among them. An optional Power Package for the LS adds air conditioning, power locks, windows and mirrors, cruise control and a tachometer.\n\nExterior\nThe conservatively styled Sephia comes only as a four-door and measures 174.4 inches overall, less than an inch shorter than the Honda Civic.\n\nUnder the Hood\nA 1.8-liter four-cylinder with 125 horsepower is the only engine choice. There is a choice of transmissions: five-speed manual or four-speed automatic.\n\n \n\nReported by Rick Popely  for cars.com\nFrom the cars.com 2000 Buying Guide",
+      "trims": [
+        {
+          "name": "4dr Sdn Manual",
+          "price": "$9995",
+          "specifications": {
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,478 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual Repak",
+          "price": "$10195",
+          "specifications": {
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,478 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto",
+          "price": "$10970",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,534 lbs Base Curb Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS",
+          "price": "$10995",
+          "specifications": {
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,551 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto Repak",
+          "price": "$11170",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,534 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS Pwr Pkg Repak",
+          "price": "$11795",
+          "specifications": {
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,551 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS",
+          "price": "$11970",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,606 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS Pwr Pkg Repak",
+          "price": "$12770",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,606 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Manual LS Pwr Pkg",
+          "price": "$13325",
+          "specifications": {
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "1.8L/109 Displacement",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "108 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,551 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "70 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Not Available Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Auto LS Pwr Pkg",
+          "price": "$14300",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "108 @ 4500 SAE Net Torque @ RPM",
+              "125 @ 6000 SAE Net Horsepower @ RPM",
+              "1.8L/109 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2,606 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "70 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "9.56 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2aafc42d-1bbe-4465-91ad-16df016aee59/c62e7ffb-f1c4-4454-80a0-082787bd440b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan 1.6L DOHC 5-Spd (CA) RS",
+          "price": "$8895",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L SOHC 5-Spd RS",
+          "price": "$8895",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L DOHC Auto (CA) RS",
+          "price": "$9670",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L SOHC Auto RS",
+          "price": "$9670",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L SOHC 5-Spd LS",
+          "price": "$9695",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.8L DOHC 5-Spd Airbags LS",
+          "price": "$10195",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L SOHC Auto LS",
+          "price": "$10470",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L SOHC 5-Spd GS",
+          "price": "$10595",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.8L DOHC Auto Airbags LS",
+          "price": "$10970",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.8L DOHC 5-Spd Airbags GS",
+          "price": "$11095",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.6L SOHC Auto GS",
+          "price": "$11370",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 1.8L DOHC Auto Airbags GS",
+          "price": "$11870",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,832 @@
+{
+  "make": "cadillac",
+  "model": "ct5_v",
+  "years": {
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/e4200e72-bb7e-493a-8d06-4b06970fce3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/82ff46ca-d247-4747-a135-2065f96bc632.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/3b369a0b-1219-4a97-88a8-75ba1b957a11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/806a06e8-af8f-4bc2-bde5-cde8b647b292.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/f3ea6980-febd-4732-8011-9511bd1e5dc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/397f6393-7a3b-4c75-8038-514841599f5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/376baa95-e79e-4563-9db4-85b9b03fed58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/d386ae36-7fb7-4003-aba1-27f9aaed71d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/d2d6d155-f875-444d-8518-715abd1c57c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/7619256c-f7b3-4f33-b9f2-cef8d2e2f66e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/ca6c5805-9e4d-48c6-9888-c6b6be0697b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/0b9eddaa-ecc0-416b-b7ca-7f8ea22d0d86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/4833d7e1-b2c8-4aa0-98b6-5ade3c24ee5a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/0e060d07-e3ef-4c46-931e-6e7dc2049e84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/eb791205-b347-421c-a40f-d0f65f515c8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/d5c150cf-3ac6-4b08-9233-1965782cfefe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/6a75bd6a-842d-4a0b-91ab-13ec6fb37877.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/726041e8-b052-4526-8592-653ad2292a6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/f3ea6980-febd-4732-8011-9511bd1e5dc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/8093cfe9-07b3-40e7-a883-a15c66088f2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/1c789b66-47ae-4983-9bdc-1739660eb206.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/8a0d063c-288e-4e57-893f-b8572996897b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/c6adcec1-f1aa-47f2-9fa8-8344ca11645e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/c46d919a-a8d2-4258-875e-79989ab831ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/4b8a3054-9e60-43b8-b93c-c50df363bf5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/4c0bcc97-799a-450d-8e7d-66e1614d4117.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/f3d123a0-2e76-4cb1-b27c-79e9f0bd4e77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/ac2e8188-cfe0-4384-aeac-dc5f235a9cc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/7e628d6d-0249-431e-bd5b-eca605dba182.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/1ee9d1a5-88a1-457a-b3f0-6afc47f66bb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ad8444d4-c553-4c1d-af46-289896c6d123/777dbfee-2113-48d8-9ff8-7532b9ae580a.png"
+      ],
+      "expert_review": "What Is the 2021 Cadillac CT5?\n\nThe Cadillac CT5 is a luxury sports sedan that seats five and is available with rear- or all-wheel drive. It comes standard with a 237-horsepower, turbocharged 2.0-liter four-cylinder engine, and an optional twin-turbocharged 3.0-liter V-6 is rated at 335 hp in the Premium Luxury trim and 360 hp in the V-Series model. Both engines work with a 10-speed automatic transmission. Competitors include the BMW 3 Series and Audi A4. \n\nWhat’s New on the 2021 Cadillac CT5?\n\nWireless Apple CarPlay and Android Auto are now standard, and a new 12-inch digital instrument panel is available on select trim levels. The latest generation of Cadillac’s Super Cruise hands-free driver-assist system is also available, as is a new Diamond Sky Special Edition with unique exterior and interior styling cues.  \n\nWhat Features in the 2021 Cadillac CT5 Are Most Important?\n\nStandard features include:\n\nLED headlights \nRemote start \n10-inch touchscreen multimedia system\n4G LTE Wi-Fi hot spot (data subscription required after trial)\nAutomatic emergency braking\n\nAvailable features include:\n\nLeather-trimmed seats\nHeated and ventilated front seats\nHeated steering wheel\nBose premium stereo\nWireless device charging\nHead-up display\n360-degree camera system\nLane-keep assist\nAdaptive cruise control\nShould I Buy the 2021 Cadillac CT5?\n\nThe Cadillac CT5 offers a driving experience that’s relaxed and refined, with sportier trim levels delivering a higher degree of performance. While the cabin is an improvement over previous Cadillac sedans, there are some areas that still look low-rent. The availability of all-wheel drive across the trim lineup is a plus, as is the sedan’s large backseat.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/6000ce32-ccb4-4972-b76a-b6e85aad7017.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/c0f5345f-1846-49e9-b40d-4d539cd3100f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/31918c52-aba2-4748-b859-3c6436d94aa4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/25e3f108-3767-4652-86c2-1123c49be0b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/971631cf-9e26-4bd1-8e18-53d38878d8b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/956294b8-66cf-43a5-8d19-8ad0939e3a24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/360a575f-e426-44db-aff4-82c1ba34bc62.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/2961dac5-91f0-493d-8884-50cc37615852.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/a0a457cf-29c2-4ff3-ac3e-5a56b2d280f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/4f16d460-8e82-44cd-a6f8-406fba862185.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/1578a69a-4153-487b-90d2-8c7c89dd6f06.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/2961dac5-91f0-493d-8884-50cc37615852.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/c49d0d8f-2b25-4a2b-bbca-79adfe6c0163.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/31de1e51-87c7-4ae2-b1a4-ce9bd4ecdabe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/289a3cc8-12e4-46ff-bac2-afeb7cc7ea0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/c5da98ef-0c09-4836-a5ae-614dca6c26d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/6f2cd0d7-a95d-4de1-a2c0-54a513586ac6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/09a6d0a9-a03e-42d0-8a0a-c92119f50c59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/1536a456-45b8-41a8-abab-5831538c89a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/32c0cc71-3edf-4e13-a8a7-8082c29de9f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/741012bc-922e-4070-b5e2-875e0540cd11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/5b202a55-83ef-497e-b69a-6222f7160e58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/de55ed73-50e2-4c1b-883f-650db3971ed6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/451e9f55-9d7d-4cce-ac85-2f8e606e15f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/dbf9b764-ccfe-44ce-a4eb-6f37a09408d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/ff0fa623-878f-4fc4-839d-9b2691b9a98d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/a6696758-bb0d-408a-b4a4-1f8344671e0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/ebb67802-1836-47b7-b8c7-e9e0c30dea95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/d15f4e7e-7b8f-4ac8-9155-948ad74a8953.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/ee6b687e-fe59-42b7-b5f9-b501253ac3e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f90e44fa-b37a-488d-b9a8-9e8c91033103/01826e4e-274e-4f97-a5c1-89f18435cf66.png"
+      ],
+      "expert_review": "So what’s this?\n\nThis is the new Cadillac CT5-V, a compact rear-wheel-drive sports sedan from Cadillac. \n\nWait, don’t you mean CTS-V? Is that a typo? It can be easy to confuse ‘5’ and ‘S.’\n\nNo, it really is CT5. It’s part of Cadillac’s strategy to completely redo its sedan lineup. The CT5 is not a direct replacement for the CTS; it’s actually a couple of inches shorter than that outgoing sedan. But it’s also bigger than the ATS sedan, which also goes away for 2020, and along with the smaller CT4 sedan that’s coming, it fills out the three-sedan lineup that has the CT6 sitting on top of them all … but then, the CT6 has also just been canceled after a few 2020 models were made. Got all that? The sizes and pricing line up a lot better with competitors from Audi, BMW, Jaguar and Mercedes-Benz, which is probably what they should’ve done all along. The CT5 is meant to be a direct competitor for vehicles like the Audi A4, BMW 3 Series, Jaguar XE, Lexus IS, Mercedes-Benz C-Class, things like that.\n\nRelated: 2020 Cadillac CT5: Sized Right, Priced Right?\n\nHuh. OK, I think I have it straight. And this is the V model, so it’s the ultimate high-performance version, right?\n\nWell, no. The V-series tag doesn’t quite mean what it used to under the new naming convention. It’s now a mid-level performance model; think Audi S4 or BMW M340i instead of Audi RS 4 or BMW M3. (For that matter, think V-Sport, the name Cadillac has used for in-between performance models recently yet seems to have abandoned here.) The standard engine in the CT5 is a turbocharged 2.0-liter four-cylinder making 237 horsepower and 258 pounds-feet of torque. That’s the engine you get in most trim levels, but you can upgrade to the twin-turbocharged 3.0-liter V-6 in the Premium Luxury trim, making 335 hp and 405 pounds-feet of torque. Both are mated to a 10-speed automatic transmission as your only choice, and while rear-wheel drive is standard, all-wheel drive is optional with any engine. \n\nBut the new V comes with a little bit more — a 360-hp version of the twin-turbo V-6, a performance suspension with GM’s phenomenal Magnetic Ride Control adaptive shock absorbers, Brembo front brakes, Performance Traction Management with launch control, an electronic limited-slip differential and more. It’s not a crazy performance machine like the final CTS-V or ATS-V were, but it’s not meant to be — it’s a more accessible, more livable, more affordable performance option for people who were turned off by the idea of the slightly mental old V-series cars. (Why they didn’t just call it something different, I’m not sure, as it’s sure to cause confusion.)\n\nIt looks pretty good. But some of that styling is … different….\n\nYeah, the styling is pretty much a direct copy of the larger 2016 Cadillac Escala concept car that the brand seems intent on using as the inspiration for all of its new models, for better or worse. The concept is more attractive than the CT5, however, as the C-pillar treatment in particular just doesn’t seem to have translated over very well. The rest of the car is distinctive and attractive, however, with a beefy presence thanks to its wide wheels and tires and thick fenders. Those wheels are big 19-inch alloys shod in special Michelin Pilot Sport 4S summer tires for the rear-drive V models or all-seasons if you opt for the all-wheel-drive car. Nestled in those wheels are blue brake calipers, an option on the CT5-V and a subtle styling cue that popped in contrast to the white paint on my test car. \n\nBig brakes? How well do they work? Is this V a worthy successor to the old ones? \n\nThis isn’t a successor to the old V models, so evaluating it versus those older ones doesn’t make much sense (just like actually calling it a V instead of a V-Sport or some other new moniker doesn’t make much sense, but you can take that up with Cadillac). The car itself is frankly outstanding, due largely to the ride and handling balance brought by the fourth generation of GM’s Magnetic Ride Control. We’ve seen MRC used on everything from the Chevy Camaro to the Cadillac Escalade, and it could be more appropriately called Magic Ride Control for the amazing combination of supple ride and outstanding body control that it helps create. Despite the CT5-V’s 19-inch wheels and low-profile summer tires, it tracks over rough pavement with very little intrusion into the cabin and not much effect on the steering stability. Find some smooth, twisty roads and the CT5-V provides a rewarding yet refined experience.\n\nThis most definitely isn’t the same thinking as previous V-series vehicles, which smacked you in the face with their machismo, noise and brute-force powertrains. They were fun, to be sure, but this is a much more refined, elegant take on a performance sports sedan, and it’s enjoyable in a different way. \n\nSo it’s cushier and more refined, but should it have had a V-8?\n\nHonestly, the twin-turbo V-6 feels perfect for this chassis, and the 10-speed automatic transmission works beautifully. It may be the same transmission that Ford uses (the unit is a joint venture between Ford and GM, but each automaker uses its own gearing and software tuning), but it works far better in this passenger car than in any Ford I’ve tried it in.\n\nPower is always on tap, and slipping the car into Sport mode only makes shifts crisper and more immediate. As Sport modes go, this one doesn’t seem to change the feel of the CT5-V all that much — it’s already pretty sporty, so ramping up the steering effort and firming up the suspension just a bit isn’t all that detectable, but the powertrain response does get noticeably quicker. Something worth noting is the noise that accompanies the CT5-V wherever you go in it.\n\nIs it loud like the old V? \n\nYes, and no. The V-6 is definitely sonorous, but even Cadillac admits that a lot of the CT5-V’s noises are “enhanced.” The exhaust noise you hear in the cabin is part real, part generated, but I’m not even mad about it because it sounds awesome. It gets louder and quieter depending on the mode you’ve selected, but even if it’s not entirely real, it’s a mood enhancer to be sure. Without it, the CT5-V would be remarkably quiet, a combination of noise mitigation efforts through material selection and electronic active noise cancellation. Cadillac has spent some time focusing on the refinement of the CT5, and the aural component of that is one of the most obvious areas that contribute to that sense of improvement. \n\nSounds like they’ve made it a lot nicer than before. \n\nWell, the driving experience is certainly different, but the interior isn’t all that much better. Gone are any of the touch-sensitive controls, banished to the Cadillacs of the past (thank God), and the new controls for things like climate-control and steering-wheel functions are decidedly better. The big beefy wheel feels great in your hands, and the V-Mode button on the right-side spoke lets you put the car into a mode that turns it into an instant track car. But materials quality hasn’t taken much of a jump, and while it’s fair to call the newest Cadillacs the nicest of GM’s current vehicles, it still feels a tick behind segment leaders like Mercedes-Benz and even Lincoln. The CT5-V gets some tan stitching and carbon-fiber trim, but in black, the interior is a bit dour.\n\nIt’s comfortable up front, with plenty of headroom (my test model didn’t have the optional moonroof), but it’s a bit tight in hip room due to what feels like a wide center console. The backseat actually has decent legroom, something you might not expect in a compact 3 Series-sized luxury sedan, but the extra length of the CT5 versus its competitors shows up in the backseat. Headroom is tight, however, with backseat passengers’ noggins up against the headliner. Outward visibility is good in every direction, although the beltline does feel a little high (not an uncommon design element of today’s luxury vehicles). The interior isn’t anything special, however, and doesn’t have any “wow” factor that’s going to get it noticed like the new 2021 Cadillac Escalade does or, again, like anything from Mercedes-Benz.\n\nWhat about CUE? Has that improved at all?\n\nI’ve never actually had a problem with the Cadillac User Experience, the brand’s multimedia system. The latest version is big, bright, quick and just as easy to use as before. The native system works fine, or you can pop your personal phone into the charging tray or the slot that has an opening to the center console storage area (keeping the cupholders free for … well, cups) and the full 10-inch touchscreen becomes your display area for things like Apple CarPlay or Android Auto. If you need to switch out of CarPlay and back to CUE, the big home button right below the screen lets you do that with a quick single press. The Bose premium audio system sounds clear — which it needs to, given how quiet Cadillac had made the car to begin with.\n\n2020 Cadillac CT5-V | Cars.com photo by Aaron Bragman\nSo it seems to be at least a solid effort on Cadillac’s part, if not quite a game changer. Will anyone care?\n\nThat’s the big question. The sales and marketing wisdom right now seems to be that nobody wants sedans and everyone wants crossovers and SUVs. And at this time in the market, introducing not one but two new compact luxury sedans seems counterintuitive, so Cadillac definitely has its work cut out for it to get peoples’ attention. \n\nThe CT5-V certainly has the goods to interest buyers who are still insisting on a sedan over an SUV. Solidly built, beautifully refined in its dynamics, with a dynamite chassis tune and superb powertrain, it will be a rewarding choice for drivers looking for a valid, sporty, refined alternative to the German brands. It’s not even outrageously priced — the CTS-V starts at just a bit less than $49,000 (all prices include destination), and my modestly equipped test vehicle (no AWD, no fancy electronics, no moonroof or wild interior packages) rang in at a tick under $57,000. That puts it very much on par with the Audi S4 ($50,895) and significantly undercuts the BMW M340i ($54,995). Whether Cadillac can get people interested again will require some clever marketing, but the car itself won’t be a problem.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/5aca6d02-9ea4-4baf-a7b9-4a9ea1f2981d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/b34ba731-50f8-4541-ae88-283cd5a6cd48.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/491b8450-bf88-4dc3-ba6b-35ab8f435e78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/66ee4e10-6f26-4e7a-bf8d-1bfafbab5d6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/5370fb96-6d65-48bf-b38b-59499b6faee8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/c601b6cf-e299-4806-8d34-f8a0c04de6f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/154f99db-cec0-47b8-a467-1ee3dcc1c9a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/167c1806-dc86-4987-b0d4-4f996ddfb222.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/7464e49a-f538-4c26-86fa-36c4f1d3ab60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/66464201-7b39-4fd4-8c30-2f5b0b3f6f6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/4474eb4a-ebb5-4574-a244-652da6ecccbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/4dc968eb-e33c-4ee5-9dc7-3bd4bfa63555.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/ccb2ecfb-512d-4324-a4e9-f8382ccce41e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/8655837a-7569-4a4a-a74e-3c4240a60380.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fc5373ad-67c4-4ae3-bc02-f9beb1992158/e3ab0f7e-b548-40ce-8d97-1730813e3d09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/c549de93-2381-4a69-838d-bd2552ddb7fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/b75774c9-44a1-4d85-98ac-6df084d7f9bc.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/619d5c40-655f-41a5-a6f1-08635392e530.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/472b26d6-6a80-47fd-a3eb-53c880903a49/12212993-ecce-4317-8886-50f9ec1dcb1c.png"
+      ],
+      "expert_review": "After receiving an interior overhaul for the 2025 model year that saw the installation of a 33-inch digital dashboard combining the instrument cluster and infotainment touchscreen, the Cadillac CT5 rolls into 2026 unchanged. But, in V-Series Blackwing form, the CT5 remains a standout in one area that is absolutely crucial to hardcore enthusiasts: The CT5-V Blackwing is the last mid-size sports sedan with an available six-speed manual transmission. For 2026, the CT5 starts at $50,095 (all prices include $1,495 destination charge).\n\nRelated: Which New Cars Have Manual Transmissions?\n\nRelease Date and Pricing\n\nThe 2026 Cadillac CT5 is on sale now. Full line pricing is as follows; the Blackwing’s pricing includes gas-guzzler tax.\n\nPremium Luxury: $50,095\nSport: $51,095\nV-Series: $59,095\nV-Series Blackwing: $101,195\nWhat Are the 2026 CT5’s Trim Levels?\n\nAs Cadillac’s entry in the popular mid-size luxury sedan class, the CT5 features an extensive list of standard equipment. It rides on 18-inch wheels and includes LED exterior lighting, rain-sensing windshield wipers, keyless entry and start, and remote start. Leather upholstery is standard, with power-adjustable, heated, ventilated and massaging front seats. Also standard are a heated steering wheel, dual-zone automatic climate control, a power tilt/telescoping steering column, wireless device charging, 15 speakers and ambient lighting. The 33-inch dash display features wireless Apple CarPlay and Android Auto.\n\nThe Sport trim is largely the same as the Premium Luxury, but it includes black window trim, 19-inch wheels, and a body kit including a unique front bumper, sill extensions and a body-color spoiler. Inside, the Sport gets aluminum pedals and synthetic leather upholstery, but it does not have ventilated front seats.\n\nCadillac hones the CT5 V-Series for performance, fitting a sport suspension with adaptive dampers, Brembo front brakes, a limited-slip rear differential and dark-finish 19-inch wheels wrapped in summer performance tires. GM’s Performance Traction Management allows drivers more stability control choices, while launch control optimizes the vehicle for quick acceleration from a stop. Inside, the V features sport front seats and a 15-speaker AKG audio system.\n\nBuilding off the V-Series foundation, the Blackwing features an even more aggressive suspension, widened front fenders, a unique front bumper with a splitter, Brembo front and rear brakes, a differential cooler, a hands-free power trunk lid and upgraded headlights that turn with the steering wheel. Inside, the perforated leather and ventilated front seats return, and Cadillac fits a thick-rim sport steering wheel, head-up display, 16-speaker AKG sound system, and Performance Data Recorder to shoot video and log data when on a racetrack.\n\nMore From Cars.com:\n\n2025 Cadillac CT5-V, CT5-V Blackwing Refreshed With In-Car Driving Coach\n2025 Cadillac CT5 Up Close: Be Happy It’s Still Here\nCadillac Reveals Precision Package for 2025 CT5-V Blackwing\nResearch the Cadillac CT5\nFind Your Next Car\nStandard and Available Safety Features\n\nAside from the Blackwing’s head-up display, nearly all safety tech available on the CT5 is standard across the lineup. That’s because GM’s Super Cruise hands-free semi-autonomous highway-driving tech is standard, and the technologies that feed into it also enable numerous other functions. The list includes forward collision warning with pedestrian and bicyclist detection, automatic emergency braking, blind spot intervention, front and rear cross-traffic alert with automatic braking, adaptive cruise control, a driver attention monitor, a 360-degree parking camera and road-sign recognition. Automated parking is also standard.\n\nThe one exception is the Blackwing with its standard six-speed manual, which forfeits many of the systems whose operation would be complicated by the vehicle’s computers not having full control over the transmission, including Super Cruise and autonomous parking. (Opting for the automatic transmission, however, adds those functions back in.) Instead, the manual Blackwing gets lane departure steering assist and front and rear parking sensors.\n\nWhat Are the 2026 CT5’s Powertrain Specs and MPG?\n\nThe standard engine in the CT5 is a turbocharged 2.0-liter four-cylinder with 237 horsepower and 258 pounds-feet of torque. A 335-hp, twin-turbocharged 3.0-liter V-6 is available in the Premium Luxury for $3,500 and makes 405 pounds-feet. The twin-turbo 3.0-liter also powers the CT5-V, but with an additional 25 hp, for a total of 360; torque is unchanged. A massive, supercharged 6.2-liter V-8 tortures the Blackwing’s rear tires with 668 hp and 659 pounds-feet.\n\nA 10-speed automatic transmission is standard on every CT5 except the Blackwing, which comes with a six-speed manual; the 10-speed costs $5,875 on the Blackwing. Rear-wheel drive is standard on every CT5, and all-wheel drive is an additional $2,000 on the Premium Luxury, Sport and V-Series but is not available on the Blackwing.\n\nThough official EPA ratings for the 2026 CT5 lineup are not yet available, they should stay the same as the 2025 model’s. The 2025 2.0-liter CT5 returns an EPA-rated 23/32/26 mpg city/highway/combined with RWD and 21/30/25 with AWD. With the twin-turbo 3.0-liter, the regular CT5 is rated at 19/28/22 with rear-drive and 18/26/21 with AWD. The V-Series slips to 18/27/21 with rear-drive and 17/26/20 with AWD. With either the six-speed manual transmission or the 10-speed automatic, the Blackwing returns 13/20/15 mpg.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$57600",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "405 @ 2350-4000 SAE Net Torque @ RPM",
+              "360 @ 5400 SAE Net Horsepower @ RPM",
+              "3.0L/-TBD- Displacement",
+              "Turbocharged Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/stabilizer bar Suspension Type - Rear (Cont.)",
+              "w/stabilizer bar Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,974 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Parking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Navigation System"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12.4 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.6 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Blackwing",
+          "price": "$97600",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "5 Seat capacity",
+              "Supercharged Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "6.2L/376 Displacement",
+              "668 @ 6500 SAE Net Horsepower @ RPM",
+              "Supercharged Gas V8 Engine Type",
+              "659 @ 3600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "w/stabilizer bar Suspension Type - Rear (Cont.)",
+              "w/stabilizer bar Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "4,123 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Navigation System",
+              "Optional Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14.7 x 1.1 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15.67 x 1.42 in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/e359f0e3-6908-4656-b790-d51e37ea54ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/f53161fb-ccf6-45f1-99c6-b85ec18d8d8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/cc43d7b3-54c1-457a-bc9f-8e2f6b4dfd44.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/6db04b59-2902-4362-a11c-5f608d47577b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/b9256a6c-f644-495b-8cf1-efe471ff79d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/286a1f88-c6cb-427b-999f-980526660a27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/91fe5066-f310-4006-97d6-5b434a453d80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/b290cfe3-b936-422a-8d3a-b01d4f3937fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/211bc6b0-53d5-4008-b502-de66f4620930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/2a7fdf75-8779-41bd-a445-2d641e8fa802.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/41199a9b-4061-4c3e-a682-12666d5099bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/7f504494-9c94-417f-bf6b-11b846861bcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/58c96c81-4e19-4670-abf9-a30d2e2f2306.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/57666ea2-2342-4aae-a34c-3a7fc7d1f896.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/dcabf8d1-ecc3-42c8-98e5-19e62ddb6529.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/243cf116-8ec2-4982-9d51-7176e4c9d5f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/7497de58-7aa7-400c-a69c-8441eebd10b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/46ee4ad4-72a0-4e08-941c-08ad33c60d2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/1cac8ad2-1833-48a1-a5e4-0f691f94289c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/b9401f68-911c-40cd-80cf-eacf2440eb9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/106bd342-c373-4bb0-a3cc-ef3de41ad630.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/5e753fb3-5572-4d13-b41f-6ac7ecf165e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/3c7783ff-f069-4ae1-9171-3d09c936d664.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/4447074c-37ab-464b-b53d-411761ed011c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/778a1e9e-46b5-4b74-b727-0c284bab05f4/8f9e8ed1-61c4-4c5c-addd-d183b3cac909.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/df3153ea-c4ed-469c-97c3-bcbab03563d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/90e59015-31f2-4a4c-b93b-6f7344cb53ee/54638507-509c-4a3d-8238-2b6bbc3e780c.png"
+      ],
+      "expert_review": "What Is the 2024 Cadillac CT5?\n\nThe Cadillac CT5 is a five-seat luxury sedan available with a choice of three engines, including an absolute powerhouse of a supercharged 6.2-liter V-8 in the range-topping CT5-V Blackwing variant. With 668 horsepower and an available six-speed manual gearbox, the Blackwing is one of the quickest sedans available today. For those who don’t need tire-melting acceleration, the base engine is a 237-hp turbo four-cylinder paired to a 10-speed automatic. In the middle of the lineup is a twin-turbo 3.0-liter V-6 that makes 335 hp in standard tuning or 360 hp in the CT5-V. Rear-wheel drive is standard, though all-wheel drive can be added to any model in the range with the exception of the mighty Blackwing. The CT5’s rivals include the Audi A4, BMW 3 Series and Genesis G70.\n\nWhat’s New on the 2024 Cadillac CT5?\n\nTo celebrate the 20th anniversary of its V performance sub-brand, Cadillac is offering four new colors on the CT5-V and CT5-V Blackwing along with subtle exterior badging to mark the occasion. The standard CT5 continues with no notable updates or changes.   \n\nWhat Features in the 2024 Cadillac CT5 Are Most Important?\n\nStandard features include:\n\nSynthetic leather upholstery\n10-inch touchscreen multimedia system\nWireless Apple CarPlay and Android Auto smartphone connectivity\nWi-Fi hot spot \nWireless device charging\nBlind spot warning \nRear cross-traffic alert\nLane departure steering assist\nAutomatic high-beam headlights\nRain-sensing wipers\nRear-seat reminder\n\nAvailable features include:\n\nLeather-trimmed seats\nHeated and ventilated front seats\nHeated steering wheel\nDigital instrument panel\nBose premium stereo\nNavigation\nHead-up display\n360-degree camera system\nSuper Cruise hands-free driver-assist system\nShould I Buy the 2024 Cadillac CT5?\n\nThe Cadillac CT5 certainly provides plenty of choices for a mid-size luxury sedan. From the base turbo four-cylinder with RWD up to the brutally fast (albeit very pricey) CT5-V Blackwing, this Cadillac sedan can be eminently practical or a high-speed roller coaster with seating for five. Available features like AWD and Cadillac’s highly regarded Super Cruise hands-free highway driving aid further bolster the CT5’s credentials.",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$51495",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury sports sedan",
+              "Turbo four- or six-cylinder engine",
+              "10-speed automatic transmission",
+              "Rear- or all-wheel drive",
+              "CT5-V Blackwing high-performance model with supercharged V-8"
+            ],
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "360 @ 5400 SAE Net Horsepower @ RPM",
+              "3.0L/-TBD- Displacement",
+              "405 @ 2350-4000 SAE Net Torque @ RPM",
+              "Turbocharged Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,974 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12.4 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.6 x 1.2 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Blackwing",
+          "price": "$93495",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury sports sedan",
+              "Turbo four- or six-cylinder engine",
+              "10-speed automatic transmission",
+              "Rear- or all-wheel drive",
+              "CT5-V Blackwing high-performance model with supercharged V-8"
+            ],
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "5 Seat capacity",
+              "Supercharged Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "659 @ 3600 SAE Net Torque @ RPM",
+              "668 @ 6500 SAE Net Horsepower @ RPM",
+              "6.2L/376 Displacement",
+              "Supercharged Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,123 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Optional Automatic Parking",
+              "Standard Lane Departure Warning",
+              "Optional Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14.7 x 1.1 in Rear Brake Rotor Diam x Thickness",
+              "15.67 x 1.42 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/67ffb40b-29fe-4f0d-8bd7-388ec8479ca1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/16929fa3-9629-4565-8449-0c1054b96463.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/3729a9c7-1d31-4ceb-9969-059157f53298.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/5274b7d3-bed7-410d-a5ef-9521eedfd55c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/8fef6770-0654-47e5-989e-0db1b32e30f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/57595ac8-0ee4-4b47-bad1-93a6c15f06a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/94eb4ab9-d153-4320-81b0-8100c3528549.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/db486ad4-eca4-4e9f-9b49-309cb46cda6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/411cd318-9f31-4d0a-8816-3222bd175453.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/0dd15378-e6de-4783-9f1b-3e17a91f9b37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/2a318b2b-97ee-46de-a810-882819b083d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/5ec37cc6-691e-45db-821f-d058de52368f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/8751dd7d-51ab-49b1-8ba0-314c6d928930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/2ea1217e-24a6-4afe-8f56-c0a225364a18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/a3e2c544-2d39-4541-9b2b-065f331fc168.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/a34760e8-3912-43b7-b446-21d65ff0d434.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/b5cd1567-9c91-43af-967c-2f52a3d7cea6.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8190e699-9a39-41c7-ad91-6d9d3ae20b92/f2acd23d-2c04-4aba-8d0f-fff3d2b52145.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1c22e061-7655-4523-bb63-cdc5271073d0/338f1b08-6784-491e-bb59-55ca6df5b38e.png"
+      ],
+      "expert_review": "The writing is on the wall for gas-burning performance sedans like the Cadillac CT5-V. Electrification, and buyers flocking away from sedans and into SUVs, are not good signs. But the CT5-V — and in particular, the CT5-V Blackwing — are charging toward that wall like they’re in a Vin Diesel movie and will smash through it into a gratuitous, smoky drift. For 2025, Cadillac’s high-performance duo is gaining momentum with a light refresh.\n\nRelated: 2025 Cadillac CT5 Up Close: Be Happy It’s Still Here\n\nData Analysis for Lap Times\n\nBoth intensities of CT5-V get a new front end that retains the same basic forms as before: trapezoidal grille, yawning lower intake, vertical headlights flanked by yet more intake area. But the elements are slightly reshaped for 2025, with the slimmer headlights being the most obvious differentiator. A taller lower intake with a flat bottom distinguishes the Blackwing from the standard V.\n\nThe greater change lies inside, where the cars get a new dashboard that melds the digital gauge cluster and touchscreen infotainment system together into a single 33-inch display. Additionally, an available Performance Data Recorder acts like a mix of dash cam, telemetry feed as you’d see in televised racing and driving coach. It can not only record the driver’s laps on a racetrack, it can also play them back side by side with reference laps to highlight opportunities to improve lap times. In the heat of the moment, the center screen can display a friction circle and pedal positions to inform a human driving coach riding shotgun, while the head-up display projects important details directly into the driver’s line of sight. AliveDrive, a mobile app, allows the driver to continue to nerd out over their performance and analyze laps after a session ends.\n\nPowertrain Specs and MPG\n\nThe CT5-V’s engines are unchanged for the 2025 model year. The regular V is powered by a 360-horsepower, twin-turbocharged 3.0-liter V-6 making good for 405 pounds-feet of torque and paired with a 10-speed automatic transmission. Rear-wheel drive is standard, but all-wheel drive is available. The CT5-V Blackwing is the resident mad king of the performance sedan world with a 668-hp, supercharged 6.2-liter V-8 generating 659 pounds feet of torque. It offers the last six-speed manual in its class (the 10-speed automatic is available) and is only offered with RWD.\n\nFuel economy is unlikely to change from the 2024 figures. With RWD, the 2024 CT5-V is rated by the EPA at 18/27/21 mpg city/highway combined; adding AWD has a minimal impact, dropping the ratings to 18/26/21 mpg. The automatic-equipped Blackwing gets 13/21/16 mpg, while the manual is rated at 13/21/15 mpg.\n\nMore From Cars.com:\n\n2025 Cadillac CT5 Gets Big Face, Big Screen\n2024 Cadillac CT5, CT5-V: Boldly Marching Toward Oblivion\nWhich New Cars Have Manual Transmissions?\nElectric, Shmelectric: Cadillac Unveils 2022 CT5-V and CT4-V Blackwing Super Sedans\nFind Your Next Car\nNew Standard Safety Features\n\nActive blind spot warning that will resist if the driver tries to change lanes while a vehicle is in their blind spot is now standard on the CT5-V, as are a driver attention monitor, traffic-sign recognition, and additional functionality that watches for crossing and oncoming traffic during turns. These systems join forward collision warning with pedestrian and cyclist detection, automatic emergency braking, rear cross-traffic alert with automatic braking, and a 360-degree camera system as standard equipment. Cadillac’s Super Cruise hands-free highway driving system is standard on the CT5-V and Blackwings equipped with the automatic transmission, and a head-up display is standard on the Blackwing and optional on the CT5-V.\n\nAvailability\n\nProduction of the 2025 Cadillac CT5-V and CT5-V Blackwing will start in the summer, and pricing will be announced closer to the on-sale date.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$56995",
+          "specifications": {
+            "Notable features": [
+              "Refreshed for 2025",
+              "Five-seat luxury sports sedan",
+              "Turbo four- or six-cylinder engine",
+              "10-speed automatic transmission",
+              "Rear- or all-wheel drive",
+              "CT5-V Blackwing high-performance model with supercharged V-8"
+            ],
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "405 @ 2350-4000 SAE Net Torque @ RPM",
+              "360 @ 5400 SAE Net Horsepower @ RPM",
+              "3.0L/-TBD- Displacement",
+              "Turbocharged Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,974 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Navigation System",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12.4 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.6 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Blackwing",
+          "price": "$95595",
+          "specifications": {
+            "Notable features": [
+              "Refreshed for 2025",
+              "Five-seat luxury sports sedan",
+              "Turbo four- or six-cylinder engine",
+              "10-speed automatic transmission",
+              "Rear- or all-wheel drive",
+              "CT5-V Blackwing high-performance model with supercharged V-8"
+            ],
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "5 Seat capacity",
+              "Supercharged Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "659 @ 3600 SAE Net Torque @ RPM",
+              "668 @ 6500 SAE Net Horsepower @ RPM",
+              "6.2L/-TBD- Displacement",
+              "Supercharged Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,123 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Navigation System"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14.7 x 1.1 in Rear Brake Rotor Diam x Thickness",
+              "15.67 x 1.42 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/81e555e5-b582-4823-b31b-9eaa3c317e09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/88e735c3-b5be-41ca-8d3b-80d4eb7c4690.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/2b747099-4361-475f-9380-4317041a0ed6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/b6ca79a7-9e08-4cdc-a503-8672507a7f2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/28fa1d03-5302-4cc7-9bf1-5b75ec03bf17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/98c5c5c3-db27-4a34-97b8-d7d5adb9a4f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/d9ea633e-66f1-4295-be66-9bdce28be277.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/3aa6a7db-c850-4b67-81cf-27a6987b3a0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/eee61c25-1c39-410e-88e4-51d0f23a0535.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/24ca43a8-4b15-45d3-9b15-7ad1486b9811.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/88dfc1cc-ea7b-4845-a0a8-2706ec81db86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/18ae0d0e-c557-4541-b4cc-7ac91cd7b50f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/0b919fc6-6247-4942-a523-69eace050c70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/8b83c01f-57f3-4321-9fc3-5dd6a439b4aa.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/88dfc1cc-ea7b-4845-a0a8-2706ec81db86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/f94f94ca-5b33-47ab-b946-006b1ae5d3bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/e96f3b62-eec1-4e60-a802-bb6c817f7dd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/67a9a7f8-921f-4be6-bbd5-30eb4359a7eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/49578e0c-3c8b-44b8-aaae-ec5476f3b4b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/acfd0781-9c3a-4a41-aacb-48c188161b72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/082c00fb-a73b-4314-b7d5-d1fe798f6539.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/ac242cad-10e8-4965-b0cf-f25123bad88b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/a7da6e64-1c31-49f0-9358-14aebba1d44e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/c8ccb1c6-9dc0-4f14-802e-48bd9eb9c732.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/1df99c81-8f88-416f-9065-c2ba5ef1f3d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/12feb7d9-77e3-4911-a21f-fdac0615ed75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/9f5ddabe-826f-4587-b6d1-d53ee418540a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/9034faf2-ef54-4f23-81c6-0788d262740b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/bc1a8eb3-1475-40be-86a5-61d657bd92b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/27e45bd1-261c-4f99-b6a2-96d5eaed7a58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/89a4ca51-39fe-41cd-a003-f67eece528fe/d4133880-74c5-4d61-92eb-9dfc5da05fdf.png"
+      ],
+      "expert_review": "Remember all the talk Cadillac has pushed about how it’s going to be GM’s premium electric brand going forward? How it’s looking to rival Tesla in terms of tech, style and buyers? Yeah, well, apparently we all need to put that on hold — the brand isn’t quite done with trying to hang on to a smidgen of its old ways, as it’s unveiled two super-high-performance cars for 2022 aimed at people who want a 200-plus-mph American luxury sedan, both new models that spiritually inherit the mantle left by the now-departed CTS-V: the CT5-V Blackwing and CT4-V Blackwing.\n\nRelated: What’s New From Cadillac for 2021?\n\nThe CT5-V Blackwing: Last Gasp of the Crazy V-8?\n\nFirst up, the big guns: Based off the 2022 Cadillac CT5-V (which is now a mid-level performance model, what Cadillac onced called its V-Sport trim), the CT5-V Blackwing amps up the performance considerably. It’s mainly through the use of a supercharged 6.2-liter V-8 engine that’s hand-assembled in Bowling Green, Ky., where GM also makes the Chevrolet Corvette. Essentially a carryover from the discontinued CTS-V, the engine has a considerable amount of internal tweaking, mostly to its airflow and exhaust, but it also sports a new supercharger. The result is the most powerful engine Cadillac has ever produced, with 668 horsepower and 659 pounds-feet of torque. \n\nIt sends that power to the rear wheels (no all-wheel drive is offered) via a standard six-speed manual transmission or optional 10-speed automatic. Though the automatic employs a torque converter, Cadillac tweaked it for maximum performance and says it can shift faster than many dual-clutch units. Out back, a new electronic limited-slip differential sits in a lighter aluminum housing (replacing the heavier cast iron) to manage power distribution between the rear wheels, which can be adjusted along with a new electronic Performance Traction Management system.\n\nUnderneath are some structural improvements, such as chassis-stiffening reinforcements and larger, thicker suspension bushings. GM’s excellent Magnetic Ride Control adaptive shocks, now in 4.0 guise, are standard and feature revised tuning. The brake system sports an upgrade as well, with gargantuan 15.7-by-1.4-inch front rotors stopped by six-piston Brembo calipers and 14.7-by-1.1-inch rear rotors grabbed by four-piston Brembos. They’re the largest brakes ever fitted to a Cadillac, according to the brand, but if you’d rather have a lighter carbon-ceramic system with even better thermal management, there’s one available, as well. The brake system is tied into two drive modes — My-Mode and V-Mode — to allow the driver to change performance characteristics and pedal feel. There’s even a line-lock feature to aid your launch control efforts at the drag strip.\n\nOut back, quad exhausts poke out the rear, with several apparent Easter eggs designed into the underside of the CT5-V Blackwing; of course, most people are unlikely to see them unless the car is up on a lift. Exterior styling receives other upgrades, as well: new primary and secondary grilles, rear spoiler, front splitter, mid-body panels, rear diffuser valance, fender vents and rocker extensions. There are also wider fenders to accommodate the wider wheels, tires and track width of the Blackwing. The grilles and vents are functional; many of them lead to improved cooling and additional radiators, some are for heat extraction and some help with aerodynamics. An available carbon-fiber package reduces lift even more. It will come in a range of colors, including the usual black, gray and white, but also with some pops like blue, red and orange. You can get the Brembo calipers four different colors: gray, blue, red and bronze. The wheels, staggered 19-inch front and rear alloys, wear specially designed Michelin Pilot Sport 4S rubber. \n\nInside are more upgrades, including French-stitched seats with unique piping and colors. Base, mid- and high-level interior grades each have unique trim and a mix of leather, suede and carbon fiber. A large 12-inch digital display is reconfigurable depending on the mode you’re in, but it also features customizable panels to display things like performance times, lap timers and more, all sporting unique Blackwing graphics. A head-up display is standard, and a high-performance steering wheel with carbon-fiber accents is optional. Some interior details unique to the Blackwing are pretty interesting, such as carbon-fiber seatbacks and head restraints designed to accommodate a helmet without pushing your head forward. That’s something often overlooked in track-capable cars.\n\nThe 2022 CT4-V Blackwing: Smaller and Spunkier\n\nDownsizing on the CT5-V Blackwing’s theme is the CT4-V Blackwing, the subcompact sedan in Cadillac’s lineup. Intended as the spiritual successor to the fire-breathing ATS-V, it’s powered by an upgraded twin-turbo 3.6-liter V-6 engine that makes 472 hp and 445 pounds-feet of torque. Like in the CT5-V Blackwing, the engine sends power to the rear wheels through either a six-speed manual or 10-speed automatic. It’s a carryover engine, as well, but like the bigger V-8, it got a thorough massage mostly centered on airflow and engine thermal management to boost output, according to Cadillac.\n\nSince the CT4 and CT5 share a common chassis, many features on the CT5-V Blackwing are also present on its smaller sibling, such as the new electronic limited-slip differential, six-piston Brembo front and four-piston Brembo rear brakes (albeit with smaller rotors, measuring 15.0 by 1.3 inches up front and 13.4 by 1.1 inches in back, with no carbon-ceramic availability), suspension and chassis upgrades, standard Magnetic Ride Control 4.0 and forged-alloy wheels (albeit 18, not 19, inches). The styling changes are the same, focused on improved aerodynamics, a better powertrain and brake cooling, reducing lift and widening the car to cover its meatier Michelin Pilot Sport 4S tires. Just like the CT5-V Blackwing, you can opt for a carbon-fiber package that brings even more aggressive styling and aerodynamics to the party. \n\nInside, changes are similar to those in the CT5-V Blackwing. Three grades exist for interior trim packages, but with less standard equipment than you’d find in the CT5-V Blackwing: standard faux leather versus real leather, a normal steering wheel instead of the CT5 Blackwing’s upgraded wheel, a smaller touchscreen (8 inches versus 10 inches) and more. Both cars feature a standard 12-inch reconfigurable gauge cluster with Blackwing-inspired styling, but the CT4-V does not offer a head-up display. \n\nOn Sale Now, Arriving Later This Year\n\nOrdering for the new Blackwings opens today, Feb. 1, with deliveries expected later in the summer, pandemic willing. Pricing has been announced, as well: The CT4-V Blackwing will start at $59,990, while the larger CT5-V Blackwing rings in with a starting price of $84,990 (prices include destination). Given Cadillac’s insistence that its future is electric and GM’s recently announced plans to stop selling light-duty vehicles with internal combustion engines by 2035, these may just be the last hurrah for Cadillac’s traditional performance cars burning any sort of dinosaur juice. Better get ‘em while you can.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$50095",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0L/-TBD- Displacement",
+              "360 @ 5400 SAE Net Horsepower @ RPM",
+              "405 @ 2350-4000 SAE Net Torque @ RPM",
+              "Turbocharged Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,974 lbs Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "12.4 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "13.6 x 1.2 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Blackwing",
+          "price": "$83995",
+          "specifications": {
+            "Highlights": [
+              "13 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Supercharged Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "659 @ 3600 SAE Net Torque @ RPM",
+              "668 @ 6500 SAE Net Horsepower @ RPM",
+              "6.2L/-TBD- Displacement",
+              "Supercharged Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,123 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Optional Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12.4 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "13.6 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/8d9b6c12-78cb-4554-aac5-72d82fec0277.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/4173fbd3-220f-451a-a720-0ec0f899bd84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/3ede44f5-bad0-45fa-89ab-1c7dbb8ca007.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/73b70c3e-eb94-46a2-a626-4cc252791446.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/10c06a4f-d55c-4a7d-9578-7a3ae3a7fdb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/89f72d8e-dbfe-4375-9f2e-12a0ad063f4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/5d29583a-dc13-4dea-a740-5fa283aaefb9.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/52ee7404-657f-4160-97c8-ae14ffcedbc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/9500ab95-e37e-4a62-ba23-2b69b36b0227.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/f4c5d47e-6121-4e64-9996-de1213a34ae2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/a6a80d0c-4e94-478c-8740-c6efbf248486.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/52ee7404-657f-4160-97c8-ae14ffcedbc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/d7343730-6494-4f17-bcc2-c98afe4d53b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/753defe2-6632-4736-b186-f463d14a49ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/238c0a8f-97c2-45b8-8367-db240e78bdf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/dc1973e5-b86a-45e7-9a92-78c9c7a919b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/34f249ae-ec2f-4a1d-abe5-9fa2c200c272.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/2f5ad7ab-e6cb-4e88-84e2-81711662bb8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/f0e1df5b-016c-43a5-86e4-92f83e2c20e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/62cddba4-4e24-4651-a977-296fee8eaf3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/7285ecfd-6087-4b7a-8971-e3f43db5f4c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/87b5c23b-8d18-4d8d-8236-dba2ff777a3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/80841e78-8adf-4b04-8abb-518a5e55a3ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/4b24fd1c-0e9e-4d68-95c6-a6184bd0978d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/00794326-fb2f-4028-8176-b598185bd09d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1993b98b-749a-48c9-a321-41b05da8f91e/b54b5bf0-4834-48f8-993a-0515ebcdbf98.png"
+      ],
+      "expert_review": "The 2023 Cadillac CT5 is entering the new model year with minor updates and an increased entry price of $39,590 (all prices include destination), aiming to stay fresh against segment rivals like the BMW 5 Series, Audi A5 and Mercedes-Benz E-Class.\n\nRelated: Which Cars Have Panoramic Moonroofs or Sunroofs?\n\nThe CT5’s exterior and interior styling carries over from the outgoing 2022 model, but for 2023, the standard CT5 lineup gains three new extra-cost exterior color choices: Argent Silver Metallic, Midnight Steel Metallic and Radiant Red Tintcoat. CT5-V and CT5-V Blackwing models largely follow the same core script but add a fourth color called Maverick Noir Frost. Blackwing models also add a newly standard rear pedestrian alert system and a Blackwing badge on the trunk lid.\n\nPowertrains also carry over, with a standard turbocharged 2.0-liter four-cylinder engine that makes 237 horsepower and 258 pounds-feet of torque. An optional twin-turbocharged 3.0-liter V-6 makes 335 hp in the standard CT5 and 360 hp in the V-Series. The range-topping CT5-V Blackwing is powered by a supercharged 6.2-liter V-8 that makes 668 hp and 659 pounds-feet of torque. A 10-speed automatic transmission is standard on nearly all variants except the Blackwing, which has a standard six-speed manual transmission that can be swapped out for the 10-speed automatic.\n\nPricing and Release Date\n\nThe 2023 Cadillac CT5 and CT5-V lineup are available at dealerships now. Rear-wheel drive is standard on the CT5, while all-wheel drive adds $2,000 to $3,090, depending on the powertrain; the CT5-V Blackwing is RWD only. The available twin-turbo 3.0-liter V-6 adds $3,500 to the Premium Luxury trim, and opting for an automatic in the CT5-V Blackwing costs $3,175. Full pricing is below:\n\nLuxury: $39,590\nPremium Luxury: $44,090\nSport: $45,290\nV-Series: $52,390\nV-Series Blackwing: $93,390\n\nMore From Cars.com:\n\n2020 Cadillac CT5 Review: Get the Turbo Six, When You Can Find One\nWhen Hands-Free Ain’t Free: What’s the Cost of Self-Driving Tech?\n2020 Cadillac CT5-V Test Drive: Great Car, Awful Timing\nHow Do Car Seats Fit in a 2021 Cadillac CT5?\nCadillac CT4 Vs. CT5: Comparing Cargo Space and Dimensions\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$50995",
+          "specifications": {
+            "Highlights": [
+              "18 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0L/-TBD- Displacement",
+              "405 @ 2350-4000 SAE Net Torque @ RPM",
+              "360 @ 5400 SAE Net Horsepower @ RPM",
+              "Turbocharged Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "Five-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,974 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Parking",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12.4 x 0.9 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "13.6 x 1.2 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Blackwing",
+          "price": "$91995",
+          "specifications": {
+            "Highlights": [
+              "13 City / 21 Hwy MPG",
+              "5 Seat capacity",
+              "Supercharged Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Supercharged Gas V8 Engine Type",
+              "668 @ 6500 SAE Net Horsepower @ RPM",
+              "659 @ 3600 SAE Net Torque @ RPM",
+              "6.2L/376 Displacement"
+            ],
+            "Suspension": [
+              "Five-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,123 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Lane Departure Warning",
+              "Optional Automatic Parking",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "15.67 x 1.42 in Front Brake Rotor Diam x Thickness",
+              "14.7 x 1.1 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

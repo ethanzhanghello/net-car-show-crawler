@@ -1,0 +1,874 @@
+{
+  "make": "lexus",
+  "model": "rx_450hl",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/1957e865-8547-4c1c-a7af-90abd65c5e4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/dbb4e784-42bd-4a59-ab7a-6735649b543d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/a056881c-d99e-4ff4-9586-c6f00ed416e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/ace71940-ad82-4cdd-9445-15b6a1969203.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/06cf2d90-81e8-4d74-b47a-dc80382eceb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/c54f6505-514f-4415-aa20-6b815fb6acec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/5a571266-b16f-4e52-a1d0-180929cffd0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/4d1af47f-9761-473f-b5d5-43aa93827009.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/566e99a4-4e33-45e3-ad25-19c25e2e3fe0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/6eaa0c3d-4906-4141-ae4d-d2837f841b3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/19e2cfce-23ed-47ed-a13c-df5bfd993dad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/548c28bf-87ba-45a5-8ccd-a8acfa5d7782.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/2583c64f-a263-455f-a5ec-a1a687b186c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/2bdcc504-4a37-4850-a64d-17261fbdc505.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/868239ba-4d83-4d5c-a35e-a5cc806c7e18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/d5171507-5b8f-4d2c-9da4-2ea17d7b33d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/cc6f6b23-5371-4fd2-aa06-d988dda72959.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/95ad02e5-93fd-47a0-bc26-99547b15cd21/8d27711a-3f0c-46db-9ad4-263d63464b27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/5d7c8590-0c6c-4598-9d84-a690dcb70513.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/fad53142-67c5-4c7e-8847-695f76b7f99d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/a624e885-008f-4c2c-a707-30f369a13af1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/db98f81a-8874-45f8-8195-535c9e44576a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/e9de6122-1243-42a0-a9ca-3bbaac1b3cd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/1b7a1caa-13e4-43a2-8a9d-eb4c38cb0a72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/f894b65d-5a2c-42cb-8dee-11fc8790bf39.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/e794b2de-c4e4-4b69-bc93-26c00359ee81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/11b71bc9-c138-48f6-bae7-81762473fdc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/c9b6fd76-ce5f-4d56-8806-5f32e043ebde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/de483e11-1bef-476d-8a78-337571268b43.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/ed9d1ec8-6c0a-4328-aa90-2d0ae7f2392e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/eeda9b03-5b0d-4404-8ffb-197407482742.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7ec7c33d-d333-4f3d-94a5-e634122448ef/a0d1d58b-4d46-4d12-8b9c-3b3ccd969ecd.png"
+      ],
+      "expert_review": "Up until the 2020 Lexus RX, every modern Lexus came with an annoying asterisk: Yes, it was a fine vehicle, but the touchpad or mouselike multimedia controls were so confounding and frustrating that it eventually made you think Luddites had it pretty good. So what’s changed for 2020? The updated 2020 Lexus RX ditches the mouse and adds a touchscreen, Apple CarPlay and Android Auto, addressing one (or is it several?) of the luxury SUV’s weakest areas.\n\nRelated: 2020 Lexus RX and RXL Preview: Rejuvenating an Aging Icon\n\nThe 2020 Lexus RX isn’t without its quirks; the asterisk is just a little smaller. The touchscreen and tech enhancements are the most significant changes for 2020, though a bunch of little things — new smartphone holder, over-the-air updates, expanded F-Sport line — have similar executions: They sound great on paper but are a little less impressive in practice. The bulk of the RX is unchanged, available in five-seat RX 350 and hybrid RX 450h variants, along with an L version of each that includes a small third row for a total of six or seven seats.\n\nBring on the Touchscreen!\n\nWe all gasped when we heard Lexus was getting a touchscreen — actually, it was a sigh of relief — because the way the previous Lexus RX controlled the non-touch display distracted drivers, requiring them to use the mouse to select a little button. No longer, as the 2020 RX gets a standard 8-inch touchscreen or the optional, vibrant 12.3-inch touchscreen I sampled. Lexus moved the screen 5 inches closer to the driver for 2020, though that might not be enough. I’m 6 feet tall with long arms and like to sit fairly close to the wheel, so I didn’t have a problem using the screen while driving, but the touchscreen might prove too far to be useful if you have shorter arms and/or like to sit farther back; I had to fully extend my arm to reach the far end of the screen. Oddly, Lexus’ Remote Touchpad, seen in other models, snuck into the party when no one was looking, but it’s relatively obsolete in this application because of the touchscreen, and I used it only for the menu button during my short drive. If you can’t reach the touchscreen, the touchpad is how you’ll have to control CarPlay/Android Auto; Godspeed, you poor short-armed bastard.\n\nMy preference is the RX’s widescreen format — a style also offered on the BMW X5 — versus the vertically oriented touchscreen in a Volvo XC90. I exclusively use Apple CarPlay while driving, and CarPlay fills the entire display on widescreens like the Lexus, versus on a Volvo where CarPlay is stuck in a little box on the bottom half of the screen, barely larger than the plus-sized phone providing the function. In the RX, all 12.3 inches show CarPlay, so the buttons are large and easy to press (if you can reach them), and annoyingly long podcast titles that would normally be cut off in a small screen are fully displayed.\n\nOver-the-Air Map Updates\n2020 Lexus RX 350 F Sport | Cars.com Photo by Joe Bruzek\n\nFor those who don’t use Apple CarPlay or Android Auto, which provide navigation from a smartphone, the optional built-in navigation system is quite good and boosted for 2020 with more humanized voice recognition (it recognized numerous ways I asked to get to the nearest Starbucks). Most notable is that there are now over-the-air navigation updates that replace the need for a physical SD card. This isn’t the first Lexus to receive the system, named Dynamic Navigation, but it’s new to the RX. When maps are updated, the update comes straight into the RX via the onboard cellular connection. The functionality is active only if you subscribe to Lexus’ Enform cellular service, however, which comes with a free three-year trial before a subscription is required, and the updates are good only for navigation. Unlike the Tesla Model X, you won’t be getting vehicle functionality or systems updates. Those kinds of updates aren’t out of scope, however, as Lexus College senior product specialist Bob Gleich says there are numerous regulatory hoops Lexus must hop through first before that can happen.\n\nCellphone Holder — Brilliant Idea, So-So Execution\n\nLexus has an intriguing solution for storing phones, a center console cellphone pocket. The sizable slot was large enough to hold my iPhone Plus, which is impressive because my monster of a phone is wrapped in a toddler-proof thick, shock-resistant case. The holder stands the phone up vertically so it’s not using storage space in the cubby if laid down flat. Another bonus: The phone won’t fly out of a bin when accelerating like it does in some cars. On the downside, this cubby won’t wirelessly charge your phone, and CarPlay isn’t wireless as in some BMWs and Audis, so you’ll have to string a data/charge cable across the cupholders to the center console. Oddly, the USB ports literally right next to the phone holder are charge only, and not data ports that stream CarPlay/Android Auto and music to the media system like in the center console storage bin.\n\nDouble the F Sport\n\nThe sportier RX F Sport trim comes in two flavors for 2020, a regular F Sport with unique grille, tuned-up shock absorbers and fancy wheels, while an F Sport Performance is new, though I question the value in that package. The $4,850 F Sport Performance Package adds adaptive shocks with adjustable firmness similar to the Lexus LC 500 sports car, which is perhaps the one Lexus where its goofy controls can be glossed over because it’s that good. Lexus calls this adaptive variable suspension, but the RX with this heightened package remains one of the more buttery riding SUVs out there, even in the most aggressive Sport Plus mode that you don’t get on lesser RXs. The RX F Sport Performance Package remains perfectly comfortable for everyday use while giving you a shred of road feel you don’t get on the base suspension car (non-F Sport). When thrown into a corner, however, there aren’t the chops that would make you want to do it again, and the Sport Plus mode doesn’t do the engine and transmission any favors because it shifts conservatively, upshifting mid-corner and trying to get to the next gear as soon as possible. The paddle shifters work well here for maintaining a gear, but it’s not unique to the F Sport any longer because all RXs get steering-wheel-mounted paddle shifters for manual gear control, even the hybrid RX 450h.\n\n2020 Lexus RX 350 F Sport | Cars.com Photo by Joe Bruzek\n\nThe F Sport Performance Package adds a sound tube for an extra bit of noise from under the hood, doing it mechanically versus electronic augmentation, according to Gleich, and you can hear a little extra muscly sound between 5,000 and 6,000 rpm, though only briefly. I haven’t driven the non-Performance-Package F Sport, but compared with the regular RX I drove, I don’t think you’ll be missing much if you skip the F Sport Performance Package.\n\nShould You Buy the 2019 or 2020 Lexus RX?\n2020 Lexus RX 350 F Sport | Cars.com Photo by Joe Bruzek\n\nOne new feature worth mentioning is the RX’s newly available kick-to-open tailgate, which like many of the 2020 additions normalizes the RX a tad more. Previously, you had to hold your hand over the Lexus badge to open it (doesn’t make much sense for a hands-free system), and now with a handful of groceries the rear power tailgate can be opened with a quick kick under the center of the bumper. In my testing, this worked five out of five times, an accomplishment for these types of systems that don’t always trigger when asked.\n\nIf you’ve deemed the RX’s size and price a good fit, then actively seek out the 2020 RX, which addresses one of the RX’s biggest shortcomings thanks to a more normalized control system and a host of new connectivity features.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "RX 450hL AWD",
+          "price": "$50510",
+          "specifications": {
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric V-6 Engine Type",
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/211 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "4,905 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "17 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "RX 450hL Luxury AWD",
+          "price": "$56510",
+          "specifications": {
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/211 Displacement",
+              "Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/2041503a-4614-40cb-a397-184df4737087.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/c1ae319d-8dbb-4cb4-b678-67238f7bb696.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/8641e54d-a138-4170-baf8-631511099194.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/dc996659-2c72-4a55-b021-dc9e33454625.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/af756c1a-b469-404f-abf4-39c72bbf6c25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/3d1fc774-e3f2-4134-a2d7-676aa964a42f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/e11698ad-c980-4ff8-b57d-61931facff84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/59896e85-e5e0-47d2-bd2e-37852685acfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/c8835e2f-0e18-4bce-a335-bafc9c3b0467.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/c452e3ff-2653-4da6-93ef-501108d93a32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/8d7b02b7-7769-493c-912e-095815ea81a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/7346980d-cfd9-48b6-93ec-bcf79af09541.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/635011b8-cdfb-43f8-9e4d-3a8a9cd3142a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/c2da494c-8777-4de4-9ef4-718ac0635b8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/a9dd438e-9e7a-4f85-a4d0-564a442676fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/9094dad8-d3dd-49bd-8d4b-ba904f601020.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed86dfa0-20be-452a-a1af-1c0422b5d236/761212c7-a866-4fba-b8ef-67328bb37608.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/352cdd20-1e6d-437d-8d50-62fca478e964/60658890-dd44-4caa-86cb-4e1165269fec.png"
+      ],
+      "expert_review": "What Is the 2019 Lexus RX?\n\nThe Lexus RX mid-size luxury SUV is available in gas RX 350 or hybrid RX 450h form. There’s also a performance-oriented F Sport model and extended three-row L versions. All use a 3.5-liter V-6 engine, and the RX 450h adds electric motors. The RX 350 is available with front- or all-wheel drive, and the RX 450h is all-wheel-drive only with an electric motor driving the rear wheels. Competitors include the Cadillac XT5 , Acura MDX and Infiniti QX60.\n\nWhat’s New on the 2019 Lexus RX?\n\nThe RX’s remote function adds smart watch and Amazon Alexa device compatibility.\n\nWhat Features in the 2019 Lexus RX Are Most Important?\n\nThe standard Lexus Safety System Plus includes automatic emergency braking with pedestrian detection, lane-keeping assist and adaptive cruise control. The RX 450h’s fuel-saving hybrid drivetrain achieves 30 mpg combined in EPA testing.\n\nShould I Buy the 2019 Lexus RX?\n\nOften credited with creating the luxury crossover SUV class, the Lexus RX continues to please buyers looking for refinement. However, our editors find it less engaging to drive than some competitors and are continually frustrated with its optional Remote Touch multimedia interface.  The cramped third-row seat in extended L versions is of dubious usefulness, too.",
+      "trims": [
+        {
+          "name": "RX 450hL Premium AWD",
+          "price": "$50970",
+          "specifications": {
+            "Notable features": [
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Three-row L version available",
+              "Lexus Safety System Plus standard",
+              "Eight-speed automatic standard",
+              "Performance-oriented F Sport model available",
+              "Head-up display available"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/211 Displacement",
+              "Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "RX 450hL Luxury AWD",
+          "price": "$54905",
+          "specifications": {
+            "Notable features": [
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Three-row L version available",
+              "Lexus Safety System Plus standard",
+              "Eight-speed automatic standard",
+              "Performance-oriented F Sport model available",
+              "Head-up display available"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric V-6 Engine Type",
+              "3.5 L/211 Displacement",
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,905 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/0e2bd433-3d20-4607-8773-7a65111357b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/f550affb-7c0c-402a-907f-f04646812dd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/9eb5b64e-4a79-4e73-9e20-130bb1a2133d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/e9c64bc5-aa4f-4093-ba62-32fd4b87445a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/3c095ff1-9434-4d00-a314-cb5cd3c45cec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/c0788d73-296e-438c-849a-9d52c7d58e48.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/bae2ec19-121a-4f18-967d-3c54fe2103ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/0e766437-75ea-4e4b-9fa5-ef6635681129.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/ff825b8c-2b94-4cf3-9b29-bd97054c96cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/f3fd5fc1-ad73-4acc-827f-74d7e213f8cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/25ddc136-54dc-4cda-a894-74cdfc22e12e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6194ae91-4c6c-4578-9e82-73833d5b9154/9b231abc-e13b-4ac0-af05-e3a3632066b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/61a0934a-64e0-4b4b-80dd-6eeb5fbfd9f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/fb407e3e-626e-4088-a9df-0af7798f73fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/2c91fe58-5a21-4bf6-9654-e5e902c38aa8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/e23e153d-e2a3-4c57-b901-4f14f0138517.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/fa38a3ab-c552-4133-b0ca-3daa639a12b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/2dcce635-76d3-4c3a-9d0a-bf87719a57d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/7cee618d-4a76-4319-916f-cfa28f9b99f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/1175e847-d8b6-41cf-bc00-a27a861f63d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/7745786a-0506-4f97-a071-5b56bf2e1eae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/912af361-b31b-4b18-b869-a80f3da11174.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/338b7861-a15f-4e09-82fe-370ec1eebb7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/8d09e563-db84-4aa0-865c-37cb19cca418.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/42cc1682-51e1-4254-905f-886f26b9d239.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/30012e87-d57c-4207-8ed2-9ee557e06972.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/9ea79a11-5a8e-4363-b6da-ee9ef027859a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/c44baf86-b3c8-47dc-aa6b-4419a81a5ce7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/f3c91b7d-fe7e-4635-b2b3-520bd8e5f9af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/4b9c798e-3d6d-4bc0-8bc8-24501a93bbd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/e1b0f8ee-ecde-4362-9f14-3cc27b61c0f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc0e8a95-0ea4-4dcc-92ab-473b7d56734a/a6f22add-1217-40f5-b040-e4b04d82830e.png"
+      ],
+      "expert_review": "What Is the 2022 Lexus RX?\n\nThe five-seat Lexus RX mid-size luxury SUV is available in gas RX 350 or hybrid RX 450h form. There’s also a performance-oriented F Sport model and a three-row L version that seats up to seven. All use a 3.5-liter V-6 engine, and the RX 450h adds electric motors.\n\nThe RX 350 is available with front- or all-wheel drive. The RX 450h is all-wheel-drive only, with an electric motor driving the rear wheels. Competitors include the Cadillac XT5, Acura MDX and Infiniti QX60.\n\nWhat’s New on the 2022 Lexus RX?\n\nThere are no significant changes this year.\n\nWhat Features in the 2022 Lexus RX Are Most Important?\n\nStandard features include:\n\n18-inch aluminum wheels\nLED headlights\nDual-zone automatic air conditioning\n8-inch touchscreen multimedia system\nAndroid Auto and Apple CarPlay smartphone connectivity\nForward collision warning\nAutomatic emergency braking\nLane-keeping assist\nAdaptive cruise control\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include:\n\nPanoramic moonroof\nHands-free power liftgate\nLeather-trimmed interior\nHeated and ventilated front seats\nHeated second-row seats\nHeated steering wheel\nHead-up display\nNavigation with 12.3-inch touchscreen\nMark Levinson premium stereo\nRear automatic braking\nShould I Buy the 2022 Lexus RX?\n\nOften credited with creating the luxury crossover SUV class, the Lexus RX continues to please buyers looking for refinement, but our editors find it less engaging to drive than some competitors. The Remote Touch multimedia interface remains frustrating, but the inclusion of a touchscreen makes it less of an issue than it was previously. The cramped third row in extended L versions is of dubious usefulness.",
+      "trims": [
+        {
+          "name": "RX 450hL AWD",
+          "price": "$52110",
+          "specifications": {
+            "Notable features": [
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Three-row L version available",
+              "Front- or all-wheel drive",
+              "Touchscreen multimedia system with Android Auto, Apple CarPlay",
+              "Limited-edition Black Line models available"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/211 Displacement",
+              "Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "RX 450hL Luxury AWD",
+          "price": "$58110",
+          "specifications": {
+            "Notable features": [
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Three-row L version available",
+              "Front- or all-wheel drive",
+              "Touchscreen multimedia system with Android Auto, Apple CarPlay",
+              "Limited-edition Black Line models available"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric V-6 Engine Type",
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "3.5 L/211 Displacement",
+              "308 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,905 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/ce18c859-97bd-4e2b-a574-9f634de5186e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/21966356-6920-408d-bef0-31e3292979d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/b840fcd5-ffe2-4c4a-80b4-9c1a6b13376d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/464700a2-965b-4f48-84ec-64ab2cbeceb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/b812d2e4-61f1-46d1-9f04-431e6c96092b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/c78fa815-fe32-49fc-b5c0-b3960eed8337.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/faaa9e22-8b52-4825-a890-b58f4b4a6b7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/a8d0e8f8-2f49-4425-b5b4-f30611cf3bdb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/6d024f01-4c11-4e5d-949a-880502b5c301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/33559d3b-38ba-44d2-9335-3f82e87bbb42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/6d33564c-a869-47d3-aeab-481c0d54d177.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/ce18c859-97bd-4e2b-a574-9f634de5186e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/d32b27aa-4985-4e65-903f-754151507271.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/3215e929-c750-4088-995f-c19995cd5bfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/e9a868da-9563-4326-8d3e-8c88a4ace99b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/22ed351a-a431-4b11-9daf-c197310b7c78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/63f4563d-2ebe-4856-8c89-736248bd3c25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cb6963d7-14e5-4529-95c2-6c716ea4b74d/141077c9-121e-49ae-9eaf-941a136d6942.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "RX 450hL Premium AWD",
+          "price": "$50620",
+          "specifications": {
+            "Notable features": [
+              "Three-row L version now available",
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Lexus Safety System Plus standard",
+              "Eight-speed automatic standard",
+              "Performance-oriented F Sport model available",
+              "Head-up display available"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/211 Displacement",
+              "Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "RX 450hL Luxury AWD",
+          "price": "$54555",
+          "specifications": {
+            "Notable features": [
+              "Three-row L version now available",
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Lexus Safety System Plus standard",
+              "Eight-speed automatic standard",
+              "Performance-oriented F Sport model available",
+              "Head-up display available"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric V-6 Engine Type",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "3.5 L/211 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/21c32485-281d-46ed-8a37-21430bd444ad/22783e56-eb91-418f-911b-65aaeb379650.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/853ce715-6109-4a23-9dcf-cd915130e244.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/98c131b0-bb78-45a6-973c-c247ea4d0ffa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/19367b61-5643-47f2-b1cf-bd8acd4cda90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/b3bfa993-44dd-4907-b044-915bdbf6ec84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/21049f26-8ceb-4b9b-bfb5-acc23ad95135.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/f6894574-c6b2-4100-9ac3-d60f3d927142.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/6f2c5bc9-af42-424f-8cc6-b89eb3ebc76d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/24bfdb30-9909-4427-80e0-64f593108f93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/5ece46e8-7ab7-43b9-ab54-28eb31d1147e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/7e2e52c2-f08e-4dae-9acb-773b698ce6d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/6623f774-1383-45a1-b87d-b8e755ba32b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/6e8a7ca7-9826-4a6c-afe4-fcdb0f8856f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/37fa1695-812a-4b14-b755-8ca9a0696be2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/5e58a30a-cb2e-4018-a0f4-a69a6a7d63bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/e1952f54-cb85-446c-be46-34974796f05c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/29455e2f-3cde-43fe-a020-4f4e626e6514.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/ebc5c575-31f5-47ad-bbab-fdc198a87f0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/f4f42308-f863-4f9d-a6ad-6badefabe65f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/87c0e35c-a666-4b5c-b7ee-7ccf669c0412.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/49ebc692-1030-4695-ac6e-f1cb304a0dd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/44180138-5621-44f1-9937-047d0e882f1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/8d9fb191-26bd-4d2e-9785-2157af824271.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/fed9c9ef-0f26-4ab9-a5bd-0b5c9bfa909a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/ce46ab04-5626-44fc-b0fe-8434bc5ac001.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/335068c1-324d-4104-a50e-94965bc25328.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/20f8815c-e300-448d-a333-1e8869f6a408.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/0a7cb1e9-200e-416b-b98c-442fa5945365.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/07f78332-f19a-4d65-ab97-598e66117ee2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/6f51dace-9527-4196-8f36-4d0b0bf90932.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/923778e2-1c65-493d-b221-7267427fb210.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/219284c2-157c-4ae6-a4b5-f9b7df9b459d/490e0d93-a25c-4fb8-acfa-b1f61df88866.png"
+      ],
+      "expert_review": "The verdict: The 2021 Lexus RX 450h’s hybrid powertrain, quality interior and improved tech make it a solid fuel-efficient family-hauler, despite some minor blemishes.\n\nVersus the competition: A stylish interior and relatively new touchscreen help the RX 450h keep pace with other fashionable hybrid SUVs, and its added fuel efficiency and standard all-wheel drive make a case for it as the best Lexus RX on the market.\n\nLexus’ line of RX SUVs might not be the biggest or most capable on the automaker’s SUV roster, but it’s certainly the one that put the brand on the map — and the RX is its bestselling vehicle. And of that notable bunch, the hybrid RX 450h version might just be the best.\n\nThe big updates to the RX line happened in 2020, when Lexus didn’t exactly ditch its much-maligned center-console touchpad controller, but instead gave a choice of two touchscreen displays — measuring 8 or 12.3 inches — that let drivers control nearly everything via the display, not the confusing and distracting touchpad.\n\nRelated: 2020 Lexus RX Review: Just What the Doctor Ordered\n\nOur test vehicle featured the RX’s most significant update for the 2021 model year: a new special Black Line edition trim level that adds black exterior accents, including a horizontal black stripe above the rocker panels that’s reminiscent of Porsche’s GTS trims. The trim also brings 20-inch black wheels, a unique interior treatment and a set of matching Halliburton luggage. We didn’t get to play with the luggage set, but it didn’t cause an environmental disaster, so we’ll call it a win. Our test vehicle’s price came to $59,380 as-equipped, including a $1,025 destination fee.\n\nThe RX 450h competes against vehicles like the 2021 Volvo XC60 Recharge plug-in hybrid, the redesigned 2022 Acura MDX and its own sibling, the gas-powered RX 350.\n\nDriving\n\nThe 450h makes 308 total horsepower with a gasoline-powered V-6 that works with a set of three electric motor-generators and a nickel-metal-hydride battery pack. It’s not a remarkable figure, but it’s enough to get the SUV going briskly and provide ready passing power, even with a slightly hesitant continuously variable style of automatic transmission (the gas RX 350 gets a traditional automatic with eight gears). The only minor issue I had with the powertrain was a slightly unrefined droning noise.\n\nIn fact, the most remarkable thing about the RX 450h driving experience is how unremarkable it is. Besides a powertrain that never leaves you wanting for power, the steering feel is communicative for a mid-size SUV, and the suspension is just this side of firm. An optional F Sport handling package, which was not included on the vehicle we drove, adds an adaptive suspension and retunes the steering ratio. I suspect, though, that this would not make for a vastly different ride or handling experience. The latest iteration of Lexus’ F Sport packages, at least on the SUVs, seem to be mostly about appearances. If that’s the look you want, go for it (I actually prefer it, aesthetically), but if you don’t care for the looks of the F Sport package or are indifferent to them, save yourself the money.\n\nThe biggest surprise about driving the RX 450h is its braking — or rather, the fact that I didn’t find its brake pedal behavior annoying. Most vehicles in Toyota’s hybrid family have a spongy, nonlinear brake pedal feel that can take some getting used to — and lead to some tense moments in higher-speed braking (like when a traffic jam suddenly appears). The RX 450h’s brake pedal feel was more linear than I expected, almost like a non-hybrid car. We’d like more of that in your other hybrids, Toyota and Lexus.\n\nAlso worth noting: While testing the RX 450h in Chicago, we experienced a heavy snowfall, and the SUV struggled a bit in deeper, heavy, wet snow. That may be down to the efficiency-minded Bridgestone Ecopia tires it wore, which consumers rate 3.3 out of 10 points for winter/snow performance on Tirerack.com. Michelin Premier LTX tires, which are also listed as original equipment on this model and trim level, scored 7.1 in the same category. It’s a helpful reminder: AWD is not a free pass when it comes to traction in snow, and oftentimes the tires are the culprit.\n\nWe didn’t conduct an official fuel-economy test during our time with the RX 450h, but the EPA rates it a solid 31/28/30 mpg city/highway/combined. Compared with competitors, it significantly bests the 2021 RX 350 AWD’s 19/26/22 mpg and the 2022 MDX AWD’s 19/25/21 mpg. Its 30 mpg combined also tops the 2021 Volvo XC60 Recharge’s 27 mpg combined rating, though that vehicle is a plug-in hybrid with 19 miles of pure electric driving range when fully charged. The RX 450h continues a tradition of Toyota and Lexus hybrids offering an electric-only driving mode that functions at extremely low speeds for incredibly short periods, rendering it nearly pointless.\n\nInterior and Cargo\n\nDespite the presence of the dreaded touchpad controller (I’ll get to it in a second once I prepare myself), the interior of the RX 450h — and really any Lexus, in my book — is one of its strongest suits. The materials are high-quality, and the knobs and switches all feel first-rate. The test vehicle’s two-tone upholstery might not be for everyone, but it still feels nice.\n\nThe RX 450h’s interior is roomy enough for adults front and rear, and there’s so much headroom that adding the optional moonroof, which the RX we drove didn’t have, likely wouldn’t be a problem. Cargo space is also solid, with a Lexus-measured 16 cubic feet with the backseat in place and 32.6 cubic feet with it folded down. Those are identical measurements to the RX 350, so there’s no cargo space penalty when choosing the hybrid.\n\nThe touchpad controller, on the other hand … stinks. Its action is imprecise and requires a lot of attention, which really ought to be reserved for, oh, I don’t know, driving. I actually prefer the older joystick-based system, because with that one I could at least keep my eyes on the road more and have a better idea of where the cursor was going. But all that doesn’t really matter now that the display is a touchscreen. The only time my hand went deliberately toward the touchpad was to hit the Home button, which is located there, not on the display itself. Other than that, I never used it.\n\nThe display’s graphics are starting to look dated, and the menu structure isn’t the most user-friendly one out there, but for now I’m willing to give Lexus a pass because the system is finally at least usable. Another nit to pick, however, is that most functions on the 12.3-inch display use only about two-thirds of the screen, but that’s less a problem than a wasted opportunity. Apple CarPlay, Android Auto and Amazon Alexa connectivity are all standard, regardless of screen size.\n\nSafety\n\nThe RX 450h comes standard with Lexus’ Safety System Plus 2.0, which includes adaptive cruise control, lane departure warning with lane-keeping assist, lane-centering steering, forward automatic emergency braking with pedestrian detection and high-beam assist. Blind spot warning with rear cross-traffic alert is newly standard for 2021 models. Our test vehicle also included an optional head-up display; it was helpful when it wasn’t being washed out by the polarized sunglasses I wore.\n\nThe Insurance Institute for Highway Safety named the 2021 Lexus RX, which includes both the gas-only 350 and hybrid 450h but not the three-row L versions, a Top Safety Pick for 2021, representing top scores for crashworthiness, crash prevention with other vehicles and a child seat anchor rating. It scored slightly lower for its headlight performance and crash prevention with pedestrians. The National Highway Traffic Safety Administration rated the 2021 RX 450h at four stars overall.\n\nShould You Buy an RX 450h?\n\nIf you’re deciding between an RX 350 and an RX 450h, the hybrid makes a very compelling case. It offers a similar driving experience, identical interior and significantly better fuel efficiency for a starting price just $1,250 higher than an AWD RX 350.\n\nIn terms of price and efficiency, the RX 450h also makes a strong case — at least on paper — compared with competition outside the Lexus family.\n\nUltimately, the RX 450h’s strongest argument is that it offers the benefits of a hybrid without most of the penalties and annoyances of the usual “unique” hybrid experience.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "RX 450hL AWD",
+          "price": "$51310",
+          "specifications": {
+            "Notable features": [
+              "Blind spot warning with rear cross-traffic alert now standard",
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Three-row L version available",
+              "Front- or all-wheel drive",
+              "Eight-speed automatic standard",
+              "Touchscreen multimedia system with Android Auto and Apple CarPlay"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas/Electric V-6 Engine Type",
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "3.5 L/211 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "RX 450hL Luxury AWD",
+          "price": "$57310",
+          "specifications": {
+            "Notable features": [
+              "Blind spot warning with rear cross-traffic alert now standard",
+              "Gas (RX 350) and hybrid (RX 450h) models",
+              "Three-row L version available",
+              "Front- or all-wheel drive",
+              "Eight-speed automatic standard",
+              "Touchscreen multimedia system with Android Auto and Apple CarPlay"
+            ],
+            "Highlights": [
+              "29 City / 28 Hwy MPG",
+              "6 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Gas/Electric V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "247 @ 4800 SAE Net Torque @ RPM",
+              "308 @ 6000 SAE Net Horsepower @ RPM",
+              "3.5 L/211 Displacement",
+              "Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,905 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

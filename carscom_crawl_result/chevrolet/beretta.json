@@ -1,0 +1,144 @@
+{
+  "make": "chevrolet",
+  "model": "beretta",
+  "years": {
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1fe1272b-23f2-49da-b4f7-5817c4af2c2a/464b92bf-a209-483e-97fd-45cc079024ba.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe",
+          "price": "$13095",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe Z26",
+          "price": "$16295",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/aba24389-f88d-4ed4-8f0d-f7067d5f1b1e/4a9f8ec8-e94d-4044-b166-c02ad805d14c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe",
+          "price": "$11395",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe GT",
+          "price": "$12995",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe GTZ",
+          "price": "$15995",
+          "specifications": {}
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d37d7bac-296f-4740-9239-e30c48c7d319/f2d499fc-8479-425d-b0b9-f88f64ef5b4d.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe",
+          "price": "$13490",
+          "specifications": {
+            "Highlights": [
+              "24 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Z26",
+          "price": "$16690",
+          "specifications": {
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Z26 1SN Value Edition",
+          "price": "$16795",
+          "specifications": {
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/aa42bf16-d03c-47f0-b78b-5bc8391a7048/3710ed73-76b8-4c08-adb3-08adaa0a8026.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe",
+          "price": "$10999",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe GT",
+          "price": "$12575",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe GTZ",
+          "price": "$15590",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5a33d3d6-cf1d-48e6-977b-1d9eff925fdd/496e3a49-d06e-4731-8ba1-bc1925eb9ec5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe SVB2 Value Edition",
+          "price": "$12310",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe",
+          "price": "$12585",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe SVB4 Value Edition",
+          "price": "$12810",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe SVB6 Value Edition",
+          "price": "$13510",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe Z26",
+          "price": "$15310",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

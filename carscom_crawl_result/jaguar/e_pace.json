@@ -1,0 +1,1887 @@
+{
+  "make": "jaguar",
+  "model": "e_pace",
+  "years": {
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/d1a9ec6d-e236-4650-b2f7-f3e784626bd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/39178634-58e9-4729-9fe2-52c718c995d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/3ef1a5a8-8b0e-46d2-a1bf-1fe10dac0d28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/afea5aa1-4d94-4126-9ece-a14f967c952d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/419dbe31-2ac6-4dd0-a72a-22037e25acff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/a7714aa5-2651-4199-b645-a82ecdc21428.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/fec24f8e-66c6-4e73-bdd7-20987ac62fec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/546e9bad-4fb6-4c98-85c3-2088efabee3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/ed22da8a-50be-439d-8aa5-1fd1f288d439.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/0214038b-a6e8-4d19-9d23-ed1a69248833.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/a1837dfc-a669-4138-ad10-f1f12501fab8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/2e2a5ff6-be4e-4969-aecd-e6624c92a79c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/0a5483e0-6668-438f-bb74-618b775aefb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/0a0849ba-d766-4cfc-9a3d-21a530f41a2a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/70b1fa90-b6e5-42d5-90a5-6e28eb28de66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/d6c8c0c7-8a52-4dfe-b756-97f2ad0662d4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/30dc5300-8749-4e95-b06c-484a398c3ba8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/febbebe3-272c-4e3f-b640-e0f0c94124a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/58a3ba28-013d-4786-a1b0-d1a7fc4c50a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/30dc5300-8749-4e95-b06c-484a398c3ba8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/c40f2ffe-f04a-4859-a659-6083d43001d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/866c8166-ff03-49d7-801f-8c814fc6c5d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/eaf94448-5d3b-4d1f-aa92-70767c236562.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3c4047b8-52d8-43c3-93e2-9149fe2b28ce/313be4dc-2789-47ad-9625-2412d9414566.png"
+      ],
+      "expert_review": "What Is the 2024 Jaguar E-Pace?\n\nThe Jaguar E-Pace is a five-seat subcompact SUV that competes with the Audi Q3, BMW X1, Lexus UX and Volvo XC40. The sole powertrain is a 246-horsepower, turbo 2.0-liter four-cylinder engine that’s coupled to a nine-speed automatic transmission and standard all-wheel drive. Agile handling makes the E-Pace fun to drive, though its overly firm ride could deter some SUV shoppers — especially those expecting classic Jaguar comfort.\n\nWhat’s New on the 2024 Jaguar E-Pace?\n\nFor the 2023 model year, the E-Pace lineup was whittled down to only one trim level, the P250 SE. For 2024, all E-Paces come in a sport-themed R-Dynamic trim with a newly standard Black Exterior Pack that adds a gloss-black grille, side vents and side window surround. New standard interior features include a heated steering wheel, fixed panoramic moonroof and HomeLink functionality.\n\nWhat Features in the 2024 Jaguar E-Pace Are Most Important?\n\n\nStandard features include:\n\n11.4-inch touchscreen\n12.3-inch configurable driver display\nWireless Apple CarPlay and Android Auto\nAmazon Alexa\nWireless device charging\nSatellite radio\nVoice recognition\nHeated front seats\nFixed panoramic roof\nBlind spot warning\nRear cross-traffic alert\nAdaptive cruise control\nAutomatic emergency braking with pedestrian recognition\nLane departure steering assist\nFront and rear parking sensors\n\nAvailable features include:\n\nHands-free tailgate\nAdaptive suspension\nHeated rear seats\nVentilated front seats\nHead-up display\n3D surround camera system\nBlack suede cloth headliner\nShould I Buy the 2024 Jaguar E-Pace?\n\nIts handsome design and attractive interior certainly give the Jaguar E-Pace a sense of style. While it comes standard with a long roster of comfort, tech and safety features, there’s no escaping the fact that the E-Pace’s base price is significantly higher than many rival small luxury SUVs. While the 246-hp engine provides decent pep and handling is eager, power delivery is uneven, overall fuel economy isn’t great, and the ride can be stiff.",
+      "trims": [
+        {
+          "name": "Base_Price_49998",
+          "price": "$49998",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/c0ff2123-504d-4fb9-b4b1-32d09a3e0bf2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/c1229ba2-d589-47bf-89f2-824aa9191dd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/d0a8c0d2-0096-4b0f-b482-1cf59bd96437.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/f04b0e08-d28f-4d37-8620-5de92be8bf6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/3b0c48b9-e736-4eb2-90e9-7dd32519ea04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/7c38c3db-257d-434e-8060-8ef5548085ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/8ba0e0bd-faaa-4fd7-8d04-9e590bc54641.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/7b7dfd1b-283b-4328-bc69-e73d466ae668.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/c7885954-f11a-4108-83ac-2de89846465a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/73810ee2-dbc2-4ed7-bc2d-bfaf8b7bd34b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/f6e65cd9-43db-4442-a7f4-b37c095f612c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/7b7dfd1b-283b-4328-bc69-e73d466ae668.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/3348ea96-c7d2-4bb2-bc46-ac29c0b430da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/abc00990-f954-4f9a-8941-96fd3349000e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/7e40c45b-f077-46a2-9e74-c3807f54b48c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/8a632bc1-f929-4320-80b2-f2315345779e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/ef918443-045b-45a3-a59d-84ae82a5d999.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/f929b1fb-119d-4459-9888-2de26aa01834.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/f98c0fa1-c80c-48b9-839e-9d00fcac98f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/512370e0-29eb-4e2b-b0c8-186d55a6593b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/b5691d71-5ba1-4886-bf49-81e388761feb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/d93fa4e8-cf1b-4e2b-9d2f-67c63faf681a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/8c343544-c0c6-4d21-b637-c2f8c8a0ea54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/576b7071-51ea-42c6-8eb5-83baa8a41978.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/f866099f-d90c-48fe-a228-93be80eed3e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/19fd4ba1-0b16-4b51-a87e-dc85ceb7531f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/6a120fe7-3c43-405a-83e5-1499a5f9e39e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/7e27785f-e200-4f57-8301-fd7644095cdc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/479dfceb-d3b2-4d83-b0e6-a679bca7ed16/a22bc9d4-1f36-41b5-b72b-6aab74dceb14.png"
+      ],
+      "expert_review": "What Is the 2023 Jaguar E-Pace?\n\nThe 2023 Jaguar E-Pace is a five-seat subcompact SUV wrapped in one of the most attractive exteriors you’ll find in its class. That’s saying something, especially considering direct competitors include the Audi Q3, BMW X1, Lexus UX and Volvo XC40. Motivating the E-Pace is a 246-horsepower, turbo four-cylinder engine coupled to a nine-speed automatic transmission and standard all-wheel drive.\n\nWhat’s New on the 2023 Jaguar E-Pace?\n\nFor the 2023 model year, the E-Pace lineup has been whittled down to only one trim level, the P250 SE. Standard features now include adaptive cruise control and blind spot warning.\n\nWhat Features in the 2023 Jaguar E-Pace Are Most Important?\n\nStandard features include:\n\n11.4-inch touchscreen\nApple CarPlay and Android Auto\nAmazon Alexa\nWireless device charging\nSatellite radio\nVoice recognition\nHeated front seats\nBlind spot warning\nRear cross-traffic alert\nAutomatic high-beam headlights\nRain-sensing wipers\nAdaptive cruise control\nLane departure steering assist\nFront and rear parking sensors\n\nAvailable features include:\n\nHands-free tailgate\nAdaptive suspension\nPanoramic sunroof\nHeated rear seats\nShould I Buy the 2023 Jaguar E-Pace?\n\nIts handsome design and attractive interior certainly give the Jaguar E-Pace a sense of style. While it comes standard with a long roster of comfort, tech and safety features, there’s no escaping the fact the E-Pace has a base price that’s significantly higher than many rival small luxury SUVs. While the 246-hp engine provides decent pep and handling is eager, overall fuel economy isn’t great and its firm ride could deter some SUV shoppers.",
+      "trims": [
+        {
+          "name": "Base_Price_34402",
+          "price": "$34402",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/2a9ea15a-41a7-4743-9724-ff52e242eec6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/d49ca898-c345-4069-bb19-5e3284604368.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/5c628d0f-54a3-4104-b113-0403526735e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/3d278ab6-3a74-4099-94be-bc786230e8ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/3ca652ea-565e-4f5a-98aa-c26f8983b6be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/6aa09401-74e8-443e-8eb9-1355f7bcbdc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/cd60e5ad-1e83-4416-87b5-8dc549d90a8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/7a23443b-e996-4a50-811e-35aead94144f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/9b6e47a3-1325-4423-8a23-57eadfeac8b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/e02603f8-c312-4712-a7d5-f15a9ac5a863.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/40ac9923-1bc7-44eb-b72a-517f7eb104a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/04003905-fcd0-4d5a-bede-d536a6995423.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/45bc94b6-8d38-4c6e-a19f-57b7b1cd3db0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/a5269208-a1f5-498e-971a-15f60341ba3d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/14e26d58-8bd4-4db4-ba51-f0d397cfe7d7/56070c22-711f-47a1-9008-651ba9006105.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/2ea71c1d-a669-4d43-8b9c-d3bee015efde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/aa040ac5-9a65-4be9-ae57-cb1598d5f6c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/36b76792-a280-4781-8c13-44073b53c759.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/80c70cff-9fec-4178-b419-1bb77e66a6b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/b56b9e3d-bdb0-438c-abba-3f1496c320f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/b9a13584-45b6-4bda-9fee-2efda0cdc5a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/4db1bdc8-d187-483c-a8c5-918b51953a13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/73e98244-11e8-45fb-b95f-985ca58d6f13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/3741c8db-00cb-4d35-a5d8-f2f193987c70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/4e95b8bd-f2ea-4de6-8091-f0d4905210a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/a573c246-0450-4e2b-a4fc-88bf7e548529.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/00d033ce-d115-4303-9675-ddceab857e7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/589b3654-89d2-41b3-8410-f974f69e53a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d20300e0-89fb-40bf-82cf-f0e043487e62/83d58f5b-feb2-4051-be29-f0ea64e954f1.png"
+      ],
+      "expert_review": "Looks like: A new grille adds extra bling\n\nCompetes with: Cadillac XT4, Lexus NX and Volvo XC40\n\nPowertrain: 246-horsepower, turbocharged 2.0-liter four-cylinder engine or a 296-hp, turbocharged 2.0-liter four-cylinder; nine-speed automatic transmission; all-wheel drive\n\nHits dealerships: Early 2021\n\nJaguar updated its smallest SUV for 2021 with mild exterior tweaks and the latest version of the automaker’s multimedia system, though its powertrain stays the same. Name notwithstanding, there’s still nothing predominantly electric about the E-Pace this year.  \n\nRelated: 2021 Jaguar F-Type R AWD Coupe Review: New Style, New Tech, Same Sexiness\n\nExterior \n\nThe new E-Pace’s looks have been slightly updated. The most noticeable tweak is front and center, with a new grille that features a mesh design and chrome detailing.  Jaguar also says it made aerodynamic adjustments to the SUV’s bumper. \n\nMore detail has been added to the side vents, which now wear a leaping Jaguar badge. In back, the LED taillights feature a chicane graphic, complimenting the double J-blade-shaped LED headlights. \n\nAn optional Black Exterior Pack adds black to the grille surround and tips, lower bumper mesh inserts, side vents, window surrounds and rear badging.\n\nInterior\n\nThe 2021 E-Pace uses Jaguar’s new Pivi Pro multimedia system with an 11.4-inch touchscreen on curved glass, which the automaker is rolling out across its lineup. Jaguar says the new system will be easier to use thanks to a simplified menu structure and control layout. Jaguar added more climate seat comfort controls below the screen for quicker access and control. Apple CarPlay and Android Auto are standard, and Pivi Pro allows for over-the-air updates. \n\nPivi Pro is standard on P250 SE and 300 Sport trims and includes navigation. Jaguar says the system has its own dedicated power source, so navigation is ready as soon as the SUV is started. A less advanced version, Pivi (minus “Pro”), is standard on P250 trims; it only supports navigation functionality via Apple CarPlay or Android Auto.\n\nJaguar cites improved cabin materials for 2021 and says it added more interesting details, such as a Jaguar animal pattern in the central cubby and in front of the JaguarDrive Selector. The JaguarDrive Selector also got a remake for 2021; the prior rotary gear selector now looks and feels more like a conventional shifter. Cabin color choices include Ebony, Light Oyster, Deep Garnet, Caraway and Cloud. \n\nEngine and Transmission\n\nThe E-Pace is available in three trim levels: P250, P250 SE and 300 Sport, and the engines carry over from 2020. Standard on P250 and P250 SE trims is a 246-horsepower, turbocharged 2.0-liter four-cylinder engine that pairs with a nine-speed automatic transmission. The 300 Sport model uses a 296-hp, turbocharged 2.0-liter four-cylinder paired with a nine-speed automatic. Jaguar says this engine uses mild-hybrid technology; a generator in the engine bay harvests energy normally lost during deceleration. It’s then stored in a 48-volt lithium-ion battery in the cargo area. Jaguar says the extra energy is used to assist the engine when accelerating and support the stop-start system.     \n\nAll-wheel drive is again standard, and Jaguar says the 2021 E-Pace uses the second generation of its Standard Driveline system to automatically distribute torque between the front and rear wheels. The E-Pace also rides updated architecture for 2021, which Jaguar says should improve ride quality and reduce vibration and noise.  \n\nSafety \n\nAs with last year’s E-Pace, standard safety features this year include forward collision warning with pedestrian detection, automatic emergency braking, a driver-drowsiness monitor and lane keep assist. Also standard is a 3D surround-view camera system. \n\nNew for 2021 is the optional ClearSight Interior Rear View Mirror system. It uses a wide-angle rear camera and displays what’s behind the car on a high-definition rearview mirror. \n\nRelease Date\n\nJaguar said it expects the E-Pace to go on sale in the beginning of 2021 and start at $42,045, including destination; that’s $1,045 more than the model-year 2020 version. \n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "P250 AWD",
+          "price": "$40995",
+          "specifications": {
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "269 @ 1350 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,968 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,925 lbs Base Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "3,968 lbs Maximum Trailering Capacity",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "3,968 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD SE",
+          "price": "$46095",
+          "specifications": {
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "269 @ 1350 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "3,968 lbs Maximum Trailering Capacity",
+              "3,968 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "3,925 lbs Base Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "3,968 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "300 Sport P300 AWD",
+          "price": "$49995",
+          "specifications": {
+            "Highlights": [
+              "21 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "3,968 lbs Maximum Trailering Capacity",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,968 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,968 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,135 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/404453fc-0186-4263-9f48-5627554cb55f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/b616f606-cf40-4926-af4b-22b4c8bf7ecb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/35812d9e-5c1b-4e64-a718-074edc8509dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/394ba161-ca06-4b58-b6fc-287febd2c9ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/03c7d23d-ad4b-4fd1-ad23-7e0693116fdf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/aad79e01-4660-4370-884d-67cbf006710b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/86414422-d78e-4018-a794-c67ffeef2c97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/b95a1821-f680-4afd-8d8a-3c5b9544ed3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/602df621-e941-426f-8a74-e0374c59217b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/1bf079fe-77de-4202-8d7d-8e65baf94338.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/984a0c78-a5ef-4c4c-b1ce-e158071f3fac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/e034a18f-7ec8-4343-877d-d36a8decba79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/61032736-71d0-42cc-87f3-821477ba666f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/d59fc819-acc7-4e31-a690-5a47dbf5a1d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/ceb8df09-36b0-45d4-8a26-09580bc74b39.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/f27f768b-2b73-4db3-a9bf-c37091a8321b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/3a50cef6-26af-465f-b80f-5acc745258aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/a45bdd8a-86c3-4d95-87a3-73362150acd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/191895c3-57f9-4f4f-9e96-e072f9893d31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/7ce2b2ec-3046-419c-b478-075ba0a7ec75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/fb421f05-2678-4472-92cc-f01681ac51f3.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/404453fc-0186-4263-9f48-5627554cb55f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/b3728342-b0a3-4172-8824-385a7cbfab6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/de3d5171-4a09-48aa-a806-1d8b2281541c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/a80259b5-138e-449c-adbc-02a852cb184a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/f269831f-16c6-432b-92fa-6b1de2abe9d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/6b12365c-2e9a-4176-a915-9ddaa97a21c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/b9e7aa50-64f6-44da-9c4e-7e4fa0246efb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7eaa72b1-4483-4980-94e8-e29045eea672/9cb0eb29-6441-4f33-a680-2769bfa3ce3e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "P250 AWD",
+          "price": "$41800",
+          "specifications": {
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "269 @ 1350 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,968 lbs Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "3,968 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "18 gal Fuel Tank Capacity, Approx",
+              "3,968 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,925 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD SE",
+          "price": "$46900",
+          "specifications": {
+            "Highlights": [
+              "20 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "269 @ 1350 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "18 gal Fuel Tank Capacity, Approx",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,925 lbs Base Curb Weight",
+              "3,968 lbs Maximum Trailering Capacity",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "3,968 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "3,968 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "300 Sport P300 AWD",
+          "price": "$51000",
+          "specifications": {
+            "Highlights": [
+              "21 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "3,968 lbs Maximum Trailering Capacity",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,968 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,968 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,135 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/00a2c864-e263-45b0-975f-6ca3c8b31c89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/c6aa4fc0-ee98-4640-a046-cb986e75f92d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/f019a164-386f-488f-84db-a73fe866ae6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/dd06fc74-4877-45fa-87be-ceb19bcc5b65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/568c697f-91ea-4583-a7d0-91862b1812f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/8f3195ab-b0c5-4f84-9f01-cc598213544f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/bda95606-e94a-4853-a232-3fcbb231afef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/6adbbe3b-49de-4c0f-b56e-201f76f125f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/f6d2828c-9e4e-42d3-b815-c8fbc8f22c05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/a720c0ff-85ed-4ad1-b366-06627e9cf818.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/4486a95c-6bee-4a97-b569-8a91f134f5ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/b26f7d9b-928f-4c7d-972c-fdd6994a6db2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/e3af23aa-03d9-4ad5-a272-d675e5deb78a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/880f1dbf-0bf1-4f9c-b416-07b5cc3a2454.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b63cbaf3-0079-4fbf-976d-caa7205b057e/c3095f04-7010-4a07-bcd2-a5f6b293ef17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/0e184da1-5b99-46ff-aa59-5a628787aeaf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/765a24de-58d6-4a72-a3cf-ca1f3b96f5d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/59691b2a-2b37-4d5d-adc9-79771325d695.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/379ca8a0-5f0d-4c4a-b522-996da0ad2053.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/36d7e4e0-d081-4b46-817f-860c4b1e12b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/16a15c41-0d40-4be9-8343-80336d420c7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/0cc32caa-3b8d-4fae-92f5-27e8344f32d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/734d93d7-64f7-4ca7-9a09-621cda56560c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/2f67b05b-6830-47d4-ab5b-b7ed74be7700.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/c1ae3434-b769-4814-83d0-350d763b7d93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/217fe5cf-5eb4-4a51-98f9-3074e81ef1af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/ab9af42f-1d42-4cbd-b3e4-dedcf10ee439.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/f241d25a-c877-413e-9925-bd87f57a4895.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/4a6691b1-bc70-4cda-accd-a448133d9659.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/e13576d5-511f-4877-a744-a62b03712766.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/0256c65d-2b21-4028-b039-8b1fce4d77e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/db5779db-12b7-4317-a18d-d3db8fe8dba0/18a9b3ce-8bc6-4ba5-9616-6a578ef52042.png"
+      ],
+      "expert_review": "The E-Pace is Jaguar’s second all-new SUV in as many model years. Built off a platform that underpins the Range Rover Evoque and Discovery Sport from Jaguar’s Land Rover affiliate, the E-Pace slots below the F-Pace in Jaguar’s nascent SUV lineup. All-wheel drive and a turbocharged four-cylinder engine are standard; a higher-output turbo four-cylinder is optional. Seven trim levels range from a base model that starts at just less than $40,000 to R-Dynamic variants priced well into the $50,000s. We drove one of the latter, a well-equipped E-Pace R-Dynamic HSE.\n\nPeachy-Keen Styling\n\nBearing a hodgepodge of cues from other Jaguars ranging from the F-Type to the F-Pace, the E-Pace looks affably stubby, and that’s no easy task for what it is. Small-footprint SUVs are often awkward by design, with truncated profiles that end up as jacked-up hatchbacks or too-tall gumdrops. The E-Pace is in the latter camp, with F-Pace height but a wheelbase and overall length clipped by 7.5 inches and more than a foot, respectively. That footprint is closer in size to subcompact luxury SUVs like the Audi Q3, BMW X1 and Volvo XC40 even though Jaguar prices the E-Pace to compete against rival brands’ larger compact offerings (think Q5, X3 and XC60).\n\nIt comes together without looking ungainly, and Jaguar’s restraint on character lines and bumper openings keeps visual clutter to a minimum. Alas, it also kept the rear window to a visibility-hurting minimum. Bulky backseat head restraints make matters worse — and they don’t flip down or nest into the seat.\n\nQuick … Eventually\n\nThe E-Pace is quick from a standstill and revs energetically, but a lethargic transmission hampers performance once you’re in motion. Standard with all variants, the nine-speed automatic can hunt for gears or delay kickdown altogether when you prod the gas to pass slower traffic or accelerate out of a turn, and little improvement comes from sportier settings on the drive mode selector. At least the high-output four-cylinder in the R-Dynamic we tested (296 horsepower, 295 pounds-feet of torque) packs acceptable oomph from as low as 2,300 rpm or so, but on part-throttle acceleration, the drivetrain often tries to add speed with such power rather than downshifting.\n\nJaguar says the R-Dynamic hits 60 mph in a handy 5.9 seconds. We haven’t driven the base engine (a turbo four-cylinder with 246 hp and 269 pounds-feet of torque), which figures to power the vast majority of E-Paces sold, but Jaguar says it hits the mark in 6.6 seconds. That’s among the more leisurely SUVs in this crowd, though it’s hardly slow.\n\nThe E-Pace’s handling shines, but the trade-off comes in a firm ride. With quick-ratio steering and good overall feedback, the SUV is fun to throw into corners and curves. Push the car hard coming out, and you can sneak the rear wheels a tad sideways to correct some mild understeer going in — likely a credit to Jaguar’s torque-vectoring AWD system, which pairs with high-output engines (a simpler AWD system goes with the standard engine). It’s impressive enough to forget the E-Pace has front-drive roots, a setup that often diminishes balance.\n\nShock absorption is crisp and controlled, but our editors agreed that the E-Pace rides too firmly overall even with our test car’s optional adaptive shocks. With a wheelbase more akin to subcompact luxury SUVs — a group known for firm, unsorted ride quality — the E-Pace exhibits poor body control over rapid elevation changes and marginal high-speed isolation. Uneven sections of pavement induce jarring body motions, and highways drum up ceaseless, if subtle, turbulence. Smaller wheels with higher-profile tires than the 20-inchers on our test car might help some of this (lesser models go as small as 17 inches), but no matter the options, the wheelbase isn’t changing. Some of the E-Pace’s issues are fundamental.\n\nThe Inside\n\nThe wraparound interior sports straightforward controls and a handsome design reminiscent of the F-Type’s cockpit, but its confining space drew complaints from editors and front passengers alike. Hemmed in by an outcropping for the center controls, the driver’s knee clearance is limited, and the protruding upper dashboard robs front-passenger space. The backseat, by contrast, is more generous than the E-Pace’s exterior size might suggest, with acceptable knee clearance, good headroom and a comfortably high seating position.\n\nCabin materials are mostly good. Generous padding covers areas where your arms and elbows rest, and Jaguar wraps much of the dashboard in double-stitched leather, with metal accents around the air vents and gearshift. A few areas are less impressive, however: Cheap-looking, flat-black plastics adorn much of the center console and gauge surroundings. The drive-mode toggle selector feels equally cheap, and our test car’s door panels creaked under pressure. Speaking of low rent, base trims have cloth seats instead of vinyl, which is more typical of this class. Higher trims have leather.\n\nThe standard 10-inch touchscreen boasts intuitive menus and sharp graphics; a backup camera and two USB ports are also standard. Most trim levels integrate apps like Spotify and Tile courtesy of Jaguar’s InControl multimedia interface, but must-have features like Apple CarPlay, Android Auto and wireless smartphone charging are unavailable. A 12.3-inch virtual gauge display is optional, as are two Meridian premium stereos, in-car Wi-Fi and three more USB ports (for five total).\n\nYou have plenty of room to store mobile devices, too. From the deep tray ahead of the gearshift to the storage nooks around the backseat, the E-Pace impresses in a storage-deprived class. There’s even a trick partition underneath the center armrest that opens up a hidden tunnel under the cupholders. That’s for all your completely legal paraphernalia, of course.\n\nGiven the inconsistent methodology behind manufacturer-reported cargo specs, it’s best to bring your own measuring tape when you cross-shop. Behind the backseat, we measured competitive width but just 32 inches of depth — shallower by some 4 to 8 inches than seven other cargo areas we measured in Cars.com’s 2018 Luxury Compact SUV Challenge. If the other shoe had to drop somewhere for such a short car with an admirably roomy backseat, it’s here.\n\nSafety\n\nThe E-Pace has not yet been crash-tested. Standard equipment includes forward collision warning with automatic emergency braking at speeds up to 50 mph (37 mph for its pedestrian-detection function). Optional high-speed automatic emergency braking works at speeds up to 99 mph. Other options include a blind spot warning system with steering intervention, 360-degree camera systems, self-park steering, stop-and-go adaptive cruise control and lane departure steering intervention — albeit not true lane-centering steering, a feature many competitors now offer.\n\nSetting the Pace?\n\nThe E-Pace boasts driving fun and more practicality than its size suggests. Those factors, combined with Jaguar’s value-laden warranty and free maintenance provisions, should draw plenty of interest. Given consumer preference for SUVs these days, it’s no surprise the F-Pace now accounts for nearly half of all U.S. Jaguar sales, per Automotive News. The E-Pace should ride the same wave, though its size seems likely to limit broad appeal — especially since it’s priced against a larger crowd. Shop away on this fun SUV, but note the trade-offs to get there.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "P250 AWD",
+          "price": "$39950",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now standard",
+              "New Checkered Flag version",
+              "Five-seat compact luxury SUV",
+              "All-wheel drive standard",
+              "Two turbo four-cylinder engine choices",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1350 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD SE",
+          "price": "$43700",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now standard",
+              "New Checkered Flag version",
+              "Five-seat compact luxury SUV",
+              "All-wheel drive standard",
+              "Two turbo four-cylinder engine choices",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1350 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,035 lbs Base Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic S",
+          "price": "$46600",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now standard",
+              "New Checkered Flag version",
+              "Five-seat compact luxury SUV",
+              "All-wheel drive standard",
+              "Two turbo four-cylinder engine choices",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,175 lbs Base Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic SE",
+          "price": "$49200",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now standard",
+              "New Checkered Flag version",
+              "Five-seat compact luxury SUV",
+              "All-wheel drive standard",
+              "Two turbo four-cylinder engine choices",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,175 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "1,653 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic HSE",
+          "price": "$52950",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now standard",
+              "New Checkered Flag version",
+              "Five-seat compact luxury SUV",
+              "All-wheel drive standard",
+              "Two turbo four-cylinder engine choices",
+              "Automatic emergency braking standard"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,175 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/f4768687-33f6-4a9e-8312-76d318753f62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/f330dd4e-8c03-44a7-8731-79f9fe645f16.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/163582c4-f693-4dda-b239-69775b77273d/98beef51-1f2e-42de-9053-c01e108620f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/5247aac3-31cf-468b-8036-ac46e6b1a88f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/fa68fe3e-8dbf-453f-bd75-47be75052e62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/7f5995c0-9f88-4bbc-b8fd-b869a644ee5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/41ae0a13-c33d-4d3a-b121-b45a3fa8fdf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/992703cd-fe8b-427a-ab91-727e557a49df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/1bd120b2-4dec-4165-8c6e-3472e54dd145.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/d6b05f95-6588-4f9a-bd7f-4fab2d47a35e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/01c7eb4e-a981-45cd-8a87-4a865dbb0933.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/b32473fe-c80a-4c95-8e26-2e047f186bbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/6cb118d3-a7e7-4123-8bc1-fdd27b3cc361.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/64d5ca9d-41fe-46e6-884f-71dd57dae145.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/ce545162-e07c-4521-8ef6-0d901ed18194.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/6f873456-41bd-4511-a48b-877955a5ae39.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/088e5b9b-f009-4766-a063-21e87b30fc1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/490e2aee-18b8-48ce-b0c5-0a21c8a06a10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/c3760e66-3c9a-4b04-b5f1-dc4b987465e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/1972f04a-9743-4f25-a6f3-4ad1d7846bc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f066f35-f276-4c1d-b7a0-c333eb7fbd27/27cb5841-8b9b-4b9f-a31a-061fde80a5e1.png"
+      ],
+      "expert_review": "The E-Pace is Jaguar’s second all-new SUV in as many model years. Built off a platform that underpins the Range Rover Evoque and Discovery Sport from Jaguar’s Land Rover affiliate, the E-Pace slots below the F-Pace in Jaguar’s nascent SUV lineup. All-wheel drive and a turbocharged four-cylinder engine are standard; a higher-output turbo four-cylinder is optional. Seven trim levels range from a base model that starts at just less than $40,000 to R-Dynamic variants priced well into the $50,000s. We drove one of the latter, a well-equipped E-Pace R-Dynamic HSE.\n\nPeachy-Keen Styling\n\nBearing a hodgepodge of cues from other Jaguars ranging from the F-Type to the F-Pace, the E-Pace looks affably stubby, and that’s no easy task for what it is. Small-footprint SUVs are often awkward by design, with truncated profiles that end up as jacked-up hatchbacks or too-tall gumdrops. The E-Pace is in the latter camp, with F-Pace height but a wheelbase and overall length clipped by 7.5 inches and more than a foot, respectively. That footprint is closer in size to subcompact luxury SUVs like the Audi Q3, BMW X1 and Volvo XC40 even though Jaguar prices the E-Pace to compete against rival brands’ larger compact offerings (think Q5, X3 and XC60).\n\nIt comes together without looking ungainly, and Jaguar’s restraint on character lines and bumper openings keeps visual clutter to a minimum. Alas, it also kept the rear window to a visibility-hurting minimum. Bulky backseat head restraints make matters worse — and they don’t flip down or nest into the seat.\n\nQuick … Eventually\n\nThe E-Pace is quick from a standstill and revs energetically, but a lethargic transmission hampers performance once you’re in motion. Standard with all variants, the nine-speed automatic can hunt for gears or delay kickdown altogether when you prod the gas to pass slower traffic or accelerate out of a turn, and little improvement comes from sportier settings on the drive mode selector. At least the high-output four-cylinder in the R-Dynamic we tested (296 horsepower, 295 pounds-feet of torque) packs acceptable oomph from as low as 2,300 rpm or so, but on part-throttle acceleration, the drivetrain often tries to add speed with such power rather than downshifting.\n\nJaguar says the R-Dynamic hits 60 mph in a handy 5.9 seconds. We haven’t driven the base engine (a turbo four-cylinder with 246 hp and 269 pounds-feet of torque), which figures to power the vast majority of E-Paces sold, but Jaguar says it hits the mark in 6.6 seconds. That’s among the more leisurely SUVs in this crowd, though it’s hardly slow.\n\nThe E-Pace’s handling shines, but the trade-off comes in a firm ride. With quick-ratio steering and good overall feedback, the SUV is fun to throw into corners and curves. Push the car hard coming out, and you can sneak the rear wheels a tad sideways to correct some mild understeer going in — likely a credit to Jaguar’s torque-vectoring AWD system, which pairs with high-output engines (a simpler AWD system goes with the standard engine). It’s impressive enough to forget the E-Pace has front-drive roots, a setup that often diminishes balance.\n\nShock absorption is crisp and controlled, but our editors agreed that the E-Pace rides too firmly overall even with our test car’s optional adaptive shocks. With a wheelbase more akin to subcompact luxury SUVs — a group known for firm, unsorted ride quality — the E-Pace exhibits poor body control over rapid elevation changes and marginal high-speed isolation. Uneven sections of pavement induce jarring body motions, and highways drum up ceaseless, if subtle, turbulence. Smaller wheels with higher-profile tires than the 20-inchers on our test car might help some of this (lesser models go as small as 17 inches), but no matter the options, the wheelbase isn’t changing. Some of the E-Pace’s issues are fundamental.\n\nThe Inside\n\nThe wraparound interior sports straightforward controls and a handsome design reminiscent of the F-Type’s cockpit, but its confining space drew complaints from editors and front passengers alike. Hemmed in by an outcropping for the center controls, the driver’s knee clearance is limited, and the protruding upper dashboard robs front-passenger space. The backseat, by contrast, is more generous than the E-Pace’s exterior size might suggest, with acceptable knee clearance, good headroom and a comfortably high seating position.\n\nCabin materials are mostly good. Generous padding covers areas where your arms and elbows rest, and Jaguar wraps much of the dashboard in double-stitched leather, with metal accents around the air vents and gearshift. A few areas are less impressive, however: Cheap-looking, flat-black plastics adorn much of the center console and gauge surroundings. The drive-mode toggle selector feels equally cheap, and our test car’s door panels creaked under pressure. Speaking of low rent, base trims have cloth seats instead of vinyl, which is more typical of this class. Higher trims have leather.\n\nThe standard 10-inch touchscreen boasts intuitive menus and sharp graphics; a backup camera and two USB ports are also standard. Most trim levels integrate apps like Spotify and Tile courtesy of Jaguar’s InControl multimedia interface, but must-have features like Apple CarPlay, Android Auto and wireless smartphone charging are unavailable. A 12.3-inch virtual gauge display is optional, as are two Meridian premium stereos, in-car Wi-Fi and three more USB ports (for five total).\n\nYou have plenty of room to store mobile devices, too. From the deep tray ahead of the gearshift to the storage nooks around the backseat, the E-Pace impresses in a storage-deprived class. There’s even a trick partition underneath the center armrest that opens up a hidden tunnel under the cupholders. That’s for all your completely legal paraphernalia, of course.\n\nGiven the inconsistent methodology behind manufacturer-reported cargo specs, it’s best to bring your own measuring tape when you cross-shop. Behind the backseat, we measured competitive width but just 32 inches of depth — shallower by some 4 to 8 inches than seven other cargo areas we measured in Cars.com’s 2018 Luxury Compact SUV Challenge. If the other shoe had to drop somewhere for such a short car with an admirably roomy backseat, it’s here.\n\nSafety\n\nThe E-Pace has not yet been crash-tested. Standard equipment includes forward collision warning with automatic emergency braking at speeds up to 50 mph (37 mph for its pedestrian-detection function). Optional high-speed automatic emergency braking works at speeds up to 99 mph. Other options include a blind spot warning system with steering intervention, 360-degree camera systems, self-park steering, stop-and-go adaptive cruise control and lane departure steering intervention — albeit not true lane-centering steering, a feature many competitors now offer.\n\nSetting the Pace?\n\nThe E-Pace boasts driving fun and more practicality than its size suggests. Those factors, combined with Jaguar’s value-laden warranty and free maintenance provisions, should draw plenty of interest. Given consumer preference for SUVs these days, it’s no surprise the F-Pace now accounts for nearly half of all U.S. Jaguar sales, per Automotive News. The E-Pace should ride the same wave, though its size seems likely to limit broad appeal — especially since it’s priced against a larger crowd. Shop away on this fun SUV, but note the trade-offs to get there.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "P250 AWD",
+          "price": "$38600",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1200 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD S",
+          "price": "$41500",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "269 @ 1200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD SE",
+          "price": "$44300",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1200 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic S",
+          "price": "$47250",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,175 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic SE",
+          "price": "$50050",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "295 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "4,175 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic HSE",
+          "price": "$53100",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "295 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "4,175 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD First Edition",
+          "price": "$53550",
+          "specifications": {
+            "Notable features": [
+              "All-new five-seat SUV",
+              "Slots below F-Pace in size, price",
+              "Turbocharged four-cylinder engine, two power levels",
+              "Standard AWD, available torque-vectoring system",
+              "Standard automatic emergency braking",
+              "Five years’ free maintenance"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1200 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,035 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "18 gal Fuel Tank Capacity, Approx",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/66f28a28-adf7-4354-88da-a70994914edf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/b06aed9e-3f54-463b-a270-ad84ba1f6e4c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/52c453a1-d42a-4584-bdfc-1e64ae09443b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/d364ea6c-539b-48e6-b28b-2bd8c7eeaab1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/b3769bd8-1e8d-40a9-af35-966d30eb0d8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/ccf3a933-074c-4c7f-9c26-b27f93e1096c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ff9de5c9-7c0f-4d5c-9bae-922de245a163/a39bef66-7104-4b04-be3c-1ecc0c08c3c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/b0b1967a-714f-4a9f-a5cd-4a8f5ac53f3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/37968420-7eff-4c13-b616-d4f2569230bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/5f5ac075-155f-4138-a991-be490f7c1ae2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/e3f2d479-9cc4-4c84-b636-485fdb5ba1fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/dc53a054-6595-48de-b56d-faf8705ea7ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/5f2626e8-cc87-40b2-96ea-b3a18da3f317.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/4b377493-f806-4b51-b82f-fac4d0ff49cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/b5bff6cd-1966-4faa-bdc5-462cd824078b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/3685bc62-8b81-4e18-82c7-88a8a20522d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/198134c7-0a79-443f-9666-a6edfa81a898.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/f3a33b4e-d2da-46f1-a31f-6751ee7fec35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/09617ca5-c1ac-49f2-84fb-d6d446edcf6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/f13ab309-6655-46c6-84a7-cf7ec351cc68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/d688dab1-bd04-43c9-b214-30349ab9c5ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/19061422-bb65-410a-9f06-e8bd8cdeb2d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/0a737d22-b65c-4e33-813e-cfe1488ff9fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/73c15cab-af94-4534-951c-1995e5c652c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/1f781c30-465e-45e9-a3b8-d3d4d23982ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/02708e43-3325-407b-a8b0-8428377769dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/6f18c922-e976-4f43-ba31-4585a788e8a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/2f4f2b15-426e-4433-9bc0-d7e1e33ab543.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/b92cf5f2-b8da-48c9-8e68-c8c919263b5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/8f594723-58ae-4f0a-b134-de68a59b533d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/8e13d243-5db1-4d12-8c22-65188f9fe414.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5159a78b-bc3a-4c24-b7d9-78392d260401/d5218e33-cd98-4f42-891d-ff8e5cbae28d.png"
+      ],
+      "expert_review": "The E-Pace is Jaguar’s second all-new SUV in as many model years. Built off a platform that underpins the Range Rover Evoque and Discovery Sport from Jaguar’s Land Rover affiliate, the E-Pace slots below the F-Pace in Jaguar’s nascent SUV lineup. All-wheel drive and a turbocharged four-cylinder engine are standard; a higher-output turbo four-cylinder is optional. Seven trim levels range from a base model that starts at just less than $40,000 to R-Dynamic variants priced well into the $50,000s. We drove one of the latter, a well-equipped E-Pace R-Dynamic HSE.\n\nPeachy-Keen Styling\n\nBearing a hodgepodge of cues from other Jaguars ranging from the F-Type to the F-Pace, the E-Pace looks affably stubby, and that’s no easy task for what it is. Small-footprint SUVs are often awkward by design, with truncated profiles that end up as jacked-up hatchbacks or too-tall gumdrops. The E-Pace is in the latter camp, with F-Pace height but a wheelbase and overall length clipped by 7.5 inches and more than a foot, respectively. That footprint is closer in size to subcompact luxury SUVs like the Audi Q3, BMW X1 and Volvo XC40 even though Jaguar prices the E-Pace to compete against rival brands’ larger compact offerings (think Q5, X3 and XC60).\n\nIt comes together without looking ungainly, and Jaguar’s restraint on character lines and bumper openings keeps visual clutter to a minimum. Alas, it also kept the rear window to a visibility-hurting minimum. Bulky backseat head restraints make matters worse — and they don’t flip down or nest into the seat.\n\nQuick … Eventually\n\nThe E-Pace is quick from a standstill and revs energetically, but a lethargic transmission hampers performance once you’re in motion. Standard with all variants, the nine-speed automatic can hunt for gears or delay kickdown altogether when you prod the gas to pass slower traffic or accelerate out of a turn, and little improvement comes from sportier settings on the drive mode selector. At least the high-output four-cylinder in the R-Dynamic we tested (296 horsepower, 295 pounds-feet of torque) packs acceptable oomph from as low as 2,300 rpm or so, but on part-throttle acceleration, the drivetrain often tries to add speed with such power rather than downshifting.\n\nJaguar says the R-Dynamic hits 60 mph in a handy 5.9 seconds. We haven’t driven the base engine (a turbo four-cylinder with 246 hp and 269 pounds-feet of torque), which figures to power the vast majority of E-Paces sold, but Jaguar says it hits the mark in 6.6 seconds. That’s among the more leisurely SUVs in this crowd, though it’s hardly slow.\n\nThe E-Pace’s handling shines, but the trade-off comes in a firm ride. With quick-ratio steering and good overall feedback, the SUV is fun to throw into corners and curves. Push the car hard coming out, and you can sneak the rear wheels a tad sideways to correct some mild understeer going in — likely a credit to Jaguar’s torque-vectoring AWD system, which pairs with high-output engines (a simpler AWD system goes with the standard engine). It’s impressive enough to forget the E-Pace has front-drive roots, a setup that often diminishes balance.\n\nShock absorption is crisp and controlled, but our editors agreed that the E-Pace rides too firmly overall even with our test car’s optional adaptive shocks. With a wheelbase more akin to subcompact luxury SUVs — a group known for firm, unsorted ride quality — the E-Pace exhibits poor body control over rapid elevation changes and marginal high-speed isolation. Uneven sections of pavement induce jarring body motions, and highways drum up ceaseless, if subtle, turbulence. Smaller wheels with higher-profile tires than the 20-inchers on our test car might help some of this (lesser models go as small as 17 inches), but no matter the options, the wheelbase isn’t changing. Some of the E-Pace’s issues are fundamental.\n\nThe Inside\n\nThe wraparound interior sports straightforward controls and a handsome design reminiscent of the F-Type’s cockpit, but its confining space drew complaints from editors and front passengers alike. Hemmed in by an outcropping for the center controls, the driver’s knee clearance is limited, and the protruding upper dashboard robs front-passenger space. The backseat, by contrast, is more generous than the E-Pace’s exterior size might suggest, with acceptable knee clearance, good headroom and a comfortably high seating position.\n\nCabin materials are mostly good. Generous padding covers areas where your arms and elbows rest, and Jaguar wraps much of the dashboard in double-stitched leather, with metal accents around the air vents and gearshift. A few areas are less impressive, however: Cheap-looking, flat-black plastics adorn much of the center console and gauge surroundings. The drive-mode toggle selector feels equally cheap, and our test car’s door panels creaked under pressure. Speaking of low rent, base trims have cloth seats instead of vinyl, which is more typical of this class. Higher trims have leather.\n\nThe standard 10-inch touchscreen boasts intuitive menus and sharp graphics; a backup camera and two USB ports are also standard. Most trim levels integrate apps like Spotify and Tile courtesy of Jaguar’s InControl multimedia interface, but must-have features like Apple CarPlay, Android Auto and wireless smartphone charging are unavailable. A 12.3-inch virtual gauge display is optional, as are two Meridian premium stereos, in-car Wi-Fi and three more USB ports (for five total).\n\nYou have plenty of room to store mobile devices, too. From the deep tray ahead of the gearshift to the storage nooks around the backseat, the E-Pace impresses in a storage-deprived class. There’s even a trick partition underneath the center armrest that opens up a hidden tunnel under the cupholders. That’s for all your completely legal paraphernalia, of course.\n\nGiven the inconsistent methodology behind manufacturer-reported cargo specs, it’s best to bring your own measuring tape when you cross-shop. Behind the backseat, we measured competitive width but just 32 inches of depth — shallower by some 4 to 8 inches than seven other cargo areas we measured in Cars.com’s 2018 Luxury Compact SUV Challenge. If the other shoe had to drop somewhere for such a short car with an admirably roomy backseat, it’s here.\n\nSafety\n\nThe E-Pace has not yet been crash-tested. Standard equipment includes forward collision warning with automatic emergency braking at speeds up to 50 mph (37 mph for its pedestrian-detection function). Optional high-speed automatic emergency braking works at speeds up to 99 mph. Other options include a blind spot warning system with steering intervention, 360-degree camera systems, self-park steering, stop-and-go adaptive cruise control and lane departure steering intervention — albeit not true lane-centering steering, a feature many competitors now offer.\n\nSetting the Pace?\n\nThe E-Pace boasts driving fun and more practicality than its size suggests. Those factors, combined with Jaguar’s value-laden warranty and free maintenance provisions, should draw plenty of interest. Given consumer preference for SUVs these days, it’s no surprise the F-Pace now accounts for nearly half of all U.S. Jaguar sales, per Automotive News. The E-Pace should ride the same wave, though its size seems likely to limit broad appeal — especially since it’s priced against a larger crowd. Shop away on this fun SUV, but note the trade-offs to get there.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "P250 AWD",
+          "price": "$38900",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now available",
+              "Five-seat compact luxury SUV",
+              "Turbo four-cylinder engine, two power levels",
+              "Automatic emergency braking standard",
+              "Free maintenance for five years/60,000 miles"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "269 @ 1200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD S",
+          "price": "$41200",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now available",
+              "Five-seat compact luxury SUV",
+              "Turbo four-cylinder engine, two power levels",
+              "Automatic emergency braking standard",
+              "Free maintenance for five years/60,000 miles"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "269 @ 1200 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,035 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "P250 AWD SE",
+          "price": "$43900",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now available",
+              "Five-seat compact luxury SUV",
+              "Turbo four-cylinder engine, two power levels",
+              "Automatic emergency braking standard",
+              "Free maintenance for five years/60,000 miles"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "269 @ 1200 SAE Net Torque @ RPM",
+              "246 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,035 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic S",
+          "price": "$46700",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now available",
+              "Five-seat compact luxury SUV",
+              "Turbo four-cylinder engine, two power levels",
+              "Automatic emergency braking standard",
+              "Free maintenance for five years/60,000 miles"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "295 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,175 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic SE",
+          "price": "$49400",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now available",
+              "Five-seat compact luxury SUV",
+              "Turbo four-cylinder engine, two power levels",
+              "Automatic emergency braking standard",
+              "Free maintenance for five years/60,000 miles"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "296 @ 5500 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,175 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "P300 AWD R-Dynamic HSE",
+          "price": "$53200",
+          "specifications": {
+            "Notable features": [
+              "Apple CarPlay, Android Auto now available",
+              "Five-seat compact luxury SUV",
+              "Turbo four-cylinder engine, two power levels",
+              "Automatic emergency braking standard",
+              "Free maintenance for five years/60,000 miles"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "295 @ 1500 SAE Net Torque @ RPM",
+              "296 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,175 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

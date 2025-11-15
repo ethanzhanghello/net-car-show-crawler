@@ -1,0 +1,56 @@
+{
+  "make": "ferrari",
+  "model": "360_spider",
+  "years": {
+    "2004": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/76aa9128-a6f9-41dc-883e-9999df2a1569/227a0d71-badd-47c4-9523-2cdb4d99c0ec.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_149900",
+          "price": "$149900",
+          "specifications": {}
+        }
+      ]
+    },
+    "2000": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2002": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0fe1c894-ccc5-4a90-b819-8b020f22b048/5f0d6fa5-e45f-4be8-a772-71b921144ff5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2003": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/af1c34a9-ac34-44b4-bd57-7f3eee63045d/f9afbe6f-3a34-41ce-a362-06f35ddbc086.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

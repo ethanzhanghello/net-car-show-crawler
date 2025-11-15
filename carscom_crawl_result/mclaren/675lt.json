@@ -1,0 +1,121 @@
+{
+  "make": "mclaren",
+  "model": "675lt",
+  "years": {
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/064fdb49-d364-4dce-af60-759140c19d88.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/4541329f-f9fd-4280-843b-ef6b82707b48.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/495aed49-98ff-42d5-879f-d8745938f278.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/9c34346e-7459-4cfb-a8e7-8dcbce5a3300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/3d463a60-d90e-4852-bc1e-ed836a01ae17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/1345ded7-6eae-4e38-b334-3108224b3b70.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/9c34346e-7459-4cfb-a8e7-8dcbce5a3300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/23e758ef-bf8e-461f-86d2-33f62ecdcce0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/3a815c27-d56e-4f1a-a474-0eec005d2b0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a75ef53-f316-45d5-a4c0-64de1653214c/3637b4af-57b1-453b-94da-0677aa34f4fa.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe",
+          "price": "$349500",
+          "specifications": {
+            "Highlights": [
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.8 L/232 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "666 @ 7100 SAE Net Horsepower @ RPM",
+              "516 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,927 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv Spider",
+          "price": "$372600",
+          "specifications": {
+            "Highlights": [
+              "2 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.8 L/232 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "516 @ 5000 SAE Net Torque @ RPM",
+              "666 @ 7100 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,016 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

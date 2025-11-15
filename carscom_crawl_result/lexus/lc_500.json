@@ -1,0 +1,1042 @@
+{
+  "make": "lexus",
+  "model": "lc_500",
+  "years": {
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/d6c83eaa-99dc-43c6-b694-5402c76f6a17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/1fa0fcba-b58b-4308-8dc6-f94ddad6c6bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/52e0e8d1-4422-4be5-bddd-f2c308757822.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/b3d4ed80-98f5-46cd-8b0c-c9fa277da7a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/124642a3-27db-4a49-af71-152450abc8b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/0d0f37ca-b112-491a-9517-8463c3c2692a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/737bbef5-799f-4465-9a18-a52eb681c1da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/afe1f137-4a34-4722-a3ba-bc6382d3ba19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/0b8e0b19-7c1d-462e-b619-112191f145d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/3c4f3d3f-2bfb-46e5-a39d-bbbbf68bb3a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/670ee160-51f7-45ea-af15-e3d36b34c0ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/a618bc27-00b0-4fb8-9eaa-22e78b3dd2ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/ae62be0e-0dcb-4e5d-be96-f17a16485347.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/361a9505-5ad0-4149-808e-f3e88ae54a2a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/cfd7a5aa-401b-462b-90be-fd05561307c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/95c16802-66f9-4a7b-8009-6373c9725f44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/9a21c721-4f5c-4a67-bba8-0301f15c1573.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/4cc8b9e3-4527-4ac7-b115-1c6da6cfd807.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/a2402807-f92f-41c2-8395-ec12d4f1eb3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/d6c83eaa-99dc-43c6-b694-5402c76f6a17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/aa89c333-48ab-4d8d-a4f3-a32df2e29fb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/6932763f-ca11-454c-b250-4657af10b9ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/0b2d4447-5fdc-48a5-a65f-fc3690ecb8a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/1fe9726e-fe7f-4c6b-bd6a-d7939a542624.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/3ffd20ea-ac1e-4716-8f39-42426cc2bc12.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/f3c60299-58a3-4dfa-8ab0-cf1dfac2d8cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/16ff7cce-c16b-4383-b4bc-2f88fa3425ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/00a613a7-4c14-48a9-b0f2-c07df2cd7249.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/568a17f9-c9f2-4f92-8983-c596c97fcfc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/3030e003-2bdc-4308-b65a-bb6a77c2baee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/e96691d2-e5a6-4677-8530-797395269149.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4fa576fb-7e53-4683-8a19-8b7ef0301cb7/f4f66093-c16e-40af-9a3d-f0c29157c4cc.png"
+      ],
+      "expert_review": "Everyone has “deal-breakers,” certain non-negotiable traits in a person or features on a product that make things like relationships or purchases untenable. Some of my relationship deal-breakers include being a murderer, thinking brushing your teeth is “optional” and playing the ukulele. And when it comes to cars, one of my chief deal-breakers has been Lexus’ awful Remote Touchpad multimedia system, which for some reason requires occupants to use a touchpad to navigate the screen. Yet after spending a weekend driving around Chicago in the 2020 Lexus LC 500, I’m so enamored with the grand tourer, I don’t even care that Lexus gave it the Remote Touchpad.\n\nRelated: Want a Lexus LC 500 That Stands Out Even More? Peep the Inspiration Edition\n\nThe LC 500 is a terrific marriage of futuristic styling, a luxurious interior and a powerful V-8 engine. The LC 500’s 5.0-liter V-8 produces 471 horsepower and sends that power to the rear wheels through a smooth-shifting 10-speed automatic transmission. It has a lovely exhaust note and enough power to make street driving feel effortless, a quality you should want in a grand touring vehicle.\n\n2018 Lexus LC 500 | Cars.com photo by Fred Meier\n\nFew 3-year-old car designs garner as much positive attention as one gets in the LC — particularly in our test car’s beautiful Flare Yellow paint, a color that first appeared on the LC 500 in 2019 as part of a 100-car limited edition. Any equally old design that might get you a thumbs-up from someone in the car next to you probably costs a lot more than this particular LC 500’s $106,440 price tag.\n\nInside, the interior is not only comfortable and full of high-quality materials, but it also has the same sort of flowing beauty as the exterior. And I found that it’s user-friendly — for the most part — with most controls in logical and easy-to-reach locations.\n\nAll of those qualities allow me to overlook how terrible it is to use a touchpad for making selections on the multimedia screen. Thanks to physical tuning and volume controls, however (and just how hard it is to keep a smile off my face while driving the LC 500), I think I’d be able to handle the hassle Remote Touchpad introduces, particularly when controlling something like Apple CarPlay.\n\nSenior Consumer Affairs Editor Kelsey Mays is not so easily swayed by the LC’s positive qualities. In one particular instance, while using Google Maps navigation via Apple CarPlay, he was unable to make a selection regarding an alternative route before the choice timed out because he could not successfully direct the Remote Touchpad system to highlight that option.\n\nLexus’ Remote Touchpad system is the lowest-rated infotainment system in Consumer Reports’ Built-In Systems user satisfaction ratings, yet Lexus still puts it into what is otherwise a fantastic car. In the case of the LC 500, it doesn’t matter to me.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/5498f868-f442-4821-a57d-b99ae66a4ae9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/6bbf6dc1-7449-41b0-a67f-c9a230f6589a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/f2fd0531-7078-4bb1-9835-cf2ebc97f43f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/56fe93af-c8a0-4293-94b7-a134e02f00d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/7363bc4a-7713-4e3c-9dd4-8ae9d3287294.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/b678e9fc-97ec-4e94-9768-8d93b2c643b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/e2bf1a50-1e3b-4712-90f2-505ac7ce9115.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/0c547be3-317b-4341-8ff9-2e6ac3120dc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/f2631a39-9028-485c-aa70-6cd7d307f21b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/b56b1695-8033-4cc9-b437-2741072f858c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/e62c7972-de95-43b9-ac49-b052571dc202.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/913bd546-bae8-4874-ae2a-2a1437c90fc3.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/9e11ed57-6fdc-4170-bb98-763ac530eb4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/1054ec84-171a-4f58-a78f-6d0b3bcd9370.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/414a018b-b29c-4f29-a90b-873f43e4cff5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/3c6b2523-32f1-4ba5-92e2-a2b8bf641c0d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/3c6b2523-32f1-4ba5-92e2-a2b8bf641c0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/acc6521b-6fdc-4b78-8009-6ba99dc2f7df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/f4915fb2-d16c-4d4f-ae17-ea93ddd2b6bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/36969c3a-5b96-490a-a2c8-1912947a7ec8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/313cf361-1fec-40f3-bf2d-d43b59e228b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/479bff63-c24a-4c7c-809f-3ce0a64b812d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/9dfd21fc-02f5-48b7-97b1-b6785f8fd04e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/3fdfe08f-3c9b-4751-b0c5-d0c5e006ab04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/74e8acbb-ae0a-423e-969e-79df61af70f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ff2caf05-0230-4796-9bb9-58857089a0f8/0675969f-2ab1-4505-9791-e0b13fdeb55f.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_121600",
+          "price": "$121600",
+          "specifications": {}
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/d883d3b8-b1f8-4480-995c-3f56f71fe169.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/f0c6a78f-a320-48df-b061-008027c8e315.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/ae1c721d-33e3-4baf-a860-c879be2e74bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/11cff4ba-07f0-4b9b-8987-add983d4701a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/dac3640b-bac4-4e10-a9f2-b21bf9de3582.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/d1435d69-f081-42da-a136-f7cf145e2bdd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/9254df55-f6c6-42f1-939a-0eaf71934b1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/120f1f90-1a5b-438b-b100-c5f1b9e1b767.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/b41d9fac-d65e-4d5f-8aec-c8dfdf6cefd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/d8874d8c-6239-4bca-aba6-19768d8f5e64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/d789c824-c774-4787-9c91-b6708300b34b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/1c8f2963-d37c-4b5c-8761-ea017e1d6eed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/ced7f2c2-8e83-475f-8a18-2aa5cd284894.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/6a6d9f99-b96a-4c7f-b87d-9fa68bd16aee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/304db156-ad4e-4e24-9e73-af655bb23601.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/47192b3a-c9f2-4ba8-892d-65f1537acb7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/f235c5cf-7989-4119-8b8f-a67a676c7930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/b2e1c2a2-a910-4d34-a429-5f71c55db8f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/694f4713-4d48-4f0e-9443-fc290ed4bd10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/d508b64c-9c6e-4e81-b0a3-e2693578a00a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/d01f2170-8d98-4078-9776-cc49e6ba9d3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/a786a4fe-7f57-4f03-bf9d-698ba4b4c475.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/420c352e-e32e-41e1-ba27-269a289867a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/2a590e52-4573-4a73-b522-3cba3ef26a1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/a9b2db0b-3b86-4ecb-b836-254bd8f803b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/57ce651c-4372-4bd7-b634-9939d562fa91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/5e06229b-2098-49ad-a8f6-fc80b23eebcc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/f643dcc9-63d3-4952-a2db-51528d1e3426.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/b41d9fac-d65e-4d5f-8aec-c8dfdf6cefd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/6a87022d-b6a5-4ae8-aa63-ccd4e9e3a736.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/e544b560-f21d-477e-a4af-ddf0cdd59248.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/372fafcc-056f-4594-b495-712b4ad5ad72/dedb7931-2437-4e01-a6cd-a8ff8a0da5c1.png"
+      ],
+      "expert_review": "I didn’t think I was superficial; I prefer a car that drives well and looks unexceptional over the opposite. But then I met the new 2018 Lexus LC 500, and I began to question a few things.\n\nThe Lexus LC 500 isn’t a sports car. It’s heavy, doesn’t steer all that well and has a happy back end that gets twitchy when you push it. But it’s absolutely fantastic as a grand tourer — quiet, with a big engine and a well-appointed interior. In fact, I can’t think of another car I’d rather take a road trip in (provided I could fit all my luggage in the tiny coupe trunk). But none of that really matters because, I mean, look at it.\n\nNow look again. I’ll wait.\n\nThe LC 500 competes against luxury sports/touring cars like the BMW 650i, Mercedes-Benz SL450 and Jaguar F-Type. Compare the LC 500 against those vehicles here.\n\nPricing for the Lexus LC starts at $92,995 (including destination charge). The LC only comes in one trim, but with plenty of options and none of the exclusivity of the LFA. Our test vehicle also had a Performance Package With Carbon (which ads a carbon fiber roof and high-dollar leather seats) and a color head-up display that pushed its sticker price to $103,895.\n\nStylin’ and Profilin’\n\nIf you don’t like being stared at, do not buy this car.\n\nThis is the first Lexus in quite some time to evoke real desire (especially in this wonderful red paint that Lexus calls “Infrared”), and it seems to have this effect not only on me but on lots of other folks, as well. I was engaged by more onlookers while driving this vehicle than I have been in anything else I’ve tested. People driving by in everything from hybrids to minivans would lean on the horn as I went by and offer a quick thumbs-up or a few choice expletives to communicate their thoughts.\n\nLexus’ spindle-shaped grilles have inspired both admiration and consternation, and as time has gone by, they’ve gotten more and more spindly. I don’t think the design works with all models, but on the Lexus LC 500 it matches the rest of the bonkers styling details perfectly. And if you get up close to the grille, you can see that the mesh widens out the farther you get from the large Lexus logo in the center.\n\nThat speaks to the remarkable attention to detail given to every part of the exterior, from those crazy LED projector headlamps to the chrome detailing dripping from the taillights — even the weirdly attractive shape of the side mirrors.\n\nHow does the LC 500 drive? That’s a bit more complicated.\n\nHow It Drives\n\nLet’s start with what Lexus nailed: the engine and transmission. Instead of going the forced-induction route that so many luxury automakers are taking, Lexus stuck with a naturally aspirated 5.0-liter V-8 that makes 471 horsepower and 398 pounds-feet of torque. It’s one of the quicker-revving rear-wheel-drive V-8 engines I’ve come across, which is helpful because maximum torque doesn’t kick in until 4,800 rpm. Power delivery in this Lexus LC is super smooth, with none of the jumpiness that can result from a turbocharger.\n\nLexus also did a fantastic job with the engine note. Flip the stalk to the right of the instrument panel to Sport S Plus, and the active exhaust system opens up fully, treating you (and everyone around you, it should be noted) to a delightful roar with an appropriate burble on quick downshifts. Don’t want to wake the neighbors? The other drive modes tone down the audio to more reasonable levels.\n\nBefore driving the Lexus LC, I was a bit wary. I’ve had some experience with Lexus’ eight-speed automatic transmissions in the past, and those have been … frustrating. But the 10-speed automatic (the only transmission available in the LC coupe; sorry manual fans) was surprisingly delightful. It held gears at the right times in regular and aggressive driving, shifted quickly when using the paddles and was responsive to throttle inputs.\n\nThe all-new LC 500 also features a standard adaptive suspension that is intended to give the LC 500 a bit of a dual nature: comfortable and sporty. But the suspension definitely trends more in the comfortable direction. Even with the LC 500 in Sport S Plus, its most aggressive setting, there’s still a good amount of body roll and a tendency to understeer when pushed hard into corners.\n\nThis is due in part to the sheer size of the LC: It’s a big car. At 187.4 inches long, it’s about 10 inches longer than a Chevrolet Corvette (which is big in its own right) and has a substantial curb weight of 4,280 pounds. That’s a lot of mass to pull through a corner, and even with the adaptive suspension dialed all the way up, it struggles to keep the car balanced. The LC 500 is much more at home on straighter roads, where the engine gets to breathe and the suspension isn’t as taxed.\n\nThe Lexus LC’s ultimate destiny lies as a touring car. And it excels at that mission, with plenty of power underfoot and a very comfortable ride. I can’t think of another car right now that I’d rather do 300 miles in.\n\nFuel economy ratings are 16/26/19 mpg city/highway/combined on premium gasoline.\n\nInterior and Cargo\n\nA deft hand when it comes to interior materials and design means the LC 500 more than lives up to its hefty price tag.\n\nOne feature of the Lexus LC 500 reminded me of the Corvette’s cockpit: a prominent handle on the center console that gives the passenger something to grab if things go sideways.\n\nThe multimedia infotainment system has a 10.3-inch widescreen display that sits prominently atop the dash. There’s a large touchpad mounted low in the center console, where the driver’s right hand rests, that required a large learning curve to use, but I did ultimately find it better than the “mouse”-based system Lexus uses in some of its other vehicles. My biggest issue with it is that it requires you to look at the screen quite a bit to make inputs — more so than some touchscreen-based systems. With the touchpad, I found myself looking at the screen frequently when using it to see which buttons were highlighted and what I was selecting. My instinct was to treat it almost like a mouse cursor on a laptop — fine in that application, but it made me nervous when driving.\n\nTwo rear seats are present, but they don’t really do anything — not even a child will fit back there. Cargo room is also at a premium, as the trunk measures only 5.4 cubic feet. I was able to fit one larger piece of luggage in back, but no way could you fit two. That’s what the backseat is for, I guess.\n\nFunction Follows Form\n\nA philosophy of modernist architecture states that the form of a building should follow its function. Structure comes first, then the look and shape of it should bend to fit that function. The LC 500 flips that convention on its head: Everything else about the car — including its literal backseat — takes a backseat to how it looks, and rightfully so. It’s art.\n\nYes, the driving experience is a bit uneven and there isn’t much practical space outside the two front seats. Those shortcomings did nag at me from time to time, but then I’d walk up to the LC 500, see it sitting there, and my mind would go blank. Apparently I’m superficial, and this is my ruby-red, V-8 kryptonite.\n\nEditor’s note: This review was updated on September 8, 2017, to reflect that the LC 500 comes with a standard adaptive suspension.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/030ba3c9-ab4a-4e7d-b9cb-76288da4f36d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/cb028a02-865e-41f1-a8c7-772acf8bc07d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/93c0fc65-3949-4b67-8b41-bc637fb7dc53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/f675d02a-43ca-47d6-86b4-4d70c104aa1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/f8d60ead-d5de-4e3a-8d49-9b66128bd903.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/54d586ee-7293-40ab-8605-076e3e7d7dcf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/dda70195-50b6-40d1-9daf-37a142f5adc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/68444759-32b4-41a2-9356-67b69b18f747.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/a12c1a3d-e6a4-4332-84fb-aa0de183d864.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/54a515ba-54f2-470d-8be0-f654ed5deed5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/0103bb38-19af-46e8-80ff-9ac9910e2847.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/59d8b7d5-72fe-43ae-891f-0cf393b515d6.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/a12c1a3d-e6a4-4332-84fb-aa0de183d864.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/878c39d3-c759-4810-99f7-0d91072ad0cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/7e3897ba-dab4-4b71-afb2-4c541b86fcc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/d2fc9458-f1b9-4860-a8e5-abe296f05e3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/52d8336e-9926-4a3a-8aca-f63cae6bb962.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/47b22ce1-8724-40be-90f6-e4d57cb8f3ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/5e71c269-8fab-46c3-9fe3-b665c6947263.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/79f7a20d-460a-4541-9c07-08f208bdca1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/db7148d3-8e43-476a-bb2b-32565b04848d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/9d9dff39-79b7-4ec6-bf0b-8537095dc653.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/51f87ae9-29e9-4256-993c-864a48e99f64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/dc28c30f-e811-40f4-bf3d-5f3b861c9654.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/57913bee-edff-4abd-a58f-d1f999f96f2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/448f630f-199e-4d92-9e7e-00dd3fc5d4f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/1981ae0f-1346-4c1a-8770-7bba5699729e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/216328c1-439e-4f4e-8c2f-2a9b8281d5d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/01cde3f6-2ffe-4543-91ad-8c2ff428e685.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/6d441e37-36ba-48ce-8b59-d637c6fe59f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/aa4678c5-7669-4a52-ade8-4091cfd939da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a5a52389-e3b3-49cc-a50f-17e0bf7e650c/e0f87136-f804-4ba6-a16e-3d966f57ed8a.png"
+      ],
+      "expert_review": "I didn’t think I was superficial; I prefer a car that drives well and looks unexceptional over the opposite. But then I met the new 2018 Lexus LC 500, and I began to question a few things.\n\nThe Lexus LC 500 isn’t a sports car. It’s heavy, doesn’t steer all that well and has a happy back end that gets twitchy when you push it. But it’s absolutely fantastic as a grand tourer — quiet, with a big engine and a well-appointed interior. In fact, I can’t think of another car I’d rather take a road trip in (provided I could fit all my luggage in the tiny coupe trunk). But none of that really matters because, I mean, look at it.\n\nNow look again. I’ll wait.\n\nThe LC 500 competes against luxury sports/touring cars like the BMW 650i, Mercedes-Benz SL450 and Jaguar F-Type. Compare the LC 500 against those vehicles here.\n\nPricing for the Lexus LC starts at $92,995 (including destination charge). The LC only comes in one trim, but with plenty of options and none of the exclusivity of the LFA. Our test vehicle also had a Performance Package With Carbon (which ads a carbon fiber roof and high-dollar leather seats) and a color head-up display that pushed its sticker price to $103,895.\n\nStylin’ and Profilin’\n\nIf you don’t like being stared at, do not buy this car.\n\nThis is the first Lexus in quite some time to evoke real desire (especially in this wonderful red paint that Lexus calls “Infrared”), and it seems to have this effect not only on me but on lots of other folks, as well. I was engaged by more onlookers while driving this vehicle than I have been in anything else I’ve tested. People driving by in everything from hybrids to minivans would lean on the horn as I went by and offer a quick thumbs-up or a few choice expletives to communicate their thoughts.\n\nLexus’ spindle-shaped grilles have inspired both admiration and consternation, and as time has gone by, they’ve gotten more and more spindly. I don’t think the design works with all models, but on the Lexus LC 500 it matches the rest of the bonkers styling details perfectly. And if you get up close to the grille, you can see that the mesh widens out the farther you get from the large Lexus logo in the center.\n\nThat speaks to the remarkable attention to detail given to every part of the exterior, from those crazy LED projector headlamps to the chrome detailing dripping from the taillights — even the weirdly attractive shape of the side mirrors.\n\nHow does the LC 500 drive? That’s a bit more complicated.\n\nHow It Drives\n\nLet’s start with what Lexus nailed: the engine and transmission. Instead of going the forced-induction route that so many luxury automakers are taking, Lexus stuck with a naturally aspirated 5.0-liter V-8 that makes 471 horsepower and 398 pounds-feet of torque. It’s one of the quicker-revving rear-wheel-drive V-8 engines I’ve come across, which is helpful because maximum torque doesn’t kick in until 4,800 rpm. Power delivery in this Lexus LC is super smooth, with none of the jumpiness that can result from a turbocharger.\n\nLexus also did a fantastic job with the engine note. Flip the stalk to the right of the instrument panel to Sport S Plus, and the active exhaust system opens up fully, treating you (and everyone around you, it should be noted) to a delightful roar with an appropriate burble on quick downshifts. Don’t want to wake the neighbors? The other drive modes tone down the audio to more reasonable levels.\n\nBefore driving the Lexus LC, I was a bit wary. I’ve had some experience with Lexus’ eight-speed automatic transmissions in the past, and those have been … frustrating. But the 10-speed automatic (the only transmission available in the LC coupe; sorry manual fans) was surprisingly delightful. It held gears at the right times in regular and aggressive driving, shifted quickly when using the paddles and was responsive to throttle inputs.\n\nThe all-new LC 500 also features a standard adaptive suspension that is intended to give the LC 500 a bit of a dual nature: comfortable and sporty. But the suspension definitely trends more in the comfortable direction. Even with the LC 500 in Sport S Plus, its most aggressive setting, there’s still a good amount of body roll and a tendency to understeer when pushed hard into corners.\n\nThis is due in part to the sheer size of the LC: It’s a big car. At 187.4 inches long, it’s about 10 inches longer than a Chevrolet Corvette (which is big in its own right) and has a substantial curb weight of 4,280 pounds. That’s a lot of mass to pull through a corner, and even with the adaptive suspension dialed all the way up, it struggles to keep the car balanced. The LC 500 is much more at home on straighter roads, where the engine gets to breathe and the suspension isn’t as taxed.\n\nThe Lexus LC’s ultimate destiny lies as a touring car. And it excels at that mission, with plenty of power underfoot and a very comfortable ride. I can’t think of another car right now that I’d rather do 300 miles in.\n\nFuel economy ratings are 16/26/19 mpg city/highway/combined on premium gasoline.\n\nInterior and Cargo\n\nA deft hand when it comes to interior materials and design means the LC 500 more than lives up to its hefty price tag.\n\nOne feature of the Lexus LC 500 reminded me of the Corvette’s cockpit: a prominent handle on the center console that gives the passenger something to grab if things go sideways.\n\nThe multimedia infotainment system has a 10.3-inch widescreen display that sits prominently atop the dash. There’s a large touchpad mounted low in the center console, where the driver’s right hand rests, that required a large learning curve to use, but I did ultimately find it better than the “mouse”-based system Lexus uses in some of its other vehicles. My biggest issue with it is that it requires you to look at the screen quite a bit to make inputs — more so than some touchscreen-based systems. With the touchpad, I found myself looking at the screen frequently when using it to see which buttons were highlighted and what I was selecting. My instinct was to treat it almost like a mouse cursor on a laptop — fine in that application, but it made me nervous when driving.\n\nTwo rear seats are present, but they don’t really do anything — not even a child will fit back there. Cargo room is also at a premium, as the trunk measures only 5.4 cubic feet. I was able to fit one larger piece of luggage in back, but no way could you fit two. That’s what the backseat is for, I guess.\n\nFunction Follows Form\n\nA philosophy of modernist architecture states that the form of a building should follow its function. Structure comes first, then the look and shape of it should bend to fit that function. The LC 500 flips that convention on its head: Everything else about the car — including its literal backseat — takes a backseat to how it looks, and rightfully so. It’s art.\n\nYes, the driving experience is a bit uneven and there isn’t much practical space outside the two front seats. Those shortcomings did nag at me from time to time, but then I’d walk up to the LC 500, see it sitting there, and my mind would go blank. Apparently I’m superficial, and this is my ruby-red, V-8 kryptonite.\n\nEditor’s note: This review was updated on September 8, 2017, to reflect that the LC 500 comes with a standard adaptive suspension.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/c768010c-80ac-4b6a-ad0c-624127a1c378.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/81e36b9e-6822-4d9b-9c7b-a4adfac20a2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/76dec1d7-eb8d-4f7a-8815-05f681272686.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/cfb12dc6-f378-4b3e-a8bc-5e58ccab3e70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/53152838-fd4e-4475-8704-76bdfab24721.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/899d66b3-a438-414e-8181-15cc6bc9829c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/fa21fed9-f48f-4e18-a616-f144f8dfeb9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/2c10458d-ea15-449e-b132-0f8e6aa2fd4b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/cfb12dc6-f378-4b3e-a8bc-5e58ccab3e70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/37254115-a76f-4c20-b564-5cac5e0e2478/4ddcd4a0-2fe2-41db-8af2-c4736c5ea993.png"
+      ],
+      "expert_review": "What Is the 2023 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door has a choice of two powertrains: The LC 500 has a 471-horsepower, 5.0-liter V-8 engine and a 10-speed automatic transmission, while the LC 500h has a 354-hp hybrid drivetrain. Both versions are rear-wheel drive. Competitors include the BMW M850i and Jaguar F-Type.\n\nWhat’s New on the 2023 Lexus LC?\n\nLexus says it’s retuned the LC’s suspension for improved dynamic handling and road feel. Otherwise, there are no significant changes for 2023.\n\nWhat Features in the 2023 Lexus LC Are Most Important?\n\nStandard features include:\n\n20-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 10.3-inch screen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include:\n\n20- or 21-inch forged-aluminum wheels\nCarbon-fiber roof\nGlass roof\nHeated steering wheel\nSemi-aniline leather upholstery\nAlcantara-trimmed seats\nMark Levinson surround-sound system\nHead-up display\nLimited-slip differential\nSpeed-activated rear wing\nTorsen limited-slip rear differential\nPerformance brake pads\nShould I Buy the 2023 Lexus LC?\n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics, though it skews more to the luxury end of the spectrum than the pure sports car end. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important, you’ll want to shop around.",
+      "trims": [
+        {
+          "name": "LC 500 Coupe",
+          "price": "$94450",
+          "specifications": {
+            "Notable features": [
+              "Bespoke Build personalized version available",
+              "Four-seat coupe or convertible",
+              "471-hp V-8 engine (LC 500)",
+              "354-hp hybrid drivetrain (LC 500h)",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "16 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,340 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LC 500 Convertible",
+          "price": "$102500",
+          "specifications": {
+            "Notable features": [
+              "Bespoke Build personalized version available",
+              "Four-seat coupe or convertible",
+              "471-hp V-8 engine (LC 500)",
+              "354-hp hybrid drivetrain (LC 500h)",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,540 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/d94853b2-d678-473f-9a2f-17955c5f44ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/74331fec-3160-432c-9db7-4bb9daea93a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/4e68e6fb-707e-4d8d-9ae3-d09aa386997a.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/0ccc1ba3-4b2a-47d3-a771-445220e4e8e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/b49a9865-4345-4d33-bbbe-4f500f2d1912.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/6187f9c6-476d-4588-b452-73ff5d22e922.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/16eef384-75ce-4e94-a2cf-0748428385ca.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/844c5c9b-432f-44e4-8946-de1ef2f551fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/fc24a04d-503b-4c6f-ba44-09287cc5186c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/a1dd4b95-7d14-4d2f-b848-aa4e895eaee0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/6a161a29-40f2-4622-a58d-b6322de3b7fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/67c2d922-f928-4c16-a9dd-3d57ffeb0106.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/4932f0d3-a33b-4cfb-93cd-54d6b6a36249.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/737aff3d-8461-4703-bcfd-f05886955e89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/5c53a7ea-7fd5-4129-953c-8c28e6bf228c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/844c5c9b-432f-44e4-8946-de1ef2f551fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/a17a2b15-207e-4776-9875-c1b9b8a3d91c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/af453138-c35a-4d1f-afb7-921c9a1db845.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/8b0f3048-419c-492e-9f0a-6069a2af1aed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/1aea3605-cd39-4b2f-b2b2-87bdd5ff3636.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/8a1078b6-ae5f-4e3d-8c94-afc87d2d33e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/69b998b8-693c-4c2f-a21e-96219e7cbf94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/0cdd3ccb-cc87-4ae9-a0d7-dde09f457608.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/04e2a485-faa8-4e69-be58-44c58cb8c2a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f46dfdd2-1930-497a-803f-62eb54560568/face8281-056f-49c7-8a72-660933222dcf.png"
+      ],
+      "expert_review": "The verdict: Striking style, glorious V-8 power and noise, and a meticulously crafted interior make the Lexus LC 500 convertible feel like a Japanese Aston Martin.\n\nVersus the competition: Easily more distinctive than most of its competitors, the Lexus LC 500 provides a smoother, more luxurious experience than many British or German luxury grand tourers, with reliability expected to outperform just about anyone, regardless of price.\n\nA grand tourer is meant to be a special vehicle, but it can be a little hard to define. Take the 2024 Lexus LC 500: Despite its powerful V-8 engine, electronically adjustable suspension, 2+2 cabin and incredibly swoopy concept-car styling, it’s not a sports car. Like many other expensive luxury two-doors, it’s a grand tourer — a vehicle that can still deliver stunning speed, rewarding handling and plenty of fun on twisty roads, but which aims to do so while coddling its occupants in a quiet cabin awash with luxurious materials. An old Jaguar advertising tagline is perfect for describing the LC 500’s role: “grace, space and pace.”\n\nThe LC 500 packs all three of these descriptors in one head-turning package, and it’s been doing so for seven model years. For 2024, it sees one notable change: The old, absolutely horrible touchpad-based multimedia system is binned in exchange for a proper touchscreen system. With the exception of some new color combinations and a limited-run Inspiration Series version, the rest of the car has been left alone — and that’s a very, very good thing.\n\nRelated: A Better Mousetrap: 2024 Lexus LC 500 Gets New Infotainment System, Starts at $98,850\n\nNot Traditionally Beautiful, But Certainly Striking\n\nLooks are subjective, but one thing everyone can absolutely agree on is that the LC 500’s styling is striking. It looks like nothing else on the road today, full of little elements and flourishes that immediately set it apart from its contemporaries. It is perhaps the best expression of the Lexus “spindle grille” design aesthetic the brand has yet produced, and it’s also perhaps the only example in the entire Lexus lineup where it fits with the rest of the car. It’s a stunning design that looks just as fresh now as it did when it was first introduced. The coupe is arguably the better looking of the two body styles, as the convertible’s soft top interrupts the flowing roofline with an awkward upswept chop just behind the doors; it’s especially apparent when the top is down. There are no such issues with the coupe’s styling. That said, my test vehicle was the convertible, and I didn’t mind in the slightest.\n\nThat rakish windshield and low top mean headroom inside is tight, but the headliner is soft and stretchy, so despite my head being hard up into it, I didn’t mind at all. When the top is down (which is how this car is meant to be driven), it isn’t an issue. One nice surprise is that the top doesn’t eat into trunk space at all, which can’t be said of competitors like the latest Mercedes-AMG SL. There’s not a huge amount of trunk space to begin with, but it’s easily adequate for a weekend getaway for two (if you pack soft-sided duffle bags) or for one full-size set of golf clubs. \n\nLet’s talk about that paint on my test car. It’s called Copper Crest, and it’s a metallic, pearlescent copper/rose-gold hue that is absolutely stunning, especially in direct sunlight. It’s available with Lexus’ Bespoke Build option, which is new this year on the convertible. It allows customers to mix and match paint colors, interior hues, top colors, wheels and styling add-ons to create their own LC 500. On my test convertible, Lexus combined that Copper Crest metallic paint with a new white-and-blue leather interior, and while the combination might not be what I’d have chosen (that’d be a Nori Green exterior with a Toasted Caramel interior), it is definitely a head-turner. I took the LC 500 to my local Cars & Coffee, and it was a hit largely because most people in Michigan haven’t ever seen an LC 500 before despite it being on the market for the better part of a decade. \n\nThe Best Interior in the Lexus Showroom\n\nIt would have been easy to give the LC 500 a boring interior given how much styling effort was granted to the body, but that’s not what Lexus did. The LC 500’s interior is quite possibly the best one Lexus offers right now in terms of quality, design, usability and sheer luxury feel. It’s opulent, it’s beautiful, and it feels solid and immaculately constructed. It’s also incredibly comfortable, with seats that are large, supportive and highly adjustable — at least up front. The rear seats are only suitable for children or emergency situations; they’re not properly sized for adult humans. Leather quality is excellent, the controls and buttons all feel expensive, and unlike a lot of new Lexus interiors, it doesn’t feel built to a price point. None of the knobs wobble (like I noticed in the latest Lexus GX I drove a month ago), and the shifter didn’t feel loose in my hand. It’s a proper luxury interior that befits the car’s price and positioning. It’s reminiscent of Lexus models of 20-30 years ago, when innovation, solidity and an absolute relentless attention to quality were the priority — before Lexus became just another luxury brand. I miss that Lexus, and the LC 500 takes me back there.\n\nRelated Video:\n\nBesides the new white-and-blue interior, the other big change for 2024 is the addition of the automaker’s Lexus Interface, which brings a 12.3-inch touchscreen to the party. A mildly reskinned version of the new Toyota Multimedia System, it’s the same multimedia system found in all other new Lexuses, and it’s hard to overstate how big an improvement it is over the car’s old system. Using the old system was akin to trying to use a laptop trackpad while barreling down an interstate highway; the new one works just like any other touchscreen setup, although our complaints about the system in other Lexus and Toyota vehicles carry over here: There’s no home screen with card-style icons, which is unfortunate, and there’s a lot of wasted screen space with this software. Wireless Apple CarPlay and Android Auto are standard, however, and they do help mitigate our disappointment. Regardless of the system’s flaws, it means Lexus has done away with the one feature that used to make me feel like I couldn’t recommend this car to buyers, so kudos to the brand there.\n\nThat Glorious (but Disappearing) Sound\n\nThe best part of any convertible is hearing the soundtrack the vehicle’s engine makes. This is unlikely to be a factor for much longer in our age of encroaching electrification, but as of now, a few high-end cars still offer V-8 engines, including this one. The LC 500’s standard powertrain is a naturally aspirated 5.0-liter V-8 that makes a stout 471 horsepower and 398 pounds-feet of torque. That might not sound like much in an era where supercharged V-8s make in excess of 800 hp, but raw power isn’t the point here — refined power is. Lexus’ 5.0-liter V-8 (which can now be found only under the hood of the LC, the IS 500 sedan and the RC F coupe) is a glorious engine, producing a surge of power when called on but idling as smooth as glass when you just want to cruise around town. The bellow out the tailpipes when this engine is called upon is becoming increasingly rare as V-6 hybrids replace V-8 engines; it’s a bit of an anachronistic throwback, but it fits the aesthetic of this expensive grand-touring convertible perfectly. \n\nThe LC’s power is routed to the rear wheels through a dreamy-smooth 10-speed automatic transmission, with a limited-slip differential available for drivers who want to get a bit more frisky in their LC. Acceleration can be calm, quick or fierce, depending on the mode in which you’re driving the LC 500; several are available, ranging from Comfort to Sport S+ for the truly ambitious. Steering feel is decent but not sports-car communicative, which is fine because this isn’t meant to be a canyon carver — it’s a boulevard tourer. It’s just that sometimes, you have to drive through a canyon to get to the boulevard, and you might enjoy flogging this car a bit through some twisties before cruising the beachfront. \n\nRide quality is excellent regardless of setting, reaffirming that no, this isn’t a sports car because there isn’t a “stiff” setting. Even in the LC’s sportiest setting, it’s still supple and well damped despite the aggressively thin all-season tires wrapping its 21-inch wheels. This Lexus doesn’t dance like a BMW 8 Series might — but you can spec an M8 for true sports-car performance in a big-coupe package. The Lexus has no LC F variant and isn’t likely to get one (that’s not its mission); this car knows its role well. It’s not equipped with all manner of silly track modes because there’s no pretending you’re going to take your grand tourer to a racetrack. The LC 500 is designed to be a street tourer, and that’s exactly what it delivers. \n\nAs such, the brakes are big and firm. Repeated hard stops don’t elicit any fade … but considering the LC 500’s mission, there’s no reason to make repeated hard stops. A carbon-ceramic braking system isn’t an option on the LC because it’s never going on a track, and it’s not trying to convince you it should. Cars.com West Coast Bureau Chief Conner Golden said it best: The LC 500 feels like an Aston Martin as executed by Lexus. Same big, comfy, luxurious purpose, but done with quality precision on assembly and attention to detail that Aston Martin has never once achieved. \n\nMore From Cars.com:\n\n2024 Lexus RC Coupe Gets More Shades of Gray, Starts at $45,920\n2024 Lexus IS Luxury Sedan Expands F Sport Options, Pricing Starts at $41,235\nHow Far Can a 2024 Lexus RX 450h+ Go On Electricity Alone?\nVideo: Is the 2024 Lexus GX 550 a Good Family Car?\nShop for a 2024 Lexus LC 500\n(Near) Perfection Comes at a Price\n\nPerhaps perfection isn’t quite the right word, as there were a few issues with the LC 500 we tested. It had a couple of electrical gremlins, including the memory seats not working properly and some of the left-side steering-wheel buttons feeling unusually sticky and unresponsive. Visibility isn’t great with the top up, which also creates that iffy headroom situation, but with the top down, windows up and detachable rear windscreen in place, there’s almost no wind buffeting in the cabin at highway speeds. \n\nThe LC 500 isn’t even priced too outrageously given its competition and positioning. The starting price for the coupe is $99,800 (all prices include destination fee), while the convertible costs a surprisingly reasonable $7,500 more, with the power soft-top LC starting at $107,300. The coupe can also be had in hybrid form with a naturally aspirated 3.5-liter V-6 and dual electric motors for $103,100 — but you don’t want that one if you’re interested in the glorious V-8 soundtrack. My LC 500 Convertible came with a Bespoke Package, $595 Copper Crest paint, the $1,900 white-and-blue interior, a black top, 21-inch wheels, Mark Levinson premium audio, and a few other odds and ends for a grand total of $117,755. It’s a lot of coin, yes, but not at all outrageous among its peers.\n\nOverall, given the style of the LC 500, the beautiful craftsmanship of its interior, its color options, fantastic powertrain, comfort, lack of overwhelming technology, ease of use and the sheer rarity of the thing, it’s one of the most underappreciated grand-touring cars of all time. Past versions of this car were disqualified from a lot of our lists due to a deal-breaking multimedia system, but that’s now just a bad memory. Now, there’s nothing stopping us from recommending the LC 500 coupe and convertible to anyone looking for a luxury grand tourer. We can say so now wholeheartedly and without reservation: Get one while you can.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LC 500 Coupe",
+          "price": "$98450",
+          "specifications": {
+            "Notable features": [
+              "New touchscreen multimedia system for 2024",
+              "Large luxury 2+2 coupe or convertible",
+              "V-8 or hybrid V-6 powertrain",
+              "Rear-wheel drive",
+              "Available “bespoke” trim with custom color combinations"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-8 Engine Type",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "5.0 L/303 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,340 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LC 500 Convertible",
+          "price": "$105950",
+          "specifications": {
+            "Notable features": [
+              "New touchscreen multimedia system for 2024",
+              "Large luxury 2+2 coupe or convertible",
+              "V-8 or hybrid V-6 powertrain",
+              "Rear-wheel drive",
+              "Available “bespoke” trim with custom color combinations"
+            ],
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,540 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/e2f1a560-e66f-439c-8524-ebfa05aff962.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/cb64c5cc-e6bf-4ee4-b641-ed53126a9190.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/8cc30355-b39c-4374-b1cd-0c2691a99602.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/6e25e291-cebd-4991-8fd9-d4de6e6ce3dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/9869927b-da2a-41b4-aa6a-6f515248f320.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/e788acb2-a82a-433f-9778-4454351ced7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/77f041a1-654a-4531-8f35-e1e52c62cdd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/d53ddda1-ef46-4afc-9912-57cd18fbc1b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/9dcbaacb-6382-4fa5-9251-65674642b190.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/208d42bb-6acc-4fc3-9160-59ba7db3195c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/da4862e9-667a-4add-be04-15d7eb77b598.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/cdd92ed1-2a0e-4fcd-bfc5-76bef020d8c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/edecb34b-f887-4c63-92b3-660094efa2b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/d5adb15e-478b-4bb4-a87c-7b0946fe7315.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/d64f7c4e-1f6f-4a6f-9b85-a44bc3ca0f3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/c21ce32c-bce2-47b4-a276-23e3fba4ccc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/3a45604e-4475-4fea-810a-3374cec975e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/ab643908-73e6-463f-ad2a-7c91cd629478.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/a90a8e34-8b04-4e90-813c-a30ad0cf11c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/e649660d-f54a-4579-81d2-d328d98e1f30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/7bf1ed97-317a-4799-b9cf-1f3e44b346a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/0c4a0258-219a-403b-8e71-3f8aadd4ae85.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/274423a9-6614-4827-8fa3-564053feaa5b/71035f39-c9e4-4382-9571-e54aa159581b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/1615c95d-19cf-47ef-9220-bc62cc4ee404.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/a98b957a-c446-4a09-8cc3-e75b75a778a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/3d703fb9-c0fa-470c-aa41-997baa366c4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/31f25c18-aaef-45c4-afb4-3861ff3b42e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/7ebd52a5-03a8-41e4-a7c8-24e87fa117f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/dd7c0b37-f83c-401d-8375-56ddaff974f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/ea4a59c3-7b6e-4828-a486-4660c5f8a98f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/1629e1d4-08a5-448d-8e61-524e1edbfbba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80c676ea-8d1c-4995-bf90-faf6802939d3/207ec5be-259e-4222-a7da-981335edb168.png"
+      ],
+      "expert_review": "The verdict: The convertible version of Lexus’ 2021 LC 500 does an admirable job of avoiding the common pitfalls of coupes-turned-droptops, but it also loses some of the original’s star quality.\n\nVersus the competition: Where many competitors have more of an emphasis on performance, the convertible more naturally suits the LC 500’s casual, grand-touring feel. A non-turbo V-8 pays off with throttle response, but owners will pay more at the pump.\n\nThe Lexus LC 500 coupe has been an unlikely favorite of ours since its debut as a 2019 model. I say unlikely because we aren’t fans of the touchpad that controls important functions in many of Lexus’ vehicles, and because at $93,975 (with destination charge) for the 2021 coupe, it’s rather expensive. It may look like a supercar that would be priced even higher, but it performs like a grand tourer.\n\nSo what made the LC coupe a favorite? It’s a gorgeous, distinctive car, and for many buyers that’s more than half the battle (or all of it). It also has a quality interior and is very comfortable — for two. The backseat is barely usable, but that’s not uncommon for this car type. Arguable competitors that already came in both coupe and convertible form include the Jaguar F-Type and Mercedes-AMG C63. Both have lower starting prices but broader lineups. A more expensive competitor is the BMW M850i xDrive, also available in both body styles (see all four coupes compared). A more affordable two-seater with performance credentials is the new Chevrolet Corvette, which is currently a coupe, but a convertible is on the way.\n\nRelated: Lexus LC 500 Keeps Fresh for 2021 With New Colors, Driving Dynamics, Android Auto\n\nSo, how similar is the new soft-top convertible LC 500 to the coupe?\n\nIt’s common to find that convertible versions of hard-top cars have robbed Peter to pay Paul — or perhaps I should say to pay Sol, where Sol is the sun. In this analogy, Peter can be any number of characteristics, but traditionally it starts with structural rigidity because a solid roof plays an important role in stiffening a car, specifically preventing longitudinal twist; losing that rigidity allows vibrations and noticeable shudder that can lead to squeaks, rattles and premature aging. Car design and manufacturing has improved over the decades, but convertibles in particular have aged poorly compared with coupes and sedans.\n\nEven when new, droptop versions of coupes often exhibit compromised handling for the same reason: Suspension design is all about geometry, and geometry demands consistency. There’s nothing consistent about a platform that’s as rigid as cooked linguine.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nAutomakers have gotten much better about this kind of thing, and thankfully, so has Lexus with the convertible LC 500. Though there was no guarantee a convertible would get the green light, engineers designed the coupe to account for the eventuality. Look under the hood and you’ll see the same braces as the coupe, tying each strut tower to both the cowl and the front of the frame above the radiator. Unrelated but fascinating, you also see components near the front of the engine compartment already used in the coupe: two of the pyrotechnic cylinders that pop up the hood for pedestrian protection in the event of a collision, providing several inches of crush space between the unlucky ped and the engine block. They look like spring-loaded asthma inhalers.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nBack to structure: You can also see a cast-aluminum brace spanning the rear shock towers — if you stop the top operation halfway through to take a look. What you can’t see includes additional gusseting at the base of the A- and B-pillars and a new torsion box in the rear.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\nBehind the Wheel\n\nTo me, the car feels much like the original, though a direct comparison isn’t possible yet because Lexus changed the suspension of the 2021 hardtop, which I haven’t driven, promising “enhanced connection to the road and overall feel for the driver,” according to press materials. This says “firmer ride” to me, fool’s gold Lexus has been chasing for most of its existence, ignoring the success of the cushy original LS 400. In my opinion, most roads are best left unfelt, and the LC 500 Convertible fortunately still seems to lean in that direction even when fitted with optional 21-inch forged-alloy wheels rather than the standard cast-alloy 20s.\n\nSpeaking of leaning, it doesn’t do much of that; body roll is minimal. An adaptive suspension is standard, but to be honest, there’s so little difference in the ride quality when you switch among Comfort, Normal, Sport and Sport Plus modes that I incorrectly thought Lexus had decided to make the adaptive variable suspension optional on the convertible, leaving these modes to vary only the powertrain behavior. Many automakers have wisely begun to program their adaptive suspensions to keep their vehicle’s ride softer when traveling straight — even in sport modes — but to firm up in turns. If that’s what Lexus has done, it’s taken it to a new extreme.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nAs in the coupe, the dynamics are pretty good but far from the level of a Corvette or even the F-Type. Roadholding is mostly good, though the tail is a bit squirrelly if you get on the gas, a trademark of Lexus’ rear-wheel-drive performance cars. Prudent accelerator use and the electronic stability system keep things safe and in line.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nThe powertrain remains a high point thanks to a 5.0-liter V-8 engine rated at 471 horsepower and 398 pounds-feet of torque, the same as the coupe. There’s no turbocharger, which is increasingly rare even among V-8s and is exclusive among the competitors mentioned above apart from the Vette. As a result, the throttle response is immediate and the sound is fulfilling and natural because there’s no turbo blocking the exhaust. There’s even a pipe that brings induction sound from the intake manifold into the cabin, sealed off by a diaphragm — what’s called a passive radiator in loudspeaker terms. The LC  also uses the audio system’s actual speakers to augment the sound, though the degree isn’t as great as what’s required in many turbocharged cars (including some Lexuses) nowadays. Standard active sport exhaust also lets the organic sounds loose in sport modes and at high revs by opening bypass valves in the mufflers.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nThe 10-speed automatic transmission suits the car well. Though automatics with high gear counts tend to hunt and introduce lag, this one isn’t bad for the purpose at hand, which is not at-the-limits track driving. It does a good job of reading the needs in normal or spirited driving. If you choose to shift for yourself using the steering-wheel paddles, you’ll find that the reaction time is reasonably fast but that the transmission stair-steps through gears rather than jumping like the best automatics, including the Corvette’s.\n\nHaving 10 gears helps keep the EPA-estimated gas mileage semi-reasonable at 15/25/18 mpg city/highway/combined, which is 1 mpg combined lower than the coupe. Not surprisingly, the turbo competitors all rate at least a couple of mpg higher in their most efficient form, even though one comes with all-wheel drive rather than the LC’s rear-wheel drive. The naturally aspirated 2020 Corvette coupe rates slightly better at 15/27/19 mpg (the convertible wasn’t rated as of publication). All of these cars require premium gasoline.\n\nAt 4,540 pounds, the convertible weighs 200 pounds more than the coupe, which explains the mileage difference as well as a slight increase in the 0-60-mph time from 4.4 to 4.6 seconds.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nFor stopping power, the LC has impressive-looking six-piston front and four-piston rear brake calipers. I found the brakes strong but grabby, a common characteristic of by-wire brakes that use electric rather than vacuum assist.\n\nThe Top\n\nLexus was an early purveyor of retractable hardtop convertibles, but the company went with a simple powered soft top in the LC — and for that, we should all be grateful. The coordinated ballet of a retractable hardtop opening or closing had a great gee-whiz factor for a while, but the roof design proved to have plenty of shortcomings in most applications we’ve seen: Typically, they’re heavy, they take up a lot of trunk space, they’re relatively slow and often they require the car to be stationary to operate. Some models have needed clearance behind the car or the trunk lid would tilt back and bash into something. And perhaps worst, despite the best efforts of designers, they’ve often looked awkward. The retractable hardtop is starting to look like a passing fad, though there are exceptions that strive to avoid all of the pitfalls above, including the coming Corvette convertible.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nLexus says the main reasons it avoided the retractable hardtop approach were to give the convertible a different profile than the coupe and to keep the car’s center of gravity low. In contrast to what we’ve seen from so many retractable hardtops, the LC 500 Convertible’s soft top doesn’t intrude into the trunk at all when lowered, which it achieves in a scant 15 seconds and while traveling up to 31 mph. Raising it takes 16 seconds. It’s quick enough that you don’t need the animation that appears on the instrument panel display, but it’s pretty neat.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nDriving with the top down is pretty comfortable. There’s some wind buffeting, but the standard wind screen you can install behind the front seats helps keep it at bay. Unfortunately the screen is rather large and hard to store, but given how nearly useless the backseat is, you might as well leave it in place all the time. You can easily tilt either front seat forward and place items underneath it on the rear seats, which is their primary purpose given that the trunk is only 3.4 cubic feet — 2 cubic feet smaller than the coupe’s and embarrassingly smaller than the competitors, according to their provided specs: 7.3 for the F-Type convertible, 8.8 for the C63 cabriolet and 12.4 cubic feet for the M850 convertible, though cargo specs don’t always tell the whole story.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nTop-down visibility isn’t bad either. The screen is just that — a mesh material — and a small glass wind deflector on the rear deck is, of course, transparent.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nWith the top up, visibility isn’t as good. The cloth forms a relatively wide C-pillar, as soft tops typically do. But this might be the sole downside of Lexus’ choice of soft versus hard. One of the other arguments for retractable hardtops is noise control, but the convertible’s cloth top is thick enough that the cabin is quieter than many non-luxury sedans and coupes. If it gives you any indication, I spent a lot of time playing with settings, trying to figure out if the wonderful engine sounds I couldn’t hear anymore were tied to a drive mode I had switched off when I finally realized it was because the closed top and windows were insulating me from the exhaust sound.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\nAbout That Touchpad\n\nLook, Lexus knows it has a problem with this touchpad system, called Remote Touch; otherwise, it wouldn’t have made the display in the 2020 RX 350 SUV a touchscreen. But the LC remains Remote Touch only. I tried to give it a fresh look, and I’m still not enamored. It’s hard to use while driving, particularly, and too many functions are buried a few levels deep. Move the pointer along the bottom row of menu icons, and some functions pop up to give you more direct access; I don’t know if this is a Band-Aid or the original design, but it’s not enough. Even more frustrating, the system incorporates many necessary functions, such as the climate controls. This is not merely a “multimedia” system that operates the stereo and navigation.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nOn the upside, the 10.3-inch display is nice, it supports both Apple CarPlay and Android Auto (the latter long awaited in Lexuses), and I was able to tune up and down the radio dial or preset list using switches above the pad and on the steering wheel; it’s remarkable how many steps some cars require to make this simple change.\n\nSomething’s Definitely Missing\n\nThe choice of a soft top was clearly the correct one, and the look is definitely not awkward, but I wouldn’t say the LC has survived its transformation from the coupe form unscathed. It’s a nice looking car with the top down, and it ain’t half-bad with it raised, either, but it doesn’t have the star quality of the coupe.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nIt’s a rich-looking car for sure, with intricate headlights and captivating taillights whose 3-D light bands move like a 1960s acid-trip film effects as you change your viewing position. All of this is good. But the coupe was a head-turner no matter where we drove it, even Los Angeles. The convertible got much less notice, top up or down. The coupe is rare enough where I live that this isn’t a case of the public becoming inured to a once new and captivating design. The loss of the coupe’s unique C-pillar fundamentally changes this car’s impact. Empirically, it’s less special. In this case, the only Peter I found is the car’s chief designer Tadao Mori. Mori was robbed to pay Sol.\n\n2021 Lexus LC 500 Convertible | Cars.com photo by Joe Wiesenfelder\n\nI will always point out that the capability of a car to beat everyone else’s ass on a racetrack is oversold — and overtouted by people in my line of work. Criticizing a car like this one that does 0-60 in 4.6 seconds as a bad performer is preposterous on the grand scheme. There’s more than enough performance here for most buyers and most prudent driving scenarios. There’s also nothing wrong with comfort, and if this car can do what it does and be comfortable, too, I’m all for it.\n\nAll of that being said, Lexus’ vehicles are typically priced lower than BMWs and Mercedes-Benzes, and the main thing to us justifying the LC 500 coupe’s price tag was its look. Starting at $102,025 with destination, my LC convertible test car with optional equipment cost $111,325. Time will tell if the convertible, an empirically less special looking version, will justify its even higher price.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LC 500 Coupe",
+          "price": "$93050",
+          "specifications": {
+            "Notable features": [
+              "New convertible body style",
+              "Android Auto connectivity now standard",
+              "Four-seat luxury sports car",
+              "471-hp V-8 engine (LC 500)",
+              "354-hp hybrid drivetrain (LC 500h)",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "16 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type",
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "471 @ 7100 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,340 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LC 500 Convertible",
+          "price": "$101100",
+          "specifications": {
+            "Notable features": [
+              "New convertible body style",
+              "Android Auto connectivity now standard",
+              "Four-seat luxury sports car",
+              "471-hp V-8 engine (LC 500)",
+              "354-hp hybrid drivetrain (LC 500h)",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.0 L/303 Displacement",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "398 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,540 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/4e983131-a61c-4633-a864-8c6736033b41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/477b0156-1974-4ff2-bbd6-50b85b35a2d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/0f4cd289-f704-4dd1-9d7a-b74667b2401e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/c867b090-15ee-47cb-9643-34114c77d01c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/df05f0e0-6884-4b32-ab9a-b29a5983e6c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/24de5b7f-86de-415c-993d-0ffe1bdd40f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/feb2fffa-4beb-4295-8d9f-dd13b96c333f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/e780421b-4eae-4ec6-bcfd-85ef0ae59ddd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/a9d33732-8adc-4134-9af6-a12d4ed2db2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/2ced105d-f083-44f0-9c36-7ba1a2208ef6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/04d12fc9-37c9-4914-8e6d-03c5bea19064.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/9d2f2b7c-ff6d-4064-892d-6f0b05bc280a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/0091e66c-0bea-40b8-865d-3158f6ef30bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/3f29dfbe-9394-4a6c-9128-6a501a1a47e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/1a3d0419-f2d6-4a6f-9962-f4e558a858fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/c8c40375-dda7-475a-83ad-ef4fa478042b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/733d7fd3-8b51-4797-9251-f76edd340316.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/92d09f2e-1c83-486d-ae2e-831a5b5c0edd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/20c37f1d-9bf2-4c40-9352-f55d99c99db8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/9a879f1b-9cbd-4afd-9fad-05b063e2ed4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/4ca27641-983d-46a7-8811-529aee57dc1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/8b40b006-4d92-470f-999a-8eee34185eb3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/f01acade-221f-4336-a887-9e8c3580a9a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/e19d78f3-c627-472b-9b7a-612defb7bc6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/73c26f7f-a1e1-40c0-95d3-ed3cc8a071b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/36f8f608-2378-48a0-9463-622d5fc7258b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/20c37f1d-9bf2-4c40-9352-f55d99c99db8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/dc84882f-f928-4d77-a811-a7097f2bffe8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/20eb99eb-3a17-4c2c-84ad-ff3d15562d8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/11e81824-a416-4f7c-a769-d59497ba5337.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/2cc65500-0d84-4f16-b66d-0e0ab2b6d79f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ea71c49d-fcdf-49db-9df7-1867f115a1ce/d0db099a-0e84-490e-b052-e56d31f64ff3.png"
+      ],
+      "expert_review": "What Is the 2022 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door is available as the LC 500 with a 471-horsepower, 5.0-liter V-8 engine and a 10-speed automatic transmission or the LC 500h with a 354-hp hybrid drivetrain. Both versions are rear-wheel drive. Competitors include the BMW M850i and Jaguar F-Type.\n\nWhat’s New on the 2022 Lexus LC?\n\nSuspension revisions improve road feel and steering linearity for improved handling, according to Lexus, and the Sport Package now includes 21-inch forged-aluminum wheels. There’s also a new Bespoke Build version that offers a range of customization options, and a limited-edition Inspiration Series variant is also available.\n\nWhat Features in the 2022 Lexus LC Are Most Important?\n\nStandard features include:\n\n20-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 10.3-inch screen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane-keeping assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include:\n\n20- or 21-inch forged-aluminum wheels\nCarbon-fiber roof\nHeated steering wheel\nSemi-aniline leather upholstery\nMark Levinson surround-sound system\nHead-up display\nLimited-slip differential\nSpeed-activated rear wing\nShould I Buy the 2022 Lexus LC?\n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics. It skews to the luxury end of the spectrum rather than offering a pure sports car experience, however. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important, then you’ll want to shop around.",
+      "trims": [
+        {
+          "name": "LC 500 Coupe",
+          "price": "$93150",
+          "specifications": {
+            "Notable features": [
+              "New Bespoke Build version available",
+              "Four-seat coupe or convertible",
+              "471-hp V-8 engine (LC 500)",
+              "354-hp hybrid drivetrain (LC 500h)",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "16 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "5.0 L/303 Displacement",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,340 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "LC 500 Convertible",
+          "price": "$101200",
+          "specifications": {
+            "Notable features": [
+              "New Bespoke Build version available",
+              "Four-seat coupe or convertible",
+              "471-hp V-8 engine (LC 500)",
+              "354-hp hybrid drivetrain (LC 500h)",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,540 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/5949eb13-c655-4e40-a330-57d13a8c61ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/9fa89f1f-7852-4bbc-89dc-206c169c5a9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/efeac456-c403-4b2f-8184-4300b7d70d7b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0b51b881-6385-4f3a-85c8-c3a02beb4ccf/09686e16-1f3b-4d93-a12d-c276110bbf8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/c482e9c5-9505-4133-a741-cc3539e76cd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/2fc6aee9-dd91-4b5b-a879-91e02d5b781b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/a08f40fe-120d-478d-ade2-3c992cce620c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/74fc90ce-f367-47cd-bbce-4df354ab916f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/1d12cfb4-d33d-49ea-99c2-24397802cb77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/2489d40c-f4dc-43b5-980b-87b19f1cddac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/edcfe8b6-5499-4ed3-8e93-20e398826644.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/d8ed7715-96f6-4440-8c0c-ed76ce20b33f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/a4494485-6215-4bfa-abcf-05bb6229a88d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/cca3060b-62cf-4e21-a695-ed8617a4db7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/1dc27f1a-89ad-4b73-81b6-0bfc145890af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/2ed8c533-324a-4b31-aff2-c7b40acac376.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/5d7d820c-2552-4095-b7ab-26e60c2dff50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/6484cfaf-44fb-4ffe-b4c5-6995351dcaaa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/ba32a107-256a-4d13-89ab-11cbd1180ece.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/e9c57d10-ca88-4669-a483-9a04783736d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/43449930-a7ae-4942-a2eb-edc023d14c28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/91876855-b97c-4a08-9971-cdef62af5e82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/342a7d21-ba98-4b34-ad65-4129533e8627.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/a6c4fcf9-072b-4d12-82dc-b112a89eac62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/d161ea1e-1293-499a-89a0-8c733b69d9cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c3cb3a8d-c3b1-49c0-a2ed-8e70bc8a2e89/1b910899-53e7-4867-8707-90690389b87c.png"
+      ],
+      "expert_review": "What Is the 2025 Lexus LC?\n\nThe Lexus LC is a four-seat luxury sports car. The dramatically styled two-door offers a choice of two powertrains: The LC 500 has a 471-horsepower, 5.0-liter V-8 engine with a 10-speed automatic transmission, while the LC 500h has a 354-hp V-6 hybrid drivetrain. Both versions are rear-wheel drive. The LC 500h comes only as a coupe, while the LC 500 can be had as a coupe or convertible. The LC’s competitors include the BMW M850i and Mercedes-AMG SL43. \n\nWhat’s New on the 2025 Lexus LC?\n\nFor 2024, Lexus finally banished its frustrating mousepad-style infotainment controller, instead fitting all LCs with a 12.3-inch touchscreen. The LC 500 and LC 500h coupes get additional underfloor bracing. Aside from a new paint color, a carbon-fiber scuff plate for the hybrid’s Sport Package and new roof color options for the convertible, however, the LC is otherwise unchanged for 2025.\n\nWhat Features in the 2025 Lexus LC Are Most Important?\n\nStandard features include: \n\n21-inch alloy wheels\nLED headlights\nLeather-trimmed seats\nHeated and ventilated front seats\nNavigation with 12.3-inch touchscreen\nApple CarPlay and Android Auto smartphone connectivity\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nAutomatic high-beam headlights\nBlind spot warning with rear cross-traffic alert\n\nAvailable features include: \n\nCarbon-fiber roof\nGlass roof\nHeated steering wheel\nSemi-aniline leather upholstery\nAlcantara-trimmed seats\nMark Levinson surround-sound system\nHead-up display\nSpeed-activated rear wing\nTorsen limited-slip rear differential \nPerformance brake pads\nShould I Buy the 2025 Lexus LC? \n\nThe Lexus LC combines knockout styling, top-notch luxury appointments and engaging driving dynamics, but it skews more to the luxury end of the spectrum than the pure sports car end. The LC 500h hybrid is less enjoyable to drive and costs more. If ultimate performance — or a usable backseat — is important to you, you’ll want to shop around. If you want a posh, coddling grand tourer for two, though, the LC is hard to beat.",
+      "trims": [
+        {
+          "name": "LC 500 Coupe",
+          "price": "$99750",
+          "specifications": {
+            "Notable features": [
+              "Four-seat coupe or convertible",
+              "471-horsepower V-8 (LC 500)",
+              "354-hp V-6 hybrid (LC 500h)",
+              "Rear-wheel drive",
+              "Bespoke Build personalized versions available"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,340 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LC 500 Convertible",
+          "price": "$106950",
+          "specifications": {
+            "Notable features": [
+              "Four-seat coupe or convertible",
+              "471-horsepower V-8 (LC 500)",
+              "354-hp V-6 hybrid (LC 500h)",
+              "Rear-wheel drive",
+              "Bespoke Build personalized versions available"
+            ],
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "398 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,500 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LC 500 Convertible",
+          "price": "$107750",
+          "specifications": {
+            "Notable features": [
+              "Four-seat coupe or convertible",
+              "471-horsepower V-8 (LC 500)",
+              "354-hp V-6 hybrid (LC 500h)",
+              "Rear-wheel drive",
+              "Bespoke Build personalized versions available"
+            ],
+            "Highlights": [
+              "15 City / 25 Hwy MPG",
+              "4 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "398 @ 4800 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "471 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,500 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "22 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

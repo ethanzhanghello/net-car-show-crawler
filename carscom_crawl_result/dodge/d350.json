@@ -1,0 +1,40 @@
+{
+  "make": "dodge",
+  "model": "d350",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/30ada3e4-1b6e-4953-97bd-a6c52bb4178e/0fdf7745-29a6-4ed0-8f0a-f391e1c95e47.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 131\" WB",
+          "price": "$15976",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB DRW Diesel",
+          "price": "$22260",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sweptline 131\" WB",
+          "price": "$15207",
+          "specifications": {}
+        },
+        {
+          "name": "Club Cab 149\" WB DRW Diesel",
+          "price": "$21110",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

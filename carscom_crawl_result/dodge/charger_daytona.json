@@ -1,0 +1,629 @@
+{
+  "make": "dodge",
+  "model": "charger_daytona",
+  "years": {
+    "2023": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/77f3c46a-3a20-4258-8e5e-6ac33d7cbc25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/6b3dfbdd-a7f7-4652-9a26-2bbd2a7420c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/83e49682-2d4b-4685-8b95-b6562743e75f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/0efb3f8a-9c02-4c8b-87e0-cd4f307a3a38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/054eccd9-8f40-40b7-b5ae-e6949546a6f3.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/8a4bd9dc-3a6b-42b4-baa2-c8a6e122b086.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/9758b03e-6696-413b-bd43-d40f1923de95.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/4a7345aa-00c0-42c3-80cb-449ce43573b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41189258-0f14-48bc-9cf0-eb598ebbf7c1/4a7345aa-00c0-42c3-80cb-449ce43573b2.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "R/T AWD",
+          "price": "$57995",
+          "specifications": {
+            "Highlights": [
+              "308 - 317 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "404 SAE Net Torque @ RPM",
+              "456 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,698 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Scat Pack AWD",
+          "price": "$64995",
+          "specifications": {
+            "Highlights": [
+              "241 - 260 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "627 SAE Net Torque @ RPM",
+              "630 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,767 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/08d9f302-82e1-4c28-afe4-5ad87d885d28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/3107be2c-aaa6-40e2-9ae6-613474f07386.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/ca0f2158-a50a-4a4c-a050-43058f4cab0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/6891be98-5fac-4472-89c5-4faf6f7bba37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/689e1c7b-960f-442e-84d7-b930ba811c29.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/9a87495f-4052-40c9-ac4a-23c45be7fa2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/9a87495f-4052-40c9-ac4a-23c45be7fa2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45a98fa9-991a-4b9e-bc27-768a7166fceb/23e16fa3-7430-4439-bbfb-3eadd7ba34f9.png"
+      ],
+      "expert_review": "The verdict: Impressive power, refined handling, sharp style and a cheeky muscle car aesthetic is counterbalanced by slightly underwhelming real-world acceleration, poor electric vehicle functionality and a sky-high price for Dodge’s first performance EV.\n\nVersus the competition: The Tesla Model 3 Performance and Hyundai Ioniq 5 N are the closest analogs, with both undercutting the Charger Daytona Scat Pack in price while offering better performance, charging capability and powertrain integration.\n\nThere was no timeline in which the all-new, all-electric 2025 Dodge Charger Daytona would ever have a gentle landing. Consider how the super-popular last-gen Dodge Charger and Challenger duo was often purchased as a wrapper for an engine, and not necessarily as a car; the Scat Pack’s 6.4-liter Hemi V-8 and the Hellcat’s supercharged 6.2-liter V-8 were inarguably the main draws, so reinforced by proliferation of these two hearts across the collective Stellantis-brand Dodge, Ram and Jeep lineups.\n\nRelated: First Call: Orders Open for Electric 2024 Dodge Charger Daytona\n\nThese vehicles were never rational purchases. Astronomical fuel bills, aged interiors and handling dynamics that fell well short of the Ford Mustang and Chevrolet Camaro’s comparably tight ship weren’t even considerations. These were (and are) purchased as life-size Hot Wheels cars complete with bright colors, cartoonish proportions and one of the best Americana soundtracks this side of the 1960s.\n\nCharging Into the Future\n\nOn paper, the all-new electric Charger doesn’t appear to fall too far from that wish list. In either two- or four-door form — the latter coming to market in the near future — the eighth-generation Charger is equal parts theater, tradition and futurism, with a stretched silhouette that borders on caricature. Up front, a very EV-coded light bar stretches beneath an aerodynamic pass-through on the hood, while the wheels, candy colors and slab-sided shoulders are all genetic traits from the prior gas cars.\n\nGiven it usually comes down to subjective preference, we don’t talk much about automotive design at Cars.com, but I gotta say: It looks far better in person than it does in photos. Furthermore, I think it looks exactly like what I’d imagine a performance-oriented Dodge electric vehicle to look like. And I’m not the only one; I fielded multiple Q&As on our 60-mile road loop, with countless impromptu stoplight phone photoshoots and rolling car-to-car chalk talks as all manner of folk wildly signaled for me to roll my window down.\n\nSo, job well done on the visual drama. And on the mid-level model, no less; Dodge’s launch program in Phoenix offered seat time in a mix of Daytona R/Ts and Scat Packs, the two trims available at market launch. (Per our ethics policy, Cars.com pays for its own travel and accommodations when attending such manufacturer-sponsored events.) The power and performance hierarchy between these is shared with the old gas-powered models, with the R/T serving as the most affordable and least powerful of all the performance-oriented trims, and the Scat Pack cutting the difference between affordability and the top-level Charger Banshee trim that’s confirmed to come in the medium-term future.\n\nRelated Video:\n\nPower, Absolutely\n\nFor now, all Chargers wearing the “Daytona” badge are electric, and both the R/T and Scat Pack have all-wheel drive with front and rear motors. They’re fed by the same 100.5-kilowatt-hour battery pack that has 93.9 kWh of usable capacity. In the R/T, 456 horsepower and 404 pounds-feet of torque is on tap as a baseline, with the PowerShot button on the steering wheel temporarily unlocking an extra 40 hp for 10 seconds. Dodge is cheeky and includes this max figure as the stated power — 496 hp for the R/T and 670 hp for the Scat Pack, the latter also making 627 pounds-feet of torque. Dodge had both on hand at the drive program, but a packed schedule meant I was only able to drive the more powerful Scat Pack. (I know — boo-hoo.)\n\nPerformance is requisitely impressive. For the R/T, Dodge reports a 0-60 mph time of 4.7 seconds, a significant step away from the Daytona Scat Pack’s official 3.3-second 0-60 scuttle. Dodge also says the Scat Pack is about a second quicker through the quarter-mile with a time of 11.5 seconds. This, according to the brand, “maintains Dodge’s throne as the world’s quickest and most powerful muscle car” — its words, not mine.\n\nA Muscle Car? Um …\n\nA muscle car? By virtue of the literal definition, I wouldn’t categorize the new electric Charger a muscle car, let alone any EV. No V-8, no muscle car — if all it takes for something to be a muscle car is American DNA and a heap of power, then any Tesla in Plaid trim, Lucid Air Sapphire or high-spec Ford Mustang Mach-E must be muscle cars, too. (They aren’t!) Or maybe it’s the Charger’s aesthetic that makes it worthy of the title, with thematic touches like the pistol-grip drive selector and Fratzog motif; in that case, we’d better expand the category to include all V-6 variants of the prior Challenger, Charger, Mustang and Camaro.\n\nI know I’m being unfair here, but that’s one hell of a phrase to throw around. I also know Dodge really didn’t have a choice, but maybe this was a perfect opportunity to develop a new category or label for the big-body, big-performance American EV. It’s like adding an AMG badge to the trunk lid of your Mercedes-Benz C300: The only people who know what “AMG” means can tell it’s not the Real McCoy. Who ya foolin’?\n\nI’ll put a pin in it for now, as I need to revisit this conversation when the gas-powered Chargers land with their twin-turbo inline-sixes. But there’s certainly nothing “muscle” about the way the Scat Pack boogies, and I mean that as a compliment. With AWD and instant torque, the Charger almost invariably smokes the front tires when hard launched in Drag Mode.\n\nPerformance Pressure\n\nFrom a dig, 3.3 seconds to 60 feels about right to my derriere dyno, and I was able to record an 11.7-second quarter-mile on an unprepped surface. I also have complete faith that the Scat Pack scoots with the advertised 670 (max) hp and 627 pounds-feet of combined torque, but more often than not, it feels closer to somewhere in the 500s, even with PowerShot engaged, as power drops off in the higher realm of highway speeds thanks both to the roughly 5,800-pound curb weight and “interesting” powertrain tuning.\n\nEven in Sport mode, which operates at a 630-hp baseline, there’s an observable delay when flooring the accelerator pedal, with almost a half-second lag between smacking the firewall and the car’s reaction. That’s not great, but these were pre-production vehicles, and I wouldn’t be surprised if this was ironed out by the time it reaches dealer lots. (I would also be equally unsurprised if it wasn’t.)\n\nIt feels quick, but nothing more … which I realize, now that I type it out, is the performance envelope occupied by the prior Scat Pack, which smoked the rears and rang ears with 485 hp and 475 pounds-feet. Rear-facing exterior speakers in a resonant chamber mean the Daytona Scat Pack is similarly shouty, with said “Fratzonic Chambered Exhaust” channeling enough aural and physical rumble to startle the uninitiated. Dodge synthesized the V-8-ish roar from a selection of classic muscle from its archive, including the O.G. Charger and the last-generation twins.\n\nSubjectively, I don’t really jive with this emerging trend of fake exhaust sound. It’s not my thing, even though I appreciate the effort. Objectively, the Charger’s implementation is as good as it could sound short of just programming the recorded roar of a Hellcat, with Dodge claiming the same decibel output. It’s not quite as good as the Hyundai Ioniq 5 N’s mapped “shift” modes and N Active Sound+ feature, and the Fratzonic soundtrack blends into a one-note background rumble at higher speeds, but it’s certainly more interesting than an electric hum. Don’t like it? Just turn it off in the settings.\n\nElectric Boogaloo\n\nOut on some of Phoenix’s squiggliest desert roads, the Scat Pack demonstrated impressive body control thanks in no small part to its adaptive suspension. Roll and pitch is well managed without compromising the ride quality, and physical grip is gluey thanks to wide, staggered summer tires. You’ll never confuse it for svelte, but the Charger does an excellent job of muting its bulk even during high-speed transitions.\n\nQuick and reactive steering is contrasted by numbness and a lack of granularity, but the brake-pedal actuation is impressively balanced between pure regenerative resistance and the physical brakes. The brakes are strong, too, hauling the almost 3-ton beast from high speeds with confidence and relative ease. Pure off-pedal regenerative braking isn’t as strong as I’d prefer and a bit rough in actuation, especially when toggled into the max “one-pedal” setting via the steering-wheel paddles, which merely toggle between resistance levels and do not act as a handbrake rheostat like in some EVs.\n\nMore From Cars.com:\n\nAll-Electric 2024 Dodge Charger Daytona Coupe Priced From $61,590\n2024 Dodge Charger Up Close: Is This the Coolest American EV Ever?\n2024 Dodge Charger: The Brotherhood of Muscle Lives On\nWhat to Know Before Purchasing an Electric Vehicle: A Buying Guide\nShop for a 2024 Dodge Charger Daytona Near You\nRange Restrictions\n\nFrom a grace ‘n’ pace perspective, the Daytona Scat Pack is a pleasant and mostly thrilling electric performance car to buzz around in, but it all gets a bit blurry when you evaluate it from a performance and EV perspective. The most efficient configuration of the R/T returns an impressive EPA-rated 308 miles of range, dropping to 241 miles on the juicier Scat Pack and down even more to 216 miles of range if you fit your Scat with the optional summer tires — not bad, but not great. Ditto for the DC fast-charge rate, which tops out at 183 kilowatts, enough to go from a 20% to 80% state of charge in 24 minutes in ideal conditions.\n\nSo-so range for the Scat Pack, average fast-charging capability, limited EV-centric features and “pretty good” performance make this a rather uncompelling proposition for someone already accustomed to the current EV landscape. It turns sour when factoring in the $75,185 base price for the Scat Pack, which is a good $20,000 more than the last V-8-powered Charger Scat Pack or a Tesla Model 3 Performance, with the latter offering holistically better performance and access to the strongest fast-charging network in the U.S.\n\nNor does it make a compelling case for converting the gas-chuggin’ Mopar bros to the electric side, as from almost any parameter, the Charger Daytona is less exciting, less involving and less evocative than the gas cars it replaces. It’s certainly more refined and far more usable thanks to excellent suspension tuning and it being a liftback versus a conventional coupe, but few purchased the prior cars for any other reason than sound, style, fury and smoke.\n\nJust Who Is This For?\n\nI left this drive confused. I don’t know who this car is for, and I really don’t know who’s going to buy it. It’s already going to be an uphill battle for the forthcoming gas-powered Charger Six Pack with its twin-turbo six-cylinder, and I believe that few shoppers will spring for the more expensive and significantly more compromised package offered by the all-electric Charger Daytona.\n\nThat’s a shame, as I think there’s certainly things to like, and I’m very much looking forward to chatting in the future with real owners of the car. I’m also keen to get my hands on a Charger Six Pack to determine which frustrations are EV-related and which ones are endemic to the platform.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "R/T AWD",
+          "price": "$57995",
+          "specifications": {
+            "Notable features": [
+              "All-new performance EV",
+              "Gas-engine variants coming later",
+              "Dual electric motors, all-wheel drive",
+              "496 to 670 hp (including temporary 40-hp boost)",
+              "Up to 308 miles of range (R/T)",
+              "Synthetic engine sound from “Fratzonic Exhaust”"
+            ],
+            "Highlights": [
+              "308 - 317 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "404 SAE Net Torque @ RPM",
+              "456 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,698 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Scat Pack AWD",
+          "price": "$64995",
+          "specifications": {
+            "Notable features": [
+              "All-new performance EV",
+              "Gas-engine variants coming later",
+              "Dual electric motors, all-wheel drive",
+              "496 to 670 hp (including temporary 40-hp boost)",
+              "Up to 308 miles of range (R/T)",
+              "Synthetic engine sound from “Fratzonic Exhaust”"
+            ],
+            "Highlights": [
+              "241 - 260 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "627 SAE Net Torque @ RPM",
+              "630 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "5,767 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "300 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/96e9058f-3d0d-4175-80b2-607e28d70c3b/a3d3fbf5-e9b7-4269-b0a5-68e8b9e8b941.jpg",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ceda30c5-ac38-444c-bad6-f2796bcdb02e/22c86d3e-a3ee-4679-bd38-8a346e28e263.png"
+      ],
+      "expert_review": "Key Points in This Article:\n\nThe electric Charger Daytona hasn’t gone over well with Dodge fans, with sluggish sales since its late-2024 launch.\nBut even at the nostalgia-laden Woodward Dream Cruise, the Charger Daytona still turned heads.\nA few key changes to the car’s Fratzonic Chambered Exhaust system would make this EV even more compelling.\n\nThe Woodward Dream Cruise is perhaps the quintessential celebration of American car culture. Every third weekend in August for the past 30 years, nearly 1.5 million people and some 40,000 classic, muscle, hot rod, exotic and specialty cars gather on a 16-mile stretch of suburban Detroit’s Woodward Avenue and hold the world’s largest one-day automotive-themed gathering. Automakers sponsor massive displays and people dust off their cars and hit the boulevard to pay tribute to a nostalgic time in the 1950s and ‘60s when cruising Woodward Ave. was what you did on a Saturday night, enjoying the drive-in restaurants, movie theatres, and just to see and be seen in a sweet ride.\n\nRelated: 2026 Dodge Charger: Jumpin’ Sixpack, It’s a Gas, Gas, Gas!\n\nIt’s a celebration of horsepower, art, creativity and, more than anything, the American propensity for loud, gas-powered speed — which makes what I drove this year particularly curious: a 2026 Dodge Charger Daytona EV four-door. I’ve attended every Woodward Dream Cruise since the first one in 1994 (it was canceled only once, in 2020, due to the COVID-19 pandemic), and I’ve done it in a hot Mopar every single time. But I’d never done it in an electric car, and I was curious to see what the car enthusiast public’s reaction would be to the first-ever electric muscle car.\n\n2026 Dodge Charger Daytona Scat Pack | Cars.com photo by Aaron Bragman\nThe Ride in Question: Electric Muscle\n\nWhen Dodge discontinued the old Hemi-powered Challenger and Charger back in 2023, the brand’s star performance twins had become synonymous with relatively inexpensive, accessible, everyman speed … which is why their replacement made a lot of folks scratch their heads. The 2024 Dodge Charger Daytona looked incredible — it was styled like a fully modernized 1968 throwback — but swapping out the iconic Hemi V-8 engine for all-electric power was a move everyone felt was likely to be brand suicide. Sad to say, that prognostication has thus far proven correct: Through the first six months of 2025, Dodge has sold barely 4,300 Charger EVs, a fraction of what the prior gas-powered models sold. That works out to about two sales per Dodge dealer  across the country, all year. Yikes.\n\nHelp is on the way in the form of a gas-powered Charger with the new Hurricane twin-turbo inline-six-cylinder engine, which is dubbed Sixpack here. But that’s still not the Hemi everyone knew and loved, and it’s unlikely to command the same fanatical following despite the Hurricane’s superiority in every quantifiable measure (except exhaust noise).\n\n2026 Dodge Charger Daytona Scat Pack | Cars.com photo by Aaron Bragman\n\nIn the electric Charger, Dodge tried to mitigate the “emotional allergies” caused by swapping out the Hemi by including something it calls Fratzonic Chambered Exhaust — essentially, an external speaker mounted under the car that creates a very loud fake “exhaust noise” tied to the car’s acceleration. You can also “rev” it while parked, and it’s as loud as the old supercharged Dodge Challenger Hellcat’s exhaust was, matching it for audacity if not authenticity.\n\nSo, with the third week of August upon us, Dodge loaned me a new 2026 Charger Daytona Scat Pack four-door. We’d seen the two-door coupe before, but the four-door is brand-new for ‘26, and is arriving in dealerships. The “Daytona” trim denotes it being electric, and the Scat Pack name means it’s the high-performance version (the R/T has been discontinued for the electric Charger but will be returning as the lower trim for the gas-powered models early in 2026). Using a dual-motor setup for all-wheel drive, the Charger Daytona Scat Pack comes with 670 horsepower and the ability to get from 0-60 mph in 3.3 seconds, according to Dodge. Its 241 miles of estimated range, however, isn’t all that much to talk about.\n\nDespite its staggering 5,828-pound base curb weight, the Charger Daytona four-door is brutally quick, handles well and has a sizable interior that’s comfortable for four people. It’s a big car — bigger than the old Charger four-door, and with fastback-hatchback styling that gives it extra utility. It is also expensive: $80,465  as tested (including destination fee). That puts it out of reach of a lot of former Charger and Challenger buyers, but it isn’t really all that much more than the old Hellcat Widebody models used to cost. Simply put, the ‘26 Charger Daytona Scat Pack is a beast, a hefty presence in traffic that turns heads far, far more frequently than I expected it to.\n\n2026 Dodge Charger Daytona Scat Pack | Cars.com photo by Aaron Bragman\n‘Hey, What Is That?!’\n\nSitting at the stoplight in the Charger Daytona, I heard the honking first. Looking out my driver’s side window, the shirtless middle-aged guy next to me in the old, beat-up beige Chevrolet Suburban towing a bunch of lawn equipment was frantically motioning for me to put my window down. I did, and he immediately yelled across: “What is that?” That a man who I’d have guessed would be very familiar with the traditional Dodge lineup actually had no idea what the new Charger looked like made me wince inwardly. That cannot be a good sign, I thought.\n\nSure enough, the novelty of the new Charger Daytona became evident when I took it out to Woodward Avenue on Thursday night prior to the Saturday night main event. The Dream Cruise is now a weeklong event with people cruising every night, with less traffic and smaller crowds allowing for actual cruising versus sitting in gridlock traffic on Saturday. And everywhere I took the Charger, all up and down the 16-mile stretch of onlooker-lined boulevard, it drew immediate pointing, excited exclamations and shock (no pun intended).\n\nThis kind of reaction is not entirely surprising, either, because for the entirety of the Woodward Dream Cruise weekend, I did not see another new Charger Daytona out cruising. The fact that the Charger Daytona has been out for nearly a year now (it was introduced in late 2024 as a ‘24 model) and that it had zero public presence at America’s greatest celebration of muscle cars and power tells you just how badly Dodge product planning under European Stellantis management got it wrong.\n\nBut there is hope for the Charger, and it comes in the form of the actual, genuine interest everyone showed in my bright blue bomber. The number of exclamations of “Oh! That’s the new Charger four-door!” and people stopping in their tracks to get a better look tells me there’s definite enthusiast interest in the new car … but not its electric powertrain. And after driving it through the world’s biggest cruise-in, I think I know why.\n\n2026 Dodge Charger Daytona Scat Pack | Cars.com photo by Aaron Bragman\nFratzonic Doesn’t Work Quite Right\n\nI like the Fratzonic Chambered Exhaust. It adds a level of silliness to an already absurdly proportioned, equipped and priced vehicle that actually does resonate well with the general public. No really, it does! The number of people who asked to hear it, or who giggled when I activated it, was considerable. It’s not the first EV to make fake powertrain noises tied to a drive mode and linked to the vehicle’s acceleration; that would be the Hyundai Ioniq 5 N. But here’s the problem with the Charger’s system: It doesn’t work as well as the Hyundai’s does, and that’s because it doesn’t properly emulate a gas engine’s characteristics like the Hyundai system does. There are three specific areas that make it unpleasant to use instead of a surprise-and-delight feature.\n\nFirst, the loudness and activation of the Fratzonic system is tied to specific drive modes. If you’re just driving around normally, in one of the normal modes, you can’t switch it on independently (but you can completely shut it off for totally silent running). It’s louder in Sport mode and loudest in Track and Drag modes. This does somewhat emulate real exhaust systems that open additional flaps and valves when you activate sportier drive modes, but there’s no reason it shouldn’t be completely independent of drive modes here. Sometimes, you want the noise without the Drag drive mode changing everything else about the car’s behavior. Fix No. 1: Decouple Fratzonic from the drive modes and make it independently selectable.\n\n2026 Dodge Charger Daytona Scat Pack | Cars.com photo by Aaron Bragman\n\nSecond, when you’re accelerating, the Fratzonic “engine noise” rises with your speed … and stays there. If it was a gas car, you’d be yelling “Shift, shift!” and thinking something was wrong with your transmission, or that the nut behind the wheel doesn’t know how to drive a stick shift. It’s almost like a continuously variable transmission’s soundtrack, where the CVT brings an engine to an optimal rpm and keeps it there. It feels unnatural and is unpleasant to listen to if you’re cruising at higher speeds. Fix No. 2: Fratzonic exhaust sounds are fake anyway, so add fake transmission shift points as part of the acceleration noise to keep it sounding realistic.\n\nThird, while you can “rev” the exhaust sound when the gear selector is in Park, you can’t when you’re in Neutral. Anyone cruising a boulevard past people who want to hear your car rev, fake or not, knows that you need to be able to put the car in Neutral, let it coast and give the accelerator pedal a few stabs to entertain the audience. Can’t do that in the Charger Daytona; it makes no noise when you do, making this an inadequate cruise-night car for that reason. Fix No. 3: Allow drivers to “rev” the Fratzonic system while the car is rolling along in Neutral.\n\nThere’s Certainly Potential\n\nWhile some Dodge fanboys might never accept the idea of an electric muscle car, the idea is not without some promise. The Charger Daytona is the first of its kind and has largely been shunned by the traditional muscle-car buyer, but that doesn’t mean a revamped electric Dodge muscle car doesn’t have a future. Putting the gasoline Hurricane engine in the Charger might help the Charger (even though it’s still not a Hemi), but the electrification of Dodge needs to happen without electric powertrains replacing the gas engines its customers crave.\n\nThe few fixes to the current electric Charger Daytona listed above would go a long way toward helping to establish its credibility with enthusiasts, and the beautiful part is that it wouldn’t require any hardware changes. It’s all just software controlling the noise the Charger makes, and it shouldn’t be a huge deal to modify.\n\n2026 Dodge Charger Daytona Scat Pack | Cars.com photo by Aaron Bragman\n\nBut to truly establish the Dodge brand as a purveyor of electric sports machines, a rethink needs to happen regarding what the brand stands for and how an EV fits into it. A lighter, cheaper, more forward-looking sports car with a new name would likely be a better idea than trying to make the Charger an EV. Let the Charger go back to being a proper gas-powered muscle car suitable for cruise nights, and bring us something truly new for Dodge’s next chapter.\n\nMore Dodge Charger News From Cars.com:\n\n2026 Dodge Charger Sixpack: Are Six Cylinders Enough or Does It Need a V-8?\nDodge Adds Sedan to 2026 Charger Daytona EV Lineup\n2024 Dodge Charger Daytona Scat Pack Review: Identity Crisis\nGoing for 10.6: Drag-Strip Testing the 2021 Dodge Charger SRT Hellcat Redeye\nResearch the Dodge Charger Daytona\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "R/T 4-Door AWD *Ltd Avail*",
+          "price": "",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "R/T 2-Door AWD *Ltd Avail*",
+          "price": "",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,698 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Scat Pack 2-Door AWD",
+          "price": "$59995",
+          "specifications": {
+            "Highlights": [
+              "241 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "627 SAE Net Torque @ RPM",
+              "630 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,778 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Scat Pack Plus 2-Door AWD",
+          "price": "$59995",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "627 SAE Net Torque @ RPM",
+              "630 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,778 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Scat Pack Plus 4-Door AWD",
+          "price": "$61995",
+          "specifications": {
+            "Highlights": [
+              "241 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "630 SAE Net Horsepower @ RPM",
+              "627 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,828 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Scat Pack 4-Door AWD",
+          "price": "$61995",
+          "specifications": {
+            "Highlights": [
+              "241 mi. Range",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "627 SAE Net Torque @ RPM",
+              "630 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,828 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "300 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "make": "lotus",
+  "model": "eletre",
+  "years": {
+    "2024": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/56431b10-b61c-459e-9135-ffc976746cc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/7a7812c5-f799-488e-b58c-eaef00bda269.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/7a7812c5-f799-488e-b58c-eaef00bda269.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/84fd7df4-8474-43fb-99af-768231c6bd30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/72f69a16-a365-412b-8c50-ec787a1a9cd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/0837056f-63fd-4c05-a57c-02e54b346f62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/548069da-5bf6-494e-a47f-d438d0fd90df/92b2a38e-9096-4a12-9f53-4ef00e4630c5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "AWD",
+          "price": "$107000",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "523 SAE Net Torque @ RPM",
+              "603 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "5,489 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Automatic Parking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "16 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "R AWD",
+          "price": "$145000",
+          "specifications": {
+            "Highlights": [
+              "304 mi. Range",
+              "4 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "726 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "905 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "5,820 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "16 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Carbon AWD",
+          "price": "$229900",
+          "specifications": {
+            "Highlights": [
+              "304 mi. Range",
+              "4 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "905 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "727 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "5,820 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Parking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "21 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "21 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

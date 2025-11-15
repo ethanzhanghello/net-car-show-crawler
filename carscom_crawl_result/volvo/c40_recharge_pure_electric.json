@@ -1,0 +1,794 @@
+{
+  "make": "volvo",
+  "model": "c40_recharge_pure_electric",
+  "years": {
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/b0e541f8-29ea-48f7-8983-338da275ffa8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/0338c3b8-9bc6-49e8-ae99-e89d686234d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/cba2033f-1826-4241-bb5e-cf57dfbe78ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/104c468b-5a93-4f38-b00d-9f4c5d27fe4c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/2209731d-69fc-4131-8bfe-bead1172c641.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/61a7b088-040f-4c01-8a29-ab50804a0d50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/8a1fb14f-d322-46fa-b710-7337bb5ae8c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/62fe9900-2db2-453b-b778-bf52139afd59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/cc685eab-f0d8-46ae-8920-f874a3583fde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/b806a7cd-d7e0-492b-b85b-7016300518fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/9c72d74d-136d-412b-8d24-bdde4f3ba95f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/6f06cfb3-c43d-4e0e-ab0f-c17158fbeb5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/8a2a7d32-37ab-453a-99ee-5edeff042166.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/f28d8e0e-e428-4f63-9539-3576342dbd40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/cc083e30-e32f-4930-9495-85589ae214af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/02715b65-c315-41ee-ad87-871ff6179a55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/6e637a36-4142-4383-860a-3f5c67dfc8a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/d119b431-999d-4fe1-bfe3-13b2e8d37073.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/21c6ede6-7b32-419e-a0e5-7b562eebc460.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/34f21045-17b5-44c6-a312-47a4d1cc0684.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/b695d20b-58c8-475a-a247-ff612a62a524.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/74561c20-a0d2-4f4a-926b-06ecf92cb90c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/b7f53cd4-8fc9-4b30-ba3f-99059aa56df7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/7a7673a7-88cd-4ae2-9678-db81b1851563.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/57664a9a-964b-4be7-a7d2-0253c7afed74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/e9daecd6-64ae-4e0a-9502-9e92a592a648.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/f4e74d06-9fa1-44bc-9c30-fb52df2e0d1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/3e97891c-0904-47da-ad87-76e5fe88803f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/4a0b48f5-9e63-4bb8-af4c-f3f704a3dc0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/458aaba0-3ad8-4c92-afa9-c7cdd3c2b828.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8da6a27e-6cdb-470d-bf0e-eb7412fef1dc/34f21045-17b5-44c6-a312-47a4d1cc0684.png"
+      ],
+      "expert_review": "The verdict: The Volvo C40 Recharge is a flawed, style-over-substance crossover “coupe” that, while comfortable, has half-baked tech and requires too many compromises.\n\nVersus the competition: The C40 Recharge immediately feels outdated. Competitors offer more range, faster charging and better onboard technology without making you deal with the Volvo’s poor outward visibility and lack of headroom.\n\nThe 2022 Volvo C40 Recharge is Volvo’s second all-electric SUV, and it’s arriving in showrooms this year. It will join the company’s other fully electric offering, the XC40 Recharge, which is based on the gas-powered XC40. The C40 Recharge is a “coupified” version of that car, with a lower, more rakish roofline meant to appeal to folks looking for a sportier take on a Volvo electric vehicle. It has the same bits under the skin as the XC40 Recharge, and largely the same interior, but unlike the XC40, it only comes in a fully electric version — no gasoline option available. \n\nSo, with less interior headroom and cargo space than the XC40, has chopping the top off an SUV compromised its usefulness in a quest for style? The answer is yes — and that’s not the only thing that’s gone wrong here.\n\nRelated: 2022 Volvo XC40 Recharge Review: A Ravenous Rocket \n\nCompromises of a ‘Coupeover’ SUV\n\nThere’s really no way around this: The notion of taking an SUV and shaving its top to make a lower, less-useful version — which is somehow regarded as more stylish — just doesn’t work. It didn’t work for the BMW X4 and X6, the Mercedes-Benz GLC and GLE Coupes, or the Infiniti QX55, and it doesn’t work for the C40 Recharge. The problem is that these “coupeovers” simply require too many compromises — and command higher prices for the privilege. \n\nVolvo did an admirable job on the C40 Recharge’s styling, with some interesting taillights that stretch up into the rear D-pillars. From the inside, however, the coupeover styling has removed any semblance of rear visibility from the driver’s seat. Even with the driver’s seat set as low as it can go, you cannot see the horizon line in the rearview mirror. In fact, you can’t see anything but the lower bumper of the car behind you if it’s less than 100 feet away. Beyond that distance, you really can’t see anything at all; you’ll be checking your side mirrors more than your rearview mirror to see what’s behind you. \n\nCombine the lack of rear visibility with a rising beltline that creates massive blind spots in the rear three-quarter view, plus the lack of a rear window wiper, and the view behind you is simply unacceptable. There are no such issues in the XC40 Recharge, thanks to its upright SUV styling. It maintains its utility in terms of both outward visibility and cargo space (another coupeover casualty), making it a much easier vehicle to drive. Such compromises to the C40’s outward visibility and utility — in exchange for perceived style — might be acceptable to some, but I find they make for a vehicle that’s highly awkward and unpleasant to operate. \n\nDriving Prowess\n\nOne would hope the driving characteristics of the C40 Recharge would make up for its styling and visibility compromises, and they do to some extent. The C40 has a twin-motor system, with one motor on each axle for standard all-wheel drive. They generate 402 combined horsepower and 487 pounds-feet of torque — but it honestly doesn’t feel like it. \n\nVolvo says the C40 Recharge can do 0-60 mph in 4.7 seconds, but it’s tuned more for lazy, efficient acceleration; you don’t get the full fury of all that electric grunt unless you really plant the accelerator to the floor. There’s no “sport” mode, either, so the car’s dynamics are its dynamics; all you can adjust are the steering feel and feedback (normal or sporty) and the aggressiveness of the regenerative braking. In that department, your choices are either “none at all” or “too aggressive,” it seems. One-pedal driving mode dramatically curtails forward motion when you lift off the accelerator, making passengers’ heads bob. When you switch this mode off, the brakes themselves aren’t very communicative, feeling more mushy and soft than firm and progressive.\n\nHandling is similarly tuned toward ease and comfort more than sporting pretense. Steering feel and feedback is electronically adjustable, and it can be set between normal and sport for a firmer feel and quicker response. Dialing toward sport, however, tends to make the C40 Recharge darty on the highway and in strong crosswinds. \n\nRide quality is a highlight of the C40, with bumps and pavement imperfections largely smoothed out without much fuss. You will, however, hear that happening, as wind and road noise is surprisingly high — perhaps simply a result of not having any powertrain noise to mask ambient sound. Overall, the driving dynamics of the C40 don’t quite match up to the promise of the car’s sporty pretense. It’s an EV tuned more for efficiency, with occasional blasts of speed, than for sport. Treat it as such, and you won’t be all that disappointed. \n\nThe car’s range is another thing about it that’s just average: It’s rated to have 226 miles of range by the EPA. It has a standard 78-kilowatt-hour battery and DC fast-charging capability that Volvo says allows it to go from a 10% charge to 80% in about 28 minutes. My own experience with this at a 150-kilowatt Electrify America charger took the C40 Recharge from 10%-80% in 36 minutes, with an observed peak charging rate of 140 kW that dropped steadily over those 36 minutes. Obtaining a full charge at home on a dedicated 240-volt Level 2 charger should take about 7-8 hours at 11 kW, or nearly two days if you plug it into a standard 120-volt outlet.\n\nVolvo Quality Inside, But Electronics Disappoint\n\nYes, the C40 Recharge is only average in its operation, and it features some serious compromises in its construction, but what Volvo did well with the car is its interior design, packaging and comfort. The dash looks nearly identical to the XC40’s, with the exception of some really novel textured trim bits that turn translucent at night thanks to some classy backlighting effects. The seats are Scandinavian firm but long-term comfortable in both rows. \n\nYou’ll need to duck your head to get into the backseat thanks to that swoopy roofline, and headroom isn’t all that fantastic for backseat passengers, but they will have sufficient legroom. Everything is screwed together well, and materials quality is far superior to anything in a Tesla. With the C40, you’ll pay a premium for an EV with a luxury-brand badge on its hood, but at least Volvo doesn’t make you question that decision when you’re seated inside it.\n\nOf course, once you start using the interior electronics those questions will pop up again. The digital gauge cluster is almost inexcusably bland and devoid of functionality; it can’t even display the current media track or radio station. The multimedia system operates on a Google OS, and there were several functions that simply didn’t work in my test vehicle, like using voice commands to change the radio station. The system also lags badly when trying to access things like navigation, which is now Google Maps. My test car didn’t have Apple CarPlay, but Volvo added it as an over-the-air update in late July. \n\nAs good as the interior looks, this new digital operating system is a serious letdown; it doesn’t seem to have the functionality of the native Volvo system. The gauge cluster is boring and overly simple, especially for a dedicated EV — but perhaps that’s what Volvo was aiming for: to disguise this dedicated EV as an ordinary car for people who would rather drive something more traditional.\n\nWorthwhile or Worth Skipping?\n\nThe Volvo C40 Recharge is a comfortable around-town runabout that requires some serious compromises, but its biggest issue just might be its competition. There are several EVs in the same category as the C40 Recharge that are bigger, more comfortable and more spacious. They have longer ranges and faster recharge times, and their interiors boast far more features and functions. If you can live without a luxury badge in exchange for a longer range and faster charging, a Hyundai Ioniq 5 or Kia EV6 are both top choices. Audi has perhaps the closest competitor to the C40 Recharge in its Q4 eTron, and it has a longer range at a similar price. It even has its own silly “coupeover” variant: the Q4 eTron Sportback. \n\nVolvo made some unusual decisions with regard to the C40 Recharge, and not all of them add up to a desirable package. In the end, this car will be for drivers who are attracted to its style and are able to overlook the shortcomings of its design and performance.\n\n \n\nRelated Video:\n\nMore From Cars.com: \n\n2022 Volvo C40 Recharge: Volvo Takes Ordering Online-Only With New EV\nVolvo Will Charge $55K for Its All-Electric XC40 Recharge\nVolvo’s Getting All Charged Up About Electric XC40\nAll-Electric 2021 XC40 Recharges Volvo’s Future\nElectric Cars With the Longest Range\n2021 Polestar 2 to Take on Tesla Model 3 With $61K Starting Price\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_25688",
+          "price": "$25688",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cc733a51-9234-44c4-a75b-d54ccba6add6/b2055a0b-0f21-41d1-8211-f1ea386f2431.png"
+      ],
+      "expert_review": "What Is the 2023 Volvo C40 Recharge?\n\nThe Volvo C40 Recharge is an all-electric small luxury SUV that’s essentially a sportier-looking but much less practical take on the brand’s XC40 Recharge. The C40 has a tapered roofline that compromises not just rear visibility, but also passenger space in the backseat. Not helping matters is its driving range of just 226 miles, which is bettered by a number of EVs that cost less. On the plus side, the C40 Recharge’s ride is comfortable, and it has a number of standard active-safety features, including blind spot warning, rear cross-traffic alert and road-sign recognition. Competing electric SUVs include the Audi Q4 e-Tron, Ford Mustang Mach-E, Jaguar I-Pace and Kia EV6.\n\nWhat’s New on the 2023 Volvo C40 Recharge?\n\nVolvo adds more affordable Core and Plus trim levels to supplement the existing Ultimate trim. \n\nWhat Features in the 2023 Volvo C40 Recharge Are Most Important?\n\nStandard features include:\n\n9-inch Google-based touchscreen multimedia system\nApple CarPlay and Android Auto smartphone connectivity\n12-inch digital gauge cluster\nDual-zone climate control\nHeated front seats\nPower liftgate\nDC fast charging\nForward collision warning\nAutomatic emergency braking\nLane departure steering assist\nBlind spot warning\n\nAvailable features include:\n\nSurround-view parking camera\nFoldable cargo floor/divider\nHeated steering wheel\nHeated rear seats\nAdaptive cruise control\nPilot Assist driver-assist system\n12-speaker Harman Kardon audio system\nShould I Buy the 2023 Volvo C40 Recharge?\n\nIf you’re smitten by the style of the Volvo C40 Recharge and can live with its modest driving range and limited practicality, it’s your money to spend. But there are better EVs available, including Volvo’s own XC40 Recharge, which holds an edge in terms of cabin space, cargo volume and pricing. Volvo has a strong reputation for building eminently smart and sensible vehicles, but the C40 Recharge might be too much frosting and not enough cake.",
+      "trims": [
+        {
+          "name": "FWD Core",
+          "price": "$50000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "402-horsepower, dual-motor powertrain",
+              "All-wheel drive",
+              "226-mile driving range",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "- Engine",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "FWD Plus",
+          "price": "$51550",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "402-horsepower, dual-motor powertrain",
+              "All-wheel drive",
+              "226-mile driving range",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "- Engine",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "FWD Ultimate",
+          "price": "$54800",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "402-horsepower, dual-motor powertrain",
+              "All-wheel drive",
+              "226-mile driving range",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "- Engine",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "Twin eAWD Core",
+          "price": "$55300",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "402-horsepower, dual-motor powertrain",
+              "All-wheel drive",
+              "226-mile driving range",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "402 @ 13900 SAE Net Horsepower @ RPM",
+              "486 @ 4350 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "4,737 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,970 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Twin eAWD Plus",
+          "price": "$56850",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "402-horsepower, dual-motor powertrain",
+              "All-wheel drive",
+              "226-mile driving range",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "402 @ 13900 SAE Net Horsepower @ RPM",
+              "486 @ 4350 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,970 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,751 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Twin eAWD Ultimate",
+          "price": "$60100",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "402-horsepower, dual-motor powertrain",
+              "All-wheel drive",
+              "226-mile driving range",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "486 @ 4350 SAE Net Torque @ RPM",
+              "402 @ 13900 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "4,780 lbs Base Curb Weight",
+              "3,970 lbs Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/ec6c3322-d043-41e3-b264-6f72d11ef50b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/c4338bca-fb7e-466a-a09d-949f1d5a45fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/f98dadbd-d527-447c-9642-a48a743956a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/41c6ed8a-2cf1-43d5-8aba-670bcc7390ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/9f61257b-13d8-465e-b22a-874e4524458e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/241fe023-6d69-41f9-a0db-5497cd46e03c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/58c78b40-7a9c-4d48-9d8e-6eee5d2f0a8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/1ecfcfdb-41d2-4527-8ef1-55afbfe01487.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/8fd8b02f-e115-4f9f-8e00-70af84a13f63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/c334ceb5-0410-4e07-ba79-c8da7cb387c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/9fd807e8-eba9-4a29-98a1-b9605d0546cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/11b4d1c0-483d-4196-b639-c2ee717e2a77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/af305eb6-fd7d-46ae-b6e6-963a96d76f80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/e13771f8-b19f-4a33-9706-f9d95275f37e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/9de34e4f-0bde-44ef-a9a1-2b57ffb45a13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/95714f61-7f37-40f3-b764-515f656c7ac4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ed2448f7-ab16-4f3a-9516-ac0f81273716/4e5c56d8-8122-4275-9351-ea49112557a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/114b7685-6588-4faf-8c49-f6c2efabcc3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/222724cc-ea4a-47e4-b35c-222d60458285/57eac67c-2dc4-4147-8d9e-f8b0649e81c6.jpg"
+      ],
+      "expert_review": "What Is the 2024 Volvo C40 Recharge?\n\nThe Volvo C40 Recharge is an all-electric small luxury SUV that’s essentially a sportier-looking — but much less practical — take on Volvo’s own XC40 Recharge. The C40 has a tapered roofline that compromises not just rear visibility, but also passenger space in the backseat. Competing electric SUVs include the Audi Q4 e-Tron, Ford Mustang Mach-E, Hyundai Ioniq 5 and Kia EV6.\n\nWhat’s New on the 2024 Volvo C40 Recharge?\n\nA new rear-wheel-drive variant with a single 248-horsepower motor joins the line. As before, all-wheel-drive models use a 255-hp rear motor and add a second new motor driving the front wheels that’s good for 147 hp, for a total output of 402 hp. Both motors are new and improved for 2024, enabling a range increase of about 31 miles, to 257 miles. Other changes include new 19-inch wheel designs for base Core and mid-level Plus trims, plus new exterior colors and some shuffling of standard and optional feature availability.\n\nHow Much Range Does the 2024 Volvo C40 Recharge Have?\n\nThe C40 Recharge’s EPA-estimated driving range is 257 miles with AWD and 297 miles with RWD.\n\nHow Long Does It Take to Charge the 2024 Volvo C40 Recharge?\n\nAccording to Volvo, the C40 Recharge can be charged from 10% to 80% in as little as 28 minutes on a 350-kilowatt DC fast charger, and from 10% to 90% in eight hours on an 11-kW Level 2 charger.   \n\nWhat Features in the 2024 Volvo C40 Recharge Are Most Important?\n\nStandard features include:\n\n9-inch Google-based touchscreen multimedia system\nApple CarPlay and Android Auto smartphone connectivity\nWireless device charging\n12-inch digital gauge cluster\nDual-zone climate control\nHeated front seats\nPower liftgate\nDC fast charging\nForward collision warning\nAutomatic emergency braking\nLane departure steering assist\nBlind spot warning\nFoldable cargo floor/divider\n\nAvailable features include:\n\n360-degree camera system\nPower-adjustable front passenger seat\nHeat pump\nHeated steering wheel\nHeated rear seats\nAdaptive cruise control\nPilot Assist driver-assist system\n12-speaker Harman Kardon audio system\nShould I Buy the 2024 Volvo C40 Recharge?\n\nMaybe — so long as you’re smitten by the looks of the Volvo C40 Recharge and can forgive its limited interior room and practicality. The fact of the matter is that there are better EVs available, including Volvo’s own XC40 Recharge, which holds an edge in terms of cabin space, cargo volume and pricing. On the plus side, the C40 Recharge’s ride is comfortable, and it has a number of standard active-safety features, including blind spot warning, rear cross-traffic alert and road-sign recognition. Volvo has a strong reputation for building eminently smart and sensible vehicles, but the C40 Recharge might be too much frosting and not enough cake.",
+      "trims": [
+        {
+          "name": "RWD Core",
+          "price": "$53600",
+          "specifications": {
+            "Notable features": [
+              "Rear-wheel-drive variant new for 2024",
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "Available 402-horsepower, dual-motor powertrain",
+              "Rear- or all-wheel drive",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "257 - 297 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "248 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,970 lbs Maximum Trailering Capacity",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,737 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Twin AWD Core",
+          "price": "$55350",
+          "specifications": {
+            "Notable features": [
+              "Rear-wheel-drive variant new for 2024",
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "Available 402-horsepower, dual-motor powertrain",
+              "Rear- or all-wheel drive",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 - 257 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "402 SAE Net Horsepower @ RPM",
+              "494 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,737 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,970 lbs Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "RWD Plus",
+          "price": "$55400",
+          "specifications": {
+            "Notable features": [
+              "Rear-wheel-drive variant new for 2024",
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "Available 402-horsepower, dual-motor powertrain",
+              "Rear- or all-wheel drive",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 - 331 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "248 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,751 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,970 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Twin AWD Plus",
+          "price": "$57150",
+          "specifications": {
+            "Notable features": [
+              "Rear-wheel-drive variant new for 2024",
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "Available 402-horsepower, dual-motor powertrain",
+              "Rear- or all-wheel drive",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 - 257 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "402 SAE Net Horsepower @ RPM",
+              "494 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "4,751 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,970 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "RWD Ultimate",
+          "price": "$58800",
+          "specifications": {
+            "Notable features": [
+              "Rear-wheel-drive variant new for 2024",
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "Available 402-horsepower, dual-motor powertrain",
+              "Rear- or all-wheel drive",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 - 331 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "248 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Fuel Tank Capacity, Approx",
+              "3,970 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,780 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "760 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Twin AWD Ultimate",
+          "price": "$60550",
+          "specifications": {
+            "Notable features": [
+              "Rear-wheel-drive variant new for 2024",
+              "Five-seat electric subcompact SUV",
+              "Fastback-roof version of XC40 Recharge",
+              "Available 402-horsepower, dual-motor powertrain",
+              "Rear- or all-wheel drive",
+              "DC fast-charging capability"
+            ],
+            "Highlights": [
+              "226 - 257 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "494 SAE Net Torque @ RPM",
+              "402 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,970 lbs Maximum Trailering Capacity",
+              "397 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,970 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "397 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,970 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,780 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "760 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

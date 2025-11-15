@@ -1,0 +1,37 @@
+{
+  "make": "gmc",
+  "model": "van",
+  "years": {
+    "1992": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "125\" WB Steel 10'",
+          "price": "$19027",
+          "specifications": {}
+        },
+        {
+          "name": "146\" WB Steel 12'",
+          "price": "$20727",
+          "specifications": {}
+        },
+        {
+          "name": "146\" WB Aluminum 14'",
+          "price": "$20727",
+          "specifications": {}
+        },
+        {
+          "name": "HD 146\" WB Aluminum 14' C7C",
+          "price": "$21417",
+          "specifications": {}
+        },
+        {
+          "name": "HD 146\" WB Steel 12' C7C",
+          "price": "$21427",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

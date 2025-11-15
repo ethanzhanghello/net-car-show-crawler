@@ -1,0 +1,545 @@
+{
+  "make": "kia",
+  "model": "sorento_plug_in_hybrid",
+  "years": {
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/f28a1b4a-b8ee-4918-a1e9-c66f15cb120f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/46dc7ddb-c816-405a-8018-da10c9f9d6cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/22b063d9-05f2-4713-9f16-986cc33d3ad9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/55b3d2ae-0dd4-486c-8fe6-f8ff74100f49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/6eeff759-4fd7-45cf-8b99-90161b2be132.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/096df3bf-c942-4cd1-81de-72baac73be1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/55f70b8b-5bfd-4a8b-b9f3-fecbd090f64e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/42011f1f-2494-4239-8efc-97d2f0040c2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/14ca2202-4568-4b6b-970d-237744892248.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/42011f1f-2494-4239-8efc-97d2f0040c2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/f6879af1-ebc1-447b-a222-55bcadac2ac2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/098888b7-f973-4494-9617-a0ec51a9f643.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/a91ef50a-367e-494d-bfdb-f50302191cc9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/cf9415b3-12bb-45bb-bf9b-9a54afc1feb4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/12bce131-29c5-4024-a098-d631eec93c02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/715fa4d1-7f68-4f3a-b31c-c719f9c0ba5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/be0e2ee3-fbea-404c-be16-e2fd9d64db98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/d6ba8df4-754b-4734-83d5-27539198844f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/554f687d-bb07-4446-8384-3af36b8d4ac2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/2a9a0008-3f17-4a18-a065-d04236678841.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/4698e8ac-f62f-488a-abab-fd18b9af0da4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/7dee77f9-2d46-4a59-9101-9ec882542072.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/11423543-7096-424a-b3e0-d12436b3be03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/80af0f7b-6ec7-4038-8723-5394f89bc24b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dab3d67c-e60e-43bc-b552-ff897a05b904/0b998b78-3509-4ee2-86a3-11d67a17c16f.png"
+      ],
+      "expert_review": "The Kia Sorento PHEV returns for the 2023 model year, but Kia has “streamlined” the plug-in hybrid lineup to a single trim, eliminating the SX and leaving only the SX-P. The fully loaded SX-P (the “P” stands for “prestige”) gets some minor enhancements for 2023 and will start at $51,095 (including $1,295 destination fee), a $1,710 increase over the 2022 model.\n\nRelated: 2023 Kia Sorento Hybrid Starts at $37,885, Adds Range-Topping SX-P\n\nPower for the Sorento PHEV comes from a turbocharged 1.6-liter four-cylinder gas engine and a 66.9-kilowatt electric motor, producing a combined 261 horsepower and 258 pounds-feet of torque. All-wheel drive is standard, and the sole transmission choice is a six-speed automatic. Official EPA estimates for the 2023 Sorento PHEV aren’t available as of this writing, but the 2022 model is rated at 79 mpg-equivalent and 34 mpg combined when only using the gas engine, with 32 miles of all-electric range. Expect the 2023’s ratings to match or come very close to those.\n\nAs the top trim (and now the base, too), the SX-P is loaded with all sorts of goodies, including advanced driver-assistance tech like forward collision warning with automatic emergency braking, lane departure warning, lane keep assist, blind spot warning with collision avoidance assist and rear cross-traffic detection, rear collision avoidance assist and much more. For 2023, the SX-P also adds standard Homelink, retractable sunshades for the rear doors and a 115-volt household outlet.\n\nThe 2023 Kia Sorento PHEV is on sale now. Note that prices do not include any applicable federal tax credits.\n\nMore From Cars.com:\n\nWhich 3-Row SUVs Offer Captain’s Chairs?\n2022 Kia Sorento Vs. 2022 Kia Telluride: Playing Favorites\nHow Do Car Seats Fit in a 2022 Kia Sorento?\n2022 Kia Sorento Plug-In Hybrid: Kia Launches First Mainstream 3-Row PHEV\nIs the 2021 Kia Sorento Hybrid a Good SUV? 5 Pros and 5 Cons\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_36995",
+          "price": "$36995",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/2d3ad53d-8620-4110-bba7-41f50106ae0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/0fb8fb2f-ed90-4327-b4b6-706671d5ab0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/42bba0d6-66f5-4c68-994f-f0465b1b26ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/72c79acd-7a50-43a5-a50b-977f1748ff56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/181e9820-2e13-42c7-bd02-fe2b5ea36817.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/46d964bd-ee75-477b-9306-69bbebed7300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/5851e244-e6e4-42d2-b0a5-da0947a0cd16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/93bc144b-9d1f-4b63-b83d-0a1360ef9ca1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/4b972c40-203c-4da3-80d3-001fdeda154f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/7fc38b4c-990d-4286-99ef-8201f76719ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/b3448b5f-00c8-4355-a196-81027d10f8ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/9894406f-ffd0-4fea-ad18-a45459ee2b2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/f01ba678-2986-4cda-85b0-f2c7cf998fd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/6a6e21dd-ab33-4173-b85d-992281880eb2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/76c18e41-dabf-403d-82a7-d2db673ca807.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/68a51e67-2fe1-4d54-8830-fcc83e0a7cb9.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/93bc144b-9d1f-4b63-b83d-0a1360ef9ca1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/0eaab8a0-d6df-42e4-835e-63c63bb8386a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/790162fd-a5c7-4040-aa0f-67c27cb18792.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/13ae7c47-c269-406a-89ef-657b2612d2da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/9cbcf44e-abfb-4ea1-a292-251c79ac42df.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/a8efa9b5-2810-4ca5-9210-dad031663382.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/45bec6fd-18d2-47f8-95ef-f59f2dc8bf69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/12931cef-c360-48ed-ba6f-ae63ae0cca32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/e0e58bf0-86d7-4a53-bef8-4eb7a6df012c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d6b2df7d-1f19-4c9d-8c8b-1c25c5ae9f7e/e34fa065-d0b6-4d87-886a-e789e8126555.png"
+      ],
+      "expert_review": "What Is the 2024 Kia Sorento?\n\nThe Kia Sorento is a three-row mid-size SUV with seating for up to seven. The base powertrain is a 191-horsepower, 2.5-liter four-cylinder engine coupled to an eight-speed automatic transmission. Optional is a 281-hp turbocharged version of this engine, paired with an eight-speed dual-clutch automatic. The Sorento is also available with hybrid and plug-in hybrid powertrains. The hybrid employs a gas-electric powertrain with a 1.6-liter turbo four-cylinder engine that produces 227 hp and returns an EPA-estimated 37 mpg in combined city/highway driving with front-wheel drive, 34 mpg with all-wheel drive. Sitting atop the range, the Sorento Plug-in Hybrid comes standard with AWD; its 261-hp gas-electric powertrain uses a turbo 1.6-liter four-cylinder engine and has an EPA-estimated electric driving range of 32 miles on a full charge.\n\nIf toting around little ones is part of your daily routine, you can see how the Sorento scored in our Car Seat Check. The Sorento’s rivals include the Honda Passport, Hyundai Santa Fe, Subaru Ascent and Toyota Highlander.\n\nWhat’s New on the 2024 Kia Sorento?\n\nThe regular gas-engine Sorento gets a styling refresh that brings its looks more in line with Kia’s larger three-row Telluride, along with a new dashboard design that includes a standard 12.3-inch infotainment screen and an optional 12.3-inch digital gauge cluster. Wireless Apple CarPlay and Android Auto are now standard, too. Also joining the line is an off-road-themed X-Pro trim that comes standard with AWD and chunky all-terrain tires.\n\nMeanwhile, the hybrid and plug-in hybrid Sorentos are carried over with only minor trim changes for 2024; they will be refreshed for the 2025 model year.\n\nWhat Features in the 2024 Kia Sorento Are Most Important?\n\nStandard features include:\n\n12.3-inch touchscreen multimedia system\nWireless Android Auto and Apple CarPlay connectivity\nFive USB ports\nSecond- and third-row bench seats\nAdaptive cruise control\nAutomatic emergency braking\nBlind spot warning\nRear cross-traffic alert\nLane departure steering assist\nRear automatic braking\n\nAvailable features include:\n\nPanoramic moonroof\nLeather upholstery\nHeated and ventilated front seats\nHeated second-row captain’s chairs\nHeated steering wheel\nDual-zone automatic climate control\nBose premium stereo\n12.3-inch digital gauge cluster\nWireless device charging\n360-degree camera system\nFront and rear parking sensors\nHands-free power liftgate\nShould I Buy the 2024 Kia Sorento?\n\nThe Sorento continues to impress with its cabin quality, a long roster of standard comfort and safety features, and bold exterior design. The Sorento’s smart refresh for 2024 makes a good thing that much better, though a few problems remain. These include a tight third row and a limited amount of cargo volume when the rear seats are occupied. Even so, many families might find the Sorento to be sized just right, offering the flexibility of a third row and more space all around than a compact SUV while being easier to park and maneuver than a larger three-row SUV would be. The hybrid and plug-in hybrid do without the regular Sorento’s updates for this model year, but they’ll both catch up for 2025.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d9f9a6a9-96c4-4f16-8c6d-8c2d6cbf9310/a4948077-1fe8-4c88-9b73-3b5cdbc403d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9f9a6a9-96c4-4f16-8c6d-8c2d6cbf9310/8aeabeb5-f180-4373-9d66-d81d10574401.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9f9a6a9-96c4-4f16-8c6d-8c2d6cbf9310/fadfc8cd-a016-47f7-b701-577505bae97f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9f9a6a9-96c4-4f16-8c6d-8c2d6cbf9310/a4948077-1fe8-4c88-9b73-3b5cdbc403d4.png"
+      ],
+      "expert_review": "Key Points:\n\nThe Kia Sorento’s range-topping SX Prestige trim gets a standard X-Line appearance package for the new model year.\nUp to 31 miles of electric range.\nThe 2026 Kia Sorento Plug-in Hybrid has a base price of $49,735 (all prices include $1,445 destination charge).\n\nKia is betting it all on black, making its X-Line appearance package standard equipment on the highest trim levels across the Sorento lineup — gas, hybrid and plug-in hybrid. The 2025 plug-in hybrid’s range-topping SX Prestige trim is renamed X-Line SX Prestige for 2026 and embellishes the three-row SUV with dark-gray and black accents on the front and rear bumpers, window trim and wheels. Otherwise, there are no major changes to the Sorento PHEV for 2026, and the base price increases only $300 from 2025.\n\nRelated: 2024 Kia Sorento Review: There Isn’t Only 1 Highlander\n\nRelease Date and Pricing\n\nThe 2026 Kia Sorento Plug-In Hybrid is on sale now. Like the regular Sorento Hybrid, the PHEV is only available in two of the priciest, most luxurious of the gas-only Sorento’s trims, EX and X-Line SX Prestige. Pricing for the Sorento PHEV is as follows:\n\nEX: $49,735\nX-Line SX Prestige: $54,935\n\nFor comparison, the gas-powered Sorento starts at $39,735 and the Sorento Hybrid at $40,335.\n\nTrim Levels\n\nWhile Kia asks nearly $50,000 for the Sorento PHEV, the three-row SUV does come well equipped, even in entry-level EX form. The EX rides on 19-inch wheels and features LED front exterior lighting, heated side mirrors, a power liftgate, keyless entry and starting, and remote start. Its cabin is upholstered in synthetic leather and boasts a 10-way power-adjustable driver’s seat and eight-way power passenger seat (both heated), dual-zone automatic climate control, wireless phone charging, six speakers, and a 10.25-inch touchscreen with Apple CarPlay and Android Auto.\n\nKia’s Drive Wise safety suite is standard on the 2026 Sorento PHEV, but the exact contents vary depending on trim level. In the EX, Drive Wise includes forward collision warning with pedestrian and bicyclist detection, automatic emergency braking, adaptive cruise control, lane-centering steering, blind spot monitors, rear cross-traffic alert, front and rear parking sensors, a driver-attention monitor and automatic high beams.\n\nBuyers who upgrade to the X-Line SX Prestige get the black exterior trim including black 19-inch wheels, plus rain-sensing windshield wipers, a panoramic moonroof, LED taillights and Digital Key 2.0, which allows owners to use a paired smartphone as the vehicle key and to remotely monitor the vehicle. Inside, the X-Line SX Prestige includes perforated leather upholstery, 14-way power driver’s and 10-way passenger seats with ventilation, a heated steering wheel, a 12.3-inch digital instrument cluster and a 12-speaker Bose surround-sound system.\n\nFor the X-Line SX Prestige, Kia adds forward cross-traffic alert, blind spot intervention, emergency steering assist, side parking sensors, reverse automatic braking, a 360-degree parking camera and blind spot cameras.\n\nRead More About the Kia Sorento Lineup:\n\nHow Do Car Seats Fit in a 2024 Kia Sorento?\n2025 Cars.com Affordability Report: Best Value New Cars\nWhich 3-Row SUVs Offer Captain’s Chairs?\nAutomakers Respond Quickly to New IIHS Front Crash-Prevention Test\nResearch the Kia Sorento Plug-In Hybrid\nPowertrain Specs and MPG\n\nThe Sorento PHEV combines a turbocharged 1.6-liter four-cylinder engine with a potent electric motor to generate a total of 261 horsepower and 258 pounds-feet of torque. (That’s the same torque output as the Sorento Hybrid but an additional 34 hp.) Like the hybrid, the PHEV routes its power through a six-speed automatic transmission, but all-wheel drive is standard.\n\nKia says the 2026 Sorento PHEV can travel up to 31 miles on electricity alone and returns the same EPA-rated 33/33/33 mpg city/highway/combined as the 2025 model with its gas engine running.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "EX AWD",
+          "price": "$48290",
+          "specifications": {
+            "Highlights": [
+              "30 mi. Range",
+              "6 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "1,654 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,652 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "X-Line SX Prestige AWD",
+          "price": "$53490",
+          "specifications": {
+            "Highlights": [
+              "30 mi. Range",
+              "6 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "1,654 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,652 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/d0fd37c4-d092-424e-a42f-3191e514f2cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/d330b06a-740a-42dc-bf93-144aaca828ef.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/42f97acd-e75e-4010-bd26-4ae853d721bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/6e69f9bf-54ed-48ee-a4eb-fb4c47b6f5ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/42f97acd-e75e-4010-bd26-4ae853d721bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/b705caa3-c849-4efc-b0e3-f0398648baa8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/aefc1c58-5e2b-4936-82a9-ccf716dc21b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/efd0cb0c-8948-4538-b05c-2e85931ba3b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/7b1f0a67-83d7-42c5-a930-bea4ef75ab41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/e866f23c-375a-4806-83d2-9a2aac8d4610.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/a995254e-15f5-4aa3-b523-3b982f824cfc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/95d705e1-9cc8-4851-91ff-7cfa98a24e12.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/1b3abb22-b0d4-44e5-a9fd-ba76ea16e24a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/1f35a539-3df5-4a19-be45-230834c52d52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/80618651-b31c-4314-9720-ce705ff2cfd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/96df143b-2072-4639-8d47-688fa154ab57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/aa511bc2-6431-4723-9260-2a75e652973a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/ee2a5665-8f52-494c-9c13-b244ba500828.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/18ae234b-db1a-4db0-a1e0-5ce908e93dbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/88f932fa-e823-4a8e-816a-45d422ff6d3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/3b33fff5-4f0c-4bb3-aecc-126ebee6b832.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/1a850ed8-a51b-4722-b40a-615a2da5b640.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/29d63005-fdf6-4397-b9f9-8dcf5c0e9cb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/4f270cae-60d0-4e53-b02b-adf29a91a20c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/469296ac-e9ec-4093-b60a-01d7130083ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4d5bfc33-4952-42e4-907a-7ed20b3a14d5/b41c290f-64dc-4588-94b3-8224767a8390.png"
+      ],
+      "expert_review": "Kia released plenty of details about its new 2022 Sorento Plug-in Hybrid last month — but not the model’s price. Now, we know the plug-version of the redesigned SUV will start at $46,165 before any applicable tax credits. Since Kia is still eligible for federal EV incentives, the automaker said the plug-in’s price could go as low as $39,578 with the full federal tax credit applied (all prices include destination).\n\nRelated: 2022 Kia Sorento Plug-In Hybrid: Kia Launches First Mainstream 3-Row PHEV\n\nThe new plug-in model joins the regular gas version and hybrid version of the three-row SUV, which were both redesigned for model-year 2021. The plug-in’s base price is for the SX trim; it will also be available in the SX Prestige trim starting at $49,065.\n\nThe Sorento PHEV uses a version of the hybrid’s turbocharged 1.6-liter four-cylinder engine and six-speed automatic transmission. It adds a 13.8-kilowatt-hour battery and 66.9-kilowatt electric motor for 261 combined horsepower, more than the hybrid model’s combined rating of 227 hp. All-wheel drive is standard. The plug-in has an EPA-estimated range of 32 miles of all-electric driving and a projected rating of 79 mpg-equivalent.\n\nCompared with a base hybrid model with optional AWD (the hybrid is only available in lower S and EX trims, and AWD is standard on the EX), the plug-in will cost around $3,000 more — after the tax credit.\n\nLike the other Sorento models, the plug-in will also come loaded with standard safety and driver-assist tech. On the plug-in, that includes adaptive cruise control with stop-and-go, lane-centering steering, a blind spot warning system with side-view monitors, and cyclist detection integrated into its automatic emergency braking.\n\nThe 2022 Kia Sorento Plug-in Hybrid is on sale now.\n\nMore From Cars.com:\n\n2021 Kia Sorento Review: A Middle Child Deserving of the Spotlight\n2021 Kia Sorento Hybrid Review: Big Vehicle With Small-Vehicle Fuel Economy\n2021 Kia Sorento: 6 Things We Like and 3 Things We Don’t\nFind your next car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "SX AWD",
+          "price": "$45190",
+          "specifications": {
+            "Highlights": [
+              "32 mi. Range",
+              "6 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "258 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "4,537 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige AWD",
+          "price": "$48090",
+          "specifications": {
+            "Highlights": [
+              "32 mi. Range",
+              "6 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,537 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/38fb858a-88bf-4ccb-9585-b071bea3bba8/1980fc07-7928-4dac-aafc-13033352948b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41f093ae-971b-46b3-b961-186141e1de80/9904f367-e1a2-45a2-a04d-5e1f1f08a530.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41f093ae-971b-46b3-b961-186141e1de80/aecd86e3-1326-4580-92c5-b25552587106.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41f093ae-971b-46b3-b961-186141e1de80/0004b7f5-eaef-4c8a-ab3d-f7ec8e698e6b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41f093ae-971b-46b3-b961-186141e1de80/755ccdf8-1de6-4050-a8ff-68d8bfd1793b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/41f093ae-971b-46b3-b961-186141e1de80/bd75b3b7-c87c-4a89-8171-3082259ead41.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41f093ae-971b-46b3-b961-186141e1de80/bf6e957b-e7c9-4168-9541-aec2fe32228f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/41f093ae-971b-46b3-b961-186141e1de80/1b1b5f2e-f544-40d3-be0a-e347ebdaf295.png"
+      ],
+      "expert_review": "The mid-size Kia Sorento SUV is available in a staggering array of configurations, from a front-wheel-drive, 191-horsepower gas-only variant to the 281-hp, all-wheel-drive X-Pro, plus two different hybrid powertrains in between. Kia refreshed the gas-only Sorento for the 2024 model year and is applying the same updates to the hybrid and plug-in hybrid for 2025. Now, Kia has released pricing for the PHEV version.\n\nRelated: 2024 Kia Sorento Up Close: The Baby Telluride\n\nWhat’s New\n\nLike the regular Sorento, the PHEV now has a larger grille bordered by sharp LED daytime running light spears. A 12.3-inch touchscreen infotainment system is standard, and a 12.3-inch digital instrument cluster is included on the range-topping SX Prestige trim level. The upgraded display is powered by Kia’s Connected Car Navigation Cockpit operating system, which can accept over-the-air software updates.\n\nPowertrain Specs and MPG\n\nThe Sorento PHEV’s powertrain is unchanged for 2025. It pairs a turbocharged 1.6-liter four-cylinder engine with an electric motor for a combined output of 261 hp and 258 pounds-feet of torque. That’s backed by a six-speed automatic transmission. While other Sorentos are available in FWD or AWD, the PHEV is only offered with AWD.\n\nA 13.8-kilowatt-hour battery pack provides an EPA-estimated electric-only range of 32 miles for the 2024 Sorento PHEV, and once the gas engine fires up, the EPA rates the Sorento PHEV at 34 mpg combined. Both figures are unlikely to change for the 2025 model.\n\nAvailability and Pricing\n\nThe 2025 Sorento Plug-In Hybrid will go on sale later this year. The base EX trim starts at $49,365 and the SX Prestige at $54,465 (all prices include $1,375 destination).\n\nFor context, the gas-only AWD Sorento EX starts at $43,065 for 2024. Its turbocharged 2.5-liter four-cylinder generates 281 hp and 311 pounds-feet of torque and nets an EPA-rated 20/27/23 mpg city/highway/combined. In the AWD SX-Prestige trim, the 2024 Sorento starts at $47,765.\n\nThe AWD 2025 Sorento EX hybrid is priced from $41,865, and the AWD SX Prestige hybrid stickers at $48,265. It’s more poky than the non-hybrid variant, with its turbocharged 1.6-liter four-cylinder making 227 hp and 258 pounds-feet with the help of an electric motor. On the upside, the hybrid manages an even 34/34/34 mpg.\n\nTrim Levels and Safety Features\n\nStandard safety tech on the 2025 Sorento PHEV includes forward collision warning with pedestrian and bicyclist detection and automatic emergency braking, intersection collision warning, adaptive cruise control, lane-centering steering, blind spot monitors, rear cross-traffic alert with automatic braking, a driver attention monitor, automatic high beams, and front and rear parking sensors.\n\nThe EX rides on 19-inch wheels and features standard LED front lighting, automatic headlights, and keyless entry and start. Interior features include synthetic leather upholstery, power-adjustable and heated front seats, dual-zone automatic climate control, a 12.3-inch touchscreen with navigation, Android Auto, Apple CarPlay, wireless phone charging and six speakers.\n\nStepping up to the SX-Prestige (which Kia abbreviates SX-P) nets buyers LED taillights, rain-sensing windshield wipers and a panoramic moonroof. Inside, the SX-P adds real leather upholstery, upgraded front seats with ventilation, heated rear seats and steering wheel, a 12-speaker Bose audio system and Kia’s Digital Key 2.0 Advanced, which allows owners to use paired smartphones as vehicle keys. The SX-P also gains additional safety equipment, such as enhanced intersection collision avoidance, blind spot cameras with collision avoidance assist, emergency steering assist, a 360-degree parking camera system and the hands-on semi-autonomous Highway Driving Assist 2 system, which features automatic lane changes.\n\nMore From Cars.com:\n\nFace-Lifted 2024 Kia Sorento Goes Off-Road With New X-Pro Trim\n2022 Kia Sorento Plug-In Hybrid: Kia Launches First Mainstream 3-Row PHEV\nWhat’s the Difference Between a Hybrid and a Plug-In Hybrid?\nWhich Hybrid Vehicles Have All-Wheel Drive?\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "EX AWD",
+          "price": "$47990",
+          "specifications": {
+            "Notable features": [
+              "Three-row mid-size SUV",
+              "Seats six or seven",
+              "Standard four-cylinder engine, optional turbo version",
+              "Hybrid and plug-in hybrid versions",
+              "Front- or all-wheel drive",
+              "Off-road-oriented X-Pro trim (turbo engine only)"
+            ],
+            "Highlights": [
+              "30 mi. Range",
+              "6 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "1,654 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,652 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige AWD",
+          "price": "$53090",
+          "specifications": {
+            "Notable features": [
+              "Three-row mid-size SUV",
+              "Seats six or seven",
+              "Standard four-cylinder engine, optional turbo version",
+              "Hybrid and plug-in hybrid versions",
+              "Front- or all-wheel drive",
+              "Off-road-oriented X-Pro trim (turbo engine only)"
+            ],
+            "Highlights": [
+              "30 - 32 mi. Range",
+              "6 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 SAE Net Torque @ RPM",
+              "261 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "1,654 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,654 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,654 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,652 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

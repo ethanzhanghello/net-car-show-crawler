@@ -1,0 +1,337 @@
+{
+  "make": "audi",
+  "model": "sq8_e_tron_sportback",
+  "years": {
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/428b53c6-5777-4d74-ac52-b3a71e3034fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/948e73ca-72e5-4b7b-a33e-fafff880afb7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/0c550f90-175b-429e-acc5-ad87887dd7c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/7412a0d3-973d-408b-9b4d-4fb113dbf922.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/909deff2-db9b-4cf7-a8f5-75be153a7153.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/298ba379-2d15-4081-b788-ac0aba0c1179.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/2307bd57-c2e4-426d-9152-f0cb2aa2b7fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/6150fbfd-c625-4026-bbd4-46d92f8c3bf6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/4799d8f7-f741-43a7-b8d0-3a19dfc0ec9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/e081d7ee-db18-4d11-8c13-77b6c8ce8f91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/d1d0aea8-afee-4012-8922-08ec253a406f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/a774831a-cefd-4520-b2aa-f69bd8dcf002.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/734d346d-7ed1-482b-aec2-370fd4d17a50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/e78ace7d-c0af-440f-b84b-cdbb6175fa4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/19655957-f4cd-4872-af57-79024d02310f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/163ae906-3779-490e-b80d-b0c57386711d/503e531b-0172-492e-a818-e24472e60f13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/81e67caa-ea17-415b-90ee-dcc158830b6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/bbac0910-32fe-4d3c-b181-5302529c1b09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/7927866e-d352-4a43-b1df-2d2e89f2349e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/999bde2e-c50d-4677-ac14-472cf23da805.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/771f1aed-6692-49b5-bd7c-23d01f3a4473.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/75c352ce-59a6-4050-9042-c2feffe495d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2559b55f-fecf-47ab-9806-e10eff51359d/4560193c-6807-463c-9729-f698fdd9c582.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Prestige quattro",
+          "price": "$92600",
+          "specifications": {
+            "Highlights": [
+              "253 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "596 SAE Net Torque @ RPM",
+              "429 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "6,118 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Adaptive Cruise Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus quattro",
+          "price": "$92600",
+          "specifications": {
+            "Highlights": [
+              "253 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "596 SAE Net Torque @ RPM",
+              "429 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,118 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Adaptive Cruise Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/acd3522a-5627-4319-92a0-a6839047c2b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/f3dc878a-27eb-4045-94d3-167e819fc8e5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/a55c7ca4-0012-407a-ade9-fb4867eda79d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/a89a5f61-92ce-4771-9b6a-abc4b968085b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/4d3ded62-cf19-4ed4-ba2d-a4610ea6b329.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/8ce6b5df-028e-4c95-a443-4777bb237612.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/63aaac52-884e-4ac6-828b-29aeacac050c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/2c8d8ece-b4e8-4bd9-b669-39ab2176bca8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/c6cecb69-540e-4656-b1ce-08cb18f0cf0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/ea478d74-aec8-499c-bcca-b1bb155f7629.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/c9a83e6c-b0bb-4812-ae11-8addcaeb7f3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/46eadd38-b309-4f4e-8d1f-3583988a160c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/d1569887-7f8e-4e50-aaac-b5bd3d3697e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/6ee9d57c-424a-416f-8f67-8d7562d04f3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/1946efff-6524-426d-ae1d-582352890732.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/4bed71c3-2074-40bb-9e4f-8ffdfda46431.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/c5b8366f-0d39-4454-b71d-fa9d6491a687.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/b1deb68d-a129-48ae-894f-9a71a0f07835.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/b7fbfa2a-4b91-40bf-bb76-1353d6e39f45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/0e65c2b5-fb8f-4aa2-8098-db478ba95767.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/a55c7ca4-0012-407a-ade9-fb4867eda79d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/74b16217-3794-428e-8d32-3f3f1942449e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/dde311e2-e27d-4b83-ac6b-b1822975981c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8bdfe8ec-3a97-4fd4-8dd1-d3a8eccd12df/7bd95f99-261e-41e0-8337-f3e11f75eefb.png"
+      ],
+      "expert_review": "After getting a new name and more range for the 2024 model year, Audi’s Q8 e-Tron lineup sees minor updates for 2025.\n\nRelated: 2024 Audi Q8 e-Tron Quick Spin: New Name, Bigger Battery, Better Experience\n\nWhat’s New\n\nQ8 e-Trons and Q8 Sportback e-Trons now include standard traffic-sign recognition, LED interior lighting and HomeLink buttons integrated into the rearview mirror. Additionally, Park Assist Plus has been upgraded to Remote Park Assist Plus, which allows external vehicle operation in permitted areas.\n\nThe Black Optic Package now features Anthracite Gray Audi rings for 2025, and the SQ8 e-Tron’s Black Optic Package is now available with 21-inch wheels with a bi-color finish and summer tires. A new Magnesium Package adds Neodymium Gold matte wheels, Magnesium and black exterior accents, puddle lamps featuring the “e-Tron Edition” logo, gray Audi rings and a body-color grille.\n\nPowertrain Specs and Range\n\nThe Q8 e-Tron and Q8 Sportback e-Tron use dual electric motors producing a combined 402 horsepower; Audi says the all-wheel-drive powertrain is good for a 0-60 mph time of 5.4 seconds. Powered by a 114-kilowatt-hour battery, both variants have an EPA-estimated range of 272 miles; the optional 21-inch wheels lower the range to 254 miles. Efficiency ratings are 77/80/78 mpg-equivalent city/highway/combined, or 73/75/74 mpg-e with the larger wheels.\n\nThe SQ8 e-Tron and SQ8 Sportback e-Tron add a third motor, increasing output to a total of 496 hp and reducing the 0-60 time to 4.2 seconds. The additional power results in a reduced EPA-estimated range of 242 miles, or 208 miles with 21- or 22-inch wheels; the SQ8s have a combined efficiency rating of 68/72/70 mpg-e, or 59/60/60 mpg-e with the bigger wheel options.\n\nPricing and Availability\n\nThe 2025 Audi Q8 e-Tron lineup is expected to arrive at dealerships soon. Starting prices are as follows (all pricing includes $1,295 destination fee):\n\nQ8 e-Tron\nPremium: $76,095\nPremium Plus: $80,495\nPrestige: $86,495\nQ8 Sportback S line e-Tron\nPremium: $79,495\nPremium Plus: $83,895\nPrestige: $89,895\nSQ8 e-Tron\nPremium Plus: $91,495\nPrestige: $97,495\nSQ8 Sportback e-Tron\nPremium Plus: $94,295\nPrestige: $100,295\n\nMore From Cars.com:\n\nHow Do Car Seats Fit in a 2024 Audi Q8 E-Tron?\nElectric Cars With the Longest Range\nEvery New Electric Car Starting Price and Range Available Right Now\nResearch the Audi Q8 E-Tron\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Prestige quattro",
+          "price": "$93000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat, electric mid-size SUV",
+              "Dual-motor all-wheel drive",
+              "Regular-roof or fastback-roof Sportback body styles",
+              "Sport-tuned SQ8 with more horsepower",
+              "Driving range from 208-272 miles, trim depending"
+            ],
+            "Highlights": [
+              "253 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "596 SAE Net Torque @ RPM",
+              "429 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "6,118 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Adaptive Cruise Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus quattro",
+          "price": "$93000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat, electric mid-size SUV",
+              "Dual-motor all-wheel drive",
+              "Regular-roof or fastback-roof Sportback body styles",
+              "Sport-tuned SQ8 with more horsepower",
+              "Driving range from 208-272 miles, trim depending"
+            ],
+            "Highlights": [
+              "253 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "429 SAE Net Horsepower @ RPM",
+              "596 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "6,118 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Adaptive Cruise Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

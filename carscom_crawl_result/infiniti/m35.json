@@ -1,0 +1,864 @@
+{
+  "make": "infiniti",
+  "model": "m35",
+  "years": {
+    "2009": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/a5f71a5b-644e-4b68-ab89-70e6c6fa6297.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/0749b1d3-0221-49cb-87fa-5e264d4f6276.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/be5d2f78-8864-48df-9cd7-05c6d0481233.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/15f7dcfb-02d4-40cf-b3a9-63c8d533f766.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/a0a01250-2fe3-439e-8e1e-9e82712dd58b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/73dcd6c1-966c-47aa-b16e-43a995857f05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/98bb0c2c-180c-4ab9-8c34-6fb7f88801a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/4e0acde9-0793-4ce2-a4d9-e5e254a31bda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/59629880-0745-46f2-8c44-6b977e83e64e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/0d7feb7b-3950-4a3c-ba76-032d6d62a407.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/8baa4eb8-a703-4a10-b3a3-00d70d716459.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/b48be14b-4fe1-418f-92ef-d77ca8b5d76e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/6cce63b2-c76a-4797-bf43-26371982c549.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/015190fa-9173-4846-a8f6-973555503a91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/e14903cb-cf8e-4e2c-85dd-397fa717dd3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/76842abb-76de-453a-82ef-ae91b5260568.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/57c6cfdb-d27d-4c4f-9abf-5b2f479295bd.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/32d5c5e1-809c-4d3e-a010-b1ca950b0098/05864799-6131-4616-8d44-1440c6acb896.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/b0cbb6e7-edc8-42ab-8478-8e69390e2c42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/5d7db255-502c-4e0d-ae8b-f9a8d2db9bc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/484fe828-6f5c-458e-8a08-092367572f0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/7159b149-fe12-464c-ad90-59fcfc45fcfb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/760978b6-eb6a-44d2-8570-c0f2d5a46fb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/46609af0-7642-44d2-928a-325baa330699.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/40bc3c94-5edb-49be-b713-700cee212a7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/03eb2de2-ee49-4a3f-8c5b-8d3811187937.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/1b575947-c8ed-41e0-a02c-36e4d8498024.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/6f5085c5-5ba7-4a62-9449-553aea6655e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/91dc1114-40ba-4fe6-9872-0a394324f9d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/d08ea1b1-5917-4536-b1b4-bc92d61cb29a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/20b445d3-15d5-4ef6-9eeb-1adefce83f7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/d7c83378-a565-4821-9982-3c804a664fb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/6449a61a-3c55-460f-8899-928bd34381d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/abbf4d90-ffca-4a7f-8b17-cf9750099006.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d4d98063-f683-4208-9f1f-3c8348f3e7f3/17b43790-ff28-4d5b-bc35-cacd7b9f3c3b.png"
+      ],
+      "expert_review": "A sedan isn’t usually what comes to mind when you think of a family car, but the 2009 Infiniti M35x could change that. The M35x single-handedly proves that sedans can be great family cars. In fact, it’s not only a great family car, it’s also a great hot-mama car, striking the perfect balance between practicality and luxury.\n\nThis car has everything a family of four could want and more. Its passenger room is spacious and comfortable; there are enough cupholders to accommodate everyone. The M35x’s audio system is kickin’, and there’s storage space aplenty.\n\nThe true brilliance behind the M35x is that it doesn’t skimp on pleasing the driver, too. It’s fun to drive, and the version I tested had an indulgent interior with buttery smooth leather upholstery and heated/cooled front seats. This is a car that can go from a playdate to a date night with no problems. I only wish I could go from one to the other as easily – I usually have to change outfits at the very least.\n\nThere were only two areas where the M35X failed me: fuel economy (it’s estimated to get 16/22 mpg city/highway) and Latch connectors. Because the mileage numbers aren’t egregiously bad and I’ve found myself complaining about fuel economy a lot lately, I’m going to let that one slide. Those darn Latch connectors, however, really bummed me out. They were difficult to find, and it took me way too long to install and uninstall my children’s safety seats as a result. Please, Infiniti, make them more accessible, and then the M35x will be the perfect family sedan.\n\nExterior\n\nThe M35x has fab curb appeal. Its look straddles the line between luxury and sport sedan, and it works. The tires are big, the body is sleek and it isn’t too large.\n\nAfter the trouble I had installing my child-safety seats and my children into the M35x, I noticed that something was off – in a good way. It was a little too easy to get the kids into their child-safety seats. Well, those clever Infiniti folks designed the rear doors to swing out to a full 80 degrees – wider than average. These doors are also sturdy without feeling like a ton of bricks. My son is the perfect height for car doors to knock him over, and many are so heavy that he’s been dazed once or twice. I’m happy to report that he walked away from our week with the M35x unscathed.\n\nLike many cars these days, the M35x has swivel headlights that illuminate turns, and keyless access with push-button start. The Intelligent All-Wheel Drive, however, is what really had me begging for more. This system monitors wheelspin, throttle position and speed to adapt the car to changing road conditions. The system also has a Snow Mode, which reduced aggravating wheelspin on ice and snow. Having Intelligent All-Wheel Drive on the M35x during a tempestuous Colorado snowstorm made a huge difference in my comfort level while driving.\n\nOf course, living in Colorado means you never know what the weather is going to do next. The day after the snowstorm brought sun and 65 degrees, so I opened the M35x’s expansive sunroof and enjoyed the day.\n\nInterior\n\nThe M35x was beautiful on the inside, too. You can get it with textured aluminum or African rosewood trim. My test car had the rosewood; it was rich-looking and welcoming.\n\nThe front seats were firm-feeling with great support. Both front seats have 10-way power adjustments. Most cars pile all the adjustments and comfort only on the driver’s seat, but not the M35x. The front seats were also heated and cooled, which was really cool (pun intended).\n\nThe rear seat was roomy and comfortable; I could easily fit between my children’s car seats. The rear seats recline, and there’s a retractable sunshade to keep the sun out of kids’ eyes. You can opt to get climate and audio controls back there, too. I really appreciated the pass-thru to the trunk, which is handy for skis.\n\nMy test car included the Technology Package and the Advanced Technology Package. The packages added a Bose surround-sound system with 14 speakers, including a couple at shoulder level in the front seats that create a personal concert whenever the stereo is on, as well as a navigation system with a touch-screen, a Music Box hard drive for MP3 files, and an iPod interface.\n\nYou can also opt for the DVD player if you upgrade to the Premium Package. I was smitten with this, as sedans don’t usually have DVD players. You get a roof-mounted screen and two sets of wireless headphones with this package, which means you don’t have to listen to “Finding Nemo” for the 1,000th time. Another bonus: The DVD player sits in the center console between the front seats, so you don’t have to climb in back to control it.\n\nIT’S THE LITTLE THINGS THAT COUNT\n\nStorage Compartments (Puny, Fair, Ample, Galore): Ample\n\nCargo/Trunk Space (Puny, Fair, Ample, Galore): Ample\n\nSafety\n\nWhen I first picked up the test car, it beeped at me several times while I was driving on the highway. It took me a minute to figure out that it was beeping every time I drifted into another lane. This was the Lane Departure Warning system in action. There’s a small camera mounted behind the windshield that detects lane markers, and when the car drifts out of its lane, the system responds with an alarm and a blinking light in the speedometer. If you don’t straighten yourself out, the stability system lightly applies brake pressure and steers the car back into your correct lane. Geesh! I began to wonder if this car could make a cup of tea for me, too.\n\nA backup camera is available on the M35x, and it has handy on-screen guidelines to show you where you’re going.\n\nBrake assist is standard, and it applies the maximum brake force needed to prevent a collision. Apparently, many drivers don’t apply enough force to the brakes quickly enough to avoid a collision, and this safety feature helps with that problem.\n\nThere are six airbags, including front-, side-impact and side curtain airbags for both rows. The M35x also has antilock brakes, an electronic stability system, traction control and active head restraints for the front seats.\n\nFAMILY LIFESTAGE\n\nIn Diapers: There’s plenty of space for rear-facing infant seats and convertible child-safety seats.\n\nIn School: The kids will love the rear DVD player; you’ll love the two sets of wireless headphones.\n\nTeens: Teens won’t mind sitting in the backseat because it reclines.",
+      "trims": [
+        {
+          "name": "4dr Sdn RWD",
+          "price": "$45800",
+          "specifications": {
+            "Notable features": [
+              "Updated V-6 makes 303 hp",
+              "Seven-speed automatic (M35 only)",
+              "Available Lane Departure Prevention system",
+              "RWD or AWD",
+              "Available backup camera",
+              "Unique styling with Sport package (M35 only)"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "303 @ 6800 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "3.5L/213 Displacement",
+              "262 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Double Wishbone Suspension Type - Front",
+              "Independent Multi-Link Suspension Type - Rear",
+              "w/Stabilizer Bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer Bar Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,941 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn AWD",
+          "price": "$47950",
+          "specifications": {
+            "Notable features": [
+              "Updated V-6 makes 303 hp",
+              "Seven-speed automatic (M35 only)",
+              "Available Lane Departure Prevention system",
+              "RWD or AWD",
+              "Available backup camera",
+              "Unique styling with Sport package (M35 only)"
+            ],
+            "Highlights": [
+              "16 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 4800 SAE Net Torque @ RPM",
+              "303 @ 6800 SAE Net Horsepower @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Stabilizer Bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer Bar Suspension Type - Front (Cont.)",
+              "Independent Multi-Link Suspension Type - Rear",
+              "Independent Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,058 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2008": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/5a668c84-6c39-4948-b777-1fed3e543e8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/0528ac01-e1cd-4531-be48-b95d354d53c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/a8ae53cb-f01a-4efc-96d2-08cebc1d3095.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/5fb2a9ce-b58d-4c23-947c-607f48b2e3ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/8bba86fb-56a4-42c2-85d8-a5ee8799e2ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/de221677-f729-4def-8298-cd4f6ca6499e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/4a180d5c-d851-4840-89e8-120501cf1e19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/564937a0-9a10-48f7-b83f-d1c1e244e350.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/74a52390-6c41-46d6-a4ae-2a84adaf54f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/45b32d35-14c2-48c5-b0b9-2c3b6f325d95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/8e35e5cd-8254-4908-8167-1bb408471d6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/17c1a2e5-5c06-4ed7-b307-8624a1b860e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/baa4fcd2-f32d-4bea-8bb8-e4decdceb00e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/6a38fab0-4294-4c7a-a38b-2014ca77046a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/555b8b57-f114-4007-afd8-06798b566ea6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/18dda6ef-38ca-4e95-8e93-0f29770ceabf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/ec334bb2-0c94-4c70-9702-1faa862d4818.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/5a3fe1d5-2422-452c-8a19-ad405bc20c14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/ab72974d-cbcb-4533-957d-d6af94935dfb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/cbbb37d0-d45f-4524-a782-6569b9b89428.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/6b56929b-c319-4c72-b6ce-24af9edeef6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/79dd2bc0-dc1f-4fa5-9b5d-0b380ce35884.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/3556cd19-7dc9-4dd9-8eae-ae0f02e26624.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fd0656eb-f220-4e90-a52d-c619a2940a8c/564937a0-9a10-48f7-b83f-d1c1e244e350.png"
+      ],
+      "expert_review": "A car that’s two years into its current design is usually beginning to show its age, especially when it has as many serious competitors as Infiniti’s M sedan does. The M outpaces that trend: The 2006 original took the field by storm, and today’s car is nine-tenths as terrific. In a segment whose players’ strengths vary across many fronts — performance, technology, quality, reliability — the M emerges a competent choice across the board.\n\nInfiniti sells two variants, the V-6 M35 and the V-8 M45. All-wheel-drive versions of both are also available, dubbed M35x and M45x. Ever since the brand dropped the larger Q45, the M has become its de facto flagship. As such, it’s enjoyed frequent updates to stay competitive. The 2008 model sports revised styling and a handful of new technologies. Click here to see a comparison with the 2007 model.\n\nThis review covers an M35, though I’ve also driven the M45.\n\nGoing & Stopping\nThe M35 should be fine for most drivers. Its V-6 churns out fluid power with no peaky bursts or low-end sluggishness, and under hard acceleration its high-pitched whine should be music to any gearhead. Credit the engine, a longtime award winner from Infiniti parent Nissan. Dollar for dollar, the M35 provides a far richer powerband than competitors like the BMW 528i or Audi A6 3.2.\n\nThough the M’s five-speed automatic is a gear or two short of the competition, it works just as well, if not better. It holds lower gears tenaciously at lower speeds, refusing the mileage bait of an early upshift while you’re still on the gas. Shifts are heard in engine pitch but rarely felt, and highway kickdown is quick and free of gear-hunting. Around town, lower gears arrive almost instinctively — accelerating out of a corner or pulling around a semi, for instance, you’re rarely caught flat-footed in a higher gear. Jaguar’s ZF automatic comes to mind in the same league, and I hope Infiniti preserves this sort of performance in its upcoming seven-speed automatic.\n\nIf the M35 is confident, the M45 is authoritative. Don’t let the mere 50-horsepower difference fool you — with an extra liter of displacement, the M45’s V-8 boasts a torque peak that’s 800 rpm lower, with 68 more pounds-feet of twist. It trades the M35’s finesse for brute hang-the-tail-out power at pretty much any speed. In my brief time with the M45 — it was a 2006 model — I found the acceleration unmanageable at times. It would come in spurts, particularly through second and third gear, giving the car a restless feeling on city streets. If your commute involves roads that are open enough for the M45 to stretch its legs, though, it could be serious fun.\n\nThe M35x and M45x utilize an all-wheel-drive system that transfers power forward or backward electronically. It can split power from 50/50 front/rear all the way to 0/100, with all the power going to the rear wheels to optimize handling. Infiniti sums up the system’s convoluted name with the equally convoluted acronym ATTESA E-TS — which, were it an actual word, would be a great way to dump all your T’s in Scrabble.\n\nDrivetrains: M35 vs. M45\n\tM35\tM45\nEngine\t3.5-liter V-6\t4.5-liter V-8\nHorsepower (@ rpm)\t275 @ 6,200\t325 @ 6,400\nTorque (lbs.-ft. @ rpm)\t268 @ 4,800\t336 @ 4,000\nTransmission\t5-speed automatic\t5-speed automatic\nEPA gas mileage\t16/23 (M35); 16/22 (M35x)\t16/21 (M45); 14/20 (M45x)\nFuel type\tPremium (recommended)\tPremium (required)\nSource: Automaker data, EPA\n\nFour-wheel-disc antilock brakes are standard, and the systems are identical on the M35 and M45. My test car’s brakes felt a bit mushy at first but clamped down later on. The M45 I drove in 2006 had more linear braking.\n\nRide & Handling\nMidsize luxury cars run the gamut from comfortable to rigid; the M is closer to rigid, though not so much that it’s punishing to drive. Despite my test car having the Sport package — which augments the four-wheel-independent suspension with sportier tuning, bigger wheels and high-performance summer tires — ride quality was livable. Highway road noise remains tolerable up to 75 mph — above that, wind and road noise quickly encroach — and the car’s chassis dispatches bumps with modest noise and few reverberations.\n\nIf you live near curvy roads you’d do well to drive them in the M. The steering wheel moves with a lighter touch than in Infiniti’s smaller G35, and though it doesn’t feel as precise in prolonged bends — highway cloverleafs, curvy backroads — the turn-in precision for lane changes and most city driving is in the same league. All told, the steering feel encourages twisty-road driving in a way a Volvo S80 or Mercedes E-Class cannot. Body roll remains well in check, and at its limits the M displays good grip and even better balance. The Sport package adds Infiniti’s Rear Active Steer, which power-adjusts the suspension hardware to angle the rear wheels slightly while the car is turning. The purported result is swifter handling. I couldn’t tell when the system was operating — or what benefits it added — but the M never once came off as unresponsive, so evidently it did its job.\n\nNaturally, models without the Sport package probably display different ride and handling characteristics. All-wheel-drive models increase the M’s turning circle to 36.7 feet, as opposed to 36.1 feet with rear-wheel drive. Those figures are right on par with the competition. The rear-wheel-drive Lexus GS carves the narrowest circle, at 34.1 feet, while the V-8 Volvo S80 trails the segment at 40.0 feet.\n\nStyling & Quality\nI won’t waste much virtual ink describing the M’s styling revisions; they’re better shown in the thumbnails at right. Suffice it to say the M looks much like it did before, though certain elements now recall the redesigned G35. Models with the Sport package get 19-inch alloy wheels, while others have 18-inchers.\n\nOriginally lauded for its quality compared with Infiniti’s previous efforts, the M’s cabin has held up well thus far. Interior surfaces aren’t as sumptuous as those in the E-Class or Jaguar XF, but the dashboard rises to the windshield in steps, giving the cabin a much roomier feel than either car. Materials quality keeps with the competition: There are leather wrappings around the door pulls and chrome runners along the steering wheel. The cabin trim — aluminum or optional wood — is the real deal, not synthetic.\n\nAudio options range from a six-speaker, six-CD stereo to two Bose systems with eight and 14 speakers, respectively. My test car had the eight-speaker system, which proved rich enough for my taste; I don’t think I’d go for the top-shelf upgrade.\n\nThe navigation system’s graphics are getting a bit dated, but its layout generally wallops the competition. Users can touch the on-screen commands or any of numerous shortcut buttons to zoom in or out, move the cursor around the map, go back to the previous screen, you name it. The intersection input lets you search within a specified city, a clear advantage over systems that aggravatingly display every 3rd and Main in eight surrounding states.\n\nReal-time traffic uses a feed from XM’s NavTraffic subscription service to depict congestion levels with color-coded lines along the highway. It can find the quickest route to your destination based on current traffic conditions, something early real-time traffic navigation systems didn’t do. On one trip up Chicago’s Kennedy expressway, the system reported that my route was largely congestion-free — while I sat in bumper-to-bumper traffic. I’ll note, at least, that it rarely overreported traffic. Infiniti says the feed goes from XM to all models with NavTraffic, so this would likely be an issue in any car with the system.\n\nSeating & Cargo\nFour of the M’s five seats offer ample legroom and headroom, but the bulky floor hump in back means a fifth passenger has to share foot room. The front seats have standard 10-way power adjustments, and there’s plenty of range for taller drivers. After you park, the steering wheel automatically powers upward to ease exit and entry — and does so much faster than in some of the M’s crankier peers.\n\nMaximum cabin volume is 105.2 cubic feet, and trunk volume is 14.9 cubic feet. Like most other cars in this class, the M lacks a folding backseat. There’s a center pass-thru for skis or other long items, but it’s fairly small. (If you want a car with a folding seat in this segment, try the E-Class or XF.)\n\nCabin & Cargo Compared\n\tCabin volume (cu. ft.)\tTrunk volume (cu. ft.)\nLexus GS\t109.1\t12.7\nLincoln MKS*\t105.9\t18.4\nInfiniti M\t103.1 – 105.2**\t14.9\nCadillac STS*\t102.9\t13.8\nBMW 5 Series\t99.1\t14.0\nAcura RL\t99.1\t13.1\nJaguar XF\t99.0\t17.7\nVolvo S80\t99.0\t14.9\nMercedes E-Class\t97.2\t15.9\nAudi A6\t96.2\t15.9\n*Models do not include standard moonroofs. Volumes for other cars listed with moonroofs.\n**105.2 standard, 103.1 with Premium Package.\nAll data for 2008 models except 2009 Acura RL, Lincoln MKS and Jaguar XF.\n\nSafety & Reliability\nIn crash tests by the Insurance Institute for Highway Safety, the M earned the top possible score, Good, in both frontal and side-impact tests. Standard safety features include six airbags, with side-impact airbags for the front seats and side curtain ones for both rows, as well as four-wheel-disc antilock brakes, traction control and an electronic stability system. Front-seat occupants have active head restraints and pre-crash seat belts that cinch up during extreme braking to prepare occupants for impact. Standard on all but the M35x are xenon headlights with an adaptive lighting system than can swivel the lights a few degrees during a turn to help illuminate corners.\n\nOpt for the Advanced Technology Package — which first requires the regular Technology Package — and you get adaptive cruise control, Preview Braking and Lane Departure Prevention. Adaptive cruise control uses a laser beam to judge the distance to the car ahead and apply modest (not full) gas or brakes to maintain a proper distance. Preview Braking uses the same lasers to sense any oncoming obstructions, including a rapidly slowing vehicle. Though it won’t actually begin braking, as the system in the 2009 FX does, it will alert the driver with an audio chime and pre-load the brakes for sharper response.\n\nLane Departure Prevention debuted in the EX35 SUV in 2007. It builds on the Lane Departure Warning system Infiniti has offered for two years now. Both use a camera mounted behind the windshield to pick up lane markings and warn the driver if the car is drifting astray; LDP goes one step further by applying individual brakes to nudge the car back on course. My test car didn’t have it, but I’ve used the feature in the EX and it’s pretty impressive. Contrary to its Big Brother overtones, LDP works subtly: Hit a turn signal or turn the wheel more than a couple degrees in the EX and you’ll override it. Don’t think of LDP as some kind of bowling-alley gutter bumper — it works gently but meticulously. Aside from an audible warning chime, the most you’ll notice is a slight tug on the wheel and a hint of deceleration as the brakes nudge the car back into its lane. Infiniti spokesman Kyle Bazemore told me the systems in the M and EX are identical, and both can be switched off if they prove too intrusive.\n\nReliability has proved impressive. In Consumer Reports studies, the 2006 and 2007 M35 and M45 garnered top scores. The publication predicts the 2008 model will fare much better than average — a rating that just edges out the RL, GS and A6 and considerably beats the 5 Series, E-Class and STS.\n\nFeatures & Pricing\nWithout the destination charge, the M35 starts at $43,900, which is within range of most V-6 competitors. It’s lavishly equipped at that, with leather upholstery, dual-zone A/C, a moonroof, and power front seats with heating and cooling, all standard. That price also gets you a six-speaker, six-CD stereo with an auxiliary jack for MP3 players. The M45 starts at $50,250; besides the V-8 engine, it doesn’t add much other equipment. Both offer all-wheel drive and a Sport package, but you have to pick one or the other.\n\nOptions include heated and power-reclining rear seats, a navigation system with a backup camera, the two Bose audio systems and a backseat DVD player. Check all the boxes, and a loaded M45x runs around $64,000.\n\nM in the Market\nThe M is as competitive as ever, and not just in a practical way. This car is fun — to drive, to look at, to sit in. In a field of climbing prices and checkered quality, it’s nice to see an old favorite hold up so well.\n\nSend Kelsey an email",
+      "trims": [
+        {
+          "name": "4dr Sdn RWD",
+          "price": "$43900",
+          "specifications": {
+            "Notable features": [
+              "Updated styling for 2008",
+              "New Lane Departure Prevention system",
+              "M45 now available with AWD",
+              "V-6 or V-8",
+              "Available backup camera",
+              "Unique styling with Sport package"
+            ],
+            "Highlights": [
+              "16 City / 23 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "268 @ 4800 SAE Net Torque @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type",
+              "275 @ 6200 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Independent Double Wishbone Suspension Type - Front",
+              "w/Stabilizer Bar Suspension Type - Front (Cont.)",
+              "w/Stabilizer Bar Suspension Type - Rear (Cont.)",
+              "Independent Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "3,832 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn AWD",
+          "price": "$45650",
+          "specifications": {
+            "Notable features": [
+              "Updated styling for 2008",
+              "New Lane Departure Prevention system",
+              "M45 now available with AWD",
+              "V-6 or V-8",
+              "Available backup camera",
+              "Unique styling with Sport package"
+            ],
+            "Highlights": [
+              "16 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "275 @ 6200 SAE Net Horsepower @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type",
+              "268 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Multi-Link Suspension Type - Rear",
+              "Independent Double Wishbone Suspension Type - Front",
+              "w/Stabilizer Bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer Bar Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,004 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2010": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/4de5cf1d-94b2-4e43-9ec3-d5a2dd281935.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/6673c508-4f52-41c1-a978-27c3df51c9b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/2583cc91-2175-42f2-af56-94f8b5ae88a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/1a3e5b0e-b921-4993-a46a-afa1979910c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/b2ce0a3a-704e-4b5e-9c8d-a5d74c0d9988.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/34bc3502-fe61-456a-a7f7-60779a7fcbc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/e3a17b34-bce8-4631-8635-7a5a05331edc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/eac78c2e-b5db-4b74-90ee-f80f404dcc9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/0c48d8a0-f104-4483-8f3b-6789aad7031a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/1d1ce880-bc82-4339-afac-aebb1032b388.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/a7744edf-259e-4758-ac3c-a4a6e1a1e22f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/68d34f9e-a213-4e26-a378-01e6210be405.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/240cc02a-825a-4ab0-b031-89e51cb340e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/d97a4144-0841-4157-89d6-0e4fb7bf6aff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/f7054388-d374-42e7-a8e2-179fee30177c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/a69083c6-6678-4e06-aa77-1ad84960bef0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/e6e7d86d-81cb-4378-a00c-a5c7ea5f17bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/18e80f6d-059c-4daa-b591-ae5fbb4d7af5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/fd9e57cf-4ad0-46a9-9209-2218cd8990a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/e8207419-f613-4618-a930-ec3e6183cd30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/4ade1c82-73d8-4c5a-ab62-4151a6980cfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/ba1248f0-b930-48c0-a4cc-f767fc63a13b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/bda10a3c-124e-410c-a7aa-b06ca67990f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/7ac89163-41aa-4563-8e72-234aba9a1b2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/bd8a37b6-612c-43d5-a898-585965e963f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/9f867853-76ff-4f72-9738-de722d705be4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/03cd0535-3418-4e8b-aab5-adc4f98da069.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/ae6e86d2-f865-4bd2-baef-f32a9800efdc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/197e1569-0542-48ed-8af6-b1c501b2751d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/c74f8718-444d-4e45-bd94-44352b30ac1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/cc8f8d83-066a-410b-91a1-e2193b6b0702.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/f28aee9c-7242-4c20-8cc1-015be724ee38.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/1d1ce880-bc82-4339-afac-aebb1032b388.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/e2b1b7b5-7e16-43f3-be0c-7cecd8515ca1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/091ccc3e-9b42-4c77-8952-7805ef820f05/8c4a1a3d-2238-4db2-a5ef-6a255d0968dc.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in December 2008 about the 2009 Infiniti M35. Little of substance has changed with this year’s model. To see what’s new for 2010, click here, or check out a side-by-side comparison of the two model years.\n\nA car that’s a few years into its current design is usually beginning to show its age, especially when it has as many serious competitors as Infiniti’s M sedan does. The M outpaces that trend: The 2006 original took the field by storm and, relatively speaking, today’s car is eight-tenths as terrific. In a segment whose players’ strengths vary across many fronts — performance, technology, quality, reliability — the M emerges a competent choice across the board.\n\nInfiniti sells two variants, the V-6 M35 and the V-8 M45. All-wheel-drive versions of both are also available, dubbed M35x and M45x. Ever since the brand dropped the larger Q45, the M has become its de facto flagship. As such, it’s enjoyed frequent updates to stay competitive. The 2009 model sports an upgraded V-6 drivetrain, while the V-8 carries over with minimal differences. Click here to see a comparison with the 2008 model, whose review serves as the basis for this one.\n\nI tested an ’09 M35x, though I’ve also driven a 2008 M35 and 2006 M45.\n\nGoing & Stopping\nThe M35 should be fine for most drivers, as Infiniti tuned its V-6 this year for more high-revving horsepower — an impressive 303 hp, to be exact — but less torque, which is the low-end grunt you feel when pulling away from a stoplight. Even so, I found gobs of fluid power with no peaky bursts or sluggishness starting out, and under hard acceleration the high-pitched exhaust note should be music to any gearhead. The engine revs a bit more freely but doesn’t feel noticeably stronger than last year’s 275-hp M35, and dollar for dollar, it still provides a richer powerband than competitors like the BMW 528i or Audi A6 3.2. Even Hyundai’s 3.8-liter Genesis, an impressive bargain alternative for this segment, feels less spirited.\n\nThis year’s rear-wheel-drive M35 gets Infiniti’s new seven-speed automatic; it moves gas mileage up a few ticks versus last year’s version, which had a five-speed automatic. Other models, including the M35x I tested, carry over the five-speed. Though it’s a gear or two short of the competition, that transmission remains one of my favorites. It holds lower gears tenaciously at lower speeds, refusing the mileage bait of an early upshift while you’re still on the gas. Shifts are heard in engine pitch but rarely felt, and highway kickdown is quick and free of gear-hunting. Around town, lower gears arrive almost instinctively — accelerating out of a corner or pulling around a semi, for instance, you’re rarely caught flat-footed in a higher gear. Jaguar’s ZF automatic comes to mind in the same league, and I hope Infiniti preserved this sort of performance in the M35’s seven-speed. Every M this year gets a Drive Sport mode that holds lower gears longer for more responsiveness, but it’s hardly necessary.\n\nIf the M35 is confident, the M45 is authoritative. Don’t let the mere 22-hp difference fool you — with an extra liter of displacement, the M45’s V-8 boasts a torque peak that’s 800 rpm lower, with 74 more pounds-feet of twist. It trades the M35’s finesse for brute hang-the-tail-out power at pretty much any speed. In my brief time with the M45, years ago, I found the acceleration unmanageable at times. It would come in spurts, particularly through second and third gear, giving the car a restless feeling on city streets. If your commute involves roads that are open enough for the M45 to stretch its legs, though, it could be serious fun.\n\nThe M35x and M45x utilize an all-wheel-drive system that transfers power forward or backward electronically. It can split power from 50/50 front/rear all the way to 0/100, with all the power going to the rear wheels to optimize handling. Infiniti sums up the system’s convoluted name with the equally convoluted acronym ATTESA E-TS — which, were it an actual word, would be a great way to dump all your T’s in Scrabble.\n\nDrivetrains: M35 vs. M45\n \tM35\tM45\nEngine\t3.5-liter V-6\t4.5-liter V-8\nHorsepower (@ rpm)\t303 @ 6,800\t325 @ 6,400\nTorque (lbs.-ft. @ rpm)\t262 @ 4,800\t336 @ 4,000\nTransmissions\t7-speed auto (M35); 5-speed auto (M35x)\t5-speed auto (M45 and M45x)\nEPA gas mileage (city/hwy., mpg)\t17/25 (M35); 16/22 (M35x)\t16/21 (M45); 14/20 (M45x)\nFuel type\tPremium (recommended)\tPremium (required)\nSource: Automaker and EPA data\n\nFour-wheel-disc antilock brakes are standard, and the systems are identical on the M35 and M45. Last year’s M35 had a somewhat mushy pedal for this class, but the M45 I tested in 2006 had more linear braking.\n\nRide & Handling\nMidsize luxury cars run the gamut from comfortable to rigid; the M is closer to rigid, though not so much that it’s punishing to drive. My test car last year had the Sport package — which augments the four-wheel-independent suspension with sportier tuning, bigger wheels and high-performance summer tires — but ride quality was livable, and even more so in the M35x I drove this year, which had smaller wheels and regular suspension tuning. Highway road noise remains tolerable up to 75 mph — above that, wind and road noise quickly encroach — and the car’s chassis dispatches bumps with modest noise and few reverberations.\n\nIf you live near curvy roads, you’d do well to drive them in the M. The steering wheel moves with a lighter touch than in Infiniti’s smaller G37, and though it doesn’t feel as precise in prolonged bends — highway cloverleafs, curvy backroads — the turn-in precision for lane changes and most city driving is in the same league. The steering feel encourages twisty-road driving in a way a Volvo S80 or Mercedes E-Class cannot. Body roll remains well in check, and at its limits the M displays good grip and even better balance. The Sport package adds Infiniti’s Rear Active Steer, which power-adjusts the suspension hardware to angle the rear wheels slightly while the car is turning. The purported result is swifter handling. Last year’s M35 came equipped with the feature, but I couldn’t tell when the system was operating, or what benefits it added. The M never once came off as unresponsive, though, so evidently the extra hardware did its job.\n\nRear-wheel-drive models increase the M’s turning circle to 36.7 feet, as opposed to 36.1 feet with all-wheel drive. Those figures are on the tighter side of the competition.\n\nStyling & Quality\nI won’t waste much virtual ink describing the M’s styling qualities; they’re better shown in the thumbnails at right. Models with the Sport package get 19-inch alloy wheels, while others have 18-inchers.\n\nOriginally lauded for its quality relative to Infiniti’s previous efforts, the M’s cabin has held up well thus far. The dashboard rises to the windshield in steps, giving the cabin a roomy feel. Interior surfaces aren’t as sumptuous as those in the E-Class or Jaguar XF, but they’re certainly upscale enough: There are leather wrappings around the door pulls and chrome runners along the steering wheel. The cabin trim — aluminum or optional wood — is the real deal, not synthetic.\n\nAudio options range from a six-speaker, six-CD stereo to two Bose systems with eight and 14 speakers, respectively. I’ve spent the most time with the eight-speaker system, which proved rich enough for my taste. I don’t think I’d go for the top-shelf upgrade, considering it also shoehorns a bulky DVD-audio disc drive in the center console.\n\nThe navigation system’s graphics are getting a bit dated, but its layout generally wallops the competition. Users can touch the on-screen commands or any of numerous shortcut buttons to zoom in or out, move the cursor around the map, go back to the previous screen, you name it. The intersection input lets you search within a specified city — a clear advantage over systems that aggravatingly display every Third and Main in eight surrounding states.\n\nReal-time traffic uses a feed from XM’s NavTraffic subscription service to depict congestion levels with color-coded lines along the highway. It can find the quickest route to your destination based on current traffic conditions, something early real-time traffic navigation systems didn’t do. On one trip up Chicago’s Interstate 90in last year’s M35, the system reported that my route was largely congestion-free — while I sat in bumper-to-bumper traffic. I’ll note, at least, that it rarely overreported traffic. Infiniti says the feed goes from XM to all models with NavTraffic, so this would likely be an issue in any car with the system.\n\nSeating & Cargo\nFour of the M’s five seats offer ample legroom and headroom, but the bulky floor hump in back means a fifth passenger has to share foot room. The front seats have standard 10-way power adjustments, and there’s plenty of range for taller drivers. After you park, the steering wheel automatically powers upward to ease exit and entry — and does so much faster than in some of the more cantankerous steering columns in the M’s peers.\n\nMaximum cabin volume is 105.2 cubic feet, and trunk volume is 14.9 cubic feet. Like most cars in this class, the M lacks a folding backseat. There’s a center pass-thru for skis or other long items, but it’s fairly small. (If you want a car with a folding seat in this segment, try the E-Class or XF.)\n\nCabin & Cargo Compared (cu. ft.)\n \tCabin volume\tTrunk volume\nHyundai Genesis\t109.4\t15.9\nLexus GS\t109.1\t12.7\nLincoln MKS*\t105.8\t18.7\nInfiniti M\t105.2**\t14.9\nCadillac STS*\t102.9\t13.8\nBMW 5 Series\t99.1\t14.0\nAcura RL\t99.1\t13.1\nJaguar XF\t99.0\t17.7\nAudi A6\t98.0\t15.9\nVolvo S80\t98.0\t14.9\nMercedes-Benz E-Class\t97.2\t15.9\n*Does not include a standard moonroof. Volumes for other cars are listed with moonroofs.\n**103.1 cubic feet with Premium Package.\nAll data for 2009 models except 2008 Audi A6.\n\nSafety & Reliability\nIn crash tests by the Insurance Institute for Highway Safety, the M earned the top possible score, Good, in both frontal and side-impact tests. Standard safety features include six airbags, with side-impact airbags for the front seats and side curtain ones for both rows, as well as four-wheel-disc antilock brakes, traction control and an electronic stability system. Front-seat occupants have active head restraints and pre-crash seat belts that cinch up during extreme braking to prepare occupants for impact. Also standard on all models are xenon headlights with an adaptive lighting system than can swivel the lights a few degrees during a turn to help illuminate corners. Last year the M35x didn’t include them standard.\n\nOpt for the Advanced Technology Package — which first requires the regular Technology Package — and you get adaptive cruise control, Preview Braking and Lane Departure Prevention. Adaptive cruise control uses a laser beam to judge the distance to the car ahead and apply modest (not full) gas or brakes to maintain a proper distance. Preview Braking uses the same lasers to sense any oncoming obstructions, including a rapidly slowing vehicle. Though it won’t actually begin braking for you, as the system in the FX crossover does, it will alert the driver with an audio chime and pre-load the brakes for sharper response.\n\nLane Departure Prevention debuted in the EX35 SUV a couple years back. It builds on the Lane Departure Warning system Infiniti has offered for two years now. Both use a camera mounted behind the windshield to pick up lane markings and warn the driver if the car is drifting astray; LDP goes one step further by applying individual brakes to nudge the car back on course. My test car didn’t have it, but I’ve used the feature in the EX and it’s pretty impressive. Contrary to its Big Brother overtones, LDP works subtly: Hit a turn signal or turn the wheel more than a couple degrees in the EX and you’ll override it. Don’t think of LDP as some kind of bowling-alley gutter bumper — it works gently but meticulously. Aside from an audible warning chime, the most you’ll notice is a slight tug on the wheel and a hint of deceleration as the brakes nudge the car back into its lane. Infiniti spokesman Kyle Bazemore told me the systems in the M and EX are identical, and both can be switched off if they prove too intrusive.\n\nReliability has proved impressive, with the M garnering top scores in Consumer Reports studies in recent years. The publication predicts the 2009 model will fare better or much better than average, depending on the variant you purchase. That’s a rating that just edges out the RL, A6 and GS and considerably beats the 5 Series, E-Class and STS.\n\nFeatures & Pricing\nThe M35 starts at $45,800, which is within range of most V-6 competitors, save the bargain-priced Genesis. It’s lavishly equipped at that, with leather upholstery, dual-zone A/C, a moonroof and power front seats with heating and cooling, all standard. That price also gets you a six-speaker, six-CD stereo with an auxiliary jack for MP3 players. The M45 starts at $52,150; besides the V-8 engine, it doesn’t add much other equipment. Both offer all-wheel drive and a Sport package, but you have to pick one or the other.\n\nOptions include heated and power-reclining rear seats, a navigation system with a backup camera, the two Bose audio systems and a backseat DVD player. Check all the boxes, and a loaded M45x — whose poor mileage incurs a $1,300 gas-guzzler tax — runs around $67,500.\n\nM in the Market\nThe M is as competitive as ever, and not just in a practical way. This car is fun — to drive, to look at, to sit in. In a field of climbing prices and checkered quality, it’s nice to see an old favorite hold up so well.\n\nSend Kelsey an email",
+      "trims": [
+        {
+          "name": "4dr Sdn RWD",
+          "price": "$45800",
+          "specifications": {
+            "Notable features": [
+              "V-6 makes 303 hp",
+              "Seven-speed automatic (M35 only)",
+              "Available Lane Departure Prevention system",
+              "RWD or AWD",
+              "Available backup camera"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 4800 SAE Net Torque @ RPM",
+              "303 @ 6800 SAE Net Horsepower @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Stabilizer Bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer Bar Suspension Type - Front (Cont.)",
+              "Independent Multi-Link Suspension Type - Rear",
+              "Independent Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,864 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn AWD",
+          "price": "$47950",
+          "specifications": {
+            "Notable features": [
+              "V-6 makes 303 hp",
+              "Seven-speed automatic (M35 only)",
+              "Available Lane Departure Prevention system",
+              "RWD or AWD",
+              "Available backup camera"
+            ],
+            "Highlights": [
+              "16 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 4800 SAE Net Torque @ RPM",
+              "303 @ 6800 SAE Net Horsepower @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "w/Stabilizer Bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer Bar Suspension Type - Front (Cont.)",
+              "Independent Multi-Link Suspension Type - Rear",
+              "Independent Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,027 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2007": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/3ce1f1c4-b33d-4b0a-81f3-065265d63304.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/47358bab-13bc-4e56-999f-1c9a00078c60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/dd3df776-8ec3-455a-9c35-6b590b5fbac2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/386aae90-be57-4661-914f-3998b72fe838.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/662c2635-03db-41a5-a53c-95cc892a62a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/db5e15d1-7422-4506-8e7d-b72044a30523.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/148a7f3e-caf0-4e42-8e34-a8f561ac91f2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a7f92bcf-6c59-457b-846b-9e75583619b5/30b78bd7-4a78-4022-b328-452ffabcd3c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/24773d88-1110-427a-b206-590b9e8336ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/3bb44a93-52bd-43da-a4a8-16fd769e35ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/fcc7cf66-0587-4d44-9928-486b1d109ae9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/10803cdb-6681-41b7-a289-34e9e14cc94f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/31eaf50c-a209-4db4-af22-c793de77b0c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/614867e0-97f9-4a88-a3c0-2d17f136726a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/cbf007ab-9c89-42e4-9fbd-aa71afaae34e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/a74ad2fb-f68c-4418-8b0c-59406de25612.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/64704e73-971a-45fe-b8cf-5a0c8fae64d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/592b7dee-2a69-4c92-9127-48167fd7f2ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/09f7f661-b3f6-404d-abd8-5df8a1db5b5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/52e66420-7ce4-4c42-b307-47fe160babab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/b8216d51-415f-4fce-9f7f-c97b93527ecd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49618830-7c1e-4883-af15-f6c381b4c001/68eb8ae4-29ce-4a90-ba3c-81e12d882104.png"
+      ],
+      "expert_review": "Vehicle Overview\nAt the 2004 New York auto show, Infiniti introduced a concept version of the next-generation M45 sedan. The general shape of the M35 differs little from the concept.\n\nA Lane Departure Warning system is available on the M35. The system helps signal the driver of a pending unintended lane departure. To accomplish this, it recognizes lane markings and calculates the vehicle’s speed and the distance between the vehicle and the marking.\n\nIn the M35, a 3.5-liter V-6 sends 275 horsepower to a five-speed automatic transmission with a manual-shift mode. Rear- or all-wheel drive is available. Infiniti’s available Rear Active Steer system works with motor-driven control and adjusts the geometry of the rear according to steering input and the car’s speed.\n\nExterior\nCombining elements of the automaker’s full-size Q45 sedan and the smaller G35, the M35 is built on a next-generation FM platform, which is also used for Infiniti’s G35 and FX models.\n\nInfiniti promotes the M’s “low, aggressive hoodline [that] flows into the anchored shoulders.” The body has short overhangs and a long, 114.2-inch wheelbase. The rear end features L-shaped LED taillamps and quad tailpipes. Wide front and rear tracks are intended to enhance stability. Lightweight body components include aluminum-alloy inner and outer door panels, hood and deck-lid panels. A rear spoiler is available.\n\nA power-sliding sunroof is standard. All-wheel-drive models ride on 18-inch tires. The Sport edition gets 19-inch tires, a sport-tuned suspension, the Rear Active Steer system and xenon headlights. Non-Sport M35s have a new 18-inch, five-spoke wheel option. Each M sedan measures 192.6 inches long overall and 70.8 inches wide.\n\nInterior\nClimate-controlled seats are available on the base M35 and standard on M35 Sport and M35x models\n\nFive people fit inside the M35. Standard equipment includes leather-appointed seats, an Intelligent Key with push-button start, voice recognition, Bluetooth wireless connectivity, an in-dash six-CD changer with MP3 playback capability, a 10-way power driver’s seat and a Vehicle Information System with a 7-inch LCD screen.\n\nA “Solar Eclipse” instrument lighting system is on the dashboard. Heated power reclining rear seats and a Bose Studio Surround audio system with 14 speakers are available. Options include Intelligent Cruise Control, a DVD-based navigation system with voice-activated destination entry and a backseat video entertainment system with an 8-inch roof-mounted screen.\n\nFor 2007, a technology package bundles the Bose audio system and a DVD video/audio drive along with Intelligent Cruise Control.\n\nUnder the Hood\nThe 3.5-liter V-6 produces 275 hp and 268 pounds-feet of torque; it drives a five-speed automatic transmission. Infiniti’s all-wheel-drive system on the M35x automatically transfers optimum torque to each wheel according to road and driving conditions.\n\nSafety\nStandard safety equipment includes side curtain and seat-mounted side-impact airbags, all-disc antilock brakes with brake assist and electronic brake-force distribution, a Vehicle Dynamic Control stability system and a tire pressure monitoring system. Brake-operated precrash front seat belts, which tighten under emergency braking in anticipation of a crash or an evasive maneuver, are available. A RearView Monitor with a wheel-trajectory view is also available. For 2007, the M35 gets the option of auto-leveling, adaptive xenon headlights that shine in the direction of a turn.\n\nDriving Impressions\nThis V-6 version of Infiniti’s M sedan is less vigorous than its M45 cousin, which packs a 325-hp V-8. But in ordinary driving, the difference isn’t as big as the numbers might suggest. Most owners should be thoroughly satisfied with an M35.\n\nThe seats promise firm support and ample cushioning. Outboard occupants get plenty of legroom, headroom and foot room, but the center spot in the backseat is high and hard, with no headroom to speak of. Visibility is generally good, but wide B-pillars can impair the view a bit.",
+      "trims": [
+        {
+          "name": "4dr Sdn RWD",
+          "price": "$41450",
+          "specifications": {
+            "Notable features": [
+              "Lane-departure warning",
+              "Rearview camera",
+              "5.1-channel DVD audio",
+              "Drop-down DVD video system",
+              "Rear-wheel steering",
+              "Heated reclining backseat",
+              "Full-size spare tire no longer available"
+            ],
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 @ 4800 SAE Net Torque @ RPM",
+              "280 @ 6200 SAE Net Horsepower @ RPM",
+              "3.5L/214 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,832 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Sport RWD",
+          "price": "$44250",
+          "specifications": {
+            "Notable features": [
+              "Lane-departure warning",
+              "Rearview camera",
+              "5.1-channel DVD audio",
+              "Drop-down DVD video system",
+              "Rear-wheel steering",
+              "Heated reclining backseat",
+              "Full-size spare tire no longer available"
+            ],
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 @ 4800 SAE Net Torque @ RPM",
+              "280 @ 6200 SAE Net Horsepower @ RPM",
+              "3.5L/214 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Sport-Tuned Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,880 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn x AWD",
+          "price": "$44550",
+          "specifications": {
+            "Notable features": [
+              "Lane-departure warning",
+              "Rearview camera",
+              "5.1-channel DVD audio",
+              "Drop-down DVD video system",
+              "Rear-wheel steering",
+              "Heated reclining backseat",
+              "Full-size spare tire no longer available"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.5L/214 Displacement",
+              "270 @ 4800 SAE Net Torque @ RPM",
+              "280 @ 6200 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,004 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2006": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/8db99a03-c233-4b2e-a95a-fb3958e45f0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/28e092ed-82ef-4987-a129-b365ffcbf3fa.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9bd082a2-893e-4ce6-80b3-0c19f7801dd1/4ee77001-104a-4228-a6fc-ac4d006b6752.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/ebe9cd22-edb2-4cee-8251-d2f642948a84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/be4ebef0-204d-4213-bdf7-cb73d2b03b47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/1a03d583-1d81-4f72-9139-8200ad66173f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/13a19a67-4114-4dd6-a9d1-74e5f3ac05bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/cd779b16-747e-4675-bc51-a0eb243ded72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/786246ff-2c6f-4985-b921-e8cc3e5d44ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/39dbd0a5-41bc-4192-a82c-ebdaa700cd82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/be87c882-12d6-412b-bc19-73f56e392703.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/9b98ba1f-d9f1-4498-ac19-02e72c8af389.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/f9d492b0-61db-468c-acdc-5bd042997d3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/a595c01b-cbde-4994-a950-02e459e559dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/70d21ba4-a774-49ac-8417-485f4c006509.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0a56fec5-e8e2-4dd1-a2a5-2aa9b466d02c/ce89765a-8592-4073-934a-fcf64ebfef23.png"
+      ],
+      "expert_review": "Here is proof that if NASA ever wanted to put another man on the moon, all it would have to do is borrow the technology from an Infiniti in the parking lot.\n\n\nMicrosoft, move over.\n\nThe new M35 — or just “M” as they say for the Infiniti M35 and its larger sibling, the M45 — is so techie, it could be its own exhibit at the Smithsonian, or an exhibit booth at the 2050 World’s Fair. (If they still have those things, that is.)\n\n\nWant to be cutting edge? Want to take the tech boom by storm? See the Infiniti M. It begins with the push of a button (to start the vehicle, instead of inserting a key into the ignition), and continues with things such as a Lane Departure Warning system that uses a small camera on the back of the rearview mirror that “beeps” if the driver is drifting too far into the next lane.\n\n\nThere is Bluetooth wireless connectivity (no more holding phones while you dial). There are climate-controlled front seats (no more roasting in summer). And there is something called Intelligent Cruise Control, which means if you aren’t smart enough to brake while the cruise is set, the Infiniti will do it for you.\n\n\nRide to the moon, anyone? OK. So how’s the car? In a word: Awesome. It is elegant. It is aggressive. It is fun. And it is full of technology.\n\nNewly redesigned for 2006, the M joins the lineup of luxury Nissan vehicles that are quickly becoming real contenders in the race to everyone’s wallet.\n\nWith sticky 19-inch wheels and tires and a meaty 280-horsepower, 3.5-liter V-6 (or 335-horsepower, 4.5-liter V-8 in the M45), there is nothing but pure car-driving enjoyment here.\n\nThe first thing I noticed was the Infiniti M35 sedan’s interior, a near-horizontal dash control panel that Infiniti calls “the Human Machine Interface.”\n\n\nHuh? I’d call it very different.\n\nWith rotary controls placed at a near-45-degree angle, it almost serves as a ledge on the center console. And it’s something to get used to. Around the Infiniti M35 cabin, things are geared toward sporty luxury. Aluminum accents abound. Storage compartments have been thoughtfully placed. Leather seats. Nothing is out of the ordinary.\n\n\nBut, on the negative side, all that sport means things get a little cramped for five, especially on long trips, and the back seat does not fold down.\n\nThe handling is tight, the suspension firm and the ride stiff.\n\nAs for the trim levels, five different ones are available in the M, including all-wheel-drive versions and a sport edition.\n\nThe base Infiniti M35 arrives at $39,900, and things quickly advance from there. And here’s why: None of that Infiniti technology is cheap. The cruise control and lane departure system are part of a $4,200 Technology package that includes a DVD navigation system.\n\n\nSo Infiniti’s technology does have a price. But did I mention the power reclining, heated rear seats, a rear sunshade and rear climate controls?\n\n\nMoon launch anyone?\n\n– – –\n\n2006 Infiniti M35\n\nVehicle body-type: Rear-wheel-drive, front-engine, four-door, five-passenger sedan\n\nKey competition: Audi A6, Chrysler 300C, Chevrolet Impala SS, Volkswagen Passat\n\nBase engine: 280 horsepower, 3.5-liter V-6\n\nTransmission: Five-speed automatic with manual mode\n\nStandard safety equipment: Anti-lock brakes; head air bag; stability control; side air bag; traction control\n\nMPG rating: 18 city/25 highway (automatic)\n\nManufactured: Japan\n\nWarranty: Basic warranty is four years/60,000 miles.\n\nBase price: $39,900\n\nPrice as tested (including destination and delivery): $45,300\n\n– – –\n\nRating: (Based on 4 as the highest possible score) *** Power is plentiful, the exterior and interior are unique. There are enough techie things to keep you busy. Back-seat room is a little tight, and the rear seat does not fold to allow extra cargo to pass through.\n\nHigh Gear: Power is plentiful, the exterior and interior are unique. There are enough techie things to keep you busy.\n\nLow Gear: Back-seat room is a little tight, and the rear seat does not fold to allow extra cargo to pass through.\n\n– – –\n\nJason Stein’s column appears Sundays in Business. Each review is based on a test of a vehicle supplied directly by the manufacturer. He can be reached by e-mail at jstein@crain.com",
+      "trims": [
+        {
+          "name": "4dr Sdn",
+          "price": "$40840",
+          "specifications": {
+            "Notable features": [
+              "Lane-departure warning",
+              "Rearview camera",
+              "5.1-channel DVD Audio",
+              "Drop-down DVD video system",
+              "Rear-wheel steering",
+              "Heated reclining backseat"
+            ],
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 @ 4800 SAE Net Torque @ RPM",
+              "280 @ 6200 SAE Net Horsepower @ RPM",
+              "3.5L/214 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,832 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Four-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn AWD",
+          "price": "$43340",
+          "specifications": {
+            "Notable features": [
+              "Lane-departure warning",
+              "Rearview camera",
+              "5.1-channel DVD Audio",
+              "Drop-down DVD video system",
+              "Rear-wheel steering",
+              "Heated reclining backseat"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "270 @ 4800 SAE Net Torque @ RPM",
+              "280 @ 6200 SAE Net Horsepower @ RPM",
+              "3.5L/214 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,004 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Four-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Sport",
+          "price": "$43640",
+          "specifications": {
+            "Notable features": [
+              "Lane-departure warning",
+              "Rearview camera",
+              "5.1-channel DVD Audio",
+              "Drop-down DVD video system",
+              "Rear-wheel steering",
+              "Heated reclining backseat"
+            ],
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "270 @ 4800 SAE Net Torque @ RPM",
+              "Gas V6 Engine Type",
+              "3.5L/214 Displacement",
+              "280 @ 6200 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "Sport-Tuned Suspension Type - Rear",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,880 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12.6 x 1.1 in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Four-Wheel Brake ABS System",
+              "12.1 x 0.6 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "make": "lexus",
+  "model": "lx_700h",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "LX 700h Overtrail 4WD",
+          "price": "$115235",
+          "specifications": {
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.4 L/210 Displacement",
+              "Twin Turbo Gas/Electric V-6 Engine Type",
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "457 @ 5200 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "8,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,261 lbs Base Curb Weight",
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Automatic Parking",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LX 700h F SPORT Handling 4WD",
+          "price": "$117500",
+          "specifications": {
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "457 @ 5200 SAE Net Horsepower @ RPM",
+              "3.4 L/210 Displacement",
+              "Twin Turbo Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "8,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,261 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Parking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LX 700h Luxury 4WD",
+          "price": "$119500",
+          "specifications": {
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "3.4 L/210 Displacement",
+              "457 @ 5200 SAE Net Horsepower @ RPM",
+              "Twin Turbo Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A As Spec'd Curb Weight",
+              "8,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Gross Axle Weight Rating",
+              "N/A Gross Combined Wt Rating",
+              "6,261 lbs Base Curb Weight",
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Payload",
+              "0 lbs Total Option Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Parking",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LX 700h Ultra Luxury 4WD",
+          "price": "$141000",
+          "specifications": {
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Gas/Electric V-6 Engine Type",
+              "3.4 L/210 Displacement",
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "457 @ 5200 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "8,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A As Spec'd Curb Weight",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A As Spec'd Payload",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Rear",
+              "18 gal Fuel Tank Capacity, Approx",
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Gross Axle Weight Rating",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Gross Combined Wt Rating",
+              "6,261 lbs Base Curb Weight",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Parking",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/317a4137-cbb5-41f6-9b55-496c2156f8d2/20280f0d-d693-485c-b6a3-96307049c2a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/13cd5d55-678c-45e6-a2f2-640f878b0139/4109d551-2c35-4a53-8d77-fb627d572cc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/13cd5d55-678c-45e6-a2f2-640f878b0139/c09e2add-1ca3-49a4-ace6-4cb2c78ed67b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/13cd5d55-678c-45e6-a2f2-640f878b0139/0ccbf709-f2c5-4c06-8dd1-b2faa0a2af0f.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/66969c62-ec6d-4f4a-bcde-d3dd703b2cf2/5a9dba15-5644-43ad-8eac-1d59492ce851.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/13cd5d55-678c-45e6-a2f2-640f878b0139/a8bd6d81-54a9-4bbf-912a-dac88e55b6dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/13cd5d55-678c-45e6-a2f2-640f878b0139/1225c5ff-02fb-4684-9d05-7030e05d20c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/13cd5d55-678c-45e6-a2f2-640f878b0139/7c8b6f9f-a99c-4f7c-94ab-5878d500a2e0.png"
+      ],
+      "expert_review": "The verdict: Quiet, strong and pleasant to drive (but no more fuel-efficient than an LX 600), the newly off-road-capable Lexus LX 700h hybrid full-size SUV still feels in need of more unique luxury touches to command its six-figure price.\n\nVersus the competition: The Lexus LX delivers a premium driving experience, but its packaging shortcomings (especially with the LX 700h’s hybrid drivetrain) mean competitors have better utility, more spacious and luxurious interiors, and better onboard tech.\n\nWhen Lexus redid the latest edition of its LX flagship luxury SUV for 2022, it moved to a new platform shared with parent company Toyota’s global Land Cruiser (not the smaller Land Cruiser Prado we get in the U.S. now), Tundra pickup truck and Sequoia full-size SUV. As such, we figured it was only a matter of time before the top hybrid powertrain in the Tundra and Sequoia made its way to the big Lexus, and for the 2025 model year, Lexus is offering exactly that. The 2025 LX can still be had in gas-only LX 600 guise, but the new LX 700h has a unique version of the Toyota twin-turbocharged 3.4-liter V-6 gas-electric powertrain.\n\nRelated: 2022 Lexus LX 600 Review: A Flagship Needs to Be Better\n\nBut Lexus didn’t stop there, also adding a new Overtrail off-road trim level for the LX 700h that has a similar mission as the smaller GX Overtrail we’ve already tried. What does the new hybrid do to the LX? And does the Overtrail turn the LX into the old go-anywhere Land Cruiser that many loved? At Lexus’ invitation, we drove the new SUV over tarmac and trail in Northern California wine country to find out. (Per our ethics policy, Cars.com pays for its own travel and lodging when attending such manufacturer-sponsored events.)\n\nOvertrailing\n\nThe two big things to talk about for the ‘25 LX kind of go hand in hand: the Overtrail off-road trim and the new hybrid powertrain. You can only get the Overtrail as a hybrid, and the hybrid powertrain is excellent for off-roading. It’s banging out 457 horsepower and 583 pounds-feet of torque, but at low speeds, it can operate in fully electric, engine-off mode. And when you’ve got all of the off-road bells and whistles engaged (like the three locking differentials locked, the adaptive suspension raised to the max and the electronic Multi-Terrain Select set to Rock mode), it will do some nearly silent, EV-style wheeling over rocky obstacles and challenging terrain.\n\nThe hybrid powertrain is different from the one in the Tundra and Sequoia in that it also features a starter and alternator, something most Toyota and Lexus hybrids don’t have. This means that in case of an incident on the trail that disables the hybrid system (maybe you’ve holed the nickel-metal-hydride battery on a rock, or some other hybrid component stopped working), the LX 700h can revert to gas-only operation with no electric assist. The Overtrail’s off-road ability is also aided by its smaller matte-gray 18-inch wheels that are fitted with 33-inch Toyo all-terrain tires developed specifically for the LX and GX Overtrail models, according to Lexus.\n\nRelated Video:\n\nThe Overtrail also adds a front skid plate for a modicum of off-road protection, but the idea that this is a suitable overlanding vehicle is a bit of a stretch. It doesn’t have any underbody protection aft of that front skid plate, so no plates to protect the rear differential, gas tank or hybrid battery. The approach and departure angles are also not suitable for such wilderness shenanigans, though they are helped by the height-adjustable suspension.\n\nThe amount of electronic assistance the LX 700h Overtrail brings also serves it well off-road, with half a dozen different drive modes for off-road tasks, crawl control off-road cruise control, tons of camera views to help you see over the tall hood and more. But despite all that, it still feels slightly short of being able to take on the task that Lexus tells us it’s meant to do, which is to head out into the wilderness and go overlanding cross-country. It has much of what it needs to do that safely, but not quite all of it.\n\nIt certainly looks the part, however, with its blacked-out trim and chunky tires. If you’re into looking like you can tackle the Rubicon Trail, the Overtrail trim brings the looks, mostly. It also cheapens the look of the LX 700h, however, eliminating all of its chrome and shrinking the wheels. The Overtrail trim also comes in a nonmetallic beige sand color called Earth that’s de rigeur for off-road trims but really doesn’t convey luxury.\n\nOvertowning\n\nOut on the tarmac is where the LX feels most at home. The big SUV is an excellent cruiser with direct, solid steering that has outstanding feel and feedback. All versions are whisper-quiet at speed, with little road or wind noise reaching the cabin; even the Overtrail, with its chunkier all-terrain tires, only transmits the slightest additional vibration to the cabin. It’s a stable, solid and comfortable rig to take on either twisty roads or straight, flat highways, but it’s curious that it still doesn’t feature a hands-free highway driving system like Lexus Teammate, which is standard on the LS 500h luxury sedan. This puts the LX behind competitors like the Cadillac Escalade in terms of advanced technology.\n\nThe LX 700h’s gas-electric hybrid powertrain works well on-road, but you’re not getting quite as much benefit from having it as you do off-road — the Toyota-estimated fuel-economy improvement amounts to all of 1 mpg versus the LX 600 (20 mpg combined versus 19 mpg). So while you’re not buying the LX 700h for its fuel efficiency, it’s a good choice for the aforementioned off-roader set given its versatility and ability to do silent wheeling. It also allows for limited silent motoring through parking lots, and the system’s transition from electric to gasoline engine power is seamless and silent, as it is in nearly all Toyota and Lexus hybrids — the brands have been building hybrids for decades, and they’re still the champs at it. But it’s an unnecessary expense if you’re not driving off-road, as it’s no better in terms of performance or efficiency than the LX 600, and it makes the cargo area worse.\n\nSo long as you don’t expect the LX 700h to be some kind of sports car (despite the available F Sport trim’s racier looks and tuned suspension), you won’t be disappointed. It’s stable, solid, calm and impressively tuned for comfort, and it absolutely delivers on that mission. However, when you explore the cabin of the LX 700h, things start to come up short.\n\nComfy for Two, Semi-Adequate for Four, Unacceptable for More\n\nThere are three big areas where the LX let us down. Despite it being a decently large SUV on the outside, its construction as a body-on-frame-style SUV is part of its undoing, as it makes for cramped occupant and cargo space. Occupant space in the front row is adequate but not copious — the seats don’t go back far enough for tall drivers, and a thick center console makes width a bit scarce, as well. The second row is a real disappointment, however, with inadequate legroom for second-row passengers, no sliding second-row seats and a high step-in with high-riding seats that make for an uncomfortable seating position. The third row, meanwhile, is almost laughably small for a vehicle this size, due in part to the hybrid battery’s location under the third-row seats. This row is suitable only for children, but any child small enough to fit in this row should likely be in a child-safety seat anyway.\n\nWith all of the seats upright, there’s almost no cargo space behind the third-row seatbacks. You can slip a slim computer bag back there, but I wouldn’t put a gallon of milk there and close the hatch. With the third row folded, you’re now left with the same kind of multitier cargo area that plagues the Sequoia, which Lexus has attempted to address by installing a fold-down platform that snaps into place and creates a level cargo floor with an extraordinarily high liftover. You can carry five people and a couple of small suitcases in an LX 700h, but not seven people and luggage.\n\nShould you be inclined to use your LX 700h as an executive express instead of a family hauler or overlander, you can opt for the four-seat Ultra Luxury trim, which replaces the second and third row with two reclining captain’s chairs and a flashy center console touchscreen. This thing’s pretty much made for ferrying oil sheiks and corporate executives, with the passenger-side rear seat featuring the ability to control the front passenger seat and create a lounge-like chaise. Eliminating the third row also improves cargo space behind the second row, but the second row no longer folds flat, so overall max cargo room is lower. It’s kind of cool, but it’s also a little gimmicky, and it’s jaw-droppingly expensive — the Ultra Luxury is more than $21,000 more expensive than the Luxury trim, a premium that’s hard to justify for what you gain and what you lose.\n\nThe second area where the LX disappoints is in overall materials quality. There’s too much Toyota in this Lexus flagship interior, with thin-feeling trim and black plastic in abundance, and leather that’s supposedly premium semi-aniline cowhide that feels underwhelming. The designs are all right, with the typical enormous touchscreen planted atop the center of the dashboard like an added iPad, and thankfully, Lexus hasn’t put all of the controls into touchscreen menus. But the controls that are present (like the knobs for drive modes and the four-wheel-drive system) feel loose in their pots, something you should not experience in a $100,000-plus vehicle. Even the super-expensive Ultra Luxury trim doesn’t really feel ultra-luxurious, with shiny, oddly patterned trim and leather color that skews more orange than tan. Competitors like the Cadillac Escalade, Genesis GV80 and Mercedes-Benz GLS all feel far more “special.”\n\nFinally, there’s the onboard tech. The Lexus has everyone handily beat in terms of off-road equipment, but how many luxury buyers are going to be using those? More important are things like the multimedia system, climate controls and digital gauge cluster. The LX’s touchscreen multimedia system still feels like a barely reskinned version of the Toyota Audio Multimedia system (because that’s what it is), while the secondary smaller screen below it that controls climate functions, drive modes and other ancillary features is a bit confusing to use and employs a font that doesn’t match the other displays. On top of this, a lot of the voice controls require a Lexus data subscription (free for the first three years, so this is potentially an issue for the second or third owner). Contrast this with the slick screens in the latest Escalade, or the simple-to-use and impressive-looking Genesis technology, or even the clear and bright Mercedes-Benz MBUX operating system, and the Lexus just feels two generations behind. Again, for this level of scratch, it needs to be better.\n\nMore From Cars.com:\n\n2025 Lexus LX Line Adds Hybrid 700h, Off-Road Overtrail Trim\nWhich SUVs Can Tow at Least 5,000 Pounds?\n2022 Lexus LX 600 Ultra Luxury: Families Beware\nResearch Lexus Vehicles\nShop for a 2025 Lexus LX 700h Near You\nCringe Pricing\n\nThe new LX 700h starts at $115,350 (all prices include $1,350 destination charge) for an Overtrail trim, $117,850 for the F Sport Handling, $119,850 for the Luxury and then jumps to $141,350 for the Ultra Luxury. The gas-only LX 600 offers a slightly less expensive Premium trim for $106,850, but all versions of the LX start north of a hundred grand. That’s a lot of money for this vehicle given its shortcomings relative to competitors.\n\nThe addition of a hybrid powertrain and Overtrail trim sadly hasn’t changed our opinion of the Lexus LX since the last time we reviewed it for 2022. Positioned as a brand flagship with a commensurate price, it doesn’t add up when stacked in a field of similarly priced competitors. It needs a better interior, better thought-out packaging for people and cargo, more space and more uniqueness. The $4,000 price premium for the hybrid drivetrain also doesn’t make much sense since the system doesn’t provide demonstrable on-road benefit when it comes to operation or efficiency, and it makes cargo space worse. The LX’s saving grace remains its lovely driving dynamics, which truly do compete with others in the class in terms of refinement, power, solidity and quietness. The SUV’s newly added off-road chops might appeal to a small additional group of buyers, but the majority of shoppers looking for a super-premium SUV would do well to shop the field before settling on this one.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LX 700h Overtrail 4WD",
+          "price": "$114500",
+          "specifications": {
+            "Notable features": [
+              "Four-, five- or seven-seat large luxury SUV",
+              "New 457-hp, twin-turbo V-6 hybrid powertrain (LX 700h)",
+              "Full-time four-wheel drive",
+              "New Overtrail off-road trim with three locking differentials",
+              "Multiple data-subscription-based convenience features"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "457 @ 5200 SAE Net Horsepower @ RPM",
+              "3.4 L/210 Displacement",
+              "Twin Turbo Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "8,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,261 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Automatic Parking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LX 700h F SPORT 4WD",
+          "price": "$117000",
+          "specifications": {
+            "Notable features": [
+              "Four-, five- or seven-seat large luxury SUV",
+              "New 457-hp, twin-turbo V-6 hybrid powertrain (LX 700h)",
+              "Full-time four-wheel drive",
+              "New Overtrail off-road trim with three locking differentials",
+              "Multiple data-subscription-based convenience features"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "457 @ 5200 SAE Net Horsepower @ RPM",
+              "3.4 L/210 Displacement",
+              "Twin Turbo Gas/Electric V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "18 gal Fuel Tank Capacity, Approx",
+              "8,000 lbs Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "N/A As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "6,261 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Parking",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "LX 700h Luxury 4WD",
+          "price": "$119000",
+          "specifications": {
+            "Notable features": [
+              "Four-, five- or seven-seat large luxury SUV",
+              "New 457-hp, twin-turbo V-6 hybrid powertrain (LX 700h)",
+              "Full-time four-wheel drive",
+              "New Overtrail off-road trim with three locking differentials",
+              "Multiple data-subscription-based convenience features"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Gas/Electric V-6 Engine Type",
+              "3.4 L/210 Displacement",
+              "457 @ 5200 SAE Net Horsepower @ RPM",
+              "583 @ 2400 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Rigid Axle Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "6,261 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "N/A As Spec'd Curb Weight",
+              "N/A As Spec'd Payload",
+              "N/A Maximum Payload Capacity",
+              "N/A Gross Combined Wt Rating",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "8,000 lbs Maximum Trailering Capacity",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Gross Axle Weight Rating",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,450 lbs Gross Vehicle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LX 700h Ultra Luxury 4WD",
+          "price": "$140500",
+          "specifications": {
+            "Notable features": [
+              "Four-, five- or seven-seat large luxury SUV",
+              "New 457-hp, twin-turbo V-6 hybrid powertrain (LX 700h)",
+              "Full-time four-wheel drive",
+              "New Overtrail off-road trim with three locking differentials",
+              "Multiple data-subscription-based convenience features"
+            ],
+            "Highlights": [
+              "19 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "72 month/70,000 miles Warranty",
+              "Twin Turbo Gas/Electric V-6 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Gas/Electric V-6 Engine Type",
+              "583 @ 2400 SAE Net Torque @ RPM",
+              "3.4 L/210 Displacement",
+              "457 @ 5200 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Rigid Axle Axle Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Independent Axle Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Option Weight - Front",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "8,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "18 gal Fuel Tank Capacity, Approx",
+              "N/A Gross Combined Wt Rating",
+              "N/A Curb Weight - Rear",
+              "0 lbs Option Weight - Rear",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,450 lbs Gross Vehicle Weight Rating",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A As Spec'd Curb Weight",
+              "N/A Gross Axle Weight Rating",
+              "6,261 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A As Spec'd Payload",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,000 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Automatic Parking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

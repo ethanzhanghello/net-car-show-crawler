@@ -1,0 +1,685 @@
+{
+  "make": "kia",
+  "model": "sportage_plug_in_hybrid",
+  "years": {
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/8630e434-74f5-4cd2-a6a0-845c006d5adf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/d4dbb958-e851-4045-855a-6c2ee8a0b20e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/23575e60-f29a-4ae5-be55-6bb15e990d3f.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/05ea1c7f-73eb-47f8-b1fc-6514bafc27e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/c57e5459-0a28-4fc3-a38c-1dc5ee6a7c2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/f7446fdf-d92e-4e75-8795-bc352576ee34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/3c3e8909-57c0-4f1a-b0d6-2f73f90a67db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/72699910-69f7-4059-8c95-49a59a8aad03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/87be362e-96a7-48ae-96e3-ad29c2a91373.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/e9235f17-ed07-4242-b991-0104eb7fc5a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/acb99de2-0ae8-4a30-8ea8-ddb16d6b4815.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/2330640b-25c7-4673-8986-8d24b554d4c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/99490495-bdc0-4c84-be0a-68c6fc6dc0ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/80ea24be-b1e7-4edd-99db-97a24505593c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/12b61bd6-c567-4939-94da-634f0075bd4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/2ff6ce18-d3e1-4fc5-ad62-e9c590ca49b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/963cd235-b849-4343-8f2f-f6b665fd61aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/02664c29-84e7-4761-84ad-e1dd116711f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/17673081-92d1-4d2b-b258-1603efccbe94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/d9824708-c8c1-4155-b6ff-43f46a954448.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/00ebd096-faca-4aad-8283-744b168cd188.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/c88e885b-8574-4756-a0e6-be75eb6d9deb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/19953294-fe8c-4a4f-b75d-76269b1bd84a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/46c9f154-4fb9-4e0e-a4f0-0bfc27157178.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/53038ee2-9ac4-40de-a1bc-1c63d46fe003.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/3f23a5de-66f6-4771-a505-7e5713d03b46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dc5c9f07-45c0-4439-9f67-81aff3cf5cb5/00ebd096-faca-4aad-8283-744b168cd188.png"
+      ],
+      "expert_review": "After a redesign for 2023 and minor updates for 2024, Kia’s Sportage compact SUV enters the 2025 model year with few changes. For 2025, the EX trim will offer a Premium Package and the X-Line and X-Pro trims add dark exterior trim. Prices are also up slightly; the 2025 Kia Sportage starts at $28,565, up from the 2024 model’s $28,865 base price (all prices include $1,375 destination).\n\nRelated: Kia Expands 2023 Sportage Lineup With New Plug-In Hybrid\n\nFor 2025, the newly available Premium Package adds a panoramic moonroof and smart power liftgate. Other changes for the new model year include additional standard dark-toned exterior trim for the X-Line and X-Pro trims, such as gloss black on the front and rear bumpers, as well as side sills; the X-Line also gets gloss-black alloy wheels, and both trims get additional black badges.\n\nThe Sportage’s powertrains carryover for 2025. Power comes from a 187-horsepower, 2.5-liter four-cylinder engine or two hybrid powertrains, each based on a turbocharged 1.6-liter four-cylinder. The hybrid makes 227 hp combined, while the plug-in hybrid makes a total of 261 hp; the PHEV has 34 miles of electric-only driving range. Front- and all-wheel drive are available.\n\nWhile official figures for the 2025 model are not yet available, the base FWD variant of the 2024 Sportage is good for an EPA-estimated 25/33/28 mpg city/highway/combined. The FWD hybrid is rated 42/44/43 mpg (AWD drops figures to 38/38/38 mpg), and the plug-in version has an 84 mpg-equivalent rating and 35 mpg combined rating.\n\nPricing and Availability\n\nThe 2025 Sportage will go on sale soon. Model-year 2025 trim-level pricing for gas, hybrid and PHEV variants is as follows:\n\nSportage\nLX FWD: $28,565\nEX FWD: $30,665\nSX FWD: $34,165\nSX-Prestige FWD: $36,165\nLX AWD: $30,365\nEX AWD: $32,465\nX-Line AWD: $33,465\nX-Pro AWD: $37,665\nSX-Prestige AWD: $37,965\nX-Pro Prestige AWD: $39,465\nSportage Hybrid\nLX FWD: $29,965\nLX AWD: $31,765\nEX AWD: $33,765\nSX-Prestige AWD: $38,965\nSportage Plug-In Hybrid\nX-Line AWD: $41,065\nX-Line Prestige AWD: $45,565\n\nMore From Cars.com:\n\nIs the 2023 Kia Sportage Hybrid a Good SUV? 6 Pros and 4 Cons\n2023 Kia Sportage Hybrid Review: Great (With a Catch)\nHow Do Car Seats Fit in a 2023 Kia Sportage Hybrid?\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "X-Line AWD",
+          "price": "$39890",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Standard 187-hp, 2.5-liter four-cylinder engine",
+              "Front- or all-wheel drive",
+              "Gas, hybrid and plug-in hybrid versions available",
+              "X-Pro “off-road” trims"
+            ],
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "265 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "1.6 L/98 Displacement",
+              "258 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Base Curb Weight",
+              "N/A Curb Weight",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "X-Line Prestige AWD",
+          "price": "$44390",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Standard 187-hp, 2.5-liter four-cylinder engine",
+              "Front- or all-wheel drive",
+              "Gas, hybrid and plug-in hybrid versions available",
+              "X-Pro “off-road” trims"
+            ],
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 SAE Net Torque @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "265 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Optional Automatic Parking",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/5266f354-e455-4481-ab08-298ef13378af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/bc90e902-760c-4ae8-96c2-63ac90085bcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/d7773a73-afe0-4c47-adcd-24183063d4c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/0e604baa-a461-4f1f-bd25-1f398a041b28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/9443a041-a298-40a1-ba19-46fba8fd24d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/ad0c070f-6e50-4caa-bf9a-24c65e9b73e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/6310433f-e683-495a-bd33-6bf80ed204c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/b2554f86-9c49-4523-b0bb-7e35cb741331.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/c3da00d4-0de8-43ff-b9ca-bfa934c2b131.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/be7e4afc-7144-4f9e-b466-16181b55a44d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/b03736f4-76a0-47d9-a4d0-747cdddc8a82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/a0fa1aae-1594-4acd-b741-dafb1a7b1ffa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/e78b870a-c8f4-4a13-8ce7-c9fd5a110d29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/3d3f4a65-addb-4cf1-9b0a-7597e90c22fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/aef923dc-e018-4d83-9354-18ea24daf3bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/d5fda76f-b249-4f8e-9c8f-7778159324b6.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/c3da00d4-0de8-43ff-b9ca-bfa934c2b131.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/e57c2903-dc58-46b9-a46b-c4d7477d2261.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/fd0f4dec-b9d6-4492-8596-92c0163943e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/5841c2fb-039b-4a28-8079-db18a14f4c83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/d41bb3a5-94ab-4961-9645-11e4cb9f2840.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/b19d056b-9417-4092-b253-9d9ff4108071.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/62fb2808-dd73-4271-a15a-b5aa946328a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/c6dbb845-8eae-4a69-948f-a1f8fe6a5134.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f2bccaf7-30d3-4d0f-a542-1076e8c916ba/5883706e-363c-4bfb-9441-05b8041ef322.png"
+      ],
+      "expert_review": "Kia redesigned its Sportage compact SUV for 2023, and the new model added a lot of size, not to mention power and features. The fifth-generation Sportage also welcomed a hybrid variant to the lineup, but that’s not the end of its powertrain updates: Kia announced today that a plug-in hybrid electric vehicle will also join the lineup for 2023.\n\nRelated: 2023 Kia Sportage Revealed With More Room, More Power, More Style\n\nPowertrain and Electric Range\n\nPower comes from a turbocharged 1.6-liter four-cylinder engine good for 177 horsepower. It pairs with a 66.9-kilowatt electric motor that draws juice from a 13.8-kilowatt-hour lithium-polymer battery. A six-speed automatic transmission is standard, as is all-wheel drive. Kia expects the Sportage PHEV to have an all-electric range of 32 miles, but published EPA range and fuel economy estimates are pending.\n\nThe Sportage PHEV is equipped with a 7.2-kW high-efficiency onboard charger, and Kia says it’ll take the SUV around two hours to charge via a Level 2 charger.\n\nThe plug-in model joins the regular Sportage, which uses a 187-hp, 2.5-liter four-cylinder engine paired with an eight-speed automatic transmission in front-wheel drive or AWD. It also joins the Sportage Hybrid, which pairs a turbo 1.6-liter four-cylinder with a 44-kW electric motor and much smaller (1.49-kWh) battery for a total system output of 226 hp. Kia estimates the 2023 Sportage Hybrid will achieve up to 39 mpg and have more than 500 miles of total driving range.\n\nOutside, the plug-in blends in with the rest of the new Sportage lineup and has the same upgraded safety, technology and convenience features as the redesigned 2023 model. The plug-in comes in just two trim levels, however: X-Line PHEV AWD and X-Line Prestige PHEV AWD.\n\nPrice and Release Date\n\nKia says the plug-in hybrid will go on sale toward the end of 2022 and starts at $39,785.\n\nMore From Cars.com:\n\n2023 Kia Sportage Hybrid Joins the Party\nPricing Announced for 2022 Kia Sorento Plug-In Hybrid\nUp Close With the 2023 Kia Sportage: Bigger Really Is Better\n2021 Kia Sorento Review: A Middle Child Deserving of the Spotlight\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "X-Line AWD",
+          "price": "$38690",
+          "specifications": {
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 1500 SAE Net Torque @ RPM",
+              "177 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,211 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "X-Line Prestige AWD",
+          "price": "$43190",
+          "specifications": {
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 1500 SAE Net Torque @ RPM",
+              "177 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,211 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Automatic Parking",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/81dec8e9-5772-40f3-9d8f-2801ea3a5980.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/53ab0598-7aac-4fd2-80b6-ec8aa39d4fdc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/8bb44679-1331-48e3-a40c-974469c14fad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/9ea583ee-263d-43c7-b5a7-29420773e090.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/7bc37af1-57f0-4f7c-9b69-1ee6838b0123.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/ad7ec3a2-e963-4aeb-8898-8497455fa255.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/b075e67b-48e4-411d-84ca-c386aafde315.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/902cf6a9-a226-4fe6-8718-719943de9b17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/4360adfe-47fd-4836-8ddd-42f4f3770ee9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/8a895434-8350-4fd2-9557-5798926e3325.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/05b040bd-71a8-42a2-a6a7-5358961011eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/e1a5641b-c8b1-4333-add7-687ce49e05bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/6da5bbf8-1eeb-4867-a503-05cb86a440e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/0fad8beb-9081-48a0-b8c1-63fce6ff0bbe.jpg",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/0efbc921-da35-423d-b748-518c5e8be9d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/e108c8d0-c336-4f96-bb52-98088f7d4047.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/0efbc921-da35-423d-b748-518c5e8be9d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/461da1a3-a599-40bf-8270-9dacd2d6f645.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/f37cf647-1ce0-4907-ab25-32a352509f63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/7b628ad8-c5cf-48a5-8984-1795e7e8ccd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/81cd4e4b-466f-45ea-939d-b0232eec5570.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/259b04c7-90a7-46d0-ac4e-4a3dc6974367.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/581d53a8-c7bf-4a44-8229-6fbb46e2d603.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/8bd16b06-e56d-47ff-a019-7e6e8df782e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/fe15ad9b-7242-4bad-a935-808a2c018549.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/33dde561-7d97-4dc2-b636-fb152e61b3c0/611aed83-eb51-4f1a-8184-a384f6f51f1d.png"
+      ],
+      "expert_review": "What Is the 2024 Kia Sportage?\n\nThe Kia Sportage is a compact SUV with seating for five and a choice of a 187-horsepower, 2.5-liter four-cylinder engine or two hybrid powertrains, each based on a turbocharged 1.6-liter four-cylinder. The regular hybrid makes 226 hp combined, while the plug-in hybrid makes 261 hp combined and has the added bonus of 34 miles of electric-only driving range. The base engine and regular hybrid are offered with front- or all-wheel drive, but the PHEV is AWD-only. After a complete redesign for the 2023 model year, the Sportage has one of the most daring exteriors in a field of rivals that includes the Chevrolet Equinox, Honda CR-V, Toyota RAV4 and Volkswagen Tiguan.\n\nWhat’s New on the 2024 Kia Sportage?\n\nAfter its redesign for 2023, the Kia Sportage sees only minor revisions in standard equipment for 2024. Rear airbags and LED headlights are now standard on every Sportage. \n\nWhat Features in the 2024 Kia Sportage Are Most Important?\n\nStandard features include:\n\n8-inch touchscreen\nWireless Apple CarPlay and Android Auto\n12.2-inch digital gauge cluster\nBluetooth\nFront USB-C port\nSix-speaker stereo\nForward collision warning with pedestrian and cyclist detection\nLane departure steering assist\nRain-sensing wipers\nAutomatic high-beam headlights\nRear parking sensors\n\nAvailable features include:\n\n12.3-inch touchscreen\nNavigation\nWireless device charging\nPanoramic moonroof\nSynthetic leather upholstery\nHarman Kardon stereo\nHeated and ventilated front seats\nHands-free power liftgate\nRemote park assist\nFront parking sensors\nReverse automatic emergency braking\n360-degree camera system\nShould I Buy the 2024 Kia Sportage?\n\nThe Sportage makes a very strong case for itself among compact five-seat SUVs, but the same can be said of a number of similarly well-rounded competitors in this category. The cabin is less polarizing than the exterior; the design is elegant and the trim materials are high-quality. The power and economy of the hybrid versions are impressive, but there’s no getting around the fact that the base four-cylinder quickly runs out of steam and feels unrefined. It’s a shame given how much attention has gone into the finer details of this Kia SUV.",
+      "trims": [
+        {
+          "name": "X-Line AWD",
+          "price": "$39590",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Standard 187-hp, 2.5-liter four-cylinder engine",
+              "Front- or all-wheel drive",
+              "Gas-electric and plug-in hybrid versions available",
+              "X-Pro “off-road” trims"
+            ],
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 SAE Net Torque @ RPM",
+              "1.6 L/98 Displacement",
+              "265 @ 5500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "11 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,653 lbs Maximum Trailering Capacity",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,211 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "X-Line Prestige AWD",
+          "price": "$44090",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "Standard 187-hp, 2.5-liter four-cylinder engine",
+              "Front- or all-wheel drive",
+              "Gas-electric and plug-in hybrid versions available",
+              "X-Pro “off-road” trims"
+            ],
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 SAE Net Torque @ RPM",
+              "265 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,211 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Optional Backup Camera",
+              "Optional Automatic Parking",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/076eb833-6805-41da-bf4f-7e545602cff6/a20138e2-84b3-4de4-82e7-f1a15eb79aa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/076eb833-6805-41da-bf4f-7e545602cff6/a20138e2-84b3-4de4-82e7-f1a15eb79aa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/076eb833-6805-41da-bf4f-7e545602cff6/939cdb14-59c6-4cd4-898e-576d735ad9e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/076eb833-6805-41da-bf4f-7e545602cff6/2fd42cf2-7ba2-4ddc-8a38-03b7de8ed4eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/076eb833-6805-41da-bf4f-7e545602cff6/c1f5af14-75e7-4e19-976c-1c592840187f.png"
+      ],
+      "expert_review": "Is the 2026 Kia Sportage Hybrid a Good SUV?\n\nThe Kia Sportage Hybrid is a spacious, nicely balanced everyday hauler that sports a few unconventional styling touches and boasts a pleasantly upscale look and feel in its top trim level.\n\nHow Does the 2026 Kia Sportage Hybrid Compare With Other Compact SUVs?\n\nAmong mainstream-brand hybrid compact SUVs, the all-wheel-drive Sportage Hybrid’s Kia-estimated fuel economy of 35 mpg in combined driving is on par with the related 2025 Hyundai Tucson Hybrid. However, its gas mileage trails class leaders like the 2025 Honda CR-V Hybrid and 2025 Toyota RAV4 Hybrid by 2-4 mpg.\n\nKia’s current-generation Sportage compact SUV debuted for 2023 with upsized dimensions and its first available hybrid and plug-in hybrid powertrains. For 2026, the entire Sportage family receives a nicely executed refresh that brings updated styling and some welcome new standard and available features. For this review, I attended the 2026 Sportage Hybrid’s press preview event in Louisville, Ky., where I drove the top-of-the-line SX-Prestige trim level. (Per our ethics policy, Cars.com pays for its own airfare and lodging when attending such manufacturer-sponsored events.)\n\nRelated: What’s the Best Compact SUV for 2025?\n\nWhat’s New for the Refreshed 2026 Kia Sportage?\n\nThe 2023 Sportage inaugurated an unorthodox front-end treatment that included boomerang-shaped daytime running lights and swoopy body-lines. A face-lift for 2026 brings a slightly blockier, more conventional look, with daytime running lights that make the Sportage look more like a downsized version of Kia’s mid-size Sorento SUV. If you found the previous Sportage’s looks to be a bit too much, the 2026’s mildly toned-down visage might be more to your liking, and it still stands out enough that you’re unlikely to have any trouble finding it in a crowded parking lot.\n\nThe gas-only Sportage’s 187-horsepower, 2.5-liter four-cylinder engine carries over unchanged, but both hybrid powertrains get a slight power boost thanks to upgraded electric motors. The conventional hybrid is up 5 hp, to 232 hp total, while the PHEV is up 7 hp for a total of 268 hp.\n\nAmong the new standard features are a two-spoke steering wheel with a squared-off shape, an updated panoramic dashboard panel with dual 12.3-inch displays and wireless Apple CarPlay and Android Auto (higher trim levels get an upgraded gauge cluster screen and infotainment system). Newly available features include a 10-inch multifunction head-up display, heated outboard rear seats, side parking sensors and an upgraded version of Kia’s Highway Driving Assist system.\n\nIn addition to the previous drive-mode settings, AWD Sportages get a standard Terrain mode with driver-selectable settings for snow, mud and sand. Additionally, the Sportage Hybrid lineup expands with new S and X-Line trim levels, both with dark-finish accents.\n\nRelated Video:\n\nHow Does the 2026 Kia Sportage Hybrid Drive?\n\nYou’d probably have to drive a 2025 and a 2026 Sportage Hybrid back to back to notice any difference in power delivery, but the SX Prestige I drove supplied respectably peppy, if not instantaneous, acceleration. The Sportage Hybrid’s conventional six-speed automatic transmission might seem a little archaic on paper compared to the continuously variable automatic transmissions of other hybrid powertrains, but it performs well. Overall, the Sportage Hybrid’s power delivery is smooth and mostly seamless.\n\nUnlike the squared-off steering wheels in some vehicles I’ve driven, the Sportage’s new steering wheel wasn’t awkward for me to use and didn’t introduce any instrument panel visibility issues. The steering feel itself is responsive but relaxed. Even among compact SUVs, the Sportage is no corner carver; it’s tuned for comfort more than crisp handling. The ride quality is comfortable and absorbent overall, but the Sportage’s composure can be upset by sharp bumps in the middle of a turn, as on a freeway on-ramp. Our test drives were entirely on pavement, so I didn’t get the chance to test the effectiveness of the Sportage’s new Terrain mode system.\n\nHow Is the 2026 Kia Sportage Hybrid’s Fuel Economy?\n\nWe haven’t had the chance to do real-world fuel-economy testing yet, either, but the best average fuel economy on the dashboard display during my driving was 34.2 mpg. That’s on par with estimates of 35/36/35 mpg city/highway/combined for AWD Sportage Hybrid trims, but it’s not outstanding for a hybrid compact SUV. It trails by 2-3 mpg the real-world numbers we achieved on a different drive route in a 2025 Honda CR-V hybrid and a 2024 Toyota RAV4 Hybrid. Kia’s gas mileage estimates for the front-wheel-drive Sportage Hybrid are an impressive 41/44/42 mpg, but FWD comes only in the entry-level LX trim.\n\nWhat Is the 2026 Kia Sportage Hybrid’s Interior Like?\n\nThe cabin ambiance in the line-topping SX-Prestige trim is suitably upscale, helped by a full complement of comfort and convenience features. The easy-to-use rotary gear selector and clever retractable cupholders aren’t new, but they’re still among my favorite features. The combination control panel that toggles between climate and audio controls is another carryover feature; it takes a little getting used to because it’s easy to forget to change from climate to audio mode and vice versa. However, the Sportage’s cargo area and backseat space are still among the most generous in the class. I’m 6 feet, 6 inches tall, and I had decent comfort in the backseat with the front seat positioned all the way back.\n\nShould You Buy a 2026 Kia Sportage Hybrid?\n\nThe Kia Sportage Hybrid was already a solid entry in a hotly contested class, and the updates it receives for 2026 enhance its standing. Its pricing remains highly competitive, too, especially considering the generous levels of standard equipment; including destination, prices start at $31,735 for the base LX trim and run to $41,835 for the SX-Prestige. The 2026 Kia Sportage lineup is arriving in dealerships now.\n\nMore Kia Sportage News From Cars.com:\n\n2026 Kia Sportage Up Close: Nothing Broken, No Fixing Required\nFace-Lifted 2026 Kia Sportage Gets More Standard Tech, Hybrid Gets (Slightly) More Power and Trims\nHow Much Is the 2026 Kia Sportage Hybrid?\nHow Much Is the 2026 Kia Sportage Plug-in Hybrid?\n2025 Kia Sportage: Minor Content Change, Minor Price Change\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "X-Line AWD",
+          "price": "$40490",
+          "specifications": {
+            "Notable features": [
+              "Refreshed for 2026",
+              "Five-seat compact SUV",
+              "Standard 187-hp, 2.5-liter four-cylinder engine",
+              "Front- or all-wheel drive",
+              "Gas, gas-electric hybrid and plug-in hybrid versions available"
+            ],
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "265 @ 5500 SAE Net Horsepower @ RPM",
+              "258 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "1.6 L/98 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "1,653 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "11 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "X-Line Prestige AWD",
+          "price": "$47190",
+          "specifications": {
+            "Notable features": [
+              "Refreshed for 2026",
+              "Five-seat compact SUV",
+              "Standard 187-hp, 2.5-liter four-cylinder engine",
+              "Front- or all-wheel drive",
+              "Gas, gas-electric hybrid and plug-in hybrid versions available"
+            ],
+            "Highlights": [
+              "34 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "258 SAE Net Torque @ RPM",
+              "265 @ 5500 SAE Net Horsepower @ RPM",
+              "1.6 L/98 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "11 gal Fuel Tank Capacity, Approx",
+              "1,653 lbs Maximum Trailering Capacity",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,653 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,653 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "N/A Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Automatic Parking",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Optional Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "make": "aston_martin",
+  "model": "v8_vantage_s",
+  "years": {
+    "2011": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/ce3cdb40-7618-4c51-ab03-841fea5a81d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/bbda8c2c-92d5-4038-a788-1473606887e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/956eb031-2f4b-4226-bf6b-cfa9370eb370.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/87568b98-6d4a-4349-b977-2a88be3306d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/4746def5-9d87-458b-a259-82ea451791fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/6aa6c92f-4848-4163-8219-925010e9b1b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/727b1c15-b33c-4882-8a02-6c7a9c338825.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/b245cc19-255b-4e93-95f2-9bb549bb415a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/87568b98-6d4a-4349-b977-2a88be3306d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f5a1a544-b057-41e0-b7ba-61b26649378c/cacf4732-37ce-4320-97a7-b05f67e852dd.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe S",
+          "price": "$134295",
+          "specifications": {
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7 L/289 Displacement",
+              "Premium Unleaded V-8 Engine Type",
+              "361 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,549 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv S",
+          "price": "$148795",
+          "specifications": {
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-8 Engine Type",
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7 L/289 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,726 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/407d23ed-cfd9-4588-b293-986831ea846b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/6a5a2856-65fb-4666-a706-f401fbfd195c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/758e1352-ae8e-432f-93ef-1913aaac82e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/da7d77fb-8bf9-495a-9f03-1b75a0180899.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/b475e9d4-fec4-4867-95ca-9e8bc4327f93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/99844336-fc18-424f-9926-b545aab33b2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/f373105b-6749-4a55-8910-d7e54059f629.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/28b91ad6-d10e-4779-95a2-884d780aee2b/86680937-04bc-483f-8752-2d079b694b13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b43a90f3-4771-46f8-94ab-06339f7e5f49/00ed2212-2627-4dd1-b4aa-2f904c044b8d.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe low-slung two-seat Aston Martin V8 Vantage sports car is powered by a normally aspirated V-8 that makes 420 horsepower. It looks much like Aston Martin’s larger DB9 and is available as a hardtop coupe or convertible. Last year, Aston launched N420 versions of the V8 Vantage that featured carbon fiber side strakes, front splitter and diffuser, graphite tailpipe finishers, a sport suspension, unique exhaust system and unique interior trim. The N420 name was inspired by Aston Martin’s racing efforts at the Nurburgring. Competitors include the Audi R8 and Porsche 911.\n\nThe V12 Vantage is covered separately in the Cars.com Research section.\n\nNew for 2012\nA high-performance 430-horsepower V8 Vantage S model, available as either a coupe or convertible, debuts for 2012. All Aston Martin V8 Vantages are available with a new Garmin-based navigation system. Brake calipers can be finished in red, gray or yellow.\n\n(Skip to details on the: V8 Vantage S)\n\nExterior\nThe V8 Vantage’s frame replaces welding with advanced adhesives for better vibration damping, and aluminum and magnesium components reduce weight throughout the chassis. Exterior features include:\n\nTwin-bezel headlamps flank Aston Martin’s trapezoidal grille\nFlared front fenders are trailed by inset side vents, and all lines flow rearward to the V8 Vantage’s twin-bar taillamp\nIntegrated deck lid spoiler and twin exhaust pipes\nConvertible has a fabric top that stows beneath a metal tonneau cover\n19-inch wheels\nOptional chrome grille\nOptional painted brake calipers\n\nInterior\nA dizzying array of interior choices means each V8 Vantage can be personalized by its buyer. Premium materials line the aluminum-trimmed dashboard, which includes a ringed engine-start button above the radio controls. Interior features include:\n\n10-way power seats feature twin lumbar adjustment and memory function\nOptional heated front seats\nMP3 jack\nInformation screen can display Russian, Chinese and Greek\nOptional Bluetooth connectivity\nOptional Garmin-based navigation system\nOptional satellite radio\nAnalog clock, stitched dashboard seams and machined instrument dials are among the upscale touches\n\nUnder the Hood\nThe 4.7-liter V-8 generates 420 hp. Its aluminum construction uses a dry-sump lubrication system that eliminates the oil pan and allows the engine to sit lower to the ground, thereby lowering the vehicle’s center of gravity. Mechanical features include:\n\nStandard rear-mounted six-speed manual transmission or available six-speed automated manual with paddle shifters\nCoupe can accelerate from zero to 60 mph in 4.7 seconds\nAston claims top speed is 180 mph\n\nSafety\nSafety features include:\n\nAntilock brakes\nTraction control\nElectronic stability system\nSide-impact airbags are standard; seats incorporate head-protection airbags\n\nV8 Vantage S\nInfluenced by Aston Martin’s GT4 racecar, the V8 Vantage S is designed to offer greater dynamic capability compared with the regular model. Offered as a coupe or roadster, the car shares its 4.7-liter V-8 with the V8 Vantage, but the engine has been tuned to produce 430 hp and 361 pounds-feet of torque. A new seven-speed automated manual transmission, controlled by steering-wheel-mounted paddle shifters, is the only transmission available. Pushing the standard Sport button quickens gear changes, increases throttle response and opens bypass valves in the exhaust system.\n\nThe V8 Vantage S features new springs and dampers, a quicker steering ratio and larger front brakes. The V8 Vantage S also has unique stability system tuning.\n\nExterior enhancements include new bumpers, a carbon fiber front splitter and wide side sills. Nineteen-inch wheels are standard. Back to top",
+      "trims": [
+        {
+          "name": "2dr Cpe Sportshift S",
+          "price": "$136700",
+          "specifications": {
+            "Notable features": [
+              "New high-performance V8 Vantage S",
+              "420-hp V-8",
+              "180 mph top speed",
+              "N420 special edition",
+              "Coupe or convertible",
+              "New Garmin-based navigation system"
+            ],
+            "Highlights": [
+              "14 City / 20 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "4.7L/289 Displacement",
+              "Gas V8 Engine Type",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "361 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent double wishbone Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "Independent double wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,549 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "15.0 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv Sportshift S",
+          "price": "$149700",
+          "specifications": {
+            "Notable features": [
+              "New high-performance V8 Vantage S",
+              "420-hp V-8",
+              "180 mph top speed",
+              "N420 special edition",
+              "Coupe or convertible",
+              "New Garmin-based navigation system"
+            ],
+            "Highlights": [
+              "14 City / 20 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7L/289 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent double wishbone Suspension Type - Rear",
+              "Independent double wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,726 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "15.0 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/2a62ccc7-59ec-4a9e-9fa4-7f4d3960ff3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/d6fe085d-465e-4fef-852a-274dd02864c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/1a511019-4d1b-47ba-b36b-f16c435304b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/977f8751-b78e-4b79-bd12-7cb204c93b4b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/5c9af600-ed25-489e-acab-210762ca3608.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/de8fe2c6-ffe0-4d39-b0a3-e59734fe6962.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/e4b8e867-1d22-4ed3-812b-d6022125b945.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/696c2a0a-107a-42be-a813-0e8d349f32f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/10d4e83f-0ab8-4ff3-a273-d724a987ce02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4c32ef1d-29eb-4c70-b0ca-4f59eb88235f/5c9af600-ed25-489e-acab-210762ca3608.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe S",
+          "price": "$130700",
+          "specifications": {
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "4.7 L/289 Displacement",
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,549 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv S",
+          "price": "$145200",
+          "specifications": {
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "4.7 L/289 Displacement",
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "430 @ 7300 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,726 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a1ed63c9-a8dc-45b3-8bb4-f0e540ab1cbd/71017a32-322f-4a88-984b-8d533eed3e77.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe low-slung two-seat Aston Martin V8 Vantage sports car is powered by a V-8 engine that makes 420 horsepower. It looks much like Aston Martin’s larger DB9 and is available as a coupe or convertible. Competitors include the Audi R8 and Porsche 911.\n\nThe V12 Vantage is covered separately in the Cars.com Research section.\n\nNew for 2013\nFor 2013, the V8 Vantage gains new standard features like rain-sensing windshield wipers, automatic headlights and a backup camera. A sport suspension is a new no-cost option.\n\nAston Martin also made some changes to the V8 Vantage late in the 2012 model year with the addition of standard navigation, satellite radio, front and rear parking sensors, cruise control and Bluetooth connectivity. The standard six-speed manual transmission carried over, but a new seven-speed automated manual became available. The V8 Vantage also gained quicker steering, bigger brakes and wider tires.\n\nStyling tweaks included a new front splitter, rear diffuser and different side sills.\n\n(Skip to details on the: V8 Vantage S)\n\n\nExteriorThe V8 Vantage’s frame replaces welding with advanced adhesives for better vibration damping, and aluminum and magnesium components reduce weight throughout the chassis. Exterior features include:\n\n\nTwin-bezel headlamps flank Aston Martin’s trapezoidal grille\nFlared front fenders are trailed by inset side vents, and all lines flow rearward to the V8 Vantage’s twin-bar taillamps\nIntegrated deck lid spoiler and twin exhaust pipes\nConvertible has a fabric top that stows beneath a metal tonneau cover\n19-inch wheels\nFront and rear parking sensors\n\nInteriorA dizzying array of interior choices means each V8 Vantage can be personalized by its buyer. Premium materials line the aluminum-trimmed dashboard, which includes a ringed engine-start button above the radio controls. Interior features include:\n\n\n10-way power seats feature twin lumbar adjustment and memory function\nOptional heated front seats\nMP3 jack\nInformation screen can display Russian, Chinese and Greek\nBluetooth connectivity\nGarmin-based navigation system\nSatellite radio\nAnalog clock, stitched dashboard seams and machined instrument dials are among the upscale touches\n\nUnder the HoodThe 4.7-liter V-8 generates 420 hp. Its aluminum construction uses a dry-sump lubrication system that eliminates the oil pan and allows the engine to sit lower to the ground, thereby lowering the vehicle’s center of gravity. Mechanical features include:\n\n\nStandard rear-mounted six-speed manual transmission or available seven-speed automated manual with paddle shifters\nAston Martin claims top speed is 180 mph\n\nSafetySafety features include:\n\n\nAntilock brakes\nTraction control\nElectronic stability system\nSide-impact airbags\n\nV8 Vantage S\nInfluenced by Aston Martin’s GT4 racecar, the V8 Vantage S is designed to offer greater dynamic capability compared with the regular model. Offered as a coupe or roadster, the car shares its 4.7-liter V-8 with the V8 Vantage, but the engine has been tuned to produce 430 hp and 361 pounds-feet of torque. A seven-speed automated manual transmission, controlled by steering-wheel-mounted paddle shifters, is the only transmission available. Pushing the standard Sport button quickens gear changes, increases throttle response and opens bypass valves in the exhaust system.\n\nThe V8 Vantage S features different springs and dampers, and it has unique stability system tuning. Exterior cues include a carbon fiber front splitter and wide side sills. Back to top",
+      "trims": [
+        {
+          "name": "2dr Cpe S",
+          "price": "$136700",
+          "specifications": {
+            "Notable features": [
+              "Available high-performance V8 Vantage S",
+              "420-hp V-8",
+              "180 mph top speed",
+              "Coupe or convertible"
+            ],
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7L/289 Displacement"
+            ],
+            "Suspension": [
+              "Independent double wishbone Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent double wishbone Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,549 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "15.0 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv S",
+          "price": "$150900",
+          "specifications": {
+            "Notable features": [
+              "Available high-performance V8 Vantage S",
+              "420-hp V-8",
+              "180 mph top speed",
+              "Coupe or convertible"
+            ],
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7L/289 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent double wishbone Suspension Type - Rear",
+              "Independent double wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "15.0 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ced92946-d22a-4670-ac73-79909dad681d/16201bfe-ec43-48dc-bc39-0e463c8a7ac4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/9060ea10-6373-4810-8998-a2e3f2bd2004.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/50bdaed7-d1cc-465d-966c-84f094d4021c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/6261256f-85f1-47ea-b304-3b0526564863.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/ed4945fc-79fe-4331-b846-78489f81e0c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/55981d17-30de-4e1d-b108-8973dbdd5e00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/ac1b4e65-ebe0-45f6-ac9e-efdb1d0c91af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/ca97c1d4-915d-4333-a7b3-a104065099f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6493c312-be38-4270-80d1-016a0d2a20ef/c6c0123a-3466-4a58-b781-fc4d9af35e06.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe S",
+          "price": "$130700",
+          "specifications": {
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7 L/289 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,549 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Conv S",
+          "price": "$150900",
+          "specifications": {
+            "Highlights": [
+              "14 City / 21 Hwy MPG",
+              "2 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "361 @ 5000 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "430 @ 7300 SAE Net Horsepower @ RPM",
+              "4.7 L/289 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,726 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

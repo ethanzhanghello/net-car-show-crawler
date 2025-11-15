@@ -1,0 +1,35 @@
+{
+  "make": "chevrolet",
+  "model": "caprice",
+  "years": {
+    "1994": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_9900",
+          "price": "$9900",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/768d2eec-23ba-4e22-b8f2-26fed76a2b32/119cdae4-3fee-4ec6-b8b6-73cbbe48b772.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan",
+          "price": "$17300",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Wagon",
+          "price": "$18700",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "make": "chevrolet",
+  "model": "sportvan",
+  "years": {
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8c3e38ca-fff4-4e4d-856c-481f0a651046/68f5865b-0ad9-4850-ba26-87e7a3d929f5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "G20 Sport 125\" WB",
+          "price": "$19736",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Sport 125\" WB",
+          "price": "$21130",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Ext Sport 146\" WB",
+          "price": "$22286",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0cc9f556-fe67-412a-a25b-9f6131106f53/e05c8bb7-ea9a-4321-934a-aac584a92ddb.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "G30 125\" WB",
+          "price": "$16237",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Ext 146\" WB",
+          "price": "$18357",
+          "specifications": {}
+        },
+        {
+          "name": "G20 Sport 125\" WB",
+          "price": "$18875",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Sport 125\" WB",
+          "price": "$20227",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Ext Sport 146\" WB",
+          "price": "$21383",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ceb44937-26bd-462e-bc64-c2ca41df31d4/b8f69c41-cbee-40aa-a82c-22f138dc1c9d.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "G10 Sport 110\" WB",
+          "price": "$16360",
+          "specifications": {}
+        },
+        {
+          "name": "G10 Sport 125\" WB",
+          "price": "$17060",
+          "specifications": {}
+        },
+        {
+          "name": "G20 Sport 125\" WB",
+          "price": "$17250",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Sport 125\" WB C6P",
+          "price": "$18880",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Sport 125\" WB C6C",
+          "price": "$19000",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Sport 125\" WB C6W",
+          "price": "$19000",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Ext Sport 146\" WB C6P",
+          "price": "$20485",
+          "specifications": {}
+        },
+        {
+          "name": "G30 Ext Sport 146\" WB C6W",
+          "price": "$20725",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a215aecb-f0bd-4f59-8b8b-f96f188aa7ab/e2cae32d-4c3d-4a3e-80ab-9d564c971932.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "G10 110\" WB",
+          "price": "$16045",
+          "specifications": {}
+        },
+        {
+          "name": "G10 125\" WB",
+          "price": "$16995",
+          "specifications": {}
+        },
+        {
+          "name": "G20 125\" WB",
+          "price": "$17185",
+          "specifications": {}
+        },
+        {
+          "name": "HD G30 125\" WB C6P",
+          "price": "$18815",
+          "specifications": {}
+        },
+        {
+          "name": "G30 125\" WB",
+          "price": "$18935",
+          "specifications": {}
+        },
+        {
+          "name": "HD G30 125\" WB C6W",
+          "price": "$19171",
+          "specifications": {}
+        },
+        {
+          "name": "G30 146\" WB Ext C6P",
+          "price": "$20465",
+          "specifications": {}
+        },
+        {
+          "name": "HD G30 146\" WB Ext C6W",
+          "price": "$20701",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

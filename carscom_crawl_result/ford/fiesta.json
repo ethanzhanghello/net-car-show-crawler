@@ -1,0 +1,857 @@
+{
+  "make": "ford",
+  "model": "fiesta",
+  "years": {
+    "2020": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/c410c4a3-11ab-4a70-ae45-f326347828d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/576ed05f-927a-4cbe-8b7e-5d4b84decd32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/39ea50f1-5561-4da3-b1c7-2ada08d084bb.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0127a7c8-11fe-456b-8f2d-d04b263501d7/c5a7734a-45bc-44b3-a618-babced9ab3cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/1c7e2957-48ba-4618-a1e0-0301032c5a38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/c96c1ec0-6941-478d-9919-d22c9946320d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/53c0069d-0a8e-4b57-b1c8-108554ffe286.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/fd376f9a-fd52-438a-8b5f-ec238e31b5a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/799714e3-4c29-44e5-83fa-a6c11339f622.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/097bd4c8-de78-4ff2-9ada-82be5bf2e812.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/52d70baf-3185-41f8-97c1-d389b584038e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/f615f48d-0603-4f65-b769-30269ef5de3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/4a438c0b-4f6a-4b6b-af77-404e5d08f736.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/ac1f2cd3-2d54-431e-8069-94dedfce38ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/3f6d79f1-4df1-44bc-9631-46aff56aaac1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/778d3f3f-1876-4e10-980a-0cdc64bb7072.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/5b5fb6ce-370b-4994-9178-3ac7dffdafd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/993f4d25-4c15-4a1c-bf93-2a8efc5ee79c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/5e287430-5b84-491a-8155-796cb3097650.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/a3f6453f-a613-4c52-b24b-7d7b7cc1bddb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/b0bb086f-3fd3-460a-8dba-7e4af8a9cba8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/11e28f1d-d0c2-41ee-a749-667f6195f6a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/042ba805-81d6-421e-b8ce-1500974b1339.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/fffcc5e7-314d-4d3a-be68-1e51b24e66f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/76f0003f-59d5-48b8-bf0d-02073cae2b3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/446742b1-7332-4e79-a91a-cf3b620478bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/ac35dfdd-867f-4ba0-a1bf-e767e09b8acc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/31871eab-1199-4fa9-9b1f-fffba5ba21bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/c249564d-60e3-43e2-8e07-982b02b0ad94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/01a6bc78-1109-4dd8-85c3-431074ed8142.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/7f79a246-be6b-453d-bc54-8d6aeddf210a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/55a66d68-315a-4589-a679-1d9ff21f08a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d9604668-eb1d-499d-883f-c45133b74e0e/1a4b20bb-e11a-45e0-b014-604976ecc369.png"
+      ],
+      "expert_review": "It is the motorized equivalent of a good pair of jeans — well sewn, good fit, comfortable, durable and affordable. That’s why Ford has sold more than 12 million Fiestas worldwide since 1976. It is the first car many people want to slip into when they have to go somewhere.\n\nIn Europe, Asia, South America and South Africa, that makes perfectly good sense. Many European and Asian streets are narrow. Parking space is at a premium. The Fiesta is a subcompact that moves well through narrow passages and fits easily into tight parking spaces. You feel confident driving it in congested environments.\n\nI’ve been in Ford Fiesta subcompacts all over the world, even in Kazakhstan, where my Russian hosts ferried me around the little town of Balkash. They were well-educated but economically struggling people trying to make ends meet. Their tan late-1980s Fiesta served their purposes. “It works, and when it breaks, it’s easy to fix,” the husband of the household said.\n\nFunctional humility has value where the ability to function, simply to get from one place to another, can mean the difference between work or no work, food or hunger, fun or another day of life in a drab apartment complex. For millions of people worldwide, the little Fiesta has been that difference.\n\nBut that hasn’t been the case in the United States. The Fiesta was last sold here in 1980, rejected by consumers as too small and too cheaply made to compete.\n\nFord now believes that time and circumstance, combined with advances in small-car design and engineering, have changed that reality, and it is reintroducing the Fiesta to the domestic market. It’s a risky move, as indicated by empirical observations gathered from my Washington-Baltimore week in a “red candy metallic clear-coat” 2011 Ford Fiesta SE hatchback.\n\nHere’s the deal:\n\nIn the late 1970s, when car companies worldwide were scurrying to respond to fuel shortages and rising fuel prices, Ford and General Motors responded by tapping their European subsidiaries for loss-leader versions of their subcompact automobiles. Ford of Europe contributed the Fiesta (and later the Escort). Opel, GM’s European subsidiary, gave us the Kadett.\n\nBoth cars were treated as throwaway products by Ford and GM dealers. Customers who bought them (me included, with the Opel Kadett) responded accordingly — buying them as low-cost, ultimately expendable wheels.\n\nIn the case of the Fiesta, it’s going to be a challenge to remove that experience from U.S. consumer memory. And it hardly matters, apparently, that the new Fiesta is far superior to the circa-1980 version.\n\nThe new Fiesta certainly is more aerodynamically designed and more attractive than its square-faced predecessors. The interior in the SE hatchback driven for this column is stoically simple in presentation. But it’s well-assembled, ergonomically sensible, and designed to handle iPods, iPads, laptops and practically all other electronic equipment available.\n\nIn the case of most subcompact economy cars, it’s oxymoronic to speak of performance and handling. But it’s okay to do so with the 2011 Fiesta. This car actually is “fun-to-drive.”\n\nSteering is effortless, precise. The standard five-speed gearbox shifts smoothly. The 1.6-liter inline four-cylinder gasoline engine (119 horsepower, 109 foot-pounds of torque) won’t garner praise from racing enthusiasts. But it runs well enough for the city and, driven with common sense (right lane, middle lane — left lane only when needed), does nicely on the highway, too.\n\nOverall fit and finish are excellent. Fuel economy is good, at 28 miles per gallon in the city and 37 on the highway. And the Fiesta runs well with regular gasoline. Thus, it seems that the new Fiesta should be a winner in a troubled U.S. economy aggravated by energy problems.\n\nBut a U.S. consumer reared on cheap gasoline and a bigger-is-better mentality remains a dangerous thing, even in a retail market whacked by the highest unemployment rate in decades and threatened by rising fuel prices.\n\nMany people gave the Fiesta favorable nods during my drive week. But many others gave it the boot. “It’s too small,” the detractors said. Others called it a “girlie car.” And still others, with oil gushing into the Gulf of Mexico and gasoline prices inching upward, commented: “It doesn’t have enough power.”",
+      "trims": [
+        {
+          "name": "4dr Sdn S",
+          "price": "$13200",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE",
+          "price": "$14500",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SE",
+          "price": "$15500",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SEL",
+          "price": "$16600",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SES",
+          "price": "$17500",
+          "specifications": {}
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/334694d3-2137-4f24-8a44-16f23e324875.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/3a13f038-dccc-4776-ae13-b4febaeb1f7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/0951618a-de31-4478-a57f-ec237bb49b14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/b1fcd244-dd47-470f-a0ed-d78fe45e7cc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/259cf428-5c78-49c0-86f8-685f67407376.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/182d1887-0538-4836-b011-33ec2340ddd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/d8938550-ecda-4cf0-82ef-18277bc59839.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/0c2c13e5-5beb-42a2-b7b9-1b6fc2a4a4b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/f03a4598-bfa2-4317-8c9c-3a95f73b5870.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/a8acc835-4b8c-4799-bcb8-9ddc24e6a15d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/9bdff39a-9bb3-40c4-a9c2-0204abd4d372.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/0c137e72-5022-4db8-8bfc-6caa1104be4d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/761ca92d-9fa6-49c4-8348-d787f0fe0fc2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/c8b9a652-000f-4c36-a250-b0014b6915c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/6341e068-352d-489a-a422-9c5984ce9065.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/3b1511ad-db66-44c0-a60b-5fc71c53d790.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/ea10166d-29c3-4dde-a00c-0b76dce74dff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/c0f54bca-27b2-4407-8101-2af4f0b09fd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/94462204-e28c-444a-87bf-ef24eb3abe47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/21868f27-7fe6-406b-b12e-ceecfd847fca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/284ecab8-f50b-47a5-97f1-43ff1de869f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/45223aa1-4e8d-4c06-8689-b54df0e99478.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/caf32e52-ddd3-4487-b0b3-a28c53d8c632.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/ce31a5fa-bea5-4fa0-9892-702940b5eb85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/12bbc4a4-62df-4bf2-a6c5-ac2a09669b05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/b05c3341-e33c-46e1-9843-e919b6a9aa31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/9b7447f6-3440-4552-a29f-26cc56f3cd93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/eeff8163-0119-4bb9-8de1-bbd08d9b0913.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/99cc8c31-9cc3-4dda-8016-aee6a128c809/54f814e7-da61-47e3-94f3-edf77d9c6918.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/8dd25c74-e106-4f99-8e81-974422d80430.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/88176b55-bc50-487b-b78f-76eba8ee052c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/1927c66d-3edd-4751-8b10-144065d4279f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/32c2f16c-567b-4694-8962-cfc1f95c770c/0c243f4b-42d3-4b21-9998-5d24fdd8562b.png"
+      ],
+      "expert_review": "Ford resurrected an old name for its subcompact car when the Fiesta returned to the U.S. for the 2011 model year. Like David Hasselhoff, this tiny car is a big hit in Europe, where it’s been on sale for years, but Americans’ affection for subcompacts and permed ’80s icons is a fickle thing. Does the Fiesta have what it takes to make it in the U.S.?\n\nThe 2012 Ford Fiesta has competitive pricing, great fuel economy and an upscale cabin, but those attributes don’t trump its unrefined transmission, lack of cargo space and frustrating multimedia system.\n\nThe Fiesta is again available in hatchback and sedan body styles for 2012; we tested a hatchback model in a midlevel SE trim. Not much has changed since 2011; compare both years here.\n\nThe Fiesta goes up against several hatchbacks that offer more cargo room for a similar price, namely the Honda Fit and Nissan Versa. See all three compared here.\n\nThe Fiesta’s Transmission Is No Party\nDespite popular perceptions, subcompact cars aren’t always slow. In this case, though, the shoe fits. The Fiesta has enough pep from a stop, but once you get on the highway you’ll be begging for more. It feels very weak and takes its time gathering speed for passing and merging.\n\nThe 1.6-liter, four-cylinder engine makes a respectable 120 horsepower; competitors offer similar output. The albatross is Fiesta’s optional six-speed, dual-clutch automatic transmission, which feels and sounds jerky and clunky. Shift timing is also all over the place: erratically quick at low speeds, but on the highway … wait for it, wait for it … kickdowns are delayed. Remember learning how to drive stick? The way the six-speed bogs and surges should feel familiar — only this time, you can blame the car. Low speed, stop-and-go traffic brings out the worst in its lurchy nature.\n\nIf the automatic is a deal-breaker, those who like the Fiesta’s size and don’t want to drive a manual should check out its Mazda2 sibling. Though it offers less horsepower, the Mazda2’s four-speed automatic is better-behaved.\n\nGreat fuel economy takes some of the sting out. During a 378-mile trip, I averaged 37.6 mpg. The automatic Fiesta is EPA-rated at 29/39 mpg city/highway; the standard five-speed manual gets 1 mpg less on the highway. In highway mileage, the Fiesta blows away the competition. An automatic-transmission Fit is rated 28/35 mpg, while the Versa hatch with a CVT is rated 28/34 mpg.\n\nThe Fiesta is also ahead of the pack in terms of ride comfort. Though the ride is firm-ish, it feels compliant compared with the super-stiff Fit. It’s also got better bump absorption than either the Fit or the Versa. Noise levels are high, however; the engine is loud, and road noise and tire thrum fill the cabin at highway speeds.\n\nManeuverability is great. It’s agile, fun to sling through corners, and has reactive, natural-feeling steering. A true city car, it negotiates narrow streets well and squeezes into parking spots with ease.\n\nCabin Materials & Controls\nThe hatchback looks fresh and fun on the outside, but the interior is filled with both hits and misses. It beats rivals in materials quality; richer-looking and richer-feeling plastic and chrome trim put it way ahead of the Fit and Versa, whose interiors look bland and feel cheap.\n\nThe train goes off the tracks when it comes to the seats. They’re comfortable enough, but they look borrowed from the booths of an ’80s bowling alley — the cheesy blue patterns in our test car were dated and loud, especially compared with the tasteful, black, padded plastic surfaces and chrome pieces. To be fair, there are other interior color palettes to choose from, and a few are more reserved. Leather seats — an uncommon option in this class — are available on uplevel models for $825.\n\nThe climate controls are on the hit list. They’re large and easy to use, and the pop-out gauge cluster and winged instrument panel look neat, too, though some audio functions get lost in the design and are confusing: There’s no easy way to input radio channel presets, for example.\n\nThings go from complicated to frustrating with Ford’s Sync voice-activated multimedia system, which is optional on the Fiesta. It often didn’t recognize my spoken commands, and I frequently had to repeat simple ones like “Bluetooth.” Then, after streaming music from my Android phone for hours, it would lose the device and I’d have to start over.\n\nPutting the Sub in Subcompact\nAt just 160.1 inches long, the Fiesta is small, so it should come as no surprise that it feels tiny inside. It trails the competition when it comes to passenger and cargo room. Up front, however, I had enough space, as did my 6-foot-tall passenger.\n\nThe backseat is where it gets tight, with just 31.2 inches of legroom and 37.2 inches of headroom. Kids should fit fine, but adults will need more space in both areas to avoid scraping the ceiling and knocking the seatbacks. The Fit and Versa have it; each offers more than an inch of additional headroom and several inches more legroom. The Versa’s 38 inches of rear legroom is impressive for this class. Granted, both hatchbacks are a tad longer — the Fit is 161.6 inches and the Versa 169.1 — but both feel roomier still.\n\nYour cramped backseat passengers won’t be all that happy with the storage situation, either. There’s only one cupholder, one seatback map pocket and no door pockets. Things aren’t much better up front, where there are two cupholders and a tiny glove box.\n\nPack light, because there’s just 26 cubic feet of cargo space, and that’s with the seats folded. The cargo hold is pretty narrow, but I was able to fit a small stroller in it. The Fit and Versa hatchbacks easily trump the Fiesta, with 57.3 and 50.4 cubic feet, respectively.\n\nFeatures & Pricing\nThe Fiesta is smaller than the competition, but it’s also cheaper. Hatchback versions start at $14,895 (all prices include destination charges). The Versa hatch starts at $15,450, and the Fit tops the list at $16,115. An automatic transmission is optional on all three and adds anywhere from $800 (Fit) to $1,200 (Versa). The Fiesta’s hatch body style will cost you an extra $900 over the sedan, which starts at just $13,995.\n\nThe Fiesta comes standard with a couple of niceties some subcompacts lack, like a tilt and telescoping steering wheel and a driver’s knee airbag. A navigation system isn’t available for 2012, though, and both the Fit and Versa offer one.\n\nCustomers can have fun with some unique customization options, like an exterior graphics package ($375) or an ambient lighting package that allows you to illuminate parts of the interior in seven colors ($370).\n\nSafety\nBoth the 2012 Fiesta body styles received an overall rating of four out of five stars from the National Highway Traffic Safety Administration. In Insurance Institute for Highway Safety testing, the Fiesta hatch earned Top Safety Pick status, receiving the highest score, Good, in all areas of testing.\n\nThe Fiesta has seven standard airbags, including a driver’s knee airbag. Click here for a full list of safety features.\n\nVisibility is fine straight back, but large backseat headrests get in the way. However, they conveniently flip down out of view when not in use. All Fiestas have standard blind spot mirrors incorporated into both side mirrors. I find them distracting; some people love them.\n\nA cramped backseat and buried Latch anchors complicate child-safety seat installation. Click here for the full Car Seat Check.\n\nFord Fiesta in the Market\nThe Fiesta scored fifth place out of seven cars in Cars.com’s $16,000 Subcompact Shootout, and the consensus there still stands: It “looks good both inside and out, but put it on the road and the driver is bound to be disappointed.”\n\nEye-catching styling and great fuel economy can’t make up for a lack of cargo space and an automatic transmission that really needs work. Subcompacts don’t have to be slow, cramped and chintzy on the inside. For the most part, Ford got the last third of the recipe right. It must have missed the memo on the other two.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn S",
+          "price": "$13200",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB S",
+          "price": "$14100",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE",
+          "price": "$14670",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SE",
+          "price": "$15670",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SEL",
+          "price": "$16600",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SES",
+          "price": "$17500",
+          "specifications": {
+            "Notable features": [
+              "Sedan and four-door hatch",
+              "Manual and automatic transmissions",
+              "Optional Sync system can run some smartphone apps",
+              "Seven airbags standard",
+              "Upscale options"
+            ],
+            "Highlights": [
+              "29 City / 39 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "120 @ 6350 SAE Net Horsepower @ RPM",
+              "1.6L/97 Displacement",
+              "112 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Twist Beam Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,537 lbs Base Curb Weight",
+              "12 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "10.2 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/e964ac47-3326-4823-82fa-2e4c861f89f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/e3256e65-c466-4d97-a04c-cb6d4adad5e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/b32d436c-e64a-44a4-98cc-bd79980ed46d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/3695ebe2-c8b4-4e39-8df0-7c354b19fdb0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/603a3d8d-d115-425f-b479-4bbe36286722/61cf9567-af03-413e-845b-0b11bc559d59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/fbfcd9b1-dffe-4241-9481-0f488f474ab1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/16a87965-dcb3-4856-9179-e68db6ed9648.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/8559d74d-4c19-461e-be29-08a55a3d92f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/207ba9d9-aadf-4b4c-9e72-b5f76e604d21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/5cb2d69a-4aa9-4e8f-8bb7-9df5d7d6b291.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/cb95aec2-9dd9-4997-a35b-fa05851557e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/8921ee9e-434f-42bd-9bd5-d3be7b273393.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/e0ae05e5-bfff-4d0d-9415-8ebb44942c03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/48d1eec9-c48b-426a-8721-83a555b9dfd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/48d27c09-8bb3-4bc4-97c3-2d34e79d89cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/a7b3bfbe-4adf-4a7c-bf13-8e419fedcff6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/0ac7d118-377a-4465-9700-669de7ceab89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/d6890b41-da28-4612-a62d-d8c44aab4a0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/03e90ea5-35e5-489a-8cfa-585beac92930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/d4585e15-6df8-420a-b625-9bc64450be90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/382420b3-f98f-42d7-93e2-ec5f61389d97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7510aecc-55a3-4ac5-a18f-aa5d9347599d/3d322529-7bb9-45cd-836d-ff03e5387d1c.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in October 2012 about the 2012 Ford Fiesta. Little of substance has changed with this year’s model. To see what’s new for 2013, click here, or check out a side-by-side comparison of the two model years.\n\nFord resurrected an old name for its subcompact car when the Fiesta returned to the U.S. for the 2011 model year. Like David Hasselhoff, this tiny car is a big hit in Europe, where it’s been on sale for years, but Americans’ affection for subcompacts and permed ’80s icons is a fickle thing. Does the Fiesta have what it takes to make it in the U.S.?\n\nThe 2012 Ford Fiesta has competitive pricing, great fuel economy and an upscale cabin, but those attributes don’t trump its unrefined transmission, lack of cargo space and frustrating multimedia system.\n\nThe Fiesta is again available in hatchback and sedan body styles for 2012; we tested a hatchback model in a midlevel SE trim. Not much has changed since 2011; compare both years here.\n\nThe Fiesta goes up against several hatchbacks that offer more cargo room for a similar price, namely the Honda Fit and Nissan Versa. See all three compared here.\n\nThe Fiesta’s Transmission Is No Party\nDespite popular perceptions, subcompact cars aren’t always slow. In this case, though, the shoe fits. The Fiesta has enough pep from a stop, but once you get on the highway you’ll be begging for more. It feels very weak and takes its time gathering speed for passing and merging.\n\nThe 1.6-liter, four-cylinder engine makes a respectable 120 horsepower; competitors offer similar output. The albatross is Fiesta’s optional six-speed, dual-clutch automatic transmission, which feels and sounds jerky and clunky. Shift timing is also all over the place: erratically quick at low speeds, but on the highway … wait for it, wait for it … kickdowns are delayed. Remember learning how to drive stick? The way the six-speed bogs and surges should feel familiar — only this time, you can blame the car. Low speed, stop-and-go traffic brings out the worst in its lurchy nature.\n\nIf the automatic is a deal-breaker, those who like the Fiesta’s size and don’t want to drive a manual should check out its Mazda2 sibling. Though it offers less horsepower, the Mazda2’s four-speed automatic is better-behaved.\n\nGreat fuel economy takes some of the sting out. During a 378-mile trip, I averaged 37.6 mpg. The automatic Fiesta is EPA-rated at 29/39 mpg city/highway; the standard five-speed manual gets 1 mpg less on the highway. In highway mileage, the Fiesta blows away the competition. An automatic-transmission Fit is rated 28/35 mpg, while the Versa hatch with a CVT is rated 28/34 mpg.\n\nThe Fiesta is also ahead of the pack in terms of ride comfort. Though the ride is firm-ish, it feels compliant compared with the super-stiff Fit. It’s also got better bump absorption than either the Fit or the Versa. Noise levels are high, however; the engine is loud, and road noise and tire thrum fill the cabin at highway speeds.\n\nManeuverability is great. It’s agile, fun to sling through corners, and has reactive, natural-feeling steering. A true city car, it negotiates narrow streets well and squeezes into parking spots with ease.\n\nCabin Materials & Controls\nThe hatchback looks fresh and fun on the outside, but the interior is filled with both hits and misses. It beats rivals in materials quality; richer-looking and richer-feeling plastic and chrome trim put it way ahead of the Fit and Versa, whose interiors look bland and feel cheap.\n\nThe train goes off the tracks when it comes to the seats. They’re comfortable enough, but they look borrowed from the booths of an ’80s bowling alley — the cheesy blue patterns in our test car were dated and loud, especially compared with the tasteful, black, padded plastic surfaces and chrome pieces. To be fair, there are other interior color palettes to choose from, and a few are more reserved. Leather seats — an uncommon option in this class — are available on uplevel models for $825.\n\nThe climate controls are on the hit list. They’re large and easy to use, and the pop-out gauge cluster and winged instrument panel look neat, too, though some audio functions get lost in the design and are confusing: There’s no easy way to input radio channel presets, for example.\n\nThings go from complicated to frustrating with Ford’s Sync voice-activated multimedia system, which is optional on the Fiesta. It often didn’t recognize my spoken commands, and I frequently had to repeat simple ones like “Bluetooth.” Then, after streaming music from my Android phone for hours, it would lose the device and I’d have to start over.\n\nPutting the Sub in Subcompact\nAt just 160.1 inches long, the Fiesta is small, so it should come as no surprise that it feels tiny inside. It trails the competition when it comes to passenger and cargo room. Up front, however, I had enough space, as did my 6-foot-tall passenger.\n\nThe backseat is where it gets tight, with just 31.2 inches of legroom and 37.2 inches of headroom. Kids should fit fine, but adults will need more space in both areas to avoid scraping the ceiling and knocking the seatbacks. The Fit and Versa have it; each offers more than an inch of additional headroom and several inches more legroom. The Versa’s 38 inches of rear legroom is impressive for this class. Granted, both hatchbacks are a tad longer — the Fit is 161.6 inches and the Versa 169.1 — but both feel roomier still.\n\nYour cramped backseat passengers won’t be all that happy with the storage situation, either. There’s only one cupholder, one seatback map pocket and no door pockets. Things aren’t much better up front, where there are two cupholders and a tiny glove box.\n\nPack light, because there’s just 26 cubic feet of cargo space, and that’s with the seats folded. The cargo hold is pretty narrow, but I was able to fit a small stroller in it. The Fit and Versa hatchbacks easily trump the Fiesta, with 57.3 and 50.4 cubic feet, respectively.\n\nFeatures & Pricing\nThe Fiesta is smaller than the competition, but it’s also cheaper. Hatchback versions start at $14,895 (all prices include destination charges). The Versa hatch starts at $15,450, and the Fit tops the list at $16,115. An automatic transmission is optional on all three and adds anywhere from $800 (Fit) to $1,200 (Versa). The Fiesta’s hatch body style will cost you an extra $900 over the sedan, which starts at just $13,995.\n\nThe Fiesta comes standard with a couple of niceties some subcompacts lack, like a tilt and telescoping steering wheel and a driver’s knee airbag. A navigation system isn’t available for 2012, though, and both the Fit and Versa offer one.\n\nCustomers can have fun with some unique customization options, like an exterior graphics package ($375) or an ambient lighting package that allows you to illuminate parts of the interior in seven colors ($370).\n\nSafety\nBoth the 2012 Fiesta body styles received an overall rating of four out of five stars from the National Highway Traffic Safety Administration. In Insurance Institute for Highway Safety testing, the Fiesta hatch earned Top Safety Pick status, receiving the highest score, Good, in all areas of testing.\n\nThe Fiesta has seven standard airbags, including a driver’s knee airbag. Click here for a full list of safety features.\n\nVisibility is fine straight back, but large backseat headrests get in the way. However, they conveniently flip down out of view when not in use. All Fiestas have standard blind spot mirrors incorporated into both side mirrors. I find them distracting; some people love them.\n\nA cramped backseat and buried Latch anchors complicate child-safety seat installation. Click here for the full Car Seat Check.\n\nFord Fiesta in the Market\nThe Fiesta scored fifth place out of seven cars in Cars.com’s $16,000 Subcompact Shootout, and the consensus there still stands: It “looks good both inside and out, but put it on the road and the driver is bound to be disappointed.”\n\nEye-catching styling and great fuel economy can’t make up for a lack of cargo space and an automatic transmission that really needs work. Subcompacts don’t have to be slow, cramped and chintzy on the inside. For the most part, Ford got the last third of the recipe right. It must have missed the memo on the other two.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn S",
+          "price": "$13200",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB S",
+          "price": "$14200",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE",
+          "price": "$15200",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SE",
+          "price": "$16200",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium",
+          "price": "$17200",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB Titanium",
+          "price": "$18200",
+          "specifications": {}
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1d58d322-33a3-4a0d-bedc-6388fa03084c/8fa0a0f6-0a1d-48bb-b1f8-6bfe75ce8139.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/f658e98f-400b-44de-8df6-6212387d12ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/d75a3265-21e7-44f9-8c3e-ba6f1d04a995.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/5555c42a-86b6-4bd1-8174-b9bfc2b92f5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/782380b9-ae6a-44e6-b4af-2db5c9e9e265.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/aa179525-2096-43f8-ab4e-2d3a647781e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/bbac0d1c-53f6-4ee0-928e-3a741ab5693e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/b86eec9e-f685-43d4-9d92-bcfecc661972.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/1d24bd11-30e9-4d05-9996-ba7446f689ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/65315af8-45bc-4cd9-a0b0-a8e06edecd19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/1a9c0b4d-cf19-4721-9a9d-dfe26664e196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/d4df61ea-be75-40f3-af25-c0ca3a8be391.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/b93ca638-cd80-4843-bb11-615b099e6ad6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/6252df62-edd1-48c2-8fe7-319d0975f054.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/648e323f-3ed3-4c47-a487-90ebb7e363d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/005306e1-1574-4680-8885-51ebc8bd50e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/dfd674a4-11c4-44c6-bfee-7b0f2be7e16f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/8294800c-e5a5-439d-b6db-fc2000e4683f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/cc4a4024-b5fb-41a3-880f-d88bd5793dca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/7e31f001-dad2-4cf0-a75b-03e1483a8e75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f5a1831-7a49-4375-ad20-12820a9aab13/f56580c5-af5f-4ba9-9198-057772f2ed02.png"
+      ],
+      "expert_review": "What Is the 2019 Ford Fiesta?\n\nThe five-seat Fiesta is Ford’s subcompact car, and it’s available in sedan and four-door hatchback body styles. Power comes from a 120-horsepower, 1.6-liter four-cylinder engine that pairs with a five-speed manual or six-speed dual-clutch automatic transmission. The Fiesta competes with the Honda Fit, Nissan Versa Note and Hyundai Accent. A high-performance Fiesta ST features a 197-hp, turbocharged 1.6-liter four-cylinder that teams with a six-speed manual.\n\nWhat’s New on the 2019 Ford Fiesta?\n\nA new ST-Line trim level joins the lineup for 2019. It features a blacked-out roof, large rear spoiler, a honeycomb grille, black 16-inch alloy wheels, dual exhaust tips, embroidered sport cloth seats with red stitching, and other cues.\n\nWhat Features in the 2019 Ford Fiesta Are Most Important?\n\nThe Fiesta sedan is offered in S and SE trim levels, while the hatchback comes in SE, ST-Line and ST trims. Standard features in the S include manual air conditioning, manual windows, a CD stereo, remote keyless entry, power door locks and 15-inch steel wheels with plastic covers.\n\nAvailable features include cruise control, power windows, the Sync 3 touchscreen multimedia system, Apple CarPlay and Android Auto smartphone connectivity, navigation, automatic air conditioning, heated front seats and a power moonroof.\n\nShould I Buy the 2019 Ford Fiesta?\n\nThe subcompact Fiesta is one of the more entertaining small cars to drive — particularly the high-output ST — but shortfalls include uncomfortable seats and an unrefined dual-clutch automatic transmission. The Fiesta’s cabin is also a bit tight, even by small-car standards.",
+      "trims": [
+        {
+          "name": "S Sedan",
+          "price": "$14260",
+          "specifications": {}
+        },
+        {
+          "name": "S Hatch",
+          "price": "$14560",
+          "specifications": {}
+        },
+        {
+          "name": "SE Sedan",
+          "price": "$15490",
+          "specifications": {}
+        },
+        {
+          "name": "SE Hatch",
+          "price": "$15790",
+          "specifications": {}
+        },
+        {
+          "name": "ST Line Hatch",
+          "price": "$17625",
+          "specifications": {}
+        },
+        {
+          "name": "ST Hatch",
+          "price": "$21340",
+          "specifications": {
+            "Notable features": [
+              "New ST-Line trim level",
+              "Sedan and four-door hatchback body styles",
+              "120-hp four-cylinder standard",
+              "Manual or dual-clutch automatic transmission",
+              "High-performance ST model",
+              "Sync 3 multimedia system available"
+            ],
+            "Highlights": [
+              "25 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/97 Displacement",
+              "202 @ 4200 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "197 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "2,720 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "500 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/b7a5783b-e2b9-4f7d-b4c0-5e05a8ff4063.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/d64b5a03-782c-41d4-afcb-415899491e39.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/f7dc8f03-ee89-4dc4-ad1c-665f6333db3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/505993cf-1c8e-4254-ac57-8721cc86f18d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6b80682b-097d-49e9-a298-ff055ef8ed26/491b33b0-7204-44b4-9ee9-fd85e595ae11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/271d6c31-2184-40c7-b433-44754b732a60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/119cc8f7-cf9c-4082-9d38-ff322fc779f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/6f5e4251-fcb5-4536-acd8-a8b062a4cc96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/b2386310-cd86-49b3-a06b-02320dbd01f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/a4bc32c2-6850-478c-becc-dab8bd42dcf4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/e2e22c4d-9e17-4999-848b-3b546fc03d7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/b5989799-4e38-4436-bd9f-da27ee2598fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/089c115f-6193-413a-8396-a317334eae1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/dc25b8e7-be0d-46ee-836d-904986c0df17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/28653bc7-926f-4021-adbb-106f85c6aeac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/f2eea9fc-2a49-4c72-92a9-735cf2c954de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/47b45508-b218-4f36-874d-221cf5e1ac86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/8a9e8d06-fa6c-453d-a575-496913ae4b5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/c186a6be-e422-451c-b1e1-dfef0e8d7cb3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/f7bddce4-9559-46f6-ba0f-9ac0999d74e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a6a2f2d2-51a7-4f1e-8380-93ad6439c809/ccbcbfe0-0c6f-46f0-84e6-651ef72228ff.png"
+      ],
+      "expert_review": "What it is: The Fiesta is Ford's subcompact car, and it's available in sedan and four-door hatchback body styles. The Fiesta competes with the Honda Fit, Nissan Versa Note and Hyundai Accent. A performance-oriented Fiesta ST model features a turbocharged 1.6-liter four-cylinder engine.\n\n\n(Skip to details on the Fiesta ST)\n\n\nA backup camera is now standard.\n\nFiesta ST\n\nThe high-performance Fiesta ST has a 197-horsepower, turbocharged 1.6-liter four-cylinder engine paired with a six-speed manual transmission. Offered in hatchback body style, the ST features more aggressive exterior styling, a firmer suspension, a lower ride height and 17-inch aluminum wheels.\n\nWhat’s Special\n\nUnique ST steering wheel and shift knob\nAvailable Recaro seats\nThree-mode electronic stability system with Sport and Off settings\n\nBack to top",
+      "trims": [
+        {
+          "name": "S Sedan",
+          "price": "$14205",
+          "specifications": {}
+        },
+        {
+          "name": "S Hatch",
+          "price": "$14505",
+          "specifications": {}
+        },
+        {
+          "name": "SE Sedan",
+          "price": "$15435",
+          "specifications": {}
+        },
+        {
+          "name": "SE Hatch",
+          "price": "$15735",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium Sedan",
+          "price": "$19195",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium Hatch",
+          "price": "$19495",
+          "specifications": {}
+        },
+        {
+          "name": "ST Hatch",
+          "price": "$21285",
+          "specifications": {}
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/8123097f-ea06-47b4-b9e2-76c02c884a8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/06248bf2-674e-4515-8e33-719dfadb322f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/608233be-bd38-4da6-9a55-3bbe28505c6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/15fbd078-70db-4da9-8a77-850c62d57ab7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/b94197af-87fe-4a9c-938e-345bb25d4a4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/6c56d68e-8492-47ad-8b62-a0734480a7f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/ee388e05-3e3e-4b00-89b2-d39b61c79a93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/5ee91af8-eebd-4831-a449-7f6ae89da5ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/f24a9f7a-9ecb-489e-b467-a61bf559916b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/fb85aa0c-1a3a-4341-97cf-e980a4ae90f8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/92b04c8f-03d7-4bd1-8ab7-687883ae8491/36b36a23-31f9-47f6-97d7-5fa0a966defc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/1825d50b-4478-4096-ad75-28047922b40a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/2f196456-17a2-478c-9415-7d633d838987.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/99a65189-395d-4b56-b8a3-6022a9c0d5fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/878edac6-e2d8-4a43-bc45-6dd397e4d78d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/407afda1-e840-438d-abac-9d145ddc0d81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/2bb2b055-90e1-4721-9f23-fe4cece9b29c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/a6294abf-1cf6-48c0-ba49-9b718d8800a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/0549b2b7-50aa-4da3-8d66-315f26c700c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/b461e33f-092f-4b3b-91ad-fdec6ed524ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/cb389b64-e2a5-4f85-8aed-00d4825415b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/618d2fc4-3aeb-4ab8-b0cc-b2155b492e89/dd22bcd0-fd24-4678-b73d-99316aec8b6a.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Fiesta is Ford’s subcompact car available in four-door sedan or four-door hatchback body styles. The Fiesta competes with the Honda Fit, Nissan Versa Note and Hyundai Accent. A high-performance Fiesta ST model is offered. The Fiesta offers upscale features in the subcompact segment like heated leather seats, push-button start and voice-activated multimedia systems.\n\n(Skip to details on the: Fiesta ST)\n\nNew for 2016\nFord’s Sync 3 multimedia system is now available and features a 6.5-inch touch-screen with smartphone-like gesture recognition. Remote keyless entry and an alarm are now standard, and a new SE Black Package includes 16-inch aluminum wheels, a black grille, black heated side mirrors and fog lamps with painted-black bezels.\n\nSignificant Standard Features\n\n120-horsepower, 1.6-liter four-cylinder engine\nFive-speed manual transmission\n15-inch wheels\nPower side mirrors\nKeyless entry\nTilt/telescoping steering wheel\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\n123-hp, turbocharged 1.0-liter three-cylinder engine\nSix-speed dual-clutch automatic transmission\nHeated side mirrors\nRear spoiler\nPower moonroof\nLeather upholstery\nSync 3 touch-screen multimedia system\nNavigation system\n\nFiesta ST\n\nThe high-performance Fiesta ST has a 197-hp, turbocharged 1.6-liter four-cylinder engine paired with a six-speed manual transmission. Offered in the hatchback body style, the car features more aggressive exterior styling and performance enhancements. A unique suspension with a lowered ride height is part of the equation, as are chassis stiffening and 17-inch wheels. Ford’s Sync 3 multimedia system is newly available for 2016.\n\nWhat’s Special\n\nUnique ST steering wheel and shift knob\nAvailable Recaro seats\nThree-mode stability system with Sport and Off settings\n\nBack to top",
+      "trims": [
+        {
+          "name": "4dr Sdn S",
+          "price": "$14580",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB S",
+          "price": "$14880",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE",
+          "price": "$15810",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SE",
+          "price": "$16110",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium",
+          "price": "$18530",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB Titanium",
+          "price": "$18830",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB ST",
+          "price": "$21460",
+          "specifications": {}
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/5225ae7f-48cc-450d-8028-9f362b0f2e79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/6e4c89a9-7672-4989-a5ee-d2da846f0e94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/36f3b79f-88de-48fc-b08a-82dc214a8a37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/2a49c5ec-83ee-4c4e-aaf7-d462fec43947.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/68381004-dfd8-484b-af61-73abcae71e12.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/97cbe12b-1596-4ee4-844c-abbde48b9475.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/ecd03a11-9680-4b71-8d12-781100dc3548.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/0e84efa2-b739-48a1-9683-375734681308.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/e39c418a-2436-4bbd-8731-addd49b91f6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/dd5efc9a-b33d-4e2e-8eaa-0d45e1093a87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/1245a74d-6995-4de9-9671-066319c12836.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/54cff514-0e20-4417-a2fe-962eb5768a36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/fbca9951-1ad7-45aa-83f3-5ede24541e81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/dcd97ccc-639d-4b60-aa55-697cf612757d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/e69befc1-53b1-47c7-9421-f318e313e92d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/39488cad-91de-438b-b55a-17da7c6e52e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/07c31fb3-7b9d-4b09-8f57-72bb1a060872.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/4399fded-eb74-4f90-b76d-2db5d18cbdb3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/8fef4e55-9233-4d9c-9387-d9ca03a414ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/ffcd978c-5db4-4279-ac3d-25e5b012a05b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/520a83d4-8d4c-434d-8a1b-13d76ad4af53/68381004-dfd8-484b-af61-73abcae71e12.png"
+      ],
+      "expert_review": "What it is: The Fiesta is Ford's subcompact car that's available in sedan and four-door hatchback body styles. The Fiesta competes with the Honda Fit, Nissan Versa Note and Hyundai Accent. A performance-oriented Fiesta ST model features a turbocharged 1.6-liter four-cylinder engine. \n\n\n(Skip to details on the Fiesta ST)\n\n\n15-inch silver-painted aluminum wheels are standard on the Fiesta SE and new 16-inch silver-painted wheels go on Titanium trim levels.\n\nSignificant Standard Features\n120-horsepower, 1.6-liter four-cylinder engine\nFive-speed manual transmission\n15-inch wheels\nPower side mirrors\nKeyless entry\nTilt and telescoping steering wheel\nAir conditioning\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\nSignificant Available Features\n123-hp, turbocharged three-cylinder engine\nSix-speed dual-clutch automatic transmission\nHeated side mirrors\nRear spoiler\nPower moonroof\nLeather upholstery\nHeated front seats\nSync 3 touchscreen multimedia system\nNavigation system\n\nFiesta ST\n\nThe high-performance Fiesta ST has a 197-hp, turbocharged 1.6-liter four-cylinder engine paired with a six-speed manual transmission. Offered in the hatchback body style, the ST features more aggressive exterior styling, a firmer suspension, a lower ride height and 17-inch aluminum wheels. \n \nWhat’s Special\nUnique ST steering wheel and shift knob\nAvailable Recaro seats\nThree-mode electronic stability system with Sport and Off settings\n \nBack to top",
+      "trims": [
+        {
+          "name": "S Sedan",
+          "price": "$13660",
+          "specifications": {}
+        },
+        {
+          "name": "S Hatch",
+          "price": "$13960",
+          "specifications": {}
+        },
+        {
+          "name": "SE Sedan",
+          "price": "$14890",
+          "specifications": {}
+        },
+        {
+          "name": "SE Hatch",
+          "price": "$15190",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium Sedan",
+          "price": "$18650",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium Hatch",
+          "price": "$18950",
+          "specifications": {}
+        },
+        {
+          "name": "ST Hatch",
+          "price": "$21140",
+          "specifications": {}
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/137f90f3-daaf-4fab-80a4-6a93800649ab.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c58bdfca-52e9-4a10-b479-de8d096163c1/c541de95-595b-4cd6-b58a-2eca764d2b53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/5efc5eb0-9717-4452-b492-c21e23b0a4d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/718ccd3d-eace-49ff-9dfb-abcbe8f0fc65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/9ed5019d-215b-439c-bb9e-e59877cfc89a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/16d0c2b2-26c4-4ac9-999f-435be49be9e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/7616512e-0e07-4472-8339-4df765b9bdc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/6b476e91-e9d8-4345-b7ef-9a6a6278c8b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/dc824576-3a39-403c-95e1-04afc5a04e1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/016ba9be-ed76-4859-8b97-02f4c26358eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/93604362-d006-4699-9f61-c489991ece9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/0f8904da-bf79-486d-b155-41bcf1ddff90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/16c1465e-bde7-4bc2-976e-a2ff6cfa15df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/af7af117-2ff2-4f27-83c9-a1e9ac45ab7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/39c4b8d4-6539-4eb0-979f-a816ffb85a58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/83b1a33b-1fcb-4099-abe1-87ed81cdb518.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/3e6c80bd-ef47-413c-b31f-1bc45f19d75d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/e61fcbb9-3645-4007-828c-03f622343e1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/4cc56003-f9ca-4c3d-8723-a1d7bc82d02c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/5e3ea26e-3a85-4741-9640-78c7ae2b092c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/b1d8b2b9-57b8-4725-bf9d-b873dd073aba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4173b3a4-84ba-4caa-a842-782161f3c1e2/add0743d-a0a1-4255-ab7b-bdf5c8e54566.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in October 2013 about the 2014 Ford Fiesta. Little of substance has changed with this year’s model. To see what’s new for 2015, click here, or check out a side-by-side comparison of the two model years.\n\nEditor’s note: Estimated mileage ratings have been lowered to reflect a June 2014 Ford audit of this car’s stated mileage.\n\nFiesta means party, so based on its name there’s got to be something exciting about Ford’s smallest car, right? After an update for 2014, the answer is finally yes.\n\nThe 2014 Ford Fiesta is an improvement, delivering wallet-friendly prices, excellent fuel economy and nimble road manners, though its cramped interior threatens to ruin the party.\n\nBig changes this year include an exterior face-lift, a new sport-tuned ST model and a fuel-thrifty engine — a 123-horsepower, turbocharged 1.0-liter EcoBoost three-cylinder, which will join the lineup later in the year. The MyFord Touch multimedia system is also now available.\n\nThe tiny Fiesta still comes as a hatchback or sedan; we tested a hatchback model in a midlevel SE trim. Compare the 2014 and 2013 models here.\n\nThe Fiesta goes up against several hatchbacks that offer more cargo room for a similar price, namely the Chevrolet Sonic, Honda Fit and Nissan Versa Note. See all four compared here.\n\nExterior & Styling\nBoth body styles get a dose of styling sophistication for 2014, courtesy of the Fiesta’s big brother, the Fusion. The new Fiesta wears a version of the larger sedan’s wide trapezoidal grille, and angular hood lines replace the previous model’s frumpy, rounded nose.\n\nHot-hatchback fans should get excited about the Fiesta ST: The sport-oriented trim offers more horsepower and the looks to match. A gaping mesh grille dominates its face, complemented by smoky headlights and an aggressive front lip spoiler. Out back there’s matching mesh trim above the twin exhaust outlets and a large liftgate-mounted spoiler.\n\nHow It Drives\nNothing in the subcompact class is truly quick, but the Fiesta can add “fun-to-drive” to its list of skills thanks to an engaging manual transmission and nimble handling. The standard 120-hp, 1.6-liter engine doesn’t have much gusto; you’ve got to hold the gears for a while to wring anything out of it. The five-speed manual gearbox, however, is a delight compared with the unpredictable, unruly six-speed dual-clutch automated manual transmission. Click here for my impressions of that atrocity.\n\nThe five-speed’s shifter action is smooth and precise, though shorter throws would be nice, as would a 6th gear. Topping out at five gears means the little engine revs pretty high at highway cruising speeds, increasing engine noise.\n\nThe S, SE and Titanium trim levels use the 1.6-liter four-cylinder, flanked by two optional newbies. In the fuel economy corner is a 123-hp, turbocharged 1.0-liter three-cylinder engine good for a rating of 31/43/36 mpg city/highway/combined. Far to the other side is the Fiesta ST’s turbocharged 1.6-liter mill, good for 197 hp and a combined rating of 29 mpg.\n\nMy test SE model is EPA rated at 28/36/31 mpg city/highway/combined, and those numbers proved easily attainable: During a 400-plus-mile, mostly highway drive I averaged 40.2 mpg. The Fiesta’s fuel-sipping skills put it above base versions of the Fit (27/33/29), Versa Note (27/36/30) and Sonic (26/35/30).\n\nIt’s also ahead of the pack in terms of ride comfort. Though the ride is firm-ish, it feels compliant compared with the super-stiff Fit. Its bump absorption is also better than the Fit’s or Versa’s.\n\nManeuverability is also a high point. The hatchback is agile, fun to sling through corners and has reactive, natural-feeling steering. A true city car, it negotiates narrow streets well and squeezes into parking spots with ease.\n\nBoth performance and handling are amped up in the small-but-mighty Fiesta ST; the sport-tuned model takes power from adequate to entertaining. The turbocharged 1.6-liter is eager from a stop with no turbo lag. The ST is far more engaging to drive than regular versions, but again missing is a short-throw shifter for the six-speed manual.\n\nOn the road, corners are flat and controlled, and the ST’s steering direct and responsive. Its handling scores are high, but ride quality suffers from the taut suspension. Even on seemingly unbroken pavement the car hops around and feels jittery.\n\nOverall, the Fiesta ST delivers a lot of fun at a relatively low price; it starts at $22,195, including a $795 destination fee. Hot-hatch enthusiasts should find the ST fun and affordable compared to the more expensive Fiat 500 Abarth and Mini Cooper S, and more potent than the Chevrolet Sonic RS. Click here for more impressions of the ST model.\n\nInterior\nAlthough this is an entry-level car, the interior conveys more of an upscale vibe. The cabin is pleasant overall and is dressed in some of the nicer materials in the class. An interesting winged vent design and glossy black trim are the highs. The painted, cardboard-like dash and door panels don’t impress, however. Large sun visors are another nice touch, but they don’t expand or extend.\n\nThere’s a comfortable amount of headroom and legroom for front-seat occupants, but achieving comfort is the hard part. My biggest beef is with the seats: They’re flat and hard, and after a couple of hours on the road unshakable butt-fatigue sets in. The side bolsters don’t help — they’re set too narrow and hit at an awkward place. Available heated cloth seats are nice, however, and leather is standard on the top-of-the-line Titanium trim.\n\nThe cabin’s design and finishes may be competitive, but the backseat is far from it. Adults will find accommodations tight with just 31.2 inches of rear legroom — the Fit offers 34.5, the Sonic hatch has 34.6 and the Versa Note boasts a generous 38.3 inches. The Fiesta’s a slouch in rear headroom dimensions, too, offering just 37.2 inches of space — again an inch or two shy of competitors.\n\nErgonomics & Electronics\nModel-year 2014 marks the first time the much-maligned and frustrating MyFord Touch multimedia system is optional in the Fiesta — but hold that groan. Ford says it’s updated the system and, in the Fiesta, I think MyFord Touch has finally turned a corner.\n\nIt’s been a while since I’ve used the system, and I approached it with wariness. This time, however, my frustration level was much lower; I found the voice command functionality not as fussy, and most of the touch-screen inputs were a bit quicker to respond. Connecting my Android phone was easy and I was able to stream Pandora internet radio without a problem. The navigation system (a $795 option) delivered a few wrong turns to one editor, but it got me to my destination without a hiccup.\n\nMy biggest problem is the size of the readout. Everything seems small in the Fiesta, but the 6.5-inch touch-screen is truly subcompact. A lot of other Ford vehicles have an 8-inch screen (measured diagonally), and those extra 1.5 inches would solve a lot of problems here. The Fiesta’s home screen is divided into four quadrants for navigation, vehicle info, audio display/control and phone/device connectivity, and within each are super-tiny buttons. My success rate of hitting the correct one was less than perfect unless I used my pinky, which felt weird (and I’m sure looked even weirder).\n\nLuckily, MyFord Touch’s physical controls also got a face-lift this year and are refreshingly intuitive (never thought those words would share a sentence with “MyFord Touch”). Below the screen are duplicate audio buttons, replacing the old (annoying) central knob and fussy touch-sensitive panel buttons. Same goes for the climate controls; the traditional buttons (though tiny) were truly a sight for sore eyes.\n\nCargo & Storage\nRoominess is again a big issue in the cargo area. Several automakers in this class have developed creative solutions to subcompact storage challenges, but not Ford. The Fiesta’s cargo area is again the very picture of subcompact, its numbers the definition of tiny. With the rear seats raised, there’s just 14.9 cubic feet of space; other subcompacts can handle way more cargo. The Fit has 20.6, the Sonic 19 and the clown-car-like Versa Note impresses yet again with a segment-busting 21.4 cubic feet.\n\nThe backseat folds in a 60/40 spilt with ease, but it’s not at all flat, and lowering it increases capacity only to 26 cubic feet. The winner here is the Honda Fit, whose backseat’s creative tumble-fold maneuver — though it’s more cumbersome to do — increases space to a voluminous 57.3 cubic feet. The Versa Note and Sonic hatch follow with 38.3 and 47.7 cubic feet, respectively.\n\nI loaded the car with two adults, a toddler and a long-weekend’s worth of gear and we were busting at the seams. Much of the cargo ended up wedged next to my daughter’s car seat. The second row also gets short shrift in terms of small-items storage. There’s only one cupholder and it’s in the middle of the floor, jutting out from the back of the front center console and making the middle seat unusable (unless you like kicking drinks). There’s also only one seatback pocket for storing small goodies, which is a cheap move.\n\nSafety\nIn Insurance Institute for Highway Safety testing, the 2014 Fiesta hatch and sedan earned Top Safety Pick status, receiving the highest score, Good, in all tests to which it was subjected. (The Minicar class, as the Institute calls it, hasn’t been tested for crashworthiness in a small-overlap frontal collision, a test that’s proved challenging in other vehicle classes.)\n\nThe National Highway Traffic Safety Administration gave the hatchback and sedan four out of five stars in a frontal test but has not yet performed side crash tests. It also earned a four-star rollover rating.\n\nA reverse sensing system with backup camera is standard on Titanium models but unavailable on other versions. One new safety option this year is the MyKey feature, which allows parents to set maximum speed and stereo volume limits for the key used by their teens.\n\nClick here for a full list of safety features.\n\nVisibility is fine straight back, but large backseat headrests get in the way — though they conveniently flip down out of view when not in use. All Fiestas have standard blind spot mirrors incorporated into both side mirrors. I find them distracting; some people love them.\n\nValue in Its Class\nBase Fiesta sedans start at $14,795 and hatchbacks at $15,395, including a $795 destination charge. The Fit and Sonic hatches start a bit higher, the Versa Note a touch lower. Ford’s automatic transmission is pricey, however; costing an additional $1,095.\n\nWant to get fancy? Ford offers a couple of upscale options. Niceties include heated side mirrors, leather-trimmed seats, LED parking lights and a seven-color ambient lighting system for the cabin.\n\nWant to get weird? Ford has you covered here, too: You can choose to wrap your Fiesta in bacon. Really. It doesn’t get much weirder than that.\n\nDespite its ability to appeal to a wide audience, the Fiesta is not one of the automaker’s most popular vehicles. Globally sales are strong, but on Ford’s home turf the Fiesta still trails many competitors. Through this August, Ford had sold 52,575 Fiesta sedans and hatchbacks, considerably less than sedan and hatchback versions of the Versa (82,759) and Sonic (62,313) but more than the hatchback-only Honda Fit (37,040).\n\nThe Fiesta’s strengths are big ones: It looks good, it’s fun to drive and it’s easy on the wallet — both at the dealership and at the gas station. With the Fiesta’s recent update, it looks like the subcompact class has a new life of the party.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn S",
+          "price": "$14455",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB S",
+          "price": "$14855",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE",
+          "price": "$15685",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SE",
+          "price": "$16085",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium",
+          "price": "$18405",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB Titanium",
+          "price": "$18805",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB ST",
+          "price": "$21435",
+          "specifications": {
+            "Notable features": [
+              "Turbocharged 1.0-liter three-cylinder engine available",
+              "High-performance ST model available",
+              "Sedan and four-door hatchback body styles",
+              "MyFord Touch multimedia system available"
+            ],
+            "Highlights": [
+              "26 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "202 @ 4200 SAE Net Torque @ RPM",
+              "197 @ 6000 SAE Net Horsepower @ RPM",
+              "1.6 L/97 Displacement",
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,720 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/bf826a64-7a1b-47e3-acb1-0bb6d94f2b28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/80a1f95e-8eb6-49e8-b492-4efd7be7b132.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/88eeb0ab-ede5-4daa-9b2a-241de1b98360.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/231b6dd8-a608-4706-90c6-c08b36948822.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/8e60257f-bb76-4699-af27-37acc0340a05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/ca892ee3-7c46-4e38-85e6-fb71f5f85b31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/40bf5785-040b-4449-9168-389f96d8ed01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/e22e08e4-8143-43ce-a53f-4dabfd1f0b25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/e3b03e9f-fae3-4bf2-ba91-3a109216926c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/2b9ea366-077b-42be-8eaf-8eb4d7c07bae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/de2fc375-13f3-4975-a45b-3f53a1d7ef2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/0424830f-dd39-4639-b384-5ba7c0ed4321.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/01032a4d-60d1-412a-9c70-cf7aa6efb4ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/bf06976f-3139-438f-9169-82a8ae4279bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/c1382e4c-7232-484e-b1d2-eecb8bacb89b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/77ea164c-8ba9-4ab0-a488-3ca87dcbbbae/c230d32f-d197-4f2e-b6b1-dd4c1dd90b7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/37b7009e-3f57-42d3-b3ed-0adaaf88006a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/f2f19f07-16b3-4e83-8cfc-59afca95b9d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/30781950-ce62-44c0-886d-9980baa607de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/40430828-95a8-4805-aaa3-ee438974b41b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/2816162f-25a3-49d1-8cc0-096cc173c90f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd9ced21-7b51-4fc9-b3ca-6a3102b5b0b1/b1c4cee9-b535-474c-a00b-bde4c7d22289.png"
+      ],
+      "expert_review": "Editor’s note: Estimated mileage ratings have been lowered to reflect a June 2014 Ford audit of this car’s stated mileage.\n\nFiesta means party, so based on its name there’s got to be something exciting about Ford’s smallest car, right? After an update for 2014, the answer is finally yes.\n\nThe 2014 Ford Fiesta is an improvement, delivering wallet-friendly prices, excellent fuel economy and nimble road manners, though its cramped interior threatens to ruin the party.\n\nBig changes this year include an exterior face-lift, a new sport-tuned ST model and a fuel-thrifty engine — a 123-horsepower, turbocharged 1.0-liter EcoBoost three-cylinder, which will join the lineup later in the year. The MyFord Touch multimedia system is also now available.\n\nThe tiny Fiesta still comes as a hatchback or sedan; we tested a hatchback model in a midlevel SE trim. Compare the 2014 and 2013 models here.\n\nThe Ford Fiesta goes up against several hatchbacks that offer more cargo room for a similar price, namely the Chevrolet Sonic, Honda Fit and Nissan Versa Note. See all four compared here.\n\nExterior & Styling\nBoth body styles get a dose of styling sophistication for 2014, courtesy of the Fiesta’s big brother, the Fusion. The new Fiesta wears a version of the larger sedan’s wide trapezoidal grille, and angular hood lines replace the previous model’s frumpy, rounded nose.\n\nHot-hatchback fans should get excited about the Fiesta ST: The sport-oriented trim offers more horsepower and the looks to match. A gaping mesh grille dominates its face, complemented by smoky headlights and an aggressive front lip spoiler. Out back there’s matching mesh trim above the twin exhaust outlets and a large liftgate-mounted spoiler.\n\nHow It Drives\nNothing in the subcompact class is truly quick, but the Ford Fiesta can add “fun-to-drive” to its list of skills thanks to an engaging manual transmission and nimble handling. The standard 120-hp, 1.6-liter engine doesn’t have much gusto; you’ve got to hold the gears for a while to wring anything out of it. The five-speed manual gearbox, however, is a delight compared with the unpredictable, unruly six-speed dual-clutch automated manual transmission. Click here for my impressions of that atrocity.\n\nThe five-speed’s shifter action is smooth and precise, though shorter throws would be nice, as would a 6th gear. Topping out at five gears means the little engine revs pretty high at highway cruising speeds, increasing engine noise.\n\nThe S, SE and Titanium trim levels use the 1.6-liter four-cylinder, flanked by two optional newbies. In the fuel economy corner is a 123-hp, turbocharged 1.0-liter three-cylinder engine good for a rating of 31/43/36 mpg city/highway/combined. Far to the other side is the Fiesta ST’s turbocharged 1.6-liter mill, good for 197 hp and a combined rating of 29 mpg.\n\nMy test SE model is EPA rated at 28/36/31 mpg city/highway/combined, and those numbers proved easily attainable: During a 400-plus-mile, mostly highway drive I averaged 40.2 mpg. The Fiesta’s fuel-sipping skills put it above base versions of the Fit (27/33/29), Versa Note (27/36/30) and Sonic (26/35/30).\n\nIt’s also ahead of the pack in terms of ride comfort. Though the ride is firm-ish, it feels compliant compared with the super-stiff Fit. Its bump absorption is also better than the Fit’s or Versa’s.\n\nManeuverability is also a high point. The hatchback is agile, fun to sling through corners and has reactive, natural-feeling steering. A true city car, it negotiates narrow streets well and squeezes into parking spots with ease.\n\nBoth performance and handling are amped up in the small-but-mighty Ford Fiesta ST; the sport-tuned model takes power from adequate to entertaining. The turbocharged 1.6-liter is eager from a stop with no turbo lag. The ST is far more engaging to drive than regular versions, but again missing is a short-throw shifter for the six-speed manual.\n\nOn the road, corners are flat and controlled, and the ST’s steering direct and responsive. Its handling scores are high, but ride quality suffers from the taut suspension. Even on seemingly unbroken pavement the car hops around and feels jittery.\n\nOverall, the Ford Fiesta ST delivers a lot of fun at a relatively low base price; it starts at $22,195, including a $795 destination fee. Hot-hatch enthusiasts should find the ST fun and affordable compared to the more expensive Fiat 500 Abarth and Mini Cooper S, and more potent than the Chevrolet Sonic RS. Click here for more impressions of the ST model.\n\nInterior\nAlthough this is an entry-level car, the interior conveys more of an upscale vibe. The cabin is pleasant overall and is dressed in some of the nicer materials in the class. An interesting winged vent design and glossy black trim are the highs. The painted, cardboard-like dash and door panels don’t impress, however. Large sun visors are another nice touch, but they don’t expand or extend.\n\nThere’s a comfortable amount of headroom and legroom for front-seat occupants, but achieving comfort is the hard part. My biggest beef is with the seats: They’re flat and hard, and after a couple of hours on the road unshakable butt-fatigue sets in. The side bolsters don’t help — they’re set too narrow and hit at an awkward place. Available heated cloth seats are nice, however, and leather is standard on the top-of-the-line Titanium trim.\n\nThe cabin’s design and finishes may be competitive, but the backseat is far from it. Adults will find accommodations tight with just 31.2 inches of rear legroom — the Fit offers 34.5, the Sonic hatch has 34.6 and the Versa Note boasts a generous 38.3 inches. The Ford Fiesta’s a slouch in rear headroom dimensions, too, offering just 37.2 inches of space — again an inch or two shy of competitors.\n\nErgonomics & Electronics\nModel-year 2014 marks the first time the much-maligned and frustrating MyFord Touch multimedia system is optional in the Fiesta — but hold that groan. Ford says it’s updated the system and, in the Fiesta, I think MyFord Touch has finally turned a corner.\n\nIt’s been a while since I’ve used the system, and I approached it with wariness. This time, however, my frustration level was much lower; I found the voice command functionality not as fussy, and most of the touch-screen inputs were a bit quicker to respond. Connecting my Android phone was easy and I was able to stream Pandora internet radio without a problem. The navigation system (a $795 option) delivered a few wrong turns to one editor, but it got me to my destination without a hiccup.\n\nMy biggest problem is the size of the readout. Everything seems small in the Fiesta, but the 6.5-inch touch-screen is truly subcompact. A lot of other Ford vehicles have an 8-inch screen (measured diagonally), and those extra 1.5 inches would solve a lot of problems here. The Ford Fiesta’s home screen is divided into four quadrants for navigation, vehicle info, audio display/control and phone/device connectivity, and within each are super-tiny buttons. My success rate of hitting the correct one was less than perfect unless I used my pinky, which felt weird (and I’m sure looked even weirder).\n\nLuckily, MyFord Touch’s physical controls also got a face-lift this year and are refreshingly intuitive (never thought those words would share a sentence with “MyFord Touch”). Below the screen are duplicate audio buttons, replacing the old (annoying) central knob and fussy touch-sensitive panel buttons. Same goes for the climate controls; the traditional buttons (though tiny) were truly a sight for sore eyes.\n\nCargo & Storage\nRoominess is again a big issue in the cargo area. Several automakers in this class have developed creative solutions to subcompact storage challenges, but not Ford. The Fiesta’s cargo area is again the very picture of subcompact, its numbers the definition of tiny. With the rear seats raised, there’s just 14.9 cubic feet of space; other subcompacts can handle way more cargo. The Fit has 20.6, the Sonic 19 and the clown-car-like Versa Note impresses yet again with a segment-busting 21.4 cubic feet.\n\nThe backseat folds in a 60/40 spilt with ease, but it’s not at all flat, and lowering it increases capacity only to 26 cubic feet. The winner here is the Honda Fit, whose backseat’s creative tumble-fold maneuver — though it’s more cumbersome to do — increases space to a voluminous 57.3 cubic feet. The Versa Note and Sonic hatch follow with 38.3 and 47.7 cubic feet, respectively.\n\nI loaded the car with two adults, a toddler and a long-weekend’s worth of gear and we were busting at the seams. Much of the cargo ended up wedged next to my daughter’s car seat. The second row also gets short shrift in terms of small-items storage. There’s only one cupholder and it’s in the middle of the floor, jutting out from the back of the front center console and making the middle seat unusable (unless you like kicking drinks). There’s also only one seatback pocket for storing small goodies, which is a cheap move.\n\nSafety\nIn Insurance Institute for Highway Safety testing, the 2014 Fiesta hatch and sedan earned Top Safety Pick status, receiving the highest score, Good, in all tests to which it was subjected. (The Minicar class, as the Institute calls it, hasn’t been tested for crashworthiness in a small-overlap frontal collision, a test that’s proved challenging in other vehicle classes.)\n\nThe National Highway Traffic Safety Administration gave the hatchback and sedan four out of five stars in a frontal test but has not yet performed side crash tests. It also earned a four-star rollover rating.\n\nA reverse sensing system with backup camera is standard on Titanium models but unavailable on other versions. One new safety option this year is the MyKey feature, which allows parents to set maximum speed and stereo volume limits for the key used by their teens.\n\nClick here for a full list of safety features.\n\nVisibility is fine straight back, but large backseat headrests get in the way — though they conveniently flip down out of view when not in use. All Fiestas have standard blind spot mirrors incorporated into both side mirrors. I find them distracting; some people love them.\n\nValue in Its Class\nBase Ford Fiesta sedans start at $14,795 and hatchbacks at $15,395, including a $795 destination charge. The Fit and Sonic hatches start a bit higher, the Versa Note a touch lower. Ford’s automatic transmission is pricey, however; costing an additional $1,095.\n\nWant to get fancy? Ford offers a couple of upscale options. Niceties include heated side mirrors, leather-trimmed seats, LED parking lights and a seven-color ambient lighting system for the cabin.\n\nWant to get weird? Ford has you covered here, too: You can choose to wrap your Fiesta in bacon. Really. It doesn’t get much weirder than that.\n\nDespite its ability to appeal to a wide audience, the Fiesta is not one of the automaker’s most popular vehicles. Globally sales are strong, but on Ford’s home turf the Fiesta still trails many competitors. Through this August, Ford had sold 52,575 Fiesta sedans and hatchbacks, considerably less than sedan and hatchback versions of the Versa (82,759) and Sonic (62,313) but more than the hatchback-only Honda Fit (37,040).\n\nThe Ford Fiesta’s strengths are big ones: It looks good, it’s fun to drive and it’s easy on the wallet — both at the dealership and at the gas station. With the Fiesta’s recent update, it looks like the subcompact class has a new life of the party.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn S",
+          "price": "$14100",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB S",
+          "price": "$14600",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE",
+          "price": "$15580",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB SE",
+          "price": "$16080",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium",
+          "price": "$18300",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB Titanium",
+          "price": "$18800",
+          "specifications": {
+            "Notable features": [
+              "New styling for 2014",
+              "Optional turbocharged 1.0-liter three-cylinder",
+              "High-performance ST model",
+              "Sedan and four-door hatchback",
+              "Optional MyFord Touch multimedia system",
+              "Upscale options"
+            ],
+            "Highlights": [
+              "27 City / 37 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/97 Displacement",
+              "112 @ 5000 SAE Net Torque @ RPM",
+              "Regular Unleaded I-4 Engine Type",
+              "120 @ 6350 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "2,537 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "10 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Drum - Rear (Yes or )",
+              "Front Disc/Rear Drum Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "8 in Rear Brake Rotor Diam x Thickness",
+              "N/A Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "5dr HB ST",
+          "price": "$21400",
+          "specifications": {
+            "Notable features": [
+              "New styling for 2014",
+              "Optional turbocharged 1.0-liter three-cylinder",
+              "High-performance ST model",
+              "Sedan and four-door hatchback",
+              "Optional MyFord Touch multimedia system",
+              "Upscale options"
+            ],
+            "Highlights": [
+              "26 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "202 @ 4200 SAE Net Torque @ RPM",
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "197 @ 6000 SAE Net Horsepower @ RPM",
+              "1.6 L/97 Displacement"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "2,720 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "12 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "500 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Not Available Drum - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "10 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

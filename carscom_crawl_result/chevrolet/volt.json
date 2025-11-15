@@ -1,0 +1,649 @@
+{
+  "make": "chevrolet",
+  "model": "volt",
+  "years": {
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/323cb64e-69cf-4ca3-b739-19339125fbbb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/d0e7585e-f0ef-45de-8ae6-95ccad121987.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/f50f044d-51d9-4101-a816-cebeb1cedb1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/9ca2bc2e-a6fc-4169-bd42-4544e697bc3f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/81f9b1bd-e080-4980-82ce-3a7158a87c8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/8ac5a062-3dd1-4767-983a-a61ca12e652f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/5ae8415f-3648-447e-9d4f-3e2494464957.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/e77ea0ba-1ffd-4175-9fd5-60816290cec2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/f4ee2c9a-81c4-48a9-94f1-ce54b22bc640.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/3d7c4d92-4d69-406e-b74c-f6aa5ec66c1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/fd7a9f99-4b96-4354-9bef-42804b98b260.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/bb2434bd-77dc-4b7f-8fe5-596342af8eb6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/35681c1c-afe1-4a82-a7b4-295d11a9e1f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/2f15100d-b045-4fc5-b14f-b89dca42627f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/775f900e-ed70-4e83-9a20-be5c4599929f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/07bd96f9-ba76-4037-a23c-bee37629a3cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/f348de8b-e4d0-4488-a2d3-26cf9810ab12.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/ff1ed25b-6568-4779-84a4-496349bea540.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/6ec72bf4-1184-4952-845d-2d342b4a2607.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/90d17084-8392-4b59-b890-5dab25d8454e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/4b9bed2b-13ac-4bc4-99ad-287593731ec8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/5837c722-58da-4d56-bbaf-d28ea9928e9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/703cafaa-cdb2-4f57-9b8e-be18b2b7bfcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/1a6ad2dc-abc1-4094-9f96-b0e1b8a97544.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/27d063d4-c678-4a9d-b0a0-ba4cd20fe75b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/390910be-e58f-456e-b2b8-e08dd12983cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/9855aef0-0ca9-4df6-99c4-c3af1a6a217c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/81f9b1bd-e080-4980-82ce-3a7158a87c8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/4c0adf8e-fd3c-4e6c-92a7-b17f906403bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/7f78c2b5-a40f-4be0-8331-fc5c084b5804.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/77ba0b1a-13e0-46da-9eb9-69177f197dcd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/49fb4302-ef96-4624-ac45-9ed977db1955.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8fcf804e-bfdb-4d29-a36c-20b1c6c76a94/3ae90c16-157f-4f94-875f-9ac8b9ea1261.png"
+      ],
+      "expert_review": "The Chevrolet Volt is the most advanced hybrid ever made. It’s radical. Handsome. And no less than Automobile Magazine, Motor Trend, and the North American Car of the Year jury have crowned it “Car of the Year.” But, uh, where can you buy one?\n\nSince its December debut, Chevrolet has sold only 2,020 Volts in six states through April, including Connecticut and Washington, D.C. Massachusetts will get the honor this fall, and the entire country will be invited to buy in December. While Chevy can fill every Hertz lot in America with Impalas, they’re barely making 10,000 Volts this year.\n\nThat’s because this plug-in hybrid has a battery with 12 times the capacity of a Prius, and until now, no one’s produced such a complex and large lithium-ion pack in high volume. Unlike a regular hybrid, where the electric motor provides a small assist to the gas engine, the Volt’s electric motor is the primary source of power. The gas engine is secondary and spins the electric motor when the battery dies (and at higher speeds, it can power the wheels in tandem).\n\nIn short, the Volt is designed to be plugged in like a pure electric car, but it’ll run all day and all week like a gasoline car. Anything else about the Volt’s powertrain labyrinth is impossible to explain without an engineering doctorate, and that’s why the car costs $41,000. That, and because GM would really like to recoup some of the money spent from four hard years of labor.\n\nA $350-per-month lease is a sweet deal for three years (nearly matching the Nissan Leaf), but you could straight-up buy two Chevy Cruze sedans for the price of a Volt. A $7,500 tax credit helps, but most budget-conscious shoppers will take a well-equipped 40-mpg compact — like the Cruze, Ford Focus, or Hyundai Elantra — without swallowing the Volt’s BMW-like price. Right now, the Volt’s a nice second car for its owner’s 335i.\n\nAs expected, the Volt’s premium price buys exclusive technology rather than an exquisite interior. The touch-sensitive center stack is clever, but the materials aren’t even worthy of a $30,000 car: Try a bone-hard dashboard and door surfaces, coarse cloth, and a steering wheel so rough it feels wrapped in 50-grit sandpaper. Leather trim fixes some of this, but Chevy figures you’ll be too fixated on the Volt’s dual LCDs to notice. Because they’re not simply high-resolution screens with slick animations — they’re hypnotic.\n\nFirst, it’s alarming to see the gas gauge greyed out. It’s shoved off to the screen’s corner during electric mode, and the fuel level doesn’t budge. Even wilder is gazing at the pie chart separating the car’s mileage on gasoline and electricity. After a nine-mile commute to the Globe, I took the Volt out to lunch in the financial district, back to the office, to the gym, and then home. My pie was mostly green (29 electric miles) and a tad blue (10 miles on gas). Total average: a mesmerizing 90.8 mpg.\n\nHow obsessed can you become? As I played with the Volt’s three drive settings, I flipped to “mountain” mode. The gas engine awoke — it’s there so Vermonters get extra juice on hill climbs — and wouldn’t shut off, even when I switched back to “normal.” I refused to drive like this on a charged battery, so I swerved to the shoulder and restarted. A perfectly good pie, ruined with 0.2 gallons of gas.\n\nEver tried reading the messy bar graph readouts in a Prius, or pay attention to the jumpy throttle meter in a Ford Fusion Hybrid? With the Volt, there’s no need to “hypermile” to keep the engine off, since it’s always electric for 25 to 50 miles (and the battery life indicator throws out the most accurate estimates I’ve seen in an electric car).\n\nColder days pushed my EV range to 25 miles per day, and slightly warmer temperatures let the battery eke out 33 miles. During our video shoot all over Cambridge and Boston, I hit 40 with a few brief charges in between. At my non-SAE compliant home charging station, I paid less than two bucks a night to refuel the car.\n\nCheap electricity — and the security of the gas engine — takes the scrooge out of driving sensibly. In “sport” mode, the Volt provides zippy acceleration. It’s no Tesla Roadster, yet it’s no slouch, with 60 mph arriving in about 8.5 seconds. Because of the car’s low center of gravity, the handling is equally entertaining, and there’s good traction from the low-rolling resistance tires. Ground clearance is a little too low, thanks to a wide rubber chin spoiler designed to reduce drag. And all this rubber piece does is drag, on everything. Not even the Porsche 911 Turbo scrapes driveways like a Volt.\n\nThe Volt is also sportier than the photos suggest. Glossy black trim on the sides, roof, and glass hatch mask the stubby overhangs. LED lighting, a bright solid grill, and chiseled wheels keep the Volt out of the appliance aisle.\n\nAn OnStar smartphone app can monitor the Volt’s battery status, set up a charging schedule, start the climate control, and send text messages when the battery’s full. Since the app runs through OnStar satellites, it takes an agonizing minute or more to refresh the screen. The Leaf’s app uses cellular networks and talks to the car much faster. Either way, this is convenient technology every automaker should offer.\n\nCharging a Volt takes 10 hours on 120 volts, or about four on 240 volts (which requires a special home unit sold by Chevrolet). But when the all-electric range evaporates, the Volt is a rather disappointing hybrid. The issue is neither the engine running at disproportionately higher revs than the car’s acceleration, nor the mild noise after driving in complete silence. It’s the fuel economy — EPA rated at 35 city, 40 highway — which is hardly better than the Cruze. (Compared to the svelte Prius, the Volt is saddled with a couple of NFL linemen, and the aero tweaks don’t make it sleeker.)\n\nBut in a world without public charging stations, the Volt’s versatility is its very best trait. For daily drivers, pure electric vehicles demand a careful exercise in arithmetic and route planning. They tend to compound the stress of driving. And while most of us follow routine, we also fall on impulse, chance, and urgency on the road.\n\nThe Volt takes care of that. Too bad you can’t buy one — yet.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/6eb95c08-391a-4a80-9a57-1411dd8d1cfa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/7fa07ca3-7d17-48bb-8d83-ec77ba4f2aae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/0ae754d6-42ba-49da-94df-3ead2ea37a41.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/9a0777fc-0543-48c2-b4e8-4178b3d584cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/12d4d4e3-80e0-4756-82a1-53f055dc878b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/af0d8357-9e38-41ee-a73c-01e7b8be5fff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/3eea7036-7e8c-4cef-93bb-76b491812f84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/11b5767b-9b30-4de2-b85e-4fde04c133e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/3e5b5940-1a2c-4e26-bd99-1c54c0e38394.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/c20bae10-304b-48d1-8753-3440aba045b7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/4ba06d8e-d13e-457f-95b2-2d15607c62c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/0c3223f8-ba1b-436d-96c8-796110d797cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/4baf526b-63df-4541-9db9-6eedae48e010.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/b0003896-045f-40dd-ae1d-b910a46e5a2a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/56695f09-872a-4565-9858-71a26791e6e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/4ba06d8e-d13e-457f-95b2-2d15607c62c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/1a18b5a2-51ce-4fc2-8809-5dc1b22225e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/9dc7356d-330e-4d19-bf50-f852c11453b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/c45fbe16-ca84-4392-bebf-63a82d190539.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/91e7e4a7-fa54-4b34-930c-a18d4756e900.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/6b751b04-c17e-420b-afda-cd22b0743dfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/57a80eeb-5bb2-489e-a9ed-3266bd298053/320f0d5a-1d16-41dd-8680-4cf801fe1df3.png"
+      ],
+      "expert_review": "Although the Chevrolet Volt has received a big price cut, it still retains its novel extended-range electric car abilities — as well as its poor visibility, questionable touch-sensitive panels and cramped interior.\n\nIt’s been a while since we got a close look at the Chevrolet Volt, General Motors’ original plug-in EV hybrid electric car. It’s a novel hatchback that debuted to mixed reviews from the press and public a few years ago, and in that time the Volt has received only a few minor updates — things like achieving another 3 miles of electric-only range due to deeper use of the lithium-ion batteries, a few new colors, a rear armrest for the backseat passengers — and not much else. The biggest news lately was a price drop for 2014, when Chevrolet slashed $5,000 off the car’s sticker price to try to boost sales in the wake of new competition. The 2014 model is basically the same car GM introduced back for the 2011 model year; compare the 2013 and 2014 models here.\n\nHow It Drives\nA quick refresher on how the Volt works: An electric drivetrain, consisting of a 16.5-kilowatt-hour lithium-ion battery pack and a 149-horsepower electric motor, is augmented by a 1.4-liter four-cylinder engine that acts primarily as a generator. When the Volt’s batteries reach a certain state (not empty; the Volt’s batteries are never truly “empty”), usually after an average of about 38 miles of driving, the gas engine kicks in to keep the batteries at a certain level and get you to the next charging station. It’s actually far more complicated than this — GM’s Voltec powertrain is an amazingly complex combined transmission-motor-generator unit. The result, however, is this: You get to drive 38 miles (the actual range depends on weather and driving style) before the gas engine kicks in to get you considerably further; the Volt’s range is more than 300 miles in total. And as long as you keep filling the tank with premium gas, you can keep going, averaging about 37 mpg on that gas engine. The idea, though, is to try to get to a plug instead of another gas station, as driving the car on electricity is cheaper and more efficient.\n\nWe’re happy to report that the Chevy Volt drives pretty much as the Volt always has. It’s solid, it’s heavy and it’s planted. All that weight in the battery pack contributes to the impressive heft that comes through in a smooth ride, a well-damped suspension and vaultlike build quality. It also, however, comes with the penalty of less-than-athletic handling. The Volt rides like a luxury car but leans and pushes in turns as its low-rolling-resistance tires try to handle the changing momentum. The overly boosted electric power steering does nothing to improve the handling situation, as it is quite numb in terms of feel and feedback. Acceleration is surprisingly quick, especially when the car is in Sport mode, which remaps accelerator input to make for quicker response. It’s one of the few Sport modes on the market that actually makes the car quicker when selected. The Volt is no sport sedan, but it’s not trying to be; the Volt’s mission is to maximize your efficiency, especially in electric mode. That means driving calmly and smoothly, with no rapid acceleration or aggressive moves. Drive it like a commuter car, not a race car, and the Volt feels docile, user-friendly and comfortable for front-seat occupants.\n\nThe reason to buy a Volt is fuel economy, and it performs as advertised. My time with the 2014 came in the middle of one of the coldest winters in Michigan history, however, which did affect my observed performance. Plugging the car in overnight will charge it from empty in about four hours on a 240-volt dedicated charger, or in eight to 10 hours on a standard household 120-volt outlet. If you keep to a routine, you can program the Volt to charge during the most economical electricity rate hours from your utility. Use remote start to warm the car up in the morning (or cool it down anytime) while still plugged in and you’ll improve battery range because the car won’t be using as much stored energy to make the cabin comfortable. In super-cold weather, the gas engine will run even if the battery is full to help get things warmer faster.\n\nGiven my subfreezing conditions, I did not achieve 38 miles of electric operation; the Volt typically went about 30 miles before battery depletion. This did include some highway driving, which will also bring down battery power more quickly. Operating on gasoline power, the Volt did indeed achieve about 36 mpg, as expected from its EPA gasoline rating of 35/40/37 mpg city/highway/combined. As with all electric cars, your mileage will vary; I was once able to go 52 miles on electricity only in a fully charged Volt in perfect conditions (warm weather, flat terrain, smooth operation and minimal stop and go). But I have also seen a Volt go 25 miles on electricity before switching on the gas engine — on a cold morning with the heat blasting while zipping down the highway at 75 mph. Suffice it to say that with normal use and operation (and barring extreme weather conditions), the Volt can easily achieve its advertised efficiency ratings.\n\nInterior\nInside, the Chevy Volt’s cabin hasn’t changed since its introduction, aside from the elimination of a button that used to pop open the charge port door — that’s now a hand-operated affair, but the separate fuel door remains powered, as that button also unseals and depressurizes the fuel system before popping the filler door. The center control panel is still completely touch-sensitive smooth plastic, aside from a few buttons to operate systems like the drive mode selector, system start, eco displays, door locks and radio volume. Few of our editors are fans of this panel, as it’s too easy to accidentally select something by brushing your hand against it, and there doesn’t seem to be much logic to the stack’s layout. It may be cheaper and lighter, but it’s not pleasant to use. Thankfully, other interior materials are quite nice, with a premium grain to the plastics and a quality feel to the optional leather-wrapped seats. Aside from the center console, the Volt feels like an expensive car.\n\nAt least the cabin is quiet — as long as you’re not on the highway, sitting in back or have any windows open. The Chevrolet Volt’s aerodynamics are so critical to its efficiency that opening any window and disturbing the airflow at speeds above 35 mph leads to horrible, throbbing cavitation in the passenger space. Chevy would rather you keep the windows up and use the climate control system to keep the cabin at the temperature you prefer. Road noise up front is very nicely muted, but once you’re at highway speeds the lack of a barrier between the cargo area and occupant space leads to strained conversations between front and backseat passengers. I’ve found that putting down a thick rubber mat — available from GM’s parts catalog — in the cargo area does tend to help. Noises also tend to stand out because there’s often no engine noise to mask anything. Once the gas engine does kick on, either because the batteries are depleted or because you’ve selected one of the Volt’s four modes that keep the batteries charged to a certain level (Hold and Mountain do this), the cabin gets a bit louder, but not much. It’s still muted and comfortable, and you quickly get used to the fact that the engine noise is not connected to your right foot’s position on the accelerator pedal.\n\nOur complaints with previous Volts haven’t changed with this latest one. The brakes feel artificial and insufficiently strong, as if they’re not directly connected to the pedal you’re pushing but to some computer that determines (inaccurately) exactly how much braking force should be applied. You do get used to them, but there’s room for improvement here. Visibility is atrocious, with huge thick windshield pillars making it feel like you’re driving the car backward and looking out a rear window. Actual rear visibility isn’t any better, with more thick pillars and an awkward split-window hatchback design that bifurcates the view behind you. Reversing and parallel parking are challenging, especially if you don’t have a Volt with the optional backup camera and parking sensors. The backseat is cramped and accommodates only two occupants thanks to the battery stack that runs between and under the rear seats — and dimensions that weren’t all that spacious to begin with. Legroom for rear passengers is tight as well. The Volt is best considered a two-seat car for most use, with the ability to accommodate two more in a pinch.\n\nErgonomics & Electronics\nThe multimedia system in the Volt is Chevrolet’s latest MyLink package, and it’s one of the better systems on the market. Clear and easy to use, the touch-screen in the Volt displays audio and vehicle system information but sometimes has issues syncing up with mobile devices using the USB port. Reliably connecting an iPhone 5 to it to play music was a challenge.\n\nA second display takes the place of traditional gauges and provides a significant amount of reconfigurable information about what the vehicle is doing, how it’s performing, charge status and even an easy-to-use meter to help you modify your driving style to maximize efficiency. A few years into the Chevrolet Volt’s first iteration, the graphics and displays still feel modern and up to date, a testament to how truly new and state of the art they were when the Volt was introduced. The Volt was one of the first vehicles to also truly integrate remote smartphone-app operation. Through a dedicated OnStar app, you can check the car’s charge level, set it to charge immediately, see how efficient it’s been, unlock the doors and even honk the horn.\n\nCargo & Storage\nDespite the cramped occupant space, the Chevy Volt can swallow a surprising amount of stuff thanks to its hatchback configuration. Chevrolet lists trunk volume at 10.6 cubic feet (which isn’t much; a Nissan Leaf has 24 cubic feet of trunk space with the seats still up), but when the rear seats are folded the Volt can accommodate long items without a problem. There’s plenty of room for a trip to the building supply store or warehouse club, so long as it’s just you and a friend doing the shopping.\n\nSafety\nThe Volt received some negative press upon its introduction when one caught fire after being crash-tested, but that isolated incident proved an unusual case that had much more to do with the government improperly storing a crashed electric car than with a design issue with the Volt. Since then there haven’t been any incidents like it, and the Volt has been relatively trouble free. In fact, the Volt has a five-star safety rating from the National Highway Traffic Safety Administration, with the only questionable test being the rear side pole barrier impact test. Similarly, the Volt earned the top rating of good in all tests to which it was subjected by the Insurance Institute for Highway Safety. See all the Volt’s crash-test results here.\n\nThe Volt can also be had with all the latest electronic safety advancements, like front and rear park assist, forward collision warning and lane departure warning. As with all GM vehicles, OnStar monitoring service, which can automatically notify emergency responders in case of a collision, is included for a trial period. See a list of the Volt’s equipment here.\n\nValue in Its Class\nThanks to increasing competition, the Volt has seen its price drop by a significant amount since its introduction. The new base price for a 2014 Chevrolet Volt is $34,995 including destination charge, which is a decline of $5,000 from the 2013 model. That’s still more than you’d pay for many other plug-in hybrid cars on the market, but none of them offer the level of electric-only operating range that the Volt does. My test car was loaded up with the Premium Trim Package, two safety packages, navigation, a Bose premium audio system, black 17-inch wheels and white diamond paint for a grand total of $40,640. That’s a lot of money for a car as small as the Volt, but the car’s abilities and novel electric operation mean that, for some people, the ability to drive it while only rarely filling it with gas makes its operation significantly less expensive than a comparable gas car.\n\nCompetitors are more numerous these days than they were just a couple of years ago. From a function and space standpoint, the new BMW i3 offers many of the functions of the Volt — most notably an all-electric drivetrain that can be augmented by a gasoline range extender. Its electric range is significantly longer, at roughly 80 miles, but its engine is a two-cylinder BMW scooter engine, and there can be only enough range-extending gas in the car’s tiny tank to go another 60 miles after the car’s electric range is depleted. That’s enough to get you around town, but likely not to the nearest big city. It’s also considerably more expensive than the Volt; the i3 starts at $42,275 but can quickly climb north of that if you start specifying nicer interior materials and fancy entertainment options.\n\nCloser in function are the Toyota Prius Plug-In and the Ford C-Max Energi. Both are primarily gasoline-based vehicles, with engines that are meant to provide power and motive force to the cars, but both can travel a limited distance on all-electric range on a full-charge as well. Of these two, the Ford is the more advanced powertrain from an electric-operation standpoint — it goes twice as far on electric power, using a battery that’s almost double the capacity of the Toyota’s. It’s also taller and roomier than the Toyota, with the ability to carry far more cargo thanks to its folding second row of seats. The Toyota comes out ahead on fuel economy, however, averaging an EPA-estimated 51 mpg on the highway to the Ford’s 40 mpg. The Toyota starts at $30,800 while the Ford begins at $33,745, so both have a price edge over the Volt, but neither can approach the Volt’s electric-only operating ability, meaning you’ll be spending more in gasoline to use either one. Compare all four competitors’ stats and abilities here.\n\nDespite the arrival of these competitors, the Volt still largely stands alone in what it can do — operate almost 100 percent of the time without running its gas engine, with enough range to get the average commuter to and from work on a single charge, but also allow that owner to make long-distance drives when necessary. For some people, it’s the perfect everyday car for just those reasons alone. Once Chevrolet addresses the car’s most obvious shortcomings — like abysmal visibility, seating for only four and a price that’s still too high — its appeal is likely to grow beyond just the commuter customer.\n\nemail",
+      "trims": [
+        {
+          "name": "Base_Price_12998",
+          "price": "$12998",
+          "specifications": {}
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/0b76923d-478f-43a9-ad85-a7d9a546d1bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/55b2aa4e-8e5c-493b-b3da-e6f9f728239e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/45cfc985-89c2-4a1f-a102-c010378e931e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/ca3c8c95-cd8d-4b78-a213-c9875a24c7a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/4c761ac8-28fc-4e75-92c8-220c8d19d7a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/850349b2-452b-48bf-bed6-77fc52be6a24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/5265bc69-6a92-4442-972e-0b1f87573a6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/8ee2cb89-4c61-4748-b8fb-0a0c2f3a2ba4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/4b6ddf2d-2500-48f6-9d14-0782275d997d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/9d1d3d28-ae70-413f-b840-7bf58ca6fefd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/85365b9c-d9fc-4b30-b473-d76c2f82becf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/a9506d4d-f70c-4da3-b0dd-dd3a5a88765c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/8a805a8f-1668-4365-b798-e1e5c631d77b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/3c24dc32-9940-4b7e-9d64-e7e0760fa6d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/68e4bdc6-56f5-44f0-bf75-33df046d609f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/5dafa6f2-2df5-4d0e-be88-68dc8068f947.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/eaffc77f-974c-42c8-b609-d9f66620a3a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/d2e1e2b5-e1b0-4b48-9bc2-07c0898fdd0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/20c7f38a-2a7d-41fc-b496-081ebb7746e2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/55b2aa4e-8e5c-493b-b3da-e6f9f728239e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/39a56de7-7a09-4fd3-a3b2-e0fd18a166da/ddf594ab-82a8-4880-a7eb-37b8fe93843c.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in July 2014 about the 2014 Chevrolet Volt. Little of substance has changed with this year’s model. To see what’s new for 2015, click here, or check out a side-by-side comparison of the two model years.\n\nAlthough the Chevrolet Volt has received a big price cut, it still retains its novel extended-range electric car abilities — as well as its poor visibility, questionable touch-sensitive panels and cramped interior.\n\nIt’s been a while since we got a close look at the Chevrolet Volt, General Motors’ original plug-in hybrid electric car. It’s a novel hatchback that debuted to mixed reviews from the press and public a few years ago, and in that time the Volt has received only a few minor updates — things like achieving another 3 miles of electric-only range due to deeper use of the lithium-ion batteries, a few new colors, a rear armrest for the backseat passengers — and not much else. The biggest news lately was a price drop for 2014, when Chevrolet slashed $5,000 off the car’s sticker price to try to boost sales in the wake of new competition. The 2014 model is basically the same car GM introduced back for the 2011 model year; compare the 2013 and 2014 models here.\n\nHow It Drives\nA quick refresher on how the Volt works: An electric drivetrain, consisting of a 16.5-kilowatt-hour lithium-ion battery pack and a 149-horsepower electric motor, is augmented by a 1.4-liter four-cylinder engine that acts primarily as a generator. When the Volt’s batteries reach a certain state (not empty; the Volt’s batteries are never truly “empty”), usually after an average of about 38 miles of driving, the gas engine kicks in to keep the batteries at a certain level and get you to the next charging station. It’s actually far more complicated than this — GM’s Voltec powertrain is an amazingly complex combined transmission-motor-generator unit. The result, however, is this: You get to drive 38 miles (the actual range depends on weather and driving style) before the gas engine kicks in to get you considerably further; the Volt’s range is more than 300 miles in total. And as long as you keep filling the tank with premium gas, you can keep going, averaging about 37 mpg on that gas engine. The idea, though, is to try to get to a plug instead of another gas station, as driving the car on electricity is cheaper and more efficient.\n\nWe’re happy to report that the Volt drives pretty much as the Volt always has. It’s solid, it’s heavy and it’s planted. All that weight in the battery pack contributes to the impressive heft that comes through in a smooth ride, a well-damped suspension and vaultlike build quality. It also, however, comes with the penalty of less-than-athletic handling. The Volt rides like a luxury car but leans and pushes in turns as its low-rolling-resistance tires try to handle the changing momentum. The overly boosted electric power steering does nothing to improve the handling situation, as it is quite numb in terms of feel and feedback. Acceleration is surprisingly quick, especially when the car is in Sport mode, which remaps accelerator input to make for quicker response. It’s one of the few Sport modes on the market that actually makes the car quicker when selected. The Volt is no sport sedan, but it’s not trying to be; the Volt’s mission is to maximize your efficiency, especially in electric mode. That means driving calmly and smoothly, with no rapid acceleration or aggressive moves. Drive it like a commuter car, not a race car, and the Volt feels docile, user-friendly and comfortable for front-seat occupants.\n\nThe reason to buy a Volt is fuel economy, and it performs as advertised. My time with the 2014 came in the middle of one of the coldest winters in Michigan history, however, which did affect my observed performance. Plugging the car in overnight will charge it from empty in about four hours on a 240-volt dedicated charger, or in eight to 10 hours on a standard household 120-volt outlet. If you keep to a routine, you can program the Volt to charge during the most economical electricity rate hours from your utility. Use remote start to warm the car up in the morning (or cool it down anytime) while still plugged in and you’ll improve battery range because the car won’t be using as much stored energy to make the cabin comfortable. In super-cold weather, the gas engine will run even if the battery is full to help get things warmer faster.\n\nGiven my subfreezing conditions, I did not achieve 38 miles of electric operation; the Volt typically went about 30 miles before battery depletion. This did include some highway driving, which will also bring down battery power more quickly. Operating on gasoline power, the Volt did indeed achieve about 36 mpg, as expected from its EPA gasoline rating of 35/40/37 mpg city/highway/combined. As with all electric cars, your mileage will vary; I was once able to go 52 miles on electricity only in a fully charged Volt in perfect conditions (warm weather, flat terrain, smooth operation and minimal stop and go). But I have also seen a Volt go 25 miles on electricity before switching on the gas engine — on a cold morning with the heat blasting while zipping down the highway at 75 mph. Suffice it to say that with normal use and operation (and barring extreme weather conditions), the Volt can easily achieve its advertised efficiency ratings.\n\nInterior\nInside, the Volt’s cabin hasn’t changed since its introduction, aside from the elimination of a button that used to pop open the charge port door — that’s now a hand-operated affair, but the separate fuel door remains powered, as that button also unseals and depressurizes the fuel system before popping the filler door. The center control panel is still completely touch-sensitive smooth plastic, aside from a few buttons to operate systems like the drive mode selector, system start, eco displays, door locks and radio volume. Few of our editors are fans of this panel, as it’s too easy to accidentally select something by brushing your hand against it, and there doesn’t seem to be much logic to the stack’s layout. It may be cheaper and lighter, but it’s not pleasant to use. Thankfully, other interior materials are quite nice, with a premium grain to the plastics and a quality feel to the optional leather seats. Aside from the center console, the Volt feels like an expensive car.\n\nAt least the cabin is quiet — as long as you’re not on the highway, sitting in back or have any windows open. The Volt’s aerodynamics are so critical to its efficiency that opening any window and disturbing the airflow at speeds above 35 mph leads to horrible, throbbing cavitation in the passenger space. Chevy would rather you keep the windows up and use the climate control system to keep the cabin at the temperature you prefer. Road noise up front is very nicely muted, but once you’re at highway speeds the lack of a barrier between the cargo area and occupant space leads to strained conversations between front and backseat passengers. I’ve found that putting down a thick rubber mat — available from GM’s parts catalog — in the cargo area does tend to help. Noises also tend to stand out because there’s often no engine noise to mask anything. Once the gas engine does kick on, either because the batteries are depleted or because you’ve selected one of the Volt’s four modes that keep the batteries charged to a certain level (Hold and Mountain do this), the cabin gets a bit louder, but not much. It’s still muted and comfortable, and you quickly get used to the fact that the engine noise is not connected to your right foot’s position on the accelerator pedal.\n\nOur complaints with previous Volts haven’t changed with this latest one. The brakes feel artificial and insufficiently strong, as if they’re not directly connected to the pedal you’re pushing but to some computer that determines (inaccurately) exactly how much braking force should be applied. You do get used to them, but there’s room for improvement here. Visibility is atrocious, with huge thick windshield pillars making it feel like you’re driving the car backward and looking out a rear window. Actual rear visibility isn’t any better, with more thick pillars and an awkward split-window hatchback design that bifurcates the view behind you. Reversing and parallel parking are challenging, especially if you don’t have a Volt with the optional backup camera and parking sensors. The backseat is cramped and accommodates only two occupants thanks to the battery stack that runs between and under the rear seats — and dimensions that weren’t all that spacious to begin with. Legroom for rear passengers is tight as well. The Volt is best considered a two-seat car for most use, with the ability to accommodate two more in a pinch.\n\nErgonomics & Electronics\nThe multimedia system in the Volt is Chevrolet’s latest MyLink package, and it’s one of the better systems on the market. Clear and easy to use, the touch-screen in the Volt displays audio and vehicle system information but sometimes has issues syncing up with mobile devices using the USB port. Reliably connecting an iPhone 5 to it to play music was a challenge.\n\nA second display takes the place of traditional gauges and provides a significant amount of reconfigurable information about what the vehicle is doing, how it’s performing, charge status and even an easy-to-use meter to help you modify your driving style to maximize efficiency. A few years into the Volt’s first iteration, the graphics and displays still feel modern and up to date, a testament to how truly new and state of the art they were when the Volt was introduced. The Volt was one of the first vehicles to also truly integrate remote smartphone-app operation. Through a dedicated OnStar app, you can check the car’s charge level, set it to charge immediately, see how efficient it’s been, unlock the doors and even honk the horn.\n\nCargo & Storage\nDespite the cramped occupant space, the Volt can swallow a surprising amount of stuff thanks to its hatchback configuration. Chevrolet lists trunk volume at 10.6 cubic feet (which isn’t much; a Nissan Leaf has 24 cubic feet of trunk space with the seats still up), but when the rear seats are folded the Volt can accommodate long items without a problem. There’s plenty of room for a trip to the building supply store or warehouse club, so long as it’s just you and a friend doing the shopping.\n\nSafety\nThe Volt received some negative press upon its introduction when one caught fire after being crash-tested, but that isolated incident proved an unusual case that had much more to do with the government improperly storing a crashed electric car than with a design issue with the Volt. Since then there haven’t been any incidents like it, and the Volt has been relatively trouble free. In fact, the Volt has a five-star safety rating from the National Highway Traffic Safety Administration, with the only questionable test being the rear side pole barrier impact test. Similarly, the Volt earned the top rating of good in all tests to which it was subjected by the Insurance Institute for Highway Safety. See all the Volt’s crash-test results here.\n\nThe Volt can also be had with all the latest electronic safety advancements, like front and rear park assist, forward collision warning and lane departure warning. As with all GM vehicles, OnStar monitoring service, which can automatically notify emergency responders in case of a collision, is included for a trial period. See a list of the Volt’s equipment here.\n\nValue in Its Class\nThanks to increasing competition, the Volt has seen its price drop by a significant amount since its introduction. The new base price for a 2014 Chevrolet Volt is $34,995 including destination charge, which is a decline of $5,000 from the 2013 model. That’s still more than you’d pay for many other plug-in hybrid cars on the market, but none of them offer the level of electric-only operating range that the Volt does. My test car was loaded up with the Premium Trim Package, two safety packages, navigation, a Bose premium audio system, black 17-inch wheels and white diamond paint for a grand total of $40,640. That’s a lot of money for a car as small as the Volt, but the car’s abilities and novel electric operation mean that, for some people, the ability to drive it while only rarely filling it with gas makes its operation significantly less expensive than a comparable gas car. Option one up your way here.\n\nCompetitors are more numerous these days than they were just a couple of years ago. From a function and space standpoint, the new BMW i3 offers many of the functions of the Volt — most notably an all-electric drivetrain that can be augmented by a gasoline range extender. Its electric range is significantly longer, at roughly 80 miles, but its engine is a two-cylinder BMW scooter engine, and there can be only enough gas in the car’s tiny tank to go another 60 miles after the car’s electric range is depleted. That’s enough to get you around town, but likely not to the nearest big city. It’s also considerably more expensive than the Volt; the i3 starts at $42,275 but can quickly climb north of that if you start specifying nicer interior materials and fancy entertainment options.\n\nCloser in function are the Toyota Prius Plug-In and the Ford C-Max Energi. Both are primarily gasoline-based vehicles, with engines that are meant to provide power and motive force to the cars, but both can travel a limited distance on pure electric power as well. Of these two, the Ford is the more advanced powertrain from an electric-operation standpoint — it goes twice as far on electric power, using a battery that’s almost double the capacity of the Toyota’s. It’s also taller and roomier than the Toyota, with the ability to carry far more cargo thanks to its folding second row of seats. The Toyota comes out ahead on fuel economy, however, averaging 51 mpg on the highway to the Ford’s 40 mpg. The Toyota starts at $30,800 while the Ford begins at $33,745, so both have a price edge over the Volt, but neither can approach the Volt’s electric-only operating ability, meaning you’ll be spending more in gasoline to use either one. Compare all four competitors’ stats and abilities here.\n\nDespite the arrival of these competitors, the Volt still largely stands alone in what it can do — operate almost 100 percent of the time without running its gas engine, with enough range to get the average commuter to and from work on a single charge, but also allow that owner to make long-distance drives when necessary. For some people, it’s the perfect everyday car for just those reasons alone. Once Chevrolet addresses the car’s most obvious shortcomings — like abysmal visibility, seating for only four and a price that’s still too high — its appeal is likely to grow beyond just the commuter customer.\n\nemail",
+      "trims": [
+        {
+          "name": "Base_Price_6999",
+          "price": "$6999",
+          "specifications": {}
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/c7523aed-34b0-4c66-92b6-146e51845ecf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/6f75d614-3b08-4ada-8588-4441b1df4887.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/d749d159-d91b-4a52-91cd-b88b645bcab1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/e86b3cfa-9760-40d7-a9f4-5057aef501b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/6ddcffff-3123-4f2b-bac4-e095f58d006d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/ee0e1948-c84d-4677-bf80-2e26d7fd630d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/e4e79190-a403-4939-a999-a55cf2dfe2ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/d438096f-215c-412a-ad7a-d1f80ad8d04c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/bee9ae6c-a863-4a31-aa9e-42122e4acb08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/a8862ad5-ff0d-46b1-a217-d541eeb5d38f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/fcc21c12-1041-41af-9cfb-dbbc43945dad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/71304736-37b4-4ca2-a104-87866ac4f8aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/288d4bc1-2fd8-4c73-8d96-c966ce004ad0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/1c13d3e4-fe1a-4847-b317-8e59d95796c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/0974093d-f0a8-400b-a435-b1808f23a05a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/23a0ae18-741e-4b4e-969a-dd1911b4d71d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/db4b4a15-5763-467e-9d84-bacdd68e79b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/5265806c-d1e5-4a2a-9d8b-14966138d0c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/e4524694-e912-41af-a61a-079461ebc262.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/a992f055-3618-4210-ad60-46b56bfac62e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/d1c75a5c-977a-4b51-9af5-8c7417b77616.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/447e95f7-eee1-44ce-8c32-8fce19e41709.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/df22d015-c77a-4d52-8eb4-bb9e80688df4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/7e122492-2d23-4c0d-afa2-83adcb428af8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/d1484f83-4244-45f8-98a5-fdcb4ca37ef2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/25293da3-3fbc-4d7d-85f7-0c5415f08205.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/42ba03bd-b04d-4d37-a386-6da141916618.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/a78dd479-5564-4974-b574-3b15d5848b66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/9329fca0-027e-4298-bc56-d64cf0be673b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/a7406329-86d3-46f4-a00e-875954d2a3f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/f3162511-505c-423e-8eaf-a07dea00b505.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/23a0ae18-741e-4b4e-969a-dd1911b4d71d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67645baa-df97-4170-af9f-b560074f9695/74dab05b-bbb2-4e24-b34e-ac2a8f630ee6.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Volt is a car Chevrolet hopes will revolutionize transportation. Unlike conventional hybrids, which drive the wheels with electric or gas power, the Volt is a battery-powered electric car that has a gas-powered range-extending generator onboard to keep the car going if the charge runs out. The Volt is essentially a four-door hatchback family car with two rear seats separated by a console that houses part of the car’s long, T-shaped battery pack.\n\nNew for 2012\nFor California buyers, Chevrolet has a new low-emissions version of the 2012 Volt that’s eligible for a $1,500 state rebate and single-occupant access to the state’s high-occupancy vehicle lanes. Newly available features include the Chevrolet MyLink entertainment system, a keyless-entry system and 17-inch aluminum wheels with black accents. Turn-by-Turn Navigation is now included with OnStar.\n\nExterior\nThe Volt is unmistakable as a recent Chevy design, and though its profile and rear hatch design suggest it’s something different, it’s not as conspicuously styled as some efficient cars, including the Nissan Leaf. The shieldlike front grille looks like it allows little cooling air into the engine compartment and it’s true, but plenty of air enters through an opening low on the bumper.\n\nAs expected, the Volt has two places to “fuel” up: a conventional gas filler door on the right rear fender and a charging port on the driver-side front fender. Exterior features include:\n\nLED daytime running lights\nPower-adjustable heated side mirrors with integrated turn signals\nSeventeen-inch aluminum wheels\nAvailable front and rear parking sensors\n\nInterior\nThe Volt’s cabin seats four and is outfitted with cloth seats; leather is an option. At 10.6 cubic feet, cargo volume is modest for a car of this size, and especially for a hatchback, which typically provides more space than a trunk. For the 2012 model year, the Volt includes three years of full OnStar service standard. Interior features include:\n\nAutomatic air conditioning\nTouch-sensitive center controls\nCruise control\nManually adjustable front seats\nFolding rear seats\nCD stereo with 7-inch touch-screen, MP3 jack and USB input\nBluetooth cell phone connectivity; Bluetooth streaming audio available (MyLink)\nAvailable Pandora and Stitcher compatibility with connected smartphone (MyLink)\nAvailable Bose premium speakers\nAvailable navigation system\n\nUnder the Hood\nFor electric-only operation, the 350-volt, 16-kilowatt-hour lithium-ion battery pack propels the car with 149 horsepower and 273 pounds-feet of torque. When the battery is depleted, a 1.4-liter four-cylinder gas engine kicks in with 84 hp to drive an electric generator. The Volt requires premium gasoline.\n\nChevrolet estimates a fully depleted Volt battery will recharge in 10 to 12 hours using common 120-volt household power. With 240 volts — which requires a charging station — the time drops to four hours. The charging station is sold separately, with installation extra. The car allows owners to schedule charging times to take advantage of off-peak rates. An application for smartphones gives owners remote control over this feature along with detailed monitoring capability. Mechanical features include:\n\nFront-wheel drive\nElectrically assisted power steering\n\nSafety\nSafety features include:\n\nFront-row knee airbags\nSide-impact airbags for the front seats\nSide curtain airbags\nAntilock brakes\nElectronic stability system\nOnStar, which includes automatic rescue notification in the event of an airbag deployment",
+      "trims": [
+        {
+          "name": "Base_Price_7990",
+          "price": "$7990",
+          "specifications": {}
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/180d27a8-40b6-4012-9dd9-f92c9cf59514.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/032b8875-25f5-4125-b745-e42d0295879b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/bce85af0-45ac-4fe9-8de0-7f24fa75cb37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/781e9be5-7b4f-4701-ae28-830ee6c621af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/43b05d4e-c879-49cf-904e-20b648c57050.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/7b488460-029d-4607-aa16-8a669c7ce445.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/41a1290e-aa12-4ada-ba01-69731cd6588b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/bce85af0-45ac-4fe9-8de0-7f24fa75cb37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/9141f60e-495d-4f32-ad40-a7a36dbd2476.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/7d2360ab-5f9d-4cb5-890e-0ea0cdb98756.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/d2b71b2d-d4b1-48ec-9191-6c423dfd5f0c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/d0292869-9615-4b10-916b-1549a5f502e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/fa914d89-65d6-44c8-88fb-477a1cf1dd25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/109e8e68-77ce-494e-bff4-668000811a37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/9d3fca86-999a-41ad-a17c-3149e44cac56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/73b2b22c-d8c5-4e05-b05e-b1d49b0d387e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/1cc2f77f-0c34-486d-97f6-87f806bf0c2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/0f45ea47-62d2-4309-a021-9f1ee2bd3bb2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/9f155f61-23e4-4c84-a4e7-14c3f89acf3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/e7113180-2692-4204-8e93-86c7f51bb398.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/0f44b09b-dec8-4fa0-a087-eb1c97712753.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2863be4a-89c6-4c4d-b1cd-1147a2e41530/943717c6-dbf3-44ee-9cec-4e4f9214b486.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nUnlike conventional hybrids, which drive the wheels with electric or gas power, the Volt is a battery-powered electric car that has a gas-powered range-extending generator onboard to keep the car going if the charge runs out. The Volt is essentially a four-door hatchback family car with two rear seats separated by a console that houses part of the car’s long, T-shaped battery pack.\nNew for 2013\nThe Volt gets a slight increase in estimated EV driving range, up to 38 miles max per charge compared to last year’s 35. A new Hold drive mode now allows owners to conserve battery charge for use in the most efficient way. All models now get a body-colored roof and rear liftgate. A new Silver Topaz Metallic exterior color and Pebble Beige interior finishes are available. New interior options include heated cloth seats, a removable rear armrest and GPS navigation to accompany the MyLink information and entertainment system. The Volt also gets new advanced safety features like available lane departure warning and forward collision alert technology.  \nExterior\nThe Volt is unmistakable as a recent Chevy design, and though its profile and rear hatch design suggest it’s something different, it’s not as conspicuously styled as some efficient cars, including the Nissan Leaf. The front grille looks like it allows little cooling air into the engine compartment and it’s true, but plenty of air enters through an opening low on the bumper.\n\nAs expected, the Volt has two places to “fuel” up: a conventional gas filler door on the right rear fender and a charging port on the driver-side front fender. Exterior features include:\n\n\nLED daytime running lights\nBody-colored roof and deck lid  \nPower-adjustable heated side mirrors with integrated turn signals\nSeventeen-inch aluminum wheels\nAvailable front and rear parking sensors\n\nInterior\nThe Volt’s cabin seats four and is outfitted with cloth seats; leather is an option. At 10.6 cubic feet, cargo volume is modest for a car of this size, and especially for a hatchback, which typically provides more space than a trunk. Interior features include:\n\nAutomatic air conditioning\nTouch-sensitive center controls\nCruise control\nManually adjustable front seats\nFolding rear seats with optional armrest \nCD stereo with 7-inch touch-screen, MP3 jack and USB input\nStandard MyLink multimedia system with available navigation\nBluetooth cellphone connectivity; Bluetooth streaming audio through the MyLink system\nPandora and Stitcher compatibility with connected smartphone (MyLink)\nAvailable Bose premium speakers\n\nUnder the Hood\nFor electric-only operation, the 350-volt, 16-kilowatt-hour lithium-ion battery pack propels the car with 149 horsepower and 273 pounds-feet of torque. When the battery is depleted, a 1.4-liter four-cylinder gas engine kicks in with 84 hp to drive an electric generator. The Volt requires premium gasoline.\n\nChevrolet estimates a fully depleted Volt battery will recharge in 10 to 12 hours using common 120-volt household power. With 240 volts — which requires a charging station — the time drops to four hours. The charging station is sold separately, with installation extra. The car allows owners to schedule charging times to take advantage of off-peak rates. An application for smartphones gives owners remote control over this feature along with detailed monitoring capability. Mechanical features include:\n\n\nFront-wheel drive\nElectrically assisted power steering\nNew battery conserving driving mode\n\nSafety\nSafety features include:\n\n\nFront-row knee airbags\nSide-impact airbags for the front seats\nSide curtain airbags\nAntilock brakes\nElectronic stability system\nOnStar, which includes automatic rescue notification in the event of an airbag deployment\nAvailable lane departure warning\nAvailable forward collision alert",
+      "trims": [
+        {
+          "name": "Base_Price_4999",
+          "price": "$4999",
+          "specifications": {}
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/b5e3ab56-5ba3-4012-81ac-526968cfb13a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cb5d57ec-415a-4c1d-b36a-8a69847f4606/64e658c3-4f82-4eee-b94b-58f62c8501ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/2b99d0b5-34e8-4ed2-a98d-d7737ffc4bc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/69c184fb-7d6e-4de9-9e5e-64aa9f6b6210.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/72892bd0-65e6-422f-83ce-c76533aad11e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/4f47f9fc-4fd9-4180-97b0-ddb32584796d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/d1208e9c-e8d2-41b0-bbed-a130428a2efc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/86461fd7-e0d6-4187-8302-3166b79724bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/acb8ce93-60a5-4bfc-b79c-938baae032a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/20499b4f-cef0-4839-ae07-3d524b0be8e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/1c64cca8-2580-470f-a8d4-bf9b1a0d5f5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/8eaa8298-ea50-41ab-a689-df726de6d4d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/b52e6aa8-a159-4a88-8c89-78d3118bb43f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/88e0c6b0-6358-4feb-8a43-3d15735572d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/ef013a15-b56f-41a5-a482-d0a9cff53195.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/4303c873-2764-4caf-be2d-b17abbbdd1e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/ac1c860a-59f1-4a24-82d3-11d2da99c551.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/fd758f2f-7443-4950-aa5a-424697fe0ff6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/62a80950-bbbe-480c-a298-92ef9a0a8eaa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/768bc576-f327-4082-8d46-30e4d9234a0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/fce2e522-0c04-4cf6-a433-1eb0ee37bc0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/1be9aff6-3a2f-497e-9e3b-14bd9183563b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/6a463586-036a-480e-87c3-38d1f814d763.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/d93ffb0a-5e76-42a9-8833-002c80ddeba6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/95179679-f06e-4815-8c70-549a681d22c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/7f585606-b394-4d6d-be7e-e4d51031604c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/672013fe-83c4-43ec-8999-5dd00fef989a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/a0ad4e63-2f17-4edc-a067-10640cbfa453.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/e5b68a48-1f22-4c17-b72e-986851ee1e4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/4f297a83-0e17-4642-8aed-f541c1d15472.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/034f7439-2c5b-41a7-bd78-31132807f79b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/f8247f78-98e3-4867-becd-4322e9abac20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/06897506-13ee-4bcb-a790-899d2a382ac2/aceb58b7-9392-437d-9fd2-4b803b69ea44.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "5dr HB LT",
+          "price": "$33220",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB Premier",
+          "price": "$37570",
+          "specifications": {
+            "Notable features": [
+              "Plug-in battery-electric car",
+              "EPA-estimated 53-mile electric-only range",
+              "Gas-powered, range-extending generator",
+              "Total range in excess of 400 miles"
+            ],
+            "Highlights": [
+              "53 mi. Range",
+              "5 Seat capacity",
+              "60 month/100,000 miles (FLT) Warranty",
+              "Gas/Electric I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "294 SAE Net Torque @ RPM",
+              "149 SAE Net Horsepower @ RPM",
+              "1.5L/-TBD- Displacement",
+              "Gas/Electric I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Compound Crank Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "9 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,543 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Optional Automatic Parking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "10.00 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "10.87 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Regenerative Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/df5d04aa-09b8-4819-88ad-655121687880.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/b621e50a-83eb-4385-9854-73ff7ec8b468.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/08d2a7e7-61d5-4b9f-9f56-d71014f168d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/b347e782-bcd4-408e-a46e-6c00f65cd0be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/40e7d45f-5a2f-438f-8bba-9ef0829029cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/b25de2ba-0ca7-44f0-b4c0-089782bd0dd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/6bb065af-c0d9-4fbd-85ed-2d76ff30db35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/aebc63fe-e85c-4f8f-ae17-ce0e51ef1a47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/0a9da433-e47d-49ef-adfc-4f59a8db6e69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/389666b6-e912-42f8-b165-54ac98776115.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/6266bda7-853a-4187-9080-1246cdc4da27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/7a2a0f66-c0a4-4394-9d59-8926508e0327.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/987c4a53-eea6-4202-8e5c-59c3934085cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/17c3ca2a-b3f9-46b4-8720-cd766672ba5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/cce059c7-7796-463b-b30c-0523a7f2dfe9.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/83f9286f-395e-4f9a-951b-78c6f79f0795/8272f37c-7e84-476e-847b-d516f2af7f46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/1a3d48d0-5951-4389-a506-02ff8632550a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/88753482-e44c-43ea-af33-3621b1107816.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/4299ba24-df47-4cd8-b0f2-477ab76ac4b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/a358f798-d56d-43f5-8dc9-c642c371cfb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/658aacc5-82d3-4b80-a33d-a80cd205db70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3a5bf0-cf30-4ede-8737-dee768811623/8a097505-5143-4ba2-821e-e2bbddd8c433.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in December 2015 for the all-new 2016 Chevrolet Volt. Nothing major has changed for 2017, but to see what’s new, click here. Or to see a side-by-side comparison of the two model years, click here.\n\nThe standard practice of many Japanese automakers is to change popular models minimally from generation to generation. It may seem obvious, but “fix only what’s broken” is not something American automakers often practice. Instead, they’re fans of the “start over and change everything” school of thought.\n\nThat’s why the 2016 Chevrolet Volt is a revelation: It’s an obvious, serious refinement of the current model, a product of GM listening to customers and fixing only what was wrong while quietly improving what was already good (compare the 2015 and 2016 models here). The result is a new and improved Volt that looks, feels and performs better in almost every way.\n\nExterior & Styling\n\nIf you see a new Volt on the street and think it’s a Honda, you’ll be forgiven. From the low, pointed front end to the much bigger taillights and the side window trim that connects them, the new Volt looks more like a modern Honda Civic or FCX Clarity fuel-cell car than it looks like its old self.\n\nThis is not a bad thing; the best thing that could be said about the old Volt was that it was an obvious product of the wind tunnel. The new car is one that will appeal to shoppers who are just seeking a stylish compact sedan, never mind the Volt’s impressive electric abilities. You can tell Chevrolet stylists had more time to work on the Volt this time around, as it’s far more attractive and much more conventional in its styling.\n\nHow It Drives\n\nUnlike the “Gen 1” Volt, for which Chevrolet had to guess what customers wanted in a range-extended electric car, the “Gen 2” model has 80,000 vocal owners who provided tons of feedback to the company about what needed to change (full disclosure: I personally lease a Gen 1 Volt). First among them was range — and Chevy delivered. The company redesigned the lithium-ion battery pack to eliminate more than 30 percent of the battery cells, but increased the pack’s capacity overall.\n\nThe result is that the Volt is now certified to go 53 miles on electricity alone (up from 38 miles for the 2015 model) before the new, larger 1.5-liter gasoline engine kicks in to keep it going up to 420 miles total. The combination of the gas engine and a redesigned, two-motor electric drive system has eliminated nearly 100 pounds from the powertrain alone. Factor in the lighter battery pack, and the whole car is 200 pounds lighter than the one it replaces.\n\nThe Volt feels different than it has in the past. The new electric motors have improved the zero-to-30-mph feel, giving the car a much more sprightly, agile feeling in everyday driving. It’s still a heavy car despite being more than 200 pounds lighter, but it no longer feels like the hefty tank that the Gen 1 resembled (that’s what dropping the equivalent of a constant passenger can do).\n\nIt’s replaced by an experience that can best be described as “premium,” thanks to the absolutely silent electric operation; the nicely weighted, well-balanced steering; and the smooth, well-damped ride. It’s a far nicer experience than what you get in a 2015 Toyota Prius hybrid — no continuously variable automatic transmission drone, no whining motors. (We’ve yet to test the redesigned 2016 Prius.)\n\nGetting that 53 miles of range is not going to be difficult, either. In aggressive driving through the Marin Headlands north of San Francisco, I managed to go 45 miles without a problem, and another driver on my program made a point to drive conservatively and achieved more than 60 miles on electric power.\n\nUsing the new “regen” button on the back of the steering wheel and keeping the transmission in “L” for more aggressive use of regenerative braking do make a difference. The Volt always uses the vehicle’s forward momentum to convert motion back into electricity. Putting the car in “L” makes this software more aggressive, so when you lift off the accelerator, you feel the car slow more dramatically rather than coasting along effortlessly. Tapping the regen button creates even more resistance, slowing the car even more aggressively and generating more juice in return. Over time, using the button instead of just tapping the brakes lets you recapture a lot of energy, since the car’s electric motors can also act as generators.\n\nFour driving modes are available. Normal feels like the Gen 1’s Sport mode thanks to the new car’s higher torque output and more aggressive tuning. The new Sport mode is even more aggressive, making it a little too jumpy in stop-and-go traffic. Mountain is for driving in conditions with long uphill grades, as it turns on the engine to add some reserve battery power so as not to have to rely solely on the engine’s generating output to get you through the Rockies. Hold mode allows you to keep the battery charge wherever it’s at when you push the button. That’s useful if you know you’ve got a long highway stretch in between periods of around-town driving. In such conditions, the Volt is more efficient if you let the engine help power the car at highway speeds and save the all-electric power for in-town, lower-speed driving, where electric is the more efficient approach.\n\nOnce the car has run out of battery power, it makes use of the range-extending engine to achieve an average of 42 mpg in combined driving (up from 37 mpg previously). It’s not quite what a Prius can get (50 mpg combined), but much better than a Ford C-Max Energi (38 mpg combined). Even better, the Volt now takes regular unleaded rather than premium gas.\n\nBy the time Cars.com sold its long-term 2011 Chevrolet Volt, one of the first models sold in the U.S., our editors unanimously cited its uneven braking and pedal feel as one of the car’s worst aspects. The 2016 has proved controversial; some of our editors believe the new braking system is improved, some think it feels no different. As a Volt owner myself, I recognize some improvement in the system, but it remains one of the car’s weakest links (second to poor outward visibility).\n\nInterior\n\nThe Gen 1 Volt was nice inside, but its touch-sensitive control panel fell short. It looked cool at first, but using it was a pain; there seemed to be no organizational logic to how controls were arranged, and it was easy to accidentally activate something by brushing against the panel. The Gen 2 Volt completely rethinks the interior, and the result is perhaps the best mixture of touch-screen tech and dedicated buttons I’ve yet seen in a new car.\n\nAll the materials inside have been upgraded, with excellent cloth seats standard and optional leather ones. The resculpted seats feel bigger, and upgraded dashboard and console materials give the car a much more premium look and feel. There’s decent room in front, even if visibility is still extremely compromised by the car’s thick pillars.\n\nThat remains my biggest gripe with the Volt, but it isn’t something Chevrolet can change without a major rethink of the car. The previous generation’s bisected rear window has been revised into a single, deeper glass panel, which helps rearward visibility. There’s still no rear wiper option, though, which is odd for a car with such a flat glass hatch. At least the liftgate is lighter now, so it doesn’t slam closed with a crash that makes you worry for the structure, like the Gen 1’s did.\n\nThat fifth-place seat you’ve heard about in the rear? Forget about it. Even putting a child back there for a brief trip would be problematic, despite what Chevy says. For now it’s easier to just accept that the Volt remains a four-seat car. That said, in the Gen 1 we found the tall center console in back interfered with child-safety-seat placement, so it’s possible the new center “seat” will provide welcome spillover space. We’ll report back once we’ve completed a Cars.com Car Seat Check.\n\nInterior colors also feed the premium feel of the Volt, with a two-tone black-and-tan option that’s dramatic, if a bit too orange.\n\nErgonomics & Electronics\n\nThe interior controls are simply fantastic. There’s a new screen with updated graphics behind the steering wheel, and the center touch-screen is big, bright and easy to use. Frequently used functions are controlled by dedicated knobs and switches (are you paying attention, Honda?), while the deeper functions can easily be found using the latest version of Chevy MyLink. Apple CarPlay is standard and works well most of the time. Our version crashed a couple of times while playing music over a USB cord from an iPhone 6S Plus, but that may have been a pre-production software issue.\n\nAndroid Auto is coming as well, but not until the middle of 2016. Suffice it to say that the Volt is at least one generation of sophistication ahead of the 2015 Prius family in its multimedia systems. The latest upcoming Sync 3 system from Ford, however — which will find its way into the C-Max soon — gives it a good run for its money. But the Volt has Apple CarPlay and (soon) Android Auto, which gives it (and most other 2016 Chevrolets) an edge.\n\nCargo & Storage\n\nBeing a hatchback, the Volt has a decent amount of cargo room, even if it doesn’t look like it. You’ll be surprised what will fit back there given Chevrolet lists only 10.6 cubic feet of cargo space — the same as 2015 — and doesn’t provide a figure for when the rear seats are folded, which makes the space quite large. It’s easy to fit a few big suitcases or a large haul from Costco in the cargo area. The Prius Plug-In lists a more sizeable 21.6 cubic feet of cargo space, but it sure doesn’t look like twice the room. Chalk this up to differing measuring techniques among automakers, as there is no standard for measuring cargo space in the industry.\n\nThis becomes apparent when we see the C-Max Energi listing 19.2 cubic feet of space despite its compromised cargo area (thanks to a larger lithium-ion battery for electric-only operation versus the regular C-Max, which is listed at 24.5 cubic feet).\n\nSafety\n\nThe latest Volt has not yet been crash-tested by the National Highway Traffic Safety Administration or the Insurance Institute for Highway Safety (it’s too new).\n\nIn addition to the new interior, fancy skin and upgraded technology, Chevy has added some additional safety features, too. Automatic lane keep assist, lane departure warning, blind spot monitor with rear cross-traffic alert, forward collision alert with autonomous braking and automatic parallel parking are optional. All of it works seamlessly and unobtrusively. See a list of the Volt’s standard features here.\n\nValue in Its Class\n\nThe new 2016 Volt is an extremely impressive upgrade to what was already an enjoyable, if somewhat flawed, vehicle. With the changes, the Volt’s premium feel and more conventional interior controls make it a much more enjoyable car to drive than the previous model, and a far more premium vehicle than the 2015 Toyota Prius.\n\nStarting nearly $1,200 less than the 2015 Volt, it’s more affordable, as well, with an LT trim featuring a base price of $33,995 (including destination fee). The better-equipped, leather-lined Premium trim starts at $38,345 and tops out around $44,000. This comes before the $7,500 federal income tax incentive, or any additional state and local incentives that can also shave thousands off the price. Be sure to explore leasing options, as well, as electric vehicles like the Volt tend to have very favorable subsidized leases.\n\nCompetition is still not entirely an apples-to-apples comparison, as no car on the market can do what the Volt does – drive 50-plus miles on electric power only and continue to more than 400 miles at 42 mpg before needing refueling. The 2015 Toyota Prius Plug-in offers only a paltry 11 miles of electric range before it operates as a hybrid again, at an estimated 50 mpg combined.\n\nLikewise, the Ford C-Max Energi is also a plug-in hybrid with a larger battery, enabling it to go a claimed 20 miles on electric power only (though my experience with that vehicle saw it turn in far less than 20 miles). They’re all priced within a few thousand dollars of each other, but the only other range-extended EV on the market costs significantly more: The BMW i3 is closest to the Volt in concept, but is a smaller, subcompact city car.\n\nThe i3 goes about 72 miles on electric power before a small BMW motorcycle engine kicks in to let it get about 80 more at 39 mpg combined, using premium gas. This limits the utility of the i3 as compared with the Volt, as taking it on an interstate journey would be difficult in some parts of the country. The i3 is also significantly more expensive, with the range-extended model starting at $47,245. Compare all four here.\n\nPrevious Volt owners will find good reason to upgrade to the new model, and potential customers who hadn’t really considered an EV will find in the new Volt a car that will please them even on its non-EV merits alone.",
+      "trims": [
+        {
+          "name": "5dr HB LT",
+          "price": "$33220",
+          "specifications": {}
+        },
+        {
+          "name": "5dr HB Premier",
+          "price": "$37570",
+          "specifications": {}
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/f2f3349b-6968-4723-b114-5ce449abd290.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/a9fc5a75-0964-4d6f-9f28-e7bdf50bbc09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/eae8186e-5302-41d1-a557-09e50031425a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/a22dbaa7-0a0b-4b8a-be57-710cb864ce15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/51a40402-f93b-43d1-baad-23fef298f39a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/53355d3d-bf49-4281-9c3e-824e749756d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/72847843-7734-4039-a5e4-02d6ebe8606a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/f3c7828b-c08e-4aea-9d2e-2a439ea5ca3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/9ea80be0-ba6d-48f1-8b8b-7624534076a7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/f3c7828b-c08e-4aea-9d2e-2a439ea5ca3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/78084248-96ab-437c-b00c-403ff1215df2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/ab47a76e-0b64-4e15-bf36-4dae0557e1bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/d324377d-2463-4d23-8a6f-e93868f5531d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/93be4576-2571-423b-9a5c-f68f3d1ccf2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/e7ce8177-dc02-4953-8ede-1952c76170bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/4e548d1e-4eff-46ff-8df6-99ffff87e3bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/260be57c-328b-4c85-85a2-61b50cdecf53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/208eadb2-dffd-4e3d-b5b8-19e5bae9e983.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/60da8f87-6541-4141-a3ae-0c572e6fe219.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/994f6864-23b6-444a-aede-5ac7ba952167.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/18ddb546-7a13-41c6-9074-5da8946d753a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4f4497d5-444c-4439-978b-0d166d770f55/bdd0cb53-a78e-4751-a333-0a5f41f7f3ad.png"
+      ],
+      "expert_review": "Chevrolet has transformed the Volt from a quirky science experiment into an extremely impressive premium compact sedan, with far more refinement and usable technology than any of its competitors.\n\nThe standard practice of many Japanese automakers is to change popular models minimally from generation to generation. It may seem obvious, but “fix only what’s broken” is not something American automakers often practice. Instead, they’re fans of the “start over and change everything” school of thought.\n\nThat’s why the 2016 Chevrolet Volt is a revelation: It’s an obvious, serious refinement of the current model, a product of GM listening to customers and fixing only what was wrong while quietly improving what was already good (compare the 2015 and 2016 models here). The result is a new and improved Volt that looks, feels and performs better in almost every way.\n\nExterior & Styling\nIf you see a new Volt on the street and think it’s a Honda, you’ll be forgiven. From the low, pointed front end to the much bigger taillights and the side window trim that connects them, the new Volt looks more like a modern Honda Civic or FCX Clarity fuel-cell car than it looks like its old self.\n\nThis is not a bad thing; the best thing that could be said about the old Volt was that it was an obvious product of the wind tunnel. The new car is one that will appeal to shoppers who are just seeking a stylish compact sedan, never mind the Volt’s impressive electric abilities. You can tell Chevrolet stylists had more time to work on the Volt this time around, as it’s far more attractive and much more conventional in its styling.\n\nHow It Drives\nUnlike the “Gen 1” Volt, for which Chevrolet had to guess what customers wanted in a range-extended electric car, the “Gen 2” model has 80,000 vocal owners who provided tons of feedback to the company about what needed to change (full disclosure: I personally lease a Gen 1 Volt). First among them was range — and Chevy delivered. The company redesigned the lithium-ion battery pack to eliminate more than 30 percent of the battery cells, but increased the pack’s capacity overall.\n\nThe result is that the Volt is now certified to go 53 miles on electricity alone (up from 38 miles for the 2015 model) before the new, larger 1.5-liter gasoline engine kicks in to keep it going up to 420 miles total. The combination of the gas engine and a redesigned, two-motor electric drive system has eliminated nearly 100 pounds from the powertrain alone. Factor in the lighter battery pack, and the whole car is 200 pounds lighter than the one it replaces.\n\nThe Volt feels different than it has in the past. The new electric motors have improved the zero-to-30-mph feel, giving the car a much more sprightly, agile feeling in everyday driving. It’s still a heavy car despite being more than 200 pounds lighter, but it no longer feels like the hefty tank that the Gen 1 resembled (that’s what dropping the equivalent of a constant passenger can do).\n\nIt’s replaced by an experience that can best be described as “premium,” thanks to the absolutely silent electric operation; the nicely weighted, well-balanced steering; and the smooth, well-damped ride. It’s a far nicer experience than what you get in a 2015 Toyota Prius hybrid — no continuously variable automatic transmission drone, no whining motors. (We’ve yet to test the redesigned 2016 Prius.)\n\nGetting that 53 miles of range is not going to be difficult, either. In aggressive driving through the Marin Headlands north of San Francisco, I managed to go 45 miles without a problem, and another driver on my program made a point to drive conservatively and achieved more than 60 miles on electric power.\n\nUsing the new “regen” button on the back of the steering wheel and keeping the transmission in “L” for more aggressive use of regenerative braking do make a difference. The Volt always uses the vehicle’s forward momentum to convert motion back into electricity. Putting the car in “L” makes this software more aggressive, so when you lift off the accelerator, you feel the car slow more dramatically rather than coasting along effortlessly. Tapping the regen button creates even more resistance, slowing the car even more aggressively and generating more juice in return. Over time, using the button instead of just tapping the brakes lets you recapture a lot of energy, since the car’s electric motors can also act as generators.\n\nFour driving modes are available. Normal feels like the Gen 1’s Sport mode thanks to the new car’s higher torque output and more aggressive tuning. The new Sport mode is even more aggressive, making it a little too jumpy in stop-and-go traffic. Mountain is for driving in conditions with long uphill grades, as it turns on the engine to add some reserve battery power so as not to have to rely solely on the engine’s generating output to get you through the Rockies. Hold mode allows you to keep the battery charge wherever it’s at when you push the button. That’s useful if you know you’ve got a long highway stretch in between periods of around-town driving. In such conditions, the Volt is more efficient if you let the engine help power the car at highway speeds and save the all-electric power for in-town, lower-speed driving, where electric is the more efficient approach.\n\nOnce the car has run out of battery power, it makes use of the range-extending engine to achieve an average of 42 mpg in combined driving (up from 37 mpg previously). It’s not quite what a Prius can get (50 mpg combined), but much better than a Ford C-Max Energi (38 mpg combined). Even better, the Volt now takes regular unleaded rather than premium gas.\n\nBy the time Cars.com sold its long-term 2011 Chevrolet Volt, one of the first models sold in the U.S., our editors unanimously cited its uneven braking and pedal feel as one of the car’s worst aspects. The 2016 has proved controversial; some of our editors believe the new braking system is improved, some think it feels no different. As a Volt owner myself, I recognize some improvement in the system, but it remains one of the car’s weakest links (second to poor outward visibility).\n\nInterior\nThe Gen 1 Volt was nice inside, but its touch-sensitive control panel fell short. It looked cool at first, but using it was a pain; there seemed to be no organizational logic to how controls were arranged, and it was easy to accidentally activate something by brushing against the panel. The Gen 2 Volt completely rethinks the interior, and the result is perhaps the best mixture of touch-screen tech and dedicated buttons I’ve yet seen in a new car.\n\nAll the materials inside have been upgraded, with excellent cloth seats standard and optional leather ones. The resculpted seats feel bigger, and upgraded dashboard and console materials give the car a much more premium look and feel. There’s decent room in front, even if visibility is still extremely compromised by the car’s thick pillars.\n\nThat remains my biggest gripe with the Volt, but it isn’t something Chevrolet can change without a major rethink of the car. The previous generation’s bisected rear window has been revised into a single, deeper glass panel, which helps rearward visibility. There’s still no rear wiper option, though, which is odd for a car with such a flat glass hatch. At least the liftgate is lighter now, so it doesn’t slam closed with a crash that makes you worry for the structure, like the Gen 1’s did.\n\nThat fifth-place seat you’ve heard about in the rear? Forget about it. Even putting a child back there for a brief trip would be problematic, despite what Chevy says. For now it’s easier to just accept that the Volt remains a four-seat car. That said, in the Gen 1 we found the tall center console in back interfered with child-safety-seat placement, so it’s possible the new center “seat” will provide welcome spillover space. We’ll report back once we’ve completed a Cars.com Car Seat Check.\n\nInterior colors also feed the premium feel of the Volt, with a two-tone black-and-tan option that’s dramatic, if a bit too orange.\n\nErgonomics & Electronics\nThe interior controls are simply fantastic. There’s a new screen with updated graphics behind the steering wheel, and the center touch-screen is big, bright and easy to use. Frequently used functions are controlled by dedicated knobs and switches (are you paying attention Honda?), while the deeper functions can easily be found using the latest version of Chevy MyLink. Apple CarPlay is standard and works well most of the time. Our version crashed a couple of times while playing music over a USB cord from an iPhone 6S Plus, but that may have been a pre-production software issue.\n\nAndroid Auto is coming as well, but not until the middle of 2016. Suffice it to say that the Volt is at least one generation of sophistication ahead of the 2015 Prius family in its multimedia systems. The latest upcoming Sync 3 system from Ford, however — which will find its way into the C-Max soon — gives it a good run for its money. But the Volt has Apple CarPlay and (soon) Android Auto, which gives it (and most other 2016 Chevrolets) an edge.\n\nCargo & Storage\nBeing a hatchback, the Volt has a decent amount of cargo room, even if it doesn’t look like it. You’ll be surprised what will fit back there given Chevrolet lists only 10.6 cubic feet of cargo space — the same as 2015 — and doesn’t provide a figure for when the rear seats are folded, which makes the space quite large. It’s easy to fit a few big suitcases or a large haul from Costco in the cargo area. The Prius Plug-In lists a more sizeable 21.6 cubic feet of cargo space, but it sure doesn’t look like twice the room. Chalk this up to differing measuring techniques among automakers, as there is no standard for measuring cargo space in the industry.\n\nThis becomes apparent when we see the C-Max Energi listing 19.2 cubic feet of space despite its compromised cargo area (thanks to a larger lithium-ion battery for electric-only operation versus the regular C-Max, which is listed at 24.5 cubic feet).\n\nSafety\nThe latest Volt has not yet been crash-tested by the National Highway Traffic Safety Administration or the Insurance Institute for Highway Safety (it’s too new).\n\nIn addition to the new interior, fancy skin and upgraded technology, Chevy has added some additional safety features, too. Automatic lane keep assist, lane departure warning, blind spot monitor with rear cross-traffic alert, forward collision alert with autonomous braking and automatic parallel parking are optional. All of it works seamlessly and unobtrusively. See a list of the Volt’s standard features here.\n\nValue in Its Class\nThe new 2016 Volt is an extremely impressive upgrade to what was already an enjoyable, if somewhat flawed, vehicle. With the changes, the Volt’s premium feel and more conventional interior controls make it a much more enjoyable car to drive than the previous model, and a far more premium vehicle than the 2015 Toyota Prius.\n\nStarting nearly $1,200 less than the 2015 Volt, it’s more affordable, as well, with an LT trim featuring a base price of $33,995 (including destination fee). The better-equipped, leather-lined Premium trim starts at $38,345 and tops out around $44,000. This comes before the $7,500 federal income tax incentive, or any additional state and local incentives that can also shave thousands off the price. Be sure to explore leasing options, as well, as electric vehicles like the Volt tend to have very favorable subsidized leases. Option a new Volt up your way here.\n\nCompetition is still not entirely an apples-to-apples comparison, as no car on the market can do what the Volt does – drive 50-plus miles on electric power only and continue to more than 400 miles at 42 mpg before needing refueling. The 2015 Toyota Prius Plug-in offers only a paltry 11 miles of electric range before it operates as a hybrid again, at an estimated 50 mpg combined.\n\nLikewise, the Ford C-Max Energi is also a plug-in hybrid with a larger battery, enabling it to go a claimed 20 miles on electric power only (though my experience with that vehicle saw it turn in far less than 20 miles). They’re all priced within a few thousand dollars of each other, but the only other range-extended EV on the market costs significantly more: The BMW i3 is closest to the Volt in concept, but is a smaller, subcompact city car.\n\nThe i3 goes about 72 miles on electric power before a small BMW motorcycle engine kicks in to let it get about 80 more at 39 mpg combined, using premium gas. This limits the utility of the i3 as compared with the Volt, as taking it on an interstate journey would be difficult in some parts of the country. The i3 is also significantly more expensive, with the range-extended model starting at $47,245. Compare all four here.\n\nPrevious Volt owners will find good reason to upgrade to the new model, and potential customers who hadn’t really considered an EV will find in the new Volt a car that will please them even on its non-EV merits alone.\n\nemail",
+      "trims": [
+        {
+          "name": "5dr HB LT",
+          "price": "$33170",
+          "specifications": {
+            "Notable features": [
+              "Second-generation plug-in battery-electric car",
+              "New styling inside and out, vestigial fifth seat added",
+              "EPA-estimated EV range increased to 50 miles",
+              "Gas-powered range-extending generator",
+              "Gas-powered range of 400-plus miles",
+              "8-year/100,000-mile battery warranty"
+            ],
+            "Highlights": [
+              "53 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "149 SAE Net Horsepower @ RPM",
+              "Gas/Electric I4 Engine Type",
+              "294 SAE Net Torque @ RPM",
+              "1.5L/91 Displacement"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Compound Crank Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "9 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,543 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Navigation System",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Regenerative Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "10.87 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "10.00 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "5dr HB Premier",
+          "price": "$37520",
+          "specifications": {
+            "Notable features": [
+              "Second-generation plug-in battery-electric car",
+              "New styling inside and out, vestigial fifth seat added",
+              "EPA-estimated EV range increased to 50 miles",
+              "Gas-powered range-extending generator",
+              "Gas-powered range of 400-plus miles",
+              "8-year/100,000-mile battery warranty"
+            ],
+            "Highlights": [
+              "53 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I4 Engine Type",
+              "1.5L/91 Displacement",
+              "149 SAE Net Horsepower @ RPM",
+              "294 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Compound Crank Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,543 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "9 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Navigation System",
+              "Optional Automatic Parking",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Regenerative Brake Type",
+              "10.87 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "10.00 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/11f5c8bf-1671-4be6-8c33-10c26f9ab34e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/5a414473-b8db-47a3-a9a5-272dccf531c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/12f614f6-05d0-4ae2-b689-019d1e6256d1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/4f7574a8-7b05-4ade-a8c5-3985e7db0dcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/4f7574a8-7b05-4ade-a8c5-3985e7db0dcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/19140ba7-f05d-468a-b5a2-d90e1e4aebbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/f33ed6c9-bab8-482a-89c3-3a32a19664b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/8e0bb132-71c9-4200-a4c9-9655f0be7c2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/1ee23fc7-b926-4ef0-8d15-f88849fae8fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/2226a1d9-f848-452e-84b7-6de6cfd25577.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/c17a5717-31f1-47f1-a186-20857cf85ac9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/e8f66328-deb7-49bf-ad16-1131236930be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/a0bc7890-7da3-49ca-bcd4-1ac841930672.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/fbdb3aa2-e759-454a-a92e-49da4305e421.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/8305c590-3c53-4f5d-b3f9-3ed8f3d78eea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a708d505-1a3c-4d41-8c1d-21c81ac1cbef/c099a93a-ba7d-4721-aa14-f27fdc2c4a5f.png"
+      ],
+      "expert_review": "Chevrolet has released details about the 2019 Volt plug-in hybrid compact hatchback, which now features an updated onboard charger that allows it to recharge its battery in half the time of the 2018 model. The new 7.2-kilowatt charger is double the capacity of the old model, and when the car is plugged into a 240-volt Level 2 outlet, it will enable the Volt to recharge its lithium-ion battery pack in just 2.3 hours — down from the roughly four hours it takes now.\n\nRelated: 2017 Chevrolet Volt Review\n\nChevy says that this is meant to help owners who take advantage of “opportunity charging” — plugging their Volt in at places other than their home or office, perhaps while out running errands around town. With charging now a speedier affair, owners can remain in all-electric mode, something Volt owners generally prefer to be in as much as possible.\n\nThe gasoline engine in the Volt remains unchanged and still kicks in when needed to either keep the car going once the battery has been depleted, or to provide a little extra propulsive force when needed. Range and efficiency are unchanged — the Volt is still rated to go 53 miles on a full electric charge (although we have been known to get more than that) and 420 miles on a combination of electricity and gasoline. The new 7.2-kW charger is standard on the Premier trim level for the Volt and optional on the lesser LT model.\n\nChevy also updated a few other minor things for the 2019 Volt 2019, mostly aimed at improving efficiency. There’s a new Energy app that helps drivers adjust their driving style and accessory usage to maximize efficiency. It also has new low and regen on demand calibrations that are meant for smoother drivability.\n\nAnother new feature is the ability to defer the engine-assisted cabin heater to now activate at much lower temperatures than before. The Volt fires up the gas engine when it gets too cold to save electricity for propulsion — but if you’d still rather not use gas, you can now set it to only turn on at minus 13 degrees, keeping you in electric mode regardless of weather.\n\nThe Volt adds a couple of new features like a power driver’s seat for the first time ever, driver-selectable adaptive cruise control, an updated rearview camera, a wireless charging pad, a new dealer-installed blackout package and a new Pacific Blue Metallic paint color.\n\nThe updated 2019 Chevrolet Volt will go on sale this fall.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "5dr HB LT",
+          "price": "$33520",
+          "specifications": {
+            "Notable features": [
+              "Faster charging system now available",
+              "Plug-in battery-electric car",
+              "EPA-estimated 53-mile electric-only range",
+              "Gas-powered, range-extending generator",
+              "Total range in excess of 400 miles"
+            ],
+            "Highlights": [
+              "53 mi. Range",
+              "5 Seat capacity",
+              "60 month/100,000 miles (FLT) Warranty",
+              "Gas/Electric I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I4 Engine Type",
+              "294 @ -TBD- SAE Net Torque @ RPM",
+              "149 @ -TBD- SAE Net Horsepower @ RPM",
+              "1.5L/-TBD- Displacement"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Compound Crank Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,519 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "9 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "10 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Regenerative Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "5dr HB Premier",
+          "price": "$38120",
+          "specifications": {
+            "Notable features": [
+              "Faster charging system now available",
+              "Plug-in battery-electric car",
+              "EPA-estimated 53-mile electric-only range",
+              "Gas-powered, range-extending generator",
+              "Total range in excess of 400 miles"
+            ],
+            "Highlights": [
+              "53 mi. Range",
+              "5 Seat capacity",
+              "60 month/100,000 miles (FLT) Warranty",
+              "Gas/Electric I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I4 Engine Type",
+              "1.5L/-TBD- Displacement",
+              "149 @ -TBD- SAE Net Horsepower @ RPM",
+              "294 @ -TBD- SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Compound Crank Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "9 gal Fuel Tank Capacity, Approx",
+              "3,543 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Optional Automatic Parking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Regenerative Brake Type",
+              "11 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "10 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

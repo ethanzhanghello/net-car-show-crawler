@@ -1,0 +1,1742 @@
+{
+  "make": "kia",
+  "model": "carnival",
+  "years": {
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/fbb13f85-bee2-481b-9107-f68f9ec07fcf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/82cc5e40-d26c-45bc-8e3f-886d20b5e420.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/4b655bff-e081-444a-bae1-78fd89b9f8a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/4b1dcb22-aadf-4372-87b3-4cb895a8b9da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/90f10d75-9175-475f-bfe4-aca7f40adb00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/674d3e19-2c1d-49ca-a9aa-b432c3f526f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/dc103345-10fa-4d58-a714-04f4bd6544ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/4272feb4-eee3-4a24-b349-ff66b849bb0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/53c3d3d2-b72f-4264-803f-0aca80bd35dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/01570358-9ac3-4b67-8856-fda6e42d7596.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/d73c3b9e-d7e1-4627-a0f4-b09b09e5b318.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/846c395d-097d-426b-be74-5e867c0066ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/4e4b00f4-6f87-4c94-b220-5644f46ef595.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/0db95c1f-ae9d-4a7c-a76b-9b6cc557fcc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/9eb8d28a-cc07-40a8-9811-c1e24fbcded8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/3fe1a032-fed4-46ce-80d9-2171eee0bb2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/84328e31-8758-4675-a6a5-aefd1ff1f983.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/c62d3f05-deb2-4054-835a-3eed55db0679.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f11c1b60-bf8e-44af-ab75-14eb795741ee/35d155b7-8d61-4fee-a46e-e9b0f60473b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/72048b8f-409c-479f-8960-2af0823465fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/a9141f61-85c2-4724-a6d1-f0e59d9be290.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/8513ddb8-1b93-4e9f-9cf1-fa2f768fefc7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/07e49296-92c9-43a7-a14e-6b60b28eb0e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/16269dd6-98b9-4354-babe-4ece3a211a29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/eec3242c-3c08-4664-81f8-99ddb5b891d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/c3f138dd-0b57-4518-8b99-3cfdf6783866.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/2bd99564-168f-4a5b-b9a1-81f99f75cde0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/e079614e-6292-49cf-9f29-c6172269cd52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/cf497a4b-5cce-44ec-a663-7baac8f3d17f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d56205d0-d1d1-4a28-bace-e7d10c7072d3/1e47fe47-85b9-407d-bcd5-e7cb53c55462.png"
+      ],
+      "expert_review": "The verdict: Parents usually have a few tricks up their sleeves when it comes to carting kids around, and the 2022 Kia Carnival adds a few more much-needed features that make it less of a chore. Ride and handling issues, however, make the Carnival just short of magical. \n\nVersus the competition: The Carnival’s new convenience goodies and affordable price make it more competitive, but other minivans have more powertrain options. It also comes up short against the Chrysler Pacifica’s blend of utility, technology and driving refinement. \n\nWait, what’s the Carnival? Kia reinvented its Sedona as the Carnival for 2022, ditching the previous version’s obvious minivan styling for a more blocky, SUV-like look. It also debuts the brand’s new badge, a sleeker and more fluid version of the previous Kia logo. \n\nKia may call the Carnival a “multipurpose vehicle,” but it’s actually a minivan that competes with the Chrysler Pacifica, Honda Odyssey and Toyota Sienna. See them compared.\n\nRelated: Ferris Wheels and Cotton Candy? Not Quite, But Here Are 5 Takeaways for the 2022 Kia Carnival\n\nRoller Coaster Ride\n\nColor me surprised by the Carnival’s responsiveness — it’s quick, and not just for a minivan. The sole engine is a 3.5-liter V-6 good for 290 horsepower; it pairs with an eight-speed automatic transmission that delivers brisk, no-nonsense shifts and smooth power delivery. The drivetrain never felt lacking even fully loaded with my family of five.\n\nSadly, smoothness is not a theme. The Carnival’s soft suspension tuning makes for less than graceful handling. It careens over bumps and through turns with roller-coaster-esque dips and floatiness, and exhibits a lot of body lean in corners. The Carnival’s steering tuning doesn’t help; a light, uncommunicative steering wheel makes for a numb, disconnected driving experience.\n\nIn terms of ride, the Carnival remains composed over smaller bumps, but larger ones unsettle it with impact harshness shimmying and vibrating the cabin. The Pacifica does a better job delivering a more comfortable ride and handling balance along with better maneuverability. \n\nThe Carnival’s estimated fuel economy is similar to key rivals, but here, too, there’s room for improvement. It’s EPA-rated at 19/26/22 mpg city/highway/combined — close to the 2021 Pacifica and Odyssey’s 19/28/22 mpg ratings. My biggest complaint here is a lack of choice: Chrysler offers a plug-in hybrid Pacifica that delivers much better fuel efficiency, and the 2021 Toyota Sienna hybrid also offers impressive efficiency. The Pacifica and Sienna are also available with all-wheel drive (the Carnival is front-wheel drive only). \n\nClown Car Vibes\n\nThe Carnival is available in LX, EX, SX and SX-Prestige trims and offers two different second-row seating configurations — one that’s roomy and versatile, and one families should skip. \n\nMy SX test model came with the Slide-Flex system that makes the second row more flexible. There are three seats that slide forward and back and recline independent of each other; you can slide the middle seat forward, for example, so it’s easier for a front-seat passenger to reach a belted child. It sounds similar to the 2021 Honda Odyssey’s Magic Slide system, but with a twist: In the Carnival, you can fold down the middle seat to convert it to a table with cupholders. Cool and useful!\n\nThe SX model’s child-safety seat accommodations are also family-friendly. With three easy-access lower Latch anchors and ample room in the second row, I was able to quickly install three car seats. The third row has two sets of lower anchors, too. Read the full Car Seat Check. \n\nIn the not cool and less useful corner is the VIP Lounge Seating on the top-of-the-line SX-Prestige trim I also tested. The seats are much wider than the regular second-row captain’s chairs and have power controls, heating, ventilation, wraparound head restraints and pop-out leg extensions. This sounds lovely for getting a pedicure, not hauling around my kids. First, no one can use the third row when the seats are fully reclined because they encroach on the rear-most seating area. Second, it’s difficult to access the third row because the seats’ extra width makes the walkway between them quite narrow — even once they’re slid all the way to the side doors.\n\nThe Carnival’s small items storage spaces — a must-have for my snack-obsessed, device-happy family — aren’t that impressive, either. The center console storage box is just ho-hum in terms of size and functionality (the Pacifica and Odyssey do this much better), and there aren’t a lot of cubbies in the doors for storing small stuff. The third row has cupholders but no device storage bin that others have (which means my 10-year-old’s stuff gets tossed everywhere). It also doesn’t have underfloor storage bins like the Pacifica. \n\nIn cargo, again, the Pacifica is unbeatable thanks to its Stow ‘n Go seating system that lets you quickly and easily tumble the second-row seats into the floor. The Carnival’s regular second-row seats fold down or can be removed — a strenuous, clumsy undertaking — but the lounge seats don’t fold or come out. However, all versions of the Carnival have a third row that easily folds into the floor.\n\nBy Kia’s numbers, the Carnival has 40.2 cubic feet of manufactured-estimated cargo space behind the third row, a few cubic feet higher than its competitors. \n\nA Funhouse of Features\n\nFamily-friendly features make or break a minivan, and the Carnival has a lot more than the old Sedona. All of them are welcome — except for one. \n\nFirst, the hits: An optional in-cabin camera system with a zoom function and night vision allows first-row occupants to keep an eye on the kids in back. It’s similar to the Pacifica and Odyssey’s in-cabin cameras but better executed; the Carnival’s images are crisper and the placement of the camera gives a great view of both rows. The system is paired with a voice amplification feature — which I found gimmicky — and goes in EX, SX and SX-Prestige trims. \n\n2022 Kia Carnival SX-Prestige | Cars.com photo by Jennifer Geiger\n\nThe Carnival’s multimedia system is another hit. It comes standard with an 8-inch touchscreen display with Apple CarPlay and Android Auto. EX and higher trims have a 12.3-inch touchscreen, and the SX-Prestige gets a digital instrument cluster connected to the touchscreen under a continuous piece of glass. It looks slick, has straightforward menus and the touchscreen is very responsive. The system also has different profiles, helpful for tailoring music favorites and other settings to specific drivers.  \n\nI also found the proximity-activated hands-free sliding doors very useful. Walk up to the doors with the key in your purse or pocket and they will automatically open after three seconds — great for when your hands are full of groceries (or kids). The feature is standard across the lineup; a hands-free power liftgate is standard on all but the base model. Chrysler offers a kick-activated sliding door and cargo door system on the Pacifica, but it’s not standard. The Odyssey has an optional hands-free liftgate. \n\nThe rear entertainment system, which goes in SX and SX-Prestige trims, is a mixed bag. The good: The two large second-row touchscreens do a lot. You can connect to a Wi-Fi hot spot and stream Netflix, YouTube or the news, or connect to a device via an HDMI cable or, with an Apple or Android device, through wireless screen mirroring. There’s also a kids mode with lots of games that all three of my children enjoyed. It’s Baby Shark-branded — cringey, said my 10-year-old — but she enjoyed the games and YouTube Kids option.\n\nA few things need work. First, unlike some other vans, there’s no hot spot capability in the Carnival, so you need an external hot spot or a smartphone’s hot spot capability to connect to YouTube or Netflix. Second, you need to download a remote control app to enable the rear entertainment system even if you don’t want to use your phone to control it. This seems like an unneeded extra step since giving my phone to my kids to control the system is firmly in the “um, no way” column. (I was driving a preproduction Carnival, so it’s possible this arrangement may change.) Lastly,  the screens remind me of something out of a New York cab; rather than being flush with the seatback like the Pacifica’s Uconnect Theater dual-screen system, the screens pop up and out like an aftermarket add-on. With kids hustling in and out of the van, I could see someone snagging a backpack on one or a kid in a car seat kicking the screen. They also reduce the amount of usable space when installing a rear-facing car seat.\n\nIn the miss column is the voice recognition system that goes in EX, SX and SX-Prestige trims. It lets second-row occupants control numerous functions with voice commands by pushing a button on the ceiling. Passengers can do things like change the radio station or turn on the heated steering wheel — but why?! This is not a taxi, and giving my passengers (tiny humans prone to pranks) control is another tick in the “no way” column.\n\nMore From Cars.com:\n\n2022 Kia Carnival: The New Party Comes With a New Price\nResearch the 2022 Kia Carnival\nResearch Minivans\nFind Your Next Car\nSafety and Value\n\nThe 2022 Kia Carnival is a deal. It starts at $33,275; that’s $1,700 more than the outgoing 2021 Sedona (all prices include destination). It’s slightly more than a 2022 Honda Odyssey ($33,265) but is better equipped in terms of convenience features. The revised-for-2021 Chrysler Pacifica starts at $37,315, and the new hybrid-only 2021 Toyota Sienna is also pricier at $35,635. \n\nLike its competitors, the Carnival comes with a host of standard active-safety features: automatic emergency braking with pedestrian detection, lane keep assist, automatic lane-centering steering, a driver attention warning system, blind spot intervention, rear cross-traffic alert and reverse automatic emergency braking. In addition, the Carnival offers a couple of standard safety features others don’t have, such as an ultrasonic rear occupant alert system and the Safe Exit Assist system, which uses radar to detect approaching traffic and can prevent a rear door from opening to avoid a collision. \n\nAmong my favorites is the available blind spot view monitor that’s offered on other Kia vehicles. It projects the view from adjacent lanes in the instrument cluster when a turn signal is engaged. I find it hugely helpful when navigating city streets shared with pedestrians and cyclists.\n\n2022 Kia Carnival blind spot camera | Cars.com photo by Jennifer Geiger\n\nAlthough the Carnival’s handling needs work, it impresses in many other ways. While I’m not a huge fan of its SUV styling and Kia’s smoke-and-mirrors attempt to call it anything other than a minivan, the new Carnival is a captivating competitor.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$32300",
+          "specifications": {
+            "Notable features": [
+              "New for 2022, replacing Sedona",
+              "Seven- or eight-seat minivan",
+              "290-hp V-6, eight-speed automatic",
+              "Standard proximity-activated sliding doors",
+              "Standard Apple CarPlay and Android Auto connectivity",
+              "Standard rear occupant alert system"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "4,376 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "660 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LXS FWD",
+          "price": "$34300",
+          "specifications": {
+            "Notable features": [
+              "New for 2022, replacing Sedona",
+              "Seven- or eight-seat minivan",
+              "290-hp V-6, eight-speed automatic",
+              "Standard proximity-activated sliding doors",
+              "Standard Apple CarPlay and Android Auto connectivity",
+              "Standard rear occupant alert system"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "4,411 lbs Base Curb Weight",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "660 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$37800",
+          "specifications": {
+            "Notable features": [
+              "New for 2022, replacing Sedona",
+              "Seven- or eight-seat minivan",
+              "290-hp V-6, eight-speed automatic",
+              "Standard proximity-activated sliding doors",
+              "Standard Apple CarPlay and Android Auto connectivity",
+              "Standard rear occupant alert system"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "262 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,535 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "850 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SX FWD",
+          "price": "$41300",
+          "specifications": {
+            "Notable features": [
+              "New for 2022, replacing Sedona",
+              "Seven- or eight-seat minivan",
+              "290-hp V-6, eight-speed automatic",
+              "Standard proximity-activated sliding doors",
+              "Standard Apple CarPlay and Android Auto connectivity",
+              "Standard rear occupant alert system"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,601 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige FWD",
+          "price": "$46300",
+          "specifications": {
+            "Notable features": [
+              "New for 2022, replacing Sedona",
+              "Seven- or eight-seat minivan",
+              "290-hp V-6, eight-speed automatic",
+              "Standard proximity-activated sliding doors",
+              "Standard Apple CarPlay and Android Auto connectivity",
+              "Standard rear occupant alert system"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "262 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,727 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/db13c20b-9a64-4671-81c8-358455925b6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/88be0b48-e5c0-4d71-aa2c-ee5de3ba3a4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/5288532d-713e-422c-8940-d30af3d31416.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/874d01d0-2f59-4946-bf6e-6ef9492bae0b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/9433ce7d-7813-44a4-8b9d-349765d2dc89.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/5cadf90c-1fc6-46d4-a78e-5c36215d3be5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/3e1ba80b-b14b-4ffb-94c0-0e57ee7e3253.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/39b21063-499b-4b32-9462-4bedacb960c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/462ecc6e-141f-4594-9000-42edd87e5d4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/55e8c4ae-486c-419d-a5e8-3632ac97e965.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/ed9d5888-da2c-40a7-92b2-8a21de24ad17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/63d3e5fb-49ef-4aaa-80c8-2eca238aab18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/52befd09-8d7e-432b-98e0-999f501a9578/4fa4ae5e-c49d-4f76-85f5-204059df4cab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/bb2fd4e7-8f7a-4ec3-9f2c-e033db2d4ec6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/e911489a-5c8c-42ee-9c68-5766daab696f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/5ad7369e-82bc-4ddb-99a7-08ed9168f0e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/f1ee9e5a-f784-4ef8-978d-f063aec3d00d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/efc06a4f-90d4-41c9-af08-9db4a8a162fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/cbbf6e2a-f688-4498-8c02-75f9e464c92e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/534880ab-36c1-48ca-aef2-b189c7fc99d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/13ea7f15-3c76-4cb4-9ba9-b210bd68dd51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/34f0da8d-02d3-4d57-a38a-9dd170c7001c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/e911489a-5c8c-42ee-9c68-5766daab696f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/03027fc8-635a-4413-8ec3-529918334012.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/faeb50e8-b7dd-4d2d-9071-36abe9fa8fe0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/93fa3624-57cd-4bf6-b504-4655f9c87d69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/46e89ae7-733b-44c0-afb8-e64149d6a6de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/483bf93c-eae0-4212-a85e-033bb7fc6015.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/90756e7b-4b38-44be-b481-23ea75b8ebeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/3bedfa95-9ee4-4e93-b1ae-6d8cb65d18e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1378a96f-61e3-4bf8-8bff-79111a79bcdd/122ef77c-311c-44d1-aed2-319761723696.png"
+      ],
+      "expert_review": "What Is the 2023 Kia Carnival?\n\nThe Kia Carnival is a roomy and highly practical minivan with seating for seven or eight people. Performance is robust thanks to the Carnival’s 290-hp, 3.5-liter V-6, which is coupled to a refined eight-speed automatic transmission. Standard features are plentiful on the Carnival, and the infotainment system is notable for its ease of use. The Carnival’s balance between ride and handling, however, is less than ideal; we found the steering to be overly light and the suspension too floaty. Direct competitors to the Carnival include the Chrysler Pacifica,  Honda Odyssey and Toyota Sienna. \n\nWhat’s New on the 2023 Kia Carnival?\n\nThe Kia Carnival receives only modest changes for 2023. The SX trim now comes standard with a 12.3-inch digital instrument display to go alongside the 12.3-inch infotainment screen. On the range-topping SX Prestige trim, the second-row lounge-style captain’s chairs have been dropped from the standard equipment list, replaced by a three-seat bench. The lounge chairs are now optional.\n\nWhat Features in the 2023 Kia Carnival Are Most Important?\n\nStandard features include:\n\nCloth upholstery\nHands-free powered side doors\n8-inch touchscreen\nApple CarPlay and Android Auto\nSeven USB ports\nRemote start\nParallel park assist\nBlind spot monitoring\nRear cross-traffic alert\nLane departure steering assist\nRear-seat reminder\nSafe exit warning\n\nAvailable features include:\n\nWireless device charging\nSecond-row captain’s chairs\nRear-seat entertainment system\nHeated front seats\nHeated steering wheel\nDual sunroofs\nLeather seating surfaces\nSecond-row reclining lounge seats with heating and cooling\nDual-screen rear entertainment system\n12-speaker Bose audio system\nShould I Buy the 2023 Kia Carnival?\n\nThe 2023 Kia Carnival is a strong and sensible alternative to many SUVs, not to mention other minivans. We love the power provided by the 290-hp V-6 engine, though we wish the steering and suspension were more refined to match the powertrain. A customizable cabin with three rows of adult-friendly seating is great when you need to bring lots of people along for the ride. The optional second-row lounge seats have built-in footrests, a recline function, and heating and cooling, but keep in mind that they’re not removable, putting a serious dent in the Carnival’s maximum cargo capacity.",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$33100",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6 and eight-speed automatic",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,376 lbs Base Curb Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "660 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LX FWD w/Seat Pkg",
+          "price": "$35100",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6 and eight-speed automatic",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,411 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "660 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$38600",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6 and eight-speed automatic",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,535 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SX FWD",
+          "price": "$41800",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6 and eight-speed automatic",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "3.5 L/212 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,601 lbs Base Curb Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "850 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige FWD",
+          "price": "$46200",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6 and eight-speed automatic",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.5 L/212 Displacement",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,727 lbs Base Curb Weight",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f2ecb0d-da85-4623-a90e-4714a2e72c8b/76210194-95d1-4c02-ad18-e8e4d87c33ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f2ecb0d-da85-4623-a90e-4714a2e72c8b/1079906c-63a3-40cc-a886-3e111f66ac01.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3792e000-cfb6-4d0b-aa80-a9a37ae2a99d/aaae11c5-1080-42b5-a875-aa6fe0383e46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f2ecb0d-da85-4623-a90e-4714a2e72c8b/596b4800-acb4-40cd-bf6c-1a52a2223b94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f2ecb0d-da85-4623-a90e-4714a2e72c8b/40413c1c-e1a0-47b2-a91c-3db97461bc8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f2ecb0d-da85-4623-a90e-4714a2e72c8b/758f099e-d926-4ebe-a0c0-5f4ff656569e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8f2ecb0d-da85-4623-a90e-4714a2e72c8b/b88677eb-f5ca-45c6-9a4a-db1f4811dc1f.png"
+      ],
+      "expert_review": "After a refresh for 2025 that added a hybrid powertrain to the lineup in addition to updated interior and exterior styling, Kia is leaving its Carnival minivan alone for 2026. While the automaker charged almost $3,000 more for the 2025 model than the 2024, its ask for the 2026 model increases less than $600 over 2025.\n\nRelated: 2025 Kia Carnival Hybrid Review: Excellence in Efficiency\n\nAvailability and Pricing\n\nThe 2026 Kia Carnival will go on sale later in the year. Full pricing (including the $1,435 destination charge) is as follows:\n\nCarnival\nLX: $38,425\nLXS: $40,425\nEX: $42,625\nSX: $47,525\nSX Prestige: $52,525\nCarnival Hybrid\nLXS: $42,425\nEX: $44,625\nSX: $49,525\nSX Prestige: $54,525\nWhat Are the 2026 Kia Carnival’s Trim Levels?\n\nOther than their powertrains, the regular and hybrid Carnivals are identically equipped. Riding on 17-inch wheels and sporting cloth seats for seven, the entry-level Carnival LX is a basic family hauler, but it does include niceties like LED headlights, hands-free power sliding rear doors, keyless entry and starting, and tri-zone automatic climate control. The standard infotainment system consists of an 8-inch touchscreen with wireless Apple CarPlay and Android Auto and six speakers.\n\nThe LXS upgrades to synthetic leather upholstery and eight-occupant seating. Its front seats are heated, and the driver gets power adjustment.\n\nBuyers who step up to the EX receive 19-inch wheels, a hands-free power liftgate, wireless phone charging and faux-wood interior trim. Both of the EX’s front seats are power-adjustable and gain memory settings, and the touchscreen grows to 12.3 inches and includes navigation and voice control. The EX gains two more speakers, bringing the count to eight, with a Quiet Mode that plays audio only through the fronts.\n\nThe SX replaces lesser Carnivals’ bright-silver exterior trim with dark chrome, including the pieces on the C-pillar and surrounding the grille. It also adds LED foglights, rain-sensing windshield wipers and dual moonroofs. Its interior is upgraded with ventilated front seats and a 12.3-inch digital instrument cluster.\n\nAt the top of the lineup, the SX Prestige sports black 19-inch wheels and exterior trim, LED taillights and upgraded LED headlights. Inside, it gets real leather upholstery, a heated steering wheel and a 12-speaker Bose sound system. The available VIP Lounge Seats swap out the second-row bench for individually reclining captain’s chairs with heating, ventilation and ottomans and can be upgraded to include dual rear-seat entertainment screens with streaming through embedded apps. The SX Prestige’s darkened interior and exterior pieces are also available on the SX as the Dark Edition Package.\n\nMore From Cars.com:\n\nKia Adds Hybrid, Price Hike to 2025 Carnival\nHow Do Car Seats Fit in a 2025 Kia Carnival Hybrid?\n10 Car Features That Will Keep Pets Safe and Comfy\n2025 Kia Carnival Up Close: Now Hybrid in Another Way\nShop for a Kia Carnival\nStandard and Available Safety Features\n\nTrue to form, Kia fits even the basic Carnival LX with an extensive list of advanced safety technologies. Standard features include forward collision warning with pedestrian and bicyclist detection, automatic emergency braking, blind spot intervention, rear cross-traffic alert with automatic braking, lane following assist, a driver-attention monitor, automatic high beams, rear-occupant alert, safe-exit assist, and front and rear parking sensors.\n\nThe EX adds an in-cabin camera monitoring the second and third rows (the feed can be displayed on the central touchscreen). Both SX trims gain an upgraded forward-collision system that watches for oncoming and crossing traffic during turns, as well as a 360-degree camera system, blind spot cameras, Kia’s Highway Driving Assist 2 hands-on semi-autonomous tech, side parking sensors and rear sensors with automatic braking.\n\nWhat Are the 2026 Kia Carnival’s Powertrain Specs and MPG?\n\nA 3.5-liter V-6 engine with 287 horsepower and 260 pounds-feet of torque paired with an eight-speed automatic transmission powers the basic Carnival. The hybrid upgrades to a turbocharged 1.6-liter four-cylinder with two electric motors and a six-speed automatic to generate a combined 242 hp and 271 pounds-feet. The hybrid powertrain is a $2,000 option on every trim level except the base LX.\n\nFront-wheel drive is the only configuration available with either powertrain. Kia says the gas-only Carnival returns 18/26/21 mpg city/highway/combined, while the hybrid is rated at 34/31/32 mpg; those numbers aren’t official yet, but they do carry over from 2025.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$36990",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "260 @ 5000 SAE Net Torque @ RPM",
+              "287 @ 6400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,555 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "660 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LXS FWD",
+          "price": "$38990",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 5000 SAE Net Torque @ RPM",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,630 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "660 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$41190",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 5000 SAE Net Torque @ RPM",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,725 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SX FWD",
+          "price": "$46090",
+          "specifications": {
+            "Highlights": [
+              "33 mi. Range",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,810 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "850 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige FWD",
+          "price": "$51090",
+          "specifications": {
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,720 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "850 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/1dba8438-bafe-4675-88c4-5bba0285a464.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/1f8dbb23-569e-4feb-905d-b3c22a0295db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/5a87d874-6f5a-46d1-bd44-7756220852aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/6862a60c-19e5-4e63-b470-cfbfa5a4190e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9e598d32-2fe2-4360-9244-4974cbbc0bc0/e7fc3e5a-6eaa-4e6b-ad36-802e479fc7a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/95b0e44f-057e-4aed-a3b7-ab81c1e212e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/bbac72fa-13e1-4652-a95e-e652fdb51320.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/4fd3b5f9-432b-4cf2-a368-3cacbe75564c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/35e8a9be-e3b6-41dd-b4b0-65e4e153b488.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/49f4f99f-a388-4439-a3cf-d2085c11d3b9.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/c08286eb-dd45-41a1-97a2-c66ceebe669f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/21467213-e007-41e3-91d1-adb17183f03a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/b987c250-dcf1-43f8-9731-208df91fb465.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/370d1a12-5899-4cfc-a049-fd3a5f4c9a86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/579db604-452a-4c4a-ab0d-ce30cb5e37ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/350512ec-7a41-40c2-b11f-d0b7977bb4e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/6ce3f9a1-ecea-4a92-85e2-1bbd1bada015.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/6f618234-59b8-4e5b-b250-af7e1c8db744.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/7c6c3e7e-61c9-4f20-8f98-94f0b5fade6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/52a2baa6-cfe9-45d8-84a5-48d5de8b1b26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/2e605091-5488-4225-92f4-07aeb18465ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/1f982ca5-a17b-4831-95db-3e7086f4067a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/cc8b32b0-054b-4e92-982c-2d31788f81ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/706e6617-cc9f-4c3f-ab3d-b24256dd83ab/77e9181e-f092-439b-bff7-4a95135a9449.png"
+      ],
+      "expert_review": "The verdict: The 2025 Kia Carnival’s new gas-electric hybrid system isn’t as powerful as the standard gas V-6, but its significant improvement in efficiency is a welcome addition, as are the Carnival’s stylistic and equipment changes for 2025.\n\nVersus the competition: Though it’s slightly smaller than the Chrysler Pacifica, Toyota Sienna and Honda Odyssey, the 2025 Carnival Hybrid makes a compelling case with attractive pricing, a long list of features and its hybrid powertrain.\n\nDon’t call the 2025 Kia Carnival a minivan. Or, maybe do — Kia refers to its family-hauler extraordinaire as an “MPV” (multipurpose vehicle), but brand reps on hand at the drive event in San Diego for the refreshed-for-2025 Carnival oscillated between the two designations. (Cars.com pays for its own lodging and travel when attending such manufacturer-sponsored events.) Never mind that “MPV” is used interchangeably with “minivan” depending on the market, and Kia’s own hit list is comprised entirely of the usual sliding-door suspects from Toyota, Honda and Chrysler. Minivans are uncool, you see, and Kia says its rendition is anything but lame.\n\nRelated: Kia Adds Hybrid, Price Hike to 2025 Carnival\n\nAccording to the automaker’s own figures, customers appear to agree: The Carnival attracts the youngest buyers in the class, with 65% of buyers being new to Kia. Kia is also quick to call out the segment’s reliance on fleet sales, contrasted by its own pride that more than 90% of Carnivals are purchased or leased at a retail level by consumers.\n\nMercy for the Minivan\n\nSo, those are some positive numbers in a stagnant segment. Only a handful of minivans are sold in the U.S., those being the Toyota Sienna, Chrysler Pacifica, Honda Odyssey and the Carnival, in descending order of popularity and not counting the recently reintroduced Chrysler Voyager, which is related to the Pacifica. Just over 290,000 new minivans were sold stateside in 2023 — a figure that’s roughly 40,000 units more than what the Jeep Grand Cherokee mid-size SUV achieved alone.\n\nThe crossover was the minivan’s natural predator. A recent poignant feature in The Atlantic details the segment’s slide in the face of crossovers and larger SUVs like the Jeep that offer most of a minivan’s benefits without the minivan’s aura of dreary domesticity, noting that a “minivan is typically purchased under duress” as families grow. Kia’s method of hiding the pill in the peanut butter for the Carnival’s distinctly minivan functionality is an upright, squared-off design that eschews the soft-edged taper of its competitors. You’d be forgiven if you mistake a Carnival at distance for a strangely elongated Sorento or a fat Telluride, a trick enhanced by the 2025 Carnival’s Dark Edition that, uh, darkens the wheels and exterior trim of so-equipped models.\n\nThis stylistic direction was true of the prior Carnival, only it’s now enhanced and nip-and-tucked for 2025. A new front end with updated headlights and grille complements a significantly revised tail, with the rear now wearing more aggressive “fanged” taillights and further defined sheet metal.\n\nThe interior is requisitely poked ‘n’ prodded, as well, with moderate revisions to tech and controls. Dual 12.3-inch screens for the driver display and infotainment system are available (a single 12.3-inch infotainment touchscreen is standard), and there’s a touch-sensitive panel on the lower portion of the center dash that can toggle between climate and audio functions.\n\nHello, Hybrid\n\nThe biggest change is less visible and more experiential, with the newly available hybrid powertrain being a significantly more efficient alternative to the carryover 3.5-liter V-6 engine. The new hybrid setup begins with a turbocharged 1.6-liter four-cylinder that works with a traditional six-speed automatic transmission, which is different from the continuously variable automatic transmissions that most modern mainstream hybrids use.\n\nA 1.49-kilowatt-hour lithium-ion battery and relatively potent 74-horsepower electric motor augments the gas engine for a combined 242 hp and 271 pounds-feet of torque. That’s 45 hp less than the V-6 offers, but an extra 11 pounds-feet of torque. Crucially, efficiency is way, way up, with the hybrid clocking in with an EPA-estimated 34/31/33 mpg city/highway/combined versus the V-6’s 18/26/21 mpg.\n\nOn our daylong loop through the hills and valleys just north of San Diego, the hybrid’s fuel gauge appeared barely impacted from my characteristically heavy right foot and general noncompliance with the hybrid’s best attempts to conserve fuel. Those not predisposed to aggressive driving should see an impressive cruising range in excess of 600 miles between fill-ups, which should help keep passengers happy.\n\nDecent Dynamics\n\nThat reasonably thick 271 pounds-feet of torque should keep the driver happy, as well — in theory. With two adult men and nothing more than a set of backpacks in tow, the new hybrid is nothing more than adequate for merging and passing. It’s far, far from even the 10th most important metric when considering a minivan, but this is what happens when a staff of folks with families send a single fella with nary even a pet to review a minivan.\n\nI kid, of course, but with a full house — the kids, a dog and a kayak — along for the ride, planning your maneuvers carefully will be necessary. I suspect this sluggishness partially boils down to the 132-pound penalty for the hybrid versus the V-6 engine for the eight-seat SX Prestige configuration, a gulf that leaps to 222 pounds when looking at the LXS trim level.\n\nThe rest is only good news. The 2025 Carnival Hybrid drives and operates much like a big-body Sorento Hybrid would, with refined ride quality and driver inputs. Brake blend between the hybrid’s regenerative and physical brakes is intuitive and not too touchy, while accelerator pedal response, shift logic and steering is exactly as inoffensive and easy as any modern crossover.\n\nPassenger Palace\n\nAs is the case with most minivans, the Carnival Hybrid munches highway miles. The expansive cabin with its low-ish center of gravity and low-effort controls zonks the driver out in the best way, with the only stress remaining being the screaming kiddos in the back. The 1.6-liter four-cylinder is also surprisingly refined, muting itself equally well at highway speeds or in stop-and-go traffic. As this is a conventional hybrid and not a plug-in hybrid, you’re not privy to any stand-alone, full-electric driving range, but the system does offer bursts of electric-only operation in low-speed scenarios.\n\nYou’ll hardly have time to notice much of this with all the digi-toys and features available for both you and your passengers’ entertainment. The dual 12.3-inch displays on my top-trim test car were requisitely hi-res, responsive and easy to navigate, and we made good use of the Bose premium sound system. That touch-sensitive panel for climate and sound functions is reasonably intuitive, and switching between modes becomes autonomic.\n\nSecond-row space and comfort is fantastic even without the relative opulence of the available second-row captain’s chairs with power leg rests. The SX Prestige trim’s white-and-navy leather upholstery is handsome and moves the interior markedly upmarket, especially when complemented by tinsel like the Bose system and window shades for the second and third rows.\n\nMore From Cars.com:\n\n2025 Kia Carnival Up Close: Now Hybrid in Another Way\n2025 Kia Carnival: Now With Optional Hybrid Power\nWhich Cars Fit 3 Car Seats?\nMinivan Crash Tests: Front-Seat Safety Improves, Backseat Safety Declines\nShop for a 2025 Kia Carnival\nThird-Row Tales\n\nSpeaking of the third row, entry and exit is straightforward, and it’s not too punishing for a more-than-full-size adult like myself, with enough legroom for my 5-foot-11 frame to easily endure trips beyond the hour mark. Seat comfort, however, is less pleasant, with a stiff, uneven bottom cushion.\n\nAnd my goodness, there are so many charge ports scattered throughout the cabin. Aside from USB connections for front occupants, each front seatback features an integrated USB-C port for second-row passengers. Each side of the third row also has a USB-C port, and you could likely make use of the cargo area’s available household power outlet with a long enough charge cord.\n\nRealistically, I’d like to load up the 2025 Kia Carnival Hybrid with all manner of kit and caboodle before levying any sort of judgment beyond what’s presented here. For now, I like it, and if you’re a family seeking an efficient, feature-rich minivan, I think you will, too.\n\nI call the second row!\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$36800",
+          "specifications": {
+            "Notable features": [
+              "New gas-electric hybrid version that’s rated 33 mpg combined",
+              "Refreshed exterior and interior for 2025",
+              "Seats seven or eight in three rows",
+              "Gas V-6 engine standard",
+              "Available dual 12.3-inch dashboard displays"
+            ],
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 5000 SAE Net Torque @ RPM",
+              "Regular Unleaded V-6 Engine Type",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "19 gal Fuel Tank Capacity, Approx",
+              "4,555 lbs Base Curb Weight",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "660 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "LXS FWD",
+          "price": "$38800",
+          "specifications": {
+            "Notable features": [
+              "New gas-electric hybrid version that’s rated 33 mpg combined",
+              "Refreshed exterior and interior for 2025",
+              "Seats seven or eight in three rows",
+              "Gas V-6 engine standard",
+              "Available dual 12.3-inch dashboard displays"
+            ],
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,630 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "660 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$41000",
+          "specifications": {
+            "Notable features": [
+              "New gas-electric hybrid version that’s rated 33 mpg combined",
+              "Refreshed exterior and interior for 2025",
+              "Seats seven or eight in three rows",
+              "Gas V-6 engine standard",
+              "Available dual 12.3-inch dashboard displays"
+            ],
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,725 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "850 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SX FWD",
+          "price": "$45900",
+          "specifications": {
+            "Notable features": [
+              "New gas-electric hybrid version that’s rated 33 mpg combined",
+              "Refreshed exterior and interior for 2025",
+              "Seats seven or eight in three rows",
+              "Gas V-6 engine standard",
+              "Available dual 12.3-inch dashboard displays"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "260 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,810 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "850 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige FWD",
+          "price": "$50900",
+          "specifications": {
+            "Notable features": [
+              "New gas-electric hybrid version that’s rated 33 mpg combined",
+              "Refreshed exterior and interior for 2025",
+              "Seats seven or eight in three rows",
+              "Gas V-6 engine standard",
+              "Available dual 12.3-inch dashboard displays"
+            ],
+            "Highlights": [
+              "18 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 5000 SAE Net Torque @ RPM",
+              "287 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,720 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/3708c966-e172-4fae-bf57-26d12f7977ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/263530ca-4857-4a1a-bf89-80a69909dc8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/6ba31329-a9b8-434f-99b0-2d38a3bdc337.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/4e77cee3-f5f1-454b-a707-0bf9f9091edb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/d09e36db-9dc2-4537-8db4-f7be3c202c31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/a09a73a0-38b3-40f3-9eb2-8509d7843f2a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/aaf5e3bf-c912-4c13-aae6-aea2ca8d757a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/ca1b8e08-6c47-4828-b70e-a1d38a64974d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/60409791-2ec5-4597-aab0-2e06f6762381.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/fc1c65aa-8151-4883-bc1a-f992a2defe9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/a2dbc383-7eb9-4e59-81c0-1684c911da2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/30d35999-d7a9-4012-87f6-346152044722.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d09b907d-92fc-4292-ba62-cb8eee55a2c8/2c4d1f64-0ab9-4d2c-bb51-b9f8a7d17dd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/f9d1ebad-a12c-4be7-813b-fe2ee8669250.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/f09c1417-2c4c-4bc8-97d0-268fcfc07b29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/a52c6f89-db26-48ce-b578-14e9ee2213d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/0cb2b9a9-ff12-4ac7-be04-b98c70e260e3.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/04430606-bf17-419a-9f4e-9d52ec5be9fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/44e8b2bd-bbcc-4f25-8b58-034fb910d6f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/846852b7-48f7-43ab-ac7d-d78306cbf50e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/16a38dd4-27dd-457e-85f8-de745012d175.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/aa1a5aba-c60b-44e8-8f1d-58dd2e1ddb56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/528be8f3-08ac-4308-983c-b6581e935dbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/e12a3fd9-514d-4f03-9e72-cd435ed207fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/d7bea91e-c51c-40ef-acfc-c4c7ec5dabf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6bb34d20-d7d9-467c-894a-c18de79c1ffc/b8ca71b9-7456-487e-95ad-0f86cbfbede4.png"
+      ],
+      "expert_review": "What Is the 2024 Kia Carnival?\n\nThe Kia Carnival is a seven- or eight-seat minivan that’s powered by a 290-horsepower, 3.5-liter V-6 coupled to an eight-speed automatic transmission. Performance is seamless and refined in terms of passing power and acceleration, but we found the Carnival’s steering feel too light and the suspension too floaty. In the plus column, it brings a ton of standard comfort and safety features, and the infotainment system is extremely intuitive. Carnival rivals include the Chrysler Pacifica, Honda Odyssey and Toyota Sienna. \n\nWhat’s New on the 2024 Kia Carnival?\n\nThe Carnival is mostly unchanged for 2024, though the EX is no longer available with all-automatic up/down power windows.\n\nWhat Features in the 2024 Kia Carnival Are Most Important?\n\nStandard features include:\n\nCloth upholstery\nHands-free power side doors\n8-inch touchscreen\nApple CarPlay and Android Auto\nSeven USB ports\nRemote start\nParallel park assist\nBlind spot warning\nRear cross-traffic alert\nLane departure steering assist\nRear-seat reminder\nSafe-exit warning\n\nAvailable features include:\n\nWireless device charging\nSecond-row captain’s chairs\nRear-seat entertainment system\nHeated front seats\nHeated steering wheel\nDual moonroofs\nLeather seating surfaces\nSecond-row reclining lounge seats with heating and cooling\nDual-screen rear entertainment system\n12-speaker Bose audio system\nShould I Buy the 2024 Kia Carnival?\n\nTake the design of a rugged SUV and add a whole lot of minivan practicality, and what you get is the Kia Carnival, a broad-shouldered minivan that’s big on value and loaded with popular comfort and safety features. Two things could hold some minivan shoppers back: the lack of optional all-wheel drive and no available hybrid powertrain. Still, the Carnival looks cool and can carry lots of people and their stuff. The optional second-row lounge seats are luxurious, with a built-in recline function, foot rests, and heating and ventilation. They’re not removable, however, which minimizes maximum cargo capacity.",
+      "trims": [
+        {
+          "name": "LX FWD",
+          "price": "$33600",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6",
+              "Eight-speed automatic transmission",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.5 L/212 Displacement",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "262 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,431 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "660 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "LX FWD w/Seat Pkg",
+          "price": "$35600",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6",
+              "Eight-speed automatic transmission",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,513 lbs Base Curb Weight",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "660 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "EX FWD",
+          "price": "$39100",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6",
+              "Eight-speed automatic transmission",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,581 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SX FWD",
+          "price": "$42300",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6",
+              "Eight-speed automatic transmission",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "33 mi. Range",
+              "8 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type",
+              "290 @ 6400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,581 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SX Prestige FWD",
+          "price": "$46700",
+          "specifications": {
+            "Notable features": [
+              "Seven- or eight-seat minivan",
+              "Front-wheel drive",
+              "290-horsepower V-6",
+              "Eight-speed automatic transmission",
+              "Apple CarPlay and Android Auto standard"
+            ],
+            "Highlights": [
+              "19 City / 26 Hwy MPG",
+              "7 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "262 @ 5000 SAE Net Torque @ RPM",
+              "290 @ 6400 SAE Net Horsepower @ RPM",
+              "3.5 L/212 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,581 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "850 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

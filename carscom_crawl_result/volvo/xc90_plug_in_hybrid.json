@@ -1,0 +1,401 @@
+{
+  "make": "volvo",
+  "model": "xc90_plug_in_hybrid",
+  "years": {
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/c39acf10-2b41-4e6f-90cf-fe6e13454303.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/17de9092-24a6-4d8d-ae33-b8e4571cceb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/1d3c127d-bd60-438c-8540-cfe0cdba5b77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/5495c6cf-6894-4169-8d56-82ef64a9637c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/04c4684b-de84-4aa6-94ad-8be4409d6686.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/ff127130-a234-4de9-9c55-03815bb86999.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/9d7c83be-1439-4b1f-8451-134853633df7.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/d79713ec-8ec4-4516-a48a-7951b061d2be.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/57389f01-1df1-4a93-a9cb-77280a625a79/2776b78f-7143-434c-969d-c0d5f0a907b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30df5c21-9866-4168-8967-0ad13a757b54/6ae2d803-f037-4f43-a0f1-d5be424d1efd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/c954fd1b-5de5-4a3c-ac53-73a2b3a98f71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/a41b4e0e-7cec-4e9c-9436-512faa04ae76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/046d93ae-e9a3-4b24-82f5-fee6b50c2759.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/00edb836-a058-4637-917d-ad2ac7874673.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/3c9a4e1f-ca63-41de-9fba-2f65cf5cbfd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/8715a1b6-cda1-4805-8a4f-1d9d76007ed9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/54dabb0c-6073-46f8-8ea6-38f5657b8633.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/337554dd-9047-48b6-b59d-d0f93c9fe960.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/e8e5bb5f-f0b9-4191-b7cd-574c608d6313.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/0c1ea046-81a8-4df4-a7be-31c8e0a0a8b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/1867e9b8-2a05-48b5-a3c6-4770179df8ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/1aa97a4c-641e-4892-90a0-6ab2691ca11a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/955725b0-c0b2-4497-984c-91fe33b2bee6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/9361fa0f-fb4b-48aa-901b-d6d3cc345ed2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/e1bdb1f3-4104-4e08-87c5-d02896791493.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/d8f06ad5-99f0-4d7f-b315-16c1c4ea8155.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1b921318-02c3-4c57-b68e-e4111f556193/e5210d81-ab01-4fb4-908f-acef6245a268.png"
+      ],
+      "expert_review": "Is the Volvo XC90 Plug-in Hybrid a Good SUV?\n\nThe refreshed 2025 Volvo XC90 Plug-in Hybrid is a stunner; from the timeless luxury of its cabin to its seamless blend of gas and electric power, it delivers true luxury and efficiency without compromise.\n\nHow Does the Volvo XC90 Plug-in Hybrid Compare With Other Luxury SUVs?\n\nThe luxury space doesn’t feature many three-row SUVs with a plug, but among them is the less refined Lexus TX 550h+ and the much more expensive Land Rover Range Rover PHEV. (See these models compared.)\n\nFor 2025, the XC90 Plug-in Hybrid gets a refresh in name and face. Outside, it wears a new, more minimal-looking front end with less brightwork, thinner headlights and a wider grille that features a dazzling crosshatch design. Inside, the infotainment system has been updated with a larger screen and more intuitive layout. Compare it with last year’s model.\n\nRelated: 2025 Volvo XC90 Gets Sharp, Modern Refresh Inside and Out\n\nThe three-row SUV’s name is also updated, with “Recharge” dropped for 2025 and replaced by the more straightforward “Plug-in Hybrid.” For this review, I tested a T8 AWD Ultra trim level that was equipped with a few options and priced at $88,695, including destination fee.\n\nHow Does the 2025 Volvo XC90 Plug-in Hybrid Drive?\n\nIn short, the XC90 Plug-in Hybrid is engaging, comfortable and efficient. It’s quick from a stop and feels light on its feet despite its hefty base curb weight of just over 5,000 pounds. Power isn’t as instantaneous as in a fully electric vehicle, but the plug-in XC90 is much peppier than a non-electrified three-row SUV.\n\nPower comes from a turbocharged 2.0-liter four-cylinder engine paired with an electric motor and 18.8-kilowatt-hour battery pack,  good for a combined 455 horsepower and 523 pounds-feet of torque. It works with a smooth, quick-shifting eight-speed automatic transmission, with all-wheel drive standard.\n\nThe XC90 Plug-in Hybrid is EPA-rated 58 mpg-equivalent combined during its 32-mile electric driving range. When the battery is depleted, it operates like a gas-electric hybrid and is rated 27 mpg combined. On a Level 1 household outlet, the XC90 Plug-in Hybrid can fully charge in 10-14 hours. Level 2 home charging is considerably quicker; using my Level 2 charger, it took a little less than 4 hours to fully charge the XC90’s battery.\n\nYou do have to opt-in to the EV mode, though. The XC90 defaults to Hybrid mode each time it’s turned on; to drive in EV mode, you’ll have to opt for the Pure setting via a menu in the infotainment screen. Responsiveness is even snappier in this mode, and I found it easy to stay in at higher speeds and when passing so long as I didn’t floor the accelerator pedal, which triggers the gasoline engine to assist.\n\nThis SUV’s Hybrid and Pure drive modes aren’t the only way to tailor your driving experience. There’s also a Power mode, which uses the engine and battery to prioritize performance. The braking system, too, is customizable; you can choose B mode on the shifter to engage one-pedal driving with regenerative braking. In this mode, easing off the accelerator pedal can bring the car to a stop without using the brake pedal. I found this mode especially helpful in stop-and-go traffic, and it’s also an efficient way to drive because it adds energy to the hybrid battery. Lastly, steering feel can also be adjusted, with soft and firm settings to choose from in a driving dynamics menu in the infotainment screen.\n\nWhile the XC90 exudes refinement in the going and stopping departments, it can be a little loud. Volvo said it added insulation throughout the cabin to reduce wind and road noise for 2025, but it’s still not quiet. Too much of the outside world filters into this otherwise serene cabin (more on that below).\n\nThis Volvo also rides a little firm for my liking, with large bumps rippling through the cabin despite my test car’s optional air suspension. Its large 21-inch wheels and tires likely contributed to this issue.\n\nHow Nice Is the 2025 Volvo XC90 Plug-in Hybrid’s Interior?\n\nJust park me in the XC90’s cabin and leave me there; it’s a masterclass in understated refinement and quiet luxury. Volvo has been pulling out all the stops in the XC90’s cabin since its last full redesign almost a decade ago — when we gave it our Best of 2016 award and bought one for long-term testing — and it’s still got it.\n\nThe cabin was updated this year with some more premium materials, a slightly redesigned dash and an updated center console. Highlights of the lovely cabin in my top Ultra trim included Nappa leather seat upholstery, low-gloss wood paneling with complementary fabric trim and a crystal gear selector. A rich tan color called Cardamom is a new option this year for the leather upholstery.\n\nIt mostly feels good, too, in all three rows. My test car had second-row captain’s chairs and seating for six; an available second-row bench seat increases seating capacity to seven. Those second-row captain’s chairs are comfortable, and cupholders are plentiful; two cleverly pop out of the arm rests and two are nestled at knee-level behind the center console.\n\nIn our Car Seat Check, the XC90’s accessible lower anchors and plenty of legroom were big pluses, but the second row’s fixed head restraints caused fit issues with our forward-facing convertible and high-back booster seats. Read the full Car Seat Check here. Note that the XC90’s second-row bench seat is also available with a built-in booster seat — a handy feature that only Volvo offers — that pops up from the center seating position.\n\nWhile I found it easy to get back to the two-seat third row, that space is more of a mixed bag in terms of comfort and features. Each side has a cupholder and a small storage cubby, but there are no USB ports back there. Also, the seat has a knees-up seating position that many adults won’t find comfortable.\n\nThe third row is also lacking in terms of car-seat accommodations: There are no lower anchors back there, and only one top tether anchor on the passenger side, making it less versatile than many other three-row SUVs that do better in this department. You’d have to use a seat belt to install a car seat back there, which some caregivers aren’t comfortable with. Also, fixed head restraints caused fit issues with our high-back booster and forward-facing convertible here, too.\n\nHow Does the 2025 Volvo XC90 Plug-In’s Infotainment System Work?\n\nWhen Volvo debuted its large portrait-oriented 9-inch touchscreen, it was unlike anything other automakers offered. Now, even the affordably priced Subaru Crosstrek offers a bigger screen than that. Volvo is evolving its system for 2025 with a larger 11.2-inch touchscreen, revised graphics and a more intuitive menu structure.\n\nWhat hasn’t changed is that it still uses the Google Built-In operating system — for better or for worse, depending on whom you talk to. I’m pro-Google-Built-In and was able to quickly log into my Google account and get set up with the system. I particularly liked using the “Hey Google” voice controls for a variety of settings, including audio and climate settings, as well as finding my nearest Dunkin’. Other editors, however, find the Google Built-in system to be finicky and unreliable. If you fall in that camp, you have options: You can instead choose to use smartphone mirroring via wired Apple CarPlay or Android Auto.\n\nWhile the increased screen size and higher-resolution graphics keep the system looking modern, the real update is in how it works. As with the previous infotainment system, just about every function is absorbed in the screen, but how you access those functions and how many screen taps it takes to enable them has been streamlined and makes more sense.\n\nFor example, many common apps and controls — such as maps, media and phone connections — are now displayed as icons on the home screen, so there’s less hunting around for things, and it’s easier to switch what you’re viewing. Also new is a contextual bar that displays your most recently used apps — again, so there’s less tapping through screens. Volvo said customers with vehicles built as early as 2020 are eligible for an over-the-air update to enable the more intuitive layout in their vehicle.\n\nLike the previous system, there’s no missing the giant, obvious volume knob under the screen, which is a refreshing anachronism in an otherwise tech-forward cabin.\n\nMore From Cars.com:\n\nFace-Lifted 2025 Volvo XC90 Priced From $59,745\n2025 Volvo XC60 Unchanged, Starts at $48,345\n2025 Volvo EX90 Review: Extended Elegance, Missing Features\nIs the 2023 Volvo XC90 Recharge a Good SUV? 5 Pros and 3 Cons\nShop for a 2025 Volvo XC90 Plug-in Hybrid Near You\nIs the 2025 Volvo XC90 Plug-in Hybrid Worth Its Price?\n2025 Volvo XC90 Plug-in Hybrid | Cars.com photo by Christian Lantry\n\nThe math is not mathing: You have to really want a plug-in hybrid to make the plug-in XC90 make sense. It starts at $74,295 — well over a base non-plug-in XC90’s $59,745 starting price (all prices include destination). Also, it’s not eligible for the Federal EV tax credit because it’s assembled in Sweden. What’s more, it’ll take decades for the gas savings to make up for the added cost of the plug.\n\nReal-world numbers will vary based on how often you drive beyond the XC90 Plug-In’s 32-mile electric range, but according to EPA estimates, the PHEV has an annual fuel cost of $1,700, based on 45% highway and 55% city driving, 15,000 annual miles and current fuel prices. A base XC90 without a plug gets an estimated 23/30/26 mpg city/highway/combined and has an annual fuel cost of $2,350 based on the EPA’s current formula. That’s an estimated fuel cost savings of $650 a year with the PHEV, but with its $14,550 price premium, it would take roughly 22 years to make up the added cost of the plug.\n\nBased on these calculations, it’s obvious the 2025 Volvo XC90 Plug-in Hybrid doesn’t make a lot of sense if you’re looking at cost considerations alone. If you’re an EV-curious luxury SUV shopper willing to spend extra, though, the XC90 Plug-in Hybrid will delight and coddle you.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "T8 AWD Core 7-Seater",
+          "price": "$71900",
+          "specifications": {
+            "Notable features": [
+              "Revised styling for 2025",
+              "Updated Google Built-In infotainment system",
+              "Plug-in hybrid drivetrain with 32 miles of all-electric range",
+              "Three-row SUV with six or seven seats",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "35 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "523 SAE Net Torque @ RPM",
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,103 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "T8 AWD Plus 7-Seater",
+          "price": "$73800",
+          "specifications": {
+            "Notable features": [
+              "Revised styling for 2025",
+              "Updated Google Built-In infotainment system",
+              "Plug-in hybrid drivetrain with 32 miles of all-electric range",
+              "Three-row SUV with six or seven seats",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "35 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "523 SAE Net Torque @ RPM",
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "5,122 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "19 gal Fuel Tank Capacity, Approx",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "T8 AWD Plus 6-Seater",
+          "price": "$74300",
+          "specifications": {
+            "Notable features": [
+              "Revised styling for 2025",
+              "Updated Google Built-In infotainment system",
+              "Plug-in hybrid drivetrain with 32 miles of all-electric range",
+              "Three-row SUV with six or seven seats",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "35 mi. Range",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "523 SAE Net Torque @ RPM",
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "5,000 lbs Maximum Trailering Capacity",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,090 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "T8 AWD Ultra 7-Seater",
+          "price": "$79600",
+          "specifications": {
+            "Notable features": [
+              "Revised styling for 2025",
+              "Updated Google Built-In infotainment system",
+              "Plug-in hybrid drivetrain with 32 miles of all-electric range",
+              "Three-row SUV with six or seven seats",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "35 mi. Range",
+              "7 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "523 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,000 lbs Maximum Trailering Capacity",
+              "5,162 lbs Base Curb Weight",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "T8 AWD Ultra 6-Seater",
+          "price": "$80100",
+          "specifications": {
+            "Notable features": [
+              "Revised styling for 2025",
+              "Updated Google Built-In infotainment system",
+              "Plug-in hybrid drivetrain with 32 miles of all-electric range",
+              "Three-row SUV with six or seven seats",
+              "All-wheel drive standard"
+            ],
+            "Highlights": [
+              "35 mi. Range",
+              "6 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/120 Displacement",
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "523 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "5,130 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "5,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "500 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "5,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "500 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,000 lbs Maximum Trailering Capacity",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

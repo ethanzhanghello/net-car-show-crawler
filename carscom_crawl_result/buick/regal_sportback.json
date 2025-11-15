@@ -1,0 +1,1234 @@
+{
+  "make": "buick",
+  "model": "regal_sportback",
+  "years": {
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/0c07b8ca-8301-4d52-acce-257005eda378.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/b4506818-2a23-4c29-936c-06cb159f726d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/26a470ec-7a3e-412c-bd63-02d597513d01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/b838947e-4250-49d6-80ed-62c75a09b68c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/092dbdac-ab5e-4c6a-a905-7527e5accbad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/961f62f1-1c3b-4a99-b209-32ba7d7eff6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/72fad48f-5c99-4534-9add-27cf05c16ae2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/cf392104-e580-49d1-ac64-16ac1f6a714d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/a1418715-b6be-49c5-84c8-60f5a4983be7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/508f488e-cb9b-4bda-a825-5fd0d87945a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/c05478c6-cf01-4285-bfa9-8b99c8f57b09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/311747b4-e331-4672-8177-49ed79be2240.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/7ade6c25-b509-4ca0-915d-a17395f4520a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/17b2b92b-a6e8-422a-b00f-b97405ce5b42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/2e02b828-57eb-4b88-a68f-ef92154e243b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/524d7a2c-072c-4dc2-99c2-8bda1be5626e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/3118d11a-a2f5-41e0-b0a1-5de0137f5e75.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/81d488a2-f0af-45d2-8e3c-cc53c1457ea1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/13f597ed-eb16-4a5d-b7bd-0adcf8fa1abc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/cbce8fe8-f7a1-4c31-9bfa-a85f7f22cd46.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a8673114-a48b-44c5-b247-a72b7776eee5/abf240c6-268f-48f7-bbd3-d02bf660240e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/a9880a59-f3be-425a-bf86-c88106d16594.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/77a7d0c5-daca-4e94-a942-492ea86adbdb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/4542a18e-4df3-4154-9b71-699f77f47729.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/ca97540a-0151-4a71-ad60-c285dd3346b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/cebe39dc-68a5-49cd-8363-0ec8105341fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/4aa69c83-9cff-4552-b6c1-ae69722eff8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cda3d4c7-7144-400a-ba68-a95b2f1d21a9/f345f540-1f98-41db-821e-fb64986ccf15.png"
+      ],
+      "expert_review": "What Is the 2020 Buick Regal?\n\nThe mid-size Buick Regal seats five and is offered in four-door hatchback (Sportback) or wagon (TourX) form. A 250-horsepower, turbocharged 2.0-liter four-cylinder engine goes in all versions but the GS Sportback, which is powered by a 310-hp, 3.6-liter V-6 engine. Front-wheel-drive models and the all-wheel-drive GS have a nine-speed automatic transmission, while the other all-wheel-drive versions get an eight-speed automatic. Competitors include the Acura TLX and Subaru Outback. \n\nWhat’s New on the 2020 Buick Regal?\n\nThere are no significant changes this year. \n\nWhat Features in the 2020 Buick Regal Are Most Important?\n\nStandard features include dual-zone automatic climate control, push-button start, a 7-inch touchscreen multimedia system, Apple CarPlay and Android Auto connectivity and a 4G LTE Wi-Fi hot spot (data trial included). Available features include remote start, heated front seats, a heated steering wheel, a panoramic moonroof, navigation, a Bose premium stereo and wireless charging. Available active safety features include blind spot warning, rear cross-traffic alert, adaptive cruise control, forward collision warning, automatic emergency braking and lane-keep assist. \n\nShould I Buy the 2020 Buick Regal?\n\nBoth the Sportback and TourX body styles emphasize versatility, but the Regal also comes with a strong base turbocharged drivetrain and delivers a refined, comfortable ride. There’s not much steering feedback, however, and considering Buick’s premium positioning in the market, the interior could be nicer. Many active safety features cost extra, too, as opposed to being standard.",
+      "trims": [
+        {
+          "name": "4dr Sdn FWD",
+          "price": "$25370",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size hatchback (Sportback) or wagon (TourX)",
+              "Turbo four-cylinder engine standard",
+              "310-hp V-6 available (GS)",
+              "Front- or all-wheel drive",
+              "4G LTE Wi-Fi hot spot standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,748 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Preferred FWD",
+          "price": "$27970",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size hatchback (Sportback) or wagon (TourX)",
+              "Turbo four-cylinder engine standard",
+              "310-hp V-6 available (GS)",
+              "Front- or all-wheel drive",
+              "4G LTE Wi-Fi hot spot standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "260 @ 2000-5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "4-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,840 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Essence FWD",
+          "price": "$31770",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size hatchback (Sportback) or wagon (TourX)",
+              "Turbo four-cylinder engine standard",
+              "310-hp V-6 available (GS)",
+              "Front- or all-wheel drive",
+              "4G LTE Wi-Fi hot spot standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "3,902 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Essence AWD",
+          "price": "$33870",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size hatchback (Sportback) or wagon (TourX)",
+              "Turbo four-cylinder engine standard",
+              "310-hp V-6 available (GS)",
+              "Front- or all-wheel drive",
+              "4G LTE Wi-Fi hot spot standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3000-4000 SAE Net Torque @ RPM",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,096 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Avenir FWD",
+          "price": "$35770",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size hatchback (Sportback) or wagon (TourX)",
+              "Turbo four-cylinder engine standard",
+              "310-hp V-6 available (GS)",
+              "Front- or all-wheel drive",
+              "4G LTE Wi-Fi hot spot standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type",
+              "250 @ 5400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,840 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn GS AWD",
+          "price": "$39070",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size hatchback (Sportback) or wagon (TourX)",
+              "Turbo four-cylinder engine standard",
+              "310-hp V-6 available (GS)",
+              "Front- or all-wheel drive",
+              "4G LTE Wi-Fi hot spot standard",
+              "Automatic emergency braking available"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.6L/-TBD- Displacement",
+              "310 @ 6800 SAE Net Horsepower @ RPM",
+              "282 @ 5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,270 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/1183e38b-7d8f-4020-8eba-110cdab550b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/f4a50dfa-6056-4085-a055-0c9ba4a05bfa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/196fac61-ded4-4883-8bdc-270d5d305e52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/9e9c2c94-5e75-4701-bc3f-d3202f9dcc19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/41b4b091-d536-434a-985d-2fad0ae3550b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/04d7601e-09ca-4a73-baa5-cf8ed11b9073.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/9d4de66c-80b7-477c-ab83-24d2d2bf4653.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/eecc8fa1-180d-426f-bd35-85f92e54fc0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/3feeef95-2b03-4332-8715-f560ce2cbb68.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/eecc8fa1-180d-426f-bd35-85f92e54fc0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/d8ba1d9f-62e4-467d-b238-625a02b70498.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/215ee8fc-ee26-4a74-870c-246af18d8a03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/39a45409-8298-4250-a884-a518cbe64eba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/5b52d809-ead6-4e1e-972d-733c06ab4ad0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/b40d2bb8-d31a-4efb-9e1e-5676effe00b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/59ae4864-41c2-4eec-8668-0525ac43549f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/16181fe8-d408-4c1f-a100-a74e372759ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1308cf4f-c177-4034-b8f1-f08e77dd9562/b48ffa90-1005-4e7f-8675-40da8864a5b4.png"
+      ],
+      "expert_review": "CARS.COM — Buick’s rising sales in the United States are no accident — GM’s “premium” brand has benefited from updating its SUVs right when the market is super-hot for them. But the brand isn’t letting its more traditional sedan offerings get stale: The Lacrosse full-size sedan was redesigned last year, and this year the Regal is all-new, as well.\n\nRelated: 2018 Buick LaCrosse Gets Upscale Avenir Treatment\n\nThe 2018 Regal is bigger, smoother, dramatically better looking and meant to go toe-to-toe with premium mid-size sedans from brands like Acura, Audi and Lincoln. While their market may not be as hot as crossovers, these are still important cars for their brands, which makes the mediocrity of the new Regal Sportback all the more confusing.\n\nHot Looks\n\nThe new model made a splash when it arrived at the 2017 New York International Auto Show earlier this year, with its dramatically low, swoopy styling that impressed everyone who laid eyes on it. And it does indeed look fantastic — there isn’t a bad angle viewed from the outside. The hatchback design allows for an interesting combination of utility and style, preserving the backseat airspace for passenger headroom while allowing owners to drop the rear seats and open up a cavernous floorspace that can swallow an entire bicycle with the front wheel still attached. It’s a sharp design, modern and sophisticated, and it’s sure to turn more than a few heads.\n\nWarm Performance\n\nBuyers have a choice of two Sportback models initially, either with front- or all-wheel drive (the TourX wagon-style crossover is arriving now but won’t be reviewed until January 2018). Both front- and all-wheel-drive models are powered by GM’s snappy turbocharged 2.0-liter four-cylinder engine, pumping out 250 horsepower. But that’s where the similarities end between the two body styles. In the FWD model, the engine pumps out 260 pounds-feet of torque while mated to a standard nine-speed automatic transmission. The AWD version puts out 295 pounds-feet of torque and gets an eight-speed automatic.\n\nInterestingly, the FWD version is the better car to drive. The difference in character between these two powertrains is surprising — the FWD car feels light and direct, and is almost always in the right gear when engaging in spirited driving over twisty roads and tight switchbacks. The AWD model feels heavier, more ponderous, and its eight-speed automatic is always in a gear or two too high to be entertaining. Put your foot down in the AWD model, and the delay between pedal action and downshift is palpable, putting a damper on entertaining sportiness. You can shift it yourself, which helps, but there are no shift paddles on the steering wheel. The FWD model has no such deficiency; despite a little extra torque steer, the nine-speed’s gearing and eagerness to shift makes it feel quicker than the higher-torque AWD model.\n\nThe FWD model also feels like it has more responsive steering, with better feedback and control than with AWD, but I’m told the steering ratio is the same on both. That ratio feels slower than it could be, with turn-in that’s more sedate than sporty. It’s on par with the level of engagement and entertainment one would find in an Acura TLX, but dynamically, a new Honda Accord turbo or a Toyota Camry V-6 is a more enjoyable vehicle to drive quickly. The FWD model is roughly 175 pounds lighter than the AWD model and has slightly different shock absorber tuning, according to Buick engineers, but it’s unlikely this is enough to make the difference in feel.\n\nBuick did do some things right on the Regal. The brakes are firm and easy to modulate, and the body control is impressive. Ride quality is good even over broken pavement, and engine noise is impressively damped thanks in part to active noise control in the cabin. Very little engine noise gets through to the cabin, which is otherwise well-insulated from sound. The package shelf over the cargo area is a thickly padded molded piece that rises with the liftgate and does a good job of keeping cargo compartment road noise out of the cabin. The overall driving experience in the Regal Sportback honestly doesn’t feel that much different from a high-spec Chevrolet Malibu, with which it shares a platform and powertrain, but the Regal doesn’t advance the sport or luxury quotient appreciably.\n\nTepid Interior\n\nThat “premium Malibu” aesthetic continues in the interior. The shapes and designs are appealing, but the execution is disappointing. Evidence of cost-cutting is starting to appear, and it’s a troubling GM trend. While the interior looks attractive from outside the vehicle, material quality is decidedly mixed, with hard surfaces on areas where there should be padding (like where the driver’s knee may contact the center console) and padding where hard surfaces would suffice (on the passenger side of the same console). Several interior pieces exhibited sharp molding seams, the turn signal and wiper stalks felt flimsy and hollow, and the “stitching” on the top of the dash isn’t actually stitching anything together. GM is removing height-adjustable shoulder belts on all of its new models, and it’s now the Regal’s turn for this cost-cutting measure. It all leads up to an interior that promises a lot in terms of style but doesn’t deliver a premium tactile experience commensurate with the brand’s desired image. In short: It doesn’t feel any more special than a high-end Chevy Malibu, and it’s not on par with a top-end Accord or Mazda6.\n\nTo the Regal’s credit, it’s much less expensive than many of the cars it’s trying to play against, like the Audi A5 or the Acura TLX. It’s also considerably roomier front and back, with a far larger and more useful cargo area than any of its competitors. Headroom is plentiful in any seat in the cabin, and rear legroom is a dramatic improvement over the cramped conditions in the old Regal. The new car has decent outward visibility and a long list of electronic safety and technology features that still bring it in far less than its competitive set. But it feels like a less expensive car than those competitors, so there’s no element of feeling like you got a bargain for your Regal versus an Audi A5 or loaded Accord — it just feels cheap in ways that it shouldn’t.\n\nCool Prices\n\nWhen it arrives, the Regal will undercut a lot of its competition significantly on the bottom line. The starting trim is the front-wheel-drive Sportback model for $25,915 including destination fee. That rises to the Preferred at $28,590 and the Preferred II for $30,655, and tops out with the Essence model at $32,655. All-wheel drive can be added to the Preferred II for $1,950 more, or the Essence for $2,050 more. The vehicles I sampled were two well-equipped Essence models, both outfitted with driver confidence packages that included blind spot warning, forward collision alert, LED headlamps, adaptive cruise control and a whole lot more, with the AWD model topping out at just more than $38,000.\n\nFrom a value standpoint, that’s an excellent price for a car that includes so much equipment, all-wheel drive, a powerful turbocharged engine and the unique hatchback configuration that makes it a highly useful vehicle. For fans of the now-defunct Saab brand, this might be the closest thing you can get to a modern Saab 9-3 — turbo engine, front-wheel drive, hatchback body style. To anyone looking for an American alternative to a Japanese or European premium sedan, the Regal Sportback isn’t going to be all that enticing.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "4dr Sdn FWD",
+          "price": "$24990",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "260 @ 2000-5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,748 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Preferred FWD",
+          "price": "$27670",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "260 @ 2000-5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,840 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Preferred II FWD",
+          "price": "$29770",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,885 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Essence FWD",
+          "price": "$31770",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "260 @ 2000-5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,902 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "16 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Preferred II AWD",
+          "price": "$31770",
+          "specifications": {
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3000-4000 SAE Net Torque @ RPM",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,081 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "17 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Essence AWD",
+          "price": "$33870",
+          "specifications": {
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/122 Displacement",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "295 @ 3000-4000 SAE Net Torque @ RPM",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "4,096 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "17 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "16 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn GS AWD",
+          "price": "$39070",
+          "specifications": {
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "282 @ 5200 SAE Net Torque @ RPM",
+              "310 @ 6800 SAE Net Horsepower @ RPM",
+              "3.6L/-TBD- Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,270 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/76e13a11-30a5-48e9-a437-63e9e1cbd59a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/bc32f93c-51b4-4ce1-8a68-d62d305d7f46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/f8b8df53-45b7-490f-a779-fba7a4c93715.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/6d7b8555-a5e1-4716-98d4-abf0cb0335c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/86363357-2510-4d74-96ac-3369dbe243af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/47a00f5f-ca3e-43aa-9ea2-da80d1c5d20c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cfdacecc-462e-46cd-a0a1-fbe8d259e02c/11c12ff2-8773-4a45-9011-e802f75e27ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/48f9c331-4e57-4fbb-a6fb-a7ee41132b07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/351f1ae2-1a15-4929-89fe-b7c4245d34b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/59206818-703a-4460-9128-5d9993e3f643.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/06851843-e171-45e1-a850-1555f2397663.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/93f0b6b7-b117-457f-9474-4e7a737a5daa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/aeedb0cf-38f2-49fb-a532-c5419da35660.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/4b7978c8-c293-45ec-86cd-9afdd6cccd5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/02802b24-c3be-4de8-9494-8978845a3db7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/7433f1e6-0115-4760-ae0a-6021317dea98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/9e3081ea-5d63-44e7-8491-5761ee0d0018.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/67c8db56-298c-4421-9344-dd6507286233/d78dc211-732c-4052-a3a2-72e28293daaa.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sdn FWD",
+          "price": "$25070",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Preferred FWD",
+          "price": "$27670",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "N/A Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,840 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Preferred II FWD",
+          "price": "$29770",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "260 @ 2000-5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,885 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Preferred II AWD",
+          "price": "$31770",
+          "specifications": {
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "295 @ 3000-4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Rear (Cont.)",
+              "5-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,081 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Essence FWD",
+          "price": "$31770",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "2.0L/122 Displacement",
+              "Turbocharged Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Front (Cont.)",
+              "4-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,902 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Essence AWD",
+          "price": "$33870",
+          "specifications": {
+            "Highlights": [
+              "21 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "295 @ 3000-4000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "5-Link Suspension Type - Rear",
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,096 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Avenir FWD",
+          "price": "$35270",
+          "specifications": {
+            "Highlights": [
+              "22 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Turbocharged Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "250 @ 5400 SAE Net Horsepower @ RPM",
+              "260 @ 2000-5200 SAE Net Torque @ RPM",
+              "Turbocharged Gas I4 Engine Type",
+              "2.0L/122 Displacement"
+            ],
+            "Suspension": [
+              "N/A Suspension Type - Front (Cont.)",
+              "N/A Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "4-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,840 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn GS AWD",
+          "price": "$39070",
+          "specifications": {
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 @ 6800 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "3.6L/-TBD- Displacement",
+              "282 @ 5200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "5-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "N/A Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,270 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

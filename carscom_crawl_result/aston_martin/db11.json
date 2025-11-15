@@ -1,0 +1,1406 @@
+{
+  "make": "aston_martin",
+  "model": "db11",
+  "years": {
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/6f2e9181-726c-40a3-b1f7-88f7a581c31a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/57b769af-1b86-4546-9d54-bbc3356f092a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/1cc9b71e-0438-4c57-818d-f14a52e2a104.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/f1f64e12-855c-4e9b-bb08-e99f74ac9ca8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/57b769af-1b86-4546-9d54-bbc3356f092a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/8b2df26d-d311-44d8-83d8-bfabfbab0d9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/f91b2191-483c-4d8c-a739-304517669bff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/b94805d6-cf0d-4869-885f-58c83f707369.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/598b1e09-a74a-41f9-a9e0-31da0888fd34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7dec141c-091b-4c6e-b2dd-90d7d8caf77a/52f459e8-433a-4949-a43b-286ac48d2539.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Coupe",
+          "price": "$211995",
+          "specifications": {
+            "Highlights": [
+              "15 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "600 @ 6500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-12 Engine Type",
+              "5.2 L/317 Displacement",
+              "516 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,080 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Launch Edition Coupe",
+          "price": "$230345",
+          "specifications": {
+            "Highlights": [
+              "15 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "600 @ 6500 SAE Net Horsepower @ RPM",
+              "5.2 L/317 Displacement",
+              "Twin Turbo Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,080 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c6b163d-a884-4590-91df-444bdb5c0ef6/bc8a3695-f108-4ec6-b881-761e2e3cb50f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6c6b163d-a884-4590-91df-444bdb5c0ef6/012ce377-acb6-4d18-aa21-d9292c837300.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c6b163d-a884-4590-91df-444bdb5c0ef6/dc3be55e-1ab5-463a-baee-808070a7b75f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6c6b163d-a884-4590-91df-444bdb5c0ef6/012ce377-acb6-4d18-aa21-d9292c837300.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "V8 Coupe",
+          "price": "$217000",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.0 L/243 Displacement",
+              "528 @ 6000 SAE Net Horsepower @ RPM",
+              "513 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,891 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "V12 Coupe",
+          "price": "$232500",
+          "specifications": {
+            "Highlights": [
+              "14 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "630 @ 6500 SAE Net Horsepower @ RPM",
+              "5.2 L/317 Displacement",
+              "Twin Turbo Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,134 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Volante",
+          "price": "$233200",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.0 L/243 Displacement",
+              "528 @ 6000 SAE Net Horsepower @ RPM",
+              "513 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,134 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d05a89ca-2c99-459f-8a50-9fca2794bda7/fb2dcbcf-0d09-4d41-8af0-282498d16f5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d05a89ca-2c99-459f-8a50-9fca2794bda7/fb2dcbcf-0d09-4d41-8af0-282498d16f5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d05a89ca-2c99-459f-8a50-9fca2794bda7/0294dc7f-3384-4340-9dc2-1a36cc449b56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d05a89ca-2c99-459f-8a50-9fca2794bda7/837e7c94-7393-4d45-b53f-b02d242a1495.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "V8 Coupe",
+          "price": "$198995",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "513 @ 2000 SAE Net Torque @ RPM",
+              "528 @ 6000 SAE Net Horsepower @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,880 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "250 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Volante",
+          "price": "$220820",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.0 L/243 Displacement",
+              "528 @ 6000 SAE Net Horsepower @ RPM",
+              "513 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,134 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "V12 Coupe",
+          "price": "$248986",
+          "specifications": {
+            "Highlights": [
+              "14 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.2 L/317 Displacement",
+              "Twin Turbo Premium Unleaded V-12 Engine Type",
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "630 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,134 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/5c151e04-c20a-4137-a1c2-47f4f4cecd0a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/0520e53e-1a58-40b9-ad51-bbf8f2f5d7c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/7111cc12-d84c-4a67-8bc7-610256c6b0ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/cd5e754d-9eb7-489b-aed0-caedcc46e673.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/0520e53e-1a58-40b9-ad51-bbf8f2f5d7c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/d38d6726-3979-4f3d-81ff-a5577f3a2a9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/45be9484-b7cf-4d70-808e-92bb89f90c9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/12fc37e1-cbf2-4167-ba8a-c974dcec5109/44a258d9-6670-4b2b-a66c-c54b87e222a4.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "V8 Coupe",
+          "price": "$198995",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "513 @ 2000 SAE Net Torque @ RPM",
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,880 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "250 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Volante",
+          "price": "$198995",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.0 L/243 Displacement",
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "513 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,134 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "AMR Coupe",
+          "price": "$241000",
+          "specifications": {
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.2 L/317 Displacement",
+              "Twin Turbo Premium Unleaded V-12 Engine Type",
+              "630 @ 6500 SAE Net Horsepower @ RPM",
+              "516 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,134 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d4240a97-c83d-42e9-9cf1-e649ae4965e5/1ab5d97e-ee20-4e2b-9019-36b43bc30858.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/a97ef2e5-0cac-470b-9a8d-61e241a58d2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/58eb8d5d-a1c3-403a-b667-f37b9ffb4feb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/b3d96093-c9c3-4121-90fd-753e331c4433.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/f72d34c4-10cb-4f54-b123-509f999e9ac7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/f2e4e084-bf5d-43aa-888c-fa0fb408ddd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/2dd6638f-8893-4f3b-8691-02f6190f1fba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/afbfc5af-414a-4f35-808d-fac4e2867273/baa87e28-3f50-46aa-b37c-06da84594c74.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Volante",
+          "price": "",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "4.0 L/243 Displacement",
+              "497 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,134 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "V8 Coupe",
+          "price": "$198995",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "497 @ 2000 SAE Net Torque @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "503 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,880 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "V12 Coupe",
+          "price": "$216495",
+          "specifications": {
+            "Highlights": [
+              "15 City / 21 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "Twin Turbo Premium Unleaded V-12 Engine Type",
+              "600 @ 6500 SAE Net Horsepower @ RPM",
+              "5.2 L/317 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,080 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d355eebd-1544-493d-af46-3fc341016767/64ad1abc-bf56-4e1b-af4d-a8780cefe3f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d355eebd-1544-493d-af46-3fc341016767/3b6de581-625b-4a9f-ac57-21698b08fc0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d355eebd-1544-493d-af46-3fc341016767/7848b8c6-40db-45ed-8ffd-4ae879c595ef.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d355eebd-1544-493d-af46-3fc341016767/3b6de581-625b-4a9f-ac57-21698b08fc0a.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "V8 Coupe",
+          "price": "$205600",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "513 @ 2000 SAE Net Torque @ RPM",
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,880 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Volante",
+          "price": "$220900",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "513 @ 2000 SAE Net Torque @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,134 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "21 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Shadow Edition Coupe",
+          "price": "$222600",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "513 @ 2000 SAE Net Torque @ RPM",
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,880 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "250 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Shadow Edition Volante",
+          "price": "$237900",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "4.0 L/243 Displacement",
+              "513 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,134 lbs Base Curb Weight",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "250 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "16 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "AMR Coupe",
+          "price": "$245900",
+          "specifications": {
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Twin Turbo Premium Unleaded V-12 Engine Type",
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "5.2 L/317 Displacement",
+              "630 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "4,134 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/d614688d-ddad-46f1-99e7-88fa5a85f664.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/5b1d4ffd-affc-43f2-bded-f5567ae802f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/cdf89776-806b-460a-9121-6ac1ee8bccd0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/5b395c0b-b755-411e-9394-f8592921a756.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/1711e649-885f-4538-b384-e138913e0cec.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/0a0402c8-1eb8-4183-8877-d1a844071b5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/9b465c89-f8f8-4c7c-a8bc-521b7ab56d44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f02c7ca2-49ab-4740-bd89-b4da52f33c53/0a0402c8-1eb8-4183-8877-d1a844071b5c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Volante",
+          "price": "$201495",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "497 @ 2000 SAE Net Torque @ RPM",
+              "503 @ 6000 SAE Net Horsepower @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,134 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "V8 Coupe",
+          "price": "$216495",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "497 @ 2000 SAE Net Torque @ RPM",
+              "4.0 L/243 Displacement",
+              "Twin Turbo Premium Unleaded V-8 Engine Type",
+              "503 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,880 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "V12 Coupe",
+          "price": "$221995",
+          "specifications": {
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "600 @ 6500 SAE Net Horsepower @ RPM",
+              "5.2 L/317 Displacement",
+              "Twin Turbo Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,134 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "AMR Coupe",
+          "price": "$241000",
+          "specifications": {
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "630 @ 6500 SAE Net Horsepower @ RPM",
+              "5.2 L/317 Displacement",
+              "Twin Turbo Premium Unleaded V-12 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "21 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,134 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "AMR Signature Coupe",
+          "price": "$270000",
+          "specifications": {
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "4 Seat capacity",
+              "Twin Turbo Premium Unleaded V-12 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "516 @ 1500 SAE Net Torque @ RPM",
+              "630 @ 6500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-12 Engine Type",
+              "5.2 L/317 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,134 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "21 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "16 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

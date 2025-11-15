@@ -1,0 +1,851 @@
+{
+  "make": "tesla",
+  "model": "model_y",
+  "years": {
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/aa8c6f67-383b-4fbe-aaa5-56105660b952.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/930ce7c4-fd77-4ade-9a43-2ab50dcb190b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/1b63f6b8-bab1-4513-845e-603ab1b31dec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/4d81a9aa-2704-407a-99f6-ed6c307e8a96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/03a898ef-6cd1-4e98-aa08-1da1be0f4fb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/5fa51177-ad0b-413b-a873-ced43fe40c65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/b17a2443-bf8a-4294-918d-779dd4ead427.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/6b7ccc78-9199-4910-8eb2-14fe40db8437.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/b60ee070-1272-4a08-9dff-f0c593c08603.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/c53732f7-ac18-430c-9d02-e76035a59cfb.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8b540f5b-5b02-4039-b3ce-a2b6252867eb/364cc663-b414-418e-a549-9e63934145e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/38973940-4fce-4f01-9428-cbd97c092d2d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/2b4c9533-f180-4ae0-a7ff-f49828fc4853.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/740f2630-1ceb-4fe0-bd96-d28618d9e7b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/11086c48-dda1-4ba0-aa72-884c361aa8e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/69a67e87-f59d-43f9-a2b7-61e94d8e3ebe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/d742b31c-9531-4e4d-ad76-bbd258dfa0eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/bf5053fd-c6d2-48a9-ab36-e12c33731193.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/f7fe0011-4a64-40c2-b026-e997051e2cce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/9116c59f-5f7a-4dd9-b95d-a4e4e179065e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/f4975f7e-e617-440f-9258-7a7067059a7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/9301e1c2-6d9b-46d8-a6ca-941aa8a8735c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/44d3070a-5348-4438-8dc0-028474b5218d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/3b5158c6-7379-4162-bd04-a58997be7cde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/0b8b7db7-97b3-474c-99ae-6fff7f11b8c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/b66b0f03-4413-4b90-8a79-bc0ee38c7939.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/bed7d881-8c1c-48af-aba7-fa6d0218e0e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/3dec57fa-fecb-4590-8f5e-6e393904db3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a457eac7-0944-4072-a7b7-4d99283b0373/3cdbb679-caf3-4d60-bf31-bc7bf1951a9f.png"
+      ],
+      "expert_review": "The verdict: The Tesla Model Y remains untouchable in its combination of efficiency, range and performance, but it’s not without a few potentially deal-breaking quirks.\n\nVersus the competition: More than simply energy-efficient, the Model Y is space-efficient, with generous passenger and cargo room for its size, making it a perfectly usable and spacious small SUV.\n\nThe Tesla Model Y is the most popular EV today, with more registered in the first quarter of 2021 than any other EV, according to reports from Experian and Automotive News. So what is it about the Model Y that’s so appealing? A lot, actually, even considering the latest competition from electric SUVs like the 2021 Volkswagen ID.4 and 2021 Mustang Mach-E.\n\nLooking at the Model Y, you might think, “That’s an SUV?” The Model Y is a higher-riding version of the Tesla Model 3, with a liftgate and open cargo area versus a trunk, and it has all-wheel drive. So — by today’s standards — yes, it’s an SUV. The Model Y’s exterior footprint is almost identical to the BMW X4, which is a fastback “coupe” version of the popular BMW X3 SUV — an originator of the compact luxury SUV class. The Model Y is sized right in the heart of the soon-to-explode EV SUV class, which could see up to a dozen new luxury and non-luxury offerings in the next couple of years.\n\nRelated: Tesla Replaces Radar Sensors With Tesla Vision Camera System\n\nTesla didn’t have a Model Y available for our evaluation period, so we turned to a peer-to-peer rental to test a long-range 2021 Model Y five-seater with AWD. It had an EPA-rated range of 326 miles, a Tesla-rated 0-60 mph time of 4.8 seconds, and optional 20-inch wheels instead of the standard 19s. Its as-configured price of $54,290 makes it a modestly priced SUV among luxury competitors, without being out of reach for non-luxury EV buyers; the last Mach-E First Edition we tested was almost $60,000. Of course, a federal tax credit of up to $7,500 can make similarly priced competitors easier to swallow; Tesla grew out of the volume-capped tax credit at the end of 2019, so no such discount applies to the Model Y.\n\nTesla Model Y as an SUV\nCargo Room\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nOne of an SUV’s defining characteristics is cargo room, and the Model Y has ample amounts of it, especially considering its compact proportions. Three large storage areas add up to big versatility: There’s the main cargo area behind the backseat, as well as two large tubs — one in back under the cargo floor and a front trunk — both of which can store sizable items.\n\nWe perform our own cargo testing in part because automakers vary in how they execute standardized methods, leading to invalid comparisons. By our measurements, the Model Y’s 20.9 cubic feet of cargo volume behind the backseat, including the rear tub, is more than the ID.4’s 18.9 cubic feet and the Mach-E’s 15.9 cubic feet. It’s also slightly more than you get in traditional electrified compact SUVs: the Honda CR-V Hybrid has 19.6 cubic feet and the Toyota RAV4 Hybrid has 20.7 cubic feet.\n\nThe Model Y’s backseat folds in a 40/20/40 split, but it doesn’t quite fold flat because of the seats’ prominent side bolsters. Even so, with the seats folded, what looks like a small car on the outside can haul items like a larger SUV could.\n\nA bonus: The Model Y’s front trunk measures 2.9 cubic feet, beating the Mach-E’s 2.0 cubic feet. The ID.4 has no frunk at all.\n\nPassenger Room\n\nI’m a slender 6 feet tall with long legs, and my legs had room to breathe in the driver’s seat. The backseat reclines but doesn’t slide in the two-row version, and I was adequately comfortable back there; there’s good thigh support and headroom to spare, plus generous cutouts in the back of the front seats that opened up foot room. We tested a two-row model, but there’s a small optional third row that increases the number of seats to seven and gives the second row a sliding function for third-row accessibility. I don’t expect the third-row proportions to be quite as generous, but we haven’t tested it yet.\n\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\nDriving Impressions\n\nWhat’s not SUV-like about the Model Y is how it drives; it’s more like the Model 3, which is aggressively tuned for spirited driving. Here in the Chicago area, where potholes are simply a road feature instead of an occasional deterioration, you too may find the ride quality somewhat uncomfortable if you don’t care for a tight, sporty driving feel.\n\nThe Model Y’s ride quality was a polarizing topic among Cars.com editors. Some thought it was unrefined or simply too harsh, but others, including myself, found the ride taut yet sophisticated and well controlled. For those looking for a sports-car-like feel, the stiff ride is worth the price of admission. It’s a genuine joy to drive, with quick reflexes thanks to a tight steering ratio, good steering feedback and competent dynamics. Snaking the Model Y through curvy roads reminded me of the latest BMW 3 Series with the M Sport package: not for everyone, perhaps, but those who appreciate a dynamic car will be rewarded.\n\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nVersus other EVs, the Model Y is more nimble than the Mach-E, which feels a bit bloated in comparison — and it is 500 pounds heavier when similarly equipped despite comparable exterior proportions. There was no polarization over the Mach-E’s ride quality: We all found something peculiar about how it porpoised down the road, seemingly pitching from its center over bumps.\n\nMost affordable EVs don’t ride that well, but if none of the above sounds appealing, check out the VW ID.4: Its soft, inoffensive ride makes it a standout among the current crop of EVs.\n\nThe Model Y’s acceleration is punchy and rewarding, and those who haven’t driven an EV will be blown away by how quickly even the non-Performance Model Y accelerates compared with traditional gas-powered luxury SUVs in its price range. Typical of EVs, there’s no step-gear transmission, and the result is near-instant acceleration response, with no waiting for kickdowns or gear changes. The Model Y seemed to accelerate harder for longer than the Mach-E, despite equal 0-60 mph claims from each automaker (4.8 seconds). Where the Mach-E fell off around 50 mph, the Model Y felt like it was just winding up.\n\nVisibility\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nWhere there’s less confidence is in the Model Y’s visibility. The small rear window doesn’t offer great natural visibility, though it has electronic assists that might help if you’re willing to put in a little effort. This takes us to the large 15-inch touchscreen that’s the main control and user interface for the vehicle’s climate controls, vehicle systems, multimedia, navigation and driving monitors.\n\nOne function of the screen is the rear camera system, which isn’t simply a backup camera display that pops up when the car is in Reverse. The rear view can be left on while driving to show what’s behind the Model Y, and you can augment the display with two rearward-facing, side-view cameras so you can also see along the left and right sides of the vehicle.\n\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nThe large, high-resolution camera feed is detailed and informative, but having it appear in a central 15-inch touchscreen, along with the speedometer and everything else, is somewhat distracting. It would be easier to simply glance at a display integrated across a full rearview mirror, like what’s offered in the Chevrolet Bolt EV. A 360-degree, top-down camera view would also be nice for parking, but it’s not offered.\n\nWhat would have made for more confident lane-changing is a traditional blind spot monitoring system that alerts drivers to a car in their blind spot with an illuminated symbol in a side mirror. That doesn’t exist in the Model Y; instead, a real-time visualization of the road and your surroundings are digitized in that central 15-inch screen, showing what’s around the Model Y. Colored markers alert you to what’s there, and you can also see digitized versions of surrounding cars in real-time proximity.\n\nThis all requires looking at the screen, however, versus simply seeing an orange light in your periphery while looking forward — or hearing a “ding-ding” when the turn signal is on, as a traditional system would sound. The Model Y does have a selectable audible warning that alerts you if you try to change lanes with a vehicle in your blind spot, but it has a high threshold and is more of a “What are you doing?!” alert versus a gentle “Excuse me, someone is over there right now.”\n\nTowing\n\nThe Model Y is rated to tow up to 3,500 pounds — good compared with conventional small SUVs and more than good compared with today’s EV SUVs, including the VW ID.4 (2,200 pounds) and Mach-E (not rated to tow). An optional tow package unlocks the Model Y’s capabilities, including a tow bar with a 2-inch hitch receiver, a seven-pin connector and a harness, plus a tow mode. We can only guess how much the SUV’s range would suffer towing a 3,500-pound trailer; likely a lot.\n\nTesla Model Y as an EV\nRange Anxiety: What’s That?\n\nWith up to 326 miles of EPA-estimated range, range anxiety wasn’t a concern while driving the Model Y in the Chicago area — and that wasn’t only because of its long range and a surplus of Tesla DC fast-charge Superchargers in the area. Peace of mind was easy to come by because of how the Tesla informs you of its efficiency through useful driving information. For example: the Trip Monitor, which is one of the most useful information graphics I’ve experienced.\n\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nThe Trip Monitor helps drivers understand how their habits affect efficiency, plus how much battery life and range will be used in a given trip. It works only when there’s a navigation destination entered, showing a gray line predicting how much energy you’ll use in a given trip, overlaid in real time by a green line representing your actual energy use. You can use it to make real-time corrections to your driving style in order to arrive at a destination with a greater pad for your return trip. You can see right away when you need to stop driving like an ass, or just change to more efficient driving and regenerative braking modes.\n\nThis is what it looked like in action: I was supposed to return the Model Y to its owner at the end of the loan with at least 80% battery charge. When I got in the car and entered the destination, the Model Y estimated I’d have exactly 80% left by the time I got to the owner. Driving efficiently in the lower power and greatest regenerative braking modes, I ended the trip with 82% battery life — so a 2% less jerk move.\n\nBraking\n\nThe Model Y’s braking feel is top-of-the-line. Few EVs, hybrids or even gasoline cars with brake-by-wire systems stop as naturally as the Model Y. Pedal feel is linear and firm but not hard, and unlike the Mach-E you can use the brake pedal to stop without worrying about giving your passengers whiplash. The regenerative braking function is always active, but you can make it more aggressive in the Hold mode  in order to increase efficiency. That mode will slow the car to a stop using regenerative braking at lower speeds than will other braking modes, then hold once stopped. It takes a fair amount of attention to use, however, because simply letting off the accelerator in this mode aggressively stops the car; it takes a slow return of the accelerator to smoothly decelerate. There are two other stop modes: Creep mode, which acts like a regular gas car, leaving the Model Y to slightly accelerate at “idle” when your foot is off the accelerator, and Roll mode, which lets the car roll without any intervention, as if it were in Neutral. But neither have the extra regenerative force of Hold mode.\n\nCharging\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nIn a metropolitan area like Chicago, it’s possible to use Supercharging regularly because there are so many locations, but home charging is really the best way to do EV ownership. Tesla warns in its owner’s manuals to minimize the use of DC fast chargers, like Supercharging, for the sake of optimal battery health. In addition, DC fast charging can be expensive.\n\nAt home, the fastest a Model Y can replenish its battery is 42 miles of range per hour, using the car’s maximum 11.5 kilowatts, a Tesla or equivalent wall unit, and a compatible 240-volt circuit providing up to 48 amps (a 60-amp circuit breaker). At a more average 24 amps, like you’d find on a standard 240-volt clothes dryer circuit (a 30-amp breaker), you’d be able to charge at 21 miles of range per hour. That’s a difference of adding 250 miles of range in six hours or 12 hours, both with charging systems classified as 240-volt Level 2.\n\nThe Model Y comes with what Tesla calls a Mobile Connector, which has a pretty robust 32-amp rating you can tap into by purchasing an appropriate short adapter cord for use with a 240-volt outlet (the plug determines the current and, thus, the charging rate). It comes with a 120-volt adapter for trickle charging at 3-4 miles per hour. Good for 29 miles of range per hour, this unit might be all you’ll need.\n\nHome charging can vary wildly from house to house depending on your electrical setup, and one advantage Tesla has over other EVs is how many amperage settings it provides, allowing you to charge on a variety of 120- and 240-volt circuits. The charging rate is selectable via an onscreen Energy Display, where you can change the charging rate by single digits to accommodate whatever circuit you might encounter. This maximizes the charging speed when possible and cuts it down when the circuit is shared with another car or appliance. The Model Y will even learn a location’s settings and remember them when you return.\n\nSupercharging is ideal when on a road trip or on the go; 250-kW Superchargers aren’t uncommon in our area. Other common speeds are 150 kW and 72 kW. How quickly these DC fast chargers add miles will vary by charger and your battery’s state of charge. In our testing, we added 127 miles of range in 50 minutes on a 250-kW Supercharger, though that was with a battery not at an ideal state for the fastest charge rates: It started at over 50% and stopped at full.\n\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nThe fastest charge times come with lower battery levels, and the rate slows considerably as the charge level nears full; we never saw a rate above 70 kW during the charge referenced above. Case in point: We hit a charging rate as fast as 127 kW on a slower, 150-kW Supercharger when going from a quarter-full battery up to 90%; that charge added 198 miles in 40 minutes. Supercharging cost us 31 cents per kilowatt-hour, or $15.19 for the replenished 49 kwh. At home, the same charge would have cost $6.51 at the national average rate of 13.29 cents per kwh, but it would have taken at least 4.7 hours.\n\nIn our experience, we haven’t been able to charge faster than 80 kW on a DC fast charger with the ID.4 or the Mustang Mach-E, even though those vehicles are rated for 125 kW and 150 kW, respectively.\n\nAutopilot — What It Is, What It Isn’t\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nAutopilot is a semi-autonomous, hands-on driver-assist system that Tesla doesn’t recommended using hands-free. In its current incarnation, which could expand in the future, Autopilot acts as an advanced cruise control that centers the car in its lane. It was ahead of the curve a few years ago, but it’s since been matched by many competitors, including modest brands. It is, however, standard in the Model Y, unlike Cadillac’s more ambitious hands-free Super Cruise and BMW’s Extended Traffic Jam Assistant, and it works well in a variety of driving situations — more than some advanced lane-centering driver assistants.\n\nAutopilot won’t truly distinguish itself again until its full capabilities are unlocked. Some of these capabilities are in beta testing if you opt for the $10,000 Full Self-Driving Capability Package. Even then, Tesla warns, “the currently enabled features do not make the vehicle autonomous.”\n\nOur test car didn’t have this package, which currently unlocks the following:\n\nNavigate on Autopilot: A beta feature that gives the ability to navigate a highway interchange automatically, engaging the turn signal and taking an exit\nAuto Lane Change: Can move the vehicle to an adjacent lane\nAutopark: Can automatically parallel or perpendicular park the car (competing brands also offer this feature)\nSummon: Moves the car in and out of tight parking spaces with an fob or phone application\nTraffic Light and Stop Sign Control: Also a beta feature; reads stoplights and traffic signs and can slow the vehicle to a stop\nAutosteer on city streets: As it currently exists, Autosteer is designed for highways and limited-access roads, but Autosteer on city streets (currently in beta to select owners) will open that function to city speeds. This will allow a Tesla to navigate to an entered destination while following traffic signals, turning, stopping and accelerating. This is still a Level 2 hands-on system requiring driver attention and intervention.\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nEven without the self-driving package, our car showed a preview of this advanced functionality. The driving status display shows what the car’s cameras are viewing and visualizes it on the touchscreen, including vehicles of different shapes and sizes — it will show a pickup truck or bus as well as pedestrians and cyclists — but there’s more you can add with the Full Self-Driving Visualization Preview. In this beta preview, the car will read trash cans, safety cones, red lights, road markings and more. There are self-driving implications here, but for now it’s more informative than actionable; on our test car (without the package), it was sometimes overwhelming. What’s shown on the screen isn’t always accurate, either; at one point, the screen didn’t show a bicyclist on the side of the road but recognized a garbage can behind the bicyclist. This can all be turned off.\n\nTesla recently announced that this functionality will come exclusively through camera-based technology, instead of using both radar and cameras, in Model 3 and Model Y vehicles produced from May 2021 onward. The transition means the car’s software hasn’t fully caught up with the hardware yet, and there are limitations on those cars: Emergency Lane Departure Avoidance isn’t functional, and for a short period Tesla says Autosteer, which keeps the car in its lane, will be limited to a maximum speed of 75 mph — down from 90 mph.\n\nInterior Quality\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nThe Model Y’s interior quality isn’t going to wow anyone like a similarly priced Mercedes-Benz GLC300 or Genesis GV80 might. It’s not flashy, but it does feel high-quality — like its synthetic seating upholstery, which is supple and convincing. The front seats aren’t too aggressive, but nor are they unsupportive; they’re comfortable seats with a natural seating position. The wood trim has open pores, and aluminum trim is used sparingly but well. The interior doesn’t scream “luxury,” and it’s not considerably more opulent than a loaded Mach-E’s insides, but I think it’s a fair trade-off for what the Model Y does give you as far as an exceptional EV experience.\n\nPotential Deal Breakers\nNo Apple CarPlay or Android Auto\n\nThe biggest omission I see is a lack of Apple CarPlay and Android Auto, which is almost inexcusable nowadays. There also isn’t a Siri function through steering-wheel controls as other cars that omit CarPlay have. Since the last Tesla I reviewed, in 2018, voice-to-text functions have been added through over-the-air updates — a staple of post-purchase Tesla expandability — and it’s included in new Teslas. Also added since 2018 is Spotify streaming music integration, which is nice if you’re a Spotify user.\n\nAs for the omission, I somewhat get it: Apple CarPlay or Android Auto would make it harder to use Tesla’s integrated navigation features, like finding Supercharger locations and availability, plus the trick efficiency monitor and Supercharger routing based on charge status and destination. One of the greatest assets of these smartphone mirrors is to provide Google Maps and Apple Maps when navigation isn’t optioned or offered, but Tesla uses graphics from Google Maps and Tesla-powered routing with success. I wanted Apple CarPlay and Android Auto more for their seamless voice-to-text functionality, Siri, and the apps and podcasts that weren’t included in the Tesla.\n\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nOne more annoyance with Tesla’s phone integration: The wireless charging pad didn’t work with my phone case — an OtterBox Commuter Series, which is designed to work with the iPhone 12’s wireless charging. It works on other cars I’ve tested with wireless charging, including our long-term 2021 Ford F-150 Hybrid. In the Model Y, I had to remove my phone from its case in order to use wireless charging, which is ridiculous for a convenience feature; I just kept it plugged in to charge via a wired connection. The wireless charger comes standard, so it’s not like it costs extra to get something that doesn’t work, but it’s still a bummer. I wasn’t the only one whose phone didn’t work with the wireless charging pad; another editor’s Android phone wouldn’t charge in its bulky case.\n\nNo Instrument Panel\n2021 Tesla Model Y | Cars.com photo by Christian Lantry\n\nWhat took the most acclimation was that the Model Y doesn’t have a speedometer within the driver’s forward view, just like the Model 3. Yes, you’ll get used to looking at the speedometer in the central screen’s upper left corner, but I really wanted a proper instrument panel like you’d find in the Mach-E or ID.4 — or even the Tesla Model S and Model X, which continue to use one even after their recent refresh. Even though the speedometer is at the top of the screen, it’s still a noticeable glance down versus a traditional instrument panel or head-up display.\n\nI don’t mind almost all other controls being relegated to the touchscreen because it’s responsive and familiar enough to find items in the shallow option menus (like you would in a phone). Also, you can save your preferred settings and configurations to a unique profile, which limits having to play around with the screen after an initial setup.\n\nMore From Cars.com:\n\n2021 Cars.com American-Made Index: Which Cars Are the Most American?\nNew Report Finds Tesla Most Popular Luxury Car Brand\nTesla Recalls Model S, Model X Following Letter From Feds\nWhich Cars Have Autopilot?\nTesla SUV Buying Guide\nWhich Cars Have Self-Driving Features for 2021?\nSimply the Best?\n\nBack to the estimated 326 miles of range: It’s a lot. In the budding EV SUV class, no one is close to offering that kind of rated range and giving you the Model Y’s acceleration (which, reminder: 0-60 mph in 4.8 seconds). A Mustang Mach-E is rated for up to 305 miles of range, but only with single-motor rear-wheel drive and a 0-60 mph time of 6.1 seconds. The larger-battery Mach-E with the 4.8-second 0-60 mph time — thanks to dual motors and all-wheel drive — is rated at 270 miles of range. The Model Y Long Range AWD is simply more efficient than the Mach-E AWD Extended, using 27 kwh for every 100 miles versus 37 kwh per 100 miles for the Mustang, according to EPA estimates. In an EV, efficiency translates both to faster charging and longer range, other factors being equal, along with cheaper cost for each mile driven.\n\nIn 2018, we matched the Model 3 and Model X 0-60 mph claims, so I don’t think Tesla is overstating the Model Y’s capabilities at this level. As far as range accuracy, I didn’t feel shorted during my few hundred miles behind the wheel. The range prediction was in the ballpark for my actual distance traveled, but I’d need to do a longer test in various weather conditions in order to say whether 326 miles is realistic, and in what conditions. Cold temperatures rob range from any EV — roughly 40% at 20 degrees Fahrenheit versus 75 degrees, according to AAA.\n\nAs for the list of “wants” that could be deal breakers, they’re available in other EVs, but with a hit to range and performance — or both. There are also states where Tesla isn’t allowed to sell you a new car (including Texas, Delaware and Wisconsin) or are limited in the number of stores it can operate (including New York and Colorado). That doesn’t mean you can’t own a Tesla in those states, but the purchase must happen elsewhere — leading to questions about future service, though a Tesla mobile service is available. You do, however, likely have a Volkswagen or Ford dealership in closer proximity — just keep in mind that those dealerships will need to be trained and have the proper equipment to work on their brands’ electric cars, and not every location may make that investment.\n\nIt’s easy to see why the Model Y is so popular. It’s affordable in the context of other luxury SUVs, has oodles of range and a great charging infrastructure, and it’s fun to drive and own. The Model Y does do a couple of goofy things, and unfortunately, they’re not easy fixes expected to be remedied anytime soon. If a stiff ride or lacking Apple CarPlay, Android Auto and an instrument panel are deal breakers for you, you have more compelling options in the Ford Mustang Mach-E and Volkswagen ID.4, but it’s really hard to look elsewhere when the Model Y does so many things so well — things that are core to what’s considered good for both EVs and SUVs.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Standard Range RWD *Ltd Avail*",
+          "price": "$39990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Seats five or seven",
+              "Up to 326 miles of rated range",
+              "Dual motors for all-wheel drive",
+              "0-60 mph in 4.8 seconds (Long Range) or 3.5 seconds (Performance)",
+              "Standard Autopilot driver-assist system"
+            ],
+            "Highlights": [
+              "244 - 303 mi. Range",
+              "7 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 SAE Net Torque @ RPM",
+              "271 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,065 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Long Range AWD",
+          "price": "$58990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Seats five or seven",
+              "Up to 326 miles of rated range",
+              "Dual motors for all-wheel drive",
+              "0-60 mph in 4.8 seconds (Long Range) or 3.5 seconds (Performance)",
+              "Standard Autopilot driver-assist system"
+            ],
+            "Highlights": [
+              "244 - 330 mi. Range",
+              "7 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "425 SAE Net Horsepower @ RPM",
+              "475 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,500 lbs Maximum Trailering Capacity",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,555 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Performance AWD",
+          "price": "$63990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Seats five or seven",
+              "Up to 326 miles of rated range",
+              "Dual motors for all-wheel drive",
+              "0-60 mph in 4.8 seconds (Long Range) or 3.5 seconds (Performance)",
+              "Standard Autopilot driver-assist system"
+            ],
+            "Highlights": [
+              "244 - 387 mi. Range",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "487 SAE Net Torque @ RPM",
+              "455 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,555 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "3,500 lbs Maximum Trailering Capacity",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/3dbbf83f-db82-4175-b378-b1aace0ba687.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/8c7e5cef-6ffd-4a6e-8c05-8a8c0181562e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/f7a27acd-c546-4e0a-88ed-2882e43e4a0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/d917bea3-de29-41d3-a5c0-e069adc1426b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/f6843675-b8d2-4587-a5ba-f4fccd56fa3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/f76fd505-843d-46eb-9618-ff8483288a23.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/311eafe7-95c5-4ee5-a0e9-5d277b2b99e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/5b2df9de-274f-4303-8631-249ccfbbc542.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/7d99d9e1-7769-4c61-84a6-d889fb84c681.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/7877479d-388c-4195-91f5-1fad3e51233d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f21086df-4e2f-4ef5-9aec-fa76e8d043ed/1d61b7d5-13ca-471a-8e46-86b03b46060a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/2e24b5ac-e9a2-41e1-8929-343d65669ebf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/5e6c74db-014e-44b9-92ac-e941a2271906.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/982cab17-9498-47cb-9f19-d6010083b577.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/26f9cde0-1dc9-40a0-9d3f-bbc030714686.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/bb94e7e9-c180-40e2-a10d-cb2a1050a1c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/18f713f5-b2e1-4323-8dda-fcf940fadbd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/4f8856cb-b800-45da-bd30-1830d5da7169.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/0515f8a2-649f-4c4c-8c6c-5b8a5dad5fc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/33f00ac3-cf7f-4789-8218-8866f4320b07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/6bdd5ab9-114e-4e29-bfbd-02f8516c78b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/c05d2a64-8602-41f0-99e5-e2a2172c4d88.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/fc4aef59-cb6c-4b10-8424-9ac4791cc3d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/e6b1d420-20ba-43b1-834c-d9f83654455d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/244d9e88-8827-402e-ab78-824eabb7709c/829cbafa-65b5-4211-83fb-df88c428aaeb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/867d37ea-7068-4f68-8a2b-af30008fb1b4/4a6bdcda-693c-45a1-b59c-588becdf7ad2.png"
+      ],
+      "expert_review": "Key Points in This Review:\n\nTesla has updated its Model Y electric SUV for 2026 with new styling and features.\nDespite the changes, the 2026 Model Y still drives and operates much like its predecessor.\nThe changes for 2026 aren’t significant enough to warrant upgrading if you currently have a Model Y.\n\nTesla’s popular Model Y electric SUV received a host of updates for the 2026 model year, with new exterior styling, a new interior and new features. We’ve already taken a quick spin in the 2026 Model Y Launch Series, which is no longer offered, but we recently spent two weeks in the more affordable all-wheel-drive Long Range version.\n\nCars.com owned a 2021 Model Y for more than two years as a long-term test car, so we’re very familiar with this EV, and we were curious to see whether the changes for 2026 address the issues we had with the prior generation — as well as how it stacks up against today’s all-electric competition.\n\nRelated: 2026 Tesla Model Y Gets Long Range AWD Variant, Starts at $50,380\n\nThis article covers the Long Range AWD version of the 2026 Model Y, but Managing Editor Joe Bruzek drove the Launch Series of the updated Model Y and we have some split opinions on the car’s changes, covered below.\n\nRelated Video:\n\nRide Quality Still on the Firm Side\nTakeaway: If you thought the prior Model Y’s ride was too firm, you’ll probably think the same of the 2026 version.\n\nOverly stiff ride quality was a big drawback of our long-term Model Y even though it did contribute to the SUV’s sporty handling. That firm suspension tuning continues in the 2026 Model Y, which is disappointing because the stiff suspension tuning can grate on your nerves after a while if you live somewhere that doesn’t have perfectly smooth roads. There’s plenty of pockmarked, potholed pavement around Cars.com’s Chicago headquarters, and it makes for a bumpy, almost brittle ride quality with the Model Y’s optional 20-inch wheels and tires (19-inch wheels and tires are standard). It’s all the more frustrating because competitors like the Hyundai Ioniq 5 deliver more forgiving ride comfort that’s a better fit for how an SUV like this is used day in and day out.\n\nAn Ever-So-Slight Improvement in Outward Visibility\nTakeaway: The new Model Y’s exterior shape and windows are unchanged, so rear visibility is just as restricted as it was before, and new blind spot warning indicators near the side mirrors are only marginally beneficial.\n\nThe general shape and greenhouse of the Model Y hasn’t changed for 2026, so it’s probably not surprising that rear visibility is about as bad as it was before; it’s very hard to see what’s behind you due to the position and angle of the rear window. There are helpful camera views when reversing, but they aren’t a replacement for natural visibility.\n\nThere are also now blind spot warning indicators near the base of the front windshield pillars near the side mirrors. When a car enters your blind spot, a small red light appears in the mesh-covered area near the pillar. The warning light sometimes seemed to activate later than I would have expected, and the pinpoint red warning light is subtler than other blind spot indicators, but I like having the indicator near the side mirror, which is where your eyes might already be looking when you’re thinking about changing lanes. There are also still blind spot camera views that appear on the car’s center touchscreen.\n\nSome Welcome New Features — But Some Favorites Still Missing\nTakeaway: There are new gear selector controls in the touchscreen along with ventilated front seats, but two of our favorite features — Apple CarPlay and Android Auto — remain absent.\n\nYou still interact with the Model Y much as you did in prior versions, with the main interface being the large center touchscreen, but there are some key differences for 2026. The gear selector has moved to the screen, with backup controls on the overhead console where the hazard lights button is. I didn’t mind using the new screen-based controls, which were fairly easy to get used to.\n\nTesla’s touchscreen user interface remains familiar if you’ve used prior versions of it, and there are now more streaming audio sources than ever in addition to conventional radio. There’s still no Apple CarPlay and Android Auto connectivity, though, so you don’t have the convenience of interacting with your phone’s apps on the touchscreen.\n\nI liked the 2026 Model Y’s ventilated front seats and front camera view, but the lack of an integrated sunshade for the tinted glass roof is an oversight. There were times I wished the sun wasn’t beating down on me in the car (a clip-in sunshade for the glass roof is available as a Tesla accessory).\n\nThe backseat remains roomy for taller passengers, and the new rear-seat touchscreen on the back of the front center console incorporates climate controls and a selection of games to pass the time.\n\nStill the Sports Car of Electric SUVs\nTakeaway: With responsive steering and strong acceleration from the dual-motor drivetrain, the Model Y drives more like a go-kart than a mid-size electric SUV.\n\nThe driving experience of the 2026 Model Y is still very familiar, defined by nimble handling, responsive steering, strong power from the dual-motor drivetrain and the previously mentioned firm ride. Another quality that carries over is cabin noise, which is especially noticeable when traveling on bumpy, rutted pavement.\n\nI wasn’t a big fan of the previous Model Y’s seats — they were narrow, seemed overstuffed and never fit me that well — and the ones in the 2026 car are only slightly better. They’re still on the narrow side, but the seat ventilation feature is great to have on hot summer days.\n\nMore Tesla News From Cars.com:\n\nNew Tesla Model YL Is China-Only 3-Row Tesla We’ve Been Waiting For\n2025 Tesla Cybertruck Review: Wedge Issues\nHow Do Car Seats Fit in a 2025 Tesla Model 3?\nTesla Refines Aerodynamics, Updates Tech for Model S, Model X\nTesla Fined $243 Million For Autopilot Crash\nIf You Have a Model Y, Should You Get a 2026 Version?\n\nThe new Model Y doesn’t ride better, its visibility isn’t much better, and even though the interior updates are tasteful and add some functionality, the overall experience isn’t all that different.\n\nSo why would you choose the Model Y over something like an Ioniq 5, which is spacious and has a more comfortable ride? One reason might be the Tesla Supercharger ecosystem, which is fully integrated with the Model Y in a way it isn’t in other EVs that now have access to select Superchargers, including the Ioniq 5. Another might be overall efficiency, as our Model Y test car was EPA-rated at an impressive 123 mpg-equivalent combined. Or maybe you want a sporty-driving EV and are willing to put up with a firm ride. If so, the Model Y has you covered.\n\nBut what if you have a previous Model Y and are wondering about trading it in for this new one? Unless there’s something in the 2026 version you just gotta have, I’d say stick with what you’ve got. The new one is just not different enough from its predecessor.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Long Range RWD *Ltd Avail*",
+          "price": "$44990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Seats five or seven",
+              "Up to 337 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.6 seconds (Long Range) or 3.5 seconds (Performance)"
+            ],
+            "Highlights": [
+              "305 - 335 mi. Range",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "295 @ 7000 SAE Net Horsepower @ RPM",
+              "309 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,154 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Long Range AWD *Ltd Avail*",
+          "price": "$47990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Seats five or seven",
+              "Up to 337 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.6 seconds (Long Range) or 3.5 seconds (Performance)"
+            ],
+            "Highlights": [
+              "279 - 337 mi. Range",
+              "7 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "425 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "475 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "3,500 lbs Maximum Trailering Capacity",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,363 lbs Base Curb Weight",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Performance AWD *Ltd Avail*",
+          "price": "$51490",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Seats five or seven",
+              "Up to 337 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.6 seconds (Long Range) or 3.5 seconds (Performance)"
+            ],
+            "Highlights": [
+              "277 - 303 mi. Range",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "487 SAE Net Torque @ RPM",
+              "455 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "4,398 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "3,500 lbs Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/dcff590e-4011-4277-b936-839a7c5baf53/2dc1fc91-bc15-418d-99a7-4c70ea1453f9.png"
+      ],
+      "expert_review": "Key Points in This Review:\n\nTesla has updated its Model Y electric SUV for 2026 with new styling and features.\nDespite the changes, the 2026 Model Y still drives and operates much like its predecessor.\nThe changes for 2026 aren’t significant enough to warrant upgrading if you currently have a Model Y.\n\nTesla’s popular Model Y electric SUV received a host of updates for the 2026 model year, with new exterior styling, a new interior and new features. We’ve already taken a quick spin in the 2026 Model Y Launch Series, which is no longer offered, but we recently spent two weeks in the more affordable all-wheel-drive Long Range version.\n\nCars.com owned a 2021 Model Y for more than two years as a long-term test car, so we’re very familiar with this EV, and we were curious to see whether the changes for 2026 address the issues we had with the prior generation — as well as how it stacks up against today’s all-electric competition.\n\nRelated: 2026 Tesla Model Y Gets Long Range AWD Variant, Starts at $50,380\n\nThis article covers the Long Range AWD version of the 2026 Model Y, but Managing Editor Joe Bruzek drove the Launch Series of the updated Model Y and we have some split opinions on the car’s changes, covered below.\n\nRelated Video:\n\nRide Quality Still on the Firm Side\nTakeaway: If you thought the prior Model Y’s ride was too firm, you’ll probably think the same of the 2026 version.\n\nOverly stiff ride quality was a big drawback of our long-term Model Y even though it did contribute to the SUV’s sporty handling. That firm suspension tuning continues in the 2026 Model Y, which is disappointing because the stiff suspension tuning can grate on your nerves after a while if you live somewhere that doesn’t have perfectly smooth roads. There’s plenty of pockmarked, potholed pavement around Cars.com’s Chicago headquarters, and it makes for a bumpy, almost brittle ride quality with the Model Y’s optional 20-inch wheels and tires (19-inch wheels and tires are standard). It’s all the more frustrating because competitors like the Hyundai Ioniq 5 deliver more forgiving ride comfort that’s a better fit for how an SUV like this is used day in and day out.\n\nAn Ever-So-Slight Improvement in Outward Visibility\nTakeaway: The new Model Y’s exterior shape and windows are unchanged, so rear visibility is just as restricted as it was before, and new blind spot warning indicators near the side mirrors are only marginally beneficial.\n\nThe general shape and greenhouse of the Model Y hasn’t changed for 2026, so it’s probably not surprising that rear visibility is about as bad as it was before; it’s very hard to see what’s behind you due to the position and angle of the rear window. There are helpful camera views when reversing, but they aren’t a replacement for natural visibility.\n\nThere are also now blind spot warning indicators near the base of the front windshield pillars near the side mirrors. When a car enters your blind spot, a small red light appears in the mesh-covered area near the pillar. The warning light sometimes seemed to activate later than I would have expected, and the pinpoint red warning light is subtler than other blind spot indicators, but I like having the indicator near the side mirror, which is where your eyes might already be looking when you’re thinking about changing lanes. There are also still blind spot camera views that appear on the car’s center touchscreen.\n\nSome Welcome New Features — But Some Favorites Still Missing\nTakeaway: There are new gear selector controls in the touchscreen along with ventilated front seats, but two of our favorite features — Apple CarPlay and Android Auto — remain absent.\n\nYou still interact with the Model Y much as you did in prior versions, with the main interface being the large center touchscreen, but there are some key differences for 2026. The gear selector has moved to the screen, with backup controls on the overhead console where the hazard lights button is. I didn’t mind using the new screen-based controls, which were fairly easy to get used to.\n\nTesla’s touchscreen user interface remains familiar if you’ve used prior versions of it, and there are now more streaming audio sources than ever in addition to conventional radio. There’s still no Apple CarPlay and Android Auto connectivity, though, so you don’t have the convenience of interacting with your phone’s apps on the touchscreen.\n\nI liked the 2026 Model Y’s ventilated front seats and front camera view, but the lack of an integrated sunshade for the tinted glass roof is an oversight. There were times I wished the sun wasn’t beating down on me in the car (a clip-in sunshade for the glass roof is available as a Tesla accessory).\n\nThe backseat remains roomy for taller passengers, and the new rear-seat touchscreen on the back of the front center console incorporates climate controls and a selection of games to pass the time.\n\nStill the Sports Car of Electric SUVs\nTakeaway: With responsive steering and strong acceleration from the dual-motor drivetrain, the Model Y drives more like a go-kart than a mid-size electric SUV.\n\nThe driving experience of the 2026 Model Y is still very familiar, defined by nimble handling, responsive steering, strong power from the dual-motor drivetrain and the previously mentioned firm ride. Another quality that carries over is cabin noise, which is especially noticeable when traveling on bumpy, rutted pavement.\n\nI wasn’t a big fan of the previous Model Y’s seats — they were narrow, seemed overstuffed and never fit me that well — and the ones in the 2026 car are only slightly better. They’re still on the narrow side, but the seat ventilation feature is great to have on hot summer days.\n\nMore Tesla News From Cars.com:\n\nNew Tesla Model YL Is China-Only 3-Row Tesla We’ve Been Waiting For\n2025 Tesla Cybertruck Review: Wedge Issues\nHow Do Car Seats Fit in a 2025 Tesla Model 3?\nTesla Refines Aerodynamics, Updates Tech for Model S, Model X\nTesla Fined $243 Million For Autopilot Crash\nIf You Have a Model Y, Should You Get a 2026 Version?\n\nThe new Model Y doesn’t ride better, its visibility isn’t much better, and even though the interior updates are tasteful and add some functionality, the overall experience isn’t all that different.\n\nSo why would you choose the Model Y over something like an Ioniq 5, which is spacious and has a more comfortable ride? One reason might be the Tesla Supercharger ecosystem, which is fully integrated with the Model Y in a way it isn’t in other EVs that now have access to select Superchargers, including the Ioniq 5. Another might be overall efficiency, as our Model Y test car was EPA-rated at an impressive 123 mpg-equivalent combined. Or maybe you want a sporty-driving EV and are willing to put up with a firm ride. If so, the Model Y has you covered.\n\nBut what if you have a previous Model Y and are wondering about trading it in for this new one? Unless there’s something in the 2026 version you just gotta have, I’d say stick with what you’ve got. The new one is just not different enough from its predecessor.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Standard RWD",
+          "price": "$39990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Refreshed for 2026",
+              "Seats five or seven",
+              "Up to 327 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.1 seconds (Launch Series)"
+            ],
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "309 SAE Net Torque @ RPM",
+              "295 @ 7000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,061 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium RWD",
+          "price": "$44990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Refreshed for 2026",
+              "Seats five or seven",
+              "Up to 327 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.1 seconds (Launch Series)"
+            ],
+            "Highlights": [
+              "357 mi. Range",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "309 SAE Net Torque @ RPM",
+              "295 @ 7000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "3,500 lbs Maximum Trailering Capacity",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,184 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium AWD",
+          "price": "$48990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Refreshed for 2026",
+              "Seats five or seven",
+              "Up to 327 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.1 seconds (Launch Series)"
+            ],
+            "Highlights": [
+              "279 - 337 mi. Range",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "375 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,396 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Performance AWD",
+          "price": "$57490",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Refreshed for 2026",
+              "Seats five or seven",
+              "Up to 327 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.1 seconds (Launch Series)"
+            ],
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "460 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "3,500 lbs Maximum Trailering Capacity",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "4,398 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Long Range Launch Series AWD *Ltd Avail*",
+          "price": "$59990",
+          "specifications": {
+            "Notable features": [
+              "All-electric compact SUV",
+              "Refreshed for 2026",
+              "Seats five or seven",
+              "Up to 327 miles of rated range",
+              "Rear-wheel drive or dual-motor all-wheel drive",
+              "0-60 mph in 4.1 seconds (Launch Series)"
+            ],
+            "Highlights": [
+              "320 - 327 mi. Range",
+              "5 Seat capacity",
+              "96 month/120,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "375 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "3,500 lbs Maximum Trailering Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,396 lbs Base Curb Weight",
+              "3,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "350 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "350 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Optional Automatic Parking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

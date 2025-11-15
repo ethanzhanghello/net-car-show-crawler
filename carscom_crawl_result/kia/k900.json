@@ -1,0 +1,895 @@
+{
+  "make": "kia",
+  "model": "k900",
+  "years": {
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/d61ad8b1-15ac-4609-b368-ecd0857d4635.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/49c8f7e3-4943-446d-91c5-296c6e5a6bdf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/8a7f70bc-f5b2-44fc-82ea-2235772993bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/54fc9534-9ccc-4cdd-8b39-1f555c2fc064.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/ea72aa0a-10be-4ec8-a01e-b4a8ad3e0907.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/f3908336-5c1f-40b2-a578-73b879be8a65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/92d4fdc8-0e37-413a-b70b-1b81a887a85c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/a9ef798a-1bab-45a6-8bb6-4ec4c2e83302.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/946b69ae-821c-4038-b1bf-7a02637bffba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/f3938e1c-ef0c-452c-a68b-78538f97c1e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/49e9b918-5dec-4045-8aa6-76ac87ea4f9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/91f031a5-7c1f-4e77-940f-dd13ce1b769d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/159530c5-8261-43eb-a060-3fe60f39c02b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/0cbd6712-9527-47fe-90d9-2a5bfba718c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/49c8f7e3-4943-446d-91c5-296c6e5a6bdf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/9c70ef67-0876-4d14-9267-98ed3be7b26c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/b1804c3d-f88c-4da5-940c-2dea4d4eb3f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/9dae8981-73e2-44d9-bb0c-abe558c67188.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/8a8a44f4-209b-494a-8a7d-984949047420.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/1de2c169-75c4-4171-b0c1-a3c375a8ebca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/4eb1c152-fed4-4e35-9648-6d1e936151f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/c5d13cad-158f-43c1-9b2c-73d36a5534ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/9113436f-4510-41c4-834f-fcd1a2fdc74a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/51217ef1-5902-415b-8c64-ae5f1af9fcaf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/a7dd1bc5-9b2b-4032-9317-fa7d4a5015bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/a3972e14-bd62-40e8-8745-9f29c5540b97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/ec136120-8c45-4cf7-bbb8-f950e5cfca49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/3209bce7-afa5-4dde-ba73-2bd66b3f6d86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/74f76811-0d9d-41f2-a6a4-f0dcb183ee1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/38de03b2-f0f3-4f07-b901-af9f5c1626c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bb496a8e-d229-4b94-ab14-2de63460b462/1cf52321-68b4-44c1-9a3b-7189fa6a917e.png"
+      ],
+      "expert_review": "What Is the 2020 Kia K900?\n\nThe K900 is Kia’s flagship full-size sedan. It’s powered by a standard 365-horsepower, twin-turbocharged 3.3-liter V-6 engine that works with an eight-speed automatic transmission. All-wheel drive is standard. Competitors include the Cadillac CT6  and Genesis G90. \n\nWhat’s New on the 2020 Kia K900?\n\nHighway Driving Assist, which can adjust vehicle speed to interstate highway speed limits when cruise control is active, is standard. \n\nWhat Features in the 2020 Kia K900 Are Most Important?\n\nStandard convenience features include heated power-folding side mirrors, rain-sensing windshield wipers, a power trunk lid, a power-adjustable steering column, a power rear sunshade, rear side window shades, heated and ventilated front seats, heated rear seats, a heated steering wheel, navigation with a 12.3-inch touchscreen, satellite radio, a Lexicon premium stereo, Apple CarPlay and Android Auto smartphone connectivity, and wireless device charging.\n\nStandard active safety features include forward collision warning with automatic emergency braking, blind spot warning, rear cross-traffic alert, lane keep assist, adaptive cruise control with stop-and-go capability, a 360-degree camera system, a driver attention monitor and automatic high-beam headlights. \n\nShould I Buy the 2020 Kia K900?\n\nThe K900 doesn’t wear the badge of a traditional luxury brand, but it offers many luxury features at a compelling price. The V-6 drivetrain offers brisk acceleration, and the multimedia system is impressive. Interior luxury comes up short versus some traditional luxury models, but the cabin is nonetheless comfortable and roomy.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/462a3183-531f-4d06-baec-04b0f272d315.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/910707a9-14a5-4b28-9961-735896958e85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/1dd4e1eb-7d3d-4829-8ce4-ae13fcb96014.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/3f04885d-2f23-443a-9ed7-2ea362fa39f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/817e72f8-4c91-4581-b49f-18d6959eb63d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/999b8047-0249-4d9b-8d70-109ba36e5fa3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/c02f3a83-e352-4f5f-8802-45e197de3c33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/221de1f0-a70d-42a9-b594-a20355f8e3f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/78d0609a-d34b-4d53-8c38-c80cbca4a995.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/8b639d24-bb5d-4754-951d-8849540baa84.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/c81a2215-93a5-44e3-bf4f-d5936a25d3e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/135253d5-7a51-4fee-a087-e6ea11f1ca80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/ef6c5916-f35d-4ac5-96ce-76be086d6ad1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/9b5131b0-0987-4d66-bbfa-8b81e21c1dff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/1c87e0f7-f8b7-47ec-8cd9-a4820a33b689.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/2d148c09-ec9e-491c-b18b-70ec8e291a33.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/135253d5-7a51-4fee-a087-e6ea11f1ca80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/a42328f9-1636-4353-9aa7-039e1ca878c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/5481204a-8fd2-4d9a-b239-b11e5b75beb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/03f8bd45-2753-4644-bc3b-8fb1107c7da0/48c1d42e-8c17-4c27-b74c-d85d2370d442.png"
+      ],
+      "expert_review": "The verdict: Smooth, quiet and not quite as nice as vehicles costing, admittedly, tens of thousands of dollars more, the redesigned 2019 Kia K900 is a bargain luxury sedan.\n\nVersus the competition: The K900 has almost everything the more expensive luxury-brand full-size sedans have, but at a price none of them can come close to matching.\n\nWhen Kia first brought the new K900 to the U.S. market back in 2015, I drove it and called it an excellent Kirkland-brand luxury sedan: “tasty and much less expensive than a name-brand model, but falling short in sophistication, refinement and cachet.” For those of you who don’t shop at Costco, Kirkland is the warehouse store’s house brand — and that’s not a slight against the K900. Kirkland brand stuff tends to be as good as name-brand stuff, whether it’s salmon steaks or Scotch whisky.\n\nAnd so was the K900 — a big, luxurious full-size sedan that could go toe-to-toe with top sedans from Lexus, Infiniti and even Audi, in content if not in prestige or refinement. Kia’s had a few years to get its formula right on the K900, and for 2019 it’s been redesigned for the few hundred people a year who simply must have one. (Really, it’s merely a few hundred; Kia sold just 455 of them in 2017.)\n\nStill Pleasingly Bland to Look At\n\nOne has to understand that in its South Korean home market, K900 owners do not drive this car, they ride in it — typically in the back right seat, the VIP position. It’s the car in which a Korean conglomerate chairman is driven to work, so it needs to be stately, not flashy; understated and inoffensive is the name of the game here. The new K900’s styling reflects that. It’s a boring design that hasn’t changed much from the previous model year’s understated, inoffensive, boring lines. Kia’s signature tiger-nose grille is there, but otherwise the styling doesn’t quite line up with the rest of the company’s showroom. It’s built for a very specific buyer in South Korea. Whom it’s built for in the U.S. we’re still trying to figure out. South Korean expatriates in Southern California? The person who wants a Lexus LS 500 but can’t afford one? Someone who’s willing to drop sixty-five large on a luxury sedan but doesn’t want any luxury brand cachet? Beats me, man.\n\nGloriously Smooth to Drive\n\nIt might not be much to look at (intentionally), but it’s now wonderful to drive. Not because it’s sporty or rewarding in any way, but because it’s a throwback to how luxury cars used to be: insulated, isolated, smooth and creamy. It’s a vanilla latte in a world of redeye Americanos. The sole engine is a twin-turbocharged 3.3-liter V-6 (the V-8 option is gone) that delivers gobs of torque in such a way that you’d swear there were a bigger engine under the hood. It produces a very respectable 365 horsepower and 376 pounds-feet of torque, which splits the difference between most competitors’ base and upgrade engines.\n\nThe Kia’s eight-speed automatic is velvety smooth, with barely perceptible shifts and direct power delivery to all four wheels that will never leave you wanting for better acceleration. It’s also beautifully tuned to the driver’s input, so if you do need to drive the K900 quickly, it responds exactly as you want it to, with no hesitation or ponderousness. Just like the previous K900, the new one’s powertrain is a high point.\n\nBut you’re not likely to want it drive it like a sports sedan. The steering feel is solid but numb, the suspension skewed toward a comfortable, floaty ride more than spirited responses. Body control is excellent, but the car feels heavy and solid rather than light and nimble. I don’t count that as a slight against the K900, however, as it simply delivers on the promise of being a big, comfortable passenger sedan. That’s something that’s been lost amid the trend toward sporty performance (that will never be explored by most owners). This is a car in which you should enjoy the drive, not because you’re going to flog it from corner to corner, but because you’re going to devour miles of interstate with an absolute minimum of fuss or muss. The ride is big-car smooth, the motor is hushed and the experience is one of premium comfort. It’s a far cry from the nervous, twitchy behavior exhibited by the previous version of this car. Kia’s work on the suspension and body control is evident.\n\nFuel economy is decent for such a big, powerful sedan. The K900 is rated 18/25/21 mpg city/highway/combined, and my week with it returned an acceptable 23 mpg average. That’s spot-on with competitor vehicles like the Cadillac CT6 twin turbo, Infiniti Q70 3.7 and even the big Genesis G90, which shares most of its mechanical bits with the Kia K900.\n\nPremium, Not Luxury, Materials\n\nSo how can Kia offer up a luxury sedan with this kind of equipment and behavior for tens of thousands of dollars less than competitors? Well, it had to cut costs somewhere, and it seems to have done so in the interior. The first generation was a mixed bag inside, with warped, wavy “wood” trim and some plastics that felt more in tune with Kia’s lesser sedans, like the Forte. The latest one isn’t much better. While the seats are plush and comfortable, and the leather quality is surprisingly good, the plastics on the dash and doors still feel only average, and the “engineered wood” is the same color and authenticity as President Trump’s tan. There are other options for interior colors, however, some with real wood that looks better than the stuff in my test vehicle — at least in pictures.\n\nBut one cannot deny the comfort provided by this interior. While the last version of the K900 felt a bit cramped up front due to the rake of the windshield, the new one doesn’t suffer from that situation. Still, the backseat is where it’s at. My test vehicle had a $4,000 VIP Package that brought tri-zone climate control with rear pillar vents, a premium headliner, powered and ventilated rear reclining seats, a wireless charger and a switch that lets rear seat occupants control the powered front passenger seat — so the chairman can increase his legroom if nobody is sitting there (or maybe even if somebody is). The backseat is practically limousine-like — plenty of headroom, gobs of legroom, and a center armrest with a variety of knobs and switches to control the various amenities in the cabin.\n\nThere’s also a lot of standard equipment in the cabin — which is good, because there aren’t any options to add beyond that VIP Package. The front seats are heated and ventilated, there’s multicolor interior mood lighting and a Lexicon Logic 7 premium audio system, navigation is standard on the 12.3-inch touchscreen and more. Is it as nice inside as an Audi A8? No, but it’s also far less expensive, yet features all the basic luxury features of that German alternative. It is as nice as an Infiniti Q70, however, and bigger to boot.\n\nSpeaking of the boot, there’s plenty of room in there, as well, with 15.3 cubic feet of trunk room. It’s not expandable, however, as the rear seatbacks don’t fold; there’s just a small passthrough for skis or longer items. This is about on par with the Cadillac CT6 (15.8 cubic feet) and Infiniti Q70L (14.9 cubic feet), but the K900 improves upon the Audi A8’s relatively small 12.5 cubic feet.\n\nTop-Notch Safety and Connectivity Electronics\n\nPerhaps the most impressive element of the interior controls is the fully digital gauge cluster that comes with the VIP Package. It replaces the standard analog gauges with a 12.3-inch full LCD screen, which is one of the most configurable clusters I’ve ever seen. You can change how the car displays its information to match the interior mood lighting, and even select some pretty wild-looking displays unlike anything I’ve encountered in a car. The 12.3-inch touchscreen display atop the center console is also impressive, building on Kia’s excellent UVO multimedia system but with a more sophisticated-looking version for the premium sedan. Apple CarPlay and Android Auto are standard, in case you’d rather use something more familiar that integrates well with your mobile device.\n\nKia has also included all the safety equipment you could want, standard on the K900. Forward collision warning and avoidance assist are there, as are lane departure warning, lane keep assist, parking sensors with rear cross-traffic alert, blind spot monitor and warning, driver attention warning and smart cruise control with automatic stop-and-go for traffic jams. A 360-degree camera system and head-up display are also standard on the K900. As of publication, the car had not been crash-tested by the National Highway Traffic Safety Administration or the Insurance Institute for Highway Safety.\n\nPriced to Sell, Even if it Hasn’t Yet\n\nThe base price of a new K900 is remarkable given the amenities, comfort and experience of driving one: just $60,895. The only options you can specify are paint, interior colors, and whether or not you want the $4,000 VIP Package. Mine had it, so the grand total was $64,895 as-tested. This is a ridiculously low price for a luxury car like this, but given Kia has absolutely none of the luxury prestige of any major premium or luxury brand out there, it does seem more fitting for the vehicle you’re getting.\n\nCompare vehicles on mechanical bits and features, if not price; the K900’s competitors are cars like the Cadillac CT6. That one starts at $51,490 with rear-wheel drive and a four-cylinder, but the comparable version is a twin-turbocharged V-6 with all-wheel drive that starts at $67,590. A V-6, AWD, long-wheelbase Infiniti Q70L starts at $55,045, but it’s a smaller vehicle with less space inside, plus an older multimedia system that isn’t nearly as user-friendly as the Kia’s. The Audi A8 comes only one way: a well-equipped long-wheelbase sedan with all-wheel drive and a turbocharged V-6 engine that’s not as powerful as the K900’s. It starts at $84,795 — considerably more than the K900, and it doesn’t have all the Kia’s standard features, like adaptive cruise control.\n\nSo if you’re looking for a bargain luxury car, the updated 2019 Kia K900 certainly is one. You’ll be hard-pressed to find another vehicle with the comfort, features and electronics of the K900 for a similar price. You won’t get any choice parking spots from the valet at your favorite swanky restaurant, and you’re not going to get any second looks from passersby on the streets, either. But if you value a bargain over a status symbol, the K900 might be right for you.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Base_Price_23988",
+          "price": "$23988",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/80775e16-87cc-4ae2-8603-9ab2fbd0a903.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/36dff3e7-2829-4fc1-a99a-4619b9b20f7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/0df28f4f-7759-4f15-8697-aa0e7f775bd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/648e2a80-cd7f-4a40-a4c1-701c1272143a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/7127025d-7b24-4572-abd8-4920ca2eaa58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/bcc18478-da30-43f5-961a-cfa30f6e7bc6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/37de4574-de5f-4815-8aea-1c60f63d3aad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/5a91ede2-ee1e-4cba-a423-45cdcda7fb61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/7127025d-7b24-4572-abd8-4920ca2eaa58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/e9487460-cfa8-40e2-a8b1-ce3b85ec4217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/1fd89db9-ccd7-4a5b-a24c-bf56913c407a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/316632c8-2dc7-444c-9348-9cff757f6dfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/aac874ed-17c4-434f-a72a-81d973eddd24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/f9cb5ddf-cd39-4676-a666-f1fdb08c0ef4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/f7254909-7ea2-4fbe-a5a1-8bafcdedecfc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/9cf58209-eb74-4a72-a0f3-5cf6fcfb484e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/a4555bc1-4417-4e6e-a832-f842455d6a44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/402311f1-2193-4fd2-bd3a-53785ea4be22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/2b915c4b-06ee-4f6b-be5b-20396b53ee6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/c79f2c0e-a8ac-4326-be9e-c4e1ddcfb55d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/112e67fe-9fc5-4afc-ac2e-0d9640e19980.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d5f1a6e1-cd55-45f9-8e77-23636539d680/4d911733-4ee3-4c0f-9db3-9d870f36a221.png"
+      ],
+      "expert_review": "The 2015 Kia K900 feels like a Kirkland brand luxury sedan from Costco — tasty and much less expensive than a name-brand model, but falling short in sophistication, refinement and cachet.\n\nOutside of South Korea, the idea of a super-plush, full-size, rear-wheel-drive Kia luxury sedan seems like the answer to a question nobody asked. The company has made amazing strides in the past decade with its smaller economy cars (a Kia Forte won our 2014 Compact Challenge, and the latest Soul is awfully good), and even the midsize Optima (Cars.com’s Best of 2011 Award winner) has been selling well. But crafting a car to go up against the likes of Lexus, Mercedes-Benz and BMW? The question isn’t whether Kia can do it or not, it’s is it really necessary?\n\nKia seems to think it is, and that’s why the new-for-2015 Kia K900 is being brought to our shores. A long, V-8-powered flagship sedan that shares its chassis with the last-generation Hyundai Equus, the K900’s mission in the U.S. market isn’t exactly clear. An expensive luxury sedan from a mass-market brand hasn’t been a successful concept here (see: Volkswagen Phaeton). Not to mention, Hyundai already has two perfectly good luxury cars for sale in the Genesis and Equus (compare all three here). So while we can’t quite determine why it’s here, we can at least determine if it’s any good.\n\nExterior & Styling\nIn eight years of taking home new automobiles to test, something happened with the K900 that I have never experienced before. One night, during dinner, a man rang my doorbell and begged to be allowed to see the car in my driveway. He then gushed over how gorgeous the K900 was. This hasn’t happened with any Rolls-Royce, Porsche, Bentley or Maserati I’ve driven. I can’t entirely disagree with him — it’s attractive, in a generic luxury car kind of way. The styling certainly bears a resemblance to other Kia products, with the distinctive hexagonal grille and C-pillar design aping the smaller Optima sedan. But it breaks no ground in any dimension, aside from just looking like a really big Kia. The technology is here — full LED headlights and taillights are standard — but the front camera and radar assembly look like an afterthought in the middle of the chrome mesh grille.\n\nHow It Drives\nWhile definitely pleasant to look at, the Kia K900 is less pleasant to drive. As a passenger, especially in the rear, you’re likely to enjoy the space provided by the long wheelbase and deep leather seats, but from the driver’s seat things are less than stellar. The fault is not with the powertrain; Kia’s 5.0-liter V-8 is a fully modern power plant, a smooth and torquey mill that delivers seamless power and is perfectly matched to the car’s standard eight-speed automatic transmission. It moves the K900 off the line with the ease of 420 horsepower and operates on the highway at a muted hum that’s as refined and polished as any Lexus. The K900 gets top marks for its motor and transmission combination.\n\nUnfortunately, that’s where the polish and refinement ends. While the car is quiet, the ride, handling and steering all need another generation to be properly worked out. On smooth pavement the K900 does fine, but introduce rough asphalt or concrete and the steering wheel dances in your hands while chatter filters into the cabin through the suspension, sending up creaks and squeaks in the interior trim that are very un-Lexus-like.\n\nI was able to compare the K900 back to back with an Audi A7, a comparably sized and priced luxury car, which reaffirmed my conclusion that the steering is the main culprit in the disappointing driving experience. Over the same pavement, the Audi experienced none of the unpleasant steering-wheel tremors that were so prevalent in the K900.\n\nThe K900 is available only with that 5.0-liter V-8 engine, although the EPA has certified a 3.8-liter V-6 that may be coming later. The V-6 has better fuel economy, rated 18/27/21 mpg city/highway/combined, while the V-8 checks in at 15/23/18 mpg. My testing netted about 20 mpg thanks to a few longer highway trips, which isn’t bad for such size, comfort and power.\n\nInterior\nThe K900 is a mixed bag inside, which is where a luxury car is supposed to truly shine and coddle its occupants. The equipment is very good, especially the big, multi-adjustable seats. Covered in cream-colored leather with contrasting piping, the seats in my test car stood out as being extremely comfortable for all occupants, but especially for rear passengers, who have amazing amounts of legroom to explore.\n\nThat rear compartment is where the K900 is best enjoyed, especially in cars, like my tester, featuring a $6,000 VIP package that brings fully adjustable, power-reclining, heated and ventilated back seats that even have a power lumbar adjustment. The front seats don’t feel nearly as spacious, however, with headroom strangely compromised due to a steeply raked windshield.\n\nDash materials are also mixed, and some quality-control issues are evident, such as wood trim on the center console that looks and feels warped and wavy. Lots of shiny black plastic is meant to feel like rich piano-black lacquer, but instead just feels like fingerprint-magnet shiny black plastic. Outward visibility is good. The low belt line and light-colored leather made for an airy cabin, aided by the standard, massive panoramic moonroof overhead. It’s also very quiet in the K900, even at full throttle or highway speeds.\n\nErgonomics & Electronics\nOne area where the K900 doesn’t skimp on luxury goods is in the electronics department. The car features one of the most advanced head-up displays I’ve yet seen in an automobile as an option: a full-color display that has options for text color, size, position and graphics content. The multimedia equipment is Kia’s top-spec UVO system, which features all the connectivity options you can imagine, plus a full suite of apps to keep you entertained. The interface is a bit busy, but the clickwheel and button control layout is similar enough to other systems that using it doesn’t require a steep learning curve.\n\nA navigation system is standard, as is a Lexicon premium surround-sound audio system. The display is a 9.2-inch LCD, but it’s not a touch-screen, so you’ll never get fingerprints all over it. Inputting navigation addresses and the like, however, is less straightforward. Another 12.3-inch full LCD resides behind the steering wheel, replacing the traditional gauges with fully electronic ones, and they look slick.\n\nThe K900 is quite well-equipped with features people expect in luxury cars, such as a power-closing trunk, a powered rear sunshade, LED headlights — even optional powered, soft-closing doors, and all for just about $66,000. This Kia luxury sedan is better equipped, much better equipped, in fact, than size-competitive vehicles from BMW or Mercedes-Benz that cost tens of thousands of dollars more.\n\nCargo & Storage\nStorage pockets and cubbies abound in the K900, but its trunk isn’t the biggest among competitors. At just 15.9 cubic feet it’s certainly sizable, but it’s not even as big as corporate sibling Hyundai Equus’ trunk, at 16.7 cubic feet. The Lexus LS 460 has a very large 18.0-cubic-foot trunk, while the long-wheelbase BMW 750 Li offers up an equally big 17.7-cubic-foot trunk. The Kia’s rear seats fold in a 60-40 split to extend long items into the passenger compartment.\n\nSafety\nThe new-for-2015 K900 has not yet been crash-tested. As befits a modern luxury car, the K900 has a multitude of advanced safety technology, much of it standard equipment. A front and rear parking camera display is standard, as is lane departure warning, rear cross-traffic alert, blind spot detection, automatic rain-sensing windshield wipers and full-length side curtain airbags. Optional are things like a surround-view monitor and adaptive cruise control with automatic full-stop capability. See all the K900’s standard safety equipment here.\n\nValue in Its Class\nThis is where Kia makes its play for the K900’s existence. Maybe you want a Lexus-like, coddling, full-size luxury sedan without the wallet-draining effects with which such large cruisers tend to come? The K900 starts at just $60,400 (including destination charge), which won’t get you even close to its primary size competitors. My test car included the one and only option available: the $6,000 VIP package, which brings adaptive cruise control, powered door closers, electronic gauges, the head-up display, powered front headrests, power-reclining ventilated rear seats, and more. The total tab for this cushy cruiser came to just $66,400 — considerably more than your average Optima, but dramatically less than competitive full-size luxury cars with similar equipment.\n\nIronically, the K900’s biggest competitor may be the car on which it’s based from Kia’s sister company, Hyundai. The Equus rides on the same platform, has similar interior space, an identical wheelbase, the same 5.0-liter V-8 engine, and even costs within a couple thousand dollars of the K900. The K900 basically is an Equus, with different suspension tuning, very different styling and an even less prestigious nameplate. Hyundai’s own updated, less-expensive, and slightly smaller Genesis sedan doesn’t have the legroom that the K900 does, but it has a more formal style and better interior materials, making it a potential competitor, as well.\n\nCompetitors from actual luxury brands are decidedly more expensive, yet offer a more refined motoring experience for both driver and passengers. The long-wheelbase Lexus LS 460, that brand’s latest flagship, offers up a considerably less powerful V-8, comparable safety equipment and a much nicer interior, but a multimedia system that feels a generation behind the Kia. It also requires significantly more money to get into: The Lexus’ starting price is $79,365, and it goes up from there. Even that, though, pales in comparison to a V-8-powered BMW 740 Li, the long-wheelbase flagship model from the German automaker. You’ll need a whopping $91,950 to get in the door there, and that won’t even get you equipment like blind spot warning, a powered rear sunshade and ventilated seats, all of which push the BMW’s price over $102,000. See how the K900 compares with competitors here.\n\nThat gets us looking at the Kia’s value proposition again. It may not be as refined as some of its high-priced competitors, but the generic K900 offers an amazing amount of technology, equipment and comfort for tens of thousands of dollars less than name-brand luxury cars. And just like that box of Tasty O’s Oat Ring breakfast cereal, it’s good enough for cost-conscious consumers who don’t absolutely need Cheerios.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn Premium",
+          "price": "$54500",
+          "specifications": {
+            "Notable features": [
+              "Full-size luxury sedan",
+              "Kia's first V-8",
+              "Eight-speed automatic transmission",
+              "Rear-wheel drive",
+              "Numerous high-end features"
+            ],
+            "Highlights": [
+              "15 City / 23 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "376 @ 5000 SAE Net Torque @ RPM",
+              "420 @ 6400 SAE Net Horsepower @ RPM",
+              "5.0 L/307 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,555 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "740 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn Luxury",
+          "price": "$59900",
+          "specifications": {
+            "Notable features": [
+              "Full-size luxury sedan",
+              "Kia's first V-8",
+              "Eight-speed automatic transmission",
+              "Rear-wheel drive",
+              "Numerous high-end features"
+            ],
+            "Highlights": [
+              "15 City / 23 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "376 @ 5000 SAE Net Torque @ RPM",
+              "420 @ 6400 SAE Net Horsepower @ RPM",
+              "5.0 L/307 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,555 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "740 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/0d058de2-63ea-4286-8362-62a10a77d088.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/6145430e-607c-4971-b3d1-e8f643ba0e69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/ee940565-5487-4b8f-94bd-e7fba5efdf22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/1754c906-c0cc-4cb9-a05f-2f1986394866.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/dc1f95a3-3945-4c21-8042-3e40ff9b3db1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/1f81c550-140b-4ef1-b627-cbddb2fb1aab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/47e9d960-d998-424e-9f0c-5eca4992f47a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/361b6517-ed08-4d8b-a4bb-a8dfea821363.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/7f526429-37c2-4f84-965f-e433d57658a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/360ab828-9677-4f70-8686-8fe49ba19d7b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/6d556f92-70d7-48ae-8f60-44a4e9a54fe5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/8b2d5a73-f115-47c8-918c-f2b42b428627.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/5829e441-c3e4-466e-a7e5-b61abda01c19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/8d5d339d-193d-410c-b039-8290c6851c83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/5a4e9dcf-d9a5-4ac3-aad5-24e659af3cd1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/79f937b0-709e-4514-814d-4489d5c3df25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/a22b9e06-63cc-46a5-a9fb-f31cb8d14543.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/441eccf6-c0da-4fdf-8f23-f5490abd2633.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d6372a30-fc21-4c77-b370-037b6691590a/8066f9ba-6529-4a76-ab67-407e35ce14e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/d040ebde-2402-4aad-817a-1680d2406334.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/73c59aff-4279-4cac-bff2-884485f2c050.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ed655a84-fdaa-403c-b931-3f93266e7851/13d7d2a4-0ac5-426f-a0a9-440ba88b7911.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "V6 Premium",
+          "price": "$50900",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "311 @ 6000 SAE Net Horsepower @ RPM",
+              "3.8 L/231 Displacement",
+              "293 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,376 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "740 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "V6 Luxury",
+          "price": "$59900",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.8 L/231 Displacement",
+              "311 @ 6000 SAE Net Horsepower @ RPM",
+              "293 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,376 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "740 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "V8 Luxury",
+          "price": "$61900",
+          "specifications": {
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-8 Engine Type",
+              "376 @ 5000 SAE Net Torque @ RPM",
+              "5.0 L/307 Displacement",
+              "420 @ 6400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "20 gal Fuel Tank Capacity, Approx",
+              "4,700 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "740 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/2e0517ca-ba83-4505-a80c-6c39de21b82a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/d9ee8a41-1162-4145-8bdf-2f62b67b4f64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/2ebbb8c6-d69c-4ad0-bf42-25c4f713a319.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/b93b1cad-40bb-48a8-b603-a064432397b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/64d187a0-5ffd-412c-b28f-f7fc5623725d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/ff765927-7935-401c-8645-60d18e27704c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/62ebef72-d6ce-4adc-af41-55716ffd585c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cde78615-b411-4b25-8572-074eb517447b/f56c7a18-3fdd-4ddd-ae6d-45b6b7bc793b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/311c81ef-2659-498d-a2f5-f93d8ad10628.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/20172939-b012-47ba-bc0b-05ead0f513e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/d893ca71-b1d5-4292-a129-37cb34537fb8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/c408820e-b2a4-415b-a959-4cef75dccb9c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/67d0d524-31cb-4b43-bdde-12166d13280b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/ece0c1cb-e9dd-4754-b85d-93be4b2b6789.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/7d4e69e1-e740-4daa-9b78-0703f7b4d3cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/a53baac1-dc05-48d1-bb5d-e10adefce6f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/29552f6f-c530-4394-9740-ba9a9344d8b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/228f30cb-3556-4fa7-aad0-c07753c4bf49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/e10669bb-153d-4104-b97c-ba1b7220413f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/387d3b76-2453-4201-b1b0-fe07756aa4b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/b217cf5a-d74e-4165-839b-34d194185b3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/282710f6-a27e-49fa-9424-feb2757eff6a/2285d17b-3c17-4838-bc07-5d0f40a1efb9.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nKia took a big step toward offering premium vehicles last year with the introduction of the rear-wheel-drive K900 full-size luxury sedan. The K900 had many firsts for the Kia brand, including its first V-8 engine, first use of rear-wheel drive in a sedan, first head-up display, and first rear cross-traffic alert and precollision warning systems. Competitors include upscale sedans such as the Acura RLX, Infiniti Q70 and Lexus GS.\n\nNew for 2016\nA 311-horsepower, 3.8-liter V-6 engine arrives as the new standard engine for Premium and Luxury models. A 420-hp, 5.0-liter V-8 remains available for the Luxury version. All models have an updated grille and new rear styling touches.\n\nA power trunk lid that automatically opens when the key fob is nearby for more than three seconds is now standard. Automatic emergency braking is available.\n\nSignificant Standard Features\n\n311-hp, 3.8-liter V-6 engine\nEight-speed automatic transmission\nRear-wheel drive\nAdaptive headlights\nFront and rear cameras\nPanoramic sunroof\nLeather upholstery\nPower tilt/telescoping steering wheel\nNavigation system with 9.2-inch touch-screen\nKeyless entry with push-button start\nAutomatic trunk lid\nHeated and ventilated front seats\nHeated outboard rear seats\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\n420-hp, 5.0-liter V-8 engine\nLED headlights\nHead-up display\nSurround-view cameras\nWood interior trim\nAdaptive cruise control\nAutomatic emergency braking\nBlind spot warning system\nRear cross-traffic alert\nLane departure warning system",
+      "trims": [
+        {
+          "name": "4dr Sdn V6 Premium",
+          "price": "$49000",
+          "specifications": {
+            "Notable features": [
+              "New base V-6 engine for 2016",
+              "420-hp V-8 engine available",
+              "Full-size luxury sedan",
+              "Eight-speed automatic standard",
+              "Rear-wheel drive",
+              "Numerous high-end features"
+            ],
+            "Highlights": [
+              "17 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "311 @ 6000 SAE Net Horsepower @ RPM",
+              "293 @ 5000 SAE Net Torque @ RPM",
+              "3.8 L/231 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,376 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "740 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn V6 Luxury",
+          "price": "$54900",
+          "specifications": {
+            "Notable features": [
+              "New base V-6 engine for 2016",
+              "420-hp V-8 engine available",
+              "Full-size luxury sedan",
+              "Eight-speed automatic standard",
+              "Rear-wheel drive",
+              "Numerous high-end features"
+            ],
+            "Highlights": [
+              "17 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "293 @ 5000 SAE Net Torque @ RPM",
+              "311 @ 6000 SAE Net Horsepower @ RPM",
+              "3.8 L/231 Displacement",
+              "Regular Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,376 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "150 Maximum Alternator Capacity (amps)",
+              "740 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Sdn V8 Luxury",
+          "price": "$61900",
+          "specifications": {
+            "Notable features": [
+              "New base V-6 engine for 2016",
+              "420-hp V-8 engine available",
+              "Full-size luxury sedan",
+              "Eight-speed automatic standard",
+              "Rear-wheel drive",
+              "Numerous high-end features"
+            ],
+            "Highlights": [
+              "15 City / 23 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "376 @ 5000 SAE Net Torque @ RPM",
+              "420 @ 6400 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "5.0 L/307 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,610 lbs Base Curb Weight",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Optional Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "740 Cold Cranking Amps @ 0° F (Primary)",
+              "180 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/3bb20e7a-d02f-4734-9184-d530c9214545.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/0aae95fd-2ea9-44c3-a2fa-9e352434029e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/febc3754-b161-4e0d-ae79-d1fee4b7bf9f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/c4d09cec-4423-411e-91df-3d7081dc263d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/ba02f370-5520-4e0b-aa04-ce2a20cb3297.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/5852db5a-e1a8-4c64-9aed-8633012e8cec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/b52609f0-e676-4253-81fd-4a8b228d7400.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/9eb36ed3-deb7-4e20-9bb2-c1775f975ef1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/66aa4989-42f8-419c-aecc-35eb45f8127a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/3ff3a3d4-4ee5-4690-bd50-69645e662607.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/4f6914d4-d5f7-4e64-a56f-cbf37fb9b03b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ba08e90f-77d9-4c10-aaad-ad2a7500bf4f/1aeb9385-1cf8-4f72-b568-0cc4a8e56043.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/ee24b997-fd7e-4a29-b3cc-862e1f0c8977.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/1d8e541e-662f-4eb9-9d38-3ccda832a2aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/b8179e5c-ed10-4693-9c4d-328be8617761.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/191c40c4-cc84-447a-82df-89f7becd582d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/264c2979-9074-4fb4-8f55-9db1e2959b43.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/fd9c5f66-459a-4f84-9e41-35cbfccd1029.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/a442bc87-71ba-4fd4-b161-0d109ceaea4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/76477994-712e-4e06-82b6-31f716ebcea8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/fea49c20-874e-4650-843e-01e4772112b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/812bc501-6117-4127-8cdc-ce35cfc0afa6/55fcb6ac-633d-4cdc-85ba-1918c95cc41a.png"
+      ],
+      "expert_review": "What it is: The Kia K900 is a five-seat full-size sedan. It's powered by a standard V-6 engine or an available V-8 and has rear-wheel drive. Competitors include upscale sedans such as the Acura RLX, Infiniti Q70 and Lexus GS.\n\n\nA blind spot warning system with rear cross-traffic alert is now standard.\n\nSignificant Standard Features\n311-horsepower, 3.8-liter V-6 engine\nEight-speed automatic transmission\nRear-wheel drive\nAdaptive headlights\nFront and rear cameras\nPanoramic sunroof with power sunshade\nLeather upholstery\nPower tilt and telescoping steering wheel\nNavigation system with 9.2-inch touchscreen\nKeyless entry with push-button start\nPower trunk lid\nHeated and ventilated front seats\nHeated outboard rear seats\nBlind spot warning system with rear cross-traffic alert\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\nSignificant Available Features\n420-hp, 5.0-liter V-8\nLED headlights\nHead-up display\n360-degree camera system\nWood interior trim\nAdaptive cruise control\nAutomatic emergency braking\nLane departure warning system",
+      "trims": [
+        {
+          "name": "V6 Premium",
+          "price": "$49900",
+          "specifications": {
+            "Notable features": [
+              "Blind spot warning system now standard",
+              "311-hp V-6 standard, 420-hp V-8 available",
+              "Five-seat full-size sedan",
+              "Rear-wheel drive",
+              "Numerous high-end features available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "311 @ 6000 SAE Net Horsepower @ RPM",
+              "Regular Unleaded V-6 Engine Type",
+              "293 @ 5000 SAE Net Torque @ RPM",
+              "3.8 L/231 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,376 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "740 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "V6 Luxury",
+          "price": "$54900",
+          "specifications": {
+            "Notable features": [
+              "Blind spot warning system now standard",
+              "311-hp V-6 standard, 420-hp V-8 available",
+              "Five-seat full-size sedan",
+              "Rear-wheel drive",
+              "Numerous high-end features available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded V-6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Regular Unleaded V-6 Engine Type",
+              "3.8 L/231 Displacement",
+              "311 @ 6000 SAE Net Horsepower @ RPM",
+              "293 @ 5000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,376 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "740 Cold Cranking Amps @ 0° F (Primary)",
+              "150 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "V8 Luxury",
+          "price": "$61900",
+          "specifications": {
+            "Notable features": [
+              "Blind spot warning system now standard",
+              "311-hp V-6 standard, 420-hp V-8 available",
+              "Five-seat full-size sedan",
+              "Rear-wheel drive",
+              "Numerous high-end features available"
+            ],
+            "Highlights": [
+              "15 City / 23 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "376 @ 5000 SAE Net Torque @ RPM",
+              "420 @ 6400 SAE Net Horsepower @ RPM",
+              "5.0 L/307 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "20 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,700 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "180 Maximum Alternator Capacity (amps)",
+              "740 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "make": "dodge",
+  "model": "ramcharger",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/987998bf-cf96-40fd-b153-a07a7fdb9f54/ab7d7712-69af-4f66-a71f-5720dd049128.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr AD150 S",
+          "price": "$17636",
+          "specifications": {}
+        },
+        {
+          "name": "2dr AD150",
+          "price": "$19926",
+          "specifications": {}
+        },
+        {
+          "name": "2dr AW150 S 4WD",
+          "price": "$19985",
+          "specifications": {}
+        },
+        {
+          "name": "2dr AW150 4WD",
+          "price": "$21696",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/374521df-805e-431f-b02e-a6f7711e3683/2c465de4-b2b9-4b51-bbf1-eb6bcd8d8b39.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr AD150 S",
+          "price": "$16545",
+          "specifications": {}
+        },
+        {
+          "name": "2dr AW150 S 4WD",
+          "price": "$17939",
+          "specifications": {}
+        },
+        {
+          "name": "2dr AD150",
+          "price": "$18764",
+          "specifications": {}
+        },
+        {
+          "name": "2dr AW150 4WD",
+          "price": "$19595",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

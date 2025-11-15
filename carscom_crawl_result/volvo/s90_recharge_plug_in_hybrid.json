@@ -1,0 +1,482 @@
+{
+  "make": "volvo",
+  "model": "s90_recharge_plug_in_hybrid",
+  "years": {
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/f47ecbdf-1d27-44c3-b9fe-fd0c4d6961be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/6f96df70-fff4-4585-a8f9-e6fb1a58c878.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/e8622007-ff12-4668-adb3-4536a678947b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/508aaa5c-298e-4802-8c71-8cdbf0537548.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/a189b39f-c341-4afe-8305-dea0d80641d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/88500a1c-c07f-4bf6-86bc-c01d648b1f08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1a027bed-06fd-491a-b83b-e8419c1d54f9/0a351625-47fa-42a8-aecd-2b75a3478c4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/232945c2-ead4-4cd6-919c-2320efe35ee0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/c0356155-413f-466d-b7b2-a65672c65e88.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/d6b59359-8ae0-4ed7-8ca9-387505fb365d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/5b2a324f-73a6-42a4-8b90-59fab4d50d0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/cf5ba25d-354a-448e-abc7-6cb692fb26c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/d06b0883-d34b-409f-86a1-e7abd185763d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/ddfca7a1-b44c-48c5-aee0-94c0a15b80d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/cc72816a-ffa7-4379-93c8-e2b0b164028f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/62d66784-33ea-4884-a202-13cc16a9c4ad.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/1a027bed-06fd-491a-b83b-e8419c1d54f9/d6b86310-b980-4af9-a9c1-087acf4ff6a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/2d0c5c05-1121-4bd4-a41f-500dc247e637.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/772a1f37-0432-4f23-a70a-60db11bce10b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/cbb6cdcf-cc72-4a57-b045-7e0be89f28e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/00a6f96c-4d20-43bf-901d-275850eed7de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/6e5745d9-7cce-41f0-bc45-70ef3dbe07f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/2b2125aa-4f21-4d52-8594-2c03f6fb851d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/d6dc1163-1314-4dd6-91ec-59cd0454bec3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/346d90f7-6719-410f-9080-9df1b695a75b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/2738d91a-a90f-4c5f-88c0-5dc68e87838f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/8e17f01e-79d9-4499-ad5b-6a20255710fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30e307a6-3365-41b4-865f-79f6fd921124/700535ee-066f-40bb-a050-4eb1a16ee9ae.png"
+      ],
+      "expert_review": "The verdict: The 2024 Volvo S90 Recharge combines design minimalism with technology maximalism, and it works: The plug-in hybrid sedan impresses with its low-key luxury vibe, fuel efficiency and (mostly) successful Google-based infotainment system.\n\nVersus the competition: The S90 Recharge plug-in hybrid has very few rivals, but one key one is BMW’s 530e plug-in hybrid. And while the Volvo is more expensive than the BMW, it bests that car in electric-only range, cargo space and cabin refinement.\n\nWhile some automakers are skipping or ditching plug-in hybrids, Volvo is all in: Most of its conventionally powered models are available in PHEV form. For 2024, the S90 sedan comes with either a turbocharged four-cylinder gas engine with a mild-hybrid system, or as the S90 Recharge plug-in. A wagon version of the S90 is sold as the V90 Cross Country.\n\nThis review covers the plug-in S90 Recharge sedan. Its closest competitor is the 2023 BMW 530e PHEV; see the two compared. The 5 Series has been redesigned for 2024, and a new version of the 530e will join the lineup later in the model year.\n\nRelated: Volvo Announces Prices for Complete 2024 Lineup\n\nElegance and Comfort\n\nBehind the wheel of an S90 Recharge is a lovely place to be. The cabin strikes an inviting, upscale vibe thanks to its elegant design and high-quality materials, with available perforated Nappa leather or wool-blend seats, an available crystal gear selector, muted gray wood paneling and chrome trim.\n\nThere’s no skimping in back, either, where the luxury theme continues with an available Lounge Package. To the already roomy and comfortable backseat, it adds a cushy, multifunction rear armrest with storage and cupholders, along with rear-seat ventilation and a massage function for the front seats.\n\nI tested a top Ultimate trim level with very light-colored wool-blend seats that were too precious for my sticky-fingered kids, but in other ways, the S90 is family-friendly. The sunshades are great for nap time, and in our Car Seat Check, the sedan earned high grades thanks to easy-access lower anchors and ample legroom.\n\nThe trunk is roomy enough, with a bit of underfloor storage to help corral smaller items. Volvo says there’s 13.5 cubic feet of cargo space in the trunk, which is slightly more than you’ll get with the BMW 530e’s 10-cubic-foot trunk. The S90’s wide-opening trunk and low liftover height make loading and unloading easy, as does the standard hands-free power trunk lid. Volvo shoppers looking for a bit more cargo room should check out the V60 Recharge wagon, which has 18 cubic feet of space.\n\nAn Overachiever in Efficiency and Performance\n\nThe S90 Recharge’s elegance carries over to the driving experience. There’s a lot going on with this powertrain, which pairs a 312-horsepower, turbocharged 2.0-liter four-cylinder engine with an 18.8-kilowatt-hour battery and an electric motor good for 143 hp. An eight-speed automatic transmission is standard along with all-wheel drive. The setup results in a total combined output of 455 hp, which is a lot, but the drivetrain operates in different ways depending on what mode (Pure, Hybrid or Power) you’ve selected.\n\nIn Pure mode, the sedan operates on electric power alone with a few exceptions, including hill climbs, very low temperatures (which affect the battery) and vehicle speeds greater than 87 mph. Pure mode also limits the climate functions you can use, as well as delaying AWD engagement to save energy. The sedan is quick enough in Pure mode but more sluggish than in its other modes.\n\nI spent most of my time in the car’s default Hybrid mode, which favors electric operation but uses the gas engine when the electric range has been depleted, when briskly accelerating or during heavy climate-control use. In this mode, the sedan launches from a stop with a lively sprightliness. Power delivery remains consistent as speeds increase, and the transmission shifts smoothly and quickly.\n\nPower mode unlocks the combined output of the electric motor and engine for maximum performance and responsiveness — it’s quick, spirited and adds a sporty quality that’s unexpected in a vehicle this size. Transitions between the electric motor and gas engine were seamless — at times imperceptible — but physically switching between modes can be cumbersome for the driver because the menu to select them is buried in the infotainment screen (more on that below).\n\nAnother pleasant surprise was the sedan’s all-electric range, which was greater than its EPA estimate during my test. On a full charge, the EPA rates the S90 Recharge’s all-electric range at 38 miles, which is more than the BMW 530e’s EPA-estimated 21 miles of range. After gaining a full charge on my Level 2 home charger, the car displayed 45 miles of range, but I traveled 49 miles (according to the gauge cluster) before running out. Admittedly, I was in Hybrid mode, but the engine came on sparingly during my drive. I didn’t exceed 87 mph and the weather was in the mid-50s, so my climate control usage was minimal. My total trip was 70 miles of mostly flat highway driving, and the car said I averaged 78.2 mpg, including the all-electric portion of the trip.\n\nCars.com Detroit Bureau Chief Aaron Bragman had a similar experience in his real-world electric-range test of a 2021 S90 Recharge, which has a smaller battery than the 2024 model. The 2021 version has 21 miles of EPA-estimated electric range, but Bragman saw 23 miles of range after a full charge and drove 27.8 miles before the gas engine kicked in.\n\nOther aspects of the driving experience also impressed. My test car was equipped with an optional adaptive suspension with rear load-leveling, and the ride was well damped, comfortable and controlled. The sedan’s nicely weighted, reactive steering made it easy to maneuver in tight spaces, and its regenerative brakes had a linear, natural feel. You can also pop the gear selector into B mode for one-pedal driving, which both saves energy and adds convenience.\n\nGoogle Built-In\n\nIn another bold move, Volvo has added Google’s Built-In infotainment system to its entire lineup. The system will probably take some getting used to for some people, but I thought it worked well — mostly.\n\nTechnology sometimes makes things more complicated than they need to be, but in this case, it made things better once I got it set up. Because this was my first time using the system, I was prepared for complications, but as a habitual Google user, it was pretty easy.\n\nThe large 9-inch infotainment touchscreen is powered by the Google Built-In system, and it features Google Assistant for voice control, Google Maps as the native navigation system and the Google Play store for acquiring additional apps. The system can also receive over-the-air updates.\n\nTo get started, scan the QR code that pops up on the screen with your phone and sign into your Google account. After that, you’re in; the car will be connected to all of your apps once you download them to the system. For example, I was able to log in to my Google account and access my Google Podcasts, Amazon music playlists and favorite places in my Google Maps account. It’s similar to using Android Auto, but there’s no phone connection required after the initial QR code setup. What’s more, you can say “Hey Google” for hands-free help getting directions, navigating to charging stations, adjusting climate functions or switching playlists.\n\nI was comfortable with the system because it’s so similar to Android Auto, but those who aren’t regular Google users might have a steeper learning curve with the interface. Apple iPhone users can access CarPlay via a wired connection.\n\nThat said, even if you’re an avid Android user, there are some downsides to Google Built-In. First, while the large infotainment screen is responsive and clear, it integrates a lot of climate-system controls, and some functions require a couple of clicks into the screen instead of just a press of a button. Thankfully, Volvo did leave a large volume knob and tuning buttons under the screen.\n\nSecond, the giant screen is sometimes a waste of space. When using the backup camera, the display takes up a small percentage of the screen while the rest of the display is blacked out. The same goes for satellite radio information, which can’t be displayed simultaneously with Google Maps info. What’s nice, however, is that Google Maps info can be displayed on the large digital instrument panel ahead of the driver, freeing the center touchscreen to display other info, such as music.\n\nLastly, how much the system will cost to operate in the long run is a bit murky. A four-year data plan for the Google services is included, but after that, you’ll have to subscribe to extend connectivity. When I asked a Volvo representative how much the subscription renewal will cost, she said Volvo hasn’t released that information yet.\n\nMore From Cars.com:\n\nWhich Electric Cars Are Still Eligible for the $7,500 Federal Tax Credit?\nFade to Black: 2024 Volvo XC60 Goes Dark With Black Edition\n2024 Volvo C40 Recharge, XC40 Recharge Get More Range, New Powertrains\n2025 Volvo EX30 Full Lineup Pricing Announced, Starts at $36,245\nIs the 2023 Volvo XC90 Recharge a Good SUV? 5 Pros and 3 Cons\nSafety and Pricing\n\nStandard driver-assist features include forward collision warning, forward automatic emergency braking, adaptive cruise control, lane departure warning, lane departure steering assist, lane-centering steering, lane follow assist, traffic-sign recognition, blind spot warning with rear cross-traffic alert, reverse automatic emergency braking, a 360-degree camera system, parking sensors, adaptive headlights and rain-sensing windshield wipers. In addition to that robust list of standard safety and driver-assistance features, the S90 also earned a 2022 Top Safety Pick+ award from the Insurance Institute for Highway Safety.\n\nWhere it loses points is pricing, though that might not be a deal breaker for those shopping the luxury class. The 2024 Volvo S90 Recharge starts at $66,945 (including destination) for an entry Plus trim. It’s $72,495 for the Ultimate trim, which adds more premium features, such as a Harman Kardon premium sound system and ventilated front seats. A selection of options, including a $3,200 Bowers & Wilkins premium sound system, raised my test car’s as-tested price to $78,195. That’s a lot more than the regular S90, which starts at $58,995. It’s also more than the 2023 530e’s $58,595 starting price.\n\nThe 2024 Volvo S90 Recharge is for well-heeled, EV-curious shoppers who want to dip a (likely well-manicured) toe into the electric-car market. To that end, it delivers premium levels of comfort, performance and efficiency while keeping the dreaded range anxiety at bay.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "T8 eAWD PHEV Plus",
+          "price": "$65650",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury sedan",
+              "Mild-hybrid or plug-in hybrid (Recharge) powertrains",
+              "38 miles of all-electric range (Recharge)",
+              "Standard all-wheel drive",
+              "Eight-speed automatic transmission",
+              "Google Built-In infotainment system"
+            ],
+            "Highlights": [
+              "38 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "523 @ 2200 SAE Net Torque @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,628 lbs Base Curb Weight",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "T8 eAWD PHEV Ultimate",
+          "price": "$71200",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury sedan",
+              "Mild-hybrid or plug-in hybrid (Recharge) powertrains",
+              "38 miles of all-electric range (Recharge)",
+              "Standard all-wheel drive",
+              "Eight-speed automatic transmission",
+              "Google Built-In infotainment system"
+            ],
+            "Highlights": [
+              "38 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "455 @ 6000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "523 @ 2200 SAE Net Torque @ RPM",
+              "2.0 L/120 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "4,628 lbs Base Curb Weight",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/ad8cbbe7-0ad4-42ba-921c-8758af3f800d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/98e13589-5c95-4227-ae81-d757517283c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/f8e85ce7-51f9-4911-abbb-90228281608c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/129f2398-9b6b-486e-a132-052b3ed3babb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/61457dd4-1a8f-4d35-9e33-f8ff7ebcd31b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/cdfc7af1-eacf-48b3-9074-2704e70878a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/accf35df-b286-4990-8de2-2d2601494ba4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/c63cbc0c-2dd3-4869-898e-ffbb42daca8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/35a9830f-5390-4d3f-a8c4-227cb6c89414.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/93080c57-aff9-444a-8aa4-31a330a71902.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/914539b3-bf6f-4b98-913d-af32118a362c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/8ae7c8fa-39dc-4c5a-9e0b-27802466fd1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/0d900e95-6df3-4c38-a654-fbc3a0e180f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/7c0d6f61-714d-4cec-8d41-645d3ee981de.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/c8a2e3e6-573c-4384-ad3d-0fbdc199d70f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/e96a8d29-8be4-492f-a095-3f3f5aae26e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/015351e7-0eb2-4e4c-b7ef-be4c7c24f6e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/16328a13-bb4e-48ff-b3ce-5783707ee73d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/f364d6b9-a18d-4c81-be61-ace0417ef58a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/61ec86ed-cbba-4033-9706-82e1292ab7ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/732adfac-050b-47b2-88f6-763885ab5c55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/2473a8f5-331f-4ff7-a500-e62bc6b2dcee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/02f2f7cb-06b4-4f5f-8ac3-b39165976480.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/b30ec9ed-52bf-4e9e-b8f1-e8c922938f13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/96ffe861-4838-40c2-84ac-ba6f2510f7ee.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/94307b07-c43b-4b3f-bec2-f289500bda6c/43048df3-83d9-44d6-81fe-6fee055eb783.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/d3799c29-6073-443f-a930-67706294810f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/5da22833-8025-4bb0-902a-b133b768cbd7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/863456e9-a399-44d8-87db-8f7f4d681e4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/8ae4e9ca-0bd4-4e42-8654-4566e63776ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/0b800a0f-84f7-4693-871d-70b3f2379a06.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fb25da13-036f-49fa-b5b3-79ca977d6fe9/2e00ddc1-0ade-4ff2-aae9-9693d4e638cb.png"
+      ],
+      "expert_review": "What Is the 2020 Volvo S90?\n\nThe Volvo S90 mid-size luxury sedan seats five and competes with the BMW 5 Series and Audi A6. It’s powered by a standard turbocharged and supercharged 2.0-liter four-cylinder engine that makes 316 horsepower. A plug-in hybrid model that can travel up to 21 miles on electric power alone, according to EPA estimates, is also available. Both versions of the S90 have all-wheel drive. \n\n What’s New on the 2020 Volvo S90?\n\nNew standard features for the Momentum trim level include leather upholstery, heated front seats and front park assist. Meanwhile, a new R-Design model features sport-oriented exterior and interior design cues and adds convenience features like four-zone climate control and power rear sunshades.  \n\nWhat Features in the 2020 Volvo S90 Are Most Important?\n\nThe plug-in hybrid version offers the most power with total system output of 400 hp, and the 21-mile electric-only driving range should be enough to cover modest daily commutes. A long list of standard active safety features includes automatic emergency braking, lane-keep assist and Pilot Assist. \n\nShould I Buy the 2020 Volvo S90?\n\nYou have to be willing to think outside the traditional luxury box to enjoy the S90. The ride with the standard suspension is firm and lacks refinement, and the lack of a mega-horsepower performance model might turn some luxury sports sedan shoppers away. Then again, the standard engine is still potent, and the plug-in hybrid model offers both efficiency and power. We also like the high-quality, distinctive interior that offers good passenger space.",
+      "trims": [
+        {
+          "name": "T8 eAWD Plug-In Hybrid Inscription",
+          "price": "$63200",
+          "specifications": {
+            "Notable features": [
+              "New R-Design version",
+              "Five-seat mid-size luxury sedan",
+              "All-wheel drive standard",
+              "Turbocharged and supercharged engine standard",
+              "Pilot Assist driver-assist system",
+              "Plug-in hybrid model available"
+            ],
+            "Highlights": [
+              "21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Turbo/Supercharger Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbo/Supercharger Gas/Electric I-4 Engine Type",
+              "472 SAE Net Torque @ RPM",
+              "2.0 L/120 Displacement",
+              "400 @ 6000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,819 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "T8 eAWD Plug-In Hybrid R-Design",
+          "price": "$63200",
+          "specifications": {
+            "Notable features": [
+              "New R-Design version",
+              "Five-seat mid-size luxury sedan",
+              "All-wheel drive standard",
+              "Turbocharged and supercharged engine standard",
+              "Pilot Assist driver-assist system",
+              "Plug-in hybrid model available"
+            ],
+            "Highlights": [
+              "21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Turbo/Supercharger Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "400 @ 6000 SAE Net Horsepower @ RPM",
+              "Turbo/Supercharger Gas/Electric I-4 Engine Type",
+              "472 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,819 lbs Base Curb Weight",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/620949ee-c7c6-4133-a94d-df75069ebaa0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/57b7e524-6db6-4815-a695-5e1c53f3960c/392169db-4ae0-46db-bfd8-c9c951d9d755.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/19f66666-7fa0-4e2a-a42f-176a98f9d266.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/fbde6302-3c73-42b5-942c-01b5f5c9a5ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/eba580f4-e3e6-44a5-acde-1a204ff31c1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/9eb2ff7f-f3c4-4b83-9228-f0f26194b07a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/2b88a5c9-61e6-4a50-bacd-6f545c635c93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/47819a90-d137-45e9-80ac-998eb79cc851/9674b1ed-84d9-42e7-90be-a1a75044ddb6.png"
+      ],
+      "expert_review": "Plug-in hybrids still feel like something of a stop-gap measure for automakers on the way from internal combustion engines to full battery-electric vehicles. But for some people, they make a lot of sense: They provide the ability to commute in full electric vehicle mode when necessary — either out of a desire to produce fewer emissions and help the planet or simply use less gasoline and save a buck or two — combined with the capability to drive long distances under gas power. Some PHEVs work better than others at this, but I think the best are those that seamlessly blend systems under the skin of an otherwise conventional-looking vehicle — like this new 2021 Volvo S90 Recharge Plug-In Hybrid. \n\nIn published EPA estimates, the S90 Recharge boasts just over 20 miles of maximum all-electric range before its gasoline engine kicks in, but we observed significantly more than that in our real-world range test. More on that in a minute.\n\nRelated: 2021 Volvo XC90 Recharge Range: Here’s How Far We Went on Electricity Alone\n\nNow, before we get too far into this, you have to understand what “Recharge” means in Volvo speak, because it changes depending on the vehicle. For this S90 sedan (as well as the XC90 and XC60 SUVs, S60 sedan and V60 wagon), “Recharge” denotes a plug-in hybrid powertrain that combines gasoline and electric propulsion but can also travel reasonably significant distances on electric power alone. For the XC40 Recharge and upcoming C40 Recharge, by contrast, the moniker denotes a pure-electric vehicle powered only by batteries with no onboard gas engine. Suffice it to say, “Recharge” in Volvo speak means the vehicle has a plug, but what that plug charges will differ depending on vehicle.\n\nThe Ride\n\nIn the case of the S90 Recharge, you’re looking at Volvo’s shapely mid-size luxury sedan, powered by a combination of a turbocharged and supercharged 2.0-liter four-cylinder gasoline engine, which makes an already-stout 313 horsepower and 295 pounds-feet of torque, plus an electric motor teamed to the rear axle that pumps out 87 hp and 177 pounds-feet of torque. It gives the AWD S90 Recharge a combined output of 400 hp and 472 pounds-feet of torque. \n\nThe drivetrain uses a conventional eight-speed automatic transmission too, not the continuously-variable-style automatics so many other PHEVs use. The onboard battery is an 11.6 kilowatt-hour lithium-ion pack, which can be recharged in about 6.5 hours on a standard 120-volt household plug or a little under four hours on a Level 2, 240-volt charger (DC fast charging is not an option). \n\nOnce fully charged, the S90 Recharge is rated by the EPA to go up to 21 miles on full electric power before the battery is depleted and the gas engine kicks in, enabling a total range of 490 miles before you’ll need to fill the gas tank, too. That’s good for an official rating of 60 mpg-equivalent under hybrid power, or 30 mpg combined once the juice runs out and you’re running on liquid dinosaurs. (Depending where you live, you might’ve been doing some of that indirectly even on EV power.) The grand total for this luxurious piece of stylish Scandinavian technology rang in at $70,640 with the destination fee, including nearly $10,000 in options packages. \n\nThe Route\n\nMy PHEV test route remains constant, stretching from Ann Arbor, Mich., to a fixed point in Dearborn, Mich., and back again. It’s a mixed-speed route with a combination of urban stop-and-go driving and higher-speed, divided multilane boulevards. It’s good for providing a variety of conditions, but speed limits are adhered to, and acceleration and deceleration are always done at a moderate, easy pace — no stoplight drag races or unnecessary slamming on the brakes. I also keep the climate control off, which can trigger the gasoline engine in some cars and drop electric range by a couple miles right off the bat in others. \n\nIn a plug-in hybrid that offers the feature, I also enable EV driving mode; in the S90 Recharge, that means switching it to the Pure driving mode, which not only disables the gasoline engine (unless you really mash the accelerator) but also dampens your accelerator response, climate control and other energy-sapping factors. With the tires filled to their manufacturer-recommended settings, I set off on a lovely, warm spring day.\n\nThe Results\n\nUpon setting off with a full tank of gas and full battery charge, the S90 Recharge’s predictive range estimate came across the gauge cluster as 23 miles, or 2 miles better than the maximum EPA rating for electric-only range. On the route, the S90 Recharge actually went 27.8 miles before the battery registered zero and the gas engine kicked on, or nearly 32%  beyond the maximum EPA rating. \n\nBut it comes with a caveat: If you leave the S90 Recharge in Hybrid mode, its default setting, the car is wonderful. It’s quick, even when only using electric power, as it knows that it can fire up the gas engine whenever it wants or needs to, so it behaves a bit more profligately with the available electricity. That makes for a spirited sports sedan that matches the abilities of the S90’s gas-only versions. But pop that sucker into Pure mode, and everything changes. It’s slooooow to get up to speed, and while it’ll motor along at 65-mph highway speeds, it’s not happy being there, as it would much rather operate in Hybrid mode at that velocity. Around town, Pure mode accelerates with a very relaxed pace, the accelerator feeling quite different underfoot than when you have the drivetrain in any other mode. It’s for people who have a determined desire to trade driving enjoyment for electric range, and if your commute is a lower-speed, urban slog that avoids highways and sees consistent sub-55-mph speeds, then you likely won’t mind at all. But as soon as you taste the goodness this drivetrain delivers when it’s allowed to decide how to bring the power and speed, it’s almost painful to select that ultra-efficient mode, knowing you just won’t enjoy it quite the same way.\n\nThat said, driving modes don’t diminish the craftsmanship of the S90’s interior. It’s nearing 5 years old now, but it doesn’t feel stale or out of style in the slightest. We’ve credited Volvo for creating luxury vehicles that ooze premium luxury feel without being copycats of German, Japanese or American competitors, and that might be what’s most enjoyable about the S90 overall. It feels extremely well executed in every regard, but it doesn’t feel like an also-ran should you pull up to the valet or country club. It’s a different sort of luxury — but still an appealing one. And adding the better-than-expected electric range to a powertrain that can switch from super-frugal to super-sporty with the touch of a button just makes the S90 Recharge even more appealing in its class.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Recharge T8 eAWD PHEV R-Design",
+          "price": "$60050",
+          "specifications": {
+            "Highlights": [
+              "21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Turbo/Supercharger Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "472 @ 2200 SAE Net Torque @ RPM",
+              "400 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Turbo/Supercharger Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,673 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Recharge T8 eAWD PHEV Inscription",
+          "price": "$60050",
+          "specifications": {
+            "Highlights": [
+              "21 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Turbo/Supercharger Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "472 @ 2200 SAE Net Torque @ RPM",
+              "400 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Turbo/Supercharger Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,673 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

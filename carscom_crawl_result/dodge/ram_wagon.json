@@ -1,0 +1,1453 @@
+{
+  "make": "dodge",
+  "model": "ram_wagon",
+  "years": {
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9ddb1db5-5ebf-4bbc-8fe4-1b3b8180526b/7e105d65-27fb-4571-9de1-5c55c06d2a04.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$14284",
+          "specifications": {}
+        },
+        {
+          "name": "1500 127\" WB",
+          "price": "$17040",
+          "specifications": {}
+        },
+        {
+          "name": "B3500 127\" WB Maxi",
+          "price": "$21790",
+          "specifications": {}
+        }
+      ]
+    },
+    "1999": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9bc2b358-6b95-4dd6-8482-c6dbc19b9007/99669793-1d99-4208-9fc0-f4a233cdfb56.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$20880",
+          "specifications": {
+            "Highlights": [
+              "15 City / 16 Hwy MPG",
+              "8 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "230 @ 3200 SAE Net Torque @ RPM",
+              "175 @ 4800 SAE Net Horsepower @ RPM",
+              "3.9L/239 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,600 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "4,559 lbs Curb Weight",
+              "7,250 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "32 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "8,800 lbs Gross Combined Wt Rating",
+              "2,041 lbs Maximum Payload Capacity",
+              "2,041 lbs As Spec'd Payload",
+              "4,559 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "1,924 lbs Curb Weight - Rear",
+              "2,635 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "117 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB",
+          "price": "$23195",
+          "specifications": {
+            "Highlights": [
+              "13 City / 18 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "225 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "5,177 lbs Curb Weight",
+              "9,740 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "35 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,700 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,500 lbs Gross Combined Wt Rating",
+              "2,523 lbs Maximum Payload Capacity",
+              "2,523 lbs As Spec'd Payload",
+              "5,177 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,172 lbs Curb Weight - Rear",
+              "3,005 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "117 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "3500 127\" WB MAXI",
+          "price": "$25900",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "5.2L/318 Displacement",
+              "225 @ 4400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Front",
+              "Semi-floating Axle Type - Rear",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "0 lbs Option Weight - Front",
+              "5,575 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,125 lbs Maximum Payload Capacity",
+              "5,575 lbs Curb Weight",
+              "12,500 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,688 lbs Curb Weight - Rear",
+              "35 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "9,740 lbs Gross Axle Weight Rating",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,125 lbs As Spec'd Payload",
+              "2,887 lbs Curb Weight - Front",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight",
+              "8,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "117 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Rear Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2001": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/61e08f70-7738-4a32-991f-0752bc8ae7b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/eb328162-85d4-4656-927d-416f280e37a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/778d53a8-4036-4b3f-8a0b-ad0abbb3e8fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/e4d2b16b-564b-4eb7-9ae8-8391d1f8aabe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/eea9d7cc-6e76-46a8-85ba-1a1ac3a4f076.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/9a0965fa-3af4-4353-9cc3-847bd7531d45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/382753e3-6a5b-4c1c-92e2-e915385dfe96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/995795c1-d4cb-40ff-9185-23357607cc2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/45cf19b0-142e-4747-9b86-c3bc919e8d3c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/0e7c2401-60bc-4447-8d94-5c49dcd201f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/c3df9413-7780-487c-830e-1e87ded47dbf.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/02835d0b-eafc-4943-9e01-93a17418e22f/fa2ede6f-fcfc-40b4-94c5-9f2008068fa7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/30f081fc-df62-43e4-b806-e0f12de7fc2b/2f710cb8-b223-4f40-828c-dd52d2db44fb.png"
+      ],
+      "expert_review": "Vehicle Overview\nLike its mates from Chevrolet, GMC and Ford, Dodges full-size, rear-drive van has been around for a long time\n three decades, in fact, though they were upgraded and redesigned for the 1998 model year. The Ram Van is the cargo model, and the Ram Wagon is the passenger-carrying version; the Vans outsell the Wagons by a 5-2 ratio. The truck-based Ram comes in three sizes and three capacity ratings: 1500, 2500 and 3500, and the Ram name also is used for Dodges burly-looking full-size pickup trucks.\n\nUnlike the full-size competition, Ram Vans and Wagons have unibody construction, which DaimlerChrysler says yields more cargo space and payload capacity than a separate body-on-frame design. Changes for 2001 include a new optional trailer-towing package, new front seat belt pretensioners and a vacuum-fluorescent gear indicator in the instrument panel.\n\nExterior\nRegular-length Rams ride a 109.6-inch wheelbase and measure 187.2 inches overall. Rams with the 127.6-inch wheelbase come in either a 205.2-inch overall length or in Maxi form, at 231.2 inches. The bodies of Maxi models extend an extra 26 inches beyond the back wheels, and Vans in the 1500 series are available with either wheelbase; however, 2500/3500 models have a 127.6-inch wheelbase. All models are just under 80 inches tall.\n\nA single rear door and twin doors on the right side of the vehicle are standard, but dual rear doors and a single sliding side door are optional.\n\nInterior\nEight-passenger seating is standard on 1500 and basic 2500 models. The 2500 and 3500 versions can be equipped to seat 12, and the 3500 Maxi Wagon can have an extra seat in the fifth row to hold as many as 15 passengers. Cargo capacity in the Wagon is 206.6 cubic feet for the short-wheelbase model, 246.7 cubic feet for the regular 127.6-inch wheelbase and 304.5 cubic feet for the Maxi. Cargo Vans have just two vinyl front seats, and the passenger seat can be removed.\n\nA new passenger assist handle is mounted on the windshield pillar, and tilt steering is a new option this year. Dealers can install such convenience features as a video player system and rear air conditioning.\n\nUnder the Hood\nEither a 175-horsepower, 3.9-liter V-6 engine or a 235-hp, 5.2-liter V-8 can be installed in the 1500 series. Extended-wheelbase 1500 Vans also can have a 5.9-liter V-8 that generates 245 hp. Only V-8 engines are available for the heavier-duty models. A three-speed-automatic transmission is used with the V-6 engine, and V-8 models team with a four-speed automatic. Dodge also offers V-8 engines that run on compressed natural gas (CNG).\n\nRam Vans can tow between 4,150 and 8,600 pounds, while the Wagons are rated from 4,050 to 7,700 pounds, depending on the series and engine.\n\nSafety\nStandard antilock brakes operate only on the rear wheels; four-wheel ABS is an option. Next-generation front airbags and front seat belt pretensioners have been installed this year, but side-impact airbags are not available.\n\n \n\nReported by Jim Flammang  for cars.com\nFrom the cars.com 2001 Buying Guide",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$21345",
+          "specifications": {
+            "Highlights": [
+              "14 City / 16 Hwy MPG",
+              "8 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "230 @ 3200 SAE Net Torque @ RPM",
+              "175 @ 4800 SAE Net Horsepower @ RPM",
+              "3.9L/239 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,600 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "4,590 lbs Curb Weight",
+              "7,350 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "8,800 lbs Gross Combined Wt Rating",
+              "2,010 lbs Maximum Payload Capacity",
+              "2,010 lbs As Spec'd Payload",
+              "4,590 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "1,926 lbs Curb Weight - Rear",
+              "2,664 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB",
+          "price": "$23360",
+          "specifications": {
+            "Highlights": [
+              "12 City / 16 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "225 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "7,800 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "5,173 lbs Curb Weight",
+              "9,740 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "35 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "7,700 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,500 lbs Gross Combined Wt Rating",
+              "2,627 lbs Maximum Payload Capacity",
+              "2,627 lbs As Spec'd Payload",
+              "5,173 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,116 lbs Curb Weight - Rear",
+              "3,057 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "3500 127\" WB MAXI",
+          "price": "$26365",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "5.2L/318 Displacement",
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "225 @ 4400 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Independent Axle Type - Front",
+              "Independent Coil Suspension Type - Front",
+              "Semi-floating Axle Type - Rear",
+              "Multi-Leaf Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "12,500 lbs Gross Combined Wt Rating",
+              "3,077 lbs Maximum Payload Capacity",
+              "2,908 lbs Curb Weight - Front",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "9,740 lbs Gross Axle Weight Rating",
+              "3,077 lbs As Spec'd Payload",
+              "N/A Base Curb Weight",
+              "5,623 lbs Curb Weight",
+              "8,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Front",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,623 lbs As Spec'd Curb Weight",
+              "0 lbs Total Option Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,715 lbs Curb Weight - Rear",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "35 gal Fuel Tank Capacity, Approx",
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Rear"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Rear Brake ABS System",
+              "Yes Drum - Rear (Yes or )",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2bf3b5b5-a682-4997-a848-b3c3d1701fad/adbe9c47-e6cf-4ce9-b577-1a8b3c6c36c5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$20585",
+          "specifications": {
+            "Highlights": [
+              "15 City / 17 Hwy MPG",
+              "8 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.9L/239 Displacement",
+              "175 @ 4800 SAE Net Horsepower @ RPM",
+              "225 @ 3200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Coil Suspension Type - Front",
+              "Leaf Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Semi-floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "2,290 lbs Curb Weight - Front",
+              "1,870 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,160 lbs As Spec'd Curb Weight",
+              "2,440 lbs As Spec'd Payload",
+              "2,440 lbs Maximum Payload Capacity",
+              "7,500 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,300 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "32 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "7,250 lbs Gross Axle Weight Rating",
+              "4,160 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "6,600 lbs Gross Vehicle Weight Rating"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB",
+          "price": "$23000",
+          "specifications": {
+            "Highlights": [
+              "13 City / 18 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "5.2L/318 Displacement",
+              "220 @ 4400 SAE Net Horsepower @ RPM",
+              "295 @ 3200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Coil Suspension Type - Front",
+              "Leaf Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Semi-floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "2,390 lbs Curb Weight - Front",
+              "1,850 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "4,240 lbs As Spec'd Curb Weight",
+              "3,460 lbs As Spec'd Payload",
+              "3,460 lbs Maximum Payload Capacity",
+              "12,500 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,400 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "36 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "8,720 lbs Gross Axle Weight Rating",
+              "4,240 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "3500 127\" WB MAXI",
+          "price": "$25705",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "220 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "0 lbs Total Option Weight",
+              "4,860 lbs Curb Weight",
+              "9,740 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "36 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,500 lbs Gross Combined Wt Rating",
+              "3,840 lbs Maximum Payload Capacity",
+              "3,840 lbs As Spec'd Payload",
+              "4,860 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,430 lbs Curb Weight - Rear",
+              "2,430 lbs Curb Weight - Front",
+              "8,700 lbs Gross Vehicle Weight Rating"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2002": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/e948ab63-ea0c-4202-b8db-68b5062b09f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/8baf64b3-1934-4ac5-bfd4-5842f4770895.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/f31b87f0-30a8-4e3c-be4e-f3e661eff5fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/dcca3c2c-f2de-41ee-8975-9fbc5c02bf26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/0df466d4-b5ad-4694-a27a-3ad88e6946d0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d009d776-5502-471a-95cb-02e1ff8a6a4f/1c73f229-be9d-4fe3-ac2d-8168ca86ae7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/25c1ba90-9e79-43c7-94a0-e15aafc063f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/df5db780-a4b9-437c-a67d-4caaf5922d90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/e7a0ebf4-fa34-481a-8f30-6e7d7341264b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/a2dc5950-7a2e-4fc8-b017-1fa51e1a88ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/bd09fc30-6d0c-4725-ba34-2f392065eaad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/a380b306-4fd7-48e9-a36d-29c036c5c8a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/02451b46-f794-4f47-84b1-5ed9f711feb9/8969d5dd-2ddd-43bb-af77-b636fdf6c7ec.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$21345",
+          "specifications": {
+            "Highlights": [
+              "14 City / 16 Hwy MPG",
+              "8 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "230 @ 3200 SAE Net Torque @ RPM",
+              "175 @ 4800 SAE Net Horsepower @ RPM",
+              "3.9L/239 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "6,600 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "4,590 lbs Curb Weight",
+              "7,350 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "31 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "8,800 lbs Gross Combined Wt Rating",
+              "2,010 lbs Maximum Payload Capacity",
+              "2,010 lbs As Spec'd Payload",
+              "4,590 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "1,926 lbs Curb Weight - Rear",
+              "2,664 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB",
+          "price": "$23360",
+          "specifications": {
+            "Highlights": [
+              "12 City / 16 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "225 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement",
+              "Gas V8 Engine Type",
+              "295 @ 3200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Coil Suspension Type - Front",
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,700 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "35 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "9,740 lbs Gross Axle Weight Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,500 lbs Gross Combined Wt Rating",
+              "5,173 lbs As Spec'd Curb Weight",
+              "7,800 lbs Gross Vehicle Weight Rating",
+              "3,057 lbs Curb Weight - Front",
+              "2,627 lbs As Spec'd Payload",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "2,116 lbs Curb Weight - Rear",
+              "5,173 lbs Curb Weight",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "2,627 lbs Maximum Payload Capacity",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Not Available Disc - Rear (Yes or )",
+              "Rear Brake ABS System",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "3500 127\" WB MAXI",
+          "price": "$26365",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "225 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "8,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "5,623 lbs Curb Weight",
+              "9,740 lbs Gross Axle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "35 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,500 lbs Gross Combined Wt Rating",
+              "3,077 lbs Maximum Payload Capacity",
+              "3,077 lbs As Spec'd Payload",
+              "5,623 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,715 lbs Curb Weight - Rear",
+              "2,908 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2000": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/843a5033-c312-473e-b788-1723a0f0b8c5/d0852a3e-4d90-4e57-8f43-6e90c63b8cce.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$21315",
+          "specifications": {
+            "Highlights": [
+              "14 City / 16 Hwy MPG",
+              "8 Seat capacity",
+              "Gas V6 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.9L/239 Displacement",
+              "Gas V6 Engine Type",
+              "175 @ 4800 SAE Net Horsepower @ RPM",
+              "230 @ 3200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Leaf Suspension Type - Rear",
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "32 gal Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "8,800 lbs Gross Combined Wt Rating",
+              "N/A Maximum Trailering Capacity",
+              "4,559 lbs As Spec'd Curb Weight",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "6,600 lbs Gross Vehicle Weight Rating",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "2,041 lbs Maximum Payload Capacity",
+              "7,350 lbs Gross Axle Weight Rating",
+              "1,924 lbs Curb Weight - Rear",
+              "2,635 lbs Curb Weight - Front",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "4,559 lbs Curb Weight",
+              "5,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,041 lbs As Spec'd Payload"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Rear Brake ABS System",
+              "Power Brake Type",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB",
+          "price": "$23330",
+          "specifications": {
+            "Highlights": [
+              "12 City / 15 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V8 Engine Type",
+              "5.2L/318 Displacement",
+              "225 @ 4400 SAE Net Horsepower @ RPM",
+              "295 @ 3200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Coil Suspension Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Semi-floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Base Curb Weight",
+              "3,005 lbs Curb Weight - Front",
+              "2,172 lbs Curb Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "0 lbs Option Weight - Rear",
+              "5,177 lbs As Spec'd Curb Weight",
+              "2,523 lbs As Spec'd Payload",
+              "2,523 lbs Maximum Payload Capacity",
+              "12,500 lbs Gross Combined Wt Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "7,700 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "35 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "7,700 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "5,177 lbs Curb Weight",
+              "9,740 lbs Gross Axle Weight Rating"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "3500 127\" WB MAXI",
+          "price": "$26335",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "225 @ 4400 SAE Net Horsepower @ RPM",
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "5.2L/318 Displacement",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Coil Suspension Type - Front",
+              "Multi-Leaf Suspension Type - Rear",
+              "Independent Axle Type - Front",
+              "Semi-floating Axle Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "5,575 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "8,700 lbs Gross Vehicle Weight Rating",
+              "35 gal Fuel Tank Capacity, Approx",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "9,740 lbs Gross Axle Weight Rating",
+              "N/A Maximum Trailering Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "12,500 lbs Gross Combined Wt Rating",
+              "3,125 lbs Maximum Payload Capacity",
+              "3,125 lbs As Spec'd Payload",
+              "5,575 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "2,688 lbs Curb Weight - Rear",
+              "2,887 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "Rear Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "1997": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/28acb403-73e8-4a7e-9cbd-e8c335036436/95f18843-e41f-4499-b244-f28d4cf29809.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "B2500 127\" WB",
+          "price": "$21940",
+          "specifications": {
+            "Highlights": [
+              "13 City / 18 Hwy MPG",
+              "8 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type",
+              "220 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement"
+            ],
+            "Suspension": [
+              "Leaf Suspension Type - Rear",
+              "Independent Coil Suspension Type - Front",
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "4,240 lbs Curb Weight",
+              "4,240 lbs As Spec'd Curb Weight",
+              "2,160 lbs Maximum Payload Capacity",
+              "0 lbs Total Option Weight",
+              "800 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,160 lbs As Spec'd Payload",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "35 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "7,000 lbs Gross Axle Weight Rating",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "8,800 lbs Gross Combined Wt Rating",
+              "1,850 lbs Curb Weight - Rear",
+              "N/A Base Curb Weight",
+              "2,390 lbs Curb Weight - Front",
+              "6,400 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,400 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available gal Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "Not Available Brake ABS System (Second Line)",
+              "11.75 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Rear Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "B3500 127\" WB",
+          "price": "$23140",
+          "specifications": {
+            "Highlights": [
+              "12 City / 15 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "220 @ 4400 SAE Net Horsepower @ RPM",
+              "5.2L/318 Displacement",
+              "295 @ 3200 SAE Net Torque @ RPM",
+              "Gas V8 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Coil Suspension Type - Front",
+              "Semi-floating Axle Type - Rear",
+              "Leaf Suspension Type - Rear",
+              "Independent Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,995 lbs Curb Weight - Rear",
+              "2,560 lbs Curb Weight - Front",
+              "4,555 lbs As Spec'd Curb Weight",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,945 lbs Maximum Payload Capacity",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Front",
+              "0 lbs Total Option Weight",
+              "0 lbs Option Weight - Rear",
+              "35 gal Fuel Tank Capacity, Approx",
+              "7,500 lbs Gross Vehicle Weight Rating",
+              "4,555 lbs Curb Weight",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "2,945 lbs As Spec'd Payload",
+              "12,500 lbs Gross Combined Wt Rating",
+              "N/A Base Curb Weight",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "8,270 lbs Gross Axle Weight Rating",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available gal Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "136 Maximum Alternator Capacity (amps)",
+              "600 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Rear Brake ABS System",
+              "Not Available Brake ABS System (Second Line)",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "B3500 127\" WB MAXI",
+          "price": "$24950",
+          "specifications": {
+            "Highlights": [
+              "12 City / 15 Hwy MPG",
+              "12 Seat capacity",
+              "Gas V8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "220 @ 4400 SAE Net Horsepower @ RPM",
+              "Gas V8 Engine Type",
+              "5.2L/318 Displacement",
+              "295 @ 3200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Leaf Suspension Type - Rear",
+              "Semi-floating Axle Type - Rear",
+              "Independent Axle Type - Front",
+              "Independent Coil Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "0 lbs Option Weight - Front",
+              "3,650 lbs Maximum Payload Capacity",
+              "Not Available lbs Fifth Wheel Hitch - Max Trailer Wt.",
+              "0 lbs Option Weight - Rear",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "8,960 lbs Gross Axle Weight Rating",
+              "2,430 lbs Curb Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "4,860 lbs Curb Weight",
+              "12,500 lbs Gross Combined Wt Rating",
+              "8,100 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,860 lbs As Spec'd Curb Weight",
+              "Not Available gal Aux Fuel Tank Capacity, Approx",
+              "1,000 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Fifth Wheel Hitch - Max Tongue Wt.",
+              "35 gal Fuel Tank Capacity, Approx",
+              "N/A Base Curb Weight",
+              "8,510 lbs Gross Vehicle Weight Rating",
+              "3,650 lbs As Spec'd Payload",
+              "2,430 lbs Curb Weight - Front",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "600 Cold Cranking Amps @ 0° F (Primary)",
+              "136 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Not Available Brake ABS System (Second Line)",
+              "Rear Brake ABS System",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "12.82 x 1.25 in Front Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3660ac0a-7c8a-40f5-892d-7bfa4b514486/dba09cc7-cb98-45c5-947f-74837d21e363.png"
+      ],
+      "expert_review": "Is a mini-van a bit snug in the hips?\n\nWhen the family travels en masse, do you need three vehicles to accommodate the crew-and still have to leave the dog at home for lack of room?\n\nHas Planned Parenthood taken your name off its mailing list?\n\nRelax, Dodge makes a vehicle that ensures the family can stay together at all times.\n\nThe Dodge Ram Wagon fits up to 15 people in spaciousness and comfort. If you’re a Snow Bird who leaves the Midwest for Florida or Arizona each winter, your trek would be far more pleasant in the Ram Wagon than in a sedan or even a mini-van that, at most, seats seven. With room for as many as 15, you can take the entire clan in one vehicle.\n\nThe Ram Wagon is built on a 127.6-inch wheelbase and is 205.2 inches long overall. Though called a wagon, it is a van-a really big van with a sliding side door and a swing-out rear door.\n\nThe long wheelbase keeps you far removed from the point of impact over the axles. The long wheelbase and the front stabilizer bar and gas-charged front and rear shocks contribute to a carlike ride and handling for a vehicle that looks like the Queen Mary when parked in your driveway. (That’s Queen Mary, the ship, of course. No use riling the royal family any more than it is.)\n\nThe Ram Wagon stands 79.9 inches tall and is 79.8 inches wide, and that means good road balance. Though nearly 80 inches high, step in/out height is manageable. But, when it comes time to draw straws to see who washes it, the loser will need a ladder.\n\nYou have room to stretch up front, room to roam in back. You can take a quick nap or pull off the road and take a long snooze because the second and third seats fold flat into a bed. After catching a few winks, you can have a snack on the tabletop that slips out of the side wall.\n\nThe 5.9-liter, 230-horsepower, V-8 has no problem moving this land yacht; the four-wheel anti-lock brakes no trouble stopping it. Where the 5.9-liter V-8 falls short is in fuel economy, with a rating of 12 miles per gallon city/16 m.p.g. highway. Ouch!\n\nRear wheel anti-lock brakes are standard, but we’d pop for the extra $500 and get four-wheel ABS for a vehicle this big that can hold so many people. There are no air bags.\n\nWhen it comes to problems or annoyances, there were a few. The side sliding door is big because the Ram Wagon is big, and it typically took more than one try to close the thing. And that’s with adults trying. If you were to park on a hill, gravity would make closing the door even more of a chore. It would be nice if Chrysler offered a power opening/closing side door as GM does on its mini-vans.\n\nThe other gripe has to do with parking. The Ram Wagon is so long and wide you just don’t pull into or out of a parking space with the grace of a ballerina or the agility of a wide receiver. Rather, it’s the old bull-in-the-china-shop routine. You take ai m and swing in and out-but with extra care. Just because the nose of the wagon is in the space, remember there’s still several feet of rear end hanging out in the aisle.\n\nAnd be careful of those aisles. If narrow, you may never get out of that parking space because you need so much back-up space to free the front end from between the solid lines. You must make an allowance for the rear end when getting into a parking space and for the front end when leaving it. So, your best bet is to park out in the boonies at the mall, where the kids park their Firebirds and Mustangs so door bangers don’t nick the merchandise.\n\nFinally, the Dodge Ram Wagon is as old as dirt. The last time the vehicle was redesigned, Lee Iacocca was in diapers, and he’s now retired. For 1994 the snout was changed to sport a larger, bolder grille. But except for the smiling chrome, the Ram Wagon is the same tall, wide, long box on wheels it has been for decades. It sure would be nice to s ee the wagon built off the new Ram truck platform with a bit more aerodynamic body, less interior noise and far better fuel economy.\n\nDespite the years, Dodge hasn’t avoided technological changes. ABS, for example, is available even if air bags aren’t. But the aged Ram Wagon does seem to be saddled with a few rattles and things that go bang in the night (as well as the day)-sounds that have been designed and engineered out of Chrysler’s more modern mini-vans.\n\nWe tested the Ram Wagon LE in two-wheel-drive version. Base price was $18,260, a mighty reasonable sum considering all the people and gear the vehicle can hold.\n\nStandard equipment includes a 22-gallon gas tank, rear-wheel ABS, power steering, stainless steel exhaust, dual outside mirrors (very big for fabulous visibility), tinted glass and AM/FM stereo with digital clock.\n\nOptions included the LE package consisting of chlorofluorocarbon-free air conditioning, bodyside moldings, cloth seats and carpeting, cruise control, tilt wheel, power windows/locks/mirrors, remote keyless entry, intermittent wipers, sunscreen glass that filters out ultraviolet rays, 35-gallon fuel tank (you will need this), and styled steel 15-inch wheels for $5,839.\n\nA trailer towing package added $221, four-wheel ABS $500, removable/bed conversion rear seats for $913, automatic transmission at $250, radio upgrade with cassette and additional speakers at $153, and the optional 5.9-liter, Magnum, V-8 engine for $857. With a $2,486 discount on the options but a $595 freight charge the sticker topped the $25,000 mark.\n\nThe Ram Wagon is a workhorse, but with a 12/16 mileage rating it’s not your commuter vehicle, especially when it comes to slipping into or out of the parking space at work.\n\nHowever, if you want some respect on the roadway, the Ram Wagon brings out the courtesy in most of your fellow motorists. Typically cars traveling the merger lane simply will pull directly in the path of the nearest vehicle to make room for the invading vehicle or vehicles.\n\nIn the huge Ram Wagon not one driver tried to slip ahead without giving a warning signal. Perhaps they thought the monster van was a battering Ram. Even a cab backed down, and we hadn’t seen that in 25 years.",
+      "trims": [
+        {
+          "name": "B150 109\" WB",
+          "price": "$14491",
+          "specifications": {}
+        },
+        {
+          "name": "B250 127\" WB",
+          "price": "$16279",
+          "specifications": {}
+        },
+        {
+          "name": "B250 127\" WB",
+          "price": "$18260",
+          "specifications": {}
+        },
+        {
+          "name": "B250 Maxi 127\" WB",
+          "price": "$19546",
+          "specifications": {}
+        },
+        {
+          "name": "B350 127\" WB",
+          "price": "$19548",
+          "specifications": {}
+        },
+        {
+          "name": "B350 Maxi 127\" WB",
+          "price": "$20565",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6fbf2242-6d43-4e18-a0f2-e6fb46f82785/f23db7a6-bdfa-48ae-af09-eab745ad0ee1.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "B150 127\" WB",
+          "price": "$14608",
+          "specifications": {}
+        },
+        {
+          "name": "B150 109.6\" WB",
+          "price": "$15167",
+          "specifications": {}
+        },
+        {
+          "name": "B150 127.6\" WB",
+          "price": "$16025",
+          "specifications": {}
+        },
+        {
+          "name": "B250 127.6\" WB",
+          "price": "$16669",
+          "specifications": {}
+        },
+        {
+          "name": "B250 Maxi 127.6\" WB",
+          "price": "$17955",
+          "specifications": {}
+        },
+        {
+          "name": "B350 127.6\" WB",
+          "price": "$17957",
+          "specifications": {}
+        },
+        {
+          "name": "B350 Maxi 127.6\" WB",
+          "price": "$19244",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3234d68d-2e99-4a57-80f3-6a9e43f0ef52/f8ac432d-5172-43c8-9108-efbfbdc16d92.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "B150 127\" WB",
+          "price": "$15393",
+          "specifications": {}
+        },
+        {
+          "name": "B250 127\" WB",
+          "price": "$15806",
+          "specifications": {}
+        },
+        {
+          "name": "B150 109.6\" WB",
+          "price": "$16160",
+          "specifications": {}
+        },
+        {
+          "name": "B150 127.6\" WB",
+          "price": "$17018",
+          "specifications": {}
+        },
+        {
+          "name": "B250 127.6\" WB",
+          "price": "$17662",
+          "specifications": {}
+        },
+        {
+          "name": "B250 Maxi 127.6\" WB",
+          "price": "$18948",
+          "specifications": {}
+        },
+        {
+          "name": "B350 127.6\" WB",
+          "price": "$18950",
+          "specifications": {}
+        },
+        {
+          "name": "B350 Maxi 127.6\" WB",
+          "price": "$19967",
+          "specifications": {}
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/091b4d50-3334-41e3-ba5d-35669af5dfd3/eb48f250-b8e7-4890-afe7-c9b290769a3b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "1500 109\" WB",
+          "price": "$16253",
+          "specifications": {
+            "Highlights": [
+              "15 City / 17 Hwy MPG",
+              "1 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "1500 127\" WB",
+          "price": "$16895",
+          "specifications": {
+            "Highlights": [
+              "15 City / 17 Hwy MPG",
+              "1 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB",
+          "price": "$16998",
+          "specifications": {
+            "Highlights": [
+              "15 City / 17 Hwy MPG",
+              "1 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2500 127\" WB MAXI",
+          "price": "$18573",
+          "specifications": {
+            "Highlights": [
+              "15 City / 17 Hwy MPG",
+              "1 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "B1500 109\" WB",
+          "price": "$18783",
+          "specifications": {
+            "Highlights": [
+              "15 City / 17 Hwy MPG",
+              "8 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "B2500 127\" WB",
+          "price": "$20779",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "8 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "B2500 127\" WB",
+          "price": "$20779",
+          "specifications": {
+            "Highlights": [
+              "13 City / 17 Hwy MPG",
+              "8 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "B3500 127\" WB MAXI",
+          "price": "$23789",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "12 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "B3500 127\" WB MAXI",
+          "price": "$23789",
+          "specifications": {
+            "Highlights": [
+              "13 City / 17 Hwy MPG",
+              "12 Seat capacity",
+              "Rear Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

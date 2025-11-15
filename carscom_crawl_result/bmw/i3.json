@@ -1,0 +1,1767 @@
+{
+  "make": "bmw",
+  "model": "i3",
+  "years": {
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/7e41c9ae-f0e8-46f3-ae63-39dbfaf2e91c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/a66bb34a-640b-4de0-b5e8-74e378f628ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/62403d0c-7dc6-417f-bb2c-21854ffcac90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/ad754842-b6f8-4936-a65b-6be9d723712e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/907c9ff3-62d1-4784-9fdd-dd77a86e4861.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/ad754842-b6f8-4936-a65b-6be9d723712e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/d7a6b24d-47f4-4f97-b329-15f3d81781c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/b69767a6-c11b-4fd4-934d-dfe69ea43269.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/1df40f42-eee2-4a97-b23e-f1e15fd113ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/5e12d2f4-4d6d-44dc-ac39-4b2bf6b33ee4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/c0e1567b-ecc2-4844-a285-16c01480d467.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/f1c8649a-cb94-45a4-b55c-dff4ecffea5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/14570df2-240a-41d5-88f1-03b8655f82f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/eb5a5cd7-6383-4d8d-bbbc-e8e7ef071e4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/79d798a0-7ab9-4af5-8c18-de40effc2312.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/6002bf38-ad06-47b3-8dd7-5aa4d409ad7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/c2234138-2c71-40e9-8b6b-d5f4659ff61c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/6218c27b-e857-4192-973d-0f2ed32e52a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/65aeefc5-a0a6-44b4-9797-2bf32de5f3b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/c3e2c932-20c8-4faf-855e-5218c89ca65f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/69d0714d-9191-4944-939e-e6ca90e20796.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f4e369f6-9178-4b69-bbe5-dfeff3bf8b1c/702b1b89-c663-4273-a017-5bc4bac13951.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe new BMW i3 is a purpose-built electric car with seating for four. Constructed of carbon fiber reinforced plastic and aluminum to save weight, the i3’s electric drivetrain gives it a range of 80 to 100 miles, according to BMW, and it can be recharged in three hours on Level 2 service, which is available at many charging stations.\n\nTo alleviate the range-anxiety concerns associated with electric cars, BMW offers an available two-cylinder gas engine for the i3. The engine doesn’t drive the wheels but rather maintains the lithium-ion battery when its charge is low. The engine gives the i3 another 80 to 100 miles of range.\n\nThe i3 is scheduled to hit dealerships in the second quarter of 2014. Competitors include the Nissan Leaf, Fiat 500e and Chevrolet Volt.\n\nExterior Highlights\n\nModular architecture consists of carbon fiber reinforced plastic cabin and aluminum drivetrain chassis\nLED headlights and taillights\nTraditional front doors and rear-hinged back doors, no B-pillar\n19-inch light-alloy wheels; 20-inch wheels available\nRain-sensing windshield wipers\n\nInterior Highlights\n\nAutomatic air conditioning\nTilt/telescoping steering wheel\niDrive system with 6.5-inch screen\nBluetooth connectivity\nUSB port\n50/50-split folding backseat\nNavigation system\n\nUnder the Hood\n\n\nElectric motor makes 170 horsepower and 184 pounds-feet of torque\n22-kilowatt-hour lithium-ion battery pack located near the rear wheels, which drive the car\nElectronically limited 93-mph top speed\nThree-hour charging time on Level 2 service; available DC fast charging for full charge in 30 minutes\nAvailable 34-hp two-cylinder gas engine extends driving range\n\nSafety Features\n\nAntilock brakes\nSide-impact airbags for the front seats\nSide curtain airbags\nElectronic stability system\nEmergency communication system with 10-year subscription included",
+      "trims": [
+        {
+          "name": "4dr HB",
+          "price": "$41350",
+          "specifications": {
+            "Notable features": [
+              "New for 2014",
+              "All-electric four-seat hatchback",
+              "Range of 80 to 100 miles",
+              "Carbon fiber reinforced plastic and aluminum construction",
+              "Available range-extending gas engine",
+              "Three-hour recharge time on Level 2 service",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "72 - 81 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,860 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr HB w/Range Extender",
+          "price": "$45200",
+          "specifications": {
+            "Notable features": [
+              "New for 2014",
+              "All-electric four-seat hatchback",
+              "Range of 80 to 100 miles",
+              "Carbon fiber reinforced plastic and aluminum construction",
+              "Available range-extending gas engine",
+              "Three-hour recharge time on Level 2 service",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "72 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric/Gas Engine Type",
+              "184 SAE Net Torque @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "170 @ 4800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,130 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/8d12c758-ad05-47ef-80ed-bb815a9a8e36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/479a4362-b440-4b57-806d-d71695bb667a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/e1b8be27-24a3-4942-be64-1147842d79fd.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/28370e26-300a-4d7b-a194-c0c168b036a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/28370e26-300a-4d7b-a194-c0c168b036a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/66140f92-cff7-4964-8513-f3b12b5db8c8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/300e7c20-2837-477e-99e5-05f1bcd5d57a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/5adceb79-bbeb-4d0e-b58c-c26f3af4662d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/e240d2d0-19c8-43cd-9f59-315bd380044c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/ce5014ea-43ac-45f9-b78f-e1ced2efa71e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/25d03100-9238-404a-ba2b-f750e3bf6432.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/29c1f198-dd7d-480f-968c-adfb8edc5171.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/88ec1e7b-3bc7-404c-922d-bef1727afe55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/5249ae6a-1a40-457e-afee-fad7b6608b51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/2c63859d-97a5-471f-bb2d-569b867a1e54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/d68b03ef-5109-4a3c-9e51-9c5610fe21a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/6934527f-1cf0-47d4-a600-d247825971d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/b75533c0-b0c4-44e1-bd4c-bceedee650f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/37097dfc-818a-4aca-8298-a213d76f676e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/2ac58a3d-a9ae-44cb-84e8-13beb5651f2b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/69cb01c2-0ca6-49e9-ab1e-72bc44cd001f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cbf91a97-326f-4c9d-9d5c-5e872887b045/9cfd6a2c-fbc3-4162-a74e-f39640aa6844.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in November 2015 about the 2015 BMW i3. Little of substance has changed with this year’s model. To see what’s new for 2016, click here, or check out a side-by-side comparison of the two model years.\n\nCars don’t get much more bizarre than the 2015 BMW i3, an electric hatchback with surprising room and comfort but a whole lot of head-scratchers.\n\nThe first product from BMW’s “i” electric sub-brand, the i3 launched for the 2014 model year. Changes for 2015 amount to a few more standard features (compare the two model years here), none of which keep the i3 from being a rolling science project.\n\nThe car’s electric motor and battery have an EPA-estimated range of 81 miles. One version has a gasoline engine generator that kicks in when the battery runs out to bring the total EPA-estimated range to 150 miles. Compare the two variants here. We tested the version with gas backup, which BMW calls the i3 with Range Extender.\n\nExterior & Styling\nThe i3’s styling isn’t from left field, it’s from outside the ballpark — possibly the planet. A mash-up of bulging bumpers, Ferris-wheel rims and more black gloss than a kitchen remodel, the styling is sure to polarize. BMW’s twin-kidney grille is a functionless blue-and-silver façade. The taillights hover within an extension of rear-window glass, wedged between oversized quarter panels. Enormous 19- or 20-inch wheels have comically skinny tires.\n\nThe i3’s subcompact size makes its features seem even more outlandish. Its footprint is comparable to a four-door Mini Cooper, as is its curb weight, at about 2,800 pounds without the range extender. The extender — a 34-horsepower, 0.6-liter two-cylinder engine — adds 265 pounds.\n\nHow It Drives\nTypical of an electric car, the i3 darts from a standstill, but its peppiness goes beyond that. This BMW is quick, with seamless torque — 184 pounds-feet — to scoot to highway speeds. BMW says it takes 7.8 seconds to get to 60 mph with the range extender and 7 seconds flat without it — about as quick as a 320i sedan.\n\nTwo driving modes, Eco Pro and Eco Pro Plus, introduce ascending levels of accelerator lag among other configurable restrictions — namely, no climate control in Eco Pro Plus and a speed limit the i3 won’t pass unless you floor it. BMW says Eco Pro mode adds 12 percent to the drivetrain’s remaining range, and Eco Pro Plus adds another 12 percent atop that. Our test car’s remaining range did indeed climb with each mode, suggesting the i3 could exceed its EPA-estimated 81-mile electric range by quite a bit. BMW says the EPA calculated the range in the i3’s base Comfort mode. (There are no Sport modes.)\n\nBMW clearly tuned the suspension on the soft side, but it didn’t sacrifice control to get there. The i3 quells expansion joints with remarkable composure, staying settled even on rapid elevation changes and off-camber bumps. One editor found broken pavement more disruptive, but overall ride quality is impressive for a car whose wheelbase — just 101 inches, about 5 inches short of a 2 Series — ought to work against such composure.\n\nHighway speeds reveal weaknesses, though, as the steering settles into a soupy numbness to stay straight ahead. Crosswinds require lots of tentative, twitchy corrections. Steering feedback improves heading into corners, but the i3’s narrow P155/60R20 (front) and P175/55R20 (rear) Bridgestone Ecopia tires — skinny in order to minimize rolling resistance, BMW says — skate off course on hard turns. Despite its rear-wheel-drive layout, the i3 feels as front-heavy as any front-drive car. Get into a sweeping corner, and the nose pushes early and often.\n\nLift off the gas, and the i3’s aggressive regenerative brakes slow the car all the way to a stop without any braking on your own. You can’t adjust their aggressiveness, which could be a deal-breaker for some. Should you need to stop sooner, the i3 suffers slow, spongy panic stops with plenty of antilock-braking chatter as those skinny tires lose traction. Our friends at “MotorWeek” needed 127 feet to halt from 60 mph in a 2015 i3. That’s 15 feet longer than they needed in a 2014 3 Series.\n\nIn 30 minutes the i3 can reach 100 percent battery on a commercial DC quick-charger, BMW says. Many plug-ins top out around 80 percent on DC chargers no matter how long they’re plugged in. Attach a Level 2 (240-volt) charger to the i3’s 22-kilowatt-hour battery, and getting a full charge will take about three hours; that’s about as quick a charge as you can get at Level 2. In a pinch, slow charging from a traditional household outlet is also possible, but it usually adds only 5 miles of range each hour, as was our experience.\n\nUnlike the Chevrolet Volt, whose range extender adds exponential vehicle range, the i3’s extender is more of an emergency provision. It fires up — noisily — to charge the depleted battery only as much as necessary to keep the car going; it doesn’t directly drive the wheels. Once it’s running, the extender sips fuel at the equivalent of an EPA-estimated 39 mpg. But it draws off a tank that’s just 1.9 gallons, so unless you want to stop for gas every 75 miles, the i3 isn’t really a road-trip option. (It would cost you, too: The engine prefers premium gas and requires at least midgrade.) The setup’s extra weight drops the i3’s all-electric range from 81 to 72 miles.\n\nInterior\nThe styling circus continues inside, where the i3’s shapes and materials are in some sort of automotive alternate universe. The dashboard amounts to a few planks of “responsibly forested” eucalyptus wood amid chunks of leather-wrapped moldings. Two screens perch on the steering column and a horizontal dashboard outcropping, respectively; the latter gives the illusion of a floating display. A bulky stump on the steering column accommodates the gear selector, which you click forward or backward to electronically put the car into Drive, Reverse or Neutral. Park is a push button.\n\nBMW says a quarter of the interior plastic and thermoplastic parts are recycled and that the forward reaches of the dash and doors have a textured, lightweight material made from kenaf fibers, a tropical plant related to cotton. Whatever. It looks like a houseful of cats had a shedding contest.\n\nAutomatic climate control and heated front seats are standard. The upholstery is a mix of vinyl and cloth in the i3’s base Mega World Package. Giga World and Tera World packages add the wood and leather dash, with leather-and-cloth seats on the Giga and full leather on the Tera. I’ve seen sillier names for trim packages before, but the i3’s takes the cake for sheer geekiness. Or bytes the cake, as it were.\n\nWith no conventional driveline, the interior is free of the center tunnel that takes up floor space in most cars. BMW cleared out not just the footwells but also pared down the center console itself. It opens up an abundance of foot and knee room, and if you park in a narrow spot, you can scoot across to exit out the passenger-side door.\n\nThe seats themselves are too flat for much lateral support. The two-passenger backseat has rear-hinged doors, like an extended-cab pickup. Rear headroom and legroom is better than the i3’s exterior size would suggest, but the seating position might leave taller adults’ knees elevated.\n\nErgonomics & Electronics\nThe dashboard’s center screen measures 6.5 inches; navigation and BMW’s iDrive controller are standard. Optional on any trim is a larger, wide-screen navigation system with an iDrive touch-pad. The larger screen is more helpful than the touchpad, which I rarely used.\n\nBluetooth phone connectivity, satellite radio, a USB port and HD radio are standard. Harman Kardon premium audio is an $800 option, but Bluetooth audio streaming isn’t included until you opt for a $2,500 Technology and Driving Assistant Package. That’s absurd; many economy cars have standard Bluetooth audio.\n\nAll of them have AM radio, which the i3 omits. BMW says it’s because the electric motor interferes with AM radio signals, so the reception would be rotten anyhow. Bah.\n\nCargo & Storage\nBMW says the rear-mounted range extender has no effect on cargo space, which is 15.1 cubic feet behind the rear seats. The backseat folds in a 50/50 split, at the pull of convenient straps in the backrest or the cargo area, to expand maximum space to 36.9 cubic feet. That maximum spec is modest on paper, but it was enough to fit a travel grill and 42-inch television, plus some pillows to keep the one from breaking the other.\n\nThe i3’s hood has a small compartment for the portable 1.4-kilowatt household charger. There’s enough extra space for a small overnight bag.\n\nSafety\nThe i3 hasn’t been crash-tested. A forward collision warning system with automatic braking is optional, but the system works only at speeds below 35 mph. Audible rear parking assist is standard; a backup camera and front parking assist are optional.\n\nSee a full list of safety features here or our Car Seat Check on the i3 here.\n\nValue in Its Class\nThe i3’s top rivals, the Mercedes-Benz B-Class Electric Drive and Audi A3 e-Tron, look like mainstream cars from their respective brands. Indeed, they are versions of gas-powered models. The i3 barely looks like a real car, let alone a BMW. No doubt about it: This hatch stands out.\n\nStill, electric cars have struggled in the face of low gas prices in 2015, which makes for an uphill battle that only the best will win. The i3 has too many warts to rise to the top, and its high price — ranging, after a maximum $7,500 federal tax credit, from about $36,000 to the high $40,000s — could alienate a lot of shoppers.\n\nDespite this, BMW has respectable sales. From January to August 2015, i3 sales totaled about half of the Leaf’s numbers and three-quarters of the Volt’s, despite both those cars having considerably more mass appeal. Some will find a certain charm in the i3’s myriad quirks, and the optional range extender adds much-needed viability. BMW may have found a niche among status-conscious environmental shoppers. Still, it’s too much of an odd duck (and a pricey mallard, at that) to appeal beyond that.\n\nSend Kelsey an email",
+      "trims": [
+        {
+          "name": "4dr HB",
+          "price": "$42400",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Shadow Sport Edition",
+              "All-electric four-seat hatchback",
+              "EPA-estimated 81-mile range",
+              "150 miles with optional gasoline range extender",
+              "Recharge time of 3 hours at Level 2",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "72 - 81 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "184 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2,860 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr HB w/Range Extender",
+          "price": "$46250",
+          "specifications": {
+            "Notable features": [
+              "New limited-edition Shadow Sport Edition",
+              "All-electric four-seat hatchback",
+              "EPA-estimated 81-mile range",
+              "150 miles with optional gasoline range extender",
+              "Recharge time of 3 hours at Level 2",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "72 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "184 SAE Net Torque @ RPM",
+              "Electric/Gas Engine Type",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,130 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/1eb03db6-cf97-4164-8936-72379cea307d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/ed053c71-c16d-4ab3-bdef-f1d733bc30d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/6b3b5d9b-a7cc-4bf5-9769-d1f42feb99e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/fc2b4ea6-b5c0-464f-8566-af7b1d1faa72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/1f543d85-e83f-42d1-842f-39385c9f881f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/d8628332-c31c-40de-b566-47b009b6e011.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/0e75a8a3-4fcf-468d-8505-03173564fc66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/f99a33c6-5a41-43f9-b2a4-2e72479724a7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/1f543d85-e83f-42d1-842f-39385c9f881f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/7864c87c-6804-45bb-81eb-f13f22204f26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/a3331d01-0982-4c10-b7e8-45c073f1c66b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/730ff9ca-6237-47e7-b6ed-e37e0e3e9fc1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/89586632-2f16-4434-bdbb-41f21be0ca47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/45fead86-ec6f-4ea3-8c81-dc46066f578a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/2d8a1be7-6a70-4760-b538-4a4e92c43909.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/8d3cc95b-4223-4ce2-8bdb-caf784073beb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/e31607fe-3b0d-4019-b1a0-b2535f012ff6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/0c83fa37-ec58-43f6-8730-b3e8c2d41eed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/aa5adca3-7e28-4807-a124-325314fc24bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/a3864736-2713-489e-913e-51d1e01d6a98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/ae51474c-dc8b-4366-aebd-968045b042c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/28d42db8-7f2d-49b9-a141-cd72a09fa105/965d316f-0eae-43c9-8eb0-877867d5528a.png"
+      ],
+      "expert_review": "Cars don’t get much more bizarre than the 2015 BMW i3, an electric hatchback with surprising room and comfort but a whole lot of head-scratchers.\n\nThe first product from BMW’s “i” electric sub-brand, the i3 launched for the 2014 model year. Changes for 2015 amount to a few more standard features (compare the two model years here), none of which keep the i3 from being a rolling science project.\n\nThe car’s electric motor and battery have an EPA-estimated range of 81 miles. One version has a gasoline engine-generator that kicks in when the battery runs out to bring the total EPA-estimated range to 150 miles. Compare the two variants here. We tested the version with gas backup, which BMW calls the Bmw i3 Range Extender.\n\nExterior & Styling\nThe BMW i3’s styling isn’t from left field, it’s from outside the ballpark — possibly the planet. A mash-up of bulging bumpers, Ferris-wheel rims and more black gloss than a kitchen remodel, the styling is sure to polarize. BMW’s twin-kidney grille is a functionless blue-and-silver façade. The taillights hover within an extension of rear-window glass, wedged between oversized quarter panels. Enormous 19- or 20-inch wheels have comically skinny tires.\n\nThe i3’s subcompact size makes its features seem even more outlandish. Its footprint is comparable to a four-door Mini Cooper, as is its curb weight, at about 2,800 pounds without the range extender. The extender — a 34-horsepower, 0.6-liter two-cylinder engine — adds 265 pounds.\n\nHow It Drives\nTypical of the torque in an electric car, the BMW i3 darts from a standstill, but its peppiness goes beyond that. This BMW is quick, with seamless torque — 184 pounds-feet — to scoot to highway speeds. BMW says it takes 7.8 seconds to get to 60 mph with the range extender and 7 seconds flat without it — about as quick as a 320i sedan.\n\nTwo driving modes, Eco Pro and Eco Pro Plus, introduce ascending levels of accelerator lag among other configurable restrictions — namely, no climate control in Eco Pro Plus and a speed limit the i3 won’t pass unless you floor it. BMW says Eco Pro mode adds 12 percent to the drivetrain’s remaining range, and Eco Pro Plus adds another 12 percent atop that. Our test car’s remaining range did indeed climb with each mode, suggesting the i3 could exceed its EPA-estimated 81-mile electric range by quite a bit. BMW says the EPA calculated the range in the i3’s base, Comfort mode. (There are no sport modes.)\n\nBMW clearly tuned the suspension on the soft side, but it didn’t sacrifice control to get there. The BMW i3 quells expansion joints with remarkable composure, staying settled even on rapid elevation changes and off-camber bumps. One editor found broken pavement more disruptive, but overall ride quality is impressive for a car whose wheelbase — just 101 inches, about 5 inches short of a 2 Series — ought to work against such composure.\n\nHighway speeds reveal weaknesses, though, as the steering settles into a soupy numbness to stay straight ahead. Crosswinds require lots of tentative, twitchy corrections. Steering feedback improves heading into corners, but the i3’s narrow P155/60R20 (front) and P175/55R20 (rear) Bridgestone Ecopia tires — skinny in order to minimize rolling resistance, BMW says — skate off-course on hard turns. Despite its rear-wheel-drive layout, the i3 feels as front-heavy as any front-drive car. Get into a sweeping corner, and the nose pushes early and often.\n\nLift off the gas, and the BMW i3’s aggressive regenerative brakes slow the car all the way to a stop without any braking on your own. You can’t adjust their aggressiveness, which could be a deal-breaker for some. Should you need to stop sooner, the i3 suffers slow, spongy panic stops with plenty of antilock-braking chatter as those skinny tires lose traction. Our friends at “MotorWeek” needed 127 feet to halt from 60 mph in a 2015 i3. That’s 15 feet longer than they needed in a 2014 3 Series.\n\nIn 30 minutes the BMW i3 hatchback can reach 100 percent battery on a commercial DC quick-charger, BMW says. Many plug-ins top out around 80 percent on DC chargers no matter how long they’re plugged in. Attach a Level 2 (240-volt) charger to the i3’s 22 kWh battery, and getting a full charge will take about three hours; that’s about as quick a charge as you can get at Level 2. In a pinch, slow charging from a traditional household outlet is also possible, but it usually adds only 5 miles of range each hour, as was our experience.\n\nUnlike the Chevrolet Volt, whose range extender adds exponential vehicle range, the i3’s range-extending feature is more of an emergency provision. It fires up — noisily — to charge the depleted battery only as much as necessary to keep the car going; it doesn’t directly drive the wheels. Once it’s running, the extender sips gasoline at the equivalent of an EPA-estimated 39 mpg. But it draws off a tank that’s just 1.9 gallons, so unless you want to stop for gas every 75 miles, the battery-electric i3 isn’t really a road-trip option. (It would cost you, too: The engine prefers premium gas and requires at least midgrade.) The setup’s extra weight drops the i3’s all-electric range from 81 to 72 miles.\n\nInterior\nThe styling circus continues inside, where the BMW i3 hatchback’s shapes and materials are in some sort of automotive alternate universe. The dashboard amounts to a few planks of “responsibly forested” eucalyptus wood amid chunks of leather-wrapped moldings. Two screens perch on the steering column and a horizontal dashboard outcropping, respectively; the latter gives the illusion of a floating display. A bulky stump on the steering column accommodates the gear selector, which you click forward or backward to electronically put the car into Drive, Reverse or Neutral. Park is a push-button.\n\nBMW says a quarter of the interior plastic and thermoplastic parts are recycled and that the forward reaches of the dash and doors have a textured, lightweight material made from Kenaf fibers, a tropical plant related to cotton. Whatever. It looks like a houseful of cats had a shedding contest.\n\nAutomatic climate control and heated front seats are standard. The upholstery is a mix of vinyl and cloth in the i3’s base Mega World Package. Giga World and Tera World packages add the wood and leather dash, with leather-and-cloth seats on the Giga and full leather on the Tera. I’ve seen sillier names for trim packages before, but the i3’s takes the cake for sheer geekiness. Or bytes the cake, as it were.\n\nWith no conventional driveline, the interior is free of the center tunnel that takes up floor space in most cars. BMW cleared out not just the footwells but also pared down the center console itself. It opens up an abundance of foot and knee room, and if you park in a narrow spot, you can scoot across to exit out the passenger-side door.\n\nThe seats themselves are too flat for much lateral support. The two-passenger backseat has rear-hinged doors, like an extended-cab pickup. Rear headroom and legroom is better than the i3’s exterior size would suggest, but the seating position might leave taller adults’ knees elevated.\n\nErgonomics & Electronics\nThe dashboard’s center screen measures 6.5 inches; navigation and BMW’s iDrive controller are standard. Optional on any trim is a larger, wide-screen navigation system with an iDrive touchpad. The larger screen is more helpful than the touchpad, which I rarely used.\n\nBluetooth phone connectivity, satellite radio, a USB port and HD radio are standard. Harman Kardon premium audio is an $800 option, but Bluetooth audio streaming isn’t included until you opt for a $2,500 Technology and Driving Assistant Package. That’s absurd; many economy cars have standard Bluetooth audio.\n\nAll of them have AM radio, which the i3 omits. BMW says it’s because the electric-only motor interferes with AM radio signals, so the reception would be rotten anyhow. Bah.\n\nCargo & Storage\nBMW group says the rear-mounted range extender has no effect on cargo space, which is 15.1 cubic feet behind the rear seats. The backseat folds in a 50/50 split, at the pull of convenient straps in the backrest or the cargo area, to expand maximum space to 36.9 cubic feet. That maximum spec is modest on paper, but it was enough to fit a travel grill and 42-inch television, plus some pillows to keep the one from breaking the other.\n\nThe BMW i3’s hood has a small compartment for the portable 1.4 kw household charger. There’s enough extra space for a small overnight bag.\n\nSafety\nThe BMW i3 hasn’t been crash-tested. A forward-collision warning system with automatic braking is optional, but the system works only at speeds below 35 mph. Audible rear parking assist is standard; a backup camera and front parking assist are optional.\n\nSee a full list of safety features here or our Car Seat Check on the i3 here.\n\nValue in Its Class\nThe BMW i3’s top rivals, the Mercedes-Benz B-Class Electric Drive and Audi A3 e-Tron, look like mainstream cars from their respective brands. Indeed, they are versions of gas-powered models. The i3 barely looks like a real car, let alone a BMW. No doubt about it: This hatch stands out.\n\nStill, electric cars have struggled in the face of low gas prices in 2015, which makes for an uphill battle that only the best will win. Both the regular and the range-extended i3 have too many warts to rise to the top, and its high price — ranging, after a maximum $7,500 federal tax credit, from about $36,000 to the high $40,000s — could alienate a lot of shoppers.\n\nDespite this, BMW has respectable sales. From January to August 2015, i3 sales totaled about half of the Leaf’s numbers and three-quarters of the Volt’s, despite both those cars having considerably more mass appeal. Some will find a certain charm in the BMW i3’s myriad quirks, and the optional range extender adds much-needed viability. BMW may have found a niche among status-conscious environmental shoppers. Still, it’s too much of an odd duck (and a pricey mallard, at that) to appeal beyond that.\n\nSend Kelsey an email",
+      "trims": [
+        {
+          "name": "4dr HB",
+          "price": "$42400",
+          "specifications": {
+            "Notable features": [
+              "DC fast charging, heated seats and satellite radio now standard",
+              "All-electric four-seat hatchback",
+              "EPA-estimated 81-mile range",
+              "150 miles with optional gasoline range extender",
+              "Recharge time of 3 hours at Level 2",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "72 - 81 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,860 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr HB w/Range Extender",
+          "price": "$46250",
+          "specifications": {
+            "Notable features": [
+              "DC fast charging, heated seats and satellite radio now standard",
+              "All-electric four-seat hatchback",
+              "EPA-estimated 81-mile range",
+              "150 miles with optional gasoline range extender",
+              "Recharge time of 3 hours at Level 2",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "72 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric/Gas Engine Type",
+              "184 SAE Net Torque @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,130 lbs Base Curb Weight",
+              "2 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/d515722e-8905-439f-bd25-258e18f1d9bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/8c458292-978f-4869-9a27-e5a85df34581.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/22c68e82-ab75-47a3-bd67-d089d261cf60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/52c19bfb-c2cd-499c-8859-004aabdc596c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/a8672565-0d7c-4a8d-ae61-23e235f91ddd.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/392a14bc-9356-45bc-9a2e-e5ce752f2f4d/75c749ec-a39d-440b-885c-3ab10e2c4cd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/4762e0b8-8b89-45b4-8328-df55aececbaf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/beb3c077-5278-4124-80e7-4a0a3bbd7dfe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/a910b98e-a9ef-4666-a98a-35ba352e39f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/5b740b40-dcc9-4116-8e80-a1715a2f3665.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/1aed40a7-0ad6-4164-a023-fde9c0182d7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/ec7a3208-dc46-4ab4-9e8f-0e5941626c36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/0792d34b-d057-4598-8fbb-0e680f94a91a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/bf2dc743-9795-426d-838a-ea245e7a955d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/a5048022-4aaf-4c27-83e4-fd5e717dac4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/9518ce9f-4065-4a06-bac6-2bf6db1116d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/273d79a3-0dbe-43d4-98f8-638f5515734a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/c1cee708-c4dc-477a-bfa2-0ae1ce92b015.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/fe42136d-11ae-4c14-8910-c65ec8801fcb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/a24241f9-78b1-42a9-a411-cdcfeef19791.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/9378c9d6-b3e6-4b69-b480-2a76efd04601.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/95451f77-33a9-4259-8793-6ad4fb0888b1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/dd6dac8a-d9a5-483b-8527-bbe38ddd5366.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/fb885415-3fae-4d78-8c03-2f4a978c999d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/8e46e993-3685-44ae-9e3e-348689cfe641.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/5e7fb7a5-8f49-480c-9f01-3f7be6899616.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/b8746166-a7fe-40c6-ae76-350ab9d8b6da.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/1b454fe2-4be7-4b21-ba28-754acf14b59e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/a9174630-0a80-424c-9e71-cc3e6c360de7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/f8bdb26e-a9ea-4bfe-bdcc-90fa2008e455.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/75bf5007-df9e-4503-871b-412023b35f04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/7df96c55-003f-4063-9d96-c2037781b741.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/1dad14f3-2777-41c2-a95e-fb870d7a8002.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/0dddb84a-1481-4bdb-8d72-9586c669b981.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/8f1636f5-6229-4492-8f18-6b33ace704a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/9b1c137d-3580-4a92-8aa5-322cc257d83e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/b53a428f-f738-45bb-9300-6a1a50f9168e/3c0abf6a-c371-418b-9444-43e3918243d3.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nWhat it is: The BMW i3 is a purpose-built electric car with rear-wheel drive and seating for four. Constructed of carbon fiber-reinforced plastic and aluminum to save weight, the i3’s electric drivetrain gives it a range of up to 114 miles or so, according to BMW. Competitors include the Nissan Leaf, Fiat 500e, Volkswagen e-Golf and Chevrolet Volt.\n\nTo address the range anxiety associated with electric cars, BMW offers an available two-cylinder gas engine for the i3. The engine doesn’t drive the wheels but rather charges the lithium-ion battery to extend the i3’s range.\nNew for 2017\nA higher-capacity 33-kilowatt-hour lithium-ion battery pack increases the i3’s estimated driving range to 114 miles from 81 miles. A new residential charging station is available from BMW i, and it takes about 4.5 hours to charge the battery on Level 2 service. A power moonroof is now available.\nSignificant Standard Features\n\n170-horsepower electric motor\nRear-wheel drive\nTraditional front doors and rear-hinged back doors\nLED headlights and taillights\nAutomatic air conditioning\nTilt/telescoping steering wheel\nHeated front seats\n50/50-split folding backseat\nNavigation system\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\n38-hp, two-cylinder gas engine-generator\nBackup camera\nLeather upholstery\nAdaptive cruise control\nBluetooth audio streaming\nForward collision warning",
+      "trims": [
+        {
+          "name": "60 Ah",
+          "price": "$42400",
+          "specifications": {
+            "Notable features": [
+              "New higher-capacity battery pack for longer range",
+              "New power moonroof available",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "114 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "170 @ 4800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2,866 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "94 Ah",
+          "price": "$44450",
+          "specifications": {
+            "Notable features": [
+              "New higher-capacity battery pack for longer range",
+              "New power moonroof available",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "97 - 114 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,961 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "94 Ah w/Range Extender",
+          "price": "$48300",
+          "specifications": {
+            "Notable features": [
+              "New higher-capacity battery pack for longer range",
+              "New power moonroof available",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "97 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "Electric/Gas Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,234 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/912d6c6d-abea-4231-9fb3-d355428e4235.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/b93472e0-799d-4cf5-9afa-0aeca8c6d4ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/63e82f37-88d8-4d94-a74a-f4ac7db4e82b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/c508c767-509c-441e-a473-1b730bc17bf6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/683833bc-26b4-43d2-9e0a-3a4ba993c6d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/cb8b7a62-f820-4a29-ae39-00f64aa8bfdf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/f75479cb-c697-40fa-9667-ae7ae006a9ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/cff61b71-79b9-4fb1-8e90-3a86e1d2fba1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/c20cd484-fddc-4d86-a4d3-43839eebd595.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/99d710ee-1a8f-4235-a8de-1aaab135ad40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/6589d0eb-0b0f-4aea-9782-692b9b15d77e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/b30f1b50-783f-4ed8-bce3-03a45505943c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/eeab6a4f-5138-4aa1-a408-49d20fe0a82c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/f152e3f4-a0d2-4e0b-a0c3-808d116acaa1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/d323e780-8186-4844-902f-7f423c0382cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/03aa08a1-e2e1-46ed-a079-3edd1b1af352.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/922deb84-7774-4319-84c0-07310dc6c5a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/1596c395-b6f2-4e91-a105-d77f8c3495d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/1b89eed0-a431-40d1-aa47-130c29c86af7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/cef7576c-6bc7-46eb-80aa-31fb8f06d41d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/5268b031-ccc9-4b99-910f-5be5fd36424a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/b999b568-67ab-45b8-81d9-4a03e7c9eda7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/a417d9ea-b2bf-40b1-80cc-24c0e84ea083.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/605e7728-89e7-4874-b7a0-2dd8024cc0b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/18f490f9-0363-4130-b73b-b6a6b0929987.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/bcea62da-664e-47ba-8b0a-fe618ea07a47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/ef243ede-09d0-4e8d-990d-1e2470eae74f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/008234a0-4a54-42b7-a05a-b9faf36b310a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/88974698-ca1c-4bb5-9f56-0f769c306806.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/777431c9-9d26-43b3-92e4-2bedf1f8e25a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bc5d4734-5bf0-4fda-acf3-265023f70310/d4bf0522-2fee-4a85-9cf7-bf7e3bd2f75e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/26ac5b37-959e-4108-b84e-78e6d86579cf/ea424b97-0506-4f3c-8bbd-85aeeb87a588.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "120 Ah",
+          "price": "$44450",
+          "specifications": {
+            "Highlights": [
+              "153 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "184 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2,972 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "s 120 Ah",
+          "price": "$47650",
+          "specifications": {
+            "Highlights": [
+              "153 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "181 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "199 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,040 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "120 Ah w/Range Extender",
+          "price": "$48300",
+          "specifications": {
+            "Highlights": [
+              "126 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric/Gas Engine Type",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,276 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "s 120 Ah w/Range Extender",
+          "price": "$51500",
+          "specifications": {
+            "Highlights": [
+              "126 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "199 SAE Net Torque @ RPM",
+              "Electric/Gas Engine Type",
+              "181 @ 4800 SAE Net Horsepower @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,309 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/6af2bdec-3060-4a3c-9b25-1b9ed57f84ce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/dfe6445b-5c26-4c31-816b-3536a2c3f966.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/23c3bfcd-73ab-464b-a902-ac2aabdd1587.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/ebba2876-4274-48c4-ac3d-78608d9f24d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/556009c0-0222-49d3-8c03-34387db58f2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/8e6060d4-f54e-436e-86ec-0c71ea7c3156.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/88f17276-e9d3-4d0e-ab32-725141c38b5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/f786f640-708e-468e-9d9d-5c297f884097.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/b0dc411b-85b1-4cfb-8ee2-ad91ee015294.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/d2d3293b-49cb-440d-b40a-6cc6501a14b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/e80a8d38-79dd-4eb1-8530-516226841876.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/19714e9d-73b7-4de3-8b79-d5f47acd34f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/f51fda28-a154-43ce-801a-686245f67de4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/234a9657-1d6e-4721-8568-2685cab25f30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/b846c603-5510-4736-952f-751e8837e8c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/43d48a42-7050-4451-a6c7-ea6b8f836209.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/a27ef9b3-6505-4274-bd74-a2d28e1dded0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/6ecb185e-fcf5-4392-a57e-7c815850e453.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/5b0fae7d-d421-4bc9-9eef-f81994888bae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/f6d304e8-2f96-45f9-ba2d-215f5b308f76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/32581ad7-3afd-428d-acce-a36879030573.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/8bd4c088-8840-41b5-9d6b-d0b932ac985d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/fca00734-b432-46b3-88d6-8817a40809db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/b976e00d-0a2e-4b68-be7b-ba5d13537fc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/51157804-bfb7-4154-b6e2-eead8a203a4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/88f49f1f-8745-4d29-9337-6542d6305358.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/093956c9-4e65-4b38-b579-dd445c56594f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/167ffc40-f2ef-4a01-9032-9785f475779a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/c9a1c5b5-f6f7-4dd4-a122-051dfe22b06a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/22415092-29a6-4a70-a3d8-40980004f7cb.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/749c02cb-e52c-49a2-86d9-85aa0e2b838a/2907a8a6-8b14-447a-be2a-908794c7f54f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f0325d83-0354-4e47-b1d9-caef853cc6c5/c273c3b5-076e-44c1-87ec-f1856b895466.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "120 Ah",
+          "price": "$44450",
+          "specifications": {
+            "Highlights": [
+              "126 - 153 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2,972 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "s 120 Ah",
+          "price": "$47650",
+          "specifications": {
+            "Highlights": [
+              "153 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "199 SAE Net Torque @ RPM",
+              "181 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,040 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "120 Ah w/Range Extender",
+          "price": "$48300",
+          "specifications": {
+            "Highlights": [
+              "126 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "Electric/Gas Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "2 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,276 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "s 120 Ah w/Range Extender",
+          "price": "$51500",
+          "specifications": {
+            "Highlights": [
+              "126 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "181 @ 4800 SAE Net Horsepower @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "199 SAE Net Torque @ RPM",
+              "Electric/Gas Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,309 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/98c41bb0-cdaf-4753-a071-adea5c4b6c8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/cd1350a3-b9db-44d7-9530-069db558db4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/d39002d9-a180-4808-a6dd-10ab4d0eee8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/b05af241-103b-4fc0-9cf2-a2c80dcabbad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/9f8344c7-5fc1-47ba-aaaa-73314a1389b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/c4728d47-b993-4baf-8244-470be88502c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/8c5b7a64-bed6-4d8c-931e-ae74583eb12d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/3a4db650-3f1a-4d65-b6d5-4dfc50588217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/85fbed3d-cbfe-493b-9a71-7c4258953667.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/adcdefbd-a08a-46ed-8166-d9be29bfce9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/528bc27a-bf16-4c8e-aa7d-9f581eff7c12.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/4abf51ae-5cbf-42b1-9274-badcaae86dc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/43e8d36c-eb47-4c96-8efd-3e5ace523dbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/cdc4e3aa-ef50-4a0f-8cd3-fec65a7e891c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/d96fed10-79b7-489c-a3da-15f9ebaade4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/206f8edb-c07a-4c41-96e0-2051dbb94019.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/079285f5-09ba-40e1-9027-d3b66be9b4c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/3852f50c-ed71-475f-b26e-9bd190d6423f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/c5541327-fc99-45c2-a373-5bc428a8d05b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/875fdd0e-de4e-4a02-8d5c-9bc25eb4129e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/f1b1dd41-8253-4f6f-a97b-4c6677bc6c9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/fdae2001-b435-4310-9f3d-9d0d8b7a8c76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/f6c0e5a1-f65d-47d1-a153-efb865b6589b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/94a289b3-d164-4c23-aa57-84b21d06774a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/d5561bef-c466-4536-8e36-b4865249aab7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/0973705b-5235-4519-8fad-11de70455617.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/767b35e3-bf33-442e-aaa0-5c4cb332e613.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/a775900f-cdc1-46d5-955e-10e846bd381f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/4abf51ae-5cbf-42b1-9274-badcaae86dc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/6d395882-331d-475d-9814-5020217561ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/ce322341-f724-4ac1-a76d-7b4888f53420.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/875c7435-cf35-403a-bf0e-86394df9368d/7d380d9f-d5a4-461a-820f-ff8261bf3847.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "94 Ah",
+          "price": "$44450",
+          "specifications": {
+            "Notable features": [
+              "Updated styling",
+              "New performance-oriented i3s version",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "97 - 114 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,961 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "s 94 Ah",
+          "price": "$47650",
+          "specifications": {
+            "Notable features": [
+              "Updated styling",
+              "New performance-oriented i3s version",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "107 - 114 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "199 SAE Net Torque @ RPM",
+              "181 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,005 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "94 Ah w/Range Extender",
+          "price": "$48300",
+          "specifications": {
+            "Notable features": [
+              "Updated styling",
+              "New performance-oriented i3s version",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "97 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric/Gas Engine Type",
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,234 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "s 94 Ah w/Range Extender",
+          "price": "$51500",
+          "specifications": {
+            "Notable features": [
+              "Updated styling",
+              "New performance-oriented i3s version",
+              "All-electric four-seat hatchback",
+              "Gasoline range-extending engine available",
+              "Rear-wheel drive"
+            ],
+            "Highlights": [
+              "97 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "181 SAE Net Horsepower @ RPM",
+              "Electric/Gas Engine Type",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "199 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2 gal Fuel Tank Capacity, Approx",
+              "3,278 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "11 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/1868a430-a7ca-4aa2-a989-1f629ae68749.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/558cdb30-557e-43c6-8759-a77f4521a4b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/7b98dfac-09ef-4a69-a174-54236fcd6517.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/e3a81a17-fea0-4e7f-8050-55a51680cfe8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/a02fdd9f-d4aa-4cbe-b998-c9991d2660e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/d8c0fde7-fbea-417a-9b02-047123f0293f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/b0e0086f-7eb6-4783-bcc8-2861cc83c37e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/aaef7862-0867-4454-a0b4-30439ada0008.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/83871bc1-7366-4d06-8b51-60c8172d0a6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/33366fb0-fa92-415b-bacf-cc5991f716f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/51f5f8ad-1a98-4544-89a5-e3b8670090a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/0d2e9561-6a58-48e3-ab85-92cafb281224.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/caec837d-301a-48a0-9cca-523e4289461e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/b183d1d1-c00b-427f-af53-fe08243a5e76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/da334230-7c04-458f-b3b2-4097f116bd7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/90ded2f6-6e27-4906-a836-a23239156aa0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/8667238c-7848-41e6-8dd9-1ee76746ece6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/385c4019-92e5-4273-8d5f-ab6fa845c43a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/bdb4c223-f730-4575-adc5-4c424c7a813e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/76a048b1-ca96-42aa-9aba-b964ee25c82c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/97b12a1e-ecf2-4b58-8b0b-45c37e9d4b90.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/e133aa5a-0e32-4feb-ae12-50956554f5b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/00e413af-c1ff-4e2b-befe-1d8c84d3efae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/45dd58f3-5252-4c4c-bd60-7fdae702ade7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/30679609-e042-434c-9da2-6d16fa85b480.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2b5151b3-e38e-48c3-aa09-2331ec2f95bb/be68b79e-e89d-4913-b1ba-1e9b815287a4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/5f392dfb-9df9-49c6-948f-b163db0d2588.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/983603ac-a233-4dad-921d-64139b819a65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/6a34ba24-1dbb-4692-838c-45e328810f56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/57d4f427-3b4b-4bd4-9b4a-b869ca8073fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/5c8cdcf1-4e7b-4e8a-a1c1-ca32632d77a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2e9844e2-e0bf-41fc-90c8-2412e284d376/693a3b12-bdbe-4b25-834d-6c660f633b02.png"
+      ],
+      "expert_review": "What Is the 2019 BMW i3?\n\nThe 2019 BMW i3 is an electric car that seats up to four. It offers a driving range of up to 153 miles, according to the EPA, and a range-extending gas engine is optional. The i3 has rear-wheel drive, and competitors include the Nissan Leaf, Volkswagen e-Golf and Chevrolet Bolt EV.\n\nWhat's New on the 2019 BMW i3?\n\nA higher-capacity battery pack boosts the i3's all-electric driving range to 153 miles, versus last year's 114-mile range. Available features include full-LED headlights with automatic high beams, wireless device charging, and a Wi-Fi hot spot for up to 10 devices (data subscription required after initial trial period).\n\nWhat Features in the 2019 BMW i3 Are Most Important?\n\nThe 2019 i3's longer electric range should make range anxiety less of an issue, but if you're concerned about running down the battery, the version with the gas range-extender engine might be worth a look; the car's all-electric range drops to 126 miles, according to the EPA, but total range increases to 200 miles. Available active safety features include forward collision warning and adaptive cruise control with stop-and-go capability.\n\nShould I Buy the 2019 BMW i3?\n\nBesides longer range, the 2019 i3's highlights include acceleration, ride comfort and cabin space. It is a bit pricey, however, so if you're in the market for an electric car, it'll be worth your while to consider all the available models — including those from non-luxury brands.",
+      "trims": [
+        {
+          "name": "120 Ah",
+          "price": "$44450",
+          "specifications": {
+            "Notable features": [
+              "Bigger battery boosts EPA-estimated range to 153 miles",
+              "All-electric four-seat hatchback",
+              "Rear-wheel drive",
+              "Performance-oriented i3s version",
+              "Range-extending gas engine available"
+            ],
+            "Highlights": [
+              "153 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "170 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "184 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "2,972 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "s 120 Ah",
+          "price": "$47650",
+          "specifications": {
+            "Notable features": [
+              "Bigger battery boosts EPA-estimated range to 153 miles",
+              "All-electric four-seat hatchback",
+              "Rear-wheel drive",
+              "Performance-oriented i3s version",
+              "Range-extending gas engine available"
+            ],
+            "Highlights": [
+              "153 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "199 SAE Net Torque @ RPM",
+              "181 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,040 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "120 Ah w/Range Extender",
+          "price": "$48300",
+          "specifications": {
+            "Notable features": [
+              "Bigger battery boosts EPA-estimated range to 153 miles",
+              "All-electric four-seat hatchback",
+              "Rear-wheel drive",
+              "Performance-oriented i3s version",
+              "Range-extending gas engine available"
+            ],
+            "Highlights": [
+              "126 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "Electric/Gas Engine Type",
+              "184 SAE Net Torque @ RPM",
+              "170 @ 4800 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2 gal Fuel Tank Capacity, Approx",
+              "3,276 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "11 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "s 120 Ah w/Range Extender",
+          "price": "$51500",
+          "specifications": {
+            "Notable features": [
+              "Bigger battery boosts EPA-estimated range to 153 miles",
+              "All-electric four-seat hatchback",
+              "Rear-wheel drive",
+              "Performance-oriented i3s version",
+              "Range-extending gas engine available"
+            ],
+            "Highlights": [
+              "126 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "199 SAE Net Torque @ RPM",
+              "0.65 L/39.5 Cu.in. Range Extender Displacement",
+              "181 @ 4800 SAE Net Horsepower @ RPM",
+              "Electric/Gas Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,309 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "11 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "make": "mercedes_benz",
+  "model": "a_class",
+  "years": {
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/3552adda-dbc2-48b8-a4bb-ce403ed8ad5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/bd8e0b1f-89e0-4c79-80af-b6ce9157673f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/44db363b-27e6-4094-a4a1-336663753939.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/90ff8664-8007-497a-9c0f-07e18477ab38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/b918a4a1-acd1-43b6-b1d6-6f06cd913993.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/cf5c94cc-48f1-42d9-b2fa-1c53e8964639.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/0bd3da6f-e79a-44b9-bd1e-93cafc851b20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/4d1b8a11-7743-4b50-ad06-3896e7625db1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/4f766de4-0f23-4061-894e-adb0d38c182d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/3a6f61bf-137f-4ff8-bf69-792fe411de30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/f46176a9-d658-49e0-90e7-87427608f480.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/921151e1-7bbf-4d6c-a5b4-2b5944612106.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/5dd7a17d-d449-44af-bfb8-f89871d1d4c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/4229ef2d-3ee5-4874-87d9-8274c25b9e33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/891a6f05-ffe7-4000-a825-3e3777ef2cda.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/966ea249-2ea1-4194-94a6-7f28f71ece0e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/aafb2a33-cf44-4882-b761-1052e34d9a5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/9e015d7f-a188-4c2d-9b7c-c9f35312c1aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/afa18c39-e73f-4bb6-9f0d-9f789944872a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/f8a18a28-8003-4758-ba4d-f5758ed935f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/f05eb422-982b-4406-bbda-7ef55d4cbfe9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/589493b7-d0c8-4306-8c74-9905b0279a59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/06f68cc2-e39a-4484-823e-1936e77912b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/2cc753fb-939e-4e13-9a84-92365007526f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/aafb2a33-cf44-4882-b761-1052e34d9a5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/4e0bdcac-370a-4e8e-ab16-394c6f4192ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/5e7f5867-a90c-4350-a675-7c02986d1444.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/cb1a1968-1c14-467f-943b-41f8bb084692.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/7b9d3946-cb90-436e-b787-48dc942cb346.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/ec037ef0-1b8c-4f2a-84c6-0d8c13a9a595.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c06a4145-15ef-4fad-9f37-11c1e6c14c79/e0e98f8a-a5c7-49a1-8b85-693473395964.png"
+      ],
+      "expert_review": "Competes with: BMW 2 Series, Audi A3\n\nLooks like: The current CLA-Class vehicle with a chunkier stance, especially from the rear, and the BMW 2 Series from the side (Shhh! Don’t tell Mercedes-Benz, but that’s meant as a compliment.)\n\nDrivetrain: A 188-horsepower, turbocharged 2.0-liter four-cylinder making 221 pounds-feet of torque and mated to a seven-speed dual-clutch automatic transmission; front- or all-wheel drive available\n\nHits dealerships: Late 2018\n\nFor would-be Mercedes-Benz buyers who want that three-pointed star emblem on their grille but not the monthly car payment on their mind, take heart: The A-Class entry-level luxury sedan is officially on its way. Mercedes has just released a full rundown of the all-new-for-the-U.S. model following more than a year’s worth of teases that started with the Concept A sedan shown in Shanghai in 2017. Then came the (not U.S.-bound) hatchback version of the A-Class in Geneva, and finally the sedan version in Beijing earlier this year.\n\nRelated: Mercedes-Benz Unveils U.S.-Bound A-Class Sedan at Beijing Auto Show\n\nGet 2018 Mercedes-Benz CLA 250 DetailsFind a 2018 Mercedes-Benz CLA 250 Near You\n\nThe A-Class will slot below Mercedes’ previous U.S. entry model, the CLA-Class. We’ll be getting up close and personal with it very soon, so check back with us for our first impressions.\n\nExterior\n\nFrom a visual standpoint, the aerodynamically adroit Mercedes-Benz A-Class has a more pronounced and sportier exterior design, at least compared to its CLA-Class sibling. The front headlights are narrower and angled slightly downward to the wide front grille, but the car’s best angles might be from the side and rear. The A-Class sedan rides on a wheelbase that’s roughly 1 inch longer than the current CLA, despite being approximately 3 inches shorter in overall length. This gives the A-Class sedan a more compact and solid stance, which also helps give the car a sportier look.\n\nMercedes says wheel sizes will range from 17 to 19 inches. Two sets of LED headlamps will also be available, including standard LED units with integrated LED daytime running lights, in addition to Mercedes’ optional LED Intelligent Light System, which the automaker calls “another example of the technology transfer from the luxury to the compact class.” The system enables “extremely quick, precise and electronically controlled” headlight adjustment to suit the current traffic situation and time of day.\n\nInterior\n\nThe new A-Class vehicle packs a lot of change and technology into its cabin. At the heart of it all is the new Mercedes-Benz User Interface, or MBUX, which employs everything from a touchscreen and voice controls to 3-D graphics and car-to-car communication to deliver clear, crisp and real-time information to the driver.\n\nVoice commands are prompted with a “Hey Mercedes” introduction and, according to Mercedes, a high standard of natural speech recognition. The infotainment system itself can be controlled using the central touchscreen, a touchpad on the center console or via controls mounted on the steering wheel.\n\nDepending on the model and trim level, the screen for the infotainment system and driver’s gauges will consist of two flat panels (standard 7-inch displays or optional 10.25-inch units) that stretch across the top of the dashboard. This layout has been used on Mercedes’ higher-end offerings, but the technology and design is now making its way into the company’s entry-level sedan.\n\nWhile tech is great to have on board, it remains to be seen whether the cabin is more accommodating to occupants in the front and rear. The rear seats in the CLA sedan are particularly cramped, so it will be interesting to see if Mercedes-Benz was able to carve out more cabin space in the smaller A-Class sedan. (A long-wheelbase model is offered in China, but it’s unlikely to be sold here.)\n\nDesign-wise, Mercedes says it took an “avant-garde” approach “to create a new feeling of spaciousness,” dispensing with the cowl above the cockpit and extending the wing-shaped main body of the dashboard from one front door to the other with no visual break; the widescreen display appears completely freestanding, and new air vents take on a turbine look. An ambient lighting system employs 64 colors, a purported fivefold increase compared to the previously available palette, organized into 10 themes “to create a lighting display with spectacular color changes,” Mercedes says.\n\nUnder the Hood\n\nThe powertrain consists of a turbocharged 2.0-liter four-cylinder engine making 188 horsepower and 221 pounds-feet of torque, mated to a seven-speed dual-clutch automatic transmission; front- and all-wheel drive will be available. Mercedes puts the top speed as an electronically limited 130 mph and has yet to announce a zero-to-60 mph time. EPA-estimated fuel-economy figures also have yet to be reported.\n\nThe Mercedes-Benz A-Class is slightly down on power compared with the current CLA, which comes with a 208-hp, 2.0-liter engine and boasts fuel-economy figures of 24/37/29 mpg city/highway/combined for front-wheel-drive versions. While it has a 20-hp deficit, the new A-Class could post even more impressive mileage numbers than the already frugal CLA.\n\nExpect more powerful, AMG-tuned engines to eventually find a home under the hood of the A-Class, too.\n\nSafety\n\nThe Mercedes-Benz A-Class features adaptive cruise control with active distance control and route-based speed adaptation; lane-centering steering assist with active emergency stop assist and active lane change assist; forward collision avoidance with automatic emergency braking and pedestrian detection; active speed-limit assist, which corrects the car to posted limits; active blind spot warning, which intervenes if the driver attempts a lane change when an obstacle is detected; lane keep assist; and the Pre-Safe Plus system, which monitors impending rear collisions and applies the brakes to prevent subsequent collisions upon impact.\n\nExpect dealer pricing to be announced closer to launch late this year.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "A 220 Sedan",
+          "price": "$32500",
+          "specifications": {
+            "Highlights": [
+              "24 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Torsion Beam Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Torsion Beam Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,285 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "A 220 4MATIC Sedan",
+          "price": "$34500",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,417 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/be2db020-ed75-43be-90d9-ccaae35bdd8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/89b188e9-9438-45ca-ac57-840326408ba3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/41c47a7c-6d30-4269-9fab-dd566777a82d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/56ae290d-00e5-4d68-a7bc-1ad63ba5c450.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/de074beb-a3a5-45c4-9eb3-93a43746954b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/2abf8901-3a1b-4fbe-854f-a10734ea459c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/a0d118ca-e9ed-4093-af58-961e5b7da6ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/6afb6193-d042-4cb7-aab0-01175f1a8d60.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/4e4caf54-a0a5-43b4-a8d5-58604103c2ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/60308953-9259-49fb-b1ed-094265c98ffa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/0a14dd24-fe26-499f-910b-556ca8cf85b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/4f06dd0c-4e1b-417c-9d25-05fc6082660e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/c72407ad-8800-40df-88c9-e859c8975180/a441fcaf-81b5-4571-bf1d-76ddfb961bbd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/c7e1235f-21d8-4c04-adbe-fc6c853c48c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/a066cd6b-74fe-4680-a9d0-a44c67d04515.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/72d58804-1f49-41e4-b5da-7566b6d81b0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/0c69b457-44f2-40f9-9d7c-4a73c5e721bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/a8f69991-a256-40f9-89c2-c6c77796a3f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/97066fca-04e7-4c49-96c1-2c684216467f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/9e5532c9-d023-46b8-beab-2d240af76fbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/29543da3-fcb8-4f69-925a-b1e5bc37636f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/97159cb6-8916-4945-aed5-5bdce71f8d0f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/c5b6249c-a527-4802-8fba-a223e21ed0dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/e8309e69-cde7-4944-8be4-bbde3c1a9763.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/f739c334-12bc-4a94-9e69-37030008e343.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/ed937717-bf0d-4cf6-9c9a-85dc0d19388d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/910b7797-5811-4430-87e3-3f0306cd8886.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/0f5cc8a5-7d9d-42eb-929a-608626115509.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/6cb8d173-6157-4215-903e-38daadfd58cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/a0fe079d-2148-481e-9575-4436a76eda2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c9a64088-3112-4fca-8dda-0c5affe4b2ff/b9aec14c-333f-47f8-80a8-bfec6622e0ab.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "A 220 Sedan",
+          "price": "$32800",
+          "specifications": {
+            "Highlights": [
+              "24 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,285 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "A 220 4MATIC Sedan",
+          "price": "$34800",
+          "specifications": {
+            "Highlights": [
+              "24 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,395 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/a3970542-cbe8-4e92-8080-c26ec32e3bf9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/af7923b7-bac8-4531-a2fc-32c29fde2df1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/8c16a110-e74d-481f-926e-f036c3e3acdf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/e0230d0c-0231-47e9-9dc8-0c1b2724dacf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/586f8a97-aee5-4e2e-8bae-b3448aad34dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/5b387f6c-9b8c-41c0-9e62-d347786c3ab5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/78e8492f-3dc4-4133-98cb-7a9fa61a3156.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/3d0fcd21-61f0-4bd1-a837-194f2c2ed2a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/abb06581-5d1d-493e-8892-7996748b9a79.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/fd5541bf-1892-49c1-99c6-f949880e05f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/b6ee935f-0868-4173-acc4-e01520040ef5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/1528a9d7-8a5f-4861-a413-2d56b288bc23.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/0c9d93d5-9fee-487d-ab30-621e2e156da3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/ee416eb2-524b-4c54-a2ae-d36bc9f946b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/3c755940-e83b-4d43-aecc-d583dc9d29ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/052a3e9f-bda9-41fc-829f-59ea34342f61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/cb182e9c-50a9-4d56-a22f-d7878eb0703e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/f5e11e57-b105-4ab3-b42f-558749066c27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/bf89dac1-64fa-47c4-8ce6-764d7b45d08b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/8630a9c1-bfeb-41cc-b671-dff6db242766.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/ac3f2cf8-23b0-405a-952a-8e2204cbde07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/9dbc8049-c785-4320-bfb2-eb5f8b655196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/2ec9bd6a-6ee9-49ab-a5c8-40ce01fa9a42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/a26fa5f1-b34e-4c35-b2f5-5bc0e4c2f05d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/5b387f6c-9b8c-41c0-9e62-d347786c3ab5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/9bb86437-e9ef-4b27-ae68-afdd5aacadca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/618101df-cb7f-4b55-99e7-7d5d97a65b2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/715d6e5f-9fd5-4567-b9a1-4dd02de32da1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/cdb5ffc6-9c41-445e-b115-81ffa31f1f10.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/8e1074da-5f05-4ed9-9f3d-7049c707c8a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/437e21a3-5fed-4213-be69-21335e0e2a29/9390b454-de88-4f3b-a281-1e2ede4b5dc5.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "A 220 Sedan",
+          "price": "$33650",
+          "specifications": {
+            "Highlights": [
+              "25 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,285 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "A 220 4MATIC Sedan",
+          "price": "$35650",
+          "specifications": {
+            "Highlights": [
+              "25 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,395 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Brake Assist",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/188d4721-ddda-493c-bb47-d1d136c7e10c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/d00ea594-1dbf-4fdf-82c2-bcddfee4dd11.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/770fec51-80bc-4a4e-b2bf-c99d28628d70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/865b3a5f-f641-436c-bde5-29a4863e61b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/4bbfb465-abfc-421e-8006-cb5069fbf2ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/17c45646-468b-4f79-acfc-9bde0849802a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/caa0f54f-9498-4421-9655-3f244c05b038.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/43d78a20-5043-48d2-9e36-1b66808ce568.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/bbf275f9-d6bb-465f-b38e-503aa264e3ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/02745b1b-1a0a-48a3-a850-1bced555dcb8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/92f060fa-935f-4a2e-8c53-7392fff72b89/0988bd2d-14ec-4980-9d4a-1cc25bb177d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/6b7eb232-fc49-4140-be42-eaca1a4ddae8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/15b3b0a2-3244-435b-85c0-8fd0505b5b7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/dfdb35fe-295e-4bf3-a176-194ba83b822e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/d9ee8054-55cd-4725-91de-bf6fa59c64ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/410caf47-2662-490b-a444-c47735145a5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/64abee70-c37b-4ea1-8a45-cf45cc970325.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/db843aa1-2621-4042-b9d9-fa989ff0fc53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/06cc2059-7f08-450f-831d-b505d674ba47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/e5d12572-c720-424d-a98d-6b63eb2bc43f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/53e7df83-bf27-451b-a0bb-fa6f7c130e1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/bf95cc52-29c0-43f2-a892-43abc00db76d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/aa64c24c-4bcb-455a-83db-30ed17a22462.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/cc0db31e-e0ac-4594-b853-4b520047d22c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/c94a47a1-7cac-4caf-94ae-1891fb128ea1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/c71019d1-33ae-454a-9b55-8d079df696a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/a4708984-c3a6-48f5-9a0d-ee67a33ad40f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/350189f9-10a8-4cab-99e6-24a1f1fd6142.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/c85d7954-dcb7-4c51-8ae8-197051285b61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/ed90c090-b5fb-491e-9bb5-87bc9c618a9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/84f99835-59f3-48b4-9249-4136d69af066/21d2c27a-f978-4ac9-9bf9-3b2e3e69ea15.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "A 220 Sedan",
+          "price": "$33950",
+          "specifications": {
+            "Highlights": [
+              "24 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "221 @ 1600 SAE Net Torque @ RPM",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,285 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "115 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "A 220 4MATIC Sedan",
+          "price": "$35950",
+          "specifications": {
+            "Highlights": [
+              "25 City / 35 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "188 @ 5800 SAE Net Horsepower @ RPM",
+              "221 @ 1600 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,395 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Brake Assist",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "115 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

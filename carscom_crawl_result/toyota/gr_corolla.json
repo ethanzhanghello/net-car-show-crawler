@@ -1,0 +1,2372 @@
+{
+  "make": "toyota",
+  "model": "gr_corolla",
+  "years": {
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4cce5318-5d85-4a59-90a2-6c93e3b3154a/d4581f98-d01f-4d1f-a573-c0cf35146359.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/acc85d1d-962f-4cf8-b265-7222c1b068b9.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/ab491e4b-a29a-4bf1-ac78-d775261ec45c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/00b65f62-770f-403d-abe7-09e3a68f1d65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/6ab1c776-f1bb-4509-8d3c-18a21835e6d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/3c6b0b54-7473-4ab6-995d-40a3ecb7b5e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/43a7b005-8628-435c-b0e0-d628c7e180a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/3190ee3f-e2f4-4521-a20c-b8afd0becbbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/6c5f7a20-9265-4c4f-b965-4e0d82dbb5e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/0bbbe801-10bb-4b30-9744-bcb175935538.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/5cef911c-281b-400b-bb9c-41032288b894.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/914b6dd4-b2bd-47b7-93df-824af4ff95a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/a15b71e5-c1e2-4c72-ad6c-27ac2bfce35f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/7c429176-80e3-45ff-8a5a-e53ef48285c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/72a3825f-7855-47aa-b35b-5ea6e7fd471d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/966158ed-180d-4f10-9d6e-9f0e101091f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/a2d87539-9ce7-48e1-bc08-d688d52cb10a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/011490bc-ac2f-411e-bef3-f7e89da3d93c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/bd713454-f1b2-4951-bfc5-ab75e2a053ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/c6aca109-b033-4076-b8eb-2c4ff350edf4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/f6a85ff0-0686-4bad-8974-7acec512b5f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/52f34d6a-2999-46d8-88fc-d19efdd42e0e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/685daa10-2390-4129-bd73-3cfe455aa6be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/3ec02804-1ce7-4c29-a6b1-136e2ce7da56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/37732441-8fd3-4111-bc50-05c5f42584fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/fe4fa2ea-d236-4304-ba2f-85cde88bd5ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/80863ec1-7b10-41bc-8e97-9b53667630ad/0a9dc36f-84b3-4e9f-a4d4-e8504dcb3f7d.png"
+      ],
+      "expert_review": "Toyota reentered the hot-hatch game in 2023 with all the subtlety of a WWE superstar strutting into the ring, with the 300-horsepower, all-wheel-drive GR Corolla ready to suplex the establishment right through the nearest table. For 2024, a new Premium trim splits the difference between the Core and Circuit trims; there’s no word yet on the return of the all-out, two-seat Morizo track maniac.\n\nRelated: Toyota Unveils New Special Editions for 2024 GR Corolla, GR86, GR Supra\n\nWhat’s New?\n\nThe Premium trim might be the new sweet spot in the GR Corolla lineup, as it includes front and rear Torsen limited-slip differentials and functional brake-cooling ducts. It also gets comfort features like an eight-speaker JBL audio system, wireless phone charging, heated front seats and steering wheel, and front and rear parking sensors.\n\nWith Great Power Comes Great Responsibility\n\nA turbocharged 1.6-liter three-cylinder engine that makes 300 hp and 273 pounds-feet of torque powers all 2024 GR Corollas. It is paired exclusively with a six-speed manual transmission that sends power to a driver-adjustable AWD system.\n\nAlso standard is Toyota Safety Sense 3.0, which includes forward collision warning with pedestrian detection and automatic emergency braking, lane departure warning, lane-centering steering assist, adaptive cruise control and road-sign recognition.\n\nAll 2024 GR Corollas also get an 8-inch touchscreen with wireless Android Auto and Apple CarPlay, as well as a 12.3-inch digital gauge cluster that includes GR-specific displays like AWD mode, turbo pressure and a tachometer. In addition, the Core includes 18-inch wheels with Michelin Pilot Sport 4 tires and cloth seats with GR logos. The new Premium trim level’s Torsen differentials are optional on the Core via a Performance Package that also adds red brake calipers.\n\nIn addition to the Torsen diffs, red brake calipers and the aforementioned features, the Premium gets suede-trimmed seats. At the top of the line, the Circuit trim level gets a unique hood and rear spoiler, forged carbon-fiber roof, black 18-inch BBS wheels and a leather-wrapped shift knob with forged carbon-fiber accents.\n\nPricing and Availability\n\nThe 2024 Toyota GR Corolla will go on sale soon. Full line pricing, including $1,095 for delivery, is as follows:\n\nCore: $37,195\nPremium: $41,015\nCircuit: $45,835\nVersus the Competition\n\nFor hot hatchbacks, 300 hp is an elite club. Pricing for the 2023 Volkswagen Golf R starts a fair bit higher than the GR Corolla at $45,835. The 2023 Honda Civic Type R’s turbo four cranks out 315 hp, but it’s front-wheel drive only, and pricing starts at $44,890. With “just” 271 hp, the Subaru WRX doesn’t match the GR Corolla’s output, but it’s significantly more affordable, with 2023 pricing starting at $31,625.\n\nMore From Cars.com:\n\n2023 Toyota GR Corolla Quick Spin: A Rowdy Runabout\nWhat MPG Does the 2023 Toyota Corolla Get?\nWhich New Cars Have Manual Transmissions?\nResearch the Toyota GR Corolla\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Core Manual (Natl)",
+          "price": "$36500",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "1.6 L/99 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,252 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Core Manual (GS)",
+          "price": "$36500",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/99 Displacement",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "300 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,252 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Core Manual (SE)",
+          "price": "$36500",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "273 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,252 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium Manual (Natl)",
+          "price": "$40320",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "273 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,276 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Manual (GS)",
+          "price": "$40320",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,276 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium Manual (SE)",
+          "price": "$40320",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "273 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,276 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Circuit Manual (GS)",
+          "price": "$45140",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,268 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Circuit Manual (Natl)",
+          "price": "$45140",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,268 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Circuit Manual (SE)",
+          "price": "$45140",
+          "specifications": {
+            "Notable features": [
+              "Compact sedan or four-door hatchback",
+              "Front- or all-wheel drive (Hybrid or GR Corolla only)",
+              "Standard four-cylinder, optional turbo three-cylinder",
+              "Wireless Apple CarPlay and Android Auto standard",
+              "Hybrid, high-performance GR Corolla versions available"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,268 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/405eede1-6899-43ed-81a0-de6f6c4a0ea5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/3fb84e8d-ada7-43c0-b46e-4fa6b95d5f03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/a31c0b0c-3576-4339-a400-25b5b5901147.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/2d568693-d70f-4ae7-b8a4-8bdbab50d9f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/cac2295a-2978-4a9d-9e63-449c40f844a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/dd9f7ac8-0891-442d-a104-108b89a7e2a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/2a97fad1-b7f0-404c-adc2-5298faa103c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/be210958-829f-4cce-9b75-a7db98fd8384.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/a7311315-2f09-425d-b287-d6bc62888044.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/ed434abd-2685-47c5-9752-fb959c00a83a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/b951eb34-f36b-42a9-a2f1-d6cd6d34f797.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/0972981c-b644-44d6-ade3-5ca9ebc9e7d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/b6d4ed7b-e357-4302-a351-f8e74d045d87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/5cfd74f1-ab49-4207-adca-cfa3e4a15664.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/84599256-3c2d-44fa-ae65-85c0bf49d559.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/e06a2be3-f81f-4582-8cc8-d50439cd5f8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/83da3f21-584d-4370-aa97-f1e09e0b03a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/4a3ad1b9-beaf-4561-ae1d-f538577be77b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/493cface-2efe-4858-84de-616bfbc73930.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/06b71f2c-f1e0-43b1-bc6c-08f2a28599a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/52204e2a-2cdc-4ab5-92d4-44fda461b155.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/43e2771e-81f4-4c75-b852-03ddfb8be97a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/405eede1-6899-43ed-81a0-de6f6c4a0ea5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/c43a7f1a-089c-4b7a-873e-a2fe6229c45a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/73e3d499-a8b8-40b7-8157-68165a8e083c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6e1ccde8-cb8d-4106-af09-9084f949a396/118519c9-cb6e-4a83-bbfd-d1ecd8a251a5.png"
+      ],
+      "expert_review": "The verdict: With the all-new 2023 GR Corolla, Toyota is coming in hot to the hot hatchback class with a feisty performer that’s a blast to toss around a racetrack.\n\nVersus the competition: The GR Corolla has all-wheel drive like Volkswagen’s Golf R, but it’s more similar to the now-discontinued Subaru WRX STI. Whereas the Golf R is slick and refined, the GR Corolla has the kind of raw, unfiltered character that’s becoming more uncommon — even among performance cars.\n\nToyota’s other GR models, the GR Supra and GR86, are the result of partnerships with BMW and Subaru, respectively, but the new GR Corolla is based on Toyota’s four-door Corolla hatchback. That platform is a solid starting point for a performance car, and Toyota’s Gazoo Racing has used it to create in the GR Corolla a car that’s a completely different animal than the regular hatchback. At Toyota’s invitation, we drove the GR Corolla for the first time at Utah Motorsports Campus near Salt Lake City. (Cars.com pays for its own airfare and lodging when attending such manufacturer-sponsored events.)\n\nRelated: 2023 Toyota GR Corolla Starts at $36,995, 2-Seat Morizo at $50,995\n\nHow Is the GR Corolla on the Track?\n\nThe east course at Utah Motorsports Campus is a fun little track with a mix of sweeping and tight corners as well as a bit of elevation change. The straightaways the track does have aren’t especially long, making it well suited to the GR Corolla’s abilities — and those abilities are considerable. In place of the normally aspirated 2.0-liter four-cylinder that powers the regular Corolla Hatchback, the GR Corolla gets a turbocharged 1.6-liter three-cylinder engine that makes nearly double the horsepower and torque: 300 hp at 6,500 rpm and 273 pounds-feet of torque from 3,000 to 5,500 rpm. In the limited-run Morizo Edition trim level, the engine makes 295 pounds-feet of torque from 3,250 to 4,600 rpm.\n\nThe turbo three-cylinder is a strong, eager-revving engine that makes the kind of sounds you want to hear from a performance engine, like the turbo spooling up when accelerating and an exhaust note that doesn’t rely on electronic augmentation for its growl. The Morizo Edition, which has different gearing and, with a curb weight of 3,186 pounds is the lightest trim level, pulls a bit harder when accelerating, but this doesn’t translate into significantly different 0-60 mph times: Toyota says the base Core and 2023-model-year-only Circuit Edition trims can get to 60 mph in 4.99 seconds, while the Morizo takes 4.92 seconds.\n\nAll versions of the GR Corolla have a six-speed manual transmission (an automatic isn’t offered), and it includes a rev-matching feature that worked great on the track; it automatically blips the throttle when downshifting for a corner to match engine speed to the lower gear.\n\nAnother unique characteristic of the GR Corolla is how the power from its turbo three-cylinder gets to the wheels. The car’s standard AWD system includes three driver-selectable front-to-rear torque splits — 60:40, 50:50 and 30:70 — engaged by a console knob. Circuit and Morizo Editions also have front and rear limited-slip differentials, which are optional for the Core.\n\nThe AWD system helps the GR Corolla effectively put its power down on the track, but so do the tires — particularly those on the Morizo Edition. The Morizo is fitted with Michelin Pilot Sport Cup 2 tires on 18-inch forged-alloy wheels, while Core and Circuit Edition trims have Michelin Pilot Sport 4 tires on 18-inch alloy wheels. The Sport Cup 2 tires are extreme performance summer tires with a 240 treadwear rating, while the Pilot Sport 4 tires are max performance summer tires with a 320 treadwear rating. With a treadwear rating that low, the Sport Cup 2 tires may not last long, but the sticky rubber helps give the GR Corolla a ton of grip when cornering. While the Circuit Edition wasn’t sliding on the track with its Pilot Sport 4 tires, there was a clear difference between them and the Morizo’s Sport Cup 2 tires, which were more willing to dig in and stick in corners. All models have MacPherson struts in front and a double-wishbone rear suspension, but the Morizo gets stiffer springs and monotube shocks.\n\nThe GR Corolla’s braking performance also impressed. All versions have 14-inch front discs with four-piston calipers and 11.7-inch rear discs with two-piston calipers, and the setup worked well on the track: Stab the brake pedal before turning into a corner and they bite hard enough to throw you against the seat belt. As a result, you’re able to carry more speed and brake later before entering a corner thanks to their stout stopping power.\n\nDoes the GR Corolla Still Have Hatchback Practicality?\n\nThe GR Corolla’s hatchback body style means it’s more accommodating and versatile than your average performance car. The manually adjustable front sport seats are comfortable, and there’s enough headroom for taller drivers to sit comfortably — even when wearing a helmet. The backseat is passable for adults, but there’s not much extra space; the lower part of my legs were touching the back of the front seat. The Morizo version deletes the backseat altogether, making it a two-seater, but it adds cross-car bracing where the backseat would normally be for additional structural support. The bracing is also designed to hold an extra set of track-day tires.\n\nThe regular GR Corolla has 17.8 cubic feet of cargo room behind the backseat, according to Toyota measurements, which is the same amount of luggage room as in the regular Corolla Hatchback but less than the 24.3 cubic feet that the AWD Corolla Cross small SUV offers. The 60/40-split rear backrest folds flat with the cargo floor, but the cargo floor itself is relatively high for a small hatchback. There are, however, some storage areas under it.\n\nMore From Cars.com:\n\n2023 Toyota GR Corolla: The U.S. Finally Gets a Proper Hot Hatch\nRefreshed 2023 Toyota Corolla Gains Hybrid AWD, New Tech Features\n2023 Honda Civic Type R Tracks in 315 HP, Tech Upgrades\n2022 Volkswagen Golf R Review: Practical Performance — for a Price\nShop for a New Toyota Corolla Hatchback\nShould You Buy the GR Corolla?\n\nMost of my seat time in the GR Corolla was on the track, so we’ll need to spend more time with it to see how it handles everyday duties on regular streets. But it’s clear from our time lapping it that you’re in for a thrilling time if you get one with the intention of taking it to track days. It’s quick, responsive, has good steering feel and delivers an overall driving experience that’s endearingly unfiltered.\n\nWith a starting price of $36,995 (including destination), the GR Corolla Core is significantly more expensive than a regular 2022 Corolla Hatchback, which starts at $22,260, but its performance capabilities are also significantly greater. Compared with other high-performance hatchbacks, however, the GR Corolla’s base price is significantly less than the well-equipped Golf R’s $45,185 starting price, and it’s also a bit less expensive than the outgoing, front-drive-only 2021 Honda Civic Type R, which had a $38,910 starting price. (A redesigned Civic Type R recently debuted as a 2023 model.)\n\nFor decades, the Toyota Corolla has represented efficient and sensible transportation. The debut of the 2019 Corolla Hatchback improved the car’s driving dynamics, and now, with the GR Corolla, Toyota has an impressive high-performance hatchback. It’s not the type of car you might expect from Toyota, but it’s one I thoroughly enjoyed driving.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Core Manual (SE)",
+          "price": "$35900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "1.6 L/99 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,252 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Core Manual (Natl)",
+          "price": "$35900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,252 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Core Manual (GS)",
+          "price": "$35900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,252 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Circuit Edition Manual (SE)",
+          "price": "$42900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "273 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,285 lbs Base Curb Weight",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Circuit Edition Manual (Natl)",
+          "price": "$42900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "273 @ 3000 SAE Net Torque @ RPM",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,285 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Circuit Edition Manual (GS)",
+          "price": "$42900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "273 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,285 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Morizo Edition Manual (GS)",
+          "price": "$49900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "2 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,186 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Morizo Edition Manual (Natl)",
+          "price": "$49900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "2 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "300 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,186 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Morizo Edition Manual (SE)",
+          "price": "$49900",
+          "specifications": {
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "2 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,186 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/473810e1-8e8b-4146-bb16-a4f5e741953f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/6e6059c4-0cf0-46b1-9e17-47f43ef71be7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/20ad901a-4d78-4cfa-9671-ee96a78bdd19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/53bff045-828a-4062-8055-8a595e8fda70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/cb25d29c-a396-40f8-8b7b-eb4c493b0d46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/f4852dce-3293-4cc2-a5a1-edc07be77a67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/a4a1982b-b89d-448d-9c22-4b03135036a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/ede2ab1e-e572-4a4d-a841-ac9581203e97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/870e5bb0-cea4-4b61-962e-5d32eb955d6c.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/67e05379-56f0-4d59-a988-0ebecca400bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/13b9cea3-2d00-441d-93c8-b10d712de3c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/8f3eb6c1-a1e3-4b39-9959-0a17974e1695.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/4c7a9f02-0e21-43f8-a54f-936e63478317.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/308c405e-c082-40fc-94c0-ef47d53ca7d2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3f798a49-eeba-4dc3-8ced-bc7a5d2b4145/5df3f882-6565-4e72-93e4-457cdbee22c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/8b6a231d-015a-4b61-8b4f-6b6441dbdd72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/0186f80b-d126-41a7-ab36-c72d3ea46e6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/07ed7e22-cab2-4b76-9658-217be2c97e21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/72e166b1-0385-49b1-9327-395b8b25ffc5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/924a8770-cce7-4f04-bd92-997cfcdf8dc0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6f6e8b4a-d372-4837-ac14-04e85edd92ec/34c1d671-32ad-48da-bfd4-d6270f4841c1.png"
+      ],
+      "expert_review": "Is the Toyota GR Corolla Good on the Track?\n\nGenerally speaking, yes. It comes out of the box with moderately track-focused brakes, tires and a configurable all-wheel-drive system, but we’d highly recommend going for the manual transmission rather than the new eight-speed automatic.\n\nWhat Does the Toyota GR Corolla Compete With?\n\nToyota’s lone hot hatch competes with the cluster of other ones that are available, including the Honda Civic Type R and Volkswagen Golf GTI and Golf R, as well as the Hyundai Elantra N sedan. Out of all of those, expect the GR Corolla to be more capable and raw than the VWs, but a bit less hardcore than the scalpel-like Civic Type R.\n\nListen, I know a good chunk of y’all are ready to hate the 2025 Toyota GR Corolla’s new optional automatic transmission before you even read past the headline. I get it — but I also don’t, since Volkswagen and Hyundai have long since proved you don’t have to have three pedals to have a hoot in a hatch. I’m fresh back from a few hours on the track with Toyota’s latest self-shifting pocket rocket, so at least give me the chance to set the record straight.\n\nThe record, in its straightest configuration: If I were planning to purchase a 2025 GR Corolla and knew with near certainty that I’d be taking it to the track with some frequency, I’d not opt for the new eight-speed automatic transmission.\n\nRelated: 2025 Toyota GR Corolla Expands Appeal With Available Automatic Transmission\n\n2025 Toyota GR Corolla, rear angle | Cars.com photo by Conner Golden\nShould I Get the Automatic Transmission in the 2025 Toyota GR Corolla?\n\nYup! A bit of a switcheroo there, but roughly 15 laps of Eagles Canyon Raceway in Decatur, Texas, revealed you’re giving up not just performance, but a whole heap of character with the loss of the GR Corolla’s third pedal. This isn’t coming from some inherent bias against automatic transmissions, either; I firmly believe a bad manual is worse than a good automatic, and when it came time to source a daily driver, I chose a small SUV with a continuously variable automatic transmission in place of something like a Honda Civic Si.\n\nNavigating Los Angeles traffic in a manual-transmission car sucks. Had the seventh-generation Volkswagen Golf GTI still been in production at the time of my purchase, I’d have likely sprung for one in dual-clutch automatic form — ditto the Hyundai Veloster N. Alas, the eighth-generation Golf GTI had already arrived and the Veloster had already given way to the Elantra N, with my deal breakers being the touch-sensitive controls in the former and the, ah, challenging styling of the latter.\n\nUnlike the dual-clutch transmissions in the hot VeeDubs and spicy Hyundais, the GR Corolla’s new transmission is a traditional automatic, seemingly a detriment until you remember that many of the industry’s finest performance transmissions are traditional automatics — like the current Toyota GR Supra’s ZF-sourced eight-speed auto. In the GR Corolla, shift speed and logic isn’t the real problem even in a track environment; it executes both upshifts and downshifts with passable speed, allowing for redline pulls and sustained high revs regardless of pace.\n\nIs the GR Corolla’s New Automatic Transmission Worth It?\n\nDon’t mistake this for a passing grade. It’s not the slowest-shifting traditional automatic I’ve driven, but it sure ain’t the quickest. I’d say this also applies rather neatly to the automatic GR Corolla’s general performance on the circuit — likely quicker than a GTI, but also a darn sight slower than a Golf R or Civic Type R. All conjecture, but it feels slower in every metric when driven back to back with the manual-transmission GR Corolla, particularly in straight-line pace. The automatic GR Corolla feels down some 30-odd horsepower when you properly pin it. (The car’s turbocharged three-cylinder engine is rated at 300 hp regardless of transmission.)\n\nWhether due to how the all-wheel-drive system chats with the new automatic or outright vampirism from the new driveline, the automatic GR isn’t as much of a hoot as the manual. And in all fairness, it’s not like the six-speed stick shift is a back-straight stunner, but it’s how the power is delivered rather than the meted end result.\n\nStill, if you plan on operating the GR Corolla exclusively within the bounds of a choked urban maze or are limited by mobility challenges, the automatic GR still makes all the right noises, grips like a micro Nissan GT-R and packs (almost) the same amount of surprise-and-delight hot-hatchery hardware that makes the manual car one of our favorite budget performance cars.\n\nHow Does the 2025 Toyota GR Corolla Drive?\n\nAs before, the manual GR remains a joy. The selectable torque-split AWD system works with either transmission, offering a standard bias of 60/40, front-to-rear; 50/50 for gravel roads and up to 30/70 for track work. Other than a few slightly drifty moments using the mode that offers the 30/70 split, I generally left it in 50/50 mode so it could be the mature heir to the throne vacated by the Mitsubishi Evolution and Subaru WRX STI.\n\nThe GR Corolla is a sporty, grippy little thing no matter how you spec it. Understeer was only a distant threat during severe maltreatment, with slightly laggy and bursty power delivery that has a fine low end, meaty midrange and sustained upper range that’ll have you burying the accelerator pedal at every stoplight, on-ramp, driveway, valet stand and, ah, wherever.\n\nSteering is as granular and well weighted, falling somewhere between the VWs’ numbness and the Civic Type R’s razor precision. Ditto on the general tactility of the GR, which has more outright capability and track-ready hardware than the overdigitized VWs but lacks the shocking capability, confidence and impressively finespun feel of the Honda.\n\nIf I lived anywhere else but metro Los Angeles or New York, the 2025 Toyota GR Corolla would be my preferred daily driver, no doubt about it. I’ll have mine in Premium trim, drenched in Supersonic Red — and with the manual transmission, for goodness’ sake.\n\nMore From Cars.com:\n\n2025 Toyota GR Corolla Up Close: Minor Tweaks, Just Like We Like It\nImproved 2025 Toyota GR Corolla Jumps $2,800, Now Priced From $39,995\nWhich New Cars Have Manual Transmissions?\nShop for a 2025 Toyota GR Corolla Near You\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Core Manual (SE)",
+          "price": "$39160",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,274 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Core Manual (Natl)",
+          "price": "$39160",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,274 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Core Manual (GS)",
+          "price": "$39160",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,274 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Core Auto (Natl)",
+          "price": "$41160",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,319 lbs Base Curb Weight",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Core Auto (GS)",
+          "price": "$41160",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,319 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Core Auto (SE)",
+          "price": "$41160",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,319 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Manual (Natl)",
+          "price": "$41740",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,296 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Manual (SE)",
+          "price": "$41740",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,296 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium Manual (GS)",
+          "price": "$41740",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,296 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Auto (GS)",
+          "price": "$43740",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,341 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Auto (SE)",
+          "price": "$43740",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,341 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium Auto (Natl)",
+          "price": "$43740",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,341 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus Manual (Natl)",
+          "price": "$45815",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,303 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus Manual (GS)",
+          "price": "$45815",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type",
+              "1.6 L/99 Displacement",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "295 @ 3250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "3,303 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus Manual (SE)",
+          "price": "$45815",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "21 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,303 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus Auto (Natl)",
+          "price": "$47815",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,347 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus Auto (SE)",
+          "price": "$47815",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,347 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus Auto (GS)",
+          "price": "$47815",
+          "specifications": {
+            "Notable features": [
+              "Newly available automatic transmission for 2025",
+              "Four-door, five-seat performance hatchback",
+              "300-horsepower, turbo three-cylinder engine",
+              "Six-speed manual standard",
+              "Standard AWD with selectable torque-split",
+              "Standard wireless Apple CarPlay and Android Auto"
+            ],
+            "Highlights": [
+              "19 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Premium Unleaded I-3 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 3250 SAE Net Torque @ RPM",
+              "300 @ 6500 SAE Net Horsepower @ RPM",
+              "1.6 L/99 Displacement",
+              "Intercooled Turbo Premium Unleaded I-3 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,347 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

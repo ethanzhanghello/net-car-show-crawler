@@ -1,0 +1,306 @@
+{
+  "make": "chevrolet",
+  "model": "brightdrop_400",
+  "years": {
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/b4b92123-dc15-4913-b2f6-816d5bef9bfc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/dd2ae185-1c9e-40ae-a318-878e6818f874.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/6ae59098-2f8e-4728-8637-a77a5bdbe467.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/4b507336-4c15-4263-83c8-67ed50f7fd45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/634ad876-934e-4df9-a7d5-8ef82c0166b5.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/634ad876-934e-4df9-a7d5-8ef82c0166b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/e7ef32ed-5e1f-483b-96cd-47255ecf623e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/900735a1-1f1e-46da-aefd-64c4416d4fa9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/531840f4-6bf1-47ec-819d-724411afbc96/f7ee11ac-6712-424a-88e1-444a98fcff6b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "eFWD 400",
+          "price": "$64600",
+          "specifications": {
+            "Highlights": [
+              "176 - 178 mi. Range",
+              "2 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "300 SAE Net Torque @ RPM",
+              "233 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "N/A Axle Type - Rear",
+              "N/A Axle Type - Front",
+              "N/A Suspension Type - Rear",
+              "N/A Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "9,990 lbs Gross Vehicle Weight Rating",
+              "0 lbs Total Option Weight",
+              "7,256 lbs Curb Weight",
+              "11,023 lbs Gross Axle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Gross Combined Wt Rating",
+              "2,734 lbs Maximum Payload Capacity",
+              "2,734 lbs As Spec'd Payload",
+              "7,256 lbs As Spec'd Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "0 lbs Option Weight - Front",
+              "3,040 lbs Curb Weight - Rear",
+              "4,216 lbs Curb Weight - Front",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Navigation System",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "17 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "17 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "eAWD 400",
+          "price": "$67200",
+          "specifications": {
+            "Highlights": [
+              "176 - 178 mi. Range",
+              "2 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "300 SAE Net Horsepower @ RPM",
+              "390 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "N/A Axle Type - Rear",
+              "N/A Suspension Type - Front",
+              "N/A Suspension Type - Rear",
+              "N/A Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "2,702 lbs Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2,702 lbs As Spec'd Payload",
+              "N/A Maximum Trailering Capacity",
+              "N/A Base Curb Weight",
+              "4,001 lbs Curb Weight - Front",
+              "3,287 lbs Curb Weight - Rear",
+              "11,023 lbs Gross Axle Weight Rating",
+              "7,288 lbs Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Option Weight - Front",
+              "9,990 lbs Gross Vehicle Weight Rating",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Option Weight - Rear",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Gross Combined Wt Rating",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "7,288 lbs As Spec'd Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Navigation System",
+              "Standard Lane Departure Warning"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "17 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "17 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/cd2971f4-19c2-48e5-91e6-e00e88c4c85f.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/5357ddc3-d0b5-4378-b90c-002b8a7d7404.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/73170d8e-23b2-4843-bcf1-1eda34534d22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/b96e2fd9-8bd8-456f-9538-45f2f770b1b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/293892e2-d8ce-40f7-b044-2ad5f43224b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/c22e5e60-c9be-4ae2-9fe1-3aaa6bc8f87c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/293892e2-d8ce-40f7-b044-2ad5f43224b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/680d33b4-3335-46f7-9a6f-6c1fa19975cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/45d6bfa1-3c1f-4c93-b8db-067fea621a31/fe2f25b2-7226-4da1-8c31-80a135cc42a8.png"
+      ],
+      "expert_review": "Editor’s note: GM announced on Oct. 21, 2025, that it has discontinued production of its BrightDrop electric commercial vans.\n\nKey Points in This Article:\n\nThe BrightDrop electric van shares many of its components with the GMC Hummer EV and Chevrolet Silverado EV trucks.\nFor a large, tall work van, the BrightDrop 400 is very easy to drive, but it’s also quite loud inside.\nThough it’s designed for commercial use, the BrightDrop also represents an intriguing starting point for an electric RV conversion.\n\nWhat exactly are you driving there, Bragman?\n\nThis? This is a new 2025 Chevrolet BrightDrop 400 all-wheel drive.\n\nIt’s a FedEx truck.\n\nWell yes, it is a FedEx truck. At least, that’s how you’re most likely to have seen one out on the streets around town, as GM’s biggest customer for these vans is FedEx, which has bought a number of them to use as last-mile delivery vehicles. But they’re now no longer exclusively for FedEx, or even exclusively for commercial buyers — you can march down to your local Chevrolet dealership and pick one up, usually for a pretty steep discount, too.\n\nWhat makes this thing special, and why the heck are you driving it?\n\nGM started a brand most people haven’t heard of, BrightDrop, a few years ago now. It sold pure-electric delivery vans in two versions, the BrightDrop Zevo 400 and Zevo 600, which used the automaker’s Ultium battery-electric architecture. A lot of the same systems, batteries, structure and components that you’d find under the skin of a GMC Hummer EV or Chevrolet Silverado EV pickup can be used in a walk-through box truck, too, apparently.\n\nRelated: 2024 GMC Hummer EV SUV Review: (4) Tons of Fun!\n\nBut the BrightDrop brand didn’t really seem to catch on, and why would it? Nobody really knew what it was, and GM had two perfectly good commercial vehicle brands already: Chevrolet and GMC. So for 2025, GM rebranded the BrightDrop vans as Chevrolets and expanded their availability through more than 2,000 Chevy dealers nationwide. Now that Chevrolet dealers are familiar with electric cars thanks to models like the Silverado EV, Blazer EV and Equinox EV, the time was right to bring the big guy into the showroom and service bays.\n\nAnd anyone can buy one? But why would they want to?\n\nYep, if you have the money, you can have one — but they’re still best suited for commercial buyers. Think business owners who need a delivery van, charities that need big hauling capacity for bulky items but want an electric vehicle, and local contractors who don’t drive hundreds of miles every day but still need a big box truck that can hold equipment, tools, material and more. There is no passenger version, and the closest competitor might be Rivian’s electric van that you see everywhere now as an Amazon delivery van — which are also available to the public now after an exclusive run as Amazon-only vehicles for the last few years.\n\nSo this replaces the Chevrolet Express and GMC Savana vans?\n\nNo, not quite. Those ancient, gas-powered full-size vans still soldier on. The BrightDrop is meant to be a next step, a new generation of what are called “last-mile” delivery vans. These are the things that bring your package from the warehouse nexus it was brought to on a semitrailer or railroad car to your front door. But GM is now seeing if there’s interest in them beyond that use — and frankly, there should be because this thing is fantastic to use.\n\nWait, you like driving it? Why?\n\nDon’t get me wrong: This is not a comfortable, calm and serene driving experience in the least. I like driving it because it’s novel and easy to do — surprisingly easy to do, in fact. This is the BrightDrop 400, the smaller of the two variants, with the other being the longer 600. Both have a high roof that you can easily stand up in, and they’re named after the cargo room they have in cubic feet. As stated, they’re both electric, with my 400 featuring the larger extended-range version of the two available battery packs. According to EPA estimates, AWD vans with the standard pack can go up to 175 miles in mixed-use driving. The max-range pack will do 272 miles in this type of driving. For most delivery people or tradesfolk, it has more than enough range to get them around town and back to home base.\n\nBut it’s also really easy to drive. Sure, it’s tall, and the enormous windshield with its huge windshield wipers make it unlike anything I’ve ever piloted. But it’s also not overly wide (it fits into a normal-size parking spot without any issue), has a surprisingly tight turning circle, and its sliding front doors with power windows let you get close to a wall and still get out of the van without a problem. It’s roughly 3 inches wider than a Hummer EV (not including the side mirrors), but because the doors don’t open conventionally, you can park it in more places than the Hummer EV. Just not in a parking garage because the thing is about 9 feet tall.\n\nBut surely it handles like a pig — it’s enormous …\n\nNo, not at all. The big battery that’s sandwiched under the floor creates a very low center of gravity, and that makes the BrightDrop feel planted and incredibly stable whether you’re trundling around town or flying down the highway in a thunderstorm. Acceleration is acceptable for a vehicle this size, the brakes are strong, and the regenerative function is adjustable, too. It drives like a big electric SUV because that’s essentially what it is beneath the space-freighter bodywork. The base model is front-wheel drive and makes 240 horsepower and 300 pounds-feet of torque, but the dual-motor AWD version produces 300 hp and 390 pounds-feet of torque. That’s what my test van came with, and acceleration is plenty brisk, accompanied by plenty of noise — there’s almost no sound insulation in the BrightDrop 400. Since it’s a delivery van, sound insulation doesn’t seem to be a priority. This is also one reason why the BrightDrop might not be suitable for people looking for something to use for both daily transportation and work.\n\nThat doesn’t sound like a pleasant experience.\n\nThe overall driving experience is decidedly mixed. Comfort is not really the priority, or at least comfort like you’re probably familiar with. For a FedEx driver, it’s luxurious — power-opening side doors, a power-sliding door to the rear cabin, a low step-in height, air conditioning, tons of cupholders and power outlets, and plenty of in-cabin storage, too. There are also lots of thoughtful touches for working drivers, like dedicated lighting buttons and a driver’s seat that’s easy to get in and out of.\n\nBut if your world doesn’t revolve around work vehicles, you’re not going to find it all that pleasant. It’s loud in the BrightDrop, as all the exposed sheet metal rattles and reverberates. It’s quieter than if it was a gas-powered vehicle, but plenty of road, wind and body noise assaults your ears — more so at highway speeds than around town. Conversations with the person sitting in the unpleasant fold-down jump seat next to you will be strained, for sure. There’s an audio system, but just two speakers mounted up high in the overhead console means that it’s only there because it has to be; you won’t be streaming any Dolby Atmos-enabled tracks from Apple Music here.\n\nThe driver’s seat is very, very firm, which it probably needs to be in order to be durable enough for someone getting in and out of it hundreds of times a day. Armrests would be helpful for longer drives, but there aren’t any of those. All of the controls and displays, however, are familiar since they’re straight out of the GM EV parts bin. And wonder of wonders: This is the only other GM EV aside from the Cadillac Lyriq that has Apple CarPlay in its Google-based infotainment system.\n\nSo, it seems to be a useful, thoughtfully made commercial van with good electric range, plenty of room in back and decent driving dynamics, but that still doesn’t explain why you’re driving it.\n\nI’m driving it because anyone can buy one now at their local Chevy dealer, and there are definitely good reasons to be interested in one. My first thought on driving the thing is that it would make an absolutely stellar recreational vehicle, and it seems that there’s at least one company doing that with it. A BrightDrop 600 with the extended-range battery is rated at 234 miles of highway range. That could mean a lot of charging stops on a road trip, but the possibility of plugging into campsite shore power to recharge is intriguing. I also used the van for hauling a lot of bulky things, including taking patio furniture to the town recycling center, which was a breeze.\n\nIt probably costs a fortune like most other EVs, eh?\n\nIts list price is indeed rather high, starting in the mid- to high-$60,000 range. The sticker price for my loaded, max-range, AWD 2025 BrightDrop 400 was more than $91,000, including the heftiest destination charge I’ve ever seen ($3,325)! But there are still significant federal and state incentives that apply differently for commercial vehicles versus passenger cars. In some places, incentives and rebates can result in as much as 30% or more off of the sticker price, bringing it to near parity with a gas-powered full-size van. And you’ll never spend money on engine oil, transmission fluid, filters or other maintenance items associated with internal combustion engines. Charging on a home (or shop) Level 2 charging system easily replenishes the battery overnight and potentially at lower electrical rates than in the daytime.\n\nIt’s definitely not a van for everyone, but for someone who has things to move or work to do and is interested in going electric, a BrightDrop could make a lot of sense.\n\nMore From Cars.com:\n\nIs the 2025 Chevrolet Equinox EV a Good Electric SUV? 5 Pros, 3 Cons\nHow Much Is the 2026 GMC Hummer EV?\n2026 GMC Hummer EV: Improved Off-Road Maneuverability and the Quickest Hummer Yet\nThese 10 SUVs Have the Highest Towing Capacity\nWhat Is Payload?\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "eFWD 400",
+          "price": "$64600",
+          "specifications": {
+            "Highlights": [
+              "177 - 272 mi. Range",
+              "2 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "300 SAE Net Torque @ RPM",
+              "233 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "N/A Axle Type - Rear",
+              "N/A Axle Type - Front",
+              "N/A Suspension Type - Front",
+              "N/A Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "7,256 lbs As Spec'd Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "2,734 lbs Maximum Payload Capacity",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "3,040 lbs Curb Weight - Rear",
+              "7,256 lbs Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Gross Combined Wt Rating",
+              "4,216 lbs Curb Weight - Front",
+              "N/A Base Curb Weight",
+              "0 lbs Option Weight - Rear",
+              "N/A Maximum Trailering Capacity",
+              "9,990 lbs Gross Vehicle Weight Rating",
+              "2,734 lbs As Spec'd Payload",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Option Weight - Front",
+              "11,023 lbs Gross Axle Weight Rating"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Navigation System"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "17 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "17 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "eAWD 400",
+          "price": "$67200",
+          "specifications": {
+            "Highlights": [
+              "177 - 272 mi. Range",
+              "2 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "300 SAE Net Horsepower @ RPM",
+              "390 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "N/A Axle Type - Rear",
+              "N/A Suspension Type - Front",
+              "N/A Suspension Type - Rear",
+              "N/A Axle Type - Front"
+            ],
+            "Weight & Capacity": [
+              "11,023 lbs Gross Axle Weight Rating",
+              "N/A Maximum Trailering Capacity",
+              "N/A Gross Combined Wt Rating",
+              "N/A Fifth Wheel Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "0 lbs Option Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Base Curb Weight",
+              "7,288 lbs As Spec'd Curb Weight",
+              "4,001 lbs Curb Weight - Front",
+              "2,702 lbs Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fifth Wheel Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "9,990 lbs Gross Vehicle Weight Rating",
+              "0 lbs Option Weight - Front",
+              "3,287 lbs Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "2,702 lbs As Spec'd Payload",
+              "7,288 lbs Curb Weight"
+            ],
+            "Safety": [
+              "Standard Navigation System",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "17 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "17 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

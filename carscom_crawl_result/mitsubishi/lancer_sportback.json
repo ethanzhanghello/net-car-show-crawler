@@ -1,0 +1,1097 @@
+{
+  "make": "mitsubishi",
+  "model": "lancer_sportback",
+  "years": {
+    "2004": {
+      "main_images": [],
+      "expert_review": "Vehicle Overview\nBilled by Mitsubishi as “a rally car for today,” this five-door hatchback version of the Lancer sedan is new to the U.S. market for 2004. The 2.4-liter four-cylinder engine, constructed with Mitsubishi Innovative Valve timing and lift Electronic Control (MIVEC), produces 160 horsepower. In street-tuner Ralliart form, the engine ekes out an extra 2 hp. Competitors in the compact sport wagon field include the Ford Focus and Subaru Outback Sport.\n\nOffered in LS and Ralliart trim levels, the Lancer Sportback gets a driver-adaptive four-speed-automatic transmission and all-disc brakes. The Ralliart edition is fitted with a lower body kit, sport seats, a small spoiler, a sport suspension and low-profile 16-inch tires.\n\nThe compact Lancer was introduced for 2002 but not developed as an economy car. Instead, the front-wheel-drive sedan had a competition background that evolved from the Lancer Evolution World Rally Car. In addition to ES, LS and O-Z models, the Lancer sedan lineup includes a high-performance Lancer Evolution.\n\nExterior\nMitsubishi says the styling of each Lancer body type is European inspired. The fender lines are relatively high, and sharp edges blend with soft curves. The Lancer Sportback contains unique reinforcements to compensate for the lack of a rear bulkhead. All Lancers get a restyled front end with integrated bumpers for 2004.\n\nAs in the Lancer sedan, a four-wheel-independent suspension uses front struts and a rear multilink configuration in the Sportback model. The suspensions are tuned for comfort on the LS and more aggressive cornering on the Ralliart.\n\nAlloy wheels hold 16-inch tires on the Ralliart edition, but the LS version gets 15-inch tires on steel wheels. In addition to the specially tuned sport suspension, the Ralliart features fog lamps, a sport-type grille insert, lower body kit moldings and color-keyed power mirrors; halogen headlights feature dark lenses.\n\nInterior\nFive people fit inside the Lancer Sportback. A low instrument panel and belt line help with visibility, and a high hip point for the seats should ensure easier entry and exit.\n\nStandard equipment in the LS includes air conditioning, black wood accent panels, a tilt/height-adjustable steering column, remote keyless entry, a 140-watt four-speaker audio system with a CD player, and a 60/40-split reclining rear seat with a center armrest. Power windows, locks and mirrors are standard. A Preferred Equipment package includes roof rails, color-keyed mirrors, alloy wheels and cruise control.\n\nThe Ralliart’s interior contains carbonlike accent panels, a leather-wrapped gearshift knob and brake handle, a sport-touch steering wheel with cruise control, a cargo cover and a six-speaker stereo system. Sport front bucket seats and rear headrests are installed.\n\nUnder the Hood\nThe LS trim’s 2.4-liter single-overhead-cam four-cylinder engine develops 160 hp and 161 pounds-feet of torque. The ratings under the Ralliart’s hood are 162 hp and 162 pounds-feet of torque. When the MIVEC system is installed, the accelerating engine switches to a higher cam profile at 3,600 rpm. Both models use a four-speed-automatic transmission that incorporates driver-adaptive shift control. The same engine is used in both the Ralliart edition of the Lancer sedan and the company’s Outlander sport utility vehicle.\n\nSafety\nSide-impact airbags and antilock brakes are standard on the Ralliart edition but are not available on the LS. The front seat belts have pretensioners and force limiters.",
+      "trims": [
+        {
+          "name": "4dr Wgn Sportback LS Auto",
+          "price": "$16709",
+          "specifications": {
+            "Notable features": [
+              "160-hp and 162-hp engines",
+              "FWD layout",
+              "Rally-car heritage",
+              "LS and Ralliart trim levels"
+            ],
+            "Highlights": [
+              "22 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "2.4L/145 Displacement",
+              "162 @ 5750 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "13 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,370 lbs Base Curb Weight",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "520 Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "10.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Brake ABS System",
+              "10.0 x 0.9 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Sportback Ralliart Auto",
+          "price": "$19319",
+          "specifications": {
+            "Notable features": [
+              "160-hp and 162-hp engines",
+              "FWD layout",
+              "Rally-car heritage",
+              "LS and Ralliart trim levels"
+            ],
+            "Highlights": [
+              "22 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "162 @ 4000 SAE Net Torque @ RPM",
+              "162 @ 5750 SAE Net Horsepower @ RPM",
+              "2.4L/145 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "13 gal Fuel Tank Capacity, Approx",
+              "100 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "100 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,380 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "520 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "10.3 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "10.0 x 0.9 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/ce339f77-438b-4b97-b558-d8954885fc7e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/23b67472-ce3a-4809-87a1-091353c46bf9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/23e7cb87-57b6-41c7-9def-e2eb34bce781.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/d7126f6a-b27a-4c5c-b6bd-c0410907ae1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/372babfa-1044-498f-b148-8d1da4f9d04d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/9761059f-be2c-4e80-ae4f-3cd8e0f5b0ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/872550b4-aa08-4e0b-ab03-fb2bb78b11e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/9971ada3-ea14-4400-962b-9a2c9a66f9fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/7a58eda4-7535-4639-8aa7-ed0dc10bf2b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/a4af85d8-1aee-4e7c-9ad1-82a8d23ad88c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/c543c829-ecb1-4000-93a4-230683ff1152.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/3acd4c47-fd9c-4d43-bfb3-d56818908e76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/0ca0852e-5a5d-4eef-863c-91d222f54b44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/f4e192fc-cc1c-4293-8fcf-1dcf555507c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/8721db02-6994-41eb-bfeb-4d6a4c8a2b97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/e388b885-5d03-4023-95f9-265e71b71ad6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/4602395b-b717-4f50-99b0-9e8cdcba6ed1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/36e24965-29ff-4996-a4dc-02980600a36d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e7ae5f6f-eda8-4925-b003-4cca69fb3187/7b53bcdd-5757-4784-bc14-9fb9b477f100.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0635d044-1196-4f71-853c-7cbb41f70c09/614c931c-4395-4827-ac99-0ecedfaaf384.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat Lancer Sportback hatchback is offered with a choice of two four-cylinder engines. Competitors include the Ford Focus, Subaru Impreza and Mazda3. The Lancer sedan and high-performance Lancer Evolution are covered in separate reports in the Cars.com Research section.\nNew for 2014\nThe Lancer Sportback gains new stereo systems, with the up-level GT receiving a 6.1-inch touch-screen stereo with HD Radio and satellite radio. The GT now has a backup camera, and it can have an available 7-inch touch-screen navigation system with real-time traffic information.\nExterior Highlights\n\nStandard 16-inch wheels; available 18-inch wheels\nRear spoiler\nAvailable fog lights\nAvailable high-intensity-discharge headlights \nAvailable power moonroof\nAvailable rain-sensing windshield wipers\n\nInterior Highlights\n\nSeats five\nFolding backseat\nCD stereo; available Rockford Fosgate stereo with a subwoofer\nAir conditioning; available automatic air conditioning\nCruise control\nAvailable heated leather seats\nAvailable touch-screen navigation system\n\nUnder the Hood\n\n148-horsepower, 2.0-liter four-cylinder engine\nAvailable 168-hp, 2.4-liter four-cylinder\nContinuously variable automatic transmission\nFront-wheel drive\n\nSafety Features\n\nSide-impact airbags for the front seats\nSide curtain airbags for both rows\nKnee airbag for the driver \nAntilock brakes \nElectronic stability system\nAvailable backup camera",
+      "trims": [
+        {
+          "name": "5dr Sportback ES FWD",
+          "price": "$18595",
+          "specifications": {
+            "Notable features": [
+              "New audio systems",
+              "Newly available backup camera",
+              "Unique hatchback styling",
+              "Front-wheel drive"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "145 @ 4200 SAE Net Torque @ RPM",
+              "148 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,043 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "Not Available in Rear Brake Rotor Diam x Thickness",
+              "11 in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Front Disc/Rear Drum Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback GT FWD",
+          "price": "$21945",
+          "specifications": {
+            "Notable features": [
+              "New audio systems",
+              "Newly available backup camera",
+              "Unique hatchback styling",
+              "Front-wheel drive"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "167 @ 4100 SAE Net Torque @ RPM",
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "2.4 L/144 Displacement",
+              "Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,120 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/dda517e2-a1b9-4135-a523-abb4e1e73ce0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/76aa881c-a1de-43ae-af81-f3dc322c50e8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/cd99713b-dc7e-4918-9b71-5cb9dc10126c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/31201915-1eba-4d3d-8b9a-13d57bcb37c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/193455ce-0ae8-4703-8d6b-5db8e39a7f87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/cd0de8a5-6a93-4422-90db-3d06fe110cb4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/d4446806-acde-4c0b-b390-db1041641eb2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/e1cb491a-f902-46a1-a060-90c9c9a4a7dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/cdb9cb80-521d-4da4-a0eb-8f1935c01a1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/b6ef870d-602d-4bb1-bc83-1a0f133f2839.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/928e2914-28a8-4388-9ec1-cf8ff0957d78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/1811634d-3a56-4afb-a2de-d21640e99418.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e37a2f35-5390-4200-b2ae-d9fb898c10f9/903807b1-8910-4420-8c0f-59c5a51d61df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/6c859eb7-15f7-478c-9d2c-07b3720a207b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/758055b8-9ac9-4573-84f8-92d6cbe23aa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/a2ffc4f4-1cb0-4184-ad74-5573ab833c47.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/391ad525-b74a-4130-9753-5edbf2bb6c8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/883f29bd-861f-4a34-9f55-3ab23c1266ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/7f5a10b4-1b17-4ed3-8b97-a04d3b506040.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1930a0e2-fb5e-4785-9909-550721833c5e/f7e67959-70ce-4c6c-bffe-afa37c84f351.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat Lancer Sportback hatchback is offered with a choice of two naturally aspirated four-cylinder engines. Competitors include the Ford Focus, Subaru Impreza and Mazda3. The Lancer sedan and high-performance Lancer Evolution are covered in separate reports in the Cars.com Research section.\nNew for 2013\nThere are no significant changes.\nExterior\nThe Lancer Sportback retains the general design cues of the Lancer sedan in front but takes on a different look at the rear. The Sportback’s liftgate is raked forward at an aggressive angle for a hatchback, and the overall look is a little ungainly from some angles. A rear spoiler near the roof finishes off the design. Exterior features include:\n\n\nStandard 16-inch wheels (ES)\nOptional 18-inch wheels \nOptional bi-xenon high-intensity-discharge headlights \nAvailable power glass sunroof\nAvailable rain-sensing windshield wipers\n\nInterior\nLike the Lancer sedan, the Sportback has room for up to five people in two rows of seats. The big difference between the two cars is in the cargo area. Although the Lancer sedan is available with a split-folding backseat to increase luggage space, the shape of the car limits what you can fit in the trunk. With the Sportback, there are fewer restrictions because of its open cargo area, which has a maximum volume of 52.7 cubic feet with the rear seats folded. Interior features include:\n\n\nAvailable USB port\nOptional Rockford Fosgate stereo with a subwoofer\nOptional heated leather seats\n\nUnder the Hood\nThe front-wheel-drive Lancer Sportback offers a choice of two engines. Mechanical features include:\n\n\nES has a 2.0-liter four-cylinder engine that makes 148 horsepower with either a standard five-speed manual or optional continuously variable automatic transmission\nGT has a 168-hp, 2.4-liter four-cylinder with either a five-speed manual or CVT\n\nSafety\nStandard safety features include:\n\n\nSide-impact airbags for the front seats\nSide curtain airbags for both rows\nKnee airbag for the driver \nAntilock brakes \nElectronic stability system",
+      "trims": [
+        {
+          "name": "5dr Sportback ES FWD",
+          "price": "$18495",
+          "specifications": {
+            "Notable features": [
+              "Unique hatchback styling",
+              "Available 168-hp four-cylinder",
+              "Manual or automatic",
+              "Front-wheel drive"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0L/122 Displacement",
+              "148 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type",
+              "145 @ 4200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,021 lbs Base Curb Weight",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "120 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "10.900 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "Not Available Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "8.000 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback GT FWD",
+          "price": "$21495",
+          "specifications": {
+            "Notable features": [
+              "Unique hatchback styling",
+              "Available 168-hp four-cylinder",
+              "Manual or automatic",
+              "Front-wheel drive"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "167 @ 4100 SAE Net Torque @ RPM",
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "2.4L/144 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,021 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "120 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "11.900 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "11.600 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cc923b90-57c6-4a24-ad88-46dbd445d043/6d82da06-432a-450f-a2ef-c86c8791abb5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cc923b90-57c6-4a24-ad88-46dbd445d043/fe6336f2-5771-46ba-a15a-b5e672594d3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cc923b90-57c6-4a24-ad88-46dbd445d043/2868f5f1-bda7-496c-ba12-278a9ac9a50b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cc923b90-57c6-4a24-ad88-46dbd445d043/ac297d61-a8db-4fb8-9cb8-3c42a18fef49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cc923b90-57c6-4a24-ad88-46dbd445d043/ac297d61-a8db-4fb8-9cb8-3c42a18fef49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/cc923b90-57c6-4a24-ad88-46dbd445d043/966753e3-76ce-488f-aa66-6fee83210669.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe five-seat Lancer Sportback hatchback is offered with a choice of two normally aspirated four-cylinder engines. Competitors include the Subaru Impreza and Mazda3. The Lancer sedan and high-performance Lancer Evolution are covered in separate reports in the Cars.com Research section.\n\nNew for 2012\nThe high-performance Ralliart trim has been discontinued, leaving just ES and GT (formerly GTS) trim levels with front-wheel drive. The GT version adds a Ralliart-type front end, new 18-inch wheels, upgraded soft-touch door trim, and new interior fabric and instrument-panel trim.\n\nExterior\nThe Lancer Sportback retains the general design cues of the Lancer sedan in front, but it takes on a different look at the rear. The Sportback’s liftgate is raked forward at an aggressive angle for a hatchback, and the overall look is a little ungainly from some angles. A rear spoiler near the roof finishes off the design. Exterior features include:\n\n\nStandard 16-inch wheels\nAvailable 18-inch wheels\nAvailable fog lights\nAvailable power glass sunroof\nAvailable rain-sensing windshield wipers\n\nInterior\nLike the Lancer sedan, the Sportback has room for up to five people in two rows of seats. The big difference between the two cars is in the cargo area. Although the Lancer sedan is available with an optional split-folding backseat to increase luggage space, the shape of the car limits what you can fit in the trunk. With the Sportback, some of those restrictions aren’t there because of its open cargo area, which has a maximum volume of 52.7 cubic feet with the rear seats folded. Interior features include:\n\n\nAvailable USB port\nAvailable Rockford Fosgate stereo with a subwoofer\nAvailable heated leather seats\n\nUnder the Hood\nThe front-wheel-drive Lancer Sportback offers a choice of two engines. Mechanical features include:\n\n\nStandard 2.0-liter four-cylinder engine makes 148 horsepower with either a standard five-speed manual or optional continuously variable automatic transmission\nGT has a 168-hp, 2.4-liter four-cylinder with either a five-speed manual or CVT\n\nSafety\nStandard safety features include:\n\n\nSide-impact airbags for the front seats\nSide curtain airbags for both rows\nKnee airbag for the driver\nAntilock brakes\nElectronic stability system",
+      "trims": [
+        {
+          "name": "5dr Sportback ES FWD",
+          "price": "$18395",
+          "specifications": {
+            "Notable features": [
+              "Unique hatchback styling",
+              "Available 168-hp four-cylinder",
+              "Manual or automatic",
+              "Front-wheel drive"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "148 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "145 @ 4200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,021 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "120 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "8.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "10.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback GT FWD",
+          "price": "$21345",
+          "specifications": {
+            "Notable features": [
+              "Unique hatchback styling",
+              "Available 168-hp four-cylinder",
+              "Manual or automatic",
+              "Front-wheel drive"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "167 @ 4100 SAE Net Torque @ RPM",
+              "2.4L/144 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Front (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "3,021 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "120 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        }
+      ]
+    },
+    "2010": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/bc2b2f40-61a4-4096-baaf-0c688cd61d1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/e242ada7-f654-4cbc-ace2-449a8e872924.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/94b627bb-0107-4e8b-9d0a-31214ed64538.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/73ad12fd-a492-4b72-906f-8dc056c401d1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a42afa16-1cab-4ddf-a344-8ad0346f9f47/0754d675-39e8-41dd-82eb-3bb92681bb5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/83641ae9-1832-4913-8b3d-39fe2e3f2dee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/fd867b3d-04a6-4cf6-9445-e6fd47045bbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/c7edb099-6567-4d4a-bf4f-3f1d2126ce66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/281b6cc0-c0b6-4584-bacf-f558d4e768c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/28b58a37-a23a-4a11-b10b-3e1e56a9632d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/baeeff45-f157-41cd-b0b9-5e2c02c00f5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/1a7df55a-af2e-4ad7-a747-63fe98a9cc9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/3a64a95f-cccf-4974-ae93-1714fa62de9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/7f8aa7e4-fc90-47e7-b86f-b8f94b06751b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/b89e7240-0357-49fe-9b44-c1be2ec1cb87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/2b4c09ce-44b4-42d6-ac02-435251347069.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/18d29216-d000-4b82-9fb0-b4caed63adb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/2e8f7962-93f7-42d0-9c70-96f66574afc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/b244f812-882d-41e9-90d4-c1dc2ca7c06a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/aea6dc50-1684-4447-9657-c020d24f48a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/8d5f5779-1bb2-4ce6-a5fd-4ac34e0033e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/95a2c69c-2caa-4179-8dc0-752fbab16d95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/f0e1e96a-83f3-4f38-a738-fefeee033377.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/aeb8e42e-db30-4578-9dfb-797f2591f9a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/b95adba6-9fa1-4afa-acfb-8df42144d3bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/fec8361f-f83b-4219-9ec9-52faa4106786.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/c484f1a6-ed96-4205-b4de-bfea2cfc7d55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/6b3e0dd3-8652-427e-b4db-68a9521be55d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/57a4e188-bba2-4e79-8b5a-65827a82bbe2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/2b0212b8-e2d8-45ff-89a7-f2e0c78a8c93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/3fbb7199-0eb9-43ca-8ead-93e97cb1ee77.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/58567ace-0cc8-4151-8aa9-a0c17b003d19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/8dd191a5-59a7-4b98-bb9d-6279cfd2786f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/58f6453b-fbd9-49de-91cb-877dbcb739c7/68ab3e01-e963-4eed-8d01-60e501485800.png"
+      ],
+      "expert_review": "Some packaging combinations — think wine in a box — are questionable at best, but Mitsubishi’s new Lancer Sportback is a combination that’s safe to call a success. Blending the sporty shape of a coupe with the functionality of a four-door hatchback, the Lancer Sportback has plenty of style to go along with its versatility. It’s also a lot of fun to drive when equipped with the standard manual transmission, making it a legitimate alternative to cars like the Mazda3 and Subaru Impreza.\n\nThe Look\nThe current-generation Lancer sedan has been sold since early 2007. (See a side-by-side comparison of the 2010 Lancer Sportback and sedan.) Mitsubishi has resurrected the Sportback name for 2010, but the new model looks completely different from the one sold in the U.S. as a 2004 model. Whereas that car was essentially a wagon version of that era’s Lancer, the 2010 Lancer Sportback is more of a fastback hatchback.\n\nUnlike traditional vertical liftgates, the Sportback’s hatch is raked forward, giving it a unique appearance among hatchbacks. The base GTS trim, which is the model I tested, has a standard spoiler above the rear window and 18-inch alloy wheels, both of which enhance the car’s sporty appearance.\n\nWhen I first saw the Sportback I thought it was missing something; the car’s design made it seem like its trunklid had been lopped off. I still think the car looks a little truncated, but I give Mitsubishi credit for taking a risk with the Sportback’s styling rather than creating just another traditional hatchback.\n\nRide & Handling\nIt’s not especially difficult to firm up a car’s suspension and call it a sport model, but doing so doesn’t guarantee driving it will be fun — just look at the Toyota Corolla XRS.\n\nAutomakers that do sporty cars well understand that both ride comfort and an entertaining driving experience are important. BMW has been successful at this in the luxury realm with models like the 3 Series, while the Mazda3 has carried the torch among small cars. The Lancer Sportback reminds me a lot of the Mazda3 because its chassis and steering tuning encourage you to have a little fun when the road bends.\n\nWhile the Lancer Sportback’s suspension tuning is on the firm side — it definitely gives you a feel for the road — it’s not so firm that it’ll grate on your nerves. Overall, the suspension does a nice job managing body motions while still allowing the car to have a playful, lively feel to it.\n\nThe nimble chassis is complemented by its quick-reacting steering. The standard leather-wrapped wheel feels nice in your hands, and there’s a good amount of power assistance, which means you don’t have to put a lot of effort into turning the wheel.\n\nIt can get a little loud in the cabin at highway speeds. Both road and wind noise contribute to the din, and backseat passengers will hear wind noise generated by the roof spoiler, which is right above their heads.\n\nGoing & Stopping\nThe Lancer Sportback’s 168-horsepower, 2.4-liter four-cylinder engine offers energetic acceleration that should satisfy all but the most power-hungry drivers. For them, Mitsubishi offers a Ralliart edition of the Sportback that’s powered by a 237-hp, turbocharged engine.\n\nThe base 2.4-liter is smooth-revving. It doesn’t protest when you wind it out — which I found myself doing often — and it really hits its stride around 4,000 rpm, where it pulls with more authority.\n\nThis engine teams with a five-speed manual or an optional continuously variable automatic transmission. The manual shifter moves precisely through the gears, and its throws are short. The light clutch pedal is easy on your leg, and it engages easily, which makes for smooth takeoffs. The EPA-estimated gas mileage is 20/27 mpg city/highway with the manual and 21/27 mpg with the automatic.\n\nThe brake pedal offers more travel than most, which might be a little alarming the first time you have to make a panic stop; the pedal goes down quite a bit before hard braking occurs. There’s a benefit to this, though, which is that it gives you a lot of control over the car’s braking performance, allowing you to fine-tune your braking.\n\nInterior Design & Comfort\nMitsubishi has taken a minimalist approach with the Lancer Sportback’s cabin styling, and some places it works while in others it doesn’t. While the dashboard has an uncluttered, simple look that’s appealing, the few buttons there to control the optional Rockford Fosgate stereo make it harder to use than it should be. Rather than being able to directly select the radio band you want, there’s only one button to cycle through a few FM bands, four satellite bands and an AM one. If you accidently cycle past AM, for example, you have to press the button a bunch of times to get back to it.\n\nAs for materials and the quality of the controls, the Lancer Sportback is closer to the best among compact cars than it is to the worst. There are a few instances of low-grade-looking plastic — like the grab handles for closing the doors — but they don’t notably diminish what Mitsubishi has done overall, which is craft an appealing interior for its compact car.\n\nOur test car came with optional heated leather front seats. The bucket seats have sizable side bolsters to keep you in place, but the wide seat cushions mean they don’t hug your torso unnecessarily tightly. The manual controls for the driver’s seat include height adjustment, and I was able to find a comfortable driving position. The backseat is roomy enough for adults, but don’t expect a lot of extra space. Backseat headroom is good.\n\nCargo\nThere’s 13.8 cubic feet of cargo room in the Lancer Sportback, which is marginally larger than the sedan’s 12.3-cubic-foot trunk. The Sportback’s cargo area is notably smaller than the Mazda3 hatchback’s and Impreza hatchback’s, which measure 17 and 19 cubic feet, respectively. However, when the backseat is folded, the Sportback’s expanded cargo space is the largest of the three, at 46.6 cubic feet. (The Mazda3 offers 42.8 while the Impreza manages 44.4.)\n\nThe Sportback’s liftgate opens wide and high. The 60/40-split backseat is spring-loaded, so when you pull one of the release levers in the cargo area the backrest flops forward until it’s flat with the cargo floor. Simple.\n\nSafety\nStandard safety features include antilock brakes, side-impact airbags for the front seats, side curtain airbags for both rows, a knee airbag for the driver, and an electronic stability system. For additional safety-feature information, check out the Standard Equipment & Specs page.\n\nLancer Sportback in the Market\nWhat’s likely going to draw shoppers to the Sportback is its styling, which notably departs from the hatchback norm. There’s a lot more to the car than looks, though, which is why it compares favorably with the Mazda3 and Impreza hatchbacks. On the whole, it’s a well-executed addition to Mitsubishi’s Lancer lineup.\n\nSend Mike an email",
+      "trims": [
+        {
+          "name": "5dr Sportback Man GTS",
+          "price": "$19190",
+          "specifications": {
+            "Notable features": [
+              "New body style for 2010",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "20 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.4L/144 Displacement",
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "167 @ 4100 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,098 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "120 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback CVT GTS",
+          "price": "$20190",
+          "specifications": {
+            "Notable features": [
+              "New body style for 2010",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "167 @ 4100 SAE Net Torque @ RPM",
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "2.4L/144 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,164 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "120 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback Ralliart",
+          "price": "$27590",
+          "specifications": {
+            "Notable features": [
+              "New body style for 2010",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.0L/122 Displacement",
+              "237 @ 6000 SAE Net Horsepower @ RPM",
+              "253 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,572 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/1facaf80-4655-4842-b099-d69c1f4c5fa2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/e7745d29-244a-4b3f-accc-71bd4c698c8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/9bb47da4-ed2f-4e7d-869c-784c7cefb132.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/1da7fdec-af66-4870-985c-1b65bcb14e5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/de979bb7-b73c-4358-93f7-31671a4c8e63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/3b1f17fb-5a4c-4a96-8353-d8358c896aee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/c81138fe-0326-4e2b-b21e-46b684890480.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/e773df26-36f2-4b88-ad65-549a6511a574.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/86f312c9-9405-4336-83d6-aa3cf2beaedf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/62cb171c-847a-49b9-8c22-f45dfc6002f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/8671432d-f4f7-4671-a5b9-b276fbe77683.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/dd802f6d-0b51-4382-98fd-edcd8289e85b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/822f64ee-0f04-427e-8713-c2f0b1cd8d85/f7720154-7f8b-4abc-9b3d-b80e04431ae3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/6e51a4a6-12c6-4a3d-a4e3-165d38c7fbbb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/a07e0600-4884-4b1a-93c1-960d85a84f43.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/0f09c7ea-d063-4f2c-8f21-d17319148edc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/4f3bc27b-e949-4aea-8f4d-3cc0f90dfe8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/e7f2b685-ac19-4303-bce8-18809c69161f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/98045086-c092-46cc-8e06-714e9f6d3c56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/ab330fdb-41bc-43fd-9f29-ce2a70c80a5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/2fb37481-f6d8-452b-9ba7-b26870870893.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/3bb770ae-52e6-4d9a-9020-bbc8521c805e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/79ae02bf-72ee-471f-9c4e-dfd7191975d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/2247bac9-fa13-4e9f-bb5f-94b3f7fe68e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/187fea10-15e4-426e-aa51-05b3a226b0b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/5e3c4a26-64fa-47bb-87fa-d67b55a03cbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/9fe4c657-6f7d-4d8e-973d-b19dc04145b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/ab3d0065-6482-409b-a9ed-9b85bce3bdc4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/4c86010b-0f32-4119-b727-4dcaba03e9c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/b0e3d041-b050-4207-a227-a259d2dca55f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/282c7c23-4ea0-41c5-bf5e-3cf07679ac97.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/a7c24757-f779-42a2-a04a-af3156b41763.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/8723cf29-d502-4c69-9135-08566d1e28ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/b0fbf29e-d9a9-4e18-8abe-bf87f4842656.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/5f3c8056-2e80-4e12-9405-ea681cd8891b/6a469c33-7f72-4689-b0d7-8a6e031de27e.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nMitsubishi’s compact Lancer gained a hatchback version for the 2010 model year. Dubbed the Lancer Sportback, the hatchback is offered with a choice of three four-cylinder engines: two naturally aspirated and one turbocharged. Competitors include the Subaru Impreza and Mazda3. The Lancer sedan and high-performance Lancer Evolution are covered in separate reports in the Cars.com Research section.\n\n\nNew for 2011\n\nA new base ES model comes with a 2.0-liter four-cylinder engine, which, like the Sportback’s other engines, is borrowed from the Lancer sedan and Evolution. The ES uses electric power steering that helps boost fuel economy to 33 mpg highway. A USB port and voice-activated operation of phones, iPods and USB drives are standard on the GTS and Ralliart and optional on the ES.\n\n\nExterior\n\nOffered in ES, GTS and performance Ralliart trim levels, the Lancer Sportback retains the general design cues of the Lancer sedan in front, but it takes on a different look at the rear. The Sportback’s liftgate is raked forward at an aggressive angle for a hatchback, and the overall look is a little ungainly from some angles. A rear spoiler near the roof finishes off the design. Exterior features include:\n\n\nStandard 16-inch wheels\nAvailable 18-inch wheels\nAvailable bi-xenon headlights\nStandard rear wing-style spoiler\n\nInterior\n\nLike the Lancer sedan, the Sportback has room for up to five people in two rows of seats. The big difference between the two cars is in their cargo areas. Though the Lancer sedan is available with an optional split-folding backseat to increase luggage space, the shape of the car limits what you can fit into the cargo area. With the Sportback, some of those restrictions aren’t there because of its open cargo area, which has a maximum volume of 52.7 cubic feet. Interior features include:\n\n\nAvailable USB port and voice activation\nAvailable Rockford Fosgate audio system\nAvailable navigation system\nAvailable heated leather seats\n\nUnder the Hood\n\nWith the addition of the ES model, the Lancer Sportback offers a choice of three engines. The ES and GTS have front-wheel drive, and the Ralliart has all-wheel drive.\n\n\n2.0-liter four-cylinder engine on ES makes 148 horsepower (143 hp in California) with either a standard five-speed manual or optional continuously variable automatic transmission\nGTS has a 168-hp (161 in California), 2.4-liter four-cylinder with either a five-speed manual or CVT\nRalliart models get a 237-hp, turbocharged 2.0-liter four-cylinder that makes 253 pounds-feet of torque and is matched to a six-speed, twin-clutch automated manual transmission with steering-wheel paddle shifters\n\nSafety\nStandard safety features include:\n\nSide-impact airbags for the front seats\nSide curtain airbags for both rows\nKnee airbag for the driver\nAntilock brakes\nElectronic stability system",
+      "trims": [
+        {
+          "name": "5dr Sportback Man ES FWD",
+          "price": "$17095",
+          "specifications": {
+            "Notable features": [
+              "New base ES model",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "24 City / 32 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "145 @ 4200 SAE Net Torque @ RPM",
+              "148 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "2,988 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "120 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Drum - Rear (Yes or )",
+              "8.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "10.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback CVT ES FWD",
+          "price": "$17995",
+          "specifications": {
+            "Notable features": [
+              "New base ES model",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "25 City / 33 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "148 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0L/122 Displacement",
+              "145 @ 4200 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,054 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "120 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "8.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Drum - Rear (Yes or )",
+              "10.9 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Not Available Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback Man GTS FWD",
+          "price": "$19895",
+          "specifications": {
+            "Notable features": [
+              "New base ES model",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.4L/144 Displacement",
+              "167 @ 4100 SAE Net Torque @ RPM",
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,098 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "120 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback CVT GTS FWD",
+          "price": "$20895",
+          "specifications": {
+            "Notable features": [
+              "New base ES model",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "23 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.4L/144 Displacement",
+              "168 @ 6000 SAE Net Horsepower @ RPM",
+              "167 @ 4100 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)",
+              "Not Available Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,164 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "120 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "5dr Sportback TC-SST Ralliart AWD",
+          "price": "$28095",
+          "specifications": {
+            "Notable features": [
+              "New base ES model",
+              "Unique hatchback styling",
+              "168-hp four-cylinder",
+              "Turbocharged all-wheel-drive Ralliart version",
+              "Available dual-clutch transmission (Ralliart)"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Gas I4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "237 @ 6000 SAE Net Horsepower @ RPM",
+              "253 @ 2500-4750 SAE Net Torque @ RPM",
+              "2.0L/122 Displacement"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Not Available Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Not Available Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,572 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "130 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "11.9 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "11.6 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

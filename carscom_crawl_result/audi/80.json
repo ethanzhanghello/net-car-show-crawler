@@ -1,0 +1,49 @@
+{
+  "make": "audi",
+  "model": "80",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/9a124c31-6ebe-4965-8b15-45789ab6cc47/f609584d-a0bf-4393-b8f2-7ca17eb50fea.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan 5-Spd",
+          "price": "$22650",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 5-Spd (CA)",
+          "price": "$22780",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Auto",
+          "price": "$23530",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Auto (CA)",
+          "price": "$23660",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Quattro",
+          "price": "$26250",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Quattro (CA)",
+          "price": "$26380",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan 5-Spd",
+          "price": "$29100",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

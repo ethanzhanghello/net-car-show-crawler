@@ -1,0 +1,115 @@
+{
+  "make": "audi",
+  "model": "90",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/269c9b5e-6af8-4b35-b669-2fb26513e69d/b71c61ea-ae32-4483-b6eb-dd2457f47e52.png"
+      ],
+      "expert_review": "Audis had a reputation as rough-and-tumble machines, but the `93 Audi 90S represents a major change. This was a tame machine, as in “cozy“ and“comfortable.“ The perception of riding in and on a block of concrete isgone. The 2.8-liter V-6 delivered ample power, and the short-throw five-speed manual transmission was smooth. Anti-lock brakes and a driver-side air bag arestandard; a passenger-side bag is coming within a couple years. If Audi keeps turning out cars with the performance of the 90 and the 100, the onlyunexpected acceleration will be in sales.",
+      "trims": [
+        {
+          "name": "4dr Sedan S 5-Spd",
+          "price": "$26650",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan S Auto",
+          "price": "$27450",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan CS 5-Spd",
+          "price": "$29500",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan CS Auto",
+          "price": "$30300",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan CS Quattro Sport 5-Spd",
+          "price": "$33050",
+          "specifications": {}
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/599cffdc-6bc9-4c7a-a7eb-1df8336a520e/67d9c1d9-b084-4094-a3db-ffe89f16aefa.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sedan Auto",
+          "price": "$25670",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Manual",
+          "price": "$25670",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Manual Quattro",
+          "price": "$25670",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Sport Manual Quattro",
+          "price": "$26070",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Sport Auto",
+          "price": "$26070",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Sport Manual",
+          "price": "$26070",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/68137565-6c8f-4d33-861a-4deb9144099d/450c18ca-7e70-4da8-8da0-bd952949f68b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr S 5-Spd",
+          "price": "$27820",
+          "specifications": {}
+        },
+        {
+          "name": "4dr S Auto",
+          "price": "$28620",
+          "specifications": {}
+        },
+        {
+          "name": "4dr CS 5-Spd",
+          "price": "$30770",
+          "specifications": {}
+        },
+        {
+          "name": "4dr CS Auto",
+          "price": "$31570",
+          "specifications": {}
+        },
+        {
+          "name": "4dr CS Quattro Sport 5-Spd (CA/NY)",
+          "price": "$34420",
+          "specifications": {}
+        },
+        {
+          "name": "4dr CS Quattro Sport 5-Spd",
+          "price": "$34420",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

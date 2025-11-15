@@ -1,0 +1,75 @@
+{
+  "make": "dodge",
+  "model": "colt",
+  "years": {
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8f71bd6a-5866-4c16-9808-c31a35c7e586/de5eecde-ed63-41e4-a663-fcd57cc5b602.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr ES",
+          "price": "$10277",
+          "specifications": {}
+        },
+        {
+          "name": "4dr ES",
+          "price": "$12298",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback Base",
+          "price": "$21145",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0b107631-759a-4fd4-9b1f-d04f6a471561/94ce81fc-8402-4d83-8df3-9ed3d7dc67aa.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "3dr Hatchback Base",
+          "price": "$7574",
+          "specifications": {}
+        },
+        {
+          "name": "3dr Hatchback GL",
+          "price": "$8403",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback Base",
+          "price": "$17840",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/729cddfa-2c89-4355-bd82-ad009ca209f6/21c77b6d-f638-4864-b8d8-bc666b64893c.png"
+      ],
+      "expert_review": "Though the smallest offering from Chrysler Corp., the Colt, built by Mitsubishi and sold through the Dodge and Plymouth dealer networks, is loaded with interior room. It also features fresh new exterior styling for ’93.\n\nThe 1.8-liter, 16-valve 4-cylinder engine develops 113-h.p., and even with the 4-speed automatic transmission in our test car, the combination had adequate pep with minimum noise. The 27 miles per gallon city/34 m.p.g. highway rating didn’t do the car justice. It seemed to run on but fumes, and the needle didn’t appear to move.\n\nBut there are drawbacks, such as no air bag, much less air bags; no anti-lock brakes; and a $10,423 base price and, with such popular options as air conditioning, dual power mirrors, power steering/door locks/windows, a final sticker of $13,283 in a world heavy with discounts on such larger and roomier cars as the Dodge Shadow and Plymouth Sundance.\n\nBut the main problem is the Shadow and Sundance and the fact they are goingto be discontinued soon when Chrysler brings out the subcompact Dodge and Plymouth Neon. The Neon will be built in Belvidere, Ill., starting in Novemberand go on sale in January.\n\nThere’s no way Chrysler can sell imported Colts and devote the time and money to promoting the U.S.-built Neons to sell enough of them to reach Belvidere’s 300,000 capacity and, thus, amortize the slightly less than $1 billion investment in the cars.\n\nWe envision numbered days for Colt. If Neon is half as good as Chrysler President Bob Lutz says, it will be a brief wake for Colt.",
+      "trims": [
+        {
+          "name": "2dr Sedan GL",
+          "price": "$8741",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan Base",
+          "price": "$9597",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sedan GL",
+          "price": "$10580",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

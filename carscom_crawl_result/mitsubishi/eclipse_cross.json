@@ -1,0 +1,727 @@
+{
+  "make": "mitsubishi",
+  "model": "eclipse_cross",
+  "years": {
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/aaaf504e-9706-42e6-81d1-c71563b60351.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/859a16b3-1290-4afc-9ec1-a61e9eee67d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/fa253751-bf02-4640-9d1b-802613785a53.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/be4ec79f-72a9-45c6-a66e-824d323b9815.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/b4b6c00d-1f6c-430e-8d9c-d671a86c2b03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/8e152730-2765-4032-8d90-31736a9b38aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/57493305-5567-4c7f-9a93-178e0ea3d093.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/4abf7e0d-0c14-44bc-8a82-6255671621c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/960d5453-1490-4423-a776-c4b05abffc7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/9c1e3e96-36c7-4a02-bafa-6bd4856ee844.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/ab220aa3-affb-48d4-a3a3-9de0a017fecd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/83d3c583-4a9a-4932-83f9-98221616bd49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/1339be53-2f68-4eb2-9efa-3577ec8e549b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/24f4cb8a-a14e-497e-9fd9-f34fcb7686db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/08581973-effa-4479-81da-fbb648c1dc73.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/bd16d33e-04d9-4018-abc0-180b781fb99a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/46fec15f-e0f7-4093-aaf2-52a7b0890140.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/585510da-004a-45fc-aa20-792e60a3d63e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/dbd30664-78ed-4906-84a6-ca8ed03ce575.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/66be5a72-16c3-422e-92fc-1caac25c2be8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/426f6498-e067-45b2-9234-7ad3503a26ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/6be758eb-604e-43ac-be2d-e182321148b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/a6df6afe-da3e-4908-8cb3-bf181ebf14f0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2e8e0b12-a674-40ef-9441-9e9544736434/fc6fe549-dea0-4608-8f7c-5b040454085f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/b80cabd8-c143-470d-a3e4-20bb7e54521f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/f4cd75bf-7f08-4ea8-99b3-587d16c9df80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/28f135e7-7fc7-4e32-9139-17f0220ebaea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/4878ed1c-c885-4a6f-ba60-66c184913f27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/99c5261e-f4ef-4b39-8332-8642ca7ea435.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/151ba991-e8c6-4746-9079-2bb5a759030f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fc73f5ec-e3eb-49c9-b728-c60c174b6468/855cc70d-1b31-4124-a487-8bfba9b3e33f.png"
+      ],
+      "expert_review": "With its new SUV, Mitsubishi aims to combine the looks and excitement of its discontinued Eclipse convertible with the utility of a compact SUV. The result is as awkward as it sounds in terms both of styling and of its placement in Mitsubishi’s lineup.\n\nThe automaker calls the Eclipse Cross a compact SUV, and it slots between the Outlander Sport and three-row Outlander in length. It competes against the likes of the Honda CR-V, Ford Escape and Toyota RAV4; see them compared.\n\n(Un)Controlled Chaos\n\nTo my eye, the Eclipse Cross’ styling is as chaotic and awkward as its name implies, from its gaping front grille to its split liftgate bisected by the taillights. Inside, things settle down thanks to an uncluttered dashboard design and a sleek wraparound cockpit. Hard plastic is applied liberally, but pops of glossy black and metal-like trim help offset the cheapness and impart a sporty-ish vibe.\n\nA tabletlike 7-inch multimedia display is perched high on the dash — an excellent position for visibility but tough in terms of usability. The display is a touchscreen that can also be controlled via a console-area touchpad, but both methods present challenges.\n\nFirst, as mentioned, the touchscreen requires a bit of a stretch and is a bit small. It also lacks tuning or volume knobs — an omission other brands, including Honda, have been driven to correct. Surrounding the screen are finicky touch-sensitive panels, which are a poor substitute for physical buttons. I had the best luck using my pinky finger to make my selections on the screen and panels — not ideal.\n\nWorse, though, is option two: the touchpad. Its placement near the gear shifter is convenient, but using it is confounding and much more distracting while driving than using the touchscreen. It has a quadrant layout, and the functions of each square don’t directly match up with the layout of the screen, making it not at all intuitive to use.\n\nA few positives: Apple CarPlay and Android Auto are standard, and a color head-up display ahead of the gauge cluster can be helpful. Also, the Eclipse Cross marks the debut of the Mitsubishi Connect safety and assistance system. It features services like roadside assistance and stolen vehicle tracking, and it can connect with your smartphone for things like remote climate control, remote start, remote door lock/unlock, and parental controls such as geofencing and speed and curfew alerts. A two-year subscription is free.\n\n(Un)Comfort\n\nThe seats up front are comfortable enough, but rear visibility is so compromised, it was hard to ever feel at ease in the driver’s seat. The rear window is split by the taillights, severely limiting the rearward view. The SUV’s raked roofline also compromises visibility to the rear corners.\n\nIn terms of room, the backseat requires a squeeze for adults. With 35.3 inches of maximum legroom, it’s smaller than the Honda CR-V (40.4), Ford Escape (36.8) and Toyota RAV4 (37.2). There’s even less space than in the smaller Outlander Sport (36.3). The Eclipse Cross is also around 2 inches short on backseat headroom compared with direct competitors.\n\nTwo child-safety seats fit in back, but not well due to the lack of legroom. The exposed lower Latch anchors were easy to use, but installation of our forward-facing car seat was compromised by tough-to-use top tether anchors. Check out the full Car Seat Check.\n\nCargo room is just as uncompetitive. With just 22.6 cubic feet of space behind the backseat, the Eclipse Cross falls well short of the Escape (34.3) and RAV4 (38.4), while the CR-V’s cargo area is close to twice as large (39.2). It’s a similar story with the backseat folded; it goes down in a 60/40 split to create 48.9 cubic feet of space, again well below its competitors.\n\nThere are a few bright spots in the cabin. Two available, new-to-Mitsubishi convenience features make their debut on the Eclipse Cross: heated rear seats and a dual-pane panoramic moonroof (though a black bar in the center adds to the cabin’s claustrophobic feel). There’s also an available configurable backseat that has nine reclining positions and can slide forward and back nearly 8 inches.\n\nSlow and Sloppy\n\nBy now, you’re probably wondering if the Eclipse Cross has any redeeming qualities. Well, road manners aren’t one of them.\n\nIt uses a new turbocharged 1.5-liter direct-injection four-cylinder that makes 152 horsepower. It’s paired with a continuously variable automatic transmission, and the two don’t appear to like each other. Responsiveness from a stop is patience-testing, and don’t hold your breath waiting for midrange power. Pop it in Eco mode, which alters throttle and transmission settings to benefit fuel economy, and it feels like you’re towing a semi-trailer. What’s worse, the powertrain’s complaining drones and groans are constant.\n\nOn the highway, its suspension tuning lacks both sporty firmness (like the Mazda CX-5) and comfortable softness (like the Ford Escape). It’s tuned instead toward wayward sloppiness. Overall, its road manners are busy at best, rickety at worst. Like trying to get out of bed after a hangover, it shudders and wobbles, rolls and bobs around corners and lacks any sense of composure.\n\nMitsubishi’s all-wheel-drive system, dubbed S-AWC (Super All-Wheel Control), is available. Three driver-selectable modes are included (Auto, Snow and Gravel) that alter the system’s responsiveness.\n\nHere’s a silver lining for the Mitsubishi: The Eclipse Cross does OK in fuel economy. In the base 1.5 ES trim level with front-wheel drive, it’s EPA-rated 26/29/27 mpg city/highway/combined (1 mpg lower in each category with AWD). That’s worse than a base Honda CR-V (26/32/28) but better than base versions of the Escape (21/29/24) and RAV4 (23/29/25).\n\nSafety\n\nAs of this writing, the Eclipse Cross has not yet been crash-tested. If it’s tested by the Insurance Institute for Highway Safety, results will be posted in the small SUVs class.\n\nMany advanced safety features are unavailable on lower trims, and to get some of them where they’re available, you still have to select pricey packages. For example, to get forward collision warning with automatic braking, you have to pop for the top SEL trim level and then add the Touring Package, which includes forward collision warning with auto braking, adaptive cruise control, lane departure warning and automatic high beams. Other optional safety features include a 360-degree camera system and blind spot monitoring.\n\nMany other compact SUVs make safety features more accessible and affordable. Toyota, for example, offers many safety features as standard equipment on the RAV4.\n\nWhy?\n\nThe 2018 Mitsubishi Eclipse Cross starts at $24,290 with front-wheel drive (all prices include destination charges); AWD is available for $600. The Eclipse Cross’ base price is lower than the CR-V ($25,245), Escape ($24,935) and RAV4 ($25,705), but not enough lower to make up for its numerous faults.\n\nSo, who is this vehicle for and why would someone choose it in a jam-packed class of excellent offerings? You got me. The reasoning for the Eclipse Cross’ existence alongside similarly sized Mitsubishi models continues to elude me, as does its appeal.\n\nEditor’s note: This story was updated July 18, 2018, to clarify features of Mitsubishi Connect.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "ES FWD",
+          "price": "$23295",
+          "specifications": {}
+        },
+        {
+          "name": "ES S-AWC",
+          "price": "$23895",
+          "specifications": {}
+        },
+        {
+          "name": "LE S-AWC",
+          "price": "$24895",
+          "specifications": {}
+        },
+        {
+          "name": "SE S-AWC",
+          "price": "$26395",
+          "specifications": {}
+        },
+        {
+          "name": "SEL S-AWC",
+          "price": "$27895",
+          "specifications": {}
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/18896dfc-cf42-4b4d-90dc-8da66e62dbd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/c31cc540-f56a-408c-9f71-89ffb85bd04d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/e6954bbf-e82b-46b9-867c-d9e4bdb9c144.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/9d2f1975-8cfe-4e10-8f4a-ab08d5afad59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/c67a668b-eeed-41a4-85f0-4949f58cec65.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/f071bfbe-ef3f-401f-8347-282732e084fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/4fd120c1-e47a-4740-9df5-29288625c7fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/fac9d4d5-90ff-4a6e-a07d-645cdc586960.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/a734e43b-e9fb-4f0a-b284-6b6dea1de8c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/2b4c363b-c986-45f7-89f5-73306a006032.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/0321a136-ebfd-41d9-83c9-7c7280c3d9b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/bf96e180-2e85-44be-b3eb-5d95602a9ad7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/14b15339-56e3-4324-b1c6-937cadd78825.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/11dea826-583a-44d3-b1f2-8de6ec211fa0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/5426ea86-8896-442f-89e5-29c474e6aa1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/dfe10523-84c2-48f5-a2a3-844c7aec2609.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/27ebe2fb-cc88-44ce-bd4b-3bd1d9966a3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/75d669e5-2ea7-4aa5-aa38-77ff9cf3627c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/d33eadca-664f-4c7d-a54b-e4ece806c629.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/1d9bd41b-95ca-4e39-a97c-3dd2b9cb8123.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/697f1385-85cb-43e9-bc05-fae08a9e48f8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/931fec6f-9214-414f-bf8d-1091baf68a9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/b97906b7-3095-4016-88ce-deaf99737aa9.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/498800d0-29d1-4aa8-b003-757e2235aecc/40cfe94a-c6cb-467d-b98a-28c3278ef9af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/046e6b54-eafd-4577-a566-5febadd33192.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/970357f2-5a09-47b0-abd6-1c515c9b5a08.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/649f8724-f42c-417d-8ac5-6da05ff72506.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/4b85dca2-9f51-42e2-a997-ad4442eadf57.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/b265555b-9d0c-4b00-88d0-30af8129430b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/1d03bb50-bd8e-4f2e-9b30-8ec22c598dc8/d9fee409-53cc-4caf-933e-afe30426b418.png"
+      ],
+      "expert_review": "What Is the 2023 Mitsubishi Eclipse Cross?\n\nMitsubishi calls its five-seat Eclipse Cross a compact SUV, but the brand already has one of those in the two-row Outlander Sport. The Eclipse Cross slots between the Outlander Sport and the three-row Outlander in Mitsubishi’s lineup, and it’s available in four trim levels: base ES, LE, SE and SEL. The Eclipse Cross faces competition from the Honda CR-V, Toyota RAV4 and Mazda CX-5.\n\nWhat’s New on the 2023 Mitsubishi Eclipse Cross?\n\nAll-wheel drive is newly standard across the lineup, and LED headlights and foglights come standard on the entry-level trim. Select models get minor cosmetic updates.\n\nWhat Features in the 2023 Mitsubishi Eclipse Cross Are Most Important?\n\nStandard features include:\n\nAll-wheel drive\nCruise control\nHeated side mirrors\nLED headlights and foglights\n\nAvailable features include:\n\nApple CarPlay and Android Auto smartphone connectivity\nHead-up display\nDual-zone automatic climate control\nPush-button start\nPower-adjustable driver’s seat\nPanoramic moonroof\nHeated front and rear seats\nHeated steering wheel\nAdaptive cruise control\nForward collision mitigation\nLane departure warning\nShould I Buy the 2023 Mitsubishi Eclipse Cross?\n\nThe Eclipse Cross brings unique style to the compact SUV class, but we found it lacking in many areas. Its engine isn’t that powerful, and despite the addition of standard AWD, it doesn’t handle well. There’s not much room in the backseat, either.",
+      "trims": [
+        {
+          "name": "ES S-AWC",
+          "price": "$25795",
+          "specifications": {}
+        },
+        {
+          "name": "LE S-AWC",
+          "price": "$27045",
+          "specifications": {}
+        },
+        {
+          "name": "SE S-AWC",
+          "price": "$28045",
+          "specifications": {}
+        },
+        {
+          "name": "SEL S-AWC",
+          "price": "$29495",
+          "specifications": {}
+        },
+        {
+          "name": "Ralliart S-AWC",
+          "price": "$29995",
+          "specifications": {
+            "Notable features": [
+              "All-wheel drive standard",
+              "Five-seat compact SUV",
+              "152-hp, turbo four-cylinder engine",
+              "Continuously variable automatic transmission",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "25 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "1.5 L/91 Displacement",
+              "184 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,472 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/12503828-792a-4b0a-adda-3dd854132bcd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/f7c8b9d0-ecbe-4e39-9158-37b6a16ec917.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/a9dab6ca-a8c3-438a-8316-8a6b4f060ea7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/159a4d0a-df88-4af1-98e2-100c0a8fd713.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/a906f87f-e03a-436a-b122-614b05448354.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/491cb4ac-e754-4ff4-8fea-d004c20dc337.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/b2524bd3-e0f7-4c22-b6fa-d312fc9fc3f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/7094d856-e37d-45b8-9c00-af622e9e4783.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/ef4a3803-5f73-4f7b-8cca-8039cd43d3f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/1ebc6209-10f4-4113-be6c-e90964102b20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/4cb854a0-7b07-45f6-9d77-8b4b9785bd59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/e4e2d4c5-1973-4e39-bd97-16e4c787e99e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/51b790a7-d578-4e3d-9730-77b9423133ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/b00562f6-cd06-4b2e-99ef-3ad33999c663.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/d81543cd-b2ae-4351-83ab-0ac9c7a2858f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/e270cb80-39f5-4418-bb47-977535530d9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/2f3a0370-66b0-4dce-b21c-da3a51107df2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/8076de17-10a8-4a30-9a1f-109e9bd09013.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/babc3db4-b1c6-412e-981f-476f41956f2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/fb860d0c-2a3d-4e05-94ba-9de5d381e899.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/a71584fe-6ae8-483a-9d38-e7222a53b9fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/10321760-1a1d-4767-99e5-cc22d953d18e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/347dcaf3-4686-4752-8fd3-d17787e4beb8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f9399f4c-30d7-41df-b482-d0ca6aa387d1/834932d6-deb8-404d-9431-23e2aebc4e24.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/914a170d-1e9c-4957-a4df-1b0eeadfba95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/9d717fd5-5713-4a7d-8ddf-1858fa62af4e/6081ef16-2350-43a8-b84a-b32c88c254e9.png"
+      ],
+      "expert_review": "Key Points\nThe 2026 Mitsubishi Eclipse Cross starts at $29,700 (all prices include $1,745 destination charge).\nThe compact SUV sees no major changes for 2026.\nOffers up to 26 mpg combined\n\nThrough the first three quarters of this year, the Mitsubishi Mirage is outselling the Eclipse Cross by almost 10% — despite none being built, as the Mirage was discontinued after the 2024 model year. Given American buyers’ icy reception of the Eclipse Cross, little changes on the small SUV this year. With Apple CarPlay and Android Auto as standard equipment and most buyers presumably using their phones for navigation, the embedded navigation system is dropped for 2026. The SEL also now gets the “Eclipse Cross” hood badge standard.\n\nRelated: Mitsubishi Announces Updates to 2026 Lineup\n\nRelease Date and Pricing\n\nThe 2026 Mitsubishi Eclipse Cross is on sale now. Full pricing, including a $1,745 destination fee and $260 Welcome Package (includes owner’s manual, floormats and touch-up paint), is as follows:\n\nES: $29,700\nLE: $31,300\nSE: $32,400\nBlack Edition: $33,550\nSEL: $33,850\nTrim Levels\n\nThe base Eclipse Cross ES rides on 16-inch wheels and features LED exterior lighting, heated side mirrors and remote keyless entry. Inside are an 8-inch touchscreen with Apple CarPlay and Android Auto, manually adjustable front seats upholstered in cloth, automatic climate control and four speakers. The Eclipse Cross’s safety suite is as basic as the rest of the vehicle; standard equipment on the ES consists of forward collision warning with pedestrian detection, automatic emergency braking and lane departure warning.\n\nStep up to the LE and you’ll get black 18-inch wheels, rain-sensing windshield wipers, keyless entry and start, heated front seats and voice recognition. The SE adds a hands-free power liftgate, synthetic suede upholstery, a power-adjustable driver’s seat, dual-zone automatic climate control and a six-speaker sound system. The SE also comes with adaptive cruise control, blind spot monitors, rear cross-traffic alert and an upgraded forward collision system that works at higher speeds. The Black Edition is the same but with black exterior trim (including a roof spoiler) and sport pedals. The SEL gets paddle shifters to work through eight simulated gears, leather upholstery, a power-adjustable passenger seat and a heated steering wheel. A 360-degree camera system is standard on the SEL.\n\nRead More Mitsubishi Coverage on Cars.com:\n\n2025 Mitsubishi Outlander Trail Edition: Two Trends in One\nNew Mitsubishi EV Based on Nissan Leaf Coming to U.S. in 2026\n2025 Mitsubishi Outlander Review: Affordable Utility\nResearch the Mitsubishi Eclipse Cross\nFind Your Next Car\nPowertrain Specs and MPG\n\nEvery 2026 Eclipse Cross is powered by a 152-horsepower, turbocharged 1.5-liter four-cylinder engine that makes 184 pounds-feet of torque. It is paired with a continuously variable automatic transmission and standard all-wheel drive. EPA-estimated fuel economy is 25/28/26 mpg city/highway/combined for the entry-level ES trim and 25/26/25 mpg for the rest of the lineup.\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "ES S-AWC",
+          "price": "$27695",
+          "specifications": {}
+        },
+        {
+          "name": "LE S-AWC",
+          "price": "$29295",
+          "specifications": {}
+        },
+        {
+          "name": "SE S-AWC",
+          "price": "$30395",
+          "specifications": {}
+        },
+        {
+          "name": "Ralliart S-AWC",
+          "price": "$31245",
+          "specifications": {}
+        },
+        {
+          "name": "Black Edition S-AWC",
+          "price": "$31545",
+          "specifications": {}
+        },
+        {
+          "name": "SEL S-AWC",
+          "price": "$31845",
+          "specifications": {
+            "Highlights": [
+              "25 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "1.5 L/91 Displacement",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "184 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "3,483 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "130 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/8ebcc9d2-abd4-4b79-a946-7ef14f8e7f3d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/1a0acc8e-e897-4d27-adb8-14d311af7f76.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/c1e6b39c-c1ec-4ba0-9db7-04a88dfdb35d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/63ac38ce-fd1f-4b42-899c-f43c0a307382.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/f59e3891-d676-479d-8c93-4c77331c000d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/8f3fac9f-0026-477c-a30c-2a56ae19d9df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/f28dc7b1-9c30-440b-8e8f-f07ad0057e8a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/915a82fa-55bb-4546-9e00-0561f4188be2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/ab833e82-abb4-48af-926a-d0a9730b2441.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/6d4b7c24-3761-430f-a017-3a6efe1bc6ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/5ff696b4-fbdc-4a2a-b936-8cf77ba9c41f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/5de05794-a4ea-4efa-bd40-8787a42d5128.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/f00df060-ac8f-408e-9497-f630fe6cc66e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/85fc9421-d695-4918-b389-e9fbbfe6870b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/b0b0e220-63f9-4b9f-b42e-3343d4f52f82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/6bc06121-7954-4b98-a7c9-5afb56bdbe95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/d8470b9d-17e8-4e34-a084-b0ab17934b4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/4fee61c5-2878-42d4-8e9a-e79f32ec94aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/aeeb1dab-ebb3-4765-8dd1-b2128796f788.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/c3bd172e-780e-4abd-b92e-9fa343f5ab5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/a9b0554d-da17-4e8c-9f6d-9ed4638ddf23.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/c8905d9f-dbb2-4350-8dd4-f6e1f58228ee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/cee175f6-019f-4e21-b712-2dcb5b67c4a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/9f768079-8728-4ba8-ad06-52a27e6606c4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/239cf56b-47c2-4870-a26e-62c5a6a926ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/3d824e12-d07d-48e7-88c1-8163f6ebb0e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/ee8da78c-ebef-48d8-96fc-282d6cba47d8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/fcda4966-d6bb-4d31-9b3c-76e95b992665.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0a6576a9-56cb-455d-8b46-86f7f4565f3a/d1ffabed-1009-40a8-a3f3-f1dd59d84c5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/b09be1b1-8ee1-4e70-b5e5-a509c597684c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/444b7c4f-d03c-4aeb-b986-57cb4c6aec0f/115f2ca7-e5a0-40cd-ba3c-5f66ac5191ec.png"
+      ],
+      "expert_review": "With its new SUV, Mitsubishi aims to combine the looks and excitement of its discontinued Eclipse convertible with the utility of a compact SUV. The result is as awkward as it sounds in terms both of styling and of its placement in Mitsubishi’s lineup.\n\nThe automaker calls the Eclipse Cross a compact SUV, and it slots between the Outlander Sport and three-row Outlander in length. It competes against the likes of the Honda CR-V, Ford Escape and Toyota RAV4; see them compared.\n\n(Un)Controlled Chaos\n\nTo my eye, the Eclipse Cross’ styling is as chaotic and awkward as its name implies, from its gaping front grille to its split liftgate bisected by the taillights. Inside, things settle down thanks to an uncluttered dashboard design and a sleek wraparound cockpit. Hard plastic is applied liberally, but pops of glossy black and metal-like trim help offset the cheapness and impart a sporty-ish vibe.\n\nA tabletlike 7-inch multimedia display is perched high on the dash — an excellent position for visibility but tough in terms of usability. The display is a touchscreen that can also be controlled via a console-area touchpad, but both methods present challenges.\n\nFirst, as mentioned, the touchscreen requires a bit of a stretch and is a bit small. It also lacks tuning or volume knobs — an omission other brands, including Honda, have been driven to correct. Surrounding the screen are finicky touch-sensitive panels, which are a poor substitute for physical buttons. I had the best luck using my pinky finger to make my selections on the screen and panels — not ideal.\n\nWorse, though, is option two: the touchpad. Its placement near the gear shifter is convenient, but using it is confounding and much more distracting while driving than using the touchscreen. It has a quadrant layout, and the functions of each square don’t directly match up with the layout of the screen, making it not at all intuitive to use.\n\nA few positives: Apple CarPlay and Android Auto are standard, and a color head-up display ahead of the gauge cluster can be helpful. Also, the Eclipse Cross marks the debut of the Mitsubishi Connect safety and assistance system. It features services like roadside assistance and stolen vehicle tracking, and it can connect with your smartphone for things like remote climate control, remote start, remote door lock/unlock, and parental controls such as geofencing and speed and curfew alerts. A two-year subscription is free.\n\n(Un)Comfort\n\nThe seats up front are comfortable enough, but rear visibility is so compromised, it was hard to ever feel at ease in the driver’s seat. The rear window is split by the taillights, severely limiting the rearward view. The SUV’s raked roofline also compromises visibility to the rear corners.\n\nIn terms of room, the backseat requires a squeeze for adults. With 35.3 inches of maximum legroom, it’s smaller than the Honda CR-V (40.4), Ford Escape (36.8) and Toyota RAV4 (37.2). There’s even less space than in the smaller Outlander Sport (36.3). The Eclipse Cross is also around 2 inches short on backseat headroom compared with direct competitors.\n\nTwo child-safety seats fit in back, but not well due to the lack of legroom. The exposed lower Latch anchors were easy to use, but installation of our forward-facing car seat was compromised by tough-to-use top tether anchors. Check out the full Car Seat Check.\n\nCargo room is just as uncompetitive. With just 22.6 cubic feet of space behind the backseat, the Eclipse Cross falls well short of the Escape (34.3) and RAV4 (38.4), while the CR-V’s cargo area is close to twice as large (39.2). It’s a similar story with the backseat folded; it goes down in a 60/40 split to create 48.9 cubic feet of space, again well below its competitors.\n\nThere are a few bright spots in the cabin. Two available, new-to-Mitsubishi convenience features make their debut on the Eclipse Cross: heated rear seats and a dual-pane panoramic moonroof (though a black bar in the center adds to the cabin’s claustrophobic feel). There’s also an available configurable backseat that has nine reclining positions and can slide forward and back nearly 8 inches.\n\nSlow and Sloppy\n\nBy now, you’re probably wondering if the Eclipse Cross has any redeeming qualities. Well, road manners aren’t one of them.\n\nIt uses a new turbocharged 1.5-liter direct-injection four-cylinder that makes 152 horsepower. It’s paired with a continuously variable automatic transmission, and the two don’t appear to like each other. Responsiveness from a stop is patience-testing, and don’t hold your breath waiting for midrange power. Pop it in Eco mode, which alters throttle and transmission settings to benefit fuel economy, and it feels like you’re towing a semi-trailer. What’s worse, the powertrain’s complaining drones and groans are constant.\n\nOn the highway, its suspension tuning lacks both sporty firmness (like the Mazda CX-5) and comfortable softness (like the Ford Escape). It’s tuned instead toward wayward sloppiness. Overall, its road manners are busy at best, rickety at worst. Like trying to get out of bed after a hangover, it shudders and wobbles, rolls and bobs around corners and lacks any sense of composure.\n\nMitsubishi’s all-wheel-drive system, dubbed S-AWC (Super All-Wheel Control), is available. Three driver-selectable modes are included (Auto, Snow and Gravel) that alter the system’s responsiveness.\n\nHere’s a silver lining for the Mitsubishi: The Eclipse Cross does OK in fuel economy. In the base 1.5 ES trim level with front-wheel drive, it’s EPA-rated 26/29/27 mpg city/highway/combined (1 mpg lower in each category with AWD). That’s worse than a base Honda CR-V (26/32/28) but better than base versions of the Escape (21/29/24) and RAV4 (23/29/25).\n\nSafety\n\nAs of this writing, the Eclipse Cross has not yet been crash-tested. If it’s tested by the Insurance Institute for Highway Safety, results will be posted in the small SUVs class.\n\nMany advanced safety features are unavailable on lower trims, and to get some of them where they’re available, you still have to select pricey packages. For example, to get forward collision warning with automatic braking, you have to pop for the top SEL trim level and then add the Touring Package, which includes forward collision warning with auto braking, adaptive cruise control, lane departure warning and automatic high beams. Other optional safety features include a 360-degree camera system and blind spot monitoring.\n\nMany other compact SUVs make safety features more accessible and affordable. Toyota, for example, offers many safety features as standard equipment on the RAV4.\n\nWhy?\n\nThe 2018 Mitsubishi Eclipse Cross starts at $24,290 with front-wheel drive (all prices include destination charges); AWD is available for $600. The Eclipse Cross’ base price is lower than the CR-V ($25,245), Escape ($24,935) and RAV4 ($25,705), but not enough lower to make up for its numerous faults.\n\nSo, who is this vehicle for and why would someone choose it in a jam-packed class of excellent offerings? You got me. The reasoning for the Eclipse Cross’ existence alongside similarly sized Mitsubishi models continues to elude me, as does its appeal.\n\nEditor’s note: This story was updated July 18, 2018, to clarify features of Mitsubishi Connect.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "ES FWD",
+          "price": "$22995",
+          "specifications": {}
+        },
+        {
+          "name": "LE FWD",
+          "price": "$24095",
+          "specifications": {}
+        },
+        {
+          "name": "ES S-AWC",
+          "price": "$24595",
+          "specifications": {}
+        },
+        {
+          "name": "SP FWD",
+          "price": "$25295",
+          "specifications": {}
+        },
+        {
+          "name": "SE FWD",
+          "price": "$25645",
+          "specifications": {}
+        },
+        {
+          "name": "LE S-AWC",
+          "price": "$25695",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "152-hp, turbo four-cylinder engine",
+              "Continuously variable automatic transmission",
+              "Front- or four-wheel drive",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "25 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 @ 3500 SAE Net Torque @ RPM",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "1.5 L/91 Displacement",
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "1,500 lbs Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,472 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "SP S-AWC",
+          "price": "$26895",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "152-hp, turbo four-cylinder engine",
+              "Continuously variable automatic transmission",
+              "Front- or four-wheel drive",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "25 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "1.5 L/91 Displacement",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "184 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,472 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SEL FWD",
+          "price": "$27145",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "152-hp, turbo four-cylinder engine",
+              "Continuously variable automatic transmission",
+              "Front- or four-wheel drive",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "25 City / 28 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "184 @ 3500 SAE Net Torque @ RPM",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "1.5 L/91 Displacement",
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "1,500 lbs Maximum Trailering Capacity",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,373 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Optional Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "110 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "SE S-AWC",
+          "price": "$27245",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "152-hp, turbo four-cylinder engine",
+              "Continuously variable automatic transmission",
+              "Front- or four-wheel drive",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "25 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "1.5 L/91 Displacement",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "184 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,516 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "SEL S-AWC",
+          "price": "$28745",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact SUV",
+              "152-hp, turbo four-cylinder engine",
+              "Continuously variable automatic transmission",
+              "Front- or four-wheel drive",
+              "Apple CarPlay, Android Auto available"
+            ],
+            "Highlights": [
+              "25 City / 26 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Four Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "1.5 L/91 Displacement",
+              "152 @ 5500 SAE Net Horsepower @ RPM",
+              "184 @ 3500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,516 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "1,500 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "150 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,500 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "150 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,500 lbs Maximum Trailering Capacity",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "110 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

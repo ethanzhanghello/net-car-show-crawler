@@ -1,0 +1,601 @@
+{
+  "make": "ford",
+  "model": "fusion_hybrid",
+  "years": {
+    "2010": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/e0da500b-105e-4fa7-a8e2-b9da55cb9f29.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/79840e34-5470-46c6-934e-6d18830a464d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/e20a527d-3a86-479b-ac47-1027f079593e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/fa579698-4079-4838-b9d7-efaf331062f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/281337ba-a117-4fe0-8f15-b44e275de96e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/d2ee81ad-42e8-45a2-ab00-5f1059ccd814.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/c5f21294-8494-4ec7-8dec-bcbc98da752b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/28945e3d-c930-412a-b7ca-d50561e64f04.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/d6230ac1-f520-4f1c-b038-e136e16af5d1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/811b7ada-f8b1-47ce-bdf1-e5d4d2d0c73d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/f0dced38-b9b9-4123-919e-4e2ec4f4be8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/db968f99-b2b5-4089-a4f5-905eabcdbc45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/2923e436-301a-4dc7-b2fe-fe7f779b2821.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/7b7a7e43-79a1-4df4-bea9-207931fc1304.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/4ba44699-40c0-45ed-958f-23ef4819e7e5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/277c29a0-34e2-4ede-95a7-9812ab9fd7bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/a3eef841-288a-4273-a989-52aa01448aa2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/613ba06c-186b-458b-b309-d6590b0524b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/492b5d47-b473-4ec2-8df2-5758266ef3e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/c1303816-a021-476a-ab95-b4760dac45fe.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/c1303816-a021-476a-ab95-b4760dac45fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/3e11873f-84c9-452c-918e-fb7820b9eca8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/81eefd84-6f9b-4b12-bf33-a407801b254a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/6f074c77-fa6a-4ea5-aaea-dc4b3f103229.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/f6c828f8-8dee-4184-97a0-f28cea6ce805.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/3e4e7a5b-1576-4fc0-8f50-06e65cca0d7a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/57273b11-0054-4548-8780-060a967fa1ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/7e632cd0-f349-47b9-a14d-ac6b44082317.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/0a44d8f1-3583-4ba6-b26d-b3833ff8a4b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/b3b3c0a1-9e04-4636-86fd-2478218ad169.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/e97560f9-2dd3-4307-a63f-64bf99eb75b0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/8eea15ea-bdd9-44fe-9f1e-0966a7b77852.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3575769a-7c84-4d9c-84cf-7bd3d563dbe4/6db26fe5-b82c-4a69-9a3c-654cc0089492.png"
+      ],
+      "expert_review": "We’ve heard it before, “The whole is greater than the sum of its parts.” So many vehicles out there have so many parts that they distract from the whole, and a lengthy features list starts to read like a rap sheet. That’s not the case with the 2010 Ford Fusion Hybrid. The Fusion Hybrid lives up to the mantra, giving me the features I like the most and wrapping them up in a sharp, fuel-efficient whole. This car is awesome.\n\nI was excited for this test drive because Ford has been getting lots of kudos for the Fusion Hybrid. Our intrepid Courtney Messenbaugh attended the Fusion Hybrid preview and was impressed. When I went to pick up the car, however, I thought, “Meh.” Initially, I was underwhelmed by its looks and its gray exterior with a gray interior when I saw it the first night. I have to confess: I get a little bored of the silver and gray cars that I’ve tested lately. However, when I came out to drive it the next day, I saw a different car.\n\nThe more I looked at the Fusion Hybrid, the more I liked it. So how did I go from “meh” to “awesome?” Simple, I drove it.\n\nThe Fusion Hybrid’s drive and ride quality amazed me the most. At traffic light, the engine’s starting and stopping was undetectable; there was no loud engine start noise, and no lurching as the engine jumped to life. It was impressive. Some might worry about a hybrid not having enough power, but the Fusion Hybrid never felt inadequate. Highway driving was a breeze, and city driving was a cinch.\n\nThe quiet cabin and engine are phenomenal. It was a true pleasure to drive this car because silence is something I never get at home.\n\nExterior\n\nThe Fusion Hybrid has a sculpted hood, and distinctive grille that integrates the headlights nicely; I also liked the chrome-accented air intake and fog lights. From the side, she looks sharp but not like she’s working too hard to please you. She’s the kind of girl who is stylish but not trendy.\n\nWith some thoughtful, modern design touches that don’t go over the top, this car can live with you for a long time. I’d like to thank Ford for putting some thought and effort into the tail end of the car. No boring, flat rear hatch here. The shape of the taillights blends in with the molded metal on the trunk. Chrome details with the badge are nice, and the lip along the bottom adds just enough pizzazz to keep it interesting.\n\nThe doors were easy for my kids to open; they weren’t too heavy nor too light (a common problem in hybrids). Smaller kids may need a little help managing the doors, but I was impressed by the handles’ ease of use.\n\nI really liked the Fusion Hybrid’s Easy Fuel capless fuel system. This does exactly what it says – you don’t have to remove a gas cap when filling the tank. No messy hands and no lost caps. However, it would be a more practical feature on a gas guzzler. The Fusion Hybrid gets 41/36 mpg city/highway, so there wasn’t a lot of opportunity for me to use this fun feature.\n\nSENSE AND STYLE\n\nFamily Friendly (Not Really, Fair, Great, Excellent): Great-Excellent\n\nFun-Factor (None, Some, Good Times, Groove-On): Good Times\n\nInterior\n\nThere’s a lot going on in the interior. There are some features that you don’t notice right away such as the eco-friendly cloth seating and the ambient lighting. At first, the ambient lighting just looks like a nice, abundant arrangement of LEDs throughout the interior, making for a well-lit cabin. What’s unusual is that you can change the color of the LEDs from white to purple to blue to yellow to red to orange (not necessarily in that order) to pink. I think I got them all. The kids loved to pick which color we used each time we got in the car – sunlight be darned.\n\nThe seats are comfortable, lightly bolstered and supportive. You know what my measure of good seats for the kids is? No complaints. There was no whining about the booster seat not fitting right or it covering the seat belt receptors. There was no griping about legroom or about who’s touching whom. Not a word. Excellent.\n\nAnother lauded feature of the Fusion Hybrid is Ford’s Sync system. However, I could not get my iPhone to completely sync in this puppy (perhaps because it’s the old-school first-generation iPhone). The calling feature worked great and was seamless, but I couldn’t get any of my music to play.\n\nThe Fusion Hybrid’s SmartGauge with EcoGuide instrument cluster really won me over. At first it looked like a lot of information coming at me all at once. However, after I checked it out for about a minute it made perfect sense. The cluster shows various aspects the vehicle’s power, efficiency and speed. You can select one of four configurations highlighting the aspects that are most important to you. These menus are labeled Inform, Enlighten, Engage and Empower. Even though I had four choices, I remained mostly in the Empower mode, which gave me the most information but wasn’t overwhelming.\n\nThe LED-illuminated cupholders are great, and I had fun changing their color. The cubbies and storage are abundant and functional. I particularly liked that most of the Fusion Hybrid’s compartments are padded with either a grippy rubber or fuzzy cloth. No rattles here. In the backseat, there are two cupholders housed in the center armrest.\n\nThe cargo area is ample, which in hybrid terms is really more like Galore in our MotherProof.com rating system. This is because most hybrids use the cargo area to store the batteries. Ford finagled its battery storage so I could fit a full load of groceries in the cargo area. No sweat. What about mamas with strollers? Umbrella types are good to go as are small single strollers. Double strollers, you’ll need to double-check. Be warned: The only way to open the trunk is with the key fob or a button inside the cabin. That’s kind of a hassle.\n\nIT’S THE LITTLE THINGS THAT COUNT\n\nStorage Compartments (Puny, Fair, Ample, Galore): Ample\n\nCargo/Trunk Space (Puny, Fair, Ample, Galore): Ample (which is Galore in hybrid terms)\n\nSafety\n\nMy test car came with the Driver’s Vision Package that includes a backup camera and a blind spot warning system. I really liked the blind spot warning system, which illuminates an orange LED light in the corresponding side mirror whenever a car is in your blind spot.\n\nRear parking sensors are standard on the Fusion Hybrid. The sensors detect objects behind the car and sound a warning to alert you. However, I found it to be too sensitive and tuned it out; I chose to back up slowly and look around carefully. This worked well because visibility out of the Fusion Hybrid is exceptional. The windows are large, and I could see all around me quite easily. The Fusion Hybrid also has a backup camera. Its image is displayed in the rearview mirror when the car is in Reverse. This was great most of the time, but I sometimes had trouble seeing the image in the mirror.\n\nMy kids had no problems using the seat belts. The Latch anchors are a little recessed but easy to find and use. If you’re considering a Fusion Hybrid and have young children, you’ll want to test the fit of your child-safety seats before you buy. A rear-facing seat could be a tight fit, especially if the front passenger or driver needs a lot of legroom.\n\nThe Fusion Hybrid’s standard safety features include all-disc antilock brakes, side-impact airbags, side curtain airbags, a driver’s knee airbag, traction control and an electronic stability system.\n\nFAMILY LIFESTAGE\n\nIn Diapers: A rear-facing child-safety seat could be a tight squeeze, and check to make sure the trunk can hold any large strollers you have.\n\nIn School: It’s a breeze for kids to get in and out of the car on their own.\n\nTeens: The electronic stability system will help teen drivers stay safe on the road.",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2012": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/c2784c3b-1de9-42be-97f3-8d011670837e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/f4d6b4f2-e180-4864-8cb0-7c7a8d0f300c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/96a55759-9212-47aa-a9b0-5b6fcc62a948.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/d1c2e010-793d-4f86-ae1d-050b24912c32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/8ad912fe-6201-4e37-9bcc-678a49c7509e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/86dfb88d-5e5b-42dc-954a-55dbb86fc0ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/6ec2cf1f-1f8c-4ae0-a18d-7322bef074a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/38ca67ee-2b33-4aba-a5e0-e38234da559c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/4926e704-bb49-4d1a-83a1-705a933fae64.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/6c3e45a8-db18-4f42-8f40-9e1ee25c6dfd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/f0d303cc-0f43-4824-be93-553fbd1edcce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/4594342a-0d2a-46d4-a457-450278930373.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/7454018d-490a-4897-99b2-386fddf9806b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/1aeab183-06f1-4b87-b59b-9f230f9620ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/e43a5ab6-b731-48b8-a3fc-0d93d8c4a6d9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/8451df68-881d-41f7-9142-9232ed16cb16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/e32f872e-8e9b-4d42-84c5-ece403d3fc94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/1375f8f0-3c8c-448b-bc4f-24e9ad2600e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/c320648c-ed90-48fc-bd27-46ac992a0b01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/b684d2ec-b76d-43cd-a33e-2de51357a23c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/4cccd072-9690-4842-b384-5be7c52cfb46.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/236cc69c-36f0-4984-aa0b-7ccc015b0e36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/8f70455a-4d7e-4ff5-99d9-30d178bbbed7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/2b709739-e166-4b0f-9d78-408799062bcc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/96a55759-9212-47aa-a9b0-5b6fcc62a948.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/0a668178-2c54-4522-a9ce-3314348df789.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/2ef12bc8-aa1e-422a-9d14-bc10c944b897.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/230ea1e9-a9c9-4867-b02d-56d4bcda59ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/35a0c949-6def-4603-87c3-cb8ff1ce42a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/af019ad4-a939-4648-b44b-15a93ffa42f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/ba34793f-5eb4-4a21-8a57-18f72f56e04f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/c90cf972-d3fe-4e93-86db-08fdea952752.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/64fd8407-9595-47ff-b5ab-42cf776fdb08/45a29dd1-86b4-437e-b474-7f301f71ccd2.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Fusion Hybrid, Ford’s first hybrid passenger car, comes to market with technology designed to help drivers operate the car in a more efficient manner. Competitors include the Toyota Camry Hybrid and Hyundai Sonata Hybrid. The Fusion Hybrid seats five.\n\nThe gas-only Fusion is covered separately in the Cars.com Research section.\n\nNew for 2012\nThere are no significant changes for 2012.\n\nExterior\nThe Fusion Hybrid is based on the gas-powered Fusion, but it has a few exterior cues that will tip off onlookers that they aren’t looking at a regular Fusion: The hybrid has badges on the front doors and trunk lid, plus special 17-inch wheels. Exterior features include:\n\n\nStandard rear parking sensors\nOptional rain-sensing wipers\nOptional moonroof\n\n\nInterior\nThe general appearance of the Fusion Hybrid’s cabin hews closely to the looks of the regular model, which is more modern than before but still trails competitors like the Kia Optima in terms of materials quality. The seat fabric in the Fusion Hybrid is made from recycled materials; leather seats are optional.\n\nThe hybrid has a unique gauge cluster that Ford calls SmartGauge with EcoGuide, designed to help drivers save fuel. Efficiency gauges have been done before, but the Fusion Hybrid’s instrument panel takes it to a new level. It features two LCD screens separated by a traditional speedometer. The screens can be configured to show the driver a limited set of information about the hybrid system or increasingly detailed data. One of the more interesting graphical features available is an animated vine that grows more leaves as the car is driven more efficiently. Interior features include:\n\n\nStandard 100-volt household power plug\nOptional navigation system\nOptional backup camera\n\nUnder the Hood\nThe Fusion Hybrid is powered by a 2.5-liter four-cylinder engine and an electric motor. A continuously variable automatic transmission sends power to the front wheels. Mechanical features include:\n\n\n191 horsepower total\nUses regular gas\nFord says the Fusion Hybrid can travel on electric power alone up to 47 mph\n\nSafety\nStandard safety features include:\n\n\nAll-disc antilock brakes\nSide-impact airbags for the front seats\nSide curtain airbags\nElectronic stability system",
+      "trims": [
+        {
+          "name": "Base_Price_6995",
+          "price": "$6995",
+          "specifications": {}
+        }
+      ]
+    },
+    "2011": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/d651dbf7-02f6-4dae-bb0d-6b3d30e40bf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/7e1dbb72-dba4-4e9c-86d0-d3c4117d3a01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/8cb384df-22a5-4192-b046-c9057c3cd6ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/60939df8-b661-4911-b3b6-ef6523da5bc2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/136ab5f3-ca7a-4dec-8e19-06c227251963.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/aea43d6a-0cdd-4d61-ac83-fb456487b597.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/25197e11-418d-4b8d-81cc-852cf2a68401.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/51916210-244f-4182-ae83-627e662e3e85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/13430616-d0ff-4af7-bff9-72401b85ab63.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/92c01a54-cf34-45a5-a88d-b399a4c22934.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/e96d7965-9fd0-4e9b-aa96-6062a4a4e0db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/48bbbddb-4ff5-4d29-9bf6-5a329c5e33d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/79ca28a4-3c49-42fd-af80-e56f13a56ad7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/29c8a9c0-3903-48be-920d-6a9af649dcb0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/dfd706b4-c045-4c3b-8a4b-4d65aae77dde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/d59a133f-615b-4c95-bcff-a3e64d465666.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/ca785a2d-6198-4ca6-9460-beb940a1307e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/72ed6ebc-6c93-4e72-83c0-8a6b0f11ef7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/50009989-387b-40bf-b2fb-e2c2cc91aadf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/6c807691-5bd5-4201-a656-0e2386d11027.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/041ca546-204c-48bf-b9c4-ba753cd032df.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/60939df8-b661-4911-b3b6-ef6523da5bc2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/9ed0b919-abba-451e-888d-44cbe1a60372.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/5cfdce2f-d8bc-4ea0-b067-32c64c4fb00c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/60be18fa-69f2-49cd-951d-a58e84661251.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/323051af-6487-43b3-9317-66aa0ae89aa5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/4badb25f-19c5-421f-8151-21e79b1c68fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/6862b266-84fc-41f0-b2e0-774c6a324417.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/406c0433-78e6-4626-b7c7-400a5de1132b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/61077dc3-5787-4108-ac8a-f4358dd2f40a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/9996a546-55b8-47ed-896c-9a99aae1bba5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/1ecc57df-acf3-4775-9623-a0b87880db15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fa97baf3-46f0-4190-b356-efd7de913134/df9d2b10-2d16-48df-9a16-d5b1e7684527.png"
+      ],
+      "expert_review": "Vehicle Overview\nThe Fusion Hybrid, Ford’s first hybrid passenger car, comes to market with technology designed to help drivers operate the car in a more efficient manner. Competitors include the Toyota Camry Hybrid and Chevrolet Malibu Hybrid.\n\nThe gas-only Fusion is covered separately in the Cars.com Research section.\n\nNew for 2011\nThere are no significant changes.\n\nExterior\nThe Fusion Hybrid is based on the gas-powered Fusion that was redesigned for the 2010 model year. It has a few exterior cues that will tip off onlookers that they aren’t looking at a regular Fusion: The hybrid has badges on the front doors and trunklid, plus special 17-inch wheels. Exterior features include:\n\nNew blind spot mirrors for cars not equipped with electronic blind spot warning system\nOptional rain-sensing wipers\n\nInterior\nThe general appearance of the Fusion Hybrid’s cabin hews closely to the looks of the regular model, which is more modern than before but still trails competitors like the Honda Accord in terms of materials quality. The seat fabric in the Fusion Hybrid is made from recycled materials; leather seats are optional.\n\nThe hybrid has a unique gauge cluster that Ford calls SmartGauge with EcoGuide, designed to help drivers save fuel. Efficiency gauges have been done before, but the Fusion Hybrid’s instrument panel takes it to a new level in production cars. It features two LCD screens separated by a traditional speedometer. The screens can be configured to show the driver a limited set of information about the hybrid system or increasingly detailed data. One of the more interesting graphical features available is an animated vine that grows more leaves as the car is driven more efficiently. Interior features include:\n\nStandard 100-volt household power plug\nOptional navigation system\nOptional backup camera\n\nUnder the Hood\nThe Fusion Hybrid is powered by a 2.5-liter four-cylinder engine and an electric motor. A continuously variable automatic transmission sends power to the wheels.\n\nThis is a fairly conventional setup for a hybrid, but the Fusion Hybrid’s system differs from competitors in a key way: While many hybrids are limited to electric-only operation to speeds around 25 mph, Ford says the Fusion Hybrid can travel on electric power alone up to 47 mph.\n\nSafety\nStandard safety features include:\n\nAll-disc antilock brakes\nSide-impact airbags for the front seats\nSide curtain airbags\nElectronic stability system",
+      "trims": [
+        {
+          "name": "Base_Price_8995",
+          "price": "$8995",
+          "specifications": {}
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/ae688e30-9943-4a93-8ac5-cdd507d37cce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/39d3c5d5-4338-4cb9-b7a1-71056efc44d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/fd45ff40-fc5b-4b21-a51a-d284e023c57e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/78382dfc-c2ca-43d8-aeee-fe8879882d4a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/0a2f6653-242e-4ffd-ba3d-b2ce7a5f3c14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/5ff3f4e2-ba9f-41dc-ac4b-e85927c17ba4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/9966ae36-0b05-4a4d-9dc0-b06e80f4f95c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/ae688e30-9943-4a93-8ac5-cdd507d37cce.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/235218ce-a5db-418a-aabe-271213ba3daa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/2d36473f-b18c-41de-9b5e-354c0bbf6b94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/0a96bab2-2d80-4945-ac1e-a4aea75c15f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/d6d06e59-bf80-4a6e-9ff2-24cd4b472eab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/74ce88f9-8567-4f1e-8c50-0e2370d0553c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/45619c24-452b-4508-afac-c47459d07c51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/34b2dfbe-0c68-48cb-bb22-2e1bcbb2bc13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/88dfe5be-8a0c-4224-866a-da57852527dc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/4238774d-adff-4483-88d9-3dd95e8eff67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/8133849b-4488-43f2-b299-f0133fbd45f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/2b0db06e-a3cf-45c0-8e5b-b1010a3d454c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/3fe422b0-6e5e-4cc9-a671-7d7abdb1c251.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/ae50bc07-14d9-4c4b-8dd8-5b00bd389558.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0306bec9-02d1-4bbb-8b77-034f7d7632c9/b3138d77-843d-447f-b4b3-2e993f25658f.png"
+      ],
+      "expert_review": "Editor’s note: Estimated mileage ratings have been lowered to reflect a June 2014 Ford audit of this car’s stated mileage.\n\nThe 2013 Ford Fusion Hybrid has an advantage over some hybrids: The non-hybrid on which it’s based is a great-driving sedan with a quiet interior and composed ride quality — traits that make the hybrid also pleasant to drive.\n\nUnlike other hybrids, the Fusion doesn’t scream, “Look at me, I’m a hybrid!” In fact, it doesn’t look much different from the all-new, non-hybrid 2013 Fusion, and it lacks hybrid-specific driving modes — there are no eco or EV buttons. The Fusion Hybrid further differentiates itself by retaining a folding backseat, which is something other midsize-sedan hybrids sacrifice because their battery packs limit rear seat space and folding functions. The 2013 Fusion Hybrid is available in the SE trim level I tested as well as a higher-content Titanium trim level. You can compare the 2013 Ford Fusion Hybrid with the regular 2013 Fusion and previous 2012 Fusion Hybrid here.\n\nAchieving the Ford Fusion’s initial 47 mpg city/highway and combined EPA-estimated mileage rating proved elusive during my testing. My average mileage was respectable compared with the Toyota Camry, Kia Optima and Hyundai Sonata hybrids, but far from the Fusion Hybrid’s original 47 mpg combined rating. Our observed fuel economy is much more in line with Ford’s corrected 44/41/42 mpg city/highway/combined ratings. Compare the Fusion Hybrid against its competitors here.\n\nFord Updates Fusion Hybrid’s Fuel Economy\nAutomakers generally perform their own fuel-economy testing using EPA guidelines, which are then reported to the EPA. Ford’s testing of the Fusion Hybrid and other vehicles proved inaccurate because of incorrectly calibrated equipment. The resulting 5 mpg drop in combined ratings still puts the Fusion Hybrid in a competitive place compared to the 2014 Hyundai Sonata Hybrid’s 38 mpg combined, 2014 Toyota Camry Hybrid’s 41 mpg combined and 2014 Kia Optima Hybrid’s 38 mpg combined ratings.\n\nAccording to the onboard trip computer, our Ford Fusion Hybrid averaged 40.63 mpg over nearly 250 miles of mixed city and highway driving — well south of Ford’s initial 47 mpg estimate. The 250 miles I traveled is, of course, an abbreviated look compared with the thousands of miles owners will accumulate in different regions, altitudes and temperatures. Only a 1.37 mpg disparity between observed mileage and the new 42 mpg combined rating is a much more understandable difference compared to a 6.37 mpg difference with the old 47 mpg rating.\n\nIn the past, the EPA knocked down the 2012 Sonata Hybrid and Optima Hybrid’s mileage EPA-rated estimates from 37 mpg combined to 36 mpg after an investigation into discrepancies revealed faulty testing. As a result, Hyundai and Kia reimbursed owners for the difference in mileage (read more here); Ford will do the same.\n\n \tMPG\tDuration\n(Hours)\tTemp\nF°\tAvg Speed\nMPH\tMiles\nTrip 1\t46.0\t1:30\t52\t23.2\t34.9\nTrip 2\t43.3\t1:07\t55\t37.6\t42.0\nTrip 3\t39.1\t1:13\t30\t41.3\t50.3\nTrip 4\t42.7\t0:55\t42\t45.1\t41.4\nTrip 5\t43.2\t1:19\t40\t36.2\t47.7\nTrip 6\t29.8\t0:29\t34\t17.6\t8.5\n\nGoing & Stopping\nThe Fusion Hybrid excels where hybrids typically struggle: in the startup of the gasoline engine and in braking. The Fusion Hybrid is a two-mode hybrid that can travel on electric power alone in addition to using the gasoline engine. Many hybrids’ engines start up crudely and send shudders through the whole car.\n\nAs in most hybrids, the Ford Fusion’s gas engine shuts down at a stop to save gas. While not unnoticeable, the new 2.0-liter four-cylinder engine fires up more smoothly than most, whether it’s at a stop or already in motion after driving on electric-only power. A noise-cancellation feature isolates unpleasant noises similar to how noise-canceling headphones work. (The difference is the Fusion Hybrid weeds out bad engine noises rather than annoying airline passengers.) Microphones placed throughout the Fusion Hybrid’s interior pick up engine sounds and send out opposite sound waves through the stereo to cancel unwanted noises.\n\nWhat noises make their way through aren’t the most refined, though their volume and intrusiveness are well in check.\n\nDespite the engine being downsized from the previous-generation hybrid’s 2.5-liter engine, acceleration barely decreases. The lithium-ion battery technology packs more of a wallop than the 2012’s nickel-metal-hydride battery and helps the Fusion Hybrid make a combined 188 horsepower, which is down from 191 hp in 2012. The new battery raises the electric-only speed limit from 47 mph to 62 mph. Getting there without triggering the gas engine requires extremely gentle acceleration.\n\nWhat’s perhaps most intriguing about the Ford Fusion Hybrid is that it doesn’t have any selectable eco, sport or electric-only driving modes to alter throttle or transmission response; competitors, as well as many non-hybrids, do. The Fusion accelerates well enough without those modes and never left me wanting more passing power for daily use.\n\nThe Fusion Hybrid employs regenerative braking that harnesses the electric motor instead of the friction of normal brakes. All hybrids use the technique, which can create jerky braking when the pedal takes an inconsistent amount of pressure to stop the car. The hybrid stops with nearly perfect brake linearity through the whole pedal’s range, feeling 90 percent similar to the non-hybrid Fusion. The remaining 10 percent is how touchily the brake pedal responds to the initial pressing during braking, which takes some acclimation on the driver’s part.\n\nInterior & Features\nOne of the only giveaways that this Fusion is a hybrid version is the hybrid-specific gauge cluster featuring battery life, charge and assist readouts, plus growing vines and leaves that reflect how efficiently you’re driving. One useful display shows the threshold until the gas engine fires up when driving on electric-only power. It was accurate every time and, if I wanted, I could barely nudge the accelerator pedal and creep up in speed without starting the engine as long as that gauge stayed in its “EV” range. Sometimes hybrid efficiency gauges have little rhyme or reason — like the Volkswagen Jetta Hybrid’s — but the Fusion’s are easy to understand.\n\nOtherwise, it’s business as usual inside the Ford Fusion. The standard cloth seats are comfortable and would be my pick over the leather in other Fusions we’ve tested because of their improved grip and softness. Fusion SE starts at $27,995, including a $795 destination charge, making it roughly $1,000 to $1,500 more than competing hybrid sedans. The higher price doesn’t include many additional features over what the competition offers, though the driving experience is more premium.\n\nSE hybrids have similar features as the non-hybrid SE with optional EcoBoost engines; a base engine, non-hybrid SE is a fairly barren model as far as available features. The SE Hybrid Appearance Package ($1,000) adds 18-inch wheels and a spoiler. An SE Hybrid Luxury Package ($2,000) includes leather upholstery with heated front seats, and the Technology Package ($895) includes MyFord Touch and an 8-inch touch-screen. The Hybrid Titanium trim level ($32,995) is equipped with more features than the SE, including leather interior, an upgraded stereo and MyFord Touch multimedia system.\n\nThe finicky MyFord Touch was optioned in the SE we tested, and despite recent revisions, it still proves to be problematic, with an unresponsive touch-screen, small text size and unintuitive operation.\n\nCan’t Do This in the Competition\nI fit a small Christmas tree in the Ford Fusion Hybrid while carrying a passenger in the backseat, a feat not possible in other midsize-sedan hybrids because they don’t include a folding rear seat. All 2013 Fusion Hybrids have a full folding rear seat that has a 60/40 split.\n\nThis common feature among non-hybrids is often eliminated in hybrids to make room for a battery pack, as is the case in the Camry Hybrid, Sonata Hybrid and Optima Hybrid.\n\nThe Fusion Hybrid’s cargo area isn’t unaffected by its hybrid status, though. Like the others, it’s smaller to accommodate the hybrid battery. The trunk shrinks from 16 cubic feet to 12 cubic feet. A raised shelf in the trunk also decreases the overall height of the folding seat opening, though it’s still very usable.\n\nSafety\nFusions built after December 2012 are a Top Safety Pick Plus from the Insurance Institute for Highway Safety. One step above a Top Safety Pick, the Plus designation is given to vehicles that score Acceptable or Good in the agency’s new small overlap front test, which simulates hitting a light pole or tree. The 2013 Fusion receives an Acceptable rating in the new test, the second-to-highest rating. The new test is in addition to the moderate overlap front test, which simulates a front offset collision with another car.\n\nThe Fusion has not been crash-tested by the National Highway Traffic Safety Administration. For a complete listing of safety features, see here.\n\nA Driver Assist Package ($1,000) includes blind spot monitoring that warns of vehicles riding in hard-to-see spots, plus a lane departure warning system to alert you when the vehicle begins to veer off the road.\n\nTo see how well car seats fit in the Fusion Hybrid, see here.\n\nFusion Hybrid in the Market\nThe Ford Fusion Hybrid doesn’t make the same compromises as other sedans-turned-hybrids. The refinement and seamlessness of the Fusion’s hybrid system is commendable, as is its retention of a folding rear seat. Even though its mileage ratings aren’t what they were initially cracked up to be, the Fusion Hybrid still stands out as a worthy consideration.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn SE Hybrid FWD",
+          "price": "$27200",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium Hybrid FWD",
+          "price": "$32100",
+          "specifications": {}
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/0664442e-1535-4fdb-9377-086915c0cfe5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/8dbb9079-b8b6-4c28-ad22-d095b3088ecb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/854dd61d-daa2-41d6-b788-99749ed405fc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/75608dd1-b449-4625-8384-d0604645e7ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/17c31938-c6d7-46cb-b886-a894eb76f6c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/ee8883f5-b86e-4eed-a83e-8b035adf2f15.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/19356c8d-dc6c-46fc-b40a-006b57240372.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/4a6f4e04-cbe9-4bc5-ab41-90f0d5ba304b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/e3c5b893-2e23-4023-a7c2-99d64a46e654.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/17b1d2d8-40aa-4ad3-b4a0-0870986221bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/fca06ebc-d87e-4bea-9177-65800cef4559.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/ab570591-f3cb-4de0-889f-a64cd3183b2c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/dc73c791-275f-4fa4-b15b-d4b67fee1806.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/0acde19f-831b-495e-bea3-7bf2e341a373.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/04d89bf1-055e-4e3f-b73e-1fa04cb7c05a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/f51dcbd3-88ae-4bae-beca-83f23c2084cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/d50d9937-08e6-429d-8a0d-ebec1fc46580.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/d2d224cc-c6c8-409b-b912-07501b247f6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/b0f965ea-6845-482a-b010-066d5108a861.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7518328a-4147-4ec4-b0f2-af6273303744/4a425fe5-4298-48d8-95a9-73e75f16e553.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/dfa3324f-9d6d-4520-9805-67cd62575ad1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/2513c379-b838-4555-908d-5aad441e4549/493cfa27-6d6d-4935-8ab8-1a5a48a6566d.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Ford Fusion Hybrid is based on the Fusion midsize sedan and gets an EPA-estimated 42 mpg in combined city/highway driving. It also has a sleek design and many available driver-assistance features. Competitors include the Toyota Camry Hybrid and diesel-powered Volkswagen Passat TDI. Ford also sells a plug-in hybrid version called the Fusion Energi.\n\n(Skip to details on the: Fusion Energi)\n\nNew for 2016\nA Cold Weather Package for the SE trim level includes all-weather floormats, remote start and heated cloth seats.\n\nSignificant Standard Features\n\n2.0-liter four-cylinder gas engine and electric motor make a combined 188 horsepower\nElectronically controlled continuously variable automatic transmission\nLithium-ion battery powers the electric motor\nHybrid-specific gauge cluster\nAutomatic air conditioning\nSplit-folding backseat\nBackup camera\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\n\nSignificant Available Features\n\nPower moonroof\nAdaptive cruise control\nLeather seats\nMyFord Touch multimedia system\nNavigation system\nInflatable rear seat belts\nLane departure warning and prevention\nBlind spot warning system with rear cross-traffic alert\n\nFusion Energi\n\nAt full charge, the Fusion Energi is capable of traveling up to 19 miles on electric power with a combined total range of around 550 miles. It can reach speeds up to 85 mph in electric-only mode, according to Ford.\n\nWhat’s Special\n\nPowertrain is similar to Fusion Hybrid but features a larger battery\nCan be charged by a 240- or 120-volt power source\nTrunk space drops from the Fusion Hybrid’s 12 cubic feet to 8.2 cubic feet because of the larger battery\nStop-start technology, low-rolling-resistance tires and regenerative braking for increased fuel efficiency\n\nBack to top",
+      "trims": [
+        {
+          "name": "4dr Sdn S Hybrid FWD",
+          "price": "$25675",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE Hybrid FWD",
+          "price": "$26480",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium Hybrid FWD",
+          "price": "$31430",
+          "specifications": {}
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/a781b1f3-7545-4358-8e8e-8ec8ed5edbe5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/a33db559-2f0a-4157-976c-c2e137e01ea2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/b583fc9e-73f4-4106-b03e-a1b3cd2c0a07.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/cbef287a-a7b6-4216-aa3e-f155cdc3125f/e4c7e5a3-7707-455d-ac87-ebe665f3f7d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/c336af75-3c8e-4387-80b4-9a06c0a060c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/bd38951c-f19d-4cc1-a3ba-4468503d0e9b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/62545ab4-d517-4b8b-a47f-d927b61b5d56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/e918894d-edc4-4032-8d6d-d4d391c070a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/c8d442d8-c076-4683-acae-812a3bf660e3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/f21500af-fb36-40dd-9c4a-d25421ad1815.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/f507c34e-f8bf-4826-94ca-3e18448015e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/b763d7bd-8bdd-425f-929d-3131ee388990.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/29eb9679-ca47-44a0-b7b0-1da5037ec891.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/bb0a163e-0020-4c7e-865f-8a22c6629763.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/cb2b7ec9-ca01-4964-b9fb-3a7dd07e4c05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/8ec4235c-3aaa-4ca6-8b42-fd1147fb102f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/5e9bf74a-14a9-4a22-bdc2-1cb33921797c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/3783c9ed-51fe-4e8e-a002-24f5703058be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/edf80f14-95a4-4b86-9d74-b1945f0d6894.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/c6c28c00-9b75-4e64-b037-266e8adf3090.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/9fd05975-f89d-4009-98b7-9407620763d7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/d0121a1a-6687-441b-94fe-f754b7e361e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/2e842bfb-14ae-4b0c-8d15-50d27ecf201d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/dcf7d3ee-f1b8-44ac-a49e-b98e143f05a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/c4f8b74c-1faf-4642-b7ea-082b1ed66ffe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/46f301dc-56c4-4376-9a1f-d6e1705f6ce5/0069deb7-bdff-4a5c-8695-6e95f44f04cd.png"
+      ],
+      "expert_review": "What Is the 2020 Ford Fusion?\n\nThe Ford Fusion is a mid-size sedan that seats up to five people. A 175-horsepower, 2.5-liter four-cylinder engine is standard, but a selection of turbocharged four-cylinder engines is available. Hybrid and plug-in hybrid (Energi) variants are also offered. All engines pair with a six-speed automatic transmission, except for the hybrid versions, which have a continuously variable automatic. Front-wheel drive is standard and all-wheel drive is optional. Competitors include the Honda Accord, Toyota Camry and Hyundai Sonata.\n\nWhat’s New on the 2020 Ford Fusion?\n\nThe FordPass Connect telematics system is now standard.\n\nWhat Features in the 2020 Ford Fusion Are Most Important?\n\nStandard active safety features include forward collision warning with pedestrian detection, automatic emergency braking, lane-keeping assist, blind spot warning with rear cross-traffic alert and automatic high-beam headlights.\n\nAvailable features include adaptive cruise control with stop-and-go capability, dual-zone automatic air conditioning, power-adjustable front seats, leather-trimmed seats, heated and ventilated front seats, a heated steering wheel, a power moonroof, an 8-inch touchscreen multimedia system, navigation, a Sony premium stereo and Apple CarPlay and Android Auto smartphone connectivity.\n\nShould I Buy the 2020 Ford Fusion?\n\nThe Fusion remains a good-driving mid-size sedan with noteworthy ride and handling. The available Sync 3 touchscreen multimedia system is easy to use, but the car’s backseat feels cramped and thick pillars limit forward visibility. The Fusion was last redesigned for the 2013 model year, and Ford says this is the last generation of the sedan. Going forward, the automaker is turning the bulk of its attention to SUVs and trucks.",
+      "trims": [
+        {
+          "name": "SE FWD",
+          "price": "$28000",
+          "specifications": {}
+        },
+        {
+          "name": "SEL FWD",
+          "price": "$31630",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium FWD",
+          "price": "$34595",
+          "specifications": {}
+        }
+      ]
+    },
+    "2014": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/06c2ee06-7745-4e4e-bdde-3f9145473a3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/b1df714a-b8b5-4b28-b07c-beca63e243c8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/34f8847d-3024-4d9b-8c14-d01e2616196b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/d81fa9ed-010e-49eb-b227-95d479fbee31.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/b3c48476-6ac9-4424-be23-1e3f9c700c35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/7ce6ff8b-4dcc-49b1-a9a6-6ae48392f24c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/4be6483e-1bb1-48ca-bd50-9987eb8ba20c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/05e24c5a-f771-4910-82ee-2c6d845be537.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/1d7df887-ea5a-4296-8021-5ea238c66f4e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/8434c350-e45d-4984-a387-245b5036fa8c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/957c3551-e338-4d34-bb5f-f924ec67384c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/c34afb3b-b849-4e25-b840-16cc3a79e06d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/c178c205-ed98-4476-b105-0f3e7a715380.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/bdfe44cf-3de9-40e5-ba6c-25807b1c0cdb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/a8f57e7e-7fe0-4a1b-8b50-d18a9ace9382.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/e2875769-53a0-4cab-9094-a0a715239b91.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/34f8847d-3024-4d9b-8c14-d01e2616196b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/706d328e-7b12-44e7-a87a-e41c9972b66c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/c114cf37-9792-4b9b-9f5b-716301ff89f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/7d4c97c9-ed48-4bab-af5e-e8d5d610bf7c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/209a99e9-bb02-47ac-9b5c-fbabcb5123cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6b369f35-2037-45a2-8c23-5487e38587a8/c80e5604-a33f-468f-812b-40b8fc128035.png"
+      ],
+      "expert_review": "Editor’s note: Estimated mileage ratings have been lowered to reflect a June 2014 Ford audit of this car’s stated mileage.\n\nEditor’s note: This review was written in January 2013 about the 2013 Ford Fusion Hybrid. Little of substance has changed with this year’s model. To see what’s new for 2014, click here, or check out a side-by-side comparison of the two model years.\n\nThe 2013 Ford Fusion Hybrid has an advantage over some hybrids: The non-hybrid on which it’s based is a great-driving sedan with a quiet interior and composed ride quality — traits that make the hybrid also pleasant to drive.\n\nUnlike other hybrids, the Fusion doesn’t scream, “Look at me, I’m a hybrid!” In fact, it doesn’t look much different from the all-new, non-hybrid 2013 Fusion, and it lacks hybrid-specific driving modes — there are no eco or EV buttons. The Fusion Hybrid further differentiates itself by retaining a folding backseat, which is something other midsize-sedan hybrids sacrifice because their battery packs limit rear seat space and folding functions. The 2013 Fusion Hybrid is available in the SE trim level I tested as well as a higher-content Titanium trim level. You can compare the 2013 Ford Fusion Hybrid with the regular 2013 Fusion and previous 2012 Fusion Hybrid here.\n\nAchieving the Fusion’s initial 47 mpg city/highway and combined EPA-estimated mileage rating proved elusive during my testing. My average mileage was respectable compared with the Toyota Camry, Kia Optima and Hyundai Sonata hybrids, but far from the Fusion Hybrid’s original 47 mpg combined rating. Our observed fuel economy is much more in line with Ford’s corrected 44/41/42 mpg city/highway/combined ratings. Compare the Fusion Hybrid against its competitors here.\n\nFord Updates Fusion Hybrid’s Fuel Economy\nAutomakers generally perform their own fuel-economy testing using EPA guidelines, which are then reported to the EPA. Ford’s testing of the Fusion Hybrid and other vehicles proved inaccurate because of incorrectly calibrated equipment. The resulting 5 mpg drop in combined ratings still puts the Fusion Hybrid in a competitive place compared to the 2014 Hyundai Sonata Hybrid’s 38 mpg combined, 2014 Toyota Camry Hybrid’s 41 mpg combined and 2014 Kia Optima Hybrid’s 38 mpg combined ratings.\n\nAccording to the onboard trip computer, our Fusion Hybrid averaged 40.63 mpg over nearly 250 miles of mixed city and highway driving — well south of Ford’s initial 47 mpg estimate. The 250 miles I traveled is, of course, an abbreviated look compared with the thousands of miles owners will accumulate in different regions, altitudes and temperatures. Only a 1.37 mpg disparity between observed mileage and the new 42 mpg combined rating is a much more understandable difference compared to a 6.37 mpg difference with the old 47 mpg rating.\n\nIn the past, the EPA knocked down the 2012 Sonata Hybrid and Optima Hybrid’s mileage estimates from 37 mpg combined to 36 mpg after an investigation into discrepancies revealed faulty testing. As a result, Hyundai and Kia reimbursed owners for the difference in mileage (read more here); Ford will do the same.\n\n \tMPG\tDuration\n(Hours)\tTemp\nF°\tAvg Speed\nMPH\tMiles\nTrip 1\t46.0\t1:30\t52\t23.2\t34.9\nTrip 2\t43.3\t1:07\t55\t37.6\t42.0\nTrip 3\t39.1\t1:13\t30\t41.3\t50.3\nTrip 4\t42.7\t0:55\t42\t45.1\t41.4\nTrip 5\t43.2\t1:19\t40\t36.2\t47.7\nTrip 6\t29.8\t0:29\t34\t17.6\t8.5\n\nGoing & Stopping\nThe Fusion Hybrid excels where hybrids typically struggle: in the startup of the gasoline engine and in braking. The Fusion Hybrid is a two-mode hybrid that can travel on electric power alone in addition to using the gasoline engine. Many hybrids’ engines start up crudely and send shudders through the whole car.\n\nAs in most hybrids, the Fusion’s gas engine shuts down at a stop to save gas. While not unnoticeable, the new 2.0-liter four-cylinder engine fires up more smoothly than most, whether it’s at a stop or already in motion after driving on electric-only power. A noise-cancellation feature isolates unpleasant noises similar to how noise-canceling headphones work. (The difference is the Fusion Hybrid weeds out bad engine noises rather than annoying airline passengers.) Microphones placed throughout the Fusion Hybrid’s interior pick up engine sounds and send out opposite sound waves through the stereo to cancel unwanted noises.\n\nWhat noises make their way through aren’t the most refined, though their volume and intrusiveness are well in check.\n\nDespite the engine being downsized from the previous-generation hybrid’s 2.5-liter engine, acceleration barely decreases. The lithium-ion battery technology packs more of a wallop than the 2012’s nickel-metal-hydride battery and helps the Fusion Hybrid make a combined 188 horsepower, which is down from 191 hp in 2012. The new battery raises the electric-only speed limit from 47 mph to 62 mph. Getting there without triggering the gas engine requires extremely gentle acceleration.\n\nWhat’s perhaps most intriguing about the Fusion Hybrid is that it doesn’t have any selectable eco, sport or electric-only driving modes to alter throttle or transmission response; competitors, as well as many non-hybrids, do. The Fusion accelerates well enough without those modes and never left me wanting more passing power for daily use.\n\nThe Fusion Hybrid employs regenerative braking that harnesses the electric motor instead of the friction of normal brakes. All hybrids use the technique, which can create jerky braking when the pedal takes an inconsistent amount of pressure to stop the car. The hybrid stops with nearly perfect brake linearity through the whole pedal’s range, feeling 90 percent similar to the non-hybrid Fusion. The remaining 10 percent is how touchily the brake pedal responds to the initial pressing during braking, which takes some acclimation on the driver’s part.\n\nInterior & Features\nOne of the only giveaways that this Fusion is a hybrid is the hybrid-specific gauge cluster featuring battery life, charge and assist readouts, plus growing vines and leaves that reflect how efficiently you’re driving. One useful display shows the threshold until the gas engine fires up when driving on electric-only power. It was accurate every time and, if I wanted, I could barely nudge the accelerator pedal and creep up in speed without starting the engine as long as that gauge stayed in its “EV” range. Sometimes hybrid efficiency gauges have little rhyme or reason — like the Volkswagen Jetta Hybrid’s — but the Fusion’s are easy to understand.\n\nOtherwise, it’s business as usual inside the Fusion. The standard cloth seats are comfortable and would be my pick over the leather in other Fusions we’ve tested because of their improved grip and softness. Fusion SE starts at $27,995, including a $795 destination charge, making it roughly $1,000 to $1,500 more than competing hybrid sedans. The higher price doesn’t include many additional features over what the competition offers, though the driving experience is more premium.\n\nSE hybrids have similar features as the non-hybrid SE with optional EcoBoost engines; a base engine, non-hybrid SE is a fairly barren model as far as available features. The SE Hybrid Appearance Package ($1,000) adds 18-inch wheels and a spoiler. An SE Hybrid Luxury Package ($2,000) includes leather upholstery with heated front seats, and the Technology Package ($895) includes MyFord Touch and an 8-inch touch-screen. The Hybrid Titanium trim level ($32,995) is equipped with more features than the SE, including leather interior, an upgraded stereo and MyFord Touch multimedia system.\n\nThe finicky MyFord Touch was optioned in the SE we tested, and despite recent revisions, it still proves to be problematic, with an unresponsive touch-screen, small text size and unintuitive operation. See here for a complete listing of available features.\n\nCan’t Do This in the Competition\nI fit a small Christmas tree in the Fusion Hybrid while carrying a passenger in the backseat, a feat not possible in other midsize-sedan hybrids because they don’t include a folding rear seat. All 2013 Fusion Hybrids have a full folding rear seat that has a 60/40 split.\n\nThis common feature among non-hybrids is often eliminated in hybrids to make room for a battery pack, as is the case in the Camry Hybrid, Sonata Hybrid and Optima Hybrid.\n\nThe Fusion Hybrid’s cargo area isn’t unaffected by its hybrid status, though. Like the others, it’s smaller to accommodate the hybrid battery. The trunk shrinks from 16 cubic feet to 12 cubic feet. A raised shelf in the trunk also decreases the overall height of the folding seat opening, though it’s still very usable.\n\nSafety\nFusions built after December 2012 are a Top Safety Pick Plus from the Insurance Institute for Highway Safety. One step above a Top Safety Pick, the Plus designation is given to vehicles that score Acceptable or Good in the agency’s new small overlap front test, which simulates hitting a light pole or tree. The 2013 Fusion receives an Acceptable rating in the new test, the second-to-highest rating. The new test is in addition to the moderate overlap front test, which simulates a front offset collision with another car.\n\nThe Fusion has not been crash-tested by the National Highway Traffic Safety Administration. For a complete listing of safety features, see here.\n\nA Driver Assist Package ($1,000) includes blind spot monitoring that warns of vehicles riding in hard-to-see spots, plus a lane departure warning system to alert you when the vehicle begins to veer off the road.\n\nTo see how well car seats fit in the Fusion Hybrid, see here.\n\nFusion Hybrid in the Market\nThe Fusion Hybrid doesn’t make the same compromises as other sedans-turned-hybrids. The refinement and seamlessness of the Fusion’s hybrid system is commendable, as is its retention of a folding rear seat. Even though its mileage ratings aren’t what they were initially cracked up to be, the Fusion Hybrid still stands out as a worthy consideration.\n\nemail",
+      "trims": [
+        {
+          "name": "4dr Sdn S Hybrid FWD",
+          "price": "$26270",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE Hybrid FWD",
+          "price": "$27280",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium Hybrid FWD",
+          "price": "$32600",
+          "specifications": {}
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/f85acd18-2b24-47e9-93c2-fe3403d2235b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/d0288806-b1de-4552-a497-3b397bf10dca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/0a05dbdd-c55b-4177-9022-ab8a77b9d637.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/63f8b83d-df29-40de-a776-5e863135d369.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/16c852cd-c296-494d-b125-4f69ca737671.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/b5f17edf-cecb-4cfb-89a9-d64d9cf72286.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/191b91a3-3d9b-4593-aa85-5f4524ba0fb0/966bfa0e-3ce4-4562-8a79-1990e8a45f2f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/4b186be5-9f5e-45c5-b9a3-fb0ded958b32.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/2af6b3ba-2af2-4542-b9c5-d6d8261fd0e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/1db270a0-3437-4ad6-8cea-9d4e5fd3c3ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/0e1062e5-67e7-4273-b5a6-c643d5432336.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/9e73bf1c-9cfa-493e-9735-73af5e09ab20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/687b006b-592e-41aa-b3aa-5508a60d1487.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/e080e1c6-2e4b-4825-abce-9a3f9578cb45.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/f9212694-19fb-42c0-bd66-c2b011c1a0d3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/d6ae54e4-529e-4ce2-8e2e-972cb4686168.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/a429e496-2437-405c-9d6a-faddb29bd973.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/06643de6-f90d-48d2-83cf-496d4a7ca924.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/818fd679-0318-4b2d-9aa0-0da379cad7ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/8675898d-5cc8-4ac0-964b-93577644c777.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/6518342f-cb72-466c-9ef7-e1c9fc97f79c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/703b82a6-9a2d-4fcc-a3eb-c9825f3e6301.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/46699bd2-e9fc-4794-b16a-e7ddd6caa854.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/7f70b2ac-b46e-4872-a075-e60288ebf8a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/bcf8e505-8652-40cb-8056-715fe91bf082.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3b081463-cf95-495f-9aad-d0ab8f97484f/c42a5c93-263e-472f-a34f-46409a77a305.png"
+      ],
+      "expert_review": "What Is the 2019 Ford Fusion?\n\nThe Ford Fusion is a mid-size sedan that seats up to five people. A 175-horsepower, 2.5-liter four-cylinder engine is standard, but a selection of turbocharged engines is available, including a 325-hp, twin-turbo 2.7-liter V-6 that goes in the Sport trim level. Hybrid and plug-in hybrid (Energi) variants are also offered. Front-wheel drive is standard and all-wheel drive is optional. Competitors include the Honda Accord, Toyota Camry and Nissan Altima.\n\nWhat’s New on the 2019 Ford Fusion?\n\nStandard active safety features include forward collision warning with pedestrian detection, automatic emergency braking, lane keep assist, blind spot warning with rear cross-traffic alert, and automatic high-beam headlights. The sedan also gets front and rear styling updates.\n\nWhat Features in the 2019 Ford Fusion Are Most Important?\n\nStandard features include air conditioning, cloth upholstery, a 60/40, split-folding backseat, cruise control, rain-sensing windshield wipers and push-button start. Available features include adaptive cruise control with stop-and-go capability, dual-zone automatic air conditioning, power-adjustable front seats, leather upholstery, heated and ventilated front seats, a heated steering wheel, a power moonroof, remote start, an 8-inch touchscreen multimedia system, navigation, a Sony premium stereo, and Apple CarPlay and Android Auto smartphone connectivity.\n\nShould I Buy the 2019 Ford Fusion?\n\nThe Fusion’s ride and handling is a highlight, along with the performance-oriented Sport trim level, which is fun to drive. The available Sync 3 touchscreen multimedia system is easy to use, but the backseat is cramped, and thick roof pillars limit forward visibility. The Fusion was last redesigned for the 2013 model year and is nearing the end of its run; Ford has said this will be the final generation of the sedan.",
+      "trims": [
+        {
+          "name": "SE FWD",
+          "price": "$27555",
+          "specifications": {}
+        },
+        {
+          "name": "SEL FWD",
+          "price": "$31520",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium FWD",
+          "price": "$34485",
+          "specifications": {}
+        }
+      ]
+    },
+    "2015": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/f403c701-b79c-4235-9eb3-b2c121066999.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/a4a92673-0a64-49b6-a84a-218c02acb3e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/4911f268-5bb3-4c3f-9c79-00cb6d9d509a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/ae6a9a58-59b2-460e-9291-70dd79a58d20.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/22ad5c17-6edf-45ca-a513-d55b54579e82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/c0a3e872-c574-4351-88dc-5b7727218f85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/55ef229c-ed8d-4747-b0a5-9df5cf46d9e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/31264a0c-d4dd-476c-8924-8f6e975c0df6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/9805a87f-9435-4ab0-bf2b-4d652ddbaecd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/731a0db1-3e7d-42e8-bc04-a8f91d563b8d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0c394b43-e529-4608-bb42-13c31caa3d28/2a771f40-5432-40f3-9b80-7c0e60e9b6bf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/edf3970e-4278-4776-8580-0f889c524d70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/6e961023-a43e-489d-817c-25010352edf8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/b673ab07-ac5e-4b00-8436-07114bee2824.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/42872098-68b3-4d6c-b8ab-1ada39093b81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/50f4a954-f9dc-471e-87dd-683e3b4d057a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/d6c7d017-91a8-40cf-bc0c-9d06acc41956.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/813e8d40-0362-4bcb-a4ed-ce888d22c02f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/9c035732-91f2-492d-95be-fc40e96f4bec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/e83176c2-4b37-4e42-a2d1-75c4bfd0af21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/06c2b8ec-518e-4bc2-96c0-02f471440528.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/dd457591-4263-4ac2-9562-dede1d75b620/7378fad7-8834-4eb5-8914-5955eb51ff30.png"
+      ],
+      "expert_review": "Vehicle Overview\n\nThe Ford Fusion Hybrid is based on the Fusion midsize sedan and gets an EPA-estimated 42 mpg in combined city/highway driving. It also has a sleek design and many available driver-assistance features. Competitors include hybrid versions of the Toyota Camry and Honda Accord as well as the diesel-powered Volkswagen Passat TDI. Ford also sells a plug-in hybrid version called the Fusion Energi.\n\n(Skip to details on the: Fusion Energi)\n\nNew for 2015\nA backup camera is now standard. A Terracotta Package for SE and Titanium trim levels includes terracotta leather-trimmed seats and door inserts, premium floor mats and 17-inch alloy wheels. SE models gain a six-way power passenger seat while the Titanium adds a 10-way power passenger seat.\n\nThe below is a list of highlighted features and not an exhaustive list. Features are standard unless otherwise noted.\n\nExterior Highlights\n\n17-inch alloy wheels\nAutomatic headlights; available fog lights\nAvailable power moonroof\nAvailable rear spoiler\n\nInterior Highlights\n\nHybrid-specific gauge cluster\nAutomatic air conditioning\nCruise control; adaptive cruise control available\nCloth seats; leather available\nFolding backseat\nAvailable MyFord Touch multimedia system\nAvailable navigation system\nAvailable active park assist\n\nUnder the Hood\n\n2.0-liter four-cylinder gas engine and electric motor make a combined 188 horsepower\nElectronically controlled continuously variable transmission\nLithium-ion battery powers the electric motor\n\nSafety Features\n\nRequired in every new car: front airbags, antilock brakes and an electronic stability system\nBackup camera\nSide-impact airbags for the front seats\nSide curtain airbags\nFront knee airbags\nBackup camera\nAvailable inflatable rear seat belts\nAvailable lane departure warning and prevention\nAvailable blind spot warning system with rear cross-traffic alert\n\nFusion Energi\nAt full charge, the Fusion Energi is capable of traveling up to 19 miles on electric power with a combined total range of around 550 miles. It can reach speeds up to 85 mph in electric-only mode, according to Ford.\n\nWhat’s Special\n\nPowertrain is similar to Fusion Hybrid but features a larger battery\nCan be charged by a 240- or 120-volt power source\nTrunk space drops from the Fusion Hybrid’s 12 cubic feet to 8.2 cubic feet because of the larger battery\nStop-start technology,  low-rolling-resistance tires and regenerative braking for increased fuel efficiency\n\nBack to top",
+      "trims": [
+        {
+          "name": "4dr Sdn S Hybrid FWD",
+          "price": "$26575",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn SE Hybrid FWD",
+          "price": "$27380",
+          "specifications": {}
+        },
+        {
+          "name": "4dr Sdn Titanium Hybrid FWD",
+          "price": "$32330",
+          "specifications": {}
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/cbaaf86b-8157-4e3f-9e37-e3fd0e1dcd38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/ba004906-35c4-42f4-844d-e227f3d8b89a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/81abd2ad-0152-4a27-93a4-2a7493143f4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/fa8f0bca-0980-4ce7-a50a-db12e3782113.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/6274ba47-f023-4030-a982-66d98692b9b0.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/627e3d2f-d131-4931-b06c-0211e60d5188/d52974df-f7a2-4ba2-b3dd-e8ef841a4b38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/3f98a0e7-a61e-4e0c-8792-2f21b49f0e22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/f7da13ea-74e6-4d71-bc4f-1f038d3368b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/452b9c19-c137-453f-8cbf-5e317fa645cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/5d1700ea-5c3e-436e-98d8-57dd9a5631ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/b9d7be7f-9d7b-4cab-ae04-813f7868044a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/1cbab04f-a4aa-4f2c-bea2-05cc0e2c0cbb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/35598250-54f7-4867-bc9f-bd58ffb8044a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/c7e99f25-7275-4ecc-a93b-f2ac562f062c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/be8e32ce-7e50-46a9-98fb-a29c5f1b5887.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/a6c74356-1994-430b-9806-d09bbd9ba765.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/aafc7244-6410-4859-8cc6-74d32fc11ee7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8a175364-f1d8-428d-aa40-43b04e0d86b6/e8cd53cc-a78b-4319-8fc3-b064c1836807.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Hybrid S FWD",
+          "price": "$25785",
+          "specifications": {}
+        },
+        {
+          "name": "Hybrid SE FWD",
+          "price": "$26590",
+          "specifications": {}
+        },
+        {
+          "name": "Hybrid Titanium FWD",
+          "price": "$31120",
+          "specifications": {}
+        },
+        {
+          "name": "Hybrid Platinum FWD",
+          "price": "$37130",
+          "specifications": {
+            "Highlights": [
+              "22 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas/Electric I-4 Engine Type",
+              "188 @ 6000 SAE Net Horsepower @ RPM",
+              "129 @ 4000 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,615 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2018": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/9aa8a30f-810e-45f7-b3e4-ca29acb71786.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/45ec87c5-6398-4568-ba73-e4f1accaee55.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/4c291286-519b-4c44-aaf0-ce54ceca32cb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/3e8006b8-a172-468e-9104-5351a8763f1f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/e115d880-6945-445d-9a25-8b93fbd26474.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/f7f73f8a-0bf3-4c4c-afd3-f17804ac64d2.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2bd0c7cd-5d8c-4a22-87fb-5dba83cc0e46/19b60d2c-d991-4e61-8861-9270978751ba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/83ab2913-2ea9-4581-aa3c-749bfcc4d455.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/b9cdcc0e-dab2-40fb-aa2b-b84041593a78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/8a1f9679-d79d-4bca-b036-20dad9767686.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/4421963a-a574-4ffb-a511-d8f0c7793145.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/5f6fc95b-e454-4bdf-88f8-b2e59b6883c0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/be3d2398-5af3-4c6d-a1a1-033d61c17c3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/6d0b69d9-0a16-40b7-a73a-982050647633.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/abfb19a4-2d04-4abb-a474-9d8641949a1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/25534114-1e74-4df3-9396-cce23fa19658.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/2f1e1f96-c095-4a4e-a47e-6c5c9522c303.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/abf97d8a-24b5-4a18-adc2-d0cf096270bb/a4cd7945-c3e7-4acc-99e1-65f7bf258983.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S FWD",
+          "price": "$25390",
+          "specifications": {}
+        },
+        {
+          "name": "SE FWD",
+          "price": "$26340",
+          "specifications": {}
+        },
+        {
+          "name": "Titanium FWD",
+          "price": "$30870",
+          "specifications": {}
+        },
+        {
+          "name": "Platinum FWD",
+          "price": "$37370",
+          "specifications": {
+            "Highlights": [
+              "21 mi. Range",
+              "5 Seat capacity",
+              "60 month/60,000 miles Warranty",
+              "Gas/Electric I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "129 @ 4000 SAE Net Torque @ RPM",
+              "188 @ 6000 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,615 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "500 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "12 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

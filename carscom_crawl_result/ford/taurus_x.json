@@ -1,0 +1,783 @@
+{
+  "make": "ford",
+  "model": "taurus_x",
+  "years": {
+    "2008": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/5317d57a-7216-42a1-a23d-0081fc46a6a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/e76a1eb0-6cba-4d8a-b221-0803873fe609.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/288c4408-5fd3-4b1b-9c76-5b913de6576e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/9ef16cbd-64a1-4bf0-ac5f-dfc7b5792573.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/274e65a3-082f-47bd-99cf-f0041cbe6e1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/134e9074-c723-45df-a843-cf30ff720543.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/51f270cc-a18e-486e-b69d-2322681bccbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/70f1b337-3127-495c-898a-361085b28a35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/c57bdcf8-d615-46fb-8d16-3dfafd36d05f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/ec73d8e1-5f98-4006-8fe9-ef7fb7810137.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/ac9a31d2-027e-43a1-b418-388817c45be3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/23a6545b-58fc-40c7-ae28-537bf10da553.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/c8c4e3df-4e0f-4379-8191-ca7cb1f183aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/92ea99c1-1ef5-4378-89c4-dcbcccc3fddf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/06b30e83-b4c7-4600-9042-3faa4cf76ada.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/66b29024-4010-4766-b5cf-aa6b36cd803f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/29237373-cdbb-410e-afcb-42ee6776e7ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/ec576717-dfe8-4854-95ca-c53e28520136.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/bbf68714-7d0b-4034-acef-2b3dc4321732.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/86040eb1-2b52-46b3-a721-c0683c4d6717.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/1d5d6fee-d4ee-43bd-bdc6-321d8ec78395.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/c8332c0f-394a-4a04-8d80-666ab09a2ccc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/e45e8083-545f-4e0b-9c39-8606114866b3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/48041a3b-4895-416b-8861-79f6f58d3abf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/33129f9d-5b9c-4d1d-9f5a-b9435698e51c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/2b36efad-d495-4bdb-8a90-18b8041bd1dc.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5aa0ab96-87f6-45bf-b9fe-c5c8da3c0de1/8729d404-0462-4deb-b9a6-cf459bbf2795.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/2e41f3b8-138a-4d37-bbbc-c0b2533e9d0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/d0896be7-13af-4ef9-9dc6-cb50590ca628.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/533ac9a0-c8cd-4107-a288-6dec414244e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/55ec05f2-cf74-448d-b0aa-068cb591807e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/a2239e39-85e7-4819-b23e-72fdb1b50280.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4438b4c5-e0d5-42db-9bce-532701560e8a/57cd5b83-d942-42c1-88c6-28f28c41cd95.png"
+      ],
+      "expert_review": "Credit Alan Mulally, who became president of Ford a little more than a year ago, and asked why the mid-size Taurus sedan had been renamed Five Hundred.\n\nTaurus, he reminded, was a well-known nameplate that at one time outsold every passenger car — evenToyota Camry and Honda Accord.\n\nAfter picking himself up off the floor when told Five Hundred gave Ford a name starting with “F,” Mulally revived Taurus for 2008. Ditto for the Freestyle crossover, now Taurus X.\n\nHaving tested the 2008 Taurus sedan (Transportation, Sept. 9, 2007), we now check out the X, offered in SEL and Limited trim in front- or all-wheel-drive. We drove the AWD Limited.\n\nChanging names solved only one problem. Folks also didn’t like the look of Five Hundred or Freestyle, and they howled that the 3-liter, 203-horsepower V-6 powering both snored.\n\nSo Taurus and X sport new front ends with large three-bar chrome grilles that have proved popular on the mid-size Fusion sedan and Edge crossover.\n\nAnd a 3.5-liter, 263-h.p. V-6 spirits the crossover away from the light or past the Camry lingering in the center lane.\n\nBut the more-lively 3.5 growls when accelerating. If the X was a high-power derivative from Ford’s Special Vehicle Operation, the growl would be tolerable. Instead, it’s just irritating.\n\nThe quicker V-6 needs to be quieter because drivers equate quiet with quality.\n\nRide is bump-free, but you may need to brace on the center armrest in corners at speed to compensate for station wagon-like body lean. Yeah, station wagon. Just like the duck, if it looks like a wagon and acts like a wagon then it’s a wagon.\n\nMinivans replaced those oh-so-unfashionable wagons, and now crossovers are elbowing out the equally gauche minivans in the hearts and minds of those who haul a DVD entertainment system and iPod instead of a potty chair and crib.\n\nThe AWD system is an on-demand unit that sends torque to whichever wheel needs better grip when it detects slippage. AdvanceTrac stability control and traction control are standard (weren’t even offered on Freestyle) for added security on twisties or slipperies. On snow-packed roads X rates an “S” for security. But it costs you at the pump: Fuel economy is 15 m.p.g. city/22 m.p.g. highway with AWD versus 18/28 with FWD.\n\nX comes with three rows of seats. Second row offers very good head and above average knee room if no one is in the third row and you can slip Row No. 2 back a few inches. If someone is in No. 3, knee room in the middle is tolerable.\n\nPull a strap and lever to fold and flip second-row seats to open a spacious aisle to row three. Too much work? Press a button and watch the seats fold and flip on their own. Returning the seat to its upright position is manual labor, however.\n\nThird-row knee room is decent if those in the second row can slide forward; tight if they can’t.\n\nIf the headrests are lowered all the way in the back rows, the bulge at the top of the seat bites your upper back. Ouch.\n\nLarge consoles between seats in the first two rows offer storage, cupholders and power plugs. The front console also has a hard-to-reach coin holder. Useless.\n\nLimited comes with perforated leather seats to prevent slipping or sticking. But seats are too flat, bottoms too short for thigh support, and bolsters too slim to hold you in place in aggressive driving. Fashion gone too far? The cargo hold is a deep well in back. Good room for suitcases or gear. Pull straps to fold and flip third-row seats into the well — sorry, no power assist here — to create a large, flat cargo floor. Second-row seats also go flat for even more space.\n\nFor the first time you can get a power hatchlid to make loading/unloading less of a chore.\n\nTaurus X offers Sync as standard. That’s the system developed with Microsoft that provides voice-command compatibility with portable digital media players and most Bluetooth-enabled phones. Tech challenged, we literally called on Sync for its easy-to-activate radio and navigation systems ($1,995), though, honestly, saying “radio on” hardly requires four years at Harvard.\n\nPress a button and say “help,” and the navi screen lists all of Sync’s “vital” services — among them the golf course. Why? Now, that would require a Harvard degree.\n\nThe AWD Taurus X Limited starts at $32,185. Along with power windows/locks/seats/mirrors and air conditioning, nice touches are huge windows all around for great visibility and minimal blind spots, bottle holders in the doors, a covered stowage pouch in the top of the dash, iPod/cell phone/MP3 holders in the front console, heated rear seats (part of an $825 ultimate package with the power hatchlid), DVD entertainment system ($995), power adjustable pedals ($255) and power moonroof ($960).\n\nTaurus X sales are running about 25 percent ahead of the Freestyle. Name change help? Perhaps. But our money’s on the new engine and styling.\n\n2008 Ford Taurus X Limited AWD\n\n– Length: 200.3 inches\n\n– Wheelbase: 112.9 inches\n\n– Engine: 3.5 liter, 263 h.p. V-6\n\n– Transmission: 6-speed automatic\n\n– Fuel economy: 15 m.p.g. city/22 m.p.g. highway\n\n– Price as tested: $38,755\n\n– Add $750 for freight.\n\nTHE STICKER\n\n– $32,185 Base\n\n– $1,995 Navigation system\n\n– $995 DVD entertainment system\n\n– $960 Power moonroof\n\n– $825 Ultimate package with second-row bucket seats, power liftgate\n\n– $695 18-inch chrome wheels\n\n– $650 Auxiliary climate control\n\n– $255 Convenience package with power adjustable pedals\n\n– $195 Sirius satellite radio\n\nPLUSES\n\n– Revised styling.\n\n– Upgraded engine.\n\n– New name\n\n– Three rows of seats, easy to fold second (power) and third rows.\n\n– AWD available.\n\n– Stability control, traction control and side-curtain air bags standard.\n\nMINUSES\n\n– Mileage rating.\n\n– Back-biting head rests.\n\n– Growling V-6.\n\n———-\n\nRead Jim Mateja Sunday in Transportation. Contact him attransportation@tribune.com.",
+      "trims": [
+        {
+          "name": "4dr Wgn SEL FWD",
+          "price": "$27030",
+          "specifications": {
+            "Notable features": [
+              "Renamed Ford Freestyle",
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More-powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.5L/213 Displacement",
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multilink Suspension Type - Rear",
+              "Stabilizer bar Suspension Type - Front (Cont.)",
+              "Stabilizer bar Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,033 lbs Base Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn SEL AWD",
+          "price": "$28880",
+          "specifications": {
+            "Notable features": [
+              "Renamed Ford Freestyle",
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More-powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "249 @ 4500 SAE Net Torque @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type",
+              "263 @ 6250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Stabilizer bar Suspension Type - Rear (Cont.)",
+              "MacPherson Strut Suspension Type - Front",
+              "Multilink Suspension Type - Rear",
+              "Stabilizer bar Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,203 lbs Base Curb Weight",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Eddie Bauer FWD",
+          "price": "$29770",
+          "specifications": {
+            "Notable features": [
+              "Renamed Ford Freestyle",
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More-powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "3.5L/213 Displacement",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Stabilizer bar Suspension Type - Rear (Cont.)",
+              "Stabilizer bar Suspension Type - Front (Cont.)",
+              "Multilink Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,033 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Limited FWD",
+          "price": "$30750",
+          "specifications": {
+            "Notable features": [
+              "Renamed Ford Freestyle",
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More-powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "16 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "249 @ 4500 SAE Net Torque @ RPM",
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Stabilizer bar Suspension Type - Rear (Cont.)",
+              "Stabilizer bar Suspension Type - Front (Cont.)",
+              "Multilink Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,033 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Eddie Bauer AWD",
+          "price": "$31620",
+          "specifications": {
+            "Notable features": [
+              "Renamed Ford Freestyle",
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More-powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.5L/213 Displacement",
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "MacPherson Strut Suspension Type - Front",
+              "Multilink Suspension Type - Rear",
+              "Stabilizer bar Suspension Type - Front (Cont.)",
+              "Stabilizer bar Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,203 lbs Base Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Limited AWD",
+          "price": "$32600",
+          "specifications": {
+            "Notable features": [
+              "Renamed Ford Freestyle",
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More-powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "249 @ 4500 SAE Net Torque @ RPM",
+              "3.5L/213 Displacement",
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type"
+            ],
+            "Suspension": [
+              "Multilink Suspension Type - Rear",
+              "MacPherson Strut Suspension Type - Front",
+              "Stabilizer bar Suspension Type - Rear (Cont.)",
+              "Stabilizer bar Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,203 lbs Base Curb Weight",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Pwr Brake Type",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2009": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/6de4697f-bcaa-45b3-bac0-3931f2bb6d4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/c9f3f4da-0bc5-4365-bc04-145c5f51a802.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/dc2acd9c-b224-4e46-963c-6aef1064aaa9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/92af8e6e-ba28-4877-a6e7-29cbecc13b1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/4a123049-ffc0-482d-8b7d-cbd934d77ef0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/936b240a-81a8-41dc-8f47-4fcddb868c40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/87e7ebdd-420f-4e8a-bb21-b44a2ad0dc0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/f2939a8f-0d0c-409c-a7a8-140e4163be5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/460e7db0-b923-4dea-afef-98898a3305ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/f01d0a89-78cb-4783-b670-5a124f799bc3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/0d4498fb-6719-4a50-bd10-ecdc9667f330.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/79702dfb-d911-4ae5-ae27-f01c23777640.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/663cb141-9a38-4aa3-92e8-7806f7109cac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/610bf0b6-1fe1-44d4-bcd8-577d1e45434c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/3efa852d-9bd8-4a23-85b2-8c2ad69619b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/d3ca7141-7944-47d8-ae4b-f02995d2b335.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/8d68cfe8-daaf-4707-adb7-6f1bb6c772b4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/12885093-5573-4266-8a32-e7994591172a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/113c57df-8af9-4ffe-aead-05616b9fe5e7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/4269cb08-29b5-45a5-8b1a-e722c45b5875.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/694b92f2-3a3e-4696-9270-abc2ef180435.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/5d483016-0213-4974-86a7-4b6a6c7be455.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/b26c7332-19a3-4958-b725-71ba3388a937.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/90558ff4-b15a-4bf7-a34f-4502f757fb9e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/4d2e55e2-99b1-4035-9336-9a4325cc34f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/d11c37d1-7020-428a-b2be-44d70a92b96b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/8d7234a3-2b90-4107-b134-bb29d7c5de30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/262a52e3-96b0-4b57-9605-50705774a52f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/955e2311-7eba-4d89-b269-f97b2806ccf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/8386a167-1557-4b30-908c-9500d2c0ae33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/6d69070a-c3a6-41e5-aa4e-4ff1f1e2d1aa.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/670f70a8-cd64-4359-baf9-0ea151368c46/04c2ac6b-7fc1-426e-bea5-e63f37320202.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/d1c369cf-2886-4430-9b66-dded204a956d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/49568ffc-e39f-4a9c-923f-8a139a8df57a/055cd0ce-1e84-4b9d-b289-83e70f7a1b2a.png"
+      ],
+      "expert_review": "Editor’s note: This review was written in October 2007 about the 2008 Ford Taurus X. Little of substance has changed with this year’s model. To see what’s new for 2009, click here, or check out a side-by-side comparison of the two model years.\n\nThe Taurus X crossover vehicle isn’t a new model; it was sold as the Freestyle from 2005 to 2007. (Ford made some upgrades and renamed it after concluding that people didn’t know what it was). You might say the Taurus X is the ex-Freestyle. Some exterior remodeling, a larger engine and a conventional automatic transmission have improved the Taurus X, whose main selling points are a Top Safety Pick designation by the Insurance Institute for Highway Safety and a very roomy standard third-row seat. Its greatest liabilities are that it has little appeal for the image-conscious and that it’s aesthetically flawed inside.\n\nWhere its sister sedan model, the 2008 Taurus (formerly the Ford Five Hundred), is a unique, high-riding, remarkably roomy sedan, the Taurus X — with a choice of six or seven seats — distinguishes itself much less in the sea of wagon/crossover/SUV models that offer all-wheel drive. Its closest competitor in size and style is the Chrysler Pacifica, but any light SUV or wagon with three rows of seats compares.\n\nExterior & Styling\nWith its rename came a nose job that replaced the Freestyle’s dated look with new stylized headlights and the bolder chrome grille I’ve come to like on most of Ford’s recent models. The hood, front fenders and taillights also have been changed, and the roof rack was butched-up, according to Ford. To me — someone who was ferried to day camp in a Ford Country Squire station wagon — it still looks like an overgrown wagon. I don’t consider that a bad thing, but many people do — which explains the SUV craze and the stigma associated with minivans. The X is only as tall as it needs to be for ease of entry and exit and to traverse snow, and I respect that.\n\nThere are three Taurus X trim levels: the SEL, Eddie Bauer and Limited, each of which comes with a choice of front- or all-wheel drive. The lower two have accent-colored wheel arches and lower cladding. The Limited is completely monochromatic. The SEL has 17-inch aluminum wheels; the higher two have 18-inchers and are eligible for chrome versions.\n\nRide & Handling\nIn most of its recent cars, Ford seems to have figured out how to improve ride quality, and the Taurus X is no exception. It’s comfortable without being floaty, and the handling is up for whatever the driver is likely to throw it into. There’s little body roll or feeling of tipsiness, but the tires give up grip pretty easily in aggressive cornering. The Taurus X isn’t a sport wagon, but it isn’t a lumbering minivan either. The 2008 now includes an electronic stability system as standard equipment.\n\nGoing & Stopping\nOne of the main complaints about the Freestyle and Five Hundred models was that they were underpowered. It was an overstatement in the sedan’s case, but the Freestyle was borderline; fill it with people or cargo and take to the hills, and you’d find acceleration wanting. The continuously variable automatic transmission also was poorly received. The Taurus X addresses both by changing from a 3.0-liter V-6 engine to a 3.5-liter V-6 and a conventional six-speed automatic transmission.\n\nThe improvement is evident immediately in the Taurus X, thanks to a 60-horsepower increase, to 263 hp. It’s felt most under high-rev acceleration and middle- and high-speed passing. Still no rocket, the X is now at least powerful enough — some would say more than enough. My Taurus X SEL was equipped with all-wheel drive, the heavier of the two drivelines, so it’s reasonable to expect the front-wheel-drive model to be as quick or quicker.\n\nThough I support the concept behind CVTs, their performance differs greatly from one to the next, not just when compared to conventional automatic transmissions. The Freestyle’s wasn’t the best executed. It was slow to react, and it seemed to bring out the worst in the 3.0-liter V-6 by causing it to rev too readily into high and noisy engine speeds. The new, stronger engine doesn’t need to work as hard to begin with, and the six-speed ensures the engine sound comes only when you expect it. It’s possible that eliminating the CVT sacrificed some fuel efficiency, but the engine is thirstier, too, and that certainly plays a large role in the lower gas mileage.\n\nEPA-Estimated Gas Mileage\n(city/highway, mpg)\n \t2008 Ford Taurus X\t2007 Ford Freestyle*\nFront-wheel drive\t16/24\t18/25\nAll-wheel drive\t15/22\t17/22\n*Calculated with more accurate 2008 formula for parity.\n\nThe Taurus X has standard four-wheel disc brakes with ABS. They performed well in normal driving.\n\nThe Inside\nThe cabin’s positives include roomy seats in all three rows and very easy-to-use folding seats. On the downside are so-so materials and some shoddy build quality. The Taurus X is just the right height for ease of entry and exit. By the numbers, the front seat isn’t especially roomy, but at 6 feet tall I found it more than workable. The steering wheel tilts but doesn’t telescope, a shortcoming. Though the car’s platform comes from Ford’s Swedish brand, Volvo, they didn’t carry over this usual Volvo feature. Power-adjustable pedals are available on all trim levels, but they’re connected to the seat-position memory only as an additional option on the Limited, in which memory is standard.\n\nTo me the driver’s seat feels overstuffed; it makes me wish Ford had also borrowed seats from Volvo. I stress that everyone is different in this regard, but to me it felt like the two ends of the manual lumbar adjustment’s range could be labeled Too Much and Even More. The driver has a good view of the road without being needlessly high. The view to the rear isn’t bad, but the optional flip-down video screen for the backseat made my rearview mirror almost useless. Some interference is common, but this is probably the worst I’ve seen. The sonar Reverse Sensing System, a stand-alone option, is helpful for parking.\n\nWhen the Freestyle came out, I liked its color pallet, and the materials quality seemed pretty good, but the industry has sped toward higher and higher interior quality in just the past few years, and now the Taurus X’s surfaces seem hard and a bit shiny. The optional leather on my car’s seats was average at best, and I found the perforations in the center panels peculiarly large.\n\nMore disappointing is the interior craftsmanship — especially because it hasn’t been improved since 2005, despite complaints. To set the stage, I’m someone who cares more about the finish part of “fit and finish.” I think industry people and car reviewers are more obsessed with panel gaps (the space between separate panels and pieces in or on a car) than are the public at large. But some flaws are impossible to miss, like when the gap along the passenger-side airbag cover grows from tight to wide, and the colors of adjacent panels are slightly mismatched. The same appears elsewhere, like along the dashtop storage bin lid. The shiny metal latch bar is clearly visible through a gap along the top of the glove box door, and there’s a trim piece at the base of each A-pillar that looks like it was slapped on as an afterthought. If it was, no one has bothered to go back and redo it since it first appeared in 2005. The restyle and rename were a chance for Ford to fix some of this stuff. That they didn’t now suggests that they never will.\n\nRow Two\nTwo captain’s chairs are the standard second row, but a 60/40-split three-seat bench is a no-cost option. I was comfortable in these chairs, thanks mostly to exceptional legroom. In addition to the backrests, the whole chair adjusts forward and back, allowing you to share legroom with the third row. However, with very few exceptions, everyone I put in the second row noticed and griped about the lack of inboard armrests on the captain’s chairs. That comes only in the form of a center armrest/storage console that’s standard on the Limited and optional on the lower two trim levels.\n\nRow Three\nGetting into the third row isn’t all that difficult, and I give Ford credit for an extremely well-designed second-row folding system. The head restraints collapse tight against the backrest, and a single lever flips the spring-tensioned backrest down and then tumbles the seat forward and out of the way. Perhaps most impressive, it’s as simple to lower and latch back in place. Many spring-loaded seats require no strength to raise, and some require no effort to lower, but you seldom get both. The optional power-folding mechanism for these seats seems superfluous.\n\nThe two-seat third row’s headroom and legroom put other models to shame. Though my knees were raised somewhat, I was as comfortable as I’ve been in almost any third row in a vehicle of any size. (The Ford Expedition is a notable exception.) Even the head restraints raise high enough. If you were to force me to take an interstate trip in the wayback of a midsize crossover vehicle, I’d want it to be this one.\n\nSafety\nIf you want a good reason to overlook the Taurus X’s aesthetic problems, this is it: It’s an Insurance Institute for Highway Safety Top Safety Pick, which means it scored Good (the highest possible) in frontal-, side- and even rear-impact crash tests. The National Highway Traffic Safety Administration gives the car a 14 percent chance of rollover for the FWD and 13 percent with AWD. That’s equal to the Pacifica and better than most crossovers and SUVs.\n\nSafety features include standard antilock brakes, front- and side-impact airbags for the front seats, and side curtain airbags that protect occupants in all three rows in a side impact or rollover. An electronic stability system is standard.\n\nCargo & Towing\nMy test car had a remote-controlled power liftgate, kindly offered as a stand-alone option. It too looks like an afterthought, with a substantial exposed strut spanning from the gate to a bulky, space-robbing pod on the left side of the cargo area. On the plus side, the button that lets you close it without the keyfob is on that pod, where shorter people can access it. The liftgate itself is the most common location and not always within reach.\n\nThere’s a well in the floor behind the 50/50-split folding third-row seat that contributes to the Taurus X’s 15.8 cubic feet of cargo volume. The Pacifica has less.\n\nInterior Volume Comparison\n(cubic feet)\n \tBehind Row 3\tBehind Row 2\tBehind Row 1\tTotal passenger volume\n2008 Chrysler Pacifica w/optional third-row seat\t13.0\t43.6\t79.5\t143.9\n2008 Ford Taurus X\t15.8\t47.0\t85.5\t146.2\n2008 Hyundai Santa Fe w/optional third-row seat\t10.0\t34.2\t78.2\t142.3\n2008 Toyota Highlander w/optional third-row seat\t10.3\t42.3\t95.4\t145.7\nSource: Manufacturers\n\nThe third row is standard, but the folding feature, oddly, is not. My X had the option, and its numbered straps made it simple to lower and raise, though not as simple as the second row. The standard front passenger seat also folds, granting a long, continuous cargo area. Even the optional second-row center console/armrest is exactly the right height to keep the area flat once you open the lid 180 degrees. From the closed liftgate, I measured 9.5 feet to the dashboard and more than 11 feet to the base of the windshield. Wow.\n\nLight trucks based on front-wheel-drive car platforms typically have lower towing capacity than truck-based models. Even among its kind, though, the Taurus X’s limit is modest: 2,000 pounds is its maximum trailer weight.\n\nTaurus X in the Market\nThe front-wheel-drive Taurus X starts out at $26,615 reasonably equipped, though the lack of a standard folding third row is puzzling. On the upside, it and many other options are served a la carte, not locked into packages with other features you might not want. The most expensive choice, an all-wheel-drive Limited loaded with every option you can add, comes to $40,235.\n\nNow that Ford has attempted to fix the Freestyle’s main problems, the Taurus X is definitely a more viable product. Unfortunately, it may have missed its window of opportunity. It would have been hot back when people cared less about image and didn’t think twice about buying minivans, or even when there were few car-based models with three rows of seats. Since the Freestyle’s intro, though, the market has become bloated with them. It might have skated by a few years ago, before the interior-quality wars broke out, but now every new model gets pounded if it doesn’t have the richness and craftsmanship of Toyota’s and GM’s (yes, GM’s) best.\n\nThe Taurus X is built just a few miles from Cars.com’s Chicago headquarters at one of the most state-of-the-art facilities in North America, and I wish I could rave about it. I just can’t. I prefer to see form follow function, but that doesn’t mean form doesn’t matter at all. The Taurus X needs more.\n\nSend Joe an email",
+      "trims": [
+        {
+          "name": "4dr Wgn SEL FWD *Ltd Avail*",
+          "price": "$28270",
+          "specifications": {
+            "Notable features": [
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "249 @ 4500 SAE Net Torque @ RPM",
+              "3.5L/213 Displacement",
+              "263 @ 6250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Independent MacPherson Strut Suspension Type - Front",
+              "Independent multilink Suspension Type - Rear",
+              "w/Stabilizer bar Suspension Type - Front (Cont.)",
+              "w/Stabilizer bar Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,033 lbs Base Curb Weight",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn SEL AWD *Ltd Avail*",
+          "price": "$30120",
+          "specifications": {
+            "Notable features": [
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "Gas V6 Engine Type",
+              "3.5L/213 Displacement",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "w/Stabilizer bar Suspension Type - Rear (Cont.)",
+              "Independent multilink Suspension Type - Rear",
+              "w/Stabilizer bar Suspension Type - Front (Cont.)",
+              "Independent MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,203 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Pwr Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Eddie Bauer FWD *Ltd Avail*",
+          "price": "$31330",
+          "specifications": {
+            "Notable features": [
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type",
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent MacPherson Strut Suspension Type - Front",
+              "Independent multilink Suspension Type - Rear",
+              "w/Stabilizer bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer bar Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "19 gal Fuel Tank Capacity, Approx",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,033 lbs Base Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Limited FWD *Ltd Avail*",
+          "price": "$32325",
+          "specifications": {
+            "Notable features": [
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "17 City / 24 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "249 @ 4500 SAE Net Torque @ RPM",
+              "3.5L/213 Displacement",
+              "263 @ 6250 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Stabilizer bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer bar Suspension Type - Front (Cont.)",
+              "Independent multilink Suspension Type - Rear",
+              "Independent MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,033 lbs Base Curb Weight",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Brake Assist"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Drum - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Pwr Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Eddie Bauer AWD *Ltd Avail*",
+          "price": "$33180",
+          "specifications": {
+            "Notable features": [
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas V6 Engine Type",
+              "3.5L/213 Displacement",
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent MacPherson Strut Suspension Type - Front",
+              "Independent multilink Suspension Type - Rear",
+              "w/Stabilizer bar Suspension Type - Front (Cont.)",
+              "w/Stabilizer bar Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,203 lbs Base Curb Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "19 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Pwr Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "4dr Wgn Limited AWD *Ltd Avail*",
+          "price": "$34175",
+          "specifications": {
+            "Notable features": [
+              "Seats up to seven",
+              "Standard electronic stability system",
+              "More powerful engine",
+              "Wagon body style"
+            ],
+            "Highlights": [
+              "15 City / 22 Hwy MPG",
+              "7 Seat capacity",
+              "Gas V6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "263 @ 6250 SAE Net Horsepower @ RPM",
+              "3.5L/213 Displacement",
+              "Gas V6 Engine Type",
+              "249 @ 4500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "w/Stabilizer bar Suspension Type - Rear (Cont.)",
+              "w/Stabilizer bar Suspension Type - Front (Cont.)",
+              "Independent multilink Suspension Type - Rear",
+              "Independent MacPherson Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,203 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "19 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Brake Assist",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "13.0 x -TBD- in Rear Brake Rotor Diam x Thickness",
+              "12.4 x -TBD- in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Pwr Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "make": "karma",
+  "model": "revero_gt",
+  "years": {
+    "2020": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sedan",
+          "price": "$144800",
+          "specifications": {
+            "Highlights": [
+              "61 mi. Range",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "536 SAE Net Horsepower @ RPM",
+              "550 SAE Net Torque @ RPM",
+              "Electric/Gas Engine Type",
+              "1.50 L/91.5 Cu.in. Range Extender Displacement"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear (Cont.)",
+              "Short And Long Arm Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "10 gal Fuel Tank Capacity, Approx",
+              "5,043 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Sports Sedan",
+          "price": "$152800",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "4 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric/Gas Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "550 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM",
+              "1.50 L/91.5 Cu.in. Range Extender Displacement",
+              "Electric/Gas Engine Type"
+            ],
+            "Suspension": [
+              "Short And Long Arm Suspension Type - Rear (Cont.)",
+              "Short And Long Arm Suspension Type - Front (Cont.)",
+              "Short And Long Arm Suspension Type - Rear",
+              "Short And Long Arm Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "10 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,043 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

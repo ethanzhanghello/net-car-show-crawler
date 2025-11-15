@@ -1,0 +1,67 @@
+{
+  "make": "mazda",
+  "model": "b2600",
+  "years": {
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a56a5450-b1ef-4059-aa36-df10b06e6e13/616961c4-66cb-4d7b-82e8-7eea09b196fd.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Long Bed 2.2L (CA)",
+          "price": "$9640",
+          "specifications": {}
+        },
+        {
+          "name": "Cab Plus 2.6L",
+          "price": "$10785",
+          "specifications": {}
+        },
+        {
+          "name": "Short Bed",
+          "price": "$11835",
+          "specifications": {}
+        },
+        {
+          "name": "Cab Plus",
+          "price": "$13335",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fead0423-e244-4d24-9e76-4a9859c5aaf9/e63d2dec-9e13-4e4e-97c1-924536e4cb02.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Short Bed 2.6L",
+          "price": "$9400",
+          "specifications": {}
+        },
+        {
+          "name": "Long Bed 2.2L (CA)",
+          "price": "$9640",
+          "specifications": {}
+        },
+        {
+          "name": "Cab Plus 2.6L",
+          "price": "$10785",
+          "specifications": {}
+        },
+        {
+          "name": "Short Bed",
+          "price": "$11835",
+          "specifications": {}
+        },
+        {
+          "name": "Cab Plus",
+          "price": "$13335",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

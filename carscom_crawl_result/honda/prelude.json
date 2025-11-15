@@ -1,0 +1,1002 @@
+{
+  "make": "honda",
+  "model": "prelude",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "1998": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bdb703a0-1009-4332-bf23-21acad127b1a/e2add8dc-2b17-4f8e-8bf8-6688b1db5248.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe Manual",
+          "price": "$23300",
+          "specifications": {
+            "Highlights": [
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "2.2L/132 Displacement",
+              "195 @ 7000 SAE Net Horsepower @ RPM",
+              "156 @ 5250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,954 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "100 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Power Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Auto",
+          "price": "$24300",
+          "specifications": {
+            "Highlights": [
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "190 @ 6600 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Front",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "3,009 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "100 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe SH Manual",
+          "price": "$25800",
+          "specifications": {
+            "Highlights": [
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type",
+              "195 @ 7000 SAE Net Horsepower @ RPM",
+              "156 @ 5250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,042 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "100 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2001": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/0e19ff8e-aff2-454e-86f7-4fc5bda64e3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/e9ff6881-5337-407a-b807-6255d34f372c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/a9051a2c-eef5-4009-b959-c576249a8a25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/27949553-a7ec-4021-8060-43831720d81a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/e31c4bbf-b244-4ace-9fd9-f9da152366db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/fc864dfa-224f-420e-92c0-1d44ecb8ce35.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/748a0658-5ed7-4d9a-9720-93cd09816ce7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/a014ae2e-b106-45bd-8f76-6dd75b7bea5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/40f5492c-7123-44ca-a35f-4d65a7ff1564.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/a9051a2c-eef5-4009-b959-c576249a8a25.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/faab5ea7-5ad4-439a-85c3-15ae052cc842.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/a4b7689d-d2ee-4503-ac27-ce9e263cd071.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/79cbded7-4780-4581-a717-625fcdcd881f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/f996bec5-c990-4ac4-9a45-b443bf603302.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7725cef8-12f6-4ed2-9e78-846e4055f879/3c371431-aeca-4135-b613-dbc2bb8f8a5d.png"
+      ],
+      "expert_review": "Vehicle Overview\nWith a history dating back to 1979, sluggish sales have kept Honda’s front-drive sport coupe out of the radar of most sports car shoppers. Only 9,692 of the 2+2 coupes were sold during 2000, competing against such models as the Mitsubishi Eclipse and Toyota Celica, both of which were restyled for the 2000 model year.\n\nSales of the Prelude in 1999 totaled 11,378 units. Younger buyers who favor Hondas appear to have turned to Civics, which cost considerably less and are popular choices for aftermarket customization. The Prelude earned its last redesign for 1997 and has since been overshadowed by the debut of the S2000 roadster, Honda’s full-fledged sports car.\n\nChanges are few for 2001, including newly standard rear child-seat tethers, floormats and an emergency in-trunk opener. The available base and SH models are powered by a 2.2-liter four-cylinder engine with Honda’s VTEC variable valve-timing system. Honda’s Active Torque Transfer System (ATTS), which works against the tendency of front-drive cars to “plow,” or understeer, in hard corners, is standard in the SH coupe. While the car is accelerating through a turn, the system automatically sends more power to the outside front wheel to improve the Prelude’s cornering ability.\n\nExterior\nComparatively nondescript on the outside when measured against some rivals, Honda’s sport coupe scores higher in the use of innovative technology than in styling. In fact, the upright, angular shape of the Prelude ranks as surprisingly conservative for a car that claims to be a sport coupe. Instead of a hatchback, which is the style on most sport coupes, the Prelude has a conventional trunk with a lid. It measures 178 inches front to rear and is almost 8 inches longer than the Toyota Celica. Both models ride P205/50R16 Bridgestone tires on alloy wheels. Cargo space in the trunk is a modest 8.7 cubic feet.\n\nInterior\nThe Prelude can seat four and comes with cloth-upholstered front bucket seats and a folding backseat, fit mainly for children. The upright profile translates to a more spacious interior feel than in some sport coupes, with ample space for front-seat occupants. The Prelude’s dashboard follows the clean, functional layout that is a Honda hallmark.\n\nStandard equipment includes air conditioning with a filtration system, cruise control, manual driver’s seat height adjustment, a power sunroof with a tilt feature, and power windows, locks and mirrors. Also included are a leather-wrapped tilt steering wheel, remote keyless entry, 120-watt stereo with CD player, tachometer and an immobilizer theft-deterrent system. In addition to the Active Torque Transfer System, the SH coupe gets a rear spoiler with an integral brake light and a leather-wrapped gearshift lever.\n\nUnder the Hood\nHonda’s 2.2-liter dual overhead cam four-cylinder engine, with variable valve-timing technology, develops 200 horsepower and 156 pounds-feet of torque. Base Preludes can have either a five-speed-manual transmission or an optional automatic that has a sequential SportShift provision for manual gear changes when desired. All you do is move the gearshift lever fore and aft to go up and down the gear range. The SH coupe comes only with manual shift.\n\nDual front airbags and all-disc antilock brakes are standard, but side-impact airbags are not available.\n\nDriving Impressions\nA stint in a Prelude easily turns into an exciting and enjoyable experience. Why? Because few automobiles outside the high-dollar sports car league respond so swiftly and precisely to the driver’s wishes. Despite its comparatively pedestrian profile, the Prelude is packed with authentic sports car moves and is marred only by such negatives as limited headroom in the driver’s seat and minuscule sitting space in the rear. Getting into and out of a Prelude is no small matter for those less agile.Performance from the 2.2-liter engine is energetic, and the five-speed-manual gearbox and clutch are a joy to manipulate. Handling ranks as top-notch, and Honda’s Active Torque Transfer System makes a noticeable difference in the Prelude’s cornering capabilities.\n \n\nReported by Rick Popely  for cars.com",
+      "trims": [
+        {
+          "name": "2dr Cpe Manual",
+          "price": "$23600",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "2.2L/132 Displacement",
+              "200 @ 7000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,954 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "Not Available Drum - Rear (Yes or )",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Auto",
+          "price": "$24600",
+          "specifications": {
+            "Highlights": [
+              "21 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 6600 SAE Net Horsepower @ RPM",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "2.2L/132 Displacement"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "3,009 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "100 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe SH Manual",
+          "price": "$26100",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "200 @ 7000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,042 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "Not Available Drum - Rear (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "1997": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bb53743b-d1e8-4173-bdba-e98c7787736b/642151ad-1582-4721-8b59-4415ca692794.png"
+      ],
+      "expert_review": "I knew there was something different about Honda’s Prelude Type SH when I hustled it up my favorite piece of abandoned road faster than I have ever in another car.\n\nThere are two models of the all-new Prelude, but the Type SH is the most interesting from a technical perspective. It uses ATTS, or Active Torque Transfer System, to help take corners with more stability and control than would normally be found in a front-wheel-drive sports coupe. ATTS is not a traction control system, which limits the power sent to a spinning wheel, but a drive-torque distribution system that takes torque from the inside wheel and transfers it to the outside wheel so it actually rotates faster when the car is in a turn. The faster-turning outside wheel helps the vehicle turn with greater stability.\n\nTo understand how it works, imagine sitting in a wheelchair. When you hold the inside wheel still and push the outside wheel, the chair turns immediately. Conceptually, ATTS does the same thing.\n\nIn normal driving the system is nearly invisible. I noticed that the test car seemed to turn into corners a bit more enthusiastically than a regular car, but that is about it. However, in a controlled environment, it does allow you to go consistently faster through turns with less fuss.\n\nHonda often uses the Prelude to showcase new technology, as it did with the VTEC engine and four-wheel steering, which is why ATTS has been used here. I would think this technology might have application to any passenger car, however, so it may see wider use.\n\nThe 1997 is the fifth generation Prelude, and it is designed to be “an aggressive sport coupe with superior handling,” according to Honda. The new body style, with flat, chiseled surfaces, is a significant departure from the last model. It has a bigger trunk and a bigger back seat, based on customer research, although the back seat is still fairly small. Tall, dual-stacked headlights give the front end a bright-eyed look.\n\nThe new body, however, is tighter and stiffer, and that translates into better ride and handling, not to mention reduced vibration and noise. The dual-wishbone suspension soaks up bumps well and gives the Prelude sports-car agility.\n\nAside from its handling prowess, the Prelude is defined by its powerful, 2.2-liter, VTEC engine. This gutsy four-cylinder powerplant is uncanny in its willingness to rev to more than 7,000 rpm. Coupled with the tight-shifting five-speed transmission, it feels like a motorcycle engine. Power output is 195 horsepower (190 with the automatic transmission). Because of the VTEC variable valve timing system, it has abundant power at both low and high speeds.\n\nAn automatic transmission with sequential shifting is available, although not with the ATTS system. This transmission can be left in automatic position or shifted manually. It’s too bad this unit won’t work with the torque transfer system.\n\nInside, the Prelude is typically Honda. That mean s logical, well-designed gauges and excellent outward visibility. The bucket seats are firm and have extra support on the sides, which is helpful when you test out the ATTS in a turn.\n\nMy only beef concerns the radio and its tiny buttons. I would also prefer rotary controls for heating and cooling, but that is fairly minor.\n\nPrice\n\nThe base price of our test car was $25,700. The addition of floormats, freight and California emissions equipment brought the sticker price to $26,282.\n\nWarranty\n\nThe basic warranty is for three years or 36,000 miles.\n\nVehicles for The Star’s week-long test drives are supplied by the auto manufacturers.\n\nPoint: The torque transfer system seems to be a real breakthrough in cornering stability. Mate that to a great engine that winds up like a motorcycle and you get a very energetic, responsive sports coupe.\n\nCounterpoint: The back seat remains very small, as do the radio buttons.\n\nSPECIFICA ONS:\n\nENGINE: 2.2-liter\n\nTRANSMISSION: Five-speed\n\nWHEELBASE: 101.8 inches\n\nCURB WEIGHT: 3,042 lbs.\n\nBASE PRICE: $25,700\n\nPRICE AS DRIVEN: $26,282\n\nMPG RATING: 22 city, 27 hwy.",
+      "trims": [
+        {
+          "name": "2dr Cpe Manual",
+          "price": "$23200",
+          "specifications": {
+            "Highlights": [
+              "23 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "195 @ 7000 SAE Net Horsepower @ RPM",
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Rear",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "2,954 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "100 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Auto",
+          "price": "$24200",
+          "specifications": {
+            "Highlights": [
+              "21 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "190 @ 6600 SAE Net Horsepower @ RPM",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "2.2L/132 Displacement"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,009 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Power Brake Type",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe SH Manual",
+          "price": "$25700",
+          "specifications": {
+            "Highlights": [
+              "23 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "195 @ 7000 SAE Net Horsepower @ RPM",
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,042 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1999": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7920ac5f-9e4b-4790-bb7b-d81156fafe37/daf06dec-2d91-4849-a38e-5fb1377fb269.png"
+      ],
+      "expert_review": "We have a female friend who worries that since her divorce and 40th birthday, she’s fallen “off the foxy radar.” So she’s spending a good chunk of money on dating services and Botox injections to eliminate wrinkles. We thought about her while we were testing the 1999 Honda Prelude coupe – an effective way to get noticed for $26,454.\n\nGuys will like it, too, because it gets a boost in horsepower this year, allowing it to hit that magic 200 number. In fact, one buyer’s guide likened the sporty Prelude to a mini NSX, Acura’s Ferrari fighter.\n\nBottom line with the Prelude: Like a race car; less invasive than liposuction.\n\nShe: I really do like the Prelude, despite the fact that I would bet no woman got within 10 feet of it during the design and engineering process. No lighted vanity mirrors, laughable “cupholders” that amount to little more than a plastic partition in the center console and height-adjustable seats that give you only a modest boost. Oh – wait a minute – maybe I’m wrong. There is that slimming all-black interior, the only kind you can get on the Prelude.\n\nHe: Looks like they got their color inspiration from Henry Ford, huh? And black may make you slimmer, but that wide center console doesn’t help me squeeze my long limbs into the Prelude or find a very comfortable position over long distances. But do you know what? I can’t think of much else to complain about – nothing of substance, anyway.\n\nShe: The Prelude is one of the prettiest coupes I’ve seen. The Type SH model we drove comes with a rear spoiler, and I’m impressed that Honda was able to make a spoiler look good, not garish. The silhouette of the car is very striking – nothing overdone, just a minimalist look with very simple lines. But it’s memorable.\n\nHe: It’s funny, but I was not a big fan of this current Prelude when it first came out. Since then, the exterior shape and the unusual headlights have kind of grown on me. What made me a real believer, however, was an extended drive in the car last fall during Automobile Magazine’s annual All-Stars testing. I had a chance to sample the Prelude alongside the best vehicles sold in the United States, and I came home from that trip feeling that it was certainly one of the most pleasant driving experiences I had.\n\nShe: I was impressed at how easy it was to drive the Prelude and live in it. A lot of coupes feel cramped and compromised. Not the Prelude. The seats are especially terrific – roomy, yet supportive, with really nice upholstery that feels like velour and has a tasteful little pattern. The trunk is surprisingly roomy, but the back seat is for tiny people, not adults.\n\nHe: The Prelude takes the whole two-door concept in a different direction from the Accord coupe and the Toyota Solara that we recently tested. The Prelude really is a sporting car with a genuine performance orientation, despite the fact that it comes with only a four-cylinder engine. But what an engine it is! The t win-cam 2.2-liter four is amazingly lusty and willing, and I suspect most enthusiasts won’t mind that Honda chose not to offer an optional V-6.\n\nShe: So what’s this Active Torque Transfer System that Honda is bragging about on the Prelude Type SH?\n\nHe: It’s really just a fancy name for a fairly simple, but effective way to adjust the power between the front wheels when you’re in a corner, so the steering feels almost neutral. Most front-wheel-drive cars tend to understeer in corners; that is, you have to put a little extra muscle into the steering to keep the nose pointed into the turn. This system makes steering a snap. I also love all the genuine sports-car touches, like the double-wishbone suspension and the four-wheel disc brakes. Funny that Honda never chose to make this a convertible. In terms of entertainment and sheer driving pleasure, it would give the Mazda Miata a serious run for the money.\n\nShe: The emotion of driving the Prelude is a mixed bag. You feel lish and terrified. I was uncomfortable that the Prelude doesn’t have side air bags. And it is quite low to the ground compared to other vehicles on the road. If you are intimidated by big sport-utilities, you’re going to feel even more so behind the wheel of the Prelude. It’s the price you pay for that road-hugging race-car feel.",
+      "trims": [
+        {
+          "name": "2dr Cpe Manual",
+          "price": "$23450",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Gas I4 Engine Type",
+              "200 @ 7000 SAE Net Horsepower @ RPM",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "2.2L/132 Displacement"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "2,954 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Auto",
+          "price": "$24450",
+          "specifications": {
+            "Highlights": [
+              "21 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "195 @ 6600 SAE Net Horsepower @ RPM",
+              "2.2L/132 Displacement",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Rear",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "3,009 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe SH Manual",
+          "price": "$25950",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "200 @ 7000 SAE Net Horsepower @ RPM",
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Trailing Arms Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,042 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2000": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/20234a46-c036-48d2-8ec1-28276c728b95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/f3e30806-be7d-4baf-93b8-18c8073e262d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/f7c38c64-c795-46fa-9e89-cb02d273c2b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/6351e1bf-39da-4561-8ad6-4c42a0ed020c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/c2918203-0f2b-449f-9bfb-c4c72ab88aab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/012c4355-d21d-4185-871e-6b22688f621b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/e6e0588b-d887-44cb-925c-c178565a854e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/e209d6b6-a166-4605-84aa-964ffae63015.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/6f836477-a393-4763-bceb-8929db5d974a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/832ee147-b50a-4695-8f2e-e2c4ac132cd1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8268eaec-2d66-4c63-afa5-22b788712104/cb5f4d63-9902-44ee-afd6-a588842376ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/ad2d29c1-06b2-4e70-9a7f-2942ce80aa22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/a986bf27-1ad2-4558-9d39-d84946cd21a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/3856de60-086b-41d0-9658-2c66fbbd2b21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e746b39a-86d4-4958-94ef-eb16997912ce/34da3650-8b38-45e5-88ab-456dd3f79249.png"
+      ],
+      "expert_review": "Vehicle Overview\nThe Prelude is a front-drive sports coupe that formerly was the sportiest model in Hondas lineup. But now the Prelude plays second fiddle to the S2000 roadster.\n\nLast redesigned for 1997, Preludes main competitors include the Toyota Celica and Mitsubishi Eclipse  cars that are both redesigned for 2000. Sales of the Prelude have been lackluster the past few years, and younger buyers choosing Hondas are opting instead for the less-expensive Civic coupe.\n\nExterior\nPrelude is styled conservatively for a sports coupe, especially compared to the new Toyota Celica, with an upright, angular design and a regular trunk instead of a hatchback. Its overall length of 178 inches is 8 inches longer than the Celica.\n\nInterior\nThe upright design gives the interior a more open feel than some sports coupes, but the rear seat has only enough room for kids to fit comfortably. The front seats have adequate space for passengers up to 6 feet tall, and the dashboards clean, functional design is like that of other Honda models.\n\nUnder the Hood\nA 200-horsepower, 2.2-liter four-cylinder with variable-valve technology is the only engine, and it teams with a standard five-speed manual or an optional four-speed automatic. The automatic has SportShift, which allows manual shifting by tipping the gear lever fore or aft.\n\nThe Prelude Type SH model adds a feature called an Active Torque Transfer System, which automatically sends more power to the outside front wheel when the car accelerates in a turn to improve cornering ability.\n\n \n\nReported by Rick Popely  for cars.com\nFrom the cars.com 2000 Buying Guide",
+      "trims": [
+        {
+          "name": "2dr Cpe Manual",
+          "price": "$23500",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.2L/132 Displacement",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "200 @ 7000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Front",
+              "Independent Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,954 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "Power Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "Not Available Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Auto",
+          "price": "$24500",
+          "specifications": {
+            "Highlights": [
+              "21 City / 26 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "195 @ 6600 SAE Net Horsepower @ RPM",
+              "2.2L/132 Displacement",
+              "Gas I4 Engine Type"
+            ],
+            "Suspension": [
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "Independent Suspension Type - Rear",
+              "Independent Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "3,009 lbs Base Curb Weight"
+            ],
+            "Electrical": [
+              "100 Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Not Available Drum - Rear (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Power Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe SH Manual",
+          "price": "$26000",
+          "specifications": {
+            "Highlights": [
+              "22 City / 27 Hwy MPG",
+              "4 Seat capacity",
+              "Gas I4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "200 @ 7000 SAE Net Horsepower @ RPM",
+              "156 @ 5250 SAE Net Torque @ RPM",
+              "Gas I4 Engine Type",
+              "2.2L/132 Displacement"
+            ],
+            "Suspension": [
+              "Independent Suspension Type - Front",
+              "w/Coil Springs Suspension Type - Front (Cont.)",
+              "w/Coil Springs Suspension Type - Rear (Cont.)",
+              "Independent Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "Not Available lbs Dead Weight Hitch - Max Trailer Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,042 lbs Base Curb Weight",
+              "Not Available lbs Dead Weight Hitch - Max Tongue Wt.",
+              "Not Available lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "100 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "10.23 x 0.39 in Rear Brake Rotor Diam x Thickness",
+              "11.10 x 0.90 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Not Available Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Power Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ceba1743-b4c0-414b-a1b5-7aab8ac9ed39/35e9e6c2-afb9-4aad-88f6-22ad31869d41.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Cpe S Manual 2.2L",
+          "price": "$19960",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe S Auto 2.2L",
+          "price": "$20760",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Si Manual 2.3L",
+          "price": "$22655",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Si Auto 2.3L",
+          "price": "$23455",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr Cpe Manual 2.2L VTEC",
+          "price": "$25880",
+          "specifications": {
+            "Highlights": [
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/693103a4-0279-41a6-94be-9c0e3410804a/53b658d4-9ce8-4dbe-8be5-70d7eef38387.png"
+      ],
+      "expert_review": "The 1992 Prelude is one of those two-in-one machines.\n\nIt`s tantalizing and agonizing-tantalizing because of its quickness inmoving from the light and stability when the pavement bends, yet agonizingbecause of its crawl in/stumble out space in the passenger cabin, which willput a few lumps on your head if you can`t reach down and touch your toes-with your nose.\n\nEven motorcyclists will want to wear a helmet while getting into or outof this machine, which seemed to be designed by the sadist who created theground-level and cramped entry/exit space for the Corvette.\n\nIf you can slip into or out of this car with ease, you`ve probablymastered the square-peg-into-a-round-hole routine as well.\n\nFor 1992, Prelude sports an all-new exterior envelope on its S and Siversions. We`ve lost track, but it seems like Prelude undergoes the stylists` blade roughly every other year. Just about the time you grow to admire thestyling, another remake pops onto the scene. This time it`s aero or rounded,meaning it looks very much like just about every other small Japanese car thathas entered the market or had its sheet metal refined in the last two years.\n\nOne nice touch is a rear wing spoiler, which is a $470 option on the Sand Si, but standard on the Si when you buy optional four-wheel steering. The wing is a subtle billboard boasting of performance that others try to achieve with decals.\n\nPerformance is the Prelude`s strong suit, at least in the Si we tested.The S is equipped with a 2.2-liter, 135-horsepower 16-valve 4-cylinder, the Sia 2.3-liter, 160-h.p. 16-valve 4. A 5-speed manual is standard, automaticoptional. The engine is lively and the 5-speed slippery smooth to help create the power bursts. At the same time, the mileage rating is an impressive 22miles per gallon city/26 m.p.g. highway. This is a sporty car with an economy thirst.\n\nYou can be aggressive with the Prelude Si while maintaining control.Four-wheel double-wishbone suspension with increased stroke, front and rearstabilizer bars, 15-inch tires, variable assist power steering and four-wheel disc brakes with ABS provide above-average ride and handling and overallimpressive road manners.\n\nWith the new look came new, smaller dimensions. Wheelbase was shortenedto 100.4 inches from 101, and overall length was reduced to 174.8 inches from 177.6. It was surprising we didn`t experience harsh ride and handling,considering the shrinkage in size.\n\nThe shorter length means that the two areas Prelude needed to improveupon-rear-seat room and trunk space-were neglected. The rear seat is adecoration that will seat only kids.\n\nOddly enough, while length was shorted, width was increased to 69.5inches from 66.7 inches. Width in the saucer-shaped interior was a concession to U.S. hips; length is a consternation to U.S. legs.\n\nOn the plus side, the Si we drove came with anti-lock brakes and adriver-side air bag as standard. But you can get a passenger-side air bag onlywhen you opt for four-wheel steering. A performance car, especially a smallone, deserves two bags at all times.\n\nPrelude also needs to devote more attention to the spartan dash/instrument panel. What looks like a light bar runs the length of the panel.You think it would be chock full of gadgets and gizmos and things to read tokeep you informed of the optimum operation of all systems. It isn`t. There`s atachometer, speedometer, gas and coolant gauges, a little clock and a wholelot of empty space.\n\nBase price tickles $20,000 at $19,550, which seems a bit stiff despite ahealthy list of standard equipment including power brakes and steering, cruisecontrol, power windows, dual power mirrors, dual vanity mirrors, powersunroof, air conditioning, power door locks, ABS, driver-side air bag and AM- FM cassette.\n\nThe Si with 5-speed and four-wheel steering runs $21,870; with automaticand four-wheel steering it`s $22,620. T he four-wheel steering models includepassenger-side air bag and rear wing spoiler as standard.",
+      "trims": [
+        {
+          "name": "2dr Coupe S 5-Spd",
+          "price": "$16550",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe S Auto",
+          "price": "$17300",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe Si 5-Spd",
+          "price": "$19550",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe Si Auto",
+          "price": "$20300",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe Si 4WS 5-Spd",
+          "price": "$21870",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe Si 4WS Auto",
+          "price": "$22620",
+          "specifications": {}
+        }
+      ]
+    },
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/88447b10-e123-4fee-91df-2e8b5db3b1c2/32e19764-99d5-48fc-b84f-9bcce9cf9e8c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Coupe 2.2L S 5-Spd",
+          "price": "$18450",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.2L S Auto",
+          "price": "$19200",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si 5-Spd",
+          "price": "$21850",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si Auto",
+          "price": "$22600",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si 4WS 5-Spd",
+          "price": "$24650",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si 4WS Auto",
+          "price": "$25400",
+          "specifications": {}
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d8763ff7-86b3-4f56-9afc-ff8cbcc64ece/2ac0ce72-e9bb-4a05-9351-c91e68df5a1e.png"
+      ],
+      "expert_review": "If the whole point of buying a sport coupe is to make your co-workers turn a nice shade of green, the 1995 Honda Prelude SE is probably not a bad choice. This particular package comes with ivory leather-trimmed upholstery, a rear spoiler, antilock brakes, alloy wheels, power everything and an adjustable driver’s seat.\n\nTrouble is, what do you do when the person in the next parking space wheels in with a fresher, trendier competitor like the Chrysler Sebring or Eagle Talon?\n\nShe: You do get a little catch in your throat walking up to the Prelude. The one we drove had the most beautiful paint job I’ve seen in a long time. It was a dark green, but depending on the light it almost looked black with specs of bronze and verdigris. But my heart sank when I got in and started it up. Even with the seat all the way forward, I couldn’t press the clutch fully. And that made me mad because I’m on the high side of petite. The feeling you get is similar to riding a bike with a too-tall seat or swimming in a pool where you can’t touch the bottom.\n\nHe: That’s funny. I’m not a big fan of the Prelude’s styling. It looks almost too delicate and feminine for my taste. But it’s a terrific driver’s car. And even though the new Prelude Special Edition comes with lots of amenities, I would hardly call its cockpit warm and inviting.\n\nShe: The wraparound instrument panel looks like a narrow black slit. It looked like it could have been part of Darth Vader’s helmet. I found the combination of the clutch and the instrument panel very off-putting. And then there were little annoying cheap things, like the latches on the glove compartment and jack cover in the trunk. They are the kind you have to twist to close. I sat there for the longest time slamming the glove compartment and wondering why it wouldn’t shut on its own. Don’t get me wrong, I like simple designs and adore things like Shaker furniture. But this seemed cheap.\n\nHe: You didn’t think much of the vanity mirrors either, did you?\n\nShe: Sorry, when I’m spending $24,000 on a car I like to see large, lighted mirrors. But on the plus side, you do get a great engine in this edition of the Prelude. It’s the same twin-cam 160 horsepower four-cylinder that Honda puts in the mid-level Prelude Si. If you want to pretend you’re Jacques Villeneuve without spending a fortune, maybe this is your car. But I’m convinced you’d have to be a relatively tall male because I don’t think many women would feel at home here.\n\nHe: Hey, I’m a relatively tall male. In fact, I had lots of fun behind the wheel of the Prelude. This really is a good impression of a sports car. You get double wishbone suspension all around, plus front and rear stabilizer bars and variable assist steering, so the Prelude is extremely nimble and responds quickly and precisely to the slightest driver inputs. However, this would not be a car I’d choose to make a 200-mile trip in. Despite the gas-pressurized shocks, this is still a pretty harsh ride, especially compared to Chrysler’s new sporty coupes, the Avenger and the Sebring.\n\nShe: Another concern many drivers might have is that the thick pillars in the rear really block your vision as you try to back out. This seems to be a really common problem with sport coupes. Maybe people who buy them are naturally better drivers and can handle it, but I find it anxiety-provoking. The really tight-fisted part of me is reluctant to buy a vehicle that will only take premium fuel, even though the gas mileage in the Prelude is pretty decent.\n\nHe: I have a pet peeve with the Prelude and other so-called 2+2 coupes. That is, the lack of a usable rear seat. You can barely squeeze a couple of bags of groceries back there, yet it’s all tricked out like it could actually hold people. It can’t. So it seems to me like so much wasted space. On the other hand, the Prelude is a great two-seater for $24,000 not terribly practical for a family, but great for younger singles.\n\nShe: Well, some fun for younger singles. I still contend that there are better-looking sport coupes out there. And by that I mean ones that are immediately identifiable, not just relatively generic looking like the Prelude. Back in the days of the Bush White House, it might have been a head-turner, but this is a ferociously competitive segment and it’s easy to be chewed up by stunners like the Chrysler Sebring which looks breathtaking and more expensive.\n\nHe: Unfortunately, the Prelude isn’t due for a total redesign until the 1997 model year. Until then, guys, just close your eyes and drive the hell out of it.\n\nShe: And if you’re under 5 feet 4 inches, regardless of your sex, you’d better invest in a pair of platform shoes.\n\nAnita’s rating: (average)\n\nPaul’s rating: (above average)\n\nWhat we liked: Antilock brakes, alloy wheels and other goodies standard; a driver’s dream; crisp handling; responsive engine\n\nWhat we didn’t like: Trouble with clutch pedal (Anita); not exactly a fresh design on the market; some surprisingly cheap touches\n\n1995 Honda Prelude SE\n\nType: Front-engine, front-wheel drive, 2+2 sport coupe.\n\nPrice: Base, $22,450; as tested, $24,030 (inc. $380 destination charge).\n\nWhat’s new for ’95: Special Edition package.\n\nStandard equipment: Variable-assist power steering, all-independent suspension, front and rear stabilizer bars, gas-pressurized shocks, four-wheel power disc brakes, air conditioning, cruise control, AM-FM stereo with cassette and six speakers, tilt steering column, center console with cupholder and storage bin, driver’s adjustable lumbar support, intermittent wipers, Michelin steel-belted radial tires, alloy wheels, power sunroof, rear defroster, tinted glass.\n\nSafety features: Dual air bags, antilock brakes.\n\nOptions on test vehicle: Special Edition package, including leather-trimmed upholstery and rear spoiler ($1,200).\n\nEPA fuel economy: 22 mpg city/26 mpg highway.\n\nEngine: 2.3-liter I-4; 160-hp at 5800 rpm; 156 lb-ft torque at 4500 rpm.\n\nTransmission: Five-speed manual.\n\nCompetitors: Acura Integra, Dodge Avenger, Chrysler Sebring, Eagle Talon, Mitsubishi Eclipse, Dodge Stealth, Mitsubishi 3000GT, Nissan 240SX, Toyota Celica, Mazda MX6.\n\nSpecifications: Wheelbase, 100.4 inches; overall length, 174.8 inches; curb weight, 2,908 pounds; legroom, 44.2 inches front/28.1 inches rear; headroom, 38.0 inches front/35.1 inches rear; shoulder room, 54.0 inches front/50.6 inches rear.\n\n12-month insurance cost, according to AAA Michigan: $1,281.40. Rates based on an average family of four from the Livonia area whose primary driver is aged 40 with no tickets who drives 3-10 miles each way to work. Rates reflect multicar discount and, where appropriate, discounts for air bags and seat belts.\n\nWhere built: Sayama, Japan.",
+      "trims": [
+        {
+          "name": "2dr Coupe 2.2L S Manual",
+          "price": "$19760",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.2L S Auto",
+          "price": "$20510",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si Manual",
+          "price": "$22430",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si Auto",
+          "price": "$23180",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L SE Manual",
+          "price": "$23650",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L SE Auto",
+          "price": "$24400",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.2L VTEC Coupe Manual",
+          "price": "$25620",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8bd44457-861e-4443-bd6f-70815f430cf5/48ca1bef-34a6-4311-92cd-e9d13879ccff.png"
+      ],
+      "expert_review": "WE MET and parted as strangers. There was no love between us, no kindness. We simply tolerated each other during our time together. There was tension, occasionally relieved by surreptitious speeding along Virginia’s back roads. But those were cheap thrills, which didn’t merit post-pedal conversation.\n\nWhose fault? I don’t know. How do you assess such things? The 1993 Honda Prelude Si VTEC was pretty enough. It was brilliant red, which always gets me excited. Its body had the requisite roundness, albeit carried to exotic extremes. It was long and low in the front, and high and curved in the rear, with taillamps that appeared to smirk. It called attention to itself.\n\nStill, the Prelude Si VTEC was the automotive version of the date from hell, a car of monosyllabic expression. The cabin highlighted the problem. It was functional in a missionary sense — all gauges and dials properly placed. The instruments, however, were implanted in a dashboard that resembled a banked racetrack. Some people liked that styling. It left me cold.\n\nAnd the driver’s seat! Perhaps the Prelude Si VTEC should’ve come with a driver’s size requirement: no one over 140 pounds need apply. My thighs felt cheated by the car’s buckets. Yet I could’ve lived with even this had the car offered at least the pretense of a smile. It did not.\n\nFrom the very beginning, the feeling was that of two beings who had been thrown together with little in common, and with even less chance of some serendipitous mutual discovery that would’ve helped them bind up their differences and get along. The cold truth: Outside of the obligation to test it, I would not have chosen the Honda Prelude Si VTEC. I’m certain that it would not have chosen me.\n\nBackground: Sometimes, growing up is not everything it’s cranked up to be. Previous Honda Preludes, for example, were cute personable cars. Of course, they were reliable and all of that. Most Honda cars are. But the old Preludeswere fun, largely because they did not take themselves seriously. The new Prelude, restyled and reengineered since 1992, has all of the airs of a wannabe — a wannabe Porsche 911, a wannabe Acura NSX. It’s neither. Nor is it an Acura Integra GS-R, a Honda-made product of Prelude-like dimensions, that is a much better car for the money.\n\nHonda Preludes come in two forms, the base S and the uppity Si. The Si is available with two option packages — four-wheel-steering (Prelude 4WS), in which all four wheels have steering ability, an interesting feature that is mostly unnecessary on U.S. highways; and the tested Prelude VTEC, a car with a 2.2-liter, 16-valve, double-overhead cam, 190-horsepower engine that does indeed take small-car engineering a giant step further.\n\nAll Preludes are front-engine, front-drive, two-door, four-passenger cars.\n\nComplaints: Enough said, except that the rear seats are practically useless for anyone over 5 years old.\n\nPraise: The VTEC engine, which precisely and expertly controls the movement of intake and exhaust valves, provides maximum power with minimum fuel consumption at all speeds. It’s one of the best four-cylinder engines in anybody’s car. A 1.7-liter version of the engine can be found in the Acura Integra GS-R.\n\nOthers goodies on the Prelude Si VTEC include standard driver-side and passenger-side air bags, five-speed manual transmission (no automatic available in the Si VTEC) and power-assisted four-wheel-disc brakes with anti-lock backup.\n\nHead-turning quotient: It turned me off, and did the same to some owners of older Preludes. However, some folks thought the Si VTEC’s styling was hip.\n\nRide, acceleration and handling: Ride feel was compromised by the too-small driver’s seat. Handling was excellent, as were braking and acceleration. The car is as technically correct as some people are politically correct. Maybe it’s my fault: I don’t like spending time with PC people, ei her.\n\nSound system: Seven-speaker AM/FM stereo radio and cassette, Honda High-Power system. It was okay. I’ve heard better, or certainly just as good, in less expensive cars.\n\nPrice: Base price on the tested Si VTEC is $22,690. Dealer’s invoice is $19,060. Price as tested is $23,020, including a $330 destination charge.\n\nPurse-strings note: Too much money, too little joy. The Acura Integra makes more sense, offers more fun for less. Also compare with the Ford Probe, Mazda MX-6, Volkswagen Corrado VR-6, Nissan 240 SX, Mitsubishi Eclipse, all of which give the Prelude a darned good run for the money.",
+      "trims": [
+        {
+          "name": "2dr Coupe 2.2L S 5-Spd",
+          "price": "$17400",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.2L S Auto",
+          "price": "$18150",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si 5-Spd",
+          "price": "$20400",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L SI Auto",
+          "price": "$21150",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si 4WS 5-Spd",
+          "price": "$22720",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.2L VTEC 5-Spd",
+          "price": "$23090",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Coupe 2.3L Si 4WS Auto",
+          "price": "$23470",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,763 @@
+{
+  "make": "lexus",
+  "model": "is_500",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/f0a95944-8fdb-4e9b-8e37-dfdc67178314.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/1ae7a6e4-af34-4395-bb45-8416462817ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/c68e4901-4523-4019-833f-1c75eadadf8e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/c41b9b96-4370-4e12-a4be-b5a312941d3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/0afd108a-f849-416e-a3df-38ce89eb9256.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/d2d0e9c4-298d-4367-b6be-97be4440bf50.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/dc1e6762-f4e8-4083-825c-27f4b51795a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/2b5ca69d-3766-4e8b-9956-e74016ac8876.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/f58a21a8-3fa7-43f7-a7d4-6c13470cb71f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/88d1db27-2ff2-4e98-9765-3e1c0cdc3c8d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/41bbb117-fb94-425d-ab3a-f212700f3b40.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/1ec12658-84c6-4382-b7e3-f12ff306e25d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/24303adb-13e4-4577-8e79-60ce5e43da05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/045fc373-8ece-4bdb-8ce3-c80f23cfa2f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/09181574-ceba-4d36-aa30-c5d34b9fb252.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/987e4e66-3e30-4e08-917b-25f488d7b1df.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/fc7bf991-cb1e-4598-9e60-1bd277ba5edc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/de469725-9a6a-4350-96dd-6cea80f9222e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/15db6bb4-e6b6-46fa-b494-88c58385dc03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/e4689667-2efb-4ee7-b383-9bbe79780bd4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/69649876-4062-4919-a080-4033a7375b38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/b07942e4-d3d7-4671-a0d8-5cdf48a6eb96.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/0c291cd4-5963-4bd3-9408-5a2d7d6ca332.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/c41b9b96-4370-4e12-a4be-b5a312941d3e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/9c900af0-abad-4066-a73c-6ce0b005f491.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/a96830ad-c191-42e2-b213-693eb47b019b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/3aab2daf-0287-499b-bbf5-cf13963de6a8/cadb2c0a-0cce-4a98-ba49-e991d71c7e90.png"
+      ],
+      "expert_review": "What Is the 2024 Lexus IS?\n\nThe Lexus IS is a compact luxury sports sedan that seats up to five people. The rear-wheel-drive IS 300 features a 241-horsepower, turbocharged 2.0-liter four-cylinder, while the all-wheel-drive IS 300 uses a 260-hp, 3.5-liter V-6.\n\nBoth RWD and AWD versions of the IS 350 come with a 311-hp, 3.5-liter V-6. The high-performance, range-topping IS 500 is only available with RWD and is powered by a 472-hp, 5.0-liter V-8. Rear-drive IS models get an eight-speed automatic, while AWD cars are fitted with a six-speed automatic. The IS’ competitors include the Alfa Romeo Giulia, Audi A4, BMW 3 Series, Cadillac CT4, Genesis G70 and Mercedes-Benz C-Class.\n\nWhat’s New on the 2024 Lexus IS?\n\nThe F Sport trim levels are now available with the base IS 300 powertrains. The F Sport Design adds 19-inch wheels and more aggressive exterior styling, plus a sport-tuned suspension, while the F Sport includes the features above and adds aluminum pedals, heated and ventilated front seats, and a heated steering wheel.\n\nThe IS 350 F Sport gets a new Blackout Package for 2024 that consists of matte-black 19-inch wheels, dark-chrome exterior trim and black mirror housings.\n\nWhat Features in the 2024 Lexus IS Are Most Important?\n\nStandard features include:\n\nLED headlights\nKeyless entry and start\nSynthetic leather seating\nPower-adjustable front seats\nDual-zone automatic climate control\n8-inch touchscreen\n10-speaker sound system\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nBlind spot warning\nRear cross-traffic alert\n\nAvailable features include:\n\nMoonroof\nAdaptive shock absorbers\nLimited-slip differential\nHeated front seats\nHeated and ventilated front seats\nHeated steering wheel\n10.3-inch touchscreen with navigation\n17-speaker Mark Levinson audio system\n360-degree parking camera system\nPower rear-window sunshade\nShould I Buy the 2024 Lexus IS?\n\nDespite some astute updates, including a refresh for the 2021 model year, the IS’ basic design is the oldest in its class. Still, this compact sports sedan is fun and satisfying to hustle down a winding road. For similar pricing, the Lexus includes a lot more standard equipment than most of its competitors.",
+      "trims": [
+        {
+          "name": "IS 500 F SPORT Performance RWD",
+          "price": "$58870",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact sport sedan",
+              "Choice of four-cylinder, V-6 and V-8 engines",
+              "Rear- or all-wheel drive",
+              "Adaptive suspension available",
+              "High-performance IS 500 available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.0 L/303 Displacement",
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "472 @ 7100 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "17 gal Fuel Tank Capacity, Approx",
+              "3,891 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "IS 500 F SPORT Performance Premium RWD",
+          "price": "$63370",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact sport sedan",
+              "Choice of four-cylinder, V-6 and V-8 engines",
+              "Rear- or all-wheel drive",
+              "Adaptive suspension available",
+              "High-performance IS 500 available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,891 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert",
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/c099a3a0-8b38-46ff-850f-71e941b87ce5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/9c2aa6a7-0168-478a-a4c4-c6051e5a5906.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/0ddc61c2-7b4b-4256-b12d-1c2f395241e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/2aa0b08c-52ac-4b02-a931-ba3fbd7c1b19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/6dc4e81d-34c8-42fe-a8e1-bb2f24d968dd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/d7fbba46-e66f-4e8d-8b4d-14bb13d62007.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/b6abf562-fc4a-4505-a1af-29620b043638/1e8ee7b3-62f6-4da9-9dd7-1fc6f879fc34.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/c1afeb5f-77fd-40ac-8293-7c8f21f6608c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/123d81a6-62dd-4f13-8c7b-1005a42388d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/c59627ac-db11-43cb-8dd1-53f9b9837657.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/fae71eb6-de6f-4767-92b0-b935950003f9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/16badcb5-296d-4446-ab99-2ab75cb31588/f5b1a54f-87aa-4cc9-bb6f-8b89c2e598b2.png"
+      ],
+      "expert_review": "In 2020, we drove Lexus’ mildly updated IS compact luxury sedan, its rear-wheel-drive-based competitor to luxury stalwarts like the Audi A4, BMW 3 Series and Mercedes-Benz C-Class. We found it to be a pleasant cruiser with a compliant ride, though not terribly athletic, and with a rather cramped interior and dated interior design that was definitely in need of more power. Well, Lexus took care of one of those issues with the new 2022 IS 500 F Sport Performance, replacing the 311-horsepower, naturally aspirated V-6 with an honest-to-God 5.0-liter V-8 engine delivering 472 hp and 395 pounds-feet of torque.\n\nRelated: 2022 Lexus IS 500 F Sport Performance: Get Your V-8 While You Can\n\nIn a world where nearly every automaker is ditching V-8 and even V-6 engines in favor of highly boosted turbocharged four-cylinders, this seems like a strange anachronism (heck, Toyota even ditched V-8 engines for its new 2022 Tundra pickup truck). But “anachronism” isn’t a bad word to describe the IS lineup given its age and competition from newcomers like the Genesis G70, Acura’s all-new TLX, the Alfa Romeo Giulia and the Cadillac CT5. So, does giving it a big V-8 help boost its standing versus newer, more modern ideas of compact luxury sedans?\n\n2022 Lexus IS 500 F Sport Performance | Manufacturer image\nIt Certainly Sounds the Business\n\nThe V-8’s days are sadly numbered as the world moves towards electrification, but we’re still going to enjoy it for as long as we can — and one real reason to enjoy one is the sound it makes. The IS 500 is no slouch in this department; when you plant your right foot, the sounds emanating from the quad tailpipes are beautifully sonorous in ways no amount of EV spaceship soundtrack can match.\n\nI just wish the forward propulsion matched the sound out the back. Yes, acceleration is improved in the IS 500 from the IS 350, but it still doesn’t have the immediacy that we’ve come to enjoy and expect from other competitors, almost all of whom now employ forced induction. Lexus says the 0-60 mph time has been clocked at 4.4 seconds, but honestly, my spin in the IS 500 on public roads around Elkhart Lake, Wisc., didn’t make it seem that quick. In normal driving, it’s perfectly calm and composed, really only delivering a power punch when you specifically call upon it to. Even in its sportiest mode, there’s still an urgency lacking from the power delivery, just like in the lesser IS 350. The big V-8 and eight-speed automatic transmission seem tuned more toward smooth, constant power flow than quicker sprints between corners.\n\n2022 Lexus IS 500 F Sport Performance | Manufacturer image\n\nWhen those corners do arrive, the IS 500 F Sport doesn’t seem to tackle them with any greater prowess than the lesser IS 350 F Sport Performance I drove. Steering is still extremely light and numb without much in the way of sporty feel or feedback, even (again) when engaged in the top sport modes on the drive mode selector. It features the same Dynamic Handling Package and adaptive variable suspension as the IS 350 F Sport Performance and the same Yamaha rear performance damper, as well, so the fact that it has largely the same suspension and is only 143 pounds heavier with the V-8 means that it handles like the IS 350 is to be expected, I suppose. The IS feels like the grand touring model of the compact luxury sedan competitive set, with a ride that’s compliant and relatively forgiving, steering that’s light and easygoing, and brakes that are on the soft side for pedal feel and performance.\n\nI sadly was not able to take one out on the circuit track of nearby Road America, where I sampled the IS 500 at the recent Midwest Automotive Media Association Fall Rally, but this was due to the interior headroom being so limited that I could not sit in the IS 500 with the required helmet. Still, given the general lack of bite to a lot of the IS 500’s controls, it didn’t really inspire me to even want to take it out on the track — it felt a lot better suited to delivering a countryside grand touring experience than a track day romp. \n\nStill Needs That Thorough Interior Rethink\n\nInside the IS 500, you’ll find the same interior updates that Lexus made for the 2021 IS 300 and IS 350. The new multimedia screen that eliminates the reviled mouse-controller-joystick thing is a positive move, but the rest of the interior still needs a major overhaul to be competitive with the best in the industry. Too much old-style Lexus is in here, from the nonlinear automatic transmission shifter to the gimmicky gauges and dated info screens. It’s also extremely cramped front and rear, with a narrow cabin that doesn’t offer much in terms of knee or headroom, plus seats that are decidedly sized for smaller people. That said, the interior is offered up in some dramatic colors, the fit and finish are exemplary, and the material quality still impresses from the dash to the doors to the seat materials. \n\n2022 Lexus IS 500 F Sport Performance | Manufacturer image\n\nThe thing is, there’s a new kid in town who absolutely smashes all of the desirable sports sedan traits: the Genesis G70. After sampling the IS 500 for an extended street drive, I popped into the recently refreshed 2022 G70 Launch Edition with the optional 365-hp, twin-turbocharged 3.3-liter V-6 and sport suspension, and found it to be brilliant from start to finish. Fast, modern, gorgeous to look at and sensationally rewarding to drive — it put the dated, cramped, old-school IS 500 into true context.\n\nMore From Cars.com:\n\n2022 Lexus ES, IS: More or Less (or Much, Much More)\n2021 Lexus IS: 6 Things We Like and 4 Things We Don’t\n2021 Lexus IS: ‘I’ Is for Improved, ‘S’ Is for Sort Of\nUpdated 2021 Lexus IS Gets Updated Pricing, Starts at $40,025\nResearch the Lexus IS\nHere, Have a Second Opinion\n\nCars.com News Editor Brian Normile had a longer stint in the IS 500 than I did, including an extended highway jaunt. His sentiments largely echoed mine, however, when it came to the dynamics of the IS 500. “It sounds delightful, always a strong suit of a 5.0-equipped Lexus,” he says. “This feels like what the GS F and RC F should’ve been, and what the F Sport package should be going forward: some performance enhancements including a higher-output engine, but not pretending that it can take on the real BMW Ms, Mercedes-AMGs or Cadillac Vs of the world. And, as such, it’s at a relatively lower price point than true performance rivals.”\n\n2022 Lexus IS 500 F Sport Performance | Manufacturer image\n\nI think that sums up the IS 500 quite nicely. It’s an old-school player in a new-school world, updated with more horsepower in an equally old-school way, trying to hang on until Lexus ponies up some serious development cash to modernize it … or, perhaps more likely, kills it entirely given that the entire world apparently now prefers compact luxury crossovers to compact luxury sedans. If you’re one of the holdouts that still wants a compact luxury sports sedan however, the IS 500 — which starts at $57,575 (including $1,075 destination) — will provide you with some nostalgic pleasures, but better modern takes on the sports sedan are available. \n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "IS 500 F SPORT Performance RWD",
+          "price": "$56850",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,891 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Optional Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "IS 500 F SPORT Performance Premium RWD",
+          "price": "$61350",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-8 Engine Type",
+              "5.0 L/303 Displacement",
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "472 @ 7100 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,891 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Optional Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "IS 500 F SPORT Performance Launch Edition RWD",
+          "price": "$67400",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "3,891 lbs Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Automatic Emergency Braking",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/d828f876-126f-4052-85ac-ff67bbb833bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/a36ef034-c6a7-4dbb-95de-936edf877a86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/a9413e26-9b26-4ac9-8da3-c381f7ab72bb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/2c91b568-0793-4cf2-b09f-beec06fc03b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/ce95299c-f907-4a69-a7ec-f7fb5ad3cd70.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/99596f51-86dd-4486-af64-e971ee6c0317.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/9a95d6bb-e2a6-4a4a-8ba0-76f47d92491f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/39207179-eba8-4e91-8eaf-35631ff66b9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/77b676e6-7aac-4602-97ce-516669b7a80b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/5ed01e38-9cd8-4b68-85e2-b914bb05fdba.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/1f0eccec-3049-4cfa-882e-80de7f34f386.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/95c9a363-a5ae-4fca-b7d9-4720e3eadbd6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/e19f952c-df5f-43a3-941e-d481f4c5bbbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/98c73191-4e4d-4b57-a302-18915b310793.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/33b5cb56-75cb-4a02-b315-6d232cbb9ac8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fdf0dc84-4bf3-4398-9b38-e44757a75c84/d2d1c8ce-d045-462e-becc-ce7efa23cffd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/6d3390bc-2f84-4af9-b916-27cebce01040.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/7f70f966-dfad-43f2-aefd-ac18c1385239.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/953bec52-4554-4998-bcb2-dfe251e4c978.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/a80429ba-2dc9-4bac-a32d-a738199ed7d8.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fdf0dc84-4bf3-4398-9b38-e44757a75c84/e09bcb0c-3e82-49dd-9313-2a0fa061f625.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/fbc67912-54fb-4a40-baf4-f2591a257cb9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/79f59af7-bf91-42cb-85f2-531e99dab58d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/97de7205-4dd8-424d-89ea-9bd5d2adab69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/f1182600-aaf4-4b7f-a16a-fe1ed7cb4cef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/475efc20-1cc3-4182-8cb7-ced797e11aa4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/120867f6-d603-421d-8082-637f47ece870/b64034bd-b983-4ea8-920a-1f7d637ed0e5.png"
+      ],
+      "expert_review": "After a full redesign for 2021 and a V-8-powered 500 F Sport Performance introduced for 2022, the Lexus IS compact sports sedan rolls into 2023 with familiar powertrains, performance specs and tech features. Minor updates include limited-run appearance packages for the 350 and 500 F Sport, a new F Sport Design option and Handling Package for the 350 F Sport, and a modest price bump across the board.\n\nRelated: 2021 Lexus IS 350 Review: Refocused but Not Rejuvenated\n\nWhat’s New?\n\nThe updates for the 2023 IS are mainly aesthetic. The Special Appearance Package for the 480-unit 350 F Sport features Incognito paint accents, a black hood and roof, and 19-inch Enkei alloy wheels; on the 150-unit 500 F Sport Premium, it includes Molten Pearl exterior paint, black synthetic leather seats and 19-inch matte-black forged-alloy wheels. The latter is now available as an option on all 500 F Sports.\n\n2023 Lexus IS | Manufacturer image\n\nThe new 350 F Sport Design variant comes with exterior F Sport styling cues including a trim-specific grille, bumpers, rear spoiler, 19-inch wheels and badging. A new Handling Package adds an adaptive variable suspension, Torsen limited-slip rear differential for rear-wheel-drive variants, and Drive Mode Select with Sport S/S Plus and Custom modes.\n\nPowertrains\n\nFour powertrain options are again available for the IS. The base 300’s 241-horsepower, 2.0-liter four-cylinder engine pairs with an eight-speed automatic transmission on RWD models; the all-wheel-drive 300 swaps the four-cylinder for a 260-hp, 3.5-liter V-6 with a six-speed automatic. The 350 F Sport splits the difference between the 300 and 500 with a 3.5-liter V-6 that makes 311 hp; RWD models get an eight-speed automatic transmission, while AWD versions employ the six-speed automatic. And under the hood of the RWD-only 500 F Sport Performance is a 5.0-liter V-8 making 472 hp and mated to an eight-speed automatic transmission.\n\nTech, Safety and Standard Features\n\nStandard features inside all IS models include Lexus’ NuLuxe synthetic leather seats (heated front seats come standard with AWD), dual-zone automatic climate control and an 8-inch touchscreen with Apple CarPlay, Android Auto and Amazon Alexa integration. A larger 10.3-inch screen is available with the Navigation Package, and you can add Mark Levinson 17-speaker premium audio atop that. The base 300 rides on 18-inch wheels and gets standard LED headlights, taillights and daytime running lights.\n\nA suite of safety and driver-assist features can be found across the IS lineup as part of Lexus Safety System Plus 2.5: Forward collision warning, automatic emergency braking, pedestrian and bicyclist detection, lane departure steering assist and adaptive cruise control with stop-and-go come standard.\n\nF Sport Appointments\n\nF Sport models add a heated and leather-trimmed steering wheel, bolstered heated and ventilated front seats, unique interior trim with black geometric design, and perforated synthetic leather upholstery. The 500 F Sport Performance adds black logos on the steering wheel and doors, F Sport startup animation and a 360-degree camera system for the Premium variant. Exterior cues include trim-specific front and rear bumpers, grille surround, rear spoiler and exhaust tips, and larger 19-inch wheels, while the 500 F Sport Performance adds a raised hood, quad exhaust system, unique badging, a power moonroof and 19-inch alloy wheels.\n\nTrims, Pricing and Release Date\n2023 Lexus IS | Manufacturer image\n\nThe 2023 Lexus IS is on sale now with a starting price of $40,585 for the base 300 (all prices include a $1,150 destination charge); AWD adds $2,000 to the 300 and 350 F Sport. All returning models see prices creep up $270-$310 over model-year 2022.\n\n300: $40,585 (up $310)\n350 F Sport Design: $43,660\n350 F Sport: $44,910 (up $210)\n500 F Sport: $58,270 (up $270)\n500 F Sport Premium: $62,770 (up $270)\nVersus the Competition\n\nThe Lexus IS competes among luxury compact sport sedans including the Acura TLX, BMW 3 Series and Genesis G70 — and like the IS, each of these rivals offers a higher-performance variant. The 2022 TLX starts at $39,995 and $54,795 for the performance-oriented Type S; the 2023 3 Series starts at $43,295 and $55,765 for the M340i; and the 2023 Genesis G70 starts at $40,245 for the base trim and $45,745 for the 3.3T.\n\nMore From Cars.com:\n\n2022 Lexus IS 500 F Sport Performance: Get Your V-8 While You Can\n2021 Lexus IS: 6 Things We Like and 4 Things We Don’t\n2022 Lexus ES 350 Review: Now More Reasons to Buy\nWhat’s New With Lexus for 2022?\nResearch the Lexus IS\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "IS 500 F SPORT Performance RWD",
+          "price": "$58270",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "5.0 L/303 Displacement",
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "Premium Unleaded V-8 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "3,891 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "IS 500 F SPORT Performance Premium RWD",
+          "price": "$62770",
+          "specifications": {
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "5.0 L/303 Displacement",
+              "Premium Unleaded V-8 Engine Type",
+              "395 @ 4800 SAE Net Torque @ RPM",
+              "472 @ 7100 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "3,891 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/cdebb79b-23fd-44a7-8938-7489cdba02a3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/840eb4d7-b7b2-45eb-a04d-df5dbba7aadb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/f7621c0d-b465-4384-ab32-dce6f7bddcb1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/56c151df-3079-4805-a20e-7a54244e48cb.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/af3a76d3-f46f-4e20-a391-80bf41e555d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/1630f5f1-b1ab-4e43-9f9d-d58b5d6a3c73.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/f2850a3e-dbe3-4478-8b2c-3bdb2331a194.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/4edc2a64-73d3-454d-a92d-d8fb9939a75b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/838c3742-4a31-4bf0-b9c4-d36aa4b7fa7b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/44407982-9054-4965-b21a-83d275694ff5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/131d99d5-7295-4d53-bed2-073a0e98a618.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/60ccba15-91bc-4cc4-9171-d557355e5cd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/e5fc46c2-234d-4f66-aa8a-fb6e38ccc0a6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/eb70abdd-7db5-4f07-b829-8340afad1e6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/c40e47f0-3a6b-4539-a2c7-9df9e3fbf026.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/ad643239-b029-449d-8612-f9dc43dbd5b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/b51d1f47-95cf-4205-b0a4-7a76651112be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/85a7768e-cda7-4f0b-8920-e8ee7a88c2cd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/56c8a7f6-d9e0-431f-9031-bcfa66677974.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/32e42953-37a3-47dd-b4ae-7b738e81310f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/62004362-d019-40b5-99cc-c636af51d40a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/cf244db3-221f-45a2-94e9-806c1d9ea0f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/3fa77c67-1ee2-45bb-84e8-ea182ddca346.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/5f3aadb5-d2c5-4a88-bb8e-763ba006cbf7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/3f8bfabb-df16-45bd-9493-bb6191eb0f6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/f667c389-3b68-433f-a8f6-2cdca59258c0/817bf21d-85e1-41c3-be9b-76d1b378791a.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/0e214bce-ab77-4f45-9d0b-35a1e113e2a9/2a8b7ac7-1851-4607-bad9-d4dcac479daf.png"
+      ],
+      "expert_review": "What Is the 2025 Lexus IS?\n\nThe Lexus IS is a compact luxury sports sedan that seats up to five people. The rear-wheel-drive IS 300 features a 241-horsepower, turbocharged 2.0-liter four-cylinder, while the all-wheel-drive IS 300 uses a 260-hp, 3.5-liter V-6. Both the RWD and AWD versions of the IS 350 come with a 311-hp, 3.5-liter V-6. The high-performance, range-topping IS 500 is only available with RWD and is powered by a 472-hp, 5.0-liter V-8. Rear-drive IS models get an eight-speed automatic, while AWD cars are fitted with a six-speed automatic. The IS’ competitors include the Alfa Romeo Giulia, BMW 3 Series, Cadillac CT4, Genesis G70 and Mercedes-Benz C-Class. \n\nWhat’s New on the 2025 Lexus IS?\n\nSelect IS trims get more standard equipment for 2025, and the IS 500 gains a couple of limited-production special editions: A Special Appearance Package celebrating the IS’ 25th anniversary is limited to 180 units, and an Ultimate Edition is limited to 500 examples. \n\nWhat Features in the 2025 Lexus IS Are Most Important?\n\nStandard features include:\n\nLED headlights\nKeyless entry and start\nSynthetic leather seats\nPower-adjustable front seats\nDual-zone automatic climate control\n8-inch touchscreen\n10-speaker sound system\nForward collision warning with automatic emergency braking\nLane departure steering assist\nAdaptive cruise control\nBlind spot warning\nRear cross-traffic alert\n\nAvailable features include: \n\nMoonroof\nAdaptive shock absorbers\nLimited-slip differential\nHeated front seats\nVentilated front seats\nHeated steering wheel\n10.3-inch touchscreen with navigation\n17-speaker Mark Levinson audio system\n360-degree parking camera system\nPower rear-window sunshade\nShould I Buy the 2025 Lexus IS?\n\nDespite some astute updates, including a refresh for the 2021 model year, the IS’ basic design is the oldest in its class. Still, this compact sports sedan is fun and satisfying to hustle down a winding road, and Lexus includes a lot more standard equipment than most of its competitors at a similar price.",
+      "trims": [
+        {
+          "name": "IS 500 F SPORT Performance RWD",
+          "price": "$59520",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact sport sedan",
+              "Choice of four-cylinder, V-6 and V-8 engines",
+              "RWD or AWD",
+              "Adaptive suspension available",
+              "High-performance IS 500 available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "Premium Unleaded V-8 Engine Type",
+              "5.0 L/303 Displacement",
+              "395 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "3,891 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "IS 500 F SPORT Performance Premium RWD",
+          "price": "$64020",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact sport sedan",
+              "Choice of four-cylinder, V-6 and V-8 engines",
+              "RWD or AWD",
+              "Adaptive suspension available",
+              "High-performance IS 500 available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-8 Engine Type",
+              "5.0 L/303 Displacement",
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "395 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,891 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "IS 500 F SPORT Performance Ultimate Edition RWD",
+          "price": "$71495",
+          "specifications": {
+            "Notable features": [
+              "Five-seat compact sport sedan",
+              "Choice of four-cylinder, V-6 and V-8 engines",
+              "RWD or AWD",
+              "Adaptive suspension available",
+              "High-performance IS 500 available"
+            ],
+            "Highlights": [
+              "17 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Premium Unleaded V-8 Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Premium Unleaded V-8 Engine Type",
+              "5.0 L/303 Displacement",
+              "472 @ 7100 SAE Net Horsepower @ RPM",
+              "395 @ 4800 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,891 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "15 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

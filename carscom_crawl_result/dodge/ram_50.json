@@ -1,0 +1,62 @@
+{
+  "make": "dodge",
+  "model": "ram_50",
+  "years": {
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ed27c1a2-4c63-4639-badc-a8f4a183bc9f/486e969d-c087-41dd-aec6-8b05a932185e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Reg Cab 105\" WB",
+          "price": "$8337",
+          "specifications": {}
+        },
+        {
+          "name": "Reg Cab 116\" WB",
+          "price": "$8892",
+          "specifications": {}
+        },
+        {
+          "name": "Reg Cab SE 105\" WB",
+          "price": "$9477",
+          "specifications": {}
+        },
+        {
+          "name": "Reg Cab 105\" WB 4WD",
+          "price": "$11347",
+          "specifications": {}
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/50a195b7-b3e9-4b02-87e1-95f9b1db1110/0f6c982f-17c6-4013-b1ff-908642806701.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Reg Cab 105\" WB",
+          "price": "$8865",
+          "specifications": {}
+        },
+        {
+          "name": "Reg Cab 116\" WB",
+          "price": "$9432",
+          "specifications": {}
+        },
+        {
+          "name": "Reg Cab SE 105\" WB",
+          "price": "$10035",
+          "specifications": {}
+        },
+        {
+          "name": "Reg Cab 105\" WB 4WD",
+          "price": "$11956",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

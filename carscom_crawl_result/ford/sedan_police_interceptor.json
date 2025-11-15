@@ -1,0 +1,28 @@
+{
+  "make": "ford",
+  "model": "sedan_police_interceptor",
+  "years": {
+    "2006": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2013": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_3700",
+          "price": "$3700",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

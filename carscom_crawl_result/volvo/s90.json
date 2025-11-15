@@ -1,0 +1,852 @@
+{
+  "make": "volvo",
+  "model": "s90",
+  "years": {
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/09b444aa-5937-47c6-a77d-b668b01abd21.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/d08f6953-6771-429f-9823-44d6920f83ea.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/3ab8f795-de51-4e3e-ba92-c08a86ae996c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/c414962b-5753-472f-a930-0626e00216f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/8b761e8f-79fa-47ea-86b6-41ba5f5f4625.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/8a64390b-31c1-4bcb-bcea-29b4ac65996e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/3cd2734a-ed82-430e-b6e4-be26d6774c5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/4d997d55-001b-412d-a7ec-333906b4d8ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/1b9f8c7b-ca7e-43ff-88af-ad774fa93e1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/0a65589c-efec-440f-a839-1d35bc060f0e.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/721c9eda-2a7e-4328-8e53-7d6ffa91faee/a92ad9c2-eb8f-446b-822d-f63719ec2b14.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/11e7b64b-9e9e-4e27-ab00-779eed4ffc44.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/38b792ec-06e1-4b8d-92c4-7e17ea43b0ad.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/21edee0a-3b08-4447-a1a0-afe7ae837b54.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/317099c3-e094-4ebe-8a08-9622d75f2b51.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/732c847f-269c-4a52-9ad6-a2572739f33d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/a48186a1-d630-4d71-9b2d-4f51690e5af4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/ee5e21f4-7056-45e2-9361-4c3385df84d9.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/9eadf166-5839-43da-b631-2933367e41b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/01b61685-7408-4635-8647-a0064f3300c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/e7205ce3-3c41-4c70-bd4a-f03fdc8d06a8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/ac45c7f8-954d-4777-bde2-2b1069933d3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/cb952c69-7494-44b6-830e-570d78059c19.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/613c7efa-950e-421e-bac8-68db9bb9c126.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/2bf78698-b306-4b93-bdc2-7624fe440197.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8165d484-07b4-4ce7-aacb-8a03711fb76a/0d6ed45f-3703-49f6-b6aa-0680469418f6.png"
+      ],
+      "expert_review": "What Is the 2024 Volvo S90?\n\nThe Volvo S90 mid-size luxury sedan seats five and competes with the BMW 5 Series and Audi A6. It’s powered by a turbocharged and supercharged mild-hybrid 2.0-liter four-cylinder engine that makes 295 horsepower. A Recharge plug-in hybrid version cranks out 455 hp and can travel up to 38 miles on electric power alone, according to EPA estimates. All S90s have an eight-speed automatic transmission and all-wheel drive.\n\nWhat’s New on the 2024 Volvo S90?\n\nChanges to the S90 are minimal for 2024. The plug-in hybrid is now available in the more affordable Plus trim, and a power trunk lid is now available on all trims.\n\nWhat Features in the 2024 Volvo S90 Are Most Important?\n\nStandard features include:\n\nAll-wheel drive\n19-inch aluminum wheels\n9-inch touchscreen\nApple CarPlay and Android Auto\nGoogle Built-In infotainment system\nAudio system with 10 speakers\nFour-zone climate control\nAutomatic headlights and high beams\nAdaptive self-leveling headlights\nCornering lights\nRain-detecting wipers\nPower moonroof\nPower heated side mirrors\nRemote start\nPower heated front seats with lumbar adjustment\n60/40-split, folding and heated rear seats\nLeather seating\nRemote keyless entry\nProximity key and push-button start\nWood and aluminum interior trim\nHeated steering wheel\nTilt/telescoping steering wheel\nPower rear sunshades\nAdaptive cruise control with stop and go\nAutomatic emergency braking\nPilot Assist\nBlind spot warning\nLane departure warning with lane departure steering assist\nFront and rear collision mitigation\nFront and rear parking sensors\n360-degree camera system\n\nAvailable features include:\n\nVentilated rear seats\nMassaging front seats\n20-inch aluminum wheels\n600-watt Harman Kardon audio system with 14 speakers\n1,410-watt Bowers & Wilkins High Fidelity audio system\nReal-time traffic data\nPower open and close trunk\nHead-up display\nPerforated Nappa leather upholstery\nNavigation\nFour-way power lumbar adjustment in front seats\nShould I Buy the 2024 Volvo S90?\n\nThe S90 stands out from its rivals by prioritizing elegance over athleticism, and it offers more backseat space than the class norm. The lack of a mega-horsepower performance model might turn away some luxury-sports-sedan shoppers, but the standard engine is respectably potent and the plug-in hybrid model offers both efficiency and power.",
+      "trims": [
+        {
+          "name": "B6 AWD Plus",
+          "price": "$58300",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size luxury sedan",
+              "Mild-hybrid or plug-in hybrid (Recharge) powertrains",
+              "All-wheel drive",
+              "38 miles of all-electric range (Recharge)",
+              "Google Built-In infotainment system"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 @ 2100 SAE Net Torque @ RPM",
+              "295 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,296 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "B6 AWD Ultimate",
+          "price": "$63900",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size luxury sedan",
+              "Mild-hybrid or plug-in hybrid (Recharge) powertrains",
+              "All-wheel drive",
+              "38 miles of all-electric range (Recharge)",
+              "Google Built-In infotainment system"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 @ 2100 SAE Net Torque @ RPM",
+              "295 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,340 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/ec42ffee-c351-4309-a5dd-5b4f0126af13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/1e15d962-a12e-4b26-923a-93ea6a2a76ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/38c5740e-44d4-4fa2-aeeb-6a76bbbd7d0d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/9a9b8ef2-fbf8-4482-91bc-ff1d8014cfd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/cfb81a35-38af-4c54-9495-2d532dd97153.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/391c9e1f-ae2f-47ed-8579-8da7d8b3da28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/6e70e1c4-f5a9-4ea6-a996-4a05dbf714fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/8dde75c8-80d4-4402-88ed-61d9f79767bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/c253093f-be93-40b1-9064-efaa082040fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/e63fc7b4-9e63-451f-90cd-b3bd5b1c5b62.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/18d54108-53f1-40b0-9351-42fed5e694f3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/d5f06801-a1cf-41e1-a805-2994d4f65514.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/29da357b-b837-4ba7-b277-0c40e58de4cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/920bbfb6-5d73-4afa-ab0f-ea97948e74c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/f9a94788-958e-408d-9c55-2ecd680bbadc.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/58392447-1693-4205-b93e-77174bbe9727.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/58392447-1693-4205-b93e-77174bbe9727.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/9bd6013b-e6a8-424b-86e8-4ab5a3ab124a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/91328c48-bed9-452f-93ad-04375248df18.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/1cb68337-f5b7-4681-acb4-0faface847f5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/32dc76e2-d46d-48b6-9f31-c7b17182c2db.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/a7cdb323-d23a-4396-a705-769b55548eb3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/dde7d3a0-4d07-4fec-8f9a-cee10972c50b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/3a883060-d220-4a6d-989e-b9a4e837cff7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/d5c9affb-5ccf-49b3-9218-b6b56b56aa83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/bafd2a87-2c88-4683-a822-bd11c304c0b5/ccb4d6b1-1013-4021-81c2-fe11a9d20663.png"
+      ],
+      "expert_review": "What Is the 2025 Volvo S90?\n\nThe Volvo S90 mid-size luxury sedan seats five people and competes with the BMW 5 Series and Audi A6. It’s powered by a turbocharged and supercharged mild-hybrid 2.0-liter four-cylinder engine that makes 295 horsepower. A plug-in hybrid version cranks out 455 hp and can travel up to 38 miles on electric power alone, according to EPA estimates. All S90s have an eight-speed automatic transmission and all-wheel drive.\n\nWhat’s New on the 2025 Volvo S90?\n\nThe S90 is essentially unchanged for 2025. The top-line Ultimate trim is now called Ultra, and the plug-in hybrid version loses “Recharge” from its name.\n\nWhat Features in the 2025 Volvo S90 Are Most Important?\n\nStandard features include:\n\nAWD\n19-inch aluminum wheels\n9-inch touchscreen\nApple CarPlay and Android Auto\nGoogle Built-In infotainment system\nAudio system with 10 speakers\nFour-zone climate control\nAutomatic headlights and high beams\nAdaptive self-leveling headlights\nCornering lights\nRain-sensing wipers\nPower moonroof\nPowered and heated side mirrors\nRemote start\nPowered and heated front seats with lumbar adjustment\n60/40-split, folding and heated rear seats\nLeather seating\nRemote keyless entry\nProximity key and push-button start\nWood and aluminum interior trim\nHeated steering wheel\nTilt/telescoping steering wheel\nPower rear sunshades\nAdaptive cruise control with stop and go\nAutomatic emergency braking\nPilot Assist\nBlind spot warning\nLane departure warning\nLane departure steering assist\nFront and rear collision mitigation\nFront and rear parking sensors\n360-degree camera system\n\nAvailable features include:\n\nVentilated rear seats\nMassaging front seats\n20-inch aluminum wheels\n600-watt Harman Kardon audio system with 14 speakers\n1,410-watt Bowers & Wilkins High Fidelity audio system\nReal-time traffic data\nPower open and close trunk\nHead-up display\nPerforated Nappa leather upholstery\nNavigation\nFour-way power lumbar adjustment in front seats\nShould I Buy the 2025 Volvo S90?\n\nThe S90 stands out from its rivals by prioritizing elegance over athleticism, and it has more backseat space than the class norm. The lack of a mega-horsepower performance model might turn away some luxury sports sedan shoppers, but the standard engine is respectably potent and the plug-in hybrid model offers both efficiency and power.",
+      "trims": [
+        {
+          "name": "B6 AWD Plus",
+          "price": "$58300",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size luxury sedan",
+              "Mild-hybrid or plug-in hybrid powertrain",
+              "AWD",
+              "38 miles of all-electric range (plug-in hybrid)",
+              "Google Built-In infotainment system"
+            ],
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "310 @ 2100 SAE Net Torque @ RPM",
+              "295 @ 5400 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,296 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "B6 AWD Ultra",
+          "price": "$63900",
+          "specifications": {
+            "Notable features": [
+              "Five-seat mid-size luxury sedan",
+              "Mild-hybrid or plug-in hybrid powertrain",
+              "AWD",
+              "38 miles of all-electric range (plug-in hybrid)",
+              "Google Built-In infotainment system"
+            ],
+            "Highlights": [
+              "23 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "295 @ 5400 SAE Net Horsepower @ RPM",
+              "310 @ 2100 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,340 lbs Base Curb Weight",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/0f2db161-9d2d-4a60-b17b-8b54ccda4256.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/5c62e969-1df3-4494-b11b-428c9073fcb2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/759c677c-f29b-41b8-b365-a4640ad1dde6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/3708e853-5401-45fc-a5a7-58c1ff5a4210.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/520cd30a-f4ad-4273-9cb4-09198e9076c1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/59c80596-a2cc-4f46-9667-05acc23c6f24.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/bba7f1c9-c275-4640-bdf9-1405a08bd1de/0800327d-172a-42db-930b-8fe6407557d2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/028a1e88-cdef-42ce-b49f-97248b6c078c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/352cdbde-7567-48b1-b0fb-09a4935e21f2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/7771731e-0010-4c65-a9b4-52476226d37c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/f4319127-1a54-44f4-9c42-3d24f2b5e36d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/3c546be1-0c60-4e15-b5eb-987fa1fbcc0a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/ed538a11-d04d-43a4-aa7f-da3702e72176.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/9684c175-e0be-482f-85f0-d35bb45af834.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/d678be0d-308b-4e58-b389-dbb75baf4ed4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/995b53a2-4325-463a-8e31-0ea1d1e4b08f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/1530bd59-3011-4d82-8287-77180860b895.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/f48ab1c9-55e2-400c-b5a5-626bfdecf4ae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/72fcb794-6593-41ec-a781-339692e007e2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/f94103cf-a546-4049-975b-724ced97f49d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/b0040f00-7e8e-4e46-85b9-6aa8b726ecc2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/0463c0ca-1df8-4001-9ebe-2074099b0ed1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/175f90ba-ee48-43f9-8619-bfebeb49324a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/259be3d3-7ccc-44dc-aeea-828b84f52ff0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/854eed4a-d5ce-40d2-924b-69613559d642.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/a7a51e2c-fb1e-4663-83dc-46afa90ead36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/e2f6c1b4-fde6-4405-b7e0-925b2cc803e6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/bc1131fe-fc71-4629-9e5b-7718de613903.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/d0d7d151-4e16-4f49-98e3-4fd6dd5629ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/d00867d8-bc00-4f18-b5fc-bbca7a563982.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e1006cc1-219e-41d4-b9d7-5012537545dc/a550a867-2965-4298-98a8-e0b40cc21dc6.png"
+      ],
+      "expert_review": "Much of Volvo’s lineup includes some type of electrified powertrain option — from the all-electric XC40 SUV to plug-in options and mild-hybrid setups — and now the automaker is expanding the technology to the V90 Cross Country wagon.\n\nRelated: New Volvos After 2019 Will Be Hybrid or Electric\n\nVolvo began rolling out its mild-hybrid powertrain in the 2020 XC90 large SUV, followed by the XC60 compact SUV, and the V90 Cross Country will use the same system. According to Volvo, the models’ 48-volt mild-hybrid powertrain and kinetic energy recovery braking system offers drivers up to 15% fuel savings and emissions reductions in real-world driving.\n\nOther updates to the V90 and S90 include a new lower front bumper, new spoiler design and new foglights. V90 and V90 Cross Country models also wear a new light design in back with full LED-powered signature lighting.\n\nInside, there’s a new available Bowers & Wilkins audio system, as well as wireless charging and updated USB-C ports. Volvo also said the tailored wool-blend seats first introduced on the XC90 are now available on all 90 and 60 models, as well as a leather-free interior option, which is available on the top trim of each.\n\nNo word yet on when the new models are coming. Volvo announced the updates to the S90 and V90 in a global news release but said only that the refreshed models will be available in many markets.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "T6 AWD Momentum",
+          "price": "$50550",
+          "specifications": {
+            "Notable features": [
+              "New R-Design version",
+              "Five-seat mid-size luxury sedan",
+              "All-wheel drive standard",
+              "Turbocharged and supercharged engine standard",
+              "Pilot Assist driver-assist system",
+              "Plug-in hybrid model available"
+            ],
+            "Highlights": [
+              "21 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "295 @ 2200 SAE Net Torque @ RPM",
+              "316 @ 5700 SAE Net Horsepower @ RPM",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,819 lbs Base Curb Weight",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "T6 AWD R-Design",
+          "price": "$53650",
+          "specifications": {
+            "Notable features": [
+              "New R-Design version",
+              "Five-seat mid-size luxury sedan",
+              "All-wheel drive standard",
+              "Turbocharged and supercharged engine standard",
+              "Pilot Assist driver-assist system",
+              "Plug-in hybrid model available"
+            ],
+            "Highlights": [
+              "21 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 @ 2200 SAE Net Torque @ RPM",
+              "316 @ 5700 SAE Net Horsepower @ RPM",
+              "2.0 L/120 Displacement",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "16 gal Fuel Tank Capacity, Approx",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "4,819 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "210 Maximum Alternator Capacity (amps)",
+              "800 Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "T6 AWD Inscription",
+          "price": "$53650",
+          "specifications": {
+            "Notable features": [
+              "New R-Design version",
+              "Five-seat mid-size luxury sedan",
+              "All-wheel drive standard",
+              "Turbocharged and supercharged engine standard",
+              "Pilot Assist driver-assist system",
+              "Plug-in hybrid model available"
+            ],
+            "Highlights": [
+              "21 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbo/Supercharger Premium Unleaded I-4 Engine Type",
+              "2.0 L/120 Displacement",
+              "316 @ 5700 SAE Net Horsepower @ RPM",
+              "295 @ 2200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,819 lbs Base Curb Weight",
+              "1,650 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "165 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "1,650 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "165 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2017": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/453e3f9b-5e4b-494e-9868-78d2409fb7b7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/4f35aa9a-c320-4894-8bd9-1233f6b78cee.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/5cfd1227-0ad8-4402-9cd3-0abacc9b34e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/f84613a4-0de3-401b-8618-dcdb07264341.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/347b2c7f-fe11-45b7-8d46-3a63f46da3d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/98eafe84-2574-41f9-b054-5ed646f43347.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/bcc2536f-4306-448d-8721-ab8a83b9af38.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/d18953dc-1c4e-4502-8ad3-12a534059d5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/da491e95-ae35-41e3-b200-9c1c581a3e4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/67ba8604-67fb-4048-b0a7-892efaa4b217.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/19d9a438-4d19-4b6c-b350-001551f594ed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/156dc95e-88da-4bac-b586-0b890c775474.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/c2195180-8806-49d3-b219-a1cafd485fcd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/99d1eb0a-70fc-4683-9d9f-9f92aed77ccc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/bd3db231-ebd3-4e79-91a1-2f0836af3754.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/49e34fdc-ac01-4d8a-b440-8ad4ae29b5bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/e9d7c6d8-2596-45e4-8994-3df3046bd933.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/aa203e93-5432-4948-8449-3f2cb5a44c4b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/14734fe6-3296-46aa-ba97-dd1185c31550.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/fd0f6c72-ce55-45ad-aafe-d7d79efc0c23/002fdf57-e008-409c-b8d9-b5466f2256af.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/7ba0ed94-bc66-4ab6-9670-ae33767e240a/e15debe1-411b-4b7d-922e-1622e7b04e45.png"
+      ],
+      "expert_review": "Like the redesigned XC90 SUV that debuted last year, the S90 is another piece in Volvo’s strategy to remake the brand as a distinctly Swedish luxury offering. Though the S90 is Volvo’s flagship sedan, it’s closer in size to mid-size luxury cars like the Audi A6, BMW 5-Series and Mercedes-Benz E-Class than to full-size German flagships like the Audi A8 and Mercedes-Benz S-Class.\n\nThe Volvo S90 starts at $47,945, including a $995 destination charge, for the base T5 Momentum trim with front-wheel drive and a 250-horsepower, turbocharged 2.0-liter four-cylinder gas engine. We tested an uplevel T6 Inscription model with all-wheel drive and Volvo’s supercharged and turbocharged four-cylinder gas engine, which is rated at 316 hp. The front-drive T6 Inscription base price starts at $56,445 including destination, but a healthy list of optional features raised our as-tested price to $66,365.\n\nExterior & Styling\n\nEven though the new Volvo S90 uses a front-wheel-drive platform, it has the eye-pleasing proportions of a rear-wheel-drive car. The passenger compartment is set farther back, with a long hood stretching out in front of it. The wide grille doesn’t dominate the front of the car like some brands’ grilles, but it’s elegant and distinctive in its own way.\n\nVolvo also has some of the coolest headlights around in the S90’s standard Thor’s hammer lighting. The standard LED headlights incorporate daytime running lights that approximate a hammer. Many brands have their own light signatures, but Volvo’s is one of the more distinct ones.\n\n$$IMAGE- 3, 4$$\n\nWith such an eye-catching front design, the car’s generic rear styling is surprising. The wide taillights stretch inward across the trunk lid, like horizontal versions of the tall lights used on Volvo SUVs, but the otherwise-conventional shapes don’t create much visual interest.\n\nHow It Drives\n\nThe supercharged and turbocharged four-cylinder is a strong performer. The little engine has plenty of power to spare for a quick pass at highway speeds, and it works with a responsive eight-speed automatic transmission that’s quick to kick down for passing. If you didn’t know otherwise, you’d think there was a turbo six-cylinder under the hood.\n\nWhile the four-cylinder’s performance impressed, the sounds it made did not. The engine’s gravelly sounds are out of place in a car that competes against established luxury sedans. The fact that the engine noise is so pronounced in the S90 speaks to another of the car’s issues: a noisy cabin in general. Besides the unappealing engine sound, tire and wind noise intrude at highway speeds.\n\nOur test car had the standard suspension, but Volvo offers an optional air suspension with either engine. If the S90’s air suspension is as effective as the one in our long-term 2016 XC90 — which plays a significant role in that SUV’s serene driving experience — I’d pony up the $1,200 for it. That’s because the Volvo S90’s regular suspension is overly firm and lacks the kind of refinement expected of a luxury sedan.\n\nThe S90 includes Eco and Dynamic driving modes in addition to the regular Comfort setting. Dynamic keeps the transmission in a lower gear than it’d otherwise be in and gives the steering wheel a heavier feel. A unique metal thumbwheel on the center console changes the driving mode. At times the wheel can feel slippery, making it harder to use than a regular button or rocker switch.\n\nThe base 250-hp, front-wheel-drive model gets an EPA-estimated 23/34/27 mpg city/highway/combined, while the 316-hp, all-wheel-drive version is rated at 22/31/25 mpg. Premium gas is recommended for both engines.\n\nInterior\n\nThe Volvo S90’s cabin design takes after the layout in the XC90, and it works just as well here as it does in the SUV. Our test car’s interior was finished in rich-looking Nappa leather, low-gloss walnut wood and chrome. It’s a unique look that sets the S90 apart from other mid-size luxury cars.\n\n$$IMAGE- 5. 8$$\n\nBoth the front bucket seats and the three-passenger rear bench have firm cushioning that offers good support. Our test car’s numerous driver’s-seat adjustments included seat-cushion length and side bolster snugness. The rear doors are a little small, making it harder to get in and out of the car, but the backseat is big enough to seat taller adults comfortably. The interior is also roomy enough for a group of 6-foot-tall passengers to ride comfortably in the front and rear seats at the same time. There’s a large floor hump between the rear seats, however, which minimizes middle-seat foot space.\n\n$$IMAGE- 9, 10$$\n\nErgonomics & Electronics\n\nA vertically oriented 9-inch touchscreen does away with most buttons and knobs in the S90. There’s just a slim strip of buttons — and one large knob — below the screen for things like the hazard lights, stereo volume and rear defroster. Most other systems, including climate control, are accessed through various touchscreen menus.\n\n$$IMAGE- 6, 7$$\n\nThe system is very slick overall. It responds quickly when making selections and switching between menus, recognizes smartphone-style gestures — like pinching to zoom the navigation map or swiping to a different menu — and both graphics quality and camera-image clarity are good.\n\nThere was one thing, however, that I wish wasn’t part of the touchscreen interface: temperature settings. A set of buttons or a knob below the screen would make adjusting the temperature easier.\n\nMy iPhone paired easily with the multimedia system using Bluetooth, making it available for both calls and streaming music through the S90’s speakers. Apple CarPlay smartphone mirroring, which lets iPhone users interact with select apps on the dashboard screen using a familiar smartphone-style interface, is optional. The Android equivalent — Android Auto — is not currently offered.\n\nCargo & Storage\n\nThe VolvoS90’s trunk measures 13.5 cubic feet, which is about the same size as the cargo areas in the Audi A6 and Mercedes-Benz E-Class. (See a comparison of the three cars’ specs here.)\n\n$$IMAGE- 11$$\n\nThe S90 has a 60/40-split folding backseat with a trunk pass-through behind the fold-down center armrest. On the shelf behind the backseat on the driver’s side are two buttons that release each section of the seat; the backrests fold flat to create an extended cargo floor. The opening between the trunk and seating area when the seats are folded is wide but not tall.\n\nCabin storage includes an average-size glove box, a small center console bin and small door pockets for loose items.\n\nSafety\n\nThe Volvo S90 hadn’t been crash-tested by the Insurance Institute for Highway Safety or the National Highway Traffic Safety Administration as of publication.\n\nStandard active safety features include City Safety low-speed automatic emergency braking and Volvo’s Pilot Assist system. Pilot Assist is a semi-autonomous driving system that’s designed to reduce driver fatigue by automatically controlling vehicle speed and steering (when lane markings are visible) up to highway speeds. Unlike fully autonomous driving technology that’s still in varying stages of development, Pilot Assist requires the driver to remain engaged in the act of driving; the system will turn off if you don’t keep a hand on the steering wheel.\n\nWe’ve been mostly impressed with our long-term XC90’s Pilot Assist feature but didn’t think the S90’s version of the system worked as well. One editor had problems with the system making erratic corrections and ping-ponging between lane markings.\n\nOptional features include a blind spot warning system with rear cross-traffic alert and lane keep assist. The lane keep system is more aggressive than the norm; it will actively try to steer you back into your lane if you try to change lanes without signaling. A head-up display is also optional, but the system’s image disappears when wearing polarized sunglasses.\n\nValue in Its Class\n\nWhen Volvo was sold to Chinese company Geely in 2010, there were questions about what would happen with the Swedish brand. With new models like the XC90 SUV and now the Volvo S90 luxury sedan, we know what Volvo wants to be: a true luxury brand that’s rooted in keeping people safe. (The automaker’s stated goal is that by 2020, no one will be killed or seriously injured in a new Volvo.)\n\nWith a high-quality interior and impressive safety technology, the S90 is evidence that Volvo is well on its way to redefining itself in the luxury segment. In this case, the car just needs a quieter cabin and a more forgiving ride to get the brand all the way there.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "T5 FWD Momentum",
+          "price": "$46950",
+          "specifications": {
+            "Notable features": [
+              "New for 2017",
+              "Five-seat, mid-size luxury sedan",
+              "Front- or all-wheel drive",
+              "Pilot Assist semi-autonomous driving system standard",
+              "Eight-speed automatic transmission",
+              "Supercharged and turbocharged engine available"
+            ],
+            "Highlights": [
+              "23 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "2.0 L/120 Displacement",
+              "258 @ 1500 SAE Net Torque @ RPM",
+              "250 @ 5500 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "3,700 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,012 lbs Base Curb Weight",
+              "370 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "370 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,700 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "T5 FWD Inscription",
+          "price": "$49650",
+          "specifications": {
+            "Notable features": [
+              "New for 2017",
+              "Five-seat, mid-size luxury sedan",
+              "Front- or all-wheel drive",
+              "Pilot Assist semi-autonomous driving system standard",
+              "Eight-speed automatic transmission",
+              "Supercharged and turbocharged engine available"
+            ],
+            "Highlights": [
+              "23 City / 34 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Regular Unleaded I-4 Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "Intercooled Turbo Regular Unleaded I-4 Engine Type",
+              "250 @ 5500 SAE Net Horsepower @ RPM",
+              "258 @ 1500 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,012 lbs Base Curb Weight",
+              "370 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "3,700 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "370 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "3,700 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "T6 AWD Momentum",
+          "price": "$52950",
+          "specifications": {
+            "Notable features": [
+              "New for 2017",
+              "Five-seat, mid-size luxury sedan",
+              "Front- or all-wheel drive",
+              "Pilot Assist semi-autonomous driving system standard",
+              "Eight-speed automatic transmission",
+              "Supercharged and turbocharged engine available"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Turbo/Supercharger Premium Unleaded I-4 Engine Type",
+              "2.0 L/120 Displacement",
+              "316 @ 5700 SAE Net Horsepower @ RPM",
+              "295 @ 2200 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,222 lbs Base Curb Weight",
+              "4,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "460 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "460 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "T6 AWD Inscription",
+          "price": "$55450",
+          "specifications": {
+            "Notable features": [
+              "New for 2017",
+              "Five-seat, mid-size luxury sedan",
+              "Front- or all-wheel drive",
+              "Pilot Assist semi-autonomous driving system standard",
+              "Eight-speed automatic transmission",
+              "Supercharged and turbocharged engine available"
+            ],
+            "Highlights": [
+              "22 City / 31 Hwy MPG",
+              "5 Seat capacity",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "2.0 L/120 Displacement",
+              "316 @ 5700 SAE Net Horsepower @ RPM",
+              "295 @ 2200 SAE Net Torque @ RPM",
+              "Turbo/Supercharger Premium Unleaded I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "16 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,222 lbs Base Curb Weight",
+              "4,600 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "460 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,600 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "460 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "800 Cold Cranking Amps @ 0° F (Primary)",
+              "210 Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

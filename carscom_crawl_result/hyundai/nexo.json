@@ -1,0 +1,716 @@
+{
+  "make": "hyundai",
+  "model": "nexo",
+  "years": {
+    "2026": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eccc99ed-27e2-44a9-9395-3a1a3307cfb2/9214e448-7e3f-4d87-b4f9-6237431594cc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eccc99ed-27e2-44a9-9395-3a1a3307cfb2/4e732c4b-bb13-4b08-ba39-b6f9de0ce76f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f78e6f67-89b9-40ad-8957-e8befbeafa4c/1d3bc227-aa85-4d42-bd3b-6e0c1f0910f4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eccc99ed-27e2-44a9-9395-3a1a3307cfb2/b569a33f-6eb6-4ca8-83bc-d113c4f7932c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/eccc99ed-27e2-44a9-9395-3a1a3307cfb2/4f8992bc-ec16-49cd-897f-e27e096b6cb9.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Blue FWD",
+          "price": "$59435",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "291 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "161 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "3,990 lbs Base Curb Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "41 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Limited FWD",
+          "price": "$62885",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "161 SAE Net Horsepower @ RPM",
+              "291 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,116 lbs Base Curb Weight",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Optional Automatic Parking"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4f62c6b-c64d-46be-8b8e-c0996572c1a0/8921513b-7bb0-4818-8f91-9c622a4a567f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4f62c6b-c64d-46be-8b8e-c0996572c1a0/e3e97096-d0bd-480c-910d-b745be2c550d.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/e4f62c6b-c64d-46be-8b8e-c0996572c1a0/260d5ee2-d829-4f00-87da-ab7c4992254f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4f62c6b-c64d-46be-8b8e-c0996572c1a0/9a590a3f-3e66-4ebd-ad79-2ddf370bf043.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4f62c6b-c64d-46be-8b8e-c0996572c1a0/260d5ee2-d829-4f00-87da-ab7c4992254f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/e4f62c6b-c64d-46be-8b8e-c0996572c1a0/b52676df-d658-4d54-b6e6-bc6aa8981b4c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Blue FWD",
+          "price": "$60135",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "161 SAE Net Horsepower @ RPM",
+              "291 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "3,990 lbs Base Curb Weight",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)"
+            ]
+          }
+        },
+        {
+          "name": "Limited FWD",
+          "price": "$63585",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "291 SAE Net Torque @ RPM",
+              "161 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,116 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Automatic Parking",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/fefa0fe0-e96e-4a0a-b410-0f3fdb71e0d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/593d9f31-7d38-42c2-bd80-5a7997138171.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/57c83259-f25e-43fe-a577-1f3731820f1e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/94aa3137-6fa6-4aee-abde-84c15a8bcf5b.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/593d9f31-7d38-42c2-bd80-5a7997138171.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/999b001b-9a9b-463a-bd7c-7f1811cf3724.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/99ca935b-597f-42d8-b44a-849a468def5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/e2e63286-2cdf-43a5-bf63-bece40c78938.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/9a2c6a9f-d1b6-4554-999c-2d65b37c3fbe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/eb051ffe-e8ad-415d-8de4-218d235f9b17.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/fc8e5705-756f-498d-9496-21cbca0057c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/ec836915-0d21-4e1e-87b4-636812f657ae/e9babc2a-6d74-4e82-a19a-cf09a4b27a23.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Blue FWD",
+          "price": "$58735",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "291 SAE Net Torque @ RPM",
+              "161 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "3,990 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Limited FWD",
+          "price": "$62185",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "291 SAE Net Torque @ RPM",
+              "161 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,116 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Optional Automatic Parking",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/4b081d46-280b-4a07-a06f-c409c4579f81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/4810ac3a-0a0e-4420-acb7-12a9e7b88894.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/7f5a6141-f8b3-4d97-bb89-c2d255edf2a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/ad598f18-128e-47d4-8f89-910a3671729e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/49989698-b5e6-4acd-aef5-f36013908a36.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/4b081d46-280b-4a07-a06f-c409c4579f81.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/e25dbf7e-7057-4bb2-a826-a96668a888c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/77a4f862-70eb-433d-9b87-2604550907f6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/2621b41e-c338-4bd7-b3e4-f5785b1bf9fd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/10e9d629-44ed-4dca-8582-9038c69c0a6c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/502cbac5-af88-4d5a-8991-df259e689321.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/94501220-bd67-4e63-bf7d-13d45214adb5/c39ca87c-1844-4e55-ba6a-9ad57df393f8.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Blue FWD",
+          "price": "$58935",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "161 SAE Net Horsepower @ RPM",
+              "291 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "3,990 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Maximum Trailering Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Limited FWD",
+          "price": "$62385",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "291 SAE Net Torque @ RPM",
+              "161 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,116 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Optional Automatic Parking",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2019": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/7c209a1d-723a-4f7c-9572-c8259ab3e983.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/fea7833d-bcfd-4b53-a771-2d5df9f88486.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/89bb736e-c94a-468c-8201-661883400948.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/5c2bef99-48df-48bc-98c9-20ec1df16e83.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/3039fb01-f213-4e83-a7ab-32c47e4ee9e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/24ad3026-aac2-4b45-ae31-cccc6debc49c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/13932853-052c-4ada-9d6b-5d68dafcf05b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/10c7c8c0-18a8-4a68-9b5b-1800f58a36f0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/7277cc3f-df76-42c5-ac5b-5c7a5302ac33.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/7c209a1d-723a-4f7c-9572-c8259ab3e983.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/374787ef-7de0-423d-a0b6-63b97b65bda8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/a7cfe1bc-6fbf-461a-9045-a6d3680ff4f0/a23740a9-50d6-4a90-8eee-5d923b2e10cc.png"
+      ],
+      "expert_review": "Hyundai’s 2019 Nexo hydrogen fuel-cell SUV, currently sold only in California, has earned the highest rating or Top Safety Pick Plus in testing by the Insurance Institute for Highway Safety for all vehicles built after June 2019 with improved standard headlights. It is the first fuel-cell vehicle to go through IIHS crashworthiness testing.\n\nRelated: 2019 Honda Clarity Plug-In Hybrid: 8 Things We Like (and 4 Not So Much)\n\nTesting a car with such limited availability is unusual for IIHS, but the insurance-industry-sponsored safety-testing organization said Hyundai nominated the SUV and IIHS saw it as “an early opportunity to evaluate a hydrogen fuel-cell vehicle.” The Nexo earned top marks in all crashworthiness tests by IIHS, which have toughened for 2019 with the added requirement for Top Safety Pick Plus of  the highest score of good (out of good, acceptable, marginal or poor) in IIHS’ new passenger-side small overlap frontal crash test.\n\nThe Nexo also got the top score of superior (out of superior, advanced, basic or none) for its standard forward collision warning system with automatic emergency braking. The system avoided frontal collisions from both 12 mph and 25 mph in IIHS testing.\n\nThe Nexo also got the requisite good score for its only available headlight system for vehicles built after June when, IIHS said, Hyundai adjusted the lights’ factory aim “to provide better visibility, particularly through curves.” The headlights also have standard automatic high beams. Vehicles built before June have headlights previously rated as acceptable, which, along with the other test results, qualifies earlier Nexos variants for the second-level Top Safety Pick award from IIHS.\n\n2019 Hyundai Nexo fuel cell electric vehicle crash test | IIHS image\n\nSee how the Nexo stacks up against other more conventional mid-size luxury SUVs in IIHS testing here.\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Blue FWD",
+          "price": "$58300",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "291 SAE Net Torque @ RPM",
+              "161 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Front",
+              "N/A Maximum Trailering Capacity",
+              "3,990 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "41 gal Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "Limited FWD",
+          "price": "$61800",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "291 SAE Net Torque @ RPM",
+              "161 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "41 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,116 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Optional Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Optional Automatic Parking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "12 in Rear Brake Rotor Diam x Thickness",
+              "13 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

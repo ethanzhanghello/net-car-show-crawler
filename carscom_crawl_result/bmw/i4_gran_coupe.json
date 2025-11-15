@@ -1,0 +1,932 @@
+{
+  "make": "bmw",
+  "model": "i4_gran_coupe",
+  "years": {
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8e785cc4-0d8f-4106-8d64-425bee08c61c/73360389-aef5-44c1-9beb-48c8fd4ece5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/a060f9d5-b7f2-406e-bcbd-d0ad0f82ba28.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/75fc5d8a-89d9-4269-8a4a-348ff7573b82.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/bba68b09-eb99-46c1-ab37-50edeb1047d5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/d757d2dd-91c8-46be-9662-43e3f1af4d8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/f7f919d5-e44d-4f52-bd13-a16d059c17cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/bd235fc7-9730-4863-92a3-4a3960e711ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/6ab6649a-46d5-4de1-80b4-fbb7099b20a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/6384a1e6-73fd-41fe-ab9a-6063e692758e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/3d08c5e3-fac9-43e4-921c-bab99878a30c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/8e785cc4-0d8f-4106-8d64-425bee08c61c/00a03be4-06f6-462d-bca7-1464474e729c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/de32f44f-57b8-420c-b6da-a1821e7a2c80.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/c4d11091-9ae3-4751-babd-a12756be389a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/1f71ffd9-2dd2-4450-b087-755b1ba2ac07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/5ca18a18-e9d2-40f5-bfe7-add9f13b5cd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/da135a3e-6feb-4243-9403-c7588457e4c5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/9247871b-7792-4c23-9b52-cedfdb268578.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/909e7159-8a5d-434c-ab07-aceb140d2a01.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/d1b66a8b-36a6-4519-82f7-099fb5651b72.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/da776203-8c48-4691-a037-9557b4ff0d94.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/66f6ebf2-74d0-4297-8ca4-2247d6271e7b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/70d2197b-8830-40fe-ac50-ee2125c024bc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/9f6e7066-cafb-4444-b692-3aef3649ef7d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/d6a75847-4031-4790-8850-e8fc8d9e6682.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/46c65cbf-b657-4fb1-8721-2e7817aad334.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/c5a0d13b-af67-48d1-a674-8381f0c819a2/6c074a33-e702-4020-8978-74d709821bd4.png"
+      ],
+      "expert_review": "The verdict: The words “performance” and “efficiency” aren’t often used together to describe a car, but the 2022 BMW i4 Gran Coupe delivers both. This compact electric car is fast, powerful and boasts an impressive all-electric range — if you equip it right.\nAgainst the competition: The i4, especially in its M50 trim, is among the fastest compact EVs out there, but its tiny backseat is a pain, and it lacks some features of other small EVs, like a frunk.\nThe BMW i4 is all new for 2022, joining the new iX in BMW’s electric vehicle lineup. Unlike the iX and its out-there EV looks, the i4 is styled much more like a traditional car, with a coupelike body style and a familiar version of BMW’s signature grille.\nWith up to 301 miles of  EV range, the i4 competes against the Tesla Model 3, which has an EPA-estimated range of 272 to 358 miles, depending on trim level. Because of the i4’s hatchback configuration, however, it also competes with the Tesla Model Y, which the EPA says can travel 244 to 330 miles, depending on configuration. See the models compared.\nRelated: Up Close With the 2022 BMW i4: Your Bavarian Tesla Model 3 Alternative Is Here\nPower, Range Vary Vastly by Trim\n\n  \n    \n  \n  \n\n\n  \n    2022 BMW i4 M50 | Cars.com photo by Christian Lantry\n  \n\n  \n    I tested the sport-oriented M50 trim with 20-inch wheels, which sits at the top of the i4 lineup. It uses a dual-motor all-wheel-drive setup and is good for 536 horsepower and an all-electric range of 227 miles, according to the EPA. But wait: What happened to that 300-mile range?\nA couple of things. First, this performance-oriented version of the i4 has more power than the base model, but much less range — a big bummer given it’s the only way to get an AWD i4. Base eDrive40 models have a single-motor rear-wheel-drive setup that makes 335 hp; it’s good for up to 301 miles of range. Wheel size is also a factor: The M50 I tested was equipped with 20-inch wheels, which look cool but cost you big in range. With 19-inch wheels, the M50 has a max range of 270 miles. In eDrive40 trim, the bigger wheels drop the car’s range from 301 to 282 miles.\nThe larger wheels also impact ride quality, which is on the firm side — especially around town, where potholes and pavement issues abound. Thankfully, the i4’s standard adaptive suspension helps dampen the rough stuff, so it was never uncomfortable. The i4 overall is composed and stable with sharp handling, but it’s not as nimble as other compact BMWs thanks to added EV poundage. The M50 is 26% heavier than a BMW M340 with AWD: 5,018 pounds versus 3,968 pounds.\nThe i4’s nearly instant power is pin-you-in-your-seat strong from a stop, which makes it a hoot on the highway; blasting off from toll booths never got old. Effortless speed pours on with a tap of the throttle, making for exhilarating merging and passing. Selecting the car’s Sport mode sharpens throttle response and firms up the steering, and it also unlocks a boost mode that can add 67 hp and 48 pound-feet of torque for roughly 10 seconds, achieving that 536 hp figure.\nAll that power, however, is not as much fun around town. City driving is not the M50’s favorite thing, and reining it in on urban streets was a challenge. Part of the issue is the regenerative braking system, which is touchy and can be tough to get used to. Until I got the hang of modulating the pedal, my passengers complained of lurching starts and abrupt deceleration as soon as I removed my foot from the accelerator. These characteristics are adjustable, but it took some playing around to find my (and their) comfort zone.\nPopping the i4 into a B mode on the gear selector allows for one-pedal driving, which can slow the car to a complete stop without touching the brake pedal. Here again, the brakes have an abrupt, severe feeling — but it’s also the setting that saves the most energy, so it’s worth getting used to. Case in point: After leaving home with a 100% charge, I noticed range being added to the gauge after driving in B mode for several miles around town.  I started one trip with a full battery and 227 miles of range on the gauge; after driving 119.1 miles, the car said I had a 45% battery charge and a remaining range of 111 miles — slightly over the 227-mile total range estimate.\nThat said, while the car’s range estimate and gauge were pretty accurate during my test,  other editors noticed some inconsistencies. On a shorter trip, Managing Editor Joe Bruzek noticed more fluidity in the predicted range. After driving 35 miles in bumper-to-bumper traffic in one-pedal driving mode, he observed the predicted range decrease only 2 miles, going from 185 miles of range at 100% charge to 183 miles of range at 85%. Bruzek said that even though it was nice the i4 was optimistic about its range, most cars decrease closer to 1:1 (predicted range versus actual miles traveled); not having more accurate range info at the beginning of the trip isn’t very helpful.\nBMW says there are a lot of variables that can affect range, including previous driving history, climate control usage, outdoor temperature and driving style. The automaker also told us that entering a destination into the native navigation system would help increase range accuracy.\nThe EPA says the base i4 uses 30.9 kilowatt-hours of energy to travel 100 miles, making it respectably efficient in terms of energy usage, though the M50 trim does use more energy. The i4 falls short of the most efficient EV from the 2022 model year, however: The rear-drive Tesla Model 3 uses 25 kilowatt-hours per 100 miles.\nCharge times also proved accurate for me. Using a Level 2 charger, BMW says the i4 goes from an empty battery to 100% charged in around 7.5 hours, with a charge rate of up to 11 kilowatts.\nSolid Infotainment\n\n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n  \n    There’s much to like about the i4’s control interface — plus one thing that brings it down, but you don’t have to use it.\nFirst, I’m a fan of all the screens. The huge center touchscreen flows seamlessly into the gauge cluster screen; it’s easy to reach, has crisp graphics and the menu setup is intuitive. The home screen is logically chunked into clear sections, and swiping reveals even more of them, like battery usage and charging data. Drivers can also create individual IDs that can be used to tailor settings and controls to specific users. Overall, I find the i4’s system a lot easier to use than Tesla’s confusing control setup.\nI used Android Auto via the i4’s wireless connection, and the experience was seamless. The AA interface makes use of the whole width of the screen — unlike some other cars, which only display the AA interface on part of the screen, wasting the space next to it. A head-up display ahead of the gauge cluster also works well with the interface. It’s configurable to show car data, like your next direction, when using AA; the information is handy and the screen is discrete and unobtrusive.\nWhat is obtrusive, however, is the center console rotary controller, which will look familiar if you’ve been in a BMW before; it’s been an infotainment system constant for years. It can be used to control everything the touchscreen does, but to me, it’s not comfortable to use, pulling focus from the road. Thankfully, it’s redundant because you can choose to use the touchscreen for everything instead.\nMore From Cars.com:\n\n2022 BMW iX Specs, Price, MPG & Reviews\n2022 BMW i4 Specs, Price, MPG & Reviews\n2023 BMW i4 eDrive35 Joins i4 Lineup With Lower Price, Less Power and Range\nElectric Vehicles: Understanding the Terminology\nAlmost Every Tesla Is More Expensive Now\n\nA Lack of Space\n\n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n  \n    Overall, the i4 is a bit longer than a Tesla Model Y, but the Model Y has a bigger backseat, with a few more inches of headroom and legroom. The i4 is another few inches longer than the Model 3, but even the Model 3 has a bigger backseat. The i4’s backseat technically seats three, but it’s very tight back there for anyone adult-sized; the middle spot is best avoided. It’s narrow and sits above a pretty intrusive floor hump.\nKids in car seats don’t have it much better. While there are accessible lower Latch anchors for easy car-seat installation, space is still a big issue. I struggled to fit a rear-facing infant seat back there, and once it was in, it severely impacted front passenger legroom. My twins are in booster seats, and those fit better once I removed the head restraints to situate them flush against the seatback. To do that, however, I needed to poke a key into a tiny hole to disengage the restraint before I could pull it up and out — not the easiest setup. Also, the buckles are on stubby stalks, so they were tough for my kids to find and use without help. Read the full BMW i4 Car Seat Check for more information.\nThe trunk is roomy enough, but once again competitors offer more. BMW calls the i4 a “Gran Coupe,” but all that really means is that it has a sloping rear roofline and hatchback-style cargo opening. The roofline makes it pretty tough to see out the back, but the hatchback does make for decent cargo space. The cargo opening is tall and wide, and there’s a lot of usable room. By the manufacturer’s numbers, the i4 has just 10 cubic feet of space in the trunk versus the Model 3’s 19.8 cubic feet, though it’s not an apples-to-apples comparison: Measuring methodology often differs between a sedan’s enclosed trunk and a hatchback’s open cargo area.\nStill, the i4 pales in comparison to the base Model Y’s 30.2 cubic feet of space behind the backseat, a number more comparable to the BMW iX. And unlike many other electric cars, the i4 lacks a front trunk (frunk) space. The Model 3 and Model Y both have frunks, which I find useful.\nSafety and Value\n\n  \n    \n  \n  \n\n\n  \n    2022 BMW i4 M50 | Cars.com photo by Christian Lantry\n  \n\n  \n    The 2022 i4 is competitively priced. A base i4 eDrive40 starts around $56,000, while the M50 is around $10,000 more. A base Tesla Model 3 starts around $49,000, while a base Model Y starts around $69,000. A more affordable base i4, the i4 eDrive35, will join the lineup in 2023 and start around $52,000 with an estimated range of 260 miles.\nThe i4 comes with a suite of active-safety features, including forward collision warning with automatic emergency braking and pedestrian and cyclist detection. Semi-autonomous features, like a self-parking system and active cruise control with stop, are optional.\nThe 2022 BMW i4 excels as a polished, powerful and efficient highway cruiser — just make sure you choose your trim level wisely.\nRelated Video:\n\n  \n    \n\n  \n    Cars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "eDrive40 Gran Coupe",
+          "price": "$55400",
+          "specifications": {
+            "Notable features": [
+              "All-electric powertrain",
+              "Sport-oriented M50 available",
+              "Five seats",
+              "Rear- or all-wheel drive",
+              "301-mile max range"
+            ],
+            "Highlights": [
+              "282 - 301 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "335 @ 8000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,680 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "M50 Gran Coupe",
+          "price": "$65900",
+          "specifications": {
+            "Notable features": [
+              "All-electric powertrain",
+              "Sport-oriented M50 available",
+              "Five seats",
+              "Rear- or all-wheel drive",
+              "301-mile max range"
+            ],
+            "Highlights": [
+              "227 - 271 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "536 SAE Net Horsepower @ RPM",
+              "586 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "5,018 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/cc636fa8-4b93-4990-b614-2b0b43279967.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/a0eb1432-611c-47ce-bd17-da6502f2e11f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/d350b5d4-576b-4fea-a03b-964620eb7946.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/293e81a2-451e-4ba4-9fa9-feb6b595a12e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/4259f668-c19a-4d0d-8db8-e04c5a12c1b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/63184d9f-dc7f-4cf6-80d4-d423ed356c8b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/4a3eec5c-7cb2-4023-b277-1030041ed913.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/f386f3be-7390-40f0-9ac6-fcbb28903ed0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/3252c188-b5a5-4024-8aad-357dc49f8a03.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/54e9d090-540a-4960-8ca6-57f9cb5fd53f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/f1fc7590-93a0-4e87-9954-308bbdf7e235.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/3c8e1a3d-728b-4c24-b049-5b188139f8fb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/c44b1e8f-f56b-4fe1-bda7-7199aecbcfd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/90e5f6e8-a8d7-4be2-83cd-8dbe32568fef.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/02140ef8-7520-4e39-9603-6bd42c1d625a/283f4629-21b4-40ce-bbb2-7aae3db28109.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/a568fb48-7e93-4322-b690-65da0bf94a37.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/fce0fd06-9f6a-4b92-a643-5026d750d4c2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/2fc8275e-8dda-4b26-ab92-be00840fe3bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/2f44c93e-713b-40d7-a6bf-9b85fd86d3ab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/a0ccab78-aaac-4f44-8862-def27c959ae6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/851d9abd-2b1a-4a86-99e9-b1f1e56ed581.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/845b3677-ecf6-42cc-b7ed-bd5dca64336c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/bd4d3d06-5390-4da7-a5ce-446da7f840d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/6aca44a6-ce10-44f6-b925-d07b92ce0a49.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/d8589ae3-7bae-4694-9d84-198926d49418.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/470e4cee-c8e6-4ccb-80e9-02bd0d773c81/8b6936a4-c84f-4c74-884b-e40ffc5d7b3b.png"
+      ],
+      "expert_review": "The verdict: The new xDrive40 version of the all-electric BMW i4 luxury hatchback is the most well-rounded i4 in terms of performance, range and price.\nVersus the competition: BMW loyalists looking to go electric will find a lot to like in the i4 xDrive40, but it might be a harder sell for EV shoppers open to all brands in its price range.\nWhen the all-electric BMW i4 launched, the only way to get all-wheel drive was with a pricey, performance-oriented M50 version; otherwise, the i4 was only rear-wheel drive, which was off-putting for those wanting all-weather performance more than an expensive, high-performance EV.\nRelated: 2025 BMW 4 Series Gran Coupe and i4 Updated Inside and Out\nWell, we asked for it, and here it is: For 2024, BMW has added a not-too-hot, not-too-cold version: the xDrive40, which brings AWD at a lower starting price. Starting at $62,595 (including destination) — $8,100 less than the i4 M50 — the i4 xDrive40 has a competitive 279-307 miles of EPA-rated electric range (depending on wheels), 396 horsepower (which is entertaining enough) and respectable DC fast-charging performance. So, is this i4 the one you want?\nRelated Video: \n\n  \n    \n\n  \n    Acceleration\nIn EVs, AWD is created by adding another motor to drive the front or rear wheels. Of course, another motor often means more power, and indeed, the xDrive40’s 396 hp is up from the RWD eDrive35’s 282 hp and RWD eDrive40’s 335 hp. (It’s still less than the M50’s 536 hp, however.) The xDrive40 delivers balanced output that won’t feel like you’re immediately breaking the speed limit, but with enough acceleration to make you feel like you’re getting your money’s worth. We clocked 0-60 mph in 4.7 seconds, which is a touch quicker than BMW’s claimed 4.9 seconds; that’s similar to the 4.8-second time of our former long-term test Tesla Model Y — at least before unlocking its pay-to-play Acceleration Boost.\nBut specs don’t mean everything. Drivers coming from a Tesla will notice a harsher acceleration experience in the i4, but it’s not likely to stand out to a first-time EV owner. When you whomp the accelerator in the BMW, there’s a bit of a lurch — like when you slam on the accelerator of a manual transmission car while in gear. It’s a hard hit that’s sometimes accompanied by a thud or bang. Overall acceleration, though, is similar to our Model Y, with the BMW delivering gradual, linear power delivery that doesn’t fall off. That’s in contrast with something like Kia/Hyundai/Genesis EVs, which blast you with acceleration up front but taper off at higher speeds. For most drivers, this will be an enjoyable car to drive, if a tad pokier than a similarly priced gasoline alternative, including BMW’s M440i xDrive Gran Coupe; with a 382-hp turbocharged six-cylinder, that car does 0-60 mph in 4.4 seconds, according to BMW.\n\n  \n    \n  \n  \n\n\n  \n    2024 BMW i4 xDrive40 Gran Coupe | Cars.com photo by Christian Lantry\n  \n\n  \n    Acceleration Sound (Noise?)\nThe Iconic Sounds Electric feature, which is part of a $1,900 Premium Package, adds a soundtrack to the i4’s acceleration. To me, all of the options sounded cheesy and robotic. None of the driving noises enhanced the experience, like Porsche does with its Taycan, so it sounded gimmicky. I turned them off, which is at least a nice option to have. Be sure to watch the i4 video review to hear what they sound like.\nRide and Handling\nThe i4 xDrive40 is heavy for a four-door hatchback, weighing in at 4,969 pounds, which is as much as an AWD BMW X5 SUV and 800 pounds heavier than a gas-powered M440i xDrive. The i4 generally hides its weight well, but it’s not an especially engaging car to throw into corners. Steering effort is too light, not conveying an especially sporty experience, and you feel the car’s heft when driving spiritedly — despite an adaptive suspension that works hard to keep things in check. It does so well, with two very different experiences — between Comfort and Sport modes — when pushing hard. Ride quality also differs drastically between those modes, with Comfort being taut but not uncomfortable and Sport being very stiff.\n\n  \n    \n  \n    Versus the Tesla Model 3\nPreviously, the i4 had an edge over the Tesla Model 3 as far as ride quality and quietness, but after driving the 2024 Model 3 Long Range AWD, I don’t think that’s the case anymore. The Model 3 matured with its 2024 redesign, adding ride quality refinement and becoming quieter. At the same time, the Tesla retained natural steering feel and spunkiness that are not only among the best in the EV business, but respectable among most sports cars. It’s both entertaining to drive and refined around town.\n\n  \n    \n\n\n  \n    The i4 xDrive40 is over 900 pounds heavier than the Tesla, which helps with both the Model 3’s agility and its power-to-weight ratio, giving it a quicker claimed 0-60 mph time of 4.2 seconds. It’s a performance difference you can feel.\nWhat might still convince people to look at the BMW, however, is the silliness that comes with the Tesla, including a gear selector that’s activated in the touchscreen (or via redundant controls in the overhead console), as well as a lack of a digital instrument panel in front of the driver. An added bonus for the BMW i4 is its cargo configuration; it uses a hatchback style with an open cargo space, while the Model 3 has a traditional sedan trunk.\nDC Fast Charging\nStarting in early 2025, the i4 and other BMWs will be able to use Tesla Superchargers with an adapter, but for now, the i4 unlocks its fastest charge times using non-Supercharger DC fast chargers. I had a good experience fast-charging the i4, adding 175 miles of range in 30 minutes — that’s 5.8 miles of range per minute — while charging from 12% to 80% on a 350-kilowatt-capable DC fast charger. This is very close to how much range our long-term Model Y added at Superchargers in optimal conditions, but it’s slower than the 9 miles of range per minute that we’ve observed from cars like the Hyundai Ioniq 5, Kia EV6 and Genesis Electrified G80. I preconditioned the i4 prior to charging and observed the car’s maximum 205-kW charging speed right off the bat. It did, however, slowly drop during the charging session, which is how our Model Y generally performed. Like most non-Supercharger fast-charging experiences, it started rough, with the BMW stating, “Charging aborted. Charging station error,” before the second attempt was successful.\n\n  \n    \n  \n  \n\n\n  \n    2024 BMW i4 xDrive40 Gran Coupe | Cars.com photo by Melissa Klauda\n  \n\n  \n    Interior\nThe i4’s interior is nearly identical to the gasoline-powered 2024 4 Series Gran Coupe, which is to say pretty normal, with a physical toggle-switch gear selector and an instrument panel with a digital instrument cluster (unlike the Model 3’s lack of an instrument panel and physical gear selector). The biggest change in dimensions versus the Gran Coupe is backseat legroom, which is 0.7 inch less in the EV. Otherwise, it’s the same car — and that’s both good and bad.\nIt’s good because the i4 is a four-door hatchback with a very usable cargo area, but it’s bad because some of the materials inside weren’t nice enough for our test car’s $78,000 price tag. Some of the interior materials look very 3 Series-ish, but we’re solidly in 5 Series money. On our test car, I’d ditch the $4,500 exterior paint, $1,500 leather and $2,200 M Sport Package to save a solid $8,200.\n\n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n  \n    The biggest bummer, however, is the i4’s lack of physical controls for the climate system, which have been replaced by touchscreen-only controls. They’re simply not intuitive or customizable enough to match the Model 3’s touchscreen-based controls, and many functions are still two steps away: pushing a button for a menu, then accessing the desired function through said menu, including heated seats and climate zone sync.\nIs It Right for You?\n\n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n  \n    The i4 xDrive40 is the most-well-rounded version of the i4, which should appeal to BMW loyalists looking to go electric or curious EV shoppers looking for a normalized operating experience versus a Tesla. The AWD xDrive40 is ready for all-weather performance versus the RWD eDrive35 and eDrive40, and it’s significantly less expensive than the performance-oriented M50. You might as well call the i4 xDrive40 good ol’ Goldilocks.\nThose interested in buying an i4 will want to explore current incentives, though, because it’s tough to swallow a $60,000-plus price tag for this level of performance and quality. Leased i4s will qualify for a $7,500 federal rebate, but purchases will not, which could help make the cost more manageable.\nMore From Cars.com:\n\n2022 BMW i4 M50 Gran Coupe Review: Electric Rocket Ship\nHow Do Car Seats Fit in a 2023 BMW i4?\nHow Do Car Seats Fit in a 2024 BMW i5?\n2024 BMW i5 Review: Dazzling Cabin, Delightful Road Manners\nWhat to Know Before Purchasing an Electric Vehicle: A Buying Guide\nWhich EVs Have All-Wheel Drive?\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "eDrive35 Gran Coupe",
+          "price": "$52200",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat hatchback",
+              "New AWD xDrive40 version",
+              "Up to 307 miles of range",
+              "Single- and dual-motor configurations available",
+              "DC fast charging up to 205 kW"
+            ],
+            "Highlights": [
+              "235 - 282 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 SAE Net Torque @ RPM",
+              "281 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,680 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "eDrive40 Gran Coupe",
+          "price": "$57300",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat hatchback",
+              "New AWD xDrive40 version",
+              "Up to 307 miles of range",
+              "Single- and dual-motor configurations available",
+              "DC fast charging up to 205 kW"
+            ],
+            "Highlights": [
+              "282 - 301 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "335 @ 8000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type",
+              "317 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,680 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "xDrive40 Gran Coupe",
+          "price": "$61600",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat hatchback",
+              "New AWD xDrive40 version",
+              "Up to 307 miles of range",
+              "Single- and dual-motor configurations available",
+              "DC fast charging up to 205 kW"
+            ],
+            "Highlights": [
+              "307 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "396 SAE Net Horsepower @ RPM",
+              "443 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "4,969 lbs Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt."
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "M50 Gran Coupe",
+          "price": "$69700",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat hatchback",
+              "New AWD xDrive40 version",
+              "Up to 307 miles of range",
+              "Single- and dual-motor configurations available",
+              "DC fast charging up to 205 kW"
+            ],
+            "Highlights": [
+              "227 - 271 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "586 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "5,018 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/db5c2798-0b22-48b1-a121-d1cf1773cf1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/838f9385-2f7b-4d38-82d2-bdb8cdc1ff44.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/91e40a22-1e75-40ec-965d-3f70dfd0b52e/d7e1044b-3c72-4877-a2d4-f32a793da60b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/8980def1-1175-4113-814f-daf1ece0d993/ffee6ef6-7169-4d9c-822c-fe5423d30315.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/b1d8fac9-08ac-49fb-97de-d1aa1f8a3b6a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/fe89b1a5-aa47-4caf-89c7-ecda59fddd1d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/39bab434-1092-4fa2-8191-886ed143744f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/c7367083-5df5-40bb-93ca-3f9b35625deb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8980def1-1175-4113-814f-daf1ece0d993/66e99af0-0fd4-4ac2-b54e-3c0fa0cff4bb.png"
+      ],
+      "expert_review": "The BMW 4 Series Gran Coupe and its electric stablemate, the i4, were just overhauled for the 2022 model year, but BMW is tweaking the pair for 2025 with updated infotainment tech, new head- and taillights, and more.\nRelated: 2024 BMW i4 Adds xDrive40 Variant, Priced From $53,195\nWhat’s New?\nThe biggest change is to the gas-powered 4 Series Gran Coupe. As with other BMWs, the 2025 4 Series Gran Coupe now includes a standard 48-volt mild-hybrid system with both available engines. The 430i Gran Coupe’s turbocharged 2.0-liter four-cylinder is thoroughly reworked for increased efficiency, but with the additional hybrid components, its output remains unchanged at 255 horsepower and 295 pounds-feet of torque.\nThe turbocharged 3.0-liter inline-six in the M440i Gran Coupe gets some efficiency rework, and the mild-hybrid system bumps its total output up to 386 hp and 398 pounds-feet, increases of 4 hp and 29 pounds-feet. Both engines are paired exclusively with an eight-speed automatic transmission, with rear-wheel drive standard and all-wheel drive available. EPA fuel economy estimates for the hybrid engines are not yet available. The i4’s electric powertrain is unchanged for 2025.\nOther Updates\n\n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n    \n  \n\n  \n    Revised head- and taillights are the extent of the major exterior updates on the cars, and the upper portion of the i4’s grille is now closed. Inside, the standard Curved Display, in which the digital instrument panel flows seamlessly into the central touchscreen behind a single piece of curved glass, is updated to the latest generation of BMW’s iDrive with QuickSelect. Running on BMW Operating System 8.5, the infotainment system features a revised menu structure aimed at keeping more commonly used functions readily accessible through the touchscreen.\nThis software version also expands the use of voice commands and works with the My BMW mobile app to allow remote access to vehicle information — and, in some cases, functions like door locking and unlocking — from anywhere with cellular service or Wi-Fi connectivity. The newly standard Personal eSim allows for a 5G data connection for communications and connectivity services even in the absence of a paired smartphone.\nMore From Cars.com:\n\nBMW i4, Mini Cooper SE Hardtop Top 2024 J.D. Power EV Owner Satisfaction Survey\n2024 BMW 4 Series Gets Minor Equipment Updates, Starts at $49,295\nHow Do Car Seats Fit in a 2023 BMW i4?\n2022 BMW i4 M50 Gran Coupe Review: Electric Rocket Ship\nFind Your Next Car\n\nAvailability and Pricing\nProduction of the 2025 BMW 4 Series Gran Coupe and i4 will start this July, with deliveries beginning shortly thereafter. Pricing will be announced closer to the on-sale date.\nRelated Video:\n\n  \n    \n\n  \n    Cars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "eDrive35 Gran Coupe",
+          "price": "$52800",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric sedan",
+              "Up to 318-mile range",
+              "RWD (eDrive35, eDrive40) or AWD (xDrive40, M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "235 - 282 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "281 SAE Net Horsepower @ RPM",
+              "295 SAE Net Torque @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "eDrive40 Gran Coupe",
+          "price": "$57900",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric sedan",
+              "Up to 318-mile range",
+              "RWD (eDrive35, eDrive40) or AWD (xDrive40, M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "282 - 318 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "335 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "xDrive40 Gran Coupe",
+          "price": "$62300",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric sedan",
+              "Up to 318-mile range",
+              "RWD (eDrive35, eDrive40) or AWD (xDrive40, M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "268 - 307 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "443 SAE Net Torque @ RPM",
+              "396 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,969 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "M50 Gran Coupe",
+          "price": "$70700",
+          "specifications": {
+            "Notable features": [
+              "Five-seat electric sedan",
+              "Up to 318-mile range",
+              "RWD (eDrive35, eDrive40) or AWD (xDrive40, M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "227 - 271 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "335 @ 8000 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "5,018 lbs Base Curb Weight",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/bcadb963-8c6b-4c7e-a69e-47f094bbb355.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/30b0c71a-a427-4fba-a1b6-94f6b807ade0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/81091567-ae73-4ea4-b3f4-cee1bd7a58be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/0d69cce2-6a0f-44ba-950e-a3104c5ad6eb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/15a189d4-55a7-4e71-87fa-86d9e46d7af2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/9fb31068-0a61-4276-b248-e86961e799d7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d519415e-5df7-4ccb-836a-5cbc69cbb54a/315227ea-ee9e-42f0-896d-3fbce34de4ef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/b5296663-c50a-45a8-8606-89cc44faa247.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/48beaf5f-13b0-4cbc-a764-5fda33865e66.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/cc1f0253-563c-4763-b86d-f19d2f1f081b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/a58c474d-2892-49cd-ac78-dd26a60f243c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/def1ebcf-1316-4a2f-b6f9-e3eeb35dc6ac.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/8ddeb5f0-aaec-45c9-951b-4d3503863872.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/6f6737e7-bd48-4540-a72a-887ee796a693.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/536c2eb1-8c23-4b7a-9068-9e13a04a8844.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/bbdc6253-9bd9-4d7b-ae6b-bdbe2b3c0d6e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/6a73af34-da49-4c43-a522-c2e6bebcdf4f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/2253c4bc-ab9a-4f31-a3e6-a80867322841.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/4a17722d-a441-403a-a02a-49df185e451e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/35e1ade2-bc00-4c51-ac62-0b10d51cf844.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/76db1e48-a5cf-4430-9366-2ae8f8f4eb09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/1fda1c66-6c36-4f05-9e59-b96831d15228.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/99b78ed3-52df-4ade-b59d-99389c3bf91c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/3c85c56f-d07f-4866-9d23-2e6dc4c2d968.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/033f5f5a-0032-4448-b1cf-742e965e6eec/87921e17-a154-4a4d-9fb0-380841f60e6d.png"
+      ],
+      "expert_review": "What Is the 2023 BMW i4 Gran Coupe?\n\nThe BMW i4 Gran Coupe is essentially an electric-powered version of BMW’s gas-powered 4-Series Gran Coupe; it offers a choice of rear- or all-wheel drive, along with two battery-pack sizes. Depending on trim and powertrain, the i4 can travel up to 301 miles on a charge. This dips to around 245 miles in the wildly quick M50, which has two electric motors, AWD, and a total of 536 horsepower. Inside, the driver faces a chic-looking 14.9-inch touchscreen that’s positioned flush against a digital instrument cluster. A hatchback in place of a traditional trunk lid makes accessing the cargo area easy and convenient, even if its overall volume is only average for this vehicle class. The same can be said of its rear legroom; getting three people back there will take some squeezing. The i4 Gran Coupe’s rivals include the Ford Mustang Mach-E, Kia EV6, Mercedes-Benz EQE and Tesla Model 3.\n\nWhat’s New on the 2023 BMW i4 Gran Coupe?\n\nBMW adds a less expensive variant named eDrive35, which uses a smaller battery pack and has a range of 260 miles. Starting around $52,000, it’s roughly $4,000 cheaper than the previous entry-level model, the eDrive40.\n\nWhat Features in the 2023 BMW i4 Gran Coupe Are Most Important?\n\nStandard features include:\n\n14.99-inch touchscreen\n12.3-inch digital instrument display\nWireless Apple CarPlay and Android Auto\nTri-zone climate control\nBlind spot warning\nRear cross-traffic alert\nWi-Fi hot spot\nNavigation\nSatellite radio\nMoonroof\n\nAvailable features include:\n\nHead-up instrument display\nLeather seating\nHeated front seats\nHeated steering wheel\nM suspension\nM brakes\nWireless smartphone charging\nIconicSounds Electric customizable in-cabin engine-sound generator\nShould I Buy the 2023 BMW i4 Gran Coupe?\n\nBMW fans, take note: The i4 Gran Coupe proves this brand’s future is going to be fine as it moves toward electric vehicles. The i4 Gran Coupe has loads of power and enough range to rival a strong — and growing — list of competitors. Its handling is sharp, if a little lacking in ultimate road feel. Complaints center more on the tight backseat and compromised rear visibility, not the electric powertrain or touchscreen controls. We think the added power of the M50 is hugely entertaining, but the less potent trims’ better driving range is equally appealing.",
+      "trims": [
+        {
+          "name": "eDrive35 Gran Coupe",
+          "price": "$52000",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat sedan",
+              "301-mile max. range",
+              "Rear-wheel drive (eDrive35, eDrive40) or all-wheel drive (M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "235 - 282 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "295 SAE Net Torque @ RPM",
+              "281 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "4,680 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "eDrive40 Gran Coupe",
+          "price": "$57100",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat sedan",
+              "301-mile max. range",
+              "Rear-wheel drive (eDrive35, eDrive40) or all-wheel drive (M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "282 - 301 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "Rear Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "317 SAE Net Torque @ RPM",
+              "Electric Engine Type",
+              "335 @ 8000 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "4,680 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "M50 Gran Coupe",
+          "price": "$68700",
+          "specifications": {
+            "Notable features": [
+              "Electric five-seat sedan",
+              "301-mile max. range",
+              "Rear-wheel drive (eDrive35, eDrive40) or all-wheel drive (M50)",
+              "Hatchback trunk lid"
+            ],
+            "Highlights": [
+              "227 - 271 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "586 SAE Net Torque @ RPM",
+              "536 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "5,018 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

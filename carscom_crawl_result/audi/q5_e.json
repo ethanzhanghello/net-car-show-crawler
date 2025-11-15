@@ -1,0 +1,943 @@
+{
+  "make": "audi",
+  "model": "q5_e",
+  "years": {
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/96526d4c-fb2f-4213-a510-c663e013d9b6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/2bc3d1fc-4c0d-431e-bd45-57894d6046b8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/547a7e5f-a98d-4b11-8a09-fcdb2b69fcd3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/67c0aede-c5ad-41cb-8487-05cda8df6bed.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/52f6bfb6-864a-49dd-a9ab-2b7e73ca7427.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/72f72e98-e2ff-44ec-ae5e-f971cb9c9652.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/e69a017b-fd74-44b1-bdd1-d5e0138ad507.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/c9ace896-76b7-4a5d-849f-9666433d16b2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/119038fd-3c1b-453c-b87f-108fb9ea5762.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/2bc0c0e5-305d-4e0f-8d25-abf5d5a434c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/852467a2-770c-4268-8071-8688d117bf86.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/11c567bf-7236-4e35-992f-b482ac49a963.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/5a6c011f-493d-42b2-b4f4-4255e67f2e87.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/89f2efde-eaaf-44d8-9e41-0e3d0c1f81e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/2a25e78f-4ba1-4f77-bf2b-97cbcf78f8c3.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/edd81c95-0865-4cd1-ae02-95de62dc7976.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/e6765f3e-ed49-4d82-b2ba-5ab8e8fd6834.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/9ec362f0-945c-4cbc-9bd8-735ba83ad40a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/e88cde93-8018-45b8-8f84-c0f49c4f892a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/f5612421-6c90-47d7-b48e-2feeba2e04d1.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/97c5eb9b-5347-45e4-9691-5a3bb97a80dd/e33b0ea8-dd38-4247-a31b-5447901781d4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/75beeb87-481e-49ac-8f9f-5df46107286d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/05948009-2285-428b-a494-d7d419c86756.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/d3123ebe-6945-44a3-9991-de46636df984.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/cd4ebbbe-0719-47a7-99e6-2af7d957cce4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/93f29651-3b85-4bb3-b144-9a4a1000e9b9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/2645c923-cc2f-4eb6-8425-ef94cda427c6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/9313266e-1d48-42f1-aa8e-81a34c022446.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/b9f36c82-ac3a-4eba-8068-6c761be78b5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/de2a6f77-59e7-49a7-9d15-07657c7885a0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/1f321f31-3de6-46a7-8240-b606e09a0f1c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/63465695-9242-44b4-8dc4-24dd04a2f16a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/165c679b-b146-41bd-a79c-7f7ae6daaf5f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/88083c2d-348a-464b-a03d-05f1a160ae00.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/ee14f841-01b5-471c-9778-94872d4d8042.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/03061982-d2d2-4523-9224-e3d82d20a9f7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/80aa0a09-7476-4627-b311-dfe1343c0d56.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/eefbfbbb-39e7-4787-9ed6-73a7a2a92c06.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/b9dd1f04-64f3-4d6e-ae18-0652bcb06d3b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/616b2ca4-6db4-4b2d-aef1-601179594101.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/562f6722-f482-4ead-9ed9-a7584da96a13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/89e4b422-f292-4774-9d28-6534b3306c1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/abce495a-1456-49e1-b70a-a6e1c7a19ce6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/2f6901e1-d2d0-4d1c-aa6e-d187617fc915.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/3c2bafea-a907-425f-9b94-eae0ab19ba6f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/9707f5d2-88c6-4f14-a67e-d651acada338.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/84c1fb2e-ef6a-4580-9ae7-573a1572c55d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/b3376c7d-9cfd-43ce-a63c-d9d78daff248.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/cfe85273-1b7c-4bdf-b190-837b5acd20e1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/3d6c9a04-e568-43bd-83ff-3d1a20c98e85.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/88ae75f9-835c-4ee6-babe-19afc92e05bd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/21d2533b-86df-4e7e-a919-868a8551c641.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/4aa93e00-a5e4-4409-82bd-ef13099bbefe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/a64cdbf6-caba-44c0-8e2e-6dbdc90f6270.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/de706bd2-57cf-4750-8f87-b14b2c70cdb2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/0375743a-393c-4428-acab-cb2985c79e42.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/b0243efe-7dec-41e3-9fe7-c1335a33743e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/8fb47d01-7e18-4afa-b38c-de20b0409b5b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/98e9392f-e93a-41ea-8baf-48fa3bacd3ab/edfc0f55-e17d-429e-8161-f4a1967fbf7b.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Prestige 55 TFSI e quattro",
+          "price": "$51900",
+          "specifications": {
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "369 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "4,619 lbs Base Curb Weight",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus 55 TFSI e quattro",
+          "price": "$51900",
+          "specifications": {
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 SAE Net Torque @ RPM",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,619 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium 55 TFSI e quattro",
+          "price": "$51900",
+          "specifications": {
+            "Highlights": [
+              "19 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 SAE Net Torque @ RPM",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,619 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2022": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/aa651810-79e3-461b-bc0d-207e57dbc65b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/42ee1708-81a9-4a39-ba77-3f4db33b0680.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/07cdb0d2-af73-48ab-929d-1f26913f8138.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/f07fbd51-7cad-4f20-ad84-61cfe81e1c52.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/cecdb3c4-ca7f-410f-b9c1-8566ef78383f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/05458183-baa0-4123-8a67-5e506c6684d0/22600586-05c6-4ec6-be04-d5d38243a8ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/e1d278e9-860a-4929-b98c-d83687c74c92.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/866e72a4-75a6-4c21-84e3-6ffccd4febd2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/d37617bf-b6d7-496f-a697-641f1f77e576.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/07417de6-2526-49bf-87fc-911009829d95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/bff50a69-06a0-462f-9f7f-c3ce56e49aae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/6584da1d-9310-4aec-a1ff-29bdd888099e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/55aa7892-9df5-4aa1-9e24-9b101f95c458.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/f795de13-faea-415b-8913-25d4206aa8c9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/0290fed5-4581-425f-ae59-f33880f41552.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/5e85fc68-3c69-4fa5-ba4c-5f3ae513af78.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/320fd072-034b-48af-b6ed-1f5b70b46ceb.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/d882d6e7-59c0-4ba6-9daa-6f9f6a170cf0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/e9115d9d-a96b-42fe-8cf7-764b7cb46fc8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/453abe92-9c3d-4b69-ab98-a3712f188805.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/42d23550-8670-433b-8c1d-3200b63ee529.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/e402fa94-db8f-4f0e-ace0-992875e6c106.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/4b36c85f-02db-4f2d-a2cd-8d338a2770e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/e803219f-ffbe-40ed-b637-3527ed692f9d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/200e3cc0-343b-4cea-ac00-70c739eae2a5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/a737a438-88ad-473b-aa5a-6e7b295ea3a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/f1101ed4-0a26-4df5-8828-4ad3e9a91175.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/8de1e9b7-0bbc-4485-8668-1612a7316069.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/b8626cdb-9366-47c2-8dc7-f2f343d831b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/ba89e1b6-2d34-4cf9-b7a7-ee65efa0df67.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/aec2958f-aaea-46c8-9bb8-69e6f9452003/f7106b8e-00a2-4f60-9734-bed389dd7fbe.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "S line Premium 55 TFSI e quattro",
+          "price": "$55400",
+          "specifications": {
+            "Highlights": [
+              "23 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "369 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Payload Capacity",
+              "4,652 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium Plus 55 TFSI e quattro",
+          "price": "$55400",
+          "specifications": {
+            "Highlights": [
+              "23 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "369 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "14 gal Fuel Tank Capacity, Approx",
+              "4,652 lbs Base Curb Weight",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Prestige 55 TFSI e quattro",
+          "price": "$55400",
+          "specifications": {
+            "Highlights": [
+              "23 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,000 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight - Front",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Rear",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,652 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "14 gal Fuel Tank Capacity, Approx",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    },
+    "2020": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/5140929c-2ffa-4c78-933b-dd999d5cadf2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/ed5b4302-4441-4141-9268-726b76f92201.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/0a7b5a5f-6745-492c-a673-718de03e4d61.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/361b8775-508c-4f4c-8929-15eefcefefa1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/b9c8cee9-fb9b-4cfe-9a48-1bc9acb5697d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/14efb016-ae83-4992-a887-309f4f712d59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/454c3872-8c97-4df3-a686-86606a39e7a2.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/06b88dd3-f7f5-490d-87be-d23e83016fe1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/bdc08993-3f2e-43a2-b087-ee5bc4cde282.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/bcabb05c-4ed1-4f8f-a183-94cfa673c85a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/23fa4485-751b-4502-9625-302f95cf6e03.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/9d3556b1-478b-478a-b87e-25fe42f5ff5d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/a2954587-5b82-426c-8ba1-f26c47444130.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/5e2b4567-31b5-44a4-a98c-1167a47a3c59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/6e46c643-7404-4e16-b2b9-e4edcceabf74.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/26a8a497-f6c5-4f23-8d9c-0e0f3772a43b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/1ee9ecf1-63d2-41de-9166-3e66cd87669f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/74040d99-8c70-48ef-a292-a944ea9d3c5e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/3e85b20b-22e8-41f3-90c0-7c32a650c83a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/467609af-6f8f-42e5-8a10-c1cce9825492.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/fdadb502-3838-4c6e-9128-14086d2eef6c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/14efb016-ae83-4992-a887-309f4f712d59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/516b9809-3bea-4c59-aa26-ec7480b67dbf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/02677613-4529-47e3-9c9c-046e4a7dbf6d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/d175db22-91e9-463d-b55d-240ac19ada26.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/2f7198c4-1caa-4ebe-96ec-a5032be6e115.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/482ae467-15b5-4a15-ac26-a2bd458df795.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/8acc1b59-bf1c-4ccd-bb31-505388801ad0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/dea3e741-5dc1-4fc7-aad2-62768851d4be.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3443c15-6503-4779-b2b4-379e313673c1/932560b0-965e-4ce1-86b7-8c0a6e689062.png"
+      ],
+      "expert_review": "Audi has announced prices for plug-in hybrid versions of its Q5 compact SUV and big A8 flagship sedan. Both are designated with a “TFSI e” label, and the 2020 Q5 TFSI e will offer three trim levels — Premium, Premium Plus and Prestige — starting at $53,895 (all prices include the destination charge). The A8 TFSI e comes in one form only, with a starting price of $94,995.\nRelated: Audi Expands Flagship Lineup for 2020 With S8 Performance Variant, A8 Hybrid\n\n  \n    \n  \n    Audi estimates maximum federal tax credits are $6,712 on the Q5 and $6,795 on the A8; the two might also qualify for state and local subsidies, depending on where you live. Of more importance in some places, owners could also could get single-occupant access to carpool lanes. The Q5 plug-in hybrid already is on the official sticker eligibility list in California.\nAudi is rapidly building out its plug-in electrification effort. In 2019, it launched the E-Tron electric SUV in the U.S., and it’s already shown plug-in hybrid versions of the A6 and A7 in Europe, saying that the A7 will be in the U.S. “in the coming months.”\nHere’s what we know about the plug-in hybrid Q5 and A8:\nQ5 TFSI e \nThe Q5 TFSI e employs an electric motor sandwiched between its turbocharged 2.0-liter four-cylinder engine and seven-speed, dual-clutch automatic transmission. Combined system output is 362 horsepower and 369 pounds-feet of torque. The battery is a 14.1-kilowatt-hour pack under the cargo area. All-wheel drive is standard and Audi says the plug-in will accelerate from 0-60 mph in 5.0 seconds, which is about a full second quicker than the comparable non-hybrid Q5.\nThe EPA rates the Q5 at 20 miles of all-electric range and a combined rating thereafter of 27 mpg, which is 3 mpg higher than the non-hybrid 2.0-liter Q5. The system has three driver-selectable driving modes that include Hybrid mode, which works with data from the navigation to optimize efficiency. The default startup is EV mode, and it will draw from electric power alone unless you push the gas pedal past a set point (or battery charge dips below a certain threshold). A Battery Hold mode saves capacity for usage later in the drive.\nAudi differentiates the plug-in Q5, which is on sale now, with some sportier S Line trim, exclusive colors and a choice of wheels. Beyond the base Premium, the Premium Plus starts at $57,595 and the Prestige at $61,345. Each is about $9,000 more than the least expensive version of its respective non-hybrid, 2.0-liter Q5 trim, but they’re comparable in price and manufacturer-listed acceleration with the sportier, six-cylinder SQ5.\n\n  \n    \n  \n  \n\n\n  \n    2020 Audi A8 TFSI e | Manufacturer image\n  \n\n  \n    A8 TFSI e\nThe coming A8 plug-in hybrid sedan uses a turbocharged 3.0-liter V-6 and an electric motor integrated into the eight-speed automatic transmission for a combined maximum output of 443 hp and 516 pounds-feet of torque. Audi estimates a 0-60 mph time of 4.9 seconds, which is nearly a second faster than the V-6 A8 (itself a mild hybrid). The A8 uses a battery with a different design than the Q5 but the same 14.1-kilowatt-hour capacity, and the sedan has similar driving modes.\n\n  \n    The EPA rates the plug-in A8 at 17 miles of electric range and combined mileage thereafter at 23 mpg, which is 2-5 mpg more than the non-plug-in A8 depending on drivetrain.\nVisual differentiations for the plug-in A8 include new front-bumper lighting and standard 19-inch wheels. Its starting price is about $9,000 more than the regular A8 V-6 and slightly less than the A8 with a V-8.\n\n  \n    \n  \n    Cars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "Prestige 55 TFSI e quattro",
+          "price": "$52900",
+          "specifications": {
+            "Highlights": [
+              "20 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 SAE Net Torque @ RPM",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,685 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium 55 TFSI e quattro",
+          "price": "$52900",
+          "specifications": {
+            "Highlights": [
+              "20 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "369 SAE Net Torque @ RPM",
+              "2.0 L/121 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "15 gal Fuel Tank Capacity, Approx",
+              "4,685 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Premium Plus 55 TFSI e quattro",
+          "price": "$52900",
+          "specifications": {
+            "Highlights": [
+              "20 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 SAE Net Torque @ RPM",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "15 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,685 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/abc2835e-d727-453f-8f29-4588e8ce71b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/649f7272-daa2-4786-b487-97790624d0ff.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/1d967c94-1cf8-4c20-98a2-69dde9e59363.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/ab44c497-d080-44d7-a52d-bfb6f198964e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/5eed6da4-b11a-4446-b743-7ba856cfc7ec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/da41eac7-cc1b-49c8-8939-60240718213e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/bfba65e2-a7f5-4ca0-ae29-32bac77afd59.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/1074c6e2-1864-4452-a174-77d2012e1196.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/73be267c-911e-4fd7-872f-dba582678a7f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/a36930b7-1543-4b25-a5e7-68444e629e1a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/2a5466b4-7c24-4c4e-97f8-ffbfbf1ac655.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/8a69c81f-f9c6-457d-a868-22d03eedcf98.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/eb22ac43-03e9-4f9e-859e-665d904e601c.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/ab44c497-d080-44d7-a52d-bfb6f198964e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/92f75e45-69f1-4507-9af3-4c7f256c3259.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/44887ca4-08d4-42d0-b6ac-51fdc230dfe9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/32013ce0-a6ce-46c7-a9af-e5b0514a615d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/122eb232-7546-4436-9a78-0e3628c59a13.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/f5df2767-ed13-40df-9b84-f8f4ed848bae.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/78bd61ec-ba33-4f79-89ab-b9197b997544.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/f50e5004-c28f-431d-850c-b83559e7e4e0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/d474db5b-2d87-414a-b409-26d9c73d3782.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/93d72c6b-56ac-4017-ac43-9ae2684d9200.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/30e664bc-68ee-4176-9697-ecdb0ee666fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/63442939-e838-4bd1-8d31-bdab51baa720/8f2352a5-6da3-4b56-a3c3-a16e88e0b36a.png"
+      ],
+      "expert_review": "What Is the 2023 Audi Q5?\n\nThe Audi Q5 is a five-seat compact luxury SUV with standard all-wheel drive and a choice of four powertrains. Motivating the base Q5 is a 201-horsepower, turbocharged 2.0-liter four-cylinder paired with a seven-speed dual-clutch automatic transmission. A 261-hp turbo four-cylinder is next, followed by the 349-hp, turbo 3.0-liter V-6 found in the performance-oriented SQ5.  If spending less at the pump is a priority, the Q5 also offers a plug-in hybrid variant, the Q5 e, that’s powered by an electric motor and a gas-fed turbo four-cylinder engine. Total output is a stout 362 hp, and it has an EPA-rated electric-only range of up to 23 miles.\n\nThe Q5 is notable for being offered in both standard SUV format and as the Q5 Sportback, which features a coupelike exterior design. Competitors include the BMW X3, Acura RDX, Lincoln Corsair and Volvo XC60.\n\nWhat’s New on the 2023 Audi Q5?\n\nAdaptive cruise control is newly standard in all Q5 and SQ5 models. The Premium Plus trim gains a Bang & Olufsen sound system.\n\nWhat Features in the 2023 Audi Q5 Are Most Important?\n\nStandard features include:\n\nAdaptive cruise control\n10.1-inch infotainment screen\nWireless Apple CarPlay, wired Android Auto\nWireless device charging\nWi-Fi hot spot\nDigital gauge cluster\nTri-zone climate control\nPower liftgate\nLeather seating\nHeated front seats\nBlind spot monitoring\nRear cross-traffic alert\nLane departure warning\n\nAvailable features include: \n\nHeated steering wheel\nSurround-view camera\nPanoramic roof\nHeated and ventilated front seats\nNappa leather upholstery\nAdaptive air suspension\nHead-up instrument display\nBang & Olufsen stereo \nShould I Buy the 2023 Audi Q5?\n\nThe Audi Q5 offers luxury SUV shoppers a wide range of engines, plus the peace of mind of standard all-wheel drive. Keep in mind, though, that this Audi’s option sheet is an expensive place to spend your time; the Q5’s price swells as you add features or move to models like the plug-in hybrid Q5 e or sporty SQ5. The cabin is, however, elegantly appointed and comfortable, and the infotainment system is easy to operate and quick to respond to driver inputs. The Sportback sacrifices some utility for style, so we’d stick with the Q5’s standard SUV configuration.",
+      "trims": [
+        {
+          "name": "S line Premium 55 TFSI e quattro",
+          "price": "$57400",
+          "specifications": {
+            "Notable features": [
+              "All-wheel drive standard",
+              "Optional Sportback body style",
+              "Performance (SQ5) and plug-in hybrid (Q5 e) versions available"
+            ],
+            "Highlights": [
+              "23 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "369 @ 1250 SAE Net Torque @ RPM",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "2.0 L/121 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "14 gal Fuel Tank Capacity, Approx",
+              "2,000 lbs Maximum Trailering Capacity",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,652 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Automatic Emergency Braking",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "S line Premium Plus 55 TFSI e quattro",
+          "price": "$57400",
+          "specifications": {
+            "Notable features": [
+              "All-wheel drive standard",
+              "Optional Sportback body style",
+              "Performance (SQ5) and plug-in hybrid (Q5 e) versions available"
+            ],
+            "Highlights": [
+              "23 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "369 @ 1250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,652 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "S line Prestige 55 TFSI e quattro",
+          "price": "$57400",
+          "specifications": {
+            "Notable features": [
+              "All-wheel drive standard",
+              "Optional Sportback body style",
+              "Performance (SQ5) and plug-in hybrid (Q5 e) versions available"
+            ],
+            "Highlights": [
+              "23 mi. Range",
+              "5 Seat capacity",
+              "48 month/50,000 miles Warranty",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/121 Displacement",
+              "362 @ 5000 SAE Net Horsepower @ RPM",
+              "369 @ 1250 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,652 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "2,000 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "200 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,000 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "200 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,000 lbs Maximum Trailering Capacity",
+              "14 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

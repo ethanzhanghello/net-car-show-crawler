@@ -1,0 +1,835 @@
+{
+  "make": "maserati",
+  "model": "grecale",
+  "years": {
+    "2026": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/102fe8c6-695b-43c7-b261-47418ab71cd0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/227370dd-08b4-415e-bc17-5afdfc65894e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/d9c272c4-3a90-4a3a-a735-f1245f542837.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/227370dd-08b4-415e-bc17-5afdfc65894e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/1e563818-6ac1-4906-915f-b1314f583f58.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/f8c9b280-8bbb-41b0-aa57-2863f64efd02.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/4ebfb84c-731c-4192-9ccf-58e324af60f9/541dbdd2-8187-4427-b26c-c09c4f59020a.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Modena AWD",
+          "price": "$84500",
+          "specifications": {
+            "Highlights": [
+              "310 mi. Range",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "457 @ 3000 SAE Net Torque @ RPM",
+              "523 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,178 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Blind Spot Monitor"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Trofeo AWD",
+          "price": "$117500",
+          "specifications": {
+            "Highlights": [
+              "- MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "457 @ 3000 SAE Net Torque @ RPM",
+              "523 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,469 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2025": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/2eb24244-75b4-49c4-8dfe-e35b38bf601f/56332730-90be-49ca-8fdc-9e7dfddbecaa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3476e94-7dd7-4ba4-a945-48fcb258aaec/98fb0c93-58a8-4bb2-a59c-466d03fab522.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3476e94-7dd7-4ba4-a945-48fcb258aaec/6a0e05b1-ee7a-440b-90dd-9a9b18cd7690.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3476e94-7dd7-4ba4-a945-48fcb258aaec/28fa0c3d-e41c-404f-b814-be500b1b6528.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3476e94-7dd7-4ba4-a945-48fcb258aaec/5481694d-0ab9-47cb-a25a-99f2d9492ef0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/d3476e94-7dd7-4ba4-a945-48fcb258aaec/45acc927-68b5-43e4-90b4-941fdeb1f3d6.png"
+      ],
+      "expert_review": "After launching for the 2023 model year, Maserati’s Grecale luxury compact SUV gets a revised base trim level, which will likely start around $70,000, and more color choices for 2025. Between the standard range and Maserati’s Fuoriserie custom palette, buyers now have 37 exterior color choices, as well as more mono- and two-tone leather interior options.\n\nThe electric Grecale Folgore also arrives for 2025. With front and rear electric motors providing all-wheel drive, the Folgore’s 542 horsepower makes it the most powerful Grecale, besting even the Trofeo’s twin-turbocharged V-6 engine.\n\nRelated: 2023 Maserati Grecale Review: Baby SUV Serves Up Big Grins for Big Price\n\nRelease Date and Pricing\n\nThe 2025 Maserati Grecale is on sale now. The Modena is $2,000 cheaper than the 2024 model, and the Trofeo drops $3,300. Pricing (including $1,495 destination charge) is as follows:\n\nGrecale: $70,000 (estimated)\nModena: $77,995\nTrofeo: $108,395\nFolgore: $110,495\nWhat Are the 2025 Maserati Grecale’s Trim Levels?\n\nReplacing the GT at the bottom of the lineup is a new entry-level variant that simply goes by Grecale. Where the GT’s mild-hybrid turbo 2.0-liter four-cylinder made 296 hp, the Grecale trim shares its engine tune with the mid-level Modena trim. It’s still a turbo 2.0-liter four-cylinder, but it’s rated at 325 hp. (All gas-powered Grecales have an eight-speed automatic transmission and standard all-wheel drive.) The base Grecale also rides on larger wheels than the GT (20s instead of 19s) and adds heated front seats.\n\nWhile the base trim is now just as powerful as the Modena, the mid-level trim still enjoys sufficient distinction in the form of an adaptive suspension and a limited-slip rear differential. The Trofeo suffers from no such threat to its identity; powered by a version of the Nettuno twin-turbo 3.0-liter V-6 from the MC20, it boasts 523 hp and 457 pounds-feet.\n\nForward-looking Maserati shoppers can also get the Grecale in electric-vehicle form. Even with its electric motors besting the Trofeo’s output with a total of 542 hp and 604 pounds-feet of torque, the Grecale Folgore can’t quite keep up in a straight line, with Maserati claiming a 0-60 mph time of four seconds flat for the EV and 3.6 for the Trofeo. According to the EPA, the Folgore’s 105-kilowatt-hour battery pack is good for up to 245 miles of range on the standard 20-inch wheels, but it will drain the pack in just 206 miles on the optional 21s. Over in the internal-combustion camp, the base Grecale and Modena return an estimated 22/28/24 mpg city/highway/combined, while the Trofeo is rated at 18/25/20 mpg.\n\nMore From Cars.com:\n\nIs the 2024 Maserati Grecale a Good SUV? 5 Pros, 5 Cons\n2024 Maserati GranCabrio Trofeo Quick Spin: The Perfect L.A. Touring Car\n2024 Maserati GranTurismo Review: Beyond Next-Gen\nResearch the Maserati Grecale\nFind Your Next Car\n\nRelated Video:\n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "AWD",
+          "price": "$77900",
+          "specifications": {
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "296 @ 5750 SAE Net Horsepower @ RPM",
+              "332 @ 2000 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "4,123 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        },
+        {
+          "name": "Modena AWD",
+          "price": "$84500",
+          "specifications": {
+            "Highlights": [
+              "310 mi. Range",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "332 @ 2000 SAE Net Torque @ RPM",
+              "325 @ 5750 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,178 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Optional Lane Departure Warning",
+              "Standard Stability Control",
+              "Optional Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Trofeo AWD",
+          "price": "$117500",
+          "specifications": {
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "3.0 L/183 Displacement",
+              "523 @ 6500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "457 @ 3000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "4,469 lbs Base Curb Weight",
+              "N/A Maximum Payload Capacity"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/f7ec77af-3137-454f-9854-50afe6e08588.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/5565c150-b92c-4a42-ad87-b1b74c812b69.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/04b8bf62-122e-4f55-9abb-dde2c22bb632.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/9aacf405-623b-4402-9055-237e0fcdf528.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/e734cc22-a56a-41bf-9d15-3322a96e05e4.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/f44dc0dc-22fe-4abe-a218-127a5bf4dc9a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/4ff7e43b-15b0-4df7-b581-479f08e84a09.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/924ff528-4adf-40b5-a207-835b470b8210.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/9e242693-5432-4699-9a36-76b838434103.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/291af2ee-6128-46fd-8b5a-4d958d57acd8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/66800f1e-7de9-4d55-9b01-cc0b85ae7dca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/191d97ce-fe34-4dfb-85c5-5c374f7b1fde.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/24bf67ae-b43b-4a33-ad1a-52bbcf398f27.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/ddab7cf6-20fb-4b2d-ad85-e0dc53270d05.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/c0b632ab-9209-4ee2-8e9c-243286a19d3f.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3fb4f7df-6842-40ed-bf0c-66be9bc60ba0/fe884d9a-6d36-48ae-b2a9-bc051f3ff86d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/9197309e-7eb0-4391-bf14-2b759bee7e8f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/30f7a347-cd70-4967-81f3-2ff74c13e3d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/31c9cbbe-e8de-4466-98e9-abd085442f07.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/4988c74e-467e-4893-ad09-ac39cf0ad775.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/7d62d129-d5de-4144-9144-ecc03c2d998d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/e114b4c4-eb79-410f-8b59-1360783a45a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/2478c6f2-7139-4783-b186-5661d56c4794.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/0b7a459a-a72f-4938-8578-e3a56e822aab.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/14bc530c-f8ba-473f-a673-27daf8559d73.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/8d50f23e-fb8b-488d-9450-0d8f8a12f8c8/9ff2ade5-0f9c-425e-9f4d-ff896710b02f.png"
+      ],
+      "expert_review": "The verdict: Stylish, quick and legitimately fun to drive, the new compact Grecale SUV will help bring (wealthy) new buyers into the Maserati fold.\n\nVersus the competition: The Grecale is as athletic as a Porsche Macan, carries more cachet than an Alfa Romeo Stelvio and provides a sexy (if expensive) alternative to models from Audi, BMW, Lexus and every other brand with a luxury compact SUV.\n\nIt seems every luxury brand has a crossover in its showrooms these days; even die-hard sports-car makers like Ferrari and Lamborghini have high-riding, all-wheel-drive four-door hatchbacks sharing floor space with two-door, mid-engine hypercars. Italian luxury brand Maserati, one of Stellantis’ myriad global labels, now has two SUVs in its lineup: the big mid-size Levante and the new compact Grecale. \n\nRelated: 2023 Maserati Grecale Breezes in With Up to 523 Horsepower, EV Model Is Next\n\nBased on Stellantis’ “Giorgio” platform — which underpins related models like the Alfa Romeo Giulia sedan and Stelvio SUV, Maserati’s own updated GranTurismo coupe and even the latest Jeep Grand Cherokee — the Grecale is a useful entry point for Maserati to grab new buyers. It’s smaller and less expensive than the big Levante, but does its lower price and lesser stature also mean it’s less luxurious? Less fun to drive? Less “special” in a brand trying to build a global standing by filling its showrooms with more models than it’s ever had? I spent two weeks with two trim levels of the new Grecale (a mid-level Modena and a top-of-the-line Trofeo) to find out. I came away mostly impressed and a little sticker-shocked. \n\nItalian Style Is Real\n\nOne thing you can almost always count on from an Italian brand, any Italian brand, is that style will play a huge role in creating a product. That holds true for Maserati. In its history, it has sometimes been considered a near-exotic brand on par with Ferrari and Lamborghini; other times, it’s been seen as more of a near-luxury brand that couldn’t quite find the same footing as those two legends. For most people, though, Maserati still feels special and rare, and in many ways, it is. Thus, it’s expected to look the part — and the new Grecale does. \n\nDespite being a tall-riding crossover, the Grecale eschews blocky, trucklike style in favor of a flowing, curvy, organic shape. It’s more tall wagon than traditional SUV, and that’s perfectly fine in my book. The models you see here are two of the three available trim levels; the white one is a Modena trim and the blue one is the Trofeo. From an appearance standpoint, they don’t look much different: Both have the Maserati family look, with a traditional grille and ovoid headlamps, muscular rear haunches and the age-old vent ports on the front fenders (which are purely decorative at this point). There’s a lot of family resemblance to other Maserati products — that grille is straight from the MC20 supercar, while the boomerang taillights are inspired by the old Italdesign Giugiaro-sculpted 3200 GT — and it’s good to see a fun link to other products past and present. \n\nThere are some visual differences between the trim levels, especially the base GT and Modena and the top Trofeo. As a more powerful (and more expensive) vehicle, the Trofeo has more of a performance bent to it, with more aggressive styling. If you compare both cars’ front grilles and bumpers, it’s clear the Trofeo is much more imposing, with larger scoops to accommodate additional cooling airflow. Wheel sizes range from 19 inches up to 21 inches (on the Trofeo), and both the Modena and Trofeo have a staggered wheel setup with wider rear tires, giving the Grecale a more planted look and feel. Overall, the Grecale’s appearance is clean, stylish and immediately identifiable as a Maserati, which is what you want in a luxury brand. \n\nA Properly Luxurious Interior\n\nSlip into the Grecale’s cabin and you’ll find a properly appointed space that’s been outfitted with top-notch materials. Interiors can be a risky place for luxury marques sandwiched into a pantheon of brands like Maserati is — it’s easy for automakers to start trying to shave pennies out of the interior by sharing components with lesser mass-market brands; we’ve seen Lexus interiors dip in specialness over the years, and Cadillacs and Lincolns often suffer from these issues. Maserati, however, has kept the Grecale’s interior pretty special. Most Maserati shoppers are unlikely to find themselves sitting in a Dodge Durango, so they’ll never notice shared components like window switches — but automotive journalists drive everything, so we do notice these things. The Grecale, however, manages to keep them nicely hidden.\n\nThe shapes and designs of this interior are attractive and modern, but they’re also a bit generic; it’s a clean interior design that’s not especially dramatic and doesn’t feature anything distinctive or unique to Maserati. Frankly, this could be the interior of the latest Kia. Alfa Romeo does a better job creating a distinctly Italian interior much in the way Porsche does a very German, traditional-Porsche interior on the Macan SUV. Maserati may be trying to set a new design aesthetic with the Grecale’s interior, but while it’s nice and filled with high-quality stuff, it doesn’t look particularly unique.\n\nWhat the Grecale’s interior does feature is some confounding tech; there are almost no actual buttons or physical controls in there. The climate controls, audio system and multimedia screens are all touch-sensitive panels, which can be a bit irritating to learn and use, but do get easier with familiarity. That said, it’s still distracting to try to operate a low-mounted touch-panel climate-control system while driving. This bit of the interior cannot be classified as a win. \n\nThe transmission’s gear selector is also a miss. It’s a push-button affair like you’d find in a Lincoln, but it’s made of gloss-black plastic and is placed in the middle of the dash above the climate controls. The whole touchscreen setup becomes a black plastic nightmare of fingerprints after a while, which sadly detracts from the look and experience of what is otherwise a nicely appointed cabin. Other infuriating buttons include the interior door-release ones, which are perfectly placed to be hit by your knee if you’re someone who tends to sit with their knees out as I do. Sitting at a stoplight, you have to be careful not to accidentally open your door just from sitting comfortably in your seat. Push-button door openers are fine, but the positioning of the Grecale’s is daft. \n\nSeat comfort is another potential issue: In keeping with the sporty Italian theme, the front seats are heavily bolstered and won’t be comfortable for all body types. The seating position is also higher than I’d like, making the rest of the controls and the dash itself feel abnormally low. This is common in Giorgio-platform SUVs; the Alfa Romeo Stelvio has the same problem. It feels as if someone took a sedan and, instead of raising the whole interior to SUV levels, just made the seats higher. Things aren’t bad in the backseat, though; while the Stelvio suffers from seriously curtailed legroom in back, the Grecale’s slightly longer wheelbase seems to have translated into better legroom for rear passengers. It’s still very much a compact SUV, but it’s decidedly roomier than most of its competitors. \n\nOverall, the interior gets mixed reviews. While it feels upscale and has some nice touches (e.g., a reconfigurable digital clock high in the center of the dash) it’s also compromised by some design choices (touchscreen everything, black plastic surfaces). At least the multimedia system, which is a reskinned version of the Stellantis Uconnect system that appears in many different models, is easy to use and manipulate, and connecting a personal electronic device is easy. \n\nMotion Makes It Better\n\nLike any Italian luxury sports machine, the real test of its worth comes when you fire up the engine and head out on the road (or, soon, activate the electric drive — an EV version of the Grecale is in the works). In this department, the Grecale shines. It’s much more athletic than a lot of its luxury SUV competitors, and after sampling two different trims with two different powertrains, I came away a fan. \n\nThe base powertrain combines a turbocharged 2.0-liter four-cylinder engine in a mild-hybrid system with standard all-wheel drive and an eight-speed automatic transmission. The Modena trim also features this powertrain, but while the base GT makes 296 horsepower, the Modena gets a boost to 325 hp. My first test car was a pearlescent-white Grecale Modena, and while some people might wince to think their rather expensive luxury SUV comes with a four-banger under the hood, this is truly an excellent motor. It’s snorty, quick and delivers its power in a seamless rush with no turbo lag. It’s fantastic to drive around town, it has plenty of power for highway on-ramps, and it makes a pleasant buzz while motoring along in comfort on the interstate. \n\nThe up-option powertrain that comes in the Trofeo, however, is truly next-level: a twin-turbocharged 3.0-liter V-6 that makes 523 hp and shares a lot of its engine technology with the Maserati MC20 supercar’s Nettuno V-6. While I drove the Grecale Modena through suburban Detroit, I had the Grecale Trofeo in Palm Springs, Calif., and was able to try it out on twisty canyon roads. There, when I slipped the Grecale into Sport mode, the thing became a canyon-carving monster, with tons of grunt and a ferocious Italianate snarl that reverberated off the canyon walls. In both models, the transmission was very well tuned and matched its engine beautifully, with smooth, crisp shifts and no need to make use of the flappy paddle shifters Maserati put behind the chunky steering wheel. \n\nIf I had one complaint about either powertrain, it’s that the drive modes can be a bit tricky. The GT and Modena have four drive modes (Comfort, GT, Sport and Off-Road), while the Trofeo has five (adding a Corsa race mode). Comfort is too sedate; accelerator response is a bit slow and transmission shifts are skewed toward calmness over alacrity. GT mode helps that a bit, but not much, while Sport mode tends to make the Grecale a little too high-strung for daily use. You can compensate for this tuning by driving more aggressively in Comfort or GT mode around town, then switching over to Sport or Corsa mode for places like highway on-ramps, switchbacks or canyons. But you won’t want to leave it in any one mode for very long; getting maximum enjoyment out of the Grecale requires that you play with the settings. \n\nOptional on the Modena and standard on the Trofeo is an adjustable air suspension that does an outstanding job providing a smooth and controlled ride, ironing out pavement imperfections and isolating the cabin enough to make it feel like a true luxury vehicle. Things firm up nicely in more aggressive modes, keeping the body level when cornering and proving not just the Germans can make an SUV that knows how to handle. The Grecale can tackle long stretches of highway or tight mountain curves with ease, and it does so in a way that honors its heritage as a performance brand. If you’re a performance-minded SUV intender and want something other than a Porsche Macan, the Maserati Grecale is a worthy alternative.\n\nMore From Cars.com:\n\nWhat’s New With SUVs for 2023?\nSpecs Comparison: 2023 Maserati Grecale Vs. 2023 Porsche Macan\n2023 Porsche Macan T Review: Sportier Doesn’t Always Mean Faster\nResearch the 2023 Maserati Grecale\nShop for a 2023 Maserati Grecale\nThe Price of Exclusivity\n\nMaseratis are not as common as Porsches, of course, and one could argue that’s simply a function of Maserati not being nearly as popular a brand as Porsche — or perhaps the fact that there are nearly half as many Maserati dealers as Porsche dealers nationwide. But that exclusivity is also part of the appeal; you’re not likely to see yourself coming and going in a Maserati. Even so, the Grecale isn’t priced inappropriately: A ‘23 Maserati Grecale GT starts at roughly $65,000, jumps to around $75,000 for a Modena, then makes a huge leap to $105,500 for a Trofeo. That means you’re paying more than $30,000 extra for that V-6, which is a little bit nuts considering how excellent that turbo four-cylinder really is. \n\nJust like competitors such as Porsche, a lot of the Grecale’s equipment is not standard; it comes in options and packages. So while my white Maserati Grecale Modena may have started around $75,000, the final sticker price was $96,600 thanks to options ($9,000 pearlescent paint, $1,800 wheels, $7,900 for three technology and trim packages, etc.). The as-tested price of my Trofeo model was over $120,000. These are extraordinary prices for a luxury compact SUV, and they begin to rival prices for some luxury full-size SUVs. At $75,000, the Grecale Modena is pretty fantastic. At $100,000, one begins to think the company is banking on the Maserati name as much as the vehicle’s actual performance to justify the price — and it might just work. \n\nRelated Video: \n\nCars.com’s Editorial department is your source for automotive news and reviews. In line with Cars.com’s long-standing ethics policy, editors and reviewers don’t accept gifts or free trips from automakers. The Editorial department is independent of Cars.com’s advertising, sales and sponsored content departments.",
+      "trims": [
+        {
+          "name": "GT AWD",
+          "price": "$63500",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury compact SUV",
+              "Turbo 2.0-liter four-cylinder mild-hybrid with 296-325 hp or 523-hp, twin-turbo 3.0-liter V-6",
+              "Standard all-wheel drive",
+              "Eight-speed automatic transmission",
+              "Available rear limited-slip differential",
+              "Available adaptive suspension"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "296 @ 5750 SAE Net Horsepower @ RPM",
+              "332 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,123 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Automatic Emergency Braking",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Modena AWD",
+          "price": "$72900",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury compact SUV",
+              "Turbo 2.0-liter four-cylinder mild-hybrid with 296-325 hp or 523-hp, twin-turbo 3.0-liter V-6",
+              "Standard all-wheel drive",
+              "Eight-speed automatic transmission",
+              "Available rear limited-slip differential",
+              "Available adaptive suspension"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "332 @ 2000 SAE Net Torque @ RPM",
+              "2.0 L/122 Displacement",
+              "325 @ 5750 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "0 lbs Total Option Weight",
+              "4,178 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Standard Automatic Emergency Braking",
+              "Optional Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Trofeo AWD",
+          "price": "$102500",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury compact SUV",
+              "Turbo 2.0-liter four-cylinder mild-hybrid with 296-325 hp or 523-hp, twin-turbo 3.0-liter V-6",
+              "Standard all-wheel drive",
+              "Eight-speed automatic transmission",
+              "Available rear limited-slip differential",
+              "Available adaptive suspension"
+            ],
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "457 @ 3000 SAE Net Torque @ RPM",
+              "523 @ 6500 SAE Net Horsepower @ RPM",
+              "3.0 L/183 Displacement",
+              "Twin Turbo Premium Unleaded V-6 Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,469 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Automatic Emergency Braking",
+              "Optional Blind Spot Monitor",
+              "Optional Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/4e3788b2-977b-4970-b4f0-2cbea524cafd.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/d0546af5-6616-4957-a389-585744ae6af4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/3b4492bc-eff8-4501-bd49-0ef38b2e685c/224215da-4b7b-4241-8266-91e59f4bb430.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/08059d73-d6e5-4e87-a97a-295f06e4d2a7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/e67869a0-a229-4d49-9c07-46915a313f22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/fc2dc6ba-4178-42e7-8e5c-350ec776b3ca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/040cb3e1-18c2-4ff2-a86d-0543e06d9173.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/26e655d8-6202-4f50-8100-f42e7fe7c053.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/d86b6914-702f-4829-91de-8f48fc5d033f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/78f2205f-d869-4d61-912f-5714fca2228e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/23e1f363-e86e-4a00-be44-60fe540c1083.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/3ba31074-98df-4e88-898f-76773a9940fa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/bdcb642d-c334-462d-868c-444923104933.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/65295d34-ef19-4003-907f-57c4a6d58fca.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/6ba70b10-0217-4f47-b914-36cc64fed465.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/0958619e-febb-4c81-95d8-109084633bb2/f5f54738-0328-4892-8d16-cdc2c8752c86.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/64639f92-334c-4bee-83d0-6f028aad7d95.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/ef6e41af-0be8-4364-b987-83938187c4d0.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/bc285e7e-8419-4207-bc9f-d5c435e58435.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/466fcf17-f6ac-4723-879a-6281d2aa767a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/d70ec285-ad93-43c8-86e1-cb5b01e6b1e9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/e804432d-81f7-42e1-853a-88fbf9c1242d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/d46ebbdc-93c4-4703-9403-80069201376a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/c409e200-ff60-4cbb-803c-0c3cb0d416a1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/78c291d2-cd5f-4af0-964f-eaaacb6f0225.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/d39bcfb9-0677-4d96-9862-36e45b0d9cec.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/0958619e-febb-4c81-95d8-109084633bb2/62c343ea-9cbf-4f66-b969-117160953cf4.png"
+      ],
+      "expert_review": "What Is the 2024 Maserati Grecale?\n\nBased on a version of the same platform that underpins Alfa Romeo’s Stelvio SUV, the Grecale is the smallest and most affordable Maserati. Like the Stelvio, the Grecale’s base engine is a turbocharged 2.0-liter four-cylinder. In the entry-level GT trim, the 2.0-liter makes 296 horsepower, while the mid-level Modena trim bumps that up to 325 hp. The high-performance Grecale Trofeo gets a twin-turbo 3.0-liter V-6 derived from the engine in Maserati’s MC20 supercar. The V-6 is detuned for SUV duty, but it still makes 523 hp. All Grecales have an eight-speed automatic transmission and standard all-wheel drive. The Grecale’s rivals include the Audi Q5 Sportback, BMW X4, Porsche Macan and Land Rover Range Rover Velar.\n\nWhat’s New on the 2024 Maserati Grecale?\n\nThe Grecale was all-new last year, so little has changed for 2024. There’s a new steering wheel, the Modena trim level gets a new wheel finish and the Trofeo adds standard adaptive LED headlights. Maserati also launched its new Fuoriserie Personalization Program this year, which allows buyers to customize their Grecale with a wider palette of colors, interior materials and wheel designs. The electric Grecale Folgore was expected to arrive this year but is now set to debut for 2025.\n\nWhat Features in the 2024 Maserati Grecale Are Most Important?\n\nStandard features include:\n\nLED headlights\nPower liftgate\nLeather upholstery\nPower-adjustable front seats with driver’s-seat memory\nDual-zone climate control\n12.3-inch digital instrument cluster\n12.3-inch touchscreen with navigation\n14-speaker audio system\nApple CarPlay and Android Auto\nForward collision warning with pedestrian detection\nAutomatic emergency braking\nFront and rear parking sensors\n\nAvailable features include:\n\nAdaptive suspension\nLimited-slip rear differential\nPanoramic sunroof\nHeated front seats\nHeated and ventilated front seats\nHeated rear seats\nHeated steering wheel\nTri-zone climate control\n21-speaker audio system\nHead-up display\n360-degree camera system\nAdaptive cruise control\nLane departure steering assist\nBlind spot warning\nAdaptive headlights\nShould I Buy the 2024 Maserati Grecale?\n\nThe Grecale carries a bit of a price premium over most of its competitors. What you get in exchange for your extra coin is an unmatched sense of style — at least on the outside. While the interior is attractive and modern, it’s also a little bland and doesn’t quite live up to the promise of this vehicle’s swoopy, bulging sheet metal. You also get generous space, particularly in the backseat, which boasts greater legroom than many competitors.\n\nBoth the standard suspension setup and the optional adaptive air suspension keenly balance ride comfort with deft handling, and even the base engine has sufficient power. Turbocharged 2.0-liter four-cylinder engines are standard fare in this class, but this Maserati’s distinguishes itself with stout output and a pleasant sound. You might pay more for the Grecale than you would an Audi Q5 or a BMW X3, but the driving experience is proportionally elevated.",
+      "trims": [
+        {
+          "name": "GT AWD",
+          "price": "$68500",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury compact SUV",
+              "Turbocharged 2.0-liter four-cylinder mild-hybrid with 296 or 325 hp",
+              "Available 523-hp, twin-turbo 3.0-liter V-6",
+              "AWD",
+              "Available limited-slip rear differential",
+              "Available adaptive suspension"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "2.0 L/122 Displacement",
+              "296 @ 5750 SAE Net Horsepower @ RPM",
+              "332 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "4,123 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Maximum Payload Capacity",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Maximum Trailering Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Modena AWD",
+          "price": "$77000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury compact SUV",
+              "Turbocharged 2.0-liter four-cylinder mild-hybrid with 296 or 325 hp",
+              "Available 523-hp, twin-turbo 3.0-liter V-6",
+              "AWD",
+              "Available limited-slip rear differential",
+              "Available adaptive suspension"
+            ],
+            "Highlights": [
+              "22 City / 29 Hwy MPG",
+              "5 Seat capacity",
+              "Intercooled Turbo Gas/Electric I-4 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "325 @ 5750 SAE Net Horsepower @ RPM",
+              "2.0 L/122 Displacement",
+              "Intercooled Turbo Gas/Electric I-4 Engine Type",
+              "332 @ 2000 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Double Wishbone Suspension Type - Front",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "4,178 lbs Base Curb Weight",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Curb Weight - Rear",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "N/A Maximum Payload Capacity",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Maximum Trailering Capacity"
+            ],
+            "Safety": [
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Standard Backup Camera",
+              "Optional Lane Departure Warning",
+              "Optional Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "13 in Rear Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Trofeo AWD",
+          "price": "$108000",
+          "specifications": {
+            "Notable features": [
+              "Five-seat luxury compact SUV",
+              "Turbocharged 2.0-liter four-cylinder mild-hybrid with 296 or 325 hp",
+              "Available 523-hp, twin-turbo 3.0-liter V-6",
+              "AWD",
+              "Available limited-slip rear differential",
+              "Available adaptive suspension"
+            ],
+            "Highlights": [
+              "18 City / 25 Hwy MPG",
+              "5 Seat capacity",
+              "Twin Turbo Premium Unleaded V-6 Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "523 @ 6500 SAE Net Horsepower @ RPM",
+              "Twin Turbo Premium Unleaded V-6 Engine Type",
+              "457 @ 3000 SAE Net Torque @ RPM",
+              "3.0 L/183 Displacement"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Double Wishbone Suspension Type - Front (Cont.)",
+              "Double Wishbone Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "4,469 lbs Base Curb Weight",
+              "17 gal Fuel Tank Capacity, Approx",
+              "N/A Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Trailering Capacity",
+              "N/A Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "N/A Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Optional Rear Cross Traffic Alert",
+              "Optional Blind Spot Monitor",
+              "Standard Stability Control",
+              "Optional Lane Departure Warning",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "14 in Rear Brake Rotor Diam x Thickness",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Front (Yes or )",
+              "N/A Drum - Rear (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "14 in Front Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

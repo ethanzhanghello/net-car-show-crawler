@@ -1,0 +1,36 @@
+{
+  "make": "lotus",
+  "model": "evora_gt",
+  "years": {
+    "2020": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2021": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/6fde61c8-c925-4de5-8d04-03451815b22d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/e8baac74-3d94-46df-bcac-fc967810210a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/0f8a479b-22c8-4809-9d51-b7225563b05a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/6fde61c8-c925-4de5-8d04-03451815b22d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/3ca0a099-3935-4dbc-814b-36b455b12418.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/0ab92269-5c86-408d-8931-49a2a0f0e726.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/6daf2eac-602f-4d0f-b8ff-0521081a23e0/b425cbb7-ad65-402b-a4c6-21c66a4f42d9.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Base_Price_91995",
+          "price": "$91995",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}

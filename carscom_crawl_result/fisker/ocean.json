@@ -1,0 +1,526 @@
+{
+  "make": "fisker",
+  "model": "ocean",
+  "years": {
+    "2025": {
+      "main_images": [],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "General_Info",
+          "price": "",
+          "specifications": {}
+        }
+      ]
+    },
+    "2024": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/300ba995-e6e9-48cb-a99f-22d1a3a369cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/b94c6ca3-a490-4312-ae4d-bf5ecb819c3a.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/606e4570-7836-45b2-8a9d-0b1e359b75b5.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/0bfe453e-fe54-4ee8-85b0-538d0c1608aa.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/e00478b1-cfdf-4abb-ae20-9cd9617e32cf.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/f683b2f7-b5ad-46bb-9581-68e1d1879d30.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/5615d1bd-3e1d-4ed5-8178-66ad530eb6e7.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/6c9b2245-1d5f-4849-9a7d-8f3a946aaeb3/a3c6232b-d9ae-4a8b-9b2d-0d4bec790234.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/3591ec26-c5f6-4d53-a290-44cc0c7fd53c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/ada82726-23f3-4785-9487-7e6c503321d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/5b347fe0-096f-44b5-bf49-0890cf41b488.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/color_matched_stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/2994bf8d-4c39-4f13-b6af-4769f35b8631.jpg",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/32499394-9c8d-42b3-b7b1-46e76c97e225.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/dde7e7b7-5d70-4c1e-8bdb-dd1f1e441f3f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/7ec793fe-8214-4ddd-a190-dc3ffa3205f1.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/2e20dc91-cbff-4235-91e0-4f2454daf020.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/4f53a1ec-0ea3-420c-8725-edd65c1a5475.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/d1fa69eb-eca6-4d17-8789-84354dd83ce8.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/67932f72-6eaf-404a-993c-c6d87f010f71.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/eecce064-2279-4284-8132-0ea8b738fa2e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/7ea04ab9-5179-48e5-aff4-0fcd5eef7c16.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/b9805466-49d3-4519-b0e6-cfc94a0a6c1b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/dc58dae2-f2fb-4a21-9bfc-b0309d09756e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/2047e23d-7059-479e-86c4-10fe9f4c04a9.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/01249ec3-f4d9-481f-808c-fda1b0501cc2/12bc53da-d42b-4e27-826d-dde526d6d51e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sport FWD",
+          "price": "$38999",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "257 SAE Net Torque @ RPM",
+              "234 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "2,407 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "241 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "2,407 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "2,407 lbs Maximum Trailering Capacity",
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight - Rear",
+              "4,835 lbs Base Curb Weight",
+              "N/A Curb Weight",
+              "241 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "N/A Curb Weight - Front"
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Lane Departure Warning",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Disc Brake Type",
+              "N/A Drum - Rear (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Ultra AWD",
+          "price": "$52999",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "514 SAE Net Torque @ RPM",
+              "468 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "0 lbs Total Option Weight",
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,012 lbs Maximum Trailering Capacity",
+              "401 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,012 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "401 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,012 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,369 lbs Base Curb Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Extreme AWD",
+          "price": "$61499",
+          "specifications": {
+            "Highlights": [
+              "5 Seat capacity",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "514 SAE Net Torque @ RPM",
+              "468 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "4,012 lbs Maximum Trailering Capacity",
+              "401 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "4,012 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "401 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,012 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "5,369 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Backup Camera",
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        }
+      ]
+    },
+    "2023": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/6933f063-b2a8-4084-820e-104eb4bba03e.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/651b8dac-c8ed-4f71-b926-d84e0a5a22c7.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/d8b71a83-99aa-4d02-a301-49f165b29626.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/d99df9c7-0ff3-44cb-a6cc-e70601b4b3fe.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/ca5f852e-4062-4266-a1cf-cb0308240758.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/adbb6f10-070f-46b2-bf8f-ac4d864022af.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/e09957e2-647f-4602-b69b-f142c6a27b22.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/2ed28c90-1064-4dbe-840e-c283a7af9310.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/239c6581-65b0-4f20-9ed4-af8efd5fcfef.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/3c0cf8fd-237b-4b93-a003-895b6095325b.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/4f318a31-97a4-4e21-8322-cc56f822d773.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/606116e2-afb8-4b95-a1b0-b7e7f53eff36.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/d7134c70-998c-43fc-b5ef-5f2cc5b6b418.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/2f96c3e7-7e6f-4094-a76a-43261a009f5c.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/cd5445cd-4ebe-4f9f-8cd2-7142c61dfc93.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/3ffa2ab0-6b20-403c-9df2-99a57e1d10a4.png",
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/fc891b48-5e8f-4062-8158-db28073143a7/4fecdcf9-6a7b-4406-b753-13c3141a7306.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/c5c97cca-51ff-4ad9-9939-c2eb659240d6.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/b732c41a-c5fe-48e1-935d-5d980305751f.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/45657394-3b22-45ab-9eee-5a46a0127705.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/dd086da9-a280-457d-af6e-6bb5ed2d9bbc.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/492f5d39-f008-4855-b0fe-2ef8b2edb46d.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/d8f61620-913d-4767-bec0-bf8d4145d059.png",
+        "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/81c3a151-8bca-4984-8773-cf4994fe0966/d21a8082-346b-4e76-b30e-666f5a07a60c.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "Sport FWD",
+          "price": "$38999",
+          "specifications": {
+            "Highlights": [
+              "231 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "Front Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "257 SAE Net Torque @ RPM",
+              "234 SAE Net Horsepower @ RPM",
+              "Electric Engine Type"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)",
+              "Multi-Link Suspension Type - Rear",
+              "Strut Suspension Type - Front"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Fuel Tank Capacity, Approx",
+              "2,407 lbs Maximum Trailering Capacity",
+              "241 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "2,407 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "241 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "2,407 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight - Rear",
+              "N/A Curb Weight - Front",
+              "4,835 lbs Base Curb Weight",
+              "0 lbs Total Option Weight"
+            ],
+            "Safety": [
+              "Standard Rear Cross Traffic Alert",
+              "Standard Stability Control",
+              "Standard Lane Departure Warning",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type"
+            ]
+          }
+        },
+        {
+          "name": "Ultra AWD",
+          "price": "$52999",
+          "specifications": {
+            "Highlights": [
+              "350 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "468 SAE Net Horsepower @ RPM",
+              "514 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front (Cont.)",
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Multi-Link Suspension Type - Rear"
+            ],
+            "Weight & Capacity": [
+              "4,012 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Fuel Tank Capacity, Approx",
+              "401 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "5,369 lbs Base Curb Weight",
+              "N/A Curb Weight - Rear",
+              "401 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "0 lbs Total Option Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "4,012 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "N/A Curb Weight - Front",
+              "N/A Maximum Payload Capacity",
+              "4,012 lbs Maximum Trailering Capacity",
+              "N/A Curb Weight"
+            ],
+            "Safety": [
+              "Standard Lane Departure Warning",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Standard Backup Camera",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Optional Bluetooth®",
+              "Standard Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Brake ABS System",
+              "4-Wheel Disc Brake Type",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Rear (Yes or )",
+              "Yes Disc - Front (Yes or )"
+            ]
+          }
+        },
+        {
+          "name": "Extreme AWD",
+          "price": "$61499",
+          "specifications": {
+            "Highlights": [
+              "360 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "514 SAE Net Torque @ RPM",
+              "468 SAE Net Horsepower @ RPM"
+            ],
+            "Suspension": [
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "0 lbs Total Option Weight",
+              "4,012 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "5,369 lbs Base Curb Weight",
+              "N/A Curb Weight - Front",
+              "4,012 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Curb Weight",
+              "401 lbs Wt Distributing Hitch - Max Tongue Wt.",
+              "401 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,012 lbs Maximum Trailering Capacity",
+              "N/A Maximum Payload Capacity",
+              "N/A Fuel Tank Capacity, Approx",
+              "N/A Aux Fuel Tank Capacity, Approx"
+            ],
+            "Safety": [
+              "Standard Blind Spot Monitor",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning",
+              "Standard Stability Control"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Maximum Alternator Capacity (amps)",
+              "N/A Cold Cranking Amps @ 0° F (Primary)"
+            ],
+            "Brakes": [
+              "N/A Rear Brake Rotor Diam x Thickness",
+              "Yes Disc - Front (Yes or )",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "4-Wheel Brake ABS System"
+            ]
+          }
+        },
+        {
+          "name": "One AWD",
+          "price": "$68999",
+          "specifications": {
+            "Highlights": [
+              "360 mi. Range",
+              "5 Seat capacity",
+              "120 month/100,000 miles Warranty",
+              "Electric Engine",
+              "All Wheel Drive Drivetrain"
+            ],
+            "Engine": [
+              "Electric Engine Type",
+              "468 SAE Net Horsepower @ RPM",
+              "514 SAE Net Torque @ RPM"
+            ],
+            "Suspension": [
+              "Strut Suspension Type - Front",
+              "Multi-Link Suspension Type - Rear",
+              "Multi-Link Suspension Type - Rear (Cont.)",
+              "Strut Suspension Type - Front (Cont.)"
+            ],
+            "Weight & Capacity": [
+              "N/A Curb Weight - Rear",
+              "N/A Fuel Tank Capacity, Approx",
+              "0 lbs Total Option Weight",
+              "401 lbs Dead Weight Hitch - Max Tongue Wt.",
+              "4,012 lbs Maximum Trailering Capacity",
+              "5,369 lbs Base Curb Weight",
+              "N/A Aux Fuel Tank Capacity, Approx",
+              "N/A Curb Weight - Front",
+              "4,012 lbs Wt Distributing Hitch - Max Trailer Wt.",
+              "4,012 lbs Dead Weight Hitch - Max Trailer Wt.",
+              "N/A Maximum Payload Capacity",
+              "N/A Curb Weight",
+              "401 lbs Wt Distributing Hitch - Max Tongue Wt."
+            ],
+            "Safety": [
+              "Standard Stability Control",
+              "Optional Backup Camera",
+              "Standard Backup Camera",
+              "Standard Rear Cross Traffic Alert",
+              "Standard Blind Spot Monitor",
+              "Optional Rear Cross Traffic Alert",
+              "Standard Lane Departure Warning"
+            ],
+            "Entertainment": [
+              "Standard Bluetooth®",
+              "Optional Bluetooth®"
+            ],
+            "Electrical": [
+              "N/A Cold Cranking Amps @ 0° F (Primary)",
+              "N/A Maximum Alternator Capacity (amps)"
+            ],
+            "Brakes": [
+              "Yes Disc - Front (Yes or )",
+              "4-Wheel Brake ABS System",
+              "Yes Disc - Rear (Yes or )",
+              "N/A Front Brake Rotor Diam x Thickness",
+              "N/A Brake ABS System (Second Line)",
+              "N/A Drum - Rear (Yes or )",
+              "4-Wheel Disc Brake Type",
+              "N/A Rear Brake Rotor Diam x Thickness"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

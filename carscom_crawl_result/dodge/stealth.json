@@ -1,0 +1,150 @@
+{
+  "make": "dodge",
+  "model": "stealth",
+  "years": {
+    "1994": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/4ae66254-d363-4378-b839-68fd9b0e37c2/39c7e9da-0bc2-499b-91c8-7463144a4c6e.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Hatchback R/T",
+          "price": "$23931",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback R/T Turbo AWD",
+          "price": "$37894",
+          "specifications": {}
+        }
+      ]
+    },
+    "1992": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/de4aa28f-7ab8-42c8-a264-22ef3608234b/11483f6f-da13-4d07-9222-20845f9a8f85.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Hatchback ES",
+          "price": "$19788",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback RT",
+          "price": "$26519",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback R/T Turbo AWD",
+          "price": "$32120",
+          "specifications": {}
+        }
+      ]
+    },
+    "1995": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/75d5e355-a90f-426e-a562-57de7b31b627/94e304e7-4cd6-43ef-a7d3-d51adb2172b6.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Hatchback Base",
+          "price": "$23236",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback R/T",
+          "price": "$26795",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback R/T Turbo AWD",
+          "price": "$37905",
+          "specifications": {}
+        }
+      ]
+    },
+    "1996": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/f1720f12-d820-46ca-a844-50865cf8af5c/c1929af7-9dd1-494d-bbdf-b5f58a3d8d4d.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "4dr Sdn Base",
+          "price": "$14485",
+          "specifications": {
+            "Highlights": [
+              "25 City / 36 Hwy MPG",
+              "5 Seat capacity",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr HB Base",
+          "price": "$24461",
+          "specifications": {
+            "Highlights": [
+              "18 City / 23 Hwy MPG",
+              "4 Seat capacity",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr HB R/T",
+          "price": "$27755",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "Front Wheel Drive Drivetrain"
+            ]
+          }
+        },
+        {
+          "name": "2dr HB R/T Turbo AWD",
+          "price": "$34820",
+          "specifications": {
+            "Highlights": [
+              "18 City / 24 Hwy MPG",
+              "4 Seat capacity",
+              "All Wheel Drive Drivetrain"
+            ]
+          }
+        }
+      ]
+    },
+    "1993": {
+      "main_images": [
+        "https://platform.cstatic-images.com/xxlarge/in/v2/stock_photos/5f13f93b-5433-406c-b3c3-1bc6b16771d5/4f659d3d-db2f-4769-8f9d-a0e7a555148f.png"
+      ],
+      "expert_review": "",
+      "trims": [
+        {
+          "name": "2dr Hatchback Base",
+          "price": "$18506",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback ES",
+          "price": "$20322",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback R/T",
+          "price": "$27366",
+          "specifications": {}
+        },
+        {
+          "name": "2dr Hatchback R/T Turbo AWD",
+          "price": "$33107",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}
