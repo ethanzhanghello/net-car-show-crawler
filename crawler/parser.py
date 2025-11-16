@@ -383,13 +383,23 @@ class Parser:
                 if trim:
                     trims.append(trim)
         
-        # If no trims found, create a default "Base" trim
-        if not trims:
-            trims.append({
+        # If no trims found, extract specifications from text content
+        if not trims or (len(trims) == 1 and not trims[0].get('specifications')):
+            # Extract specifications from the main content area
+            specs = self._extract_specs_from_text(soup)
+            
+            # Create a default "Base" trim with extracted specs
+            trim = {
                 'name': 'Base',
                 'price': '',
-                'specifications': {}
-            })
+                'specifications': specs if specs else {}
+            }
+            
+            # If we already have a trim but no specs, add the extracted specs
+            if trims and not trims[0].get('specifications'):
+                trims[0]['specifications'] = specs if specs else {}
+            elif not trims:
+                trims.append(trim)
         
         return trims
     
@@ -584,6 +594,338 @@ class Parser:
                     specs[current_category].append(text)
         
         return specs
+    
+    def _extract_specs_from_text(self, soup: BeautifulSoup) -> Dict[str, List]:
+        """
+        Extract specifications from text content on netcarshow.com pages.
+        
+        Looks for specifications embedded in paragraphs and organizes them into categories.
+        
+        Returns format matching reference:
+        {
+          "Category Name": ["spec1", "spec2", ...]
+        }
+        """
+        specs = {}
+        
+        # Find main content area
+        main_content = soup.find('div', class_='a-b') or soup.find('main') or soup.find('article') or soup.find('div', class_=re.compile(r'content|main', re.I))
+        if not main_content:
+            return specs
+        
+        text_content = main_content.get_text()
+        
+        # Extract specifications by category
+        specs['Notable features'] = self._extract_features(text_content, main_content)
+        specs['Highlights'] = self._extract_highlights(text_content, main_content)
+        specs['Engine'] = self._extract_engine_specs(text_content, main_content)
+        specs['Suspension'] = self._extract_suspension_specs(text_content, main_content)
+        specs['Weight & Capacity'] = self._extract_weight_capacity(text_content, main_content)
+        specs['Safety'] = self._extract_safety_features(text_content, main_content)
+        specs['Entertainment'] = self._extract_entertainment_features(text_content, main_content)
+        specs['Electrical'] = self._extract_electrical_specs(text_content, main_content)
+        specs['Brakes'] = self._extract_brake_specs(text_content, main_content)
+        
+        # Remove empty categories
+        specs = {k: v for k, v in specs.items() if v}
+        
+        return specs
+    
+    def _extract_features(self, text: str, soup_element) -> List[str]:
+        """Extract notable features from text."""
+        features = []
+        
+        # Look for feature lists or feature mentions
+        feature_patterns = [
+            r'(\d+[-\s]?(inch|inch|")\s+(display|screen|wheel|rim))',
+            r'(\d+[.\s]?\d*\s*(inch|")\s+(display|screen))',
+            r'(wireless\s+(charging|android\s+auto|apple\s+carplay))',
+            r'(heated\s+(front|rear)\s+seats)',
+            r'(ventilated\s+seats)',
+            r'(panoramic\s+moonroof)',
+            r'(power\s+(liftgate|tailgate|trunk))',
+            r'(digital\s+instrument\s+cluster)',
+            r'(ambient\s+lighting)',
+            r'(\d+\s+color[s]?\s+ambient\s+lighting)',
+            r'(leather\s+upholstery)',
+            r'(nappa\s+leather)',
+            r'(premium\s+sound\s+system)',
+            r'(bang\s+&\s+olufsen)',
+            r'(burmester)',
+            r'(all[-\s]?wheel\s+drive|4matric|awd)',
+            r'(rear[-\s]?wheel\s+drive|rwd)',
+            r'(front[-\s]?wheel\s+drive|fwd)',
+        ]
+        
+        for pattern in feature_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    feature = ' '.join(match).strip()
+                else:
+                    feature = match.strip()
+                if feature and feature not in features:
+                    features.append(feature)
+        
+        # Look for strong/bold text that might be features
+        for strong in soup_element.find_all(['strong', 'b']):
+            strong_text = strong.get_text().strip()
+            if strong_text and len(strong_text) < 100 and strong_text not in features:
+                # Check if it looks like a feature
+                if any(keyword in strong_text.lower() for keyword in ['inch', 'wheel', 'seat', 'system', 'lighting', 'display']):
+                    features.append(strong_text)
+        
+        return features[:20]  # Limit to top 20 features
+    
+    def _extract_highlights(self, text: str, soup_element) -> List[str]:
+        """Extract highlights (MPG, capacity, etc.)."""
+        highlights = []
+        
+        # MPG patterns
+        mpg_patterns = [
+            r'(\d+\s*/\s*\d+\s*/\s*\d+\s*mpg\s*(city|highway|combined))',
+            r'(\d+\s*/\s*\d+\s*mpg\s*(city|highway))',
+            r'(\d+\s*mpg\s*(city|highway|combined))',
+        ]
+        
+        for pattern in mpg_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    highlight = ' '.join(match).strip()
+                else:
+                    highlight = match.strip()
+                if highlight and highlight not in highlights:
+                    highlights.append(highlight)
+        
+        # Seat capacity
+        seat_match = re.search(r'(\d+[-\s]?seat)', text, re.I)
+        if seat_match:
+            highlights.append(f"{seat_match.group(1)} capacity")
+        
+        # Drivetrain
+        drivetrain_match = re.search(r'(front[-\s]?wheel\s+drive|rear[-\s]?wheel\s+drive|all[-\s]?wheel\s+drive|4matric|awd|fwd|rwd)', text, re.I)
+        if drivetrain_match:
+            highlights.append(f"{drivetrain_match.group(1).title()} Drivetrain")
+        
+        return highlights[:10]
+    
+    def _extract_engine_specs(self, text: str, soup_element) -> List[str]:
+        """Extract engine specifications."""
+        engine_specs = []
+        
+        # Engine type patterns
+        engine_patterns = [
+            r'(\d+\.\d+[-\s]?lit[re]?[s]?\s+(inline[-\s]?)?(six|4|four|v8|v6|v12|twin[-\s]?turbo|turbocharged|supercharged))',
+            r'(\d+\.\d+[-\s]?l[\/\s]?\d+\s+(inline[-\s]?)?(six|4|four|v8|v6|v12))',
+            r'((inline[-\s]?)?(six|4|four|v8|v6|v12)[-\s]?(cylinder|cyl)?[-\s]?(turbo|twin[-\s]?turbo|supercharged)?)',
+            r'(\d+\.\d+[-\s]?lit[re]?[s]?\s+(petrol|diesel|gasoline))',
+        ]
+        
+        for pattern in engine_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    spec = ' '.join(match).strip()
+                else:
+                    spec = match.strip()
+                if spec and spec not in engine_specs:
+                    engine_specs.append(spec.title())
+        
+        # Power and torque
+        power_match = re.search(r'(\d+)\s*(kw|hp|ps|bhp)[\s\(]*(@\s*\d+)?', text, re.I)
+        if power_match:
+            engine_specs.append(f"{power_match.group(1)} {power_match.group(2).upper()} @ {power_match.group(3) if power_match.group(3) else 'RPM'}")
+        
+        torque_match = re.search(r'(\d+)\s*(nm|lb[-\s]?ft|pounds[-\s]?feet)[\s\(]*(@\s*\d+)?', text, re.I)
+        if torque_match:
+            engine_specs.append(f"{torque_match.group(1)} {torque_match.group(2).upper()} @ {torque_match.group(3) if torque_match.group(3) else 'RPM'}")
+        
+        # Displacement
+        displacement_match = re.search(r'(\d+\.\d+)\s*(l|lit[re]?[s]?)[\/\s]?(\d+)?', text, re.I)
+        if displacement_match:
+            if displacement_match.group(3):
+                engine_specs.append(f"{displacement_match.group(1)} {displacement_match.group(2).upper()}/{displacement_match.group(3)} Displacement")
+            else:
+                engine_specs.append(f"{displacement_match.group(1)} {displacement_match.group(2).upper()} Displacement")
+        
+        return engine_specs[:15]
+    
+    def _extract_suspension_specs(self, text: str, soup_element) -> List[str]:
+        """Extract suspension specifications."""
+        suspension_specs = []
+        
+        suspension_patterns = [
+            r'(strut\s+suspension[-\s]?type[-\s]?front)',
+            r'(multi[-\s]?link\s+suspension[-\s]?type[-\s]?rear)',
+            r'(independent\s+(front|rear)\s+suspension)',
+            r'(double[-\s]?wishbone)',
+            r'(mcpherson\s+strut)',
+            r'(air\s+suspension)',
+            r'(adaptive\s+suspension)',
+            r'(dynamic\s+body\s+control)',
+        ]
+        
+        for pattern in suspension_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    spec = ' '.join(match).strip()
+                else:
+                    spec = match.strip()
+                if spec and spec not in suspension_specs:
+                    suspension_specs.append(spec.title())
+        
+        return suspension_specs[:10]
+    
+    def _extract_weight_capacity(self, text: str, soup_element) -> List[str]:
+        """Extract weight and capacity specifications."""
+        weight_specs = []
+        
+        # Weight patterns
+        weight_match = re.search(r'(\d+[,\.]?\d*)\s*(lbs?|kg|kilograms?)\s*(curb\s+weight|base\s+curb\s+weight)', text, re.I)
+        if weight_match:
+            weight_specs.append(f"{weight_match.group(1)} {weight_match.group(2)} Base Curb Weight")
+        
+        # Dimensions
+        dim_match = re.search(r'(\d+[,\.]?\d*)\s*(mm|millimetres?|inches?|")\s*(long|wide|high|length|width|height)', text, re.I)
+        if dim_match:
+            weight_specs.append(f"{dim_match.group(1)} {dim_match.group(2)} {dim_match.group(3).title()}")
+        
+        # Fuel tank capacity
+        fuel_match = re.search(r'(\d+)\s*(gal|lit[re]?[s]?|gallons?)\s*(fuel\s+tank\s+capacity)', text, re.I)
+        if fuel_match:
+            weight_specs.append(f"{fuel_match.group(1)} {fuel_match.group(2)} Fuel Tank Capacity, Approx")
+        
+        # Wheelbase
+        wheelbase_match = re.search(r'(\d+[,\.]?\d*)\s*(mm|millimetres?|inches?)\s*(wheelbase)', text, re.I)
+        if wheelbase_match:
+            weight_specs.append(f"{wheelbase_match.group(1)} {wheelbase_match.group(2)} Wheelbase")
+        
+        return weight_specs[:15]
+    
+    def _extract_safety_features(self, text: str, soup_element) -> List[str]:
+        """Extract safety features."""
+        safety_features = []
+        
+        safety_patterns = [
+            r'(standard\s+)?(stability\s+control)',
+            r'(standard\s+)?(automatic\s+emergency\s+braking)',
+            r'(standard\s+)?(backup\s+camera|reversing\s+camera)',
+            r'(standard\s+)?(blind\s+spot\s+monitor|blind\s+spot\s+assist)',
+            r'(standard\s+)?(lane\s+departure\s+warning)',
+            r'(standard\s+)?(rear\s+cross\s+traffic\s+alert)',
+            r'(standard\s+)?(active\s+brake\s+assist)',
+            r'(standard\s+)?(attention\s+assist)',
+            r'(standard\s+)?(active\s+lane\s+keeping\s+assist)',
+            r'(standard\s+)?(speed\s+limit\s+assist)',
+            r'(standard\s+)?(distronic|active\s+distance\s+assist)',
+            r'(standard\s+)?(pre[-\s]?safe)',
+            r'(standard\s+)?(airbag[s]?)',
+            r'(standard\s+)?(abs\s+brake\s+system)',
+        ]
+        
+        for pattern in safety_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    feature = ' '.join([m for m in match if m]).strip()
+                else:
+                    feature = match.strip()
+                if feature:
+                    # Standardize format
+                    if not feature.lower().startswith('standard'):
+                        feature = f"Standard {feature.title()}"
+                    else:
+                        feature = feature.title()
+                    if feature not in safety_features:
+                        safety_features.append(feature)
+        
+        return safety_features[:15]
+    
+    def _extract_entertainment_features(self, text: str, soup_element) -> List[str]:
+        """Extract entertainment features."""
+        entertainment_features = []
+        
+        entertainment_patterns = [
+            r'(standard\s+)?(bluetooth)',
+            r'(wireless\s+(android\s+auto|apple\s+carplay))',
+            r'(\d+\s+speaker\s+(sound\s+)?system)',
+            r'(premium\s+sound\s+system)',
+            r'(bang\s+&\s+olufsen)',
+            r'(burmester)',
+            r'(harman\s+kardon)',
+            r'(bose)',
+            r'(dolby\s+atmos)',
+            r'(spatial\s+audio)',
+            r'(internet\s+radio)',
+            r'(music\s+streaming)',
+        ]
+        
+        for pattern in entertainment_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    feature = ' '.join([m for m in match if m]).strip()
+                else:
+                    feature = match.strip()
+                if feature:
+                    if not feature.lower().startswith('standard'):
+                        feature = f"Standard {feature.title()}"
+                    else:
+                        feature = feature.title()
+                    if feature not in entertainment_features:
+                        entertainment_features.append(feature)
+        
+        return entertainment_features[:10]
+    
+    def _extract_electrical_specs(self, text: str, soup_element) -> List[str]:
+        """Extract electrical specifications."""
+        electrical_specs = []
+        
+        # Battery/electrical patterns
+        electrical_patterns = [
+            r'(\d+[-\s]?volt\s+(electrical\s+)?system)',
+            r'(\d+\s+amp[s]?\s+(alternator|battery))',
+            r'(cold\s+cranking\s+amps)',
+            r'(maximum\s+alternator\s+capacity)',
+        ]
+        
+        for pattern in electrical_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    spec = ' '.join(match).strip()
+                else:
+                    spec = match.strip()
+                if spec and spec not in electrical_specs:
+                    electrical_specs.append(spec.title())
+        
+        return electrical_specs[:5]
+    
+    def _extract_brake_specs(self, text: str, soup_element) -> List[str]:
+        """Extract brake specifications."""
+        brake_specs = []
+        
+        brake_patterns = [
+            r'(\d+[-\s]?wheel\s+disc\s+brake)',
+            r'(\d+[-\s]?wheel\s+brake\s+abs\s+system)',
+            r'(\d+\s+inch\s+(front|rear)\s+brake\s+rotor)',
+            r'(disc[-\s]?(front|rear))',
+            r'(drum[-\s]?(front|rear))',
+        ]
+        
+        for pattern in brake_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    spec = ' '.join(match).strip()
+                else:
+                    spec = match.strip()
+                if spec and spec not in brake_specs:
+                    brake_specs.append(spec.title())
+        
+        return brake_specs[:10]
     
     def get_next_page_url(self, html: str, current_url: str) -> Optional[str]:
         """
