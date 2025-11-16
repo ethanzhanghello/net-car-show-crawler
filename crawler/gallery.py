@@ -15,15 +15,17 @@ class GalleryParser:
         """Initialize gallery parser with base URL."""
         self.base_url = base_url
     
-    def parse_gallery_page(self, html: str) -> List[str]:
+    def parse_gallery_page(self, html: str, make: str = None, model: str = None) -> List[str]:
         """
         Parse a gallery page to extract all high-resolution image URLs.
         
         Args:
             html: HTML content of the gallery page
+            make: Make name to filter images (e.g., "acura")
+            model: Model name to filter images (e.g., "ilx")
             
         Returns:
-            List of image URLs (preferring highest resolution)
+            List of image URLs (preferring highest resolution, filtered by model if provided)
         """
         if not html:
             return []
@@ -31,6 +33,10 @@ class GalleryParser:
         soup = BeautifulSoup(html, 'lxml')
         image_urls = []
         seen = set()
+        
+        # Normalize make and model for filtering
+        make_filter = make.lower().replace('_', '-') if make else None
+        model_filter = model.lower().replace('_', '-') if model else None
         
         # Find all image tags
         img_tags = soup.find_all('img')
@@ -48,7 +54,15 @@ class GalleryParser:
                         continue
                     
                     # Filter for high-resolution images
-                    if self._is_high_res_image(full_url) and full_url not in seen:
+                    if not self._is_high_res_image(full_url):
+                        continue
+                    
+                    # Filter by model if provided
+                    if make_filter and model_filter:
+                        if not self._matches_model(full_url, make_filter, model_filter):
+                            continue
+                    
+                    if full_url not in seen:
                         seen.add(full_url)
                         image_urls.append(full_url)
         
@@ -64,6 +78,11 @@ class GalleryParser:
                 else:
                     continue
                 
+                # Filter by model if provided
+                if make_filter and model_filter:
+                    if not self._matches_model(full_url, make_filter, model_filter):
+                        continue
+                
                 if full_url not in seen:
                     seen.add(full_url)
                     image_urls.append(full_url)
@@ -72,6 +91,98 @@ class GalleryParser:
         image_urls = self._sort_by_resolution(image_urls)
         
         return image_urls
+    
+    def _matches_model(self, url: str, make: str, model: str) -> bool:
+        """
+        Check if image URL matches the specific make and model.
+        Uses strict matching to avoid unrelated images.
+        
+        Args:
+            url: Image URL
+            make: Make name (normalized, e.g., "acura")
+            model: Model name (normalized, e.g., "ilx")
+            
+        Returns:
+            True if URL appears to be for this model
+        """
+        url_lower = url.lower()
+        
+        # Normalize make/model for matching (handle variations)
+        make_variations = [make, make.replace('_', '-'), make.replace('-', '_')]
+        model_variations = [model, model.replace('_', '-'), model.replace('-', '_')]
+        
+        # Check for make-model pattern in URL (strict matching)
+        # Patterns like: Acura-ILX-2019, acura_ilx_2019, acura/ilx/, etc.
+        # Must have BOTH make and model in URL
+        make_found = False
+        model_found = False
+        
+        # Check if make appears in URL
+        for make_var in make_variations:
+            # Check various patterns
+            make_patterns = [
+                f"/{make_var}/",
+                f"/{make_var}-",
+                f"/{make_var}_",
+                f"{make_var}-",
+                f"{make_var}_",
+            ]
+            for pattern in make_patterns:
+                if pattern in url_lower:
+                    make_found = True
+                    break
+            if make_found:
+                break
+        
+        # Check if model appears in URL (must be near make or clearly identified)
+        for model_var in model_variations:
+            # Check various patterns - must be clearly the model
+            model_patterns = [
+                f"-{model_var}-",  # year-model-year or make-model-year
+                f"-{model_var}_",
+                f"-{model_var}/",
+                f"_{model_var}-",
+                f"_{model_var}_",
+                f"_{model_var}/",
+                f"/{model_var}-",
+                f"/{model_var}_",
+                f"/{model_var}/",
+            ]
+            for pattern in model_patterns:
+                if pattern in url_lower:
+                    model_found = True
+                    break
+            
+            # Also check for capitalized versions
+            model_cap = model_var.capitalize()
+            model_upper = model_var.upper()
+            for var in [model_var, model_cap, model_upper]:
+                # Word boundary check - must be clearly the model
+                pattern = r'[\/\-_]' + re.escape(var) + r'[\/\-_]'
+                if re.search(pattern, url_lower, re.I):
+                    model_found = True
+                    break
+            
+            if model_found:
+                break
+        
+        # Both make and model must be present for a match
+        if make_found and model_found:
+            return True
+        
+        # Fallback: check for combined make-model pattern
+        for make_var in make_variations:
+            for model_var in model_variations:
+                combined_patterns = [
+                    f"{make_var}-{model_var}",
+                    f"{make_var}_{model_var}",
+                    f"{make_var}/{model_var}",
+                ]
+                for pattern in combined_patterns:
+                    if pattern in url_lower:
+                        return True
+        
+        return False
     
     def _is_high_res_image(self, url: str) -> bool:
         """Check if URL points to a high-resolution image."""
@@ -182,7 +293,8 @@ class GalleryParser:
         
         return None
     
-    def parse_all_gallery_pages(self, initial_html: str, initial_url: str, fetcher) -> List[str]:
+    def parse_all_gallery_pages(self, initial_html: str, initial_url: str, fetcher, 
+                                make: str = None, model: str = None) -> List[str]:
         """
         Parse all pages of a gallery to get all images.
         
@@ -190,9 +302,11 @@ class GalleryParser:
             initial_html: HTML of first gallery page
             initial_url: URL of first gallery page
             fetcher: Fetcher instance to get additional pages
+            make: Make name to filter images (e.g., "acura")
+            model: Model name to filter images (e.g., "ilx")
             
         Returns:
-            List of all image URLs from all gallery pages
+            List of all image URLs from all gallery pages (filtered by model if provided)
         """
         all_images = []
         current_html = initial_html
@@ -200,7 +314,7 @@ class GalleryParser:
         seen_urls = {current_url}
         
         # Parse first page
-        images = self.parse_gallery_page(current_html)
+        images = self.parse_gallery_page(current_html, make=make, model=model)
         all_images.extend(images)
         
         # Follow pagination
@@ -225,7 +339,7 @@ class GalleryParser:
             current_url = next_url
             
             # Parse images from this page
-            images = self.parse_gallery_page(current_html)
+            images = self.parse_gallery_page(current_html, make=make, model=model)
             all_images.extend(images)
         
         # Remove duplicates while preserving order

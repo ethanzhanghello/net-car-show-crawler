@@ -80,17 +80,18 @@ class Fetcher:
         except requests.exceptions.RequestException as e:
             return None, None, f"Request failed: {str(e)}"
     
-    def fetch_url_simple(self, url: str) -> Optional[str]:
+    def fetch_url_simple(self, url: str, timeout: int = 30) -> Optional[str]:
         """
         Simple fetch that returns HTML or None.
         
         Args:
             url: URL to fetch
+            timeout: Request timeout in seconds (default 30)
             
         Returns:
             HTML content or None on failure
         """
-        html, status, error = self.fetch_url(url)
+        html, status, error = self.fetch_url(url, timeout=timeout)
         if error:
             print(f"Error fetching {url}: {error}")
         return html

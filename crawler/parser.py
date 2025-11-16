@@ -461,41 +461,108 @@ class Parser:
         }
     
     def _parse_spec_table(self, table) -> Dict[str, List]:
-        """Parse specifications from a table structure."""
+        """Parse specifications from a table structure.
+        
+        Returns format matching reference:
+        {
+          "Category Name": ["spec1", "spec2", ...]
+        }
+        """
         specs = {}
-        current_category = 'General'
+        current_category = None
         
         rows = table.find_all('tr')
         for row in rows:
             cells = row.find_all(['td', 'th'])
+            
+            # Check if this is a category header row (single cell or bold header)
+            if len(cells) == 1:
+                category_text = cells[0].get_text().strip()
+                if category_text and len(category_text) < 100:
+                    current_category = category_text
+                    if current_category not in specs:
+                        specs[current_category] = []
+                continue
+            
             if len(cells) >= 2:
                 label = cells[0].get_text().strip()
                 value = cells[1].get_text().strip()
                 
-                if not label or not value:
+                if not label and not value:
                     continue
                 
                 # Check if label is a category header (often bold or in th)
-                if cells[0].name == 'th' or cells[0].find(['strong', 'b']):
+                is_category = (cells[0].name == 'th' or 
+                              cells[0].find(['strong', 'b', 'h3', 'h4']) or
+                              (len(cells) == 2 and not value))
+                
+                if is_category and label:
                     current_category = label
                     if current_category not in specs:
                         specs[current_category] = []
-                else:
-                    # Add spec to current category
-                    if current_category not in specs:
-                        specs[current_category] = []
-                    specs[current_category].append(f"{label}: {value}")
+                elif label and value:
+                    # Add spec to current category (format: "Label: Value" or just "Value" if label is generic)
+                    if current_category:
+                        if current_category not in specs:
+                            specs[current_category] = []
+                        # If label is generic (like "Specification", "Feature"), just use value
+                        if label.lower() in ['specification', 'feature', 'detail', 'info']:
+                            specs[current_category].append(value)
+                        else:
+                            specs[current_category].append(f"{label}: {value}")
+                    else:
+                        # No category yet, use label as category or create General
+                        if not current_category:
+                            current_category = 'General'
+                            if current_category not in specs:
+                                specs[current_category] = []
+                        specs[current_category].append(f"{label}: {value}")
+                elif value and not label:
+                    # Value only, add to current category
+                    if current_category:
+                        if current_category not in specs:
+                            specs[current_category] = []
+                        specs[current_category].append(value)
         
         return specs
     
     def _parse_spec_list(self, section) -> Dict[str, List]:
-        """Parse specifications from a list structure."""
+        """Parse specifications from a list structure.
+        
+        Returns format matching reference:
+        {
+          "Category Name": ["spec1", "spec2", ...]
+        }
+        """
         specs = {}
-        current_category = 'General'
+        current_category = None
+        
+        # Look for category headers first (h2, h3, h4, strong headings before lists)
+        headings = section.find_all(['h2', 'h3', 'h4', 'h5', 'strong', 'b'])
+        for heading in headings:
+            text = heading.get_text().strip()
+            if text and len(text) < 100:
+                # Check if this looks like a category name
+                category_keywords = ['features', 'highlights', 'engine', 'suspension', 'safety', 
+                                   'entertainment', 'electrical', 'brakes', 'weight', 'capacity']
+                if any(keyword in text.lower() for keyword in category_keywords) or len(text.split()) <= 3:
+                    current_category = text
+                    if current_category not in specs:
+                        specs[current_category] = []
         
         # Look for lists
         lists = section.find_all(['ul', 'ol', 'dl'])
         for list_elem in lists:
+            # Check if there's a heading right before this list
+            prev_sibling = list_elem.find_previous_sibling(['h2', 'h3', 'h4', 'h5', 'strong', 'b', 'p'])
+            if prev_sibling:
+                prev_text = prev_sibling.get_text().strip()
+                if prev_text and len(prev_text) < 100:
+                    # Use previous heading as category
+                    current_category = prev_text
+                    if current_category not in specs:
+                        specs[current_category] = []
+            
             items = list_elem.find_all('li') if list_elem.name in ['ul', 'ol'] else list_elem.find_all(['dt', 'dd'])
             
             for item in items:
@@ -503,12 +570,15 @@ class Parser:
                 if not text:
                     continue
                 
-                # Check if it's a category header
+                # Check if it's a category header (dt tag or bold text)
                 if item.name == 'dt' or item.find(['strong', 'b', 'h3', 'h4']):
                     current_category = text
                     if current_category not in specs:
                         specs[current_category] = []
                 else:
+                    # Add to current category or create General
+                    if not current_category:
+                        current_category = 'General'
                     if current_category not in specs:
                         specs[current_category] = []
                     specs[current_category].append(text)

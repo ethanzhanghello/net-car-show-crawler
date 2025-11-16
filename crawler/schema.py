@@ -36,9 +36,11 @@ class SchemaMapper:
         """
         # Normalize make and model names
         # Prefer model from URL parsing (passed as parameter) over scraped data
+        # The model parameter should already be clean from URL parsing
         model_to_normalize = model or scraped_data.get('model', '')
-        # If model name looks like a full title, try to extract just the model part
-        if ' - ' in model_to_normalize or 'pictures' in model_to_normalize.lower():
+        
+        # If model name looks like a full title, try to extract just the model part from URL
+        if ' - ' in model_to_normalize or 'pictures' in model_to_normalize.lower() or 'information' in model_to_normalize.lower():
             # Try to extract from URL if available
             if 'url' in scraped_data:
                 from urllib.parse import urlparse
@@ -49,6 +51,9 @@ class SchemaMapper:
                     # Extract model part (after year-)
                     if '-' in year_model and year_model[0].isdigit():
                         model_to_normalize = year_model.split('-', 1)[1].replace('-', '_')
+                    elif not year_model[0].isdigit():
+                        # No year prefix, use the whole thing
+                        model_to_normalize = year_model.replace('-', '_')
         
         normalized_make = SchemaMapper._normalize_name(make or scraped_data.get('make', ''))
         normalized_model = SchemaMapper._normalize_name(model_to_normalize)

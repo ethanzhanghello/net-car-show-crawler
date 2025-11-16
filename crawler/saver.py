@@ -27,14 +27,14 @@ class Saver:
         """
         Save a record to disk with proper directory structure.
         
-        Directory structure: data/type={category}/subtype={subcategory}/{make}/{model}.json
+        Directory structure: data/{make}/{model}.json
         
         Args:
             record: Schema-formatted record to save
-            category: Category name (e.g., "SUV")
-            subcategory: Subcategory name (e.g., "Premium")
+            category: Category name (e.g., "SUV") - not used in path, kept for compatibility
+            subcategory: Subcategory name (e.g., "Premium") - not used in path, kept for compatibility
             make: Make name (if not in record)
-            model: Model name (if not in record)
+            model: Model name (if not in record) - should be clean model name from URL
             
         Returns:
             Path to saved file
@@ -43,21 +43,23 @@ class Saver:
         make = make or record.get('make', 'unknown')
         model = model or record.get('model', 'unknown')
         
-        # Normalize category and subcategory names
-        category = SchemaMapper.normalize_category_name(category)
-        subcategory = SchemaMapper.normalize_subcategory_name(subcategory)
+        # Ensure model name is clean - prefer the model from record (already normalized)
+        # If the passed model is a page title, use the record's model instead
+        if model and (' - ' in model or 'pictures' in model.lower() or 'information' in model.lower()):
+            # This is a page title, use the clean model from record instead
+            model = record.get('model', model)
         
-        # Create directory structure
-        # Format: data/type={category}/subtype={subcategory}/{make}/
-        dir_path = os.path.join(
-            self.output_dir,
-            f"type={category}",
-            f"subtype={subcategory}",
-            make
-        )
+        # Normalize model name for consistency (should already be normalized, but ensure it)
+        model = SchemaMapper._normalize_name(model)
+        
+        # Also ensure the record has the clean model name
+        record['model'] = model
+        
+        # Create directory structure: data/{make}/
+        dir_path = os.path.join(self.output_dir, make)
         os.makedirs(dir_path, exist_ok=True)
         
-        # Normalize model name for filename
+        # Use normalized model name for filename
         model_filename = model.replace('/', '_').replace('\\', '_')
         file_path = os.path.join(dir_path, f"{model_filename}.json")
         
@@ -121,23 +123,20 @@ class Saver:
         Get the output path for a record without saving it.
         
         Args:
-            category: Category name
-            subcategory: Subcategory name
+            category: Category name (not used in path, kept for compatibility)
+            subcategory: Subcategory name (not used in path, kept for compatibility)
             make: Make name
-            model: Model name
+            model: Model name (should be clean model name)
             
         Returns:
             Full path where the record would be saved
         """
-        category = SchemaMapper.normalize_category_name(category)
-        subcategory = SchemaMapper.normalize_subcategory_name(subcategory)
-        
+        # Normalize model name
+        model = SchemaMapper._normalize_name(model)
         model_filename = model.replace('/', '_').replace('\\', '_')
         
         return os.path.join(
             self.output_dir,
-            f"type={category}",
-            f"subtype={subcategory}",
             make,
             f"{model_filename}.json"
         )

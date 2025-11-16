@@ -1,0 +1,32 @@
+{
+  "make": "acura",
+  "model": "ilx",
+  "years": {
+    "2019": {
+      "main_images": [
+        "https://example.com/image1.jpg"
+      ],
+      "expert_review": "Test review for 2019 ILX",
+      "trims": [
+        {
+          "name": "Base",
+          "price": "$25000",
+          "specifications": {}
+        }
+      ]
+    },
+    "2016": {
+      "main_images": [
+        "https://example.com/image2.jpg"
+      ],
+      "expert_review": "Test review for 2016 ILX",
+      "trims": [
+        {
+          "name": "Base",
+          "price": "$23000",
+          "specifications": {}
+        }
+      ]
+    }
+  }
+}
