@@ -25,6 +25,14 @@ class Fetcher:
         self.session = requests.Session()
         self.max_retries = max_retries
         
+        # Configure proxy from environment variables if available
+        import os
+        self.proxies = {}
+        if os.environ.get('http_proxy'):
+            self.proxies['http'] = os.environ.get('http_proxy')
+        if os.environ.get('https_proxy'):
+            self.proxies['https'] = os.environ.get('https_proxy')
+        
         # Configure retry strategy with exponential backoff
         retry_strategy = Retry(
             total=max_retries,
@@ -80,7 +88,8 @@ class Fetcher:
                     url, 
                     timeout=timeout,
                     allow_redirects=True,
-                    stream=False
+                    stream=False,
+                    proxies=self.proxies if self.proxies else None
                 )
                 response.raise_for_status()
                 return response.text, response.status_code, None
