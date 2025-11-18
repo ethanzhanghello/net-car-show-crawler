@@ -335,9 +335,16 @@ class Crawler:
             if gallery_url:
                 gallery_html = self.fetcher.fetch_url_simple(gallery_url)
                 if gallery_html:
-                    # Get make and model for filtering images
+                    # Get make, model, and year for filtering images
                     make_for_filter = parsed_data.get('make') or (model_info.get('make') if model_info else None)
                     model_for_filter = (model_info.get('model') if model_info else None) or parsed_data.get('model')
+                    # Get year from URL or parsed data
+                    year_for_filter = None
+                    if model_info and model_info.get('year'):
+                        year_for_filter = str(model_info.get('year'))
+                    elif parsed_data.get('years') and len(parsed_data.get('years', [])) > 0:
+                        year_for_filter = str(parsed_data.get('years')[0])
+                    
                     # Normalize for filtering
                     if make_for_filter and model_for_filter:
                         from .schema import SchemaMapper
@@ -346,9 +353,9 @@ class Crawler:
                     
                     images = self.gallery_parser.parse_all_gallery_pages(
                         gallery_html, gallery_url, self.fetcher,
-                        make=make_for_filter, model=model_for_filter
+                        make=make_for_filter, model=model_for_filter, year=year_for_filter
                     )
-                    self.logger.debug(f"Extracted {len(images)} images (filtered for {make_for_filter}/{model_for_filter})", url=gallery_url)
+                    self.logger.debug(f"Extracted {len(images)} images (filtered for {make_for_filter}/{model_for_filter}/{year_for_filter})", url=gallery_url)
             
             # Map to schema
             # Prefer model from URL parsing (model_info) over parsed_data

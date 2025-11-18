@@ -15,17 +15,21 @@ class GalleryParser:
         """Initialize gallery parser with base URL."""
         self.base_url = base_url
     
-    def parse_gallery_page(self, html: str, make: str = None, model: str = None) -> List[str]:
+    def parse_gallery_page(self, html: str, make: str = None, model: str = None, year: str = None) -> List[str]:
         """
         Parse a gallery page to extract all high-resolution image URLs.
+        
+        NOTE: When year=None, this gathers ALL images matching make/model.
+        Year filtering happens later in parse_all_gallery_pages() after all pages are gathered.
         
         Args:
             html: HTML content of the gallery page
             make: Make name to filter images (e.g., "acura")
             model: Model name to filter images (e.g., "ilx")
+            year: Year to filter (if None, gathers all years for this make/model)
             
         Returns:
-            List of image URLs (preferring highest resolution, filtered by model if provided)
+            List of image URLs (filtered by make/model, optionally by year)
         """
         if not html:
             return []
@@ -38,11 +42,11 @@ class GalleryParser:
         make_filter = make.lower().replace('_', '-') if make else None
         model_filter = model.lower().replace('_', '-') if model else None
         
-        # Find all image tags
+        # Find all image tags - gather ALL images first
         img_tags = soup.find_all('img')
         for img in img_tags:
             # Try different attributes for image URLs
-            for attr in ['src', 'data-src', 'data-lazy-src', 'data-original']:
+            for attr in ['src', 'data-src', 'data-lazy-src', 'data-original', 'data-full']:
                 url = img.get(attr)
                 if url:
                     # Convert relative URLs to absolute
@@ -53,13 +57,16 @@ class GalleryParser:
                     else:
                         continue
                     
-                    # Filter for high-resolution images
-                    if not self._is_high_res_image(full_url):
+                    # Check if it's an image URL (must end with image extension or be in /R/ directory)
+                    if not (self._is_image_url(full_url) or '/R/' in full_url):
                         continue
                     
-                    # Filter by model if provided
+                    # Gather ALL images - don't filter by resolution during gathering
+                    # We want to collect everything, then filter by year afterward
+                    
+                    # Filter by make and model ONLY (year filtering happens later)
                     if make_filter and model_filter:
-                        if not self._matches_model(full_url, make_filter, model_filter):
+                        if not self._matches_model(full_url, make_filter, model_filter, year=None):
                             continue
                     
                     if full_url not in seen:
@@ -70,7 +77,8 @@ class GalleryParser:
         links = soup.find_all('a', href=True)
         for link in links:
             href = link.get('href', '')
-            if self._is_image_url(href):
+            # Check if it's an image URL or points to /R/ directory
+            if self._is_image_url(href) or '/R/' in href.lower():
                 if href.startswith('/'):
                     full_url = urljoin(self.base_url, href)
                 elif href.startswith('http'):
@@ -78,12 +86,35 @@ class GalleryParser:
                 else:
                     continue
                 
-                # Filter by model if provided
+                # Filter by make and model ONLY (year filtering happens later)
                 if make_filter and model_filter:
-                    if not self._matches_model(full_url, make_filter, model_filter):
+                    if not self._matches_model(full_url, make_filter, model_filter, year=None):
                         continue
                 
                 if full_url not in seen:
+                    seen.add(full_url)
+                    image_urls.append(full_url)
+        
+        # Also look for images in /R/ directory pattern: /R/{Make}-{Model}-{Year}-...
+        # Extract all URLs that match the pattern from the HTML
+        html_text = str(soup)
+        # Pattern: /R/{make}-{model}-{year}-{suffix}.jpg
+        if make_filter and model_filter:
+            # Look for /R/ URLs in the HTML - match full URLs
+            # Pattern: /R/Make-Model-Year-suffix.jpg or /R/Make-Model-Year-suffix-ec-...
+            r_pattern = rf'/R/[^"\'<> ]*{re.escape(make_filter)}[^"\'<> ]*{re.escape(model_filter)}[^"\'<> ]*\.(jpg|jpeg|png|gif|webp)'
+            r_matches = re.finditer(r_pattern, html_text, re.I)
+            for match in r_matches:
+                url_part = match.group(0)  # Get the full matched URL
+                
+                if url_part.startswith('/'):
+                    full_url = urljoin(self.base_url, url_part)
+                elif url_part.startswith('http'):
+                    full_url = url_part
+                else:
+                    continue
+                
+                if full_url not in seen and self._matches_model(full_url, make_filter, model_filter, year=None):
                     seen.add(full_url)
                     image_urls.append(full_url)
         
@@ -92,18 +123,19 @@ class GalleryParser:
         
         return image_urls
     
-    def _matches_model(self, url: str, make: str, model: str) -> bool:
+    def _matches_model(self, url: str, make: str, model: str, year: str = None) -> bool:
         """
-        Check if image URL matches the specific make and model.
-        Uses strict matching to avoid unrelated images.
+        Check if image URL matches the specific make, model, and year.
+        Uses strict matching to avoid unrelated images from other years.
         
         Args:
             url: Image URL
             make: Make name (normalized, e.g., "acura")
             model: Model name (normalized, e.g., "ilx")
+            year: Year to match (e.g., "2019") - if provided, URL must contain this year
             
         Returns:
-            True if URL appears to be for this model
+            True if URL appears to be for this model and year
         """
         url_lower = url.lower()
         
@@ -167,22 +199,58 @@ class GalleryParser:
                 break
         
         # Both make and model must be present for a match
-        if make_found and model_found:
-            return True
+        if not (make_found and model_found):
+            # Fallback: check for combined make-model pattern
+            for make_var in make_variations:
+                for model_var in model_variations:
+                    combined_patterns = [
+                        f"{make_var}-{model_var}",
+                        f"{make_var}_{model_var}",
+                        f"{make_var}/{model_var}",
+                    ]
+                    for pattern in combined_patterns:
+                        if pattern in url_lower:
+                            make_found = True
+                            model_found = True
+                            break
+                    if make_found and model_found:
+                        break
+                if make_found and model_found:
+                    break
         
-        # Fallback: check for combined make-model pattern
-        for make_var in make_variations:
-            for model_var in model_variations:
-                combined_patterns = [
-                    f"{make_var}-{model_var}",
-                    f"{make_var}_{model_var}",
-                    f"{make_var}/{model_var}",
-                ]
-                for pattern in combined_patterns:
-                    if pattern in url_lower:
-                        return True
+        # If year is provided, URL must contain the year (strict matching)
+        if year:
+            year_str = str(year).strip()
+            # Check for year in URL - must be present
+            # Patterns: -2019-, _2019_, -2019.jpg, _2019.jpg, /2019/, etc.
+            year_patterns = [
+                f"-{year_str}-",
+                f"-{year_str}_",
+                f"-{year_str}.",
+                f"-{year_str}/",
+                f"_{year_str}-",
+                f"_{year_str}_",
+                f"_{year_str}.",
+                f"_{year_str}/",
+                f"/{year_str}-",
+                f"/{year_str}_",
+                f"/{year_str}/",
+            ]
+            year_found = any(pattern in url_lower for pattern in year_patterns)
+            
+            # Also check for year at start/end of filename
+            if not year_found:
+                # Check if year appears before file extension
+                year_at_end = re.search(rf'{re.escape(year_str)}\.[a-z]{{3,4}}$', url_lower)
+                if year_at_end:
+                    year_found = True
+            
+            # If year is required but not found, reject this image
+            if not year_found:
+                return False
         
-        return False
+        # All required matches found
+        return make_found and model_found
     
     def _is_high_res_image(self, url: str) -> bool:
         """Check if URL points to a high-resolution image."""
@@ -294,9 +362,12 @@ class GalleryParser:
         return None
     
     def parse_all_gallery_pages(self, initial_html: str, initial_url: str, fetcher, 
-                                make: str = None, model: str = None) -> List[str]:
+                                make: str = None, model: str = None, year: str = None) -> List[str]:
         """
         Parse all pages of a gallery to get all images.
+        
+        IMPORTANT: Gathers ALL images first, then filters by year afterward.
+        This ensures we don't miss any images that might be on later pages.
         
         Args:
             initial_html: HTML of first gallery page
@@ -304,20 +375,22 @@ class GalleryParser:
             fetcher: Fetcher instance to get additional pages
             make: Make name to filter images (e.g., "acura")
             model: Model name to filter images (e.g., "ilx")
+            year: Year to filter images (e.g., "2019") - filters AFTER gathering all images
             
         Returns:
-            List of all image URLs from all gallery pages (filtered by model if provided)
+            List of all image URLs from all gallery pages (filtered by make, model, and year)
         """
+        # STEP 1: Gather ALL images from all gallery pages (no year filtering yet)
         all_images = []
         current_html = initial_html
         current_url = initial_url
         seen_urls = {current_url}
         
-        # Parse first page
-        images = self.parse_gallery_page(current_html, make=make, model=model)
+        # Parse first page - gather all images without year filter
+        images = self.parse_gallery_page(current_html, make=make, model=model, year=None)
         all_images.extend(images)
         
-        # Follow pagination
+        # Follow pagination to get all pages
         max_pages = 50  # Safety limit
         page_count = 0
         
@@ -338,8 +411,8 @@ class GalleryParser:
             current_html = html
             current_url = next_url
             
-            # Parse images from this page
-            images = self.parse_gallery_page(current_html, make=make, model=model)
+            # Parse images from this page - gather all without year filter
+            images = self.parse_gallery_page(current_html, make=make, model=model, year=None)
             all_images.extend(images)
         
         # Remove duplicates while preserving order
@@ -350,5 +423,49 @@ class GalleryParser:
                 seen_images.add(img_url)
                 unique_images.append(img_url)
         
-        return unique_images
+        return self.filter_images_by_year(unique_images, year)
+
+    def filter_images_by_year(self, images: List[str], year: Optional[str]) -> List[str]:
+        """
+        Filter a list of image URLs by year (strict match).
+        
+        Args:
+            images: List of image URLs
+            year: Year to filter by (e.g., "2019")
+            
+        Returns:
+            Filtered list of image URLs matching the year
+        """
+        if not year or not images:
+            return images or []
+        
+        year_str = str(year).strip()
+        filtered_images = []
+        
+        for img_url in images:
+            url_lower = img_url.lower()
+            
+            year_patterns = [
+                f"-{year_str}-",
+                f"-{year_str}.",
+                f"-{year_str}_",
+                f"_{year_str}-",
+                f"_{year_str}.",
+                f"_{year_str}_",
+                f"/{year_str}-",
+                f"/{year_str}_",
+                f"/{year_str}/",
+            ]
+            
+            year_found = any(pattern in url_lower for pattern in year_patterns)
+            
+            if not year_found:
+                year_at_end = re.search(rf'{re.escape(year_str)}\.[a-z]{{3,4}}$', url_lower)
+                if year_at_end:
+                    year_found = True
+            
+            if year_found:
+                filtered_images.append(img_url)
+        
+        return filtered_images
 
