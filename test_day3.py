@@ -159,7 +159,7 @@ def test_crawler_initialization():
             output_dir=test_data_dir,
             checkpoint_dir=test_checkpoint_dir,
             log_dir=test_log_dir,
-            rate_limit=1.0
+            rate_limit=3.0
         )
         
         print("✅ Crawler initialized successfully")

@@ -82,8 +82,8 @@ Examples:
     parser.add_argument(
         '--rate-limit',
         type=float,
-        default=1.5,
-        help='Rate limit in seconds between requests (default: 1.5)'
+        default=3.0,
+        help='Rate limit in seconds between requests (default: 3.0)'
     )
     
     args = parser.parse_args()

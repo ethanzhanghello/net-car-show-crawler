@@ -35,7 +35,7 @@ class Crawler:
     """Main crawler that orchestrates all components."""
     
     def __init__(self, output_dir: str = "data", checkpoint_dir: str = "checkpoints", 
-                 log_dir: str = "logs", rate_limit: float = 1.5):
+                 log_dir: str = "logs", rate_limit: float = 3.0):
         """
         Initialize crawler.
         

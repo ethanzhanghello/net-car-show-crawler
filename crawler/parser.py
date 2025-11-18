@@ -597,9 +597,13 @@ class Parser:
     
     def _extract_specs_from_text(self, soup: BeautifulSoup) -> Dict[str, List]:
         """
-        Extract specifications from text content on netcarshow.com pages.
+        Extract specifications from unstructured prose text on netcarshow.com pages.
         
-        Looks for specifications embedded in paragraphs and organizes them into categories.
+        NOTE: NetCarShow.com does not have structured specification tables like cars.com.
+        However, some pages have structured lists (<ul><li>) that can be extracted more reliably.
+        Specifications are also embedded in prose text that varies significantly by model.
+        This method extracts what it can using pattern matching, but results will be
+        limited and inconsistent compared to structured sources.
         
         Returns format matching reference:
         {
@@ -615,21 +619,238 @@ class Parser:
         
         text_content = main_content.get_text()
         
-        # Extract specifications by category
-        specs['Notable features'] = self._extract_features(text_content, main_content)
-        specs['Highlights'] = self._extract_highlights(text_content, main_content)
-        specs['Engine'] = self._extract_engine_specs(text_content, main_content)
-        specs['Suspension'] = self._extract_suspension_specs(text_content, main_content)
-        specs['Weight & Capacity'] = self._extract_weight_capacity(text_content, main_content)
-        specs['Safety'] = self._extract_safety_features(text_content, main_content)
-        specs['Entertainment'] = self._extract_entertainment_features(text_content, main_content)
-        specs['Electrical'] = self._extract_electrical_specs(text_content, main_content)
-        specs['Brakes'] = self._extract_brake_specs(text_content, main_content)
+        # FIRST: Extract from structured lists (<ul><li>) - these are more reliable
+        list_specs = self._extract_from_structured_lists(main_content)
+        specs = self._merge_spec_dicts(specs, list_specs)
+        
+        # THEN: Extract from prose text using pattern matching and MERGE (don't overwrite)
+        prose_specs = {
+            'Notable features': self._extract_features(text_content, main_content),
+            'Highlights': self._extract_highlights(text_content, main_content),
+            'Engine': self._extract_engine_specs(text_content, main_content),
+            'Suspension': self._extract_suspension_specs(text_content, main_content),
+            'Weight & Capacity': self._extract_weight_capacity(text_content, main_content),
+            'Safety': self._extract_safety_features(text_content, main_content),
+            'Entertainment': self._extract_entertainment_features(text_content, main_content),
+            'Electrical': self._extract_electrical_specs(text_content, main_content),
+            'Brakes': self._extract_brake_specs(text_content, main_content),
+        }
+        specs = self._merge_spec_dicts(specs, prose_specs)
+        
+        # Capture additional label/value style specs found in paragraphs or bullet lists
+        label_specs = self._extract_label_value_specs(main_content)
+        specs = self._merge_spec_dicts(specs, label_specs)
         
         # Remove empty categories
         specs = {k: v for k, v in specs.items() if v}
         
         return specs
+    
+    def _extract_from_structured_lists(self, main_content) -> Dict[str, List[str]]:
+        """
+        Extract specifications from structured <ul><li> lists in the HTML.
+        These are more reliable than prose text extraction.
+        """
+        specs = {}
+        if not main_content:
+            return specs
+        
+        # Find all lists in the main content (including nested ones)
+        lists = main_content.find_all('ul', recursive=True)
+        
+        for ul in lists:
+            # Skip navigation lists and other non-spec lists
+            if ul.get('class'):
+                classes = ' '.join(ul.get('class', []))
+                if any(skip in classes.lower() for skip in ['nav', 'menu', 'swbx', 'shl', 'tmsm', 'navlist']):
+                    continue
+            
+            # Skip if this list is inside navigation/menu structures
+            parent = ul.find_parent(['nav', 'header', 'footer'])
+            if parent:
+                continue
+            
+            # Get the heading before this list (often indicates category)
+            category = None
+            # Look for headings in previous siblings or parents
+            prev = ul.find_previous(['h2', 'h3', 'h4', 'strong', 'b'])
+            if not prev:
+                # Also check parent for headings
+                parent = ul.find_parent(['div', 'section', 'article'])
+                if parent:
+                    heading = parent.find(['h2', 'h3', 'h4', 'strong', 'b'])
+                    if heading:
+                        prev = heading
+            
+            if prev:
+                prev_text = prev.get_text().strip()
+                # Check if it's a category heading
+                category_keywords = {
+                    'new': 'Highlights',
+                    'summary': 'Highlights',
+                    "what's new": 'Highlights',
+                    'feature': 'Notable features',
+                    'spec': 'Notable features',
+                    'safety': 'Safety',
+                    'technology': 'Entertainment',
+                    'interior': 'Notable features',
+                    'exterior': 'Notable features',
+                    'engine': 'Engine',
+                    'performance': 'Engine',
+                    'a-spec': 'Notable features',
+                }
+                for keyword, cat in category_keywords.items():
+                    if keyword in prev_text.lower():
+                        category = cat
+                        break
+            
+            # Extract list items (both direct and nested)
+            items = ul.find_all('li', recursive=False)
+            if not items:
+                # Try nested items if no direct items found
+                items = ul.find_all('li', recursive=True)
+            
+            for li in items:
+                text = li.get_text().strip()
+                if not text or len(text) < 3:
+                    continue
+                
+                # Skip very long items (likely not specs) but allow up to 300 chars for some features
+                if len(text) > 300:
+                    continue
+                
+                # Skip items that are clearly navigation or metadata
+                if any(skip in text.lower()[:50] for skip in ['show more', 'read more', 'next', 'previous', 'home']):
+                    continue
+                
+                # Determine category for this item
+                item_category = category or self._infer_category_from_label(text) or 'Notable features'
+                
+                # Clean up the text
+                text = re.sub(r'\s+', ' ', text)
+                text = re.sub(r'\s*[•·]\s*', '', text)  # Remove bullet characters
+                
+                # Add to specs
+                self._add_spec_entry(specs, item_category, text)
+        
+        return specs
+
+    def _normalize_spec_text(self, text: str) -> str:
+        if not text:
+            return ''
+        text = re.sub(r'\s+', ' ', text)
+        return text.strip()
+
+    def _add_spec_entry(self, specs: Dict[str, List[str]], category: str, value: str):
+        category = (category or '').strip()
+        value = self._normalize_spec_text(value)
+        if not category or not value:
+            return
+        if category not in specs:
+            specs[category] = []
+        if value not in specs[category]:
+            specs[category].append(value)
+
+    def _standardize_category_name(self, heading: str) -> Optional[str]:
+        if not heading:
+            return None
+        key = heading.lower().strip()
+        mapping = [
+            ('engine', 'Engine'),
+            ('powertrain', 'Engine'),
+            ('motor', 'Engine'),
+            ('performance', 'Highlights'),
+            ('fuel', 'Highlights'),
+            ('economy', 'Highlights'),
+            ('drivetrain', 'Highlights'),
+            ('transmission', 'Highlights'),
+            ('suspension', 'Suspension'),
+            ('chassis', 'Suspension'),
+            ('weight', 'Weight & Capacity'),
+            ('capacity', 'Weight & Capacity'),
+            ('dimension', 'Weight & Capacity'),
+            ('cargo', 'Weight & Capacity'),
+            ('safety', 'Safety'),
+            ('security', 'Safety'),
+            ('entertainment', 'Entertainment'),
+            ('infotainment', 'Entertainment'),
+            ('audio', 'Entertainment'),
+            ('technology', 'Entertainment'),
+            ('electrical', 'Electrical'),
+            ('battery', 'Electrical'),
+            ('brake', 'Brakes'),
+            ('notable', 'Notable features'),
+            ('feature', 'Notable features'),
+            ('comfort', 'Notable features'),
+            ('convenience', 'Notable features'),
+            ('interior', 'Notable features'),
+            ('exterior', 'Highlights'),
+        ]
+        for match, category in mapping:
+            if match in key:
+                return category
+        if len(heading.split()) <= 3:
+            return heading.strip().title()
+        return None
+
+    def _infer_category_from_label(self, label: str) -> Optional[str]:
+        if not label:
+            return None
+        text = label.lower()
+        if any(k in text for k in ['hp', 'horsepower', 'torque', 'engine', 'cylinder', 'displacement', 'powertrain']):
+            return 'Engine'
+        if any(k in text for k in ['suspension', 'damp', 'chassis']):
+            return 'Suspension'
+        if any(k in text for k in ['weight', 'capacity', 'cargo', 'fuel tank', 'ground clearance', 'wheelbase', 'length', 'width', 'height']):
+            return 'Weight & Capacity'
+        if any(k in text for k in ['safety', 'assist', 'warning', 'airbag', 'camera', 'monitor']):
+            return 'Safety'
+        if any(k in text for k in ['brake', 'abs', 'rotor']):
+            return 'Brakes'
+        if any(k in text for k in ['mpg', 'fuel economy', 'performance', 'drive', 'drivetrain', 'transmission', 'speed']):
+            return 'Highlights'
+        if any(k in text for k in ['seat', 'leather', 'sunroof', 'moonroof', 'heated', 'ventilated', 'lighting', 'feature']):
+            return 'Notable features'
+        if any(k in text for k in ['bluetooth', 'audio', 'speaker', 'infotainment', 'touchscreen', 'apple carplay', 'android auto', 'navigation']):
+            return 'Entertainment'
+        if any(k in text for k in ['alternator', 'amp', 'battery', 'voltage']):
+            return 'Electrical'
+        return None
+
+    def _extract_label_value_specs(self, main_content) -> Dict[str, List[str]]:
+        specs: Dict[str, List[str]] = {}
+        if not main_content:
+            return specs
+        current_category = None
+        heading_tags = ['h2', 'h3', 'h4', 'h5', 'strong', 'b']
+        for elem in main_content.find_all(['h2', 'h3', 'h4', 'h5', 'strong', 'b', 'p', 'li'], recursive=True):
+            text = elem.get_text(" ", strip=True)
+            if not text:
+                continue
+            if elem.name in heading_tags:
+                cat = self._standardize_category_name(text)
+                if cat:
+                    current_category = cat
+                continue
+            if ':' in text and len(text.split(':', 1)[0]) < 80:
+                label, value = text.split(':', 1)
+                label = label.strip()
+                value = value.strip()
+                if not value:
+                    continue
+                category = self._infer_category_from_label(label) or current_category or 'Notable features'
+                self._add_spec_entry(specs, category, f"{label}: {value}")
+            else:
+                category = self._infer_category_from_label(text)
+                if category:
+                    self._add_spec_entry(specs, category, text)
+        return specs
+
+    def _merge_spec_dicts(self, base: Dict[str, List[str]], extra: Dict[str, List[str]]) -> Dict[str, List[str]]:
+        for category, values in extra.items():
+            for value in values:
+                self._add_spec_entry(base, category, value)
+        return base
     
     def _extract_features(self, text: str, soup_element) -> List[str]:
         """Extract notable features from text."""
@@ -711,96 +932,328 @@ class Parser:
         return highlights[:10]
     
     def _extract_engine_specs(self, text: str, soup_element) -> List[str]:
-        """Extract engine specifications."""
+        """Extract engine specifications matching reference format."""
         engine_specs = []
         
-        # Engine type patterns
-        engine_patterns = [
-            r'(\d+\.\d+[-\s]?lit[re]?[s]?\s+(inline[-\s]?)?(six|4|four|v8|v6|v12|twin[-\s]?turbo|turbocharged|supercharged))',
-            r'(\d+\.\d+[-\s]?l[\/\s]?\d+\s+(inline[-\s]?)?(six|4|four|v8|v6|v12))',
-            r'((inline[-\s]?)?(six|4|four|v8|v6|v12)[-\s]?(cylinder|cyl)?[-\s]?(turbo|twin[-\s]?turbo|supercharged)?)',
-            r'(\d+\.\d+[-\s]?lit[re]?[s]?\s+(petrol|diesel|gasoline))',
+        # FIRST: Try to extract from prose patterns (most reliable for NetCarShow.com)
+        # Pattern: "XXX-horsepower (SAE net), X.X-liter, ..."
+        prose_pattern = r'(\d+)[-\s]?(horsepower|hp)\s*\([^)]*\)[,\s]+(\d+\.\d+)[-\s]?(liter|l|litre)[,\s]+([^,]+?)(?:engine|mated)'
+        prose_match = re.search(prose_pattern, text, re.I)
+        if prose_match:
+            hp = prose_match.group(1)
+            displacement = prose_match.group(3)
+            unit = prose_match.group(4)
+            details = prose_match.group(5).strip()
+            
+            # Only process if horsepower is reasonable (not "4" from "4-cylinder")
+            if hp.isdigit() and int(hp) >= 50:
+                # Try to extract engine type from details
+                engine_type = None
+                if re.search(r'(inline|i[-\s]?4|four[-\s]?cylinder)', details, re.I):
+                    engine_type = "I-4"
+                elif re.search(r'v6|six[-\s]?cylinder', details, re.I):
+                    engine_type = "V6"
+                elif re.search(r'v8|eight[-\s]?cylinder', details, re.I):
+                    engine_type = "V8"
+                elif re.search(r'v12|twelve[-\s]?cylinder', details, re.I):
+                    engine_type = "V12"
+                
+                if engine_type:
+                    engine_specs.append(f"Gas {engine_type} Engine Type")
+                
+                # Add displacement
+                engine_specs.append(f"{displacement} {unit.upper()} Displacement")
+                
+                # Add horsepower
+                engine_specs.append(f"{hp} @ SAE Net Horsepower @ RPM")
+        
+        # Engine Type patterns - match formats like "Gas I4 Engine Type", "Premium Unleaded I-4 Engine Type"
+        engine_type_patterns = [
+            r'((gas|premium\s+unleaded|diesel|petrol)\s+(i[-\s]?4|inline[-\s]?4|four[-\s]?cylinder|v6|v8|v12)\s+engine\s+type)',
+            r'((i[-\s]?4|inline[-\s]?4|four[-\s]?cylinder|v6|v8|v12)\s+(gas|premium\s+unleaded|diesel|petrol)\s+engine\s+type)',
+            r'((intercooled\s+)?(turbo|twin[-\s]?turbo|supercharged)\s+(premium\s+unleaded|gas|diesel)\s+(i[-\s]?4|inline[-\s]?4|v6|v8)\s+engine\s+type)',
+            r'(\d+[-\s]?horsepower[-\s]?,\s+\d+\.\d+[-\s]?liter\s+(inline[-\s]?)?(four|4|v6|v8|v12)[-\s]?cylinder)',
         ]
         
-        for pattern in engine_patterns:
+        for pattern in engine_type_patterns:
             matches = re.findall(pattern, text, re.I)
             for match in matches:
                 if isinstance(match, tuple):
-                    spec = ' '.join(match).strip()
+                    spec = ' '.join([m for m in match if m]).strip()
                 else:
                     spec = match.strip()
-                if spec and spec not in engine_specs:
-                    engine_specs.append(spec.title())
+                if spec and len(spec) > 3 and spec not in engine_specs:
+                    # Format to match reference: "Premium Unleaded I-4 Engine Type"
+                    spec = spec.title().replace('I-4', 'I-4').replace('I4', 'I-4')
+                    if 'Engine Type' not in spec:
+                        spec = f"{spec} Engine Type"
+                    engine_specs.append(spec)
         
-        # Power and torque
-        power_match = re.search(r'(\d+)\s*(kw|hp|ps|bhp)[\s\(]*(@\s*\d+)?', text, re.I)
-        if power_match:
-            engine_specs.append(f"{power_match.group(1)} {power_match.group(2).upper()} @ {power_match.group(3) if power_match.group(3) else 'RPM'}")
+        # Displacement patterns - match "2.0L/122 Displacement" or "2.4 L/144 Displacement"
+        displacement_patterns = [
+            r'(\d+\.\d+)\s*(l|lit[re]?[s]?)[\/\s](\d+)\s*(displacement|disp)',
+            r'(\d+\.\d+)\s*(l|lit[re]?[s]?)\s*\/\s*(\d+)\s*(displacement|disp)',
+            r'(\d+\.\d+)\s*(l|lit[re]?[s]?)\s+(\d+)\s*(displacement|disp)',
+        ]
         
-        torque_match = re.search(r'(\d+)\s*(nm|lb[-\s]?ft|pounds[-\s]?feet)[\s\(]*(@\s*\d+)?', text, re.I)
-        if torque_match:
-            engine_specs.append(f"{torque_match.group(1)} {torque_match.group(2).upper()} @ {torque_match.group(3) if torque_match.group(3) else 'RPM'}")
+        for pattern in displacement_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple) and len(match) >= 3:
+                    displacement = f"{match[0]} {match[1].upper()}/{match[2]} Displacement"
+                    if displacement not in engine_specs:
+                        engine_specs.append(displacement)
         
-        # Displacement
-        displacement_match = re.search(r'(\d+\.\d+)\s*(l|lit[re]?[s]?)[\/\s]?(\d+)?', text, re.I)
-        if displacement_match:
-            if displacement_match.group(3):
-                engine_specs.append(f"{displacement_match.group(1)} {displacement_match.group(2).upper()}/{displacement_match.group(3)} Displacement")
-            else:
-                engine_specs.append(f"{displacement_match.group(1)} {displacement_match.group(2).upper()} Displacement")
+        # Horsepower patterns - match "150 @ 6500 SAE Net Horsepower @ RPM" or "201 @ 6800 SAE Net Horsepower @ RPM"
+        # Also match prose patterns like "201-horsepower (SAE net)"
+        hp_patterns = [
+            r'(\d+)\s*@\s*(\d+)\s*(sae\s+net\s+)?(horsepower|hp)[\s@]*(\d+)?\s*(rpm)?',
+            r'(\d+)[-\s]?(horsepower|hp)\s*\([^)]*sae[^)]*\)',  # "201-horsepower (SAE net)"
+            r'(\d+)\s*(hp|horsepower)\s*@\s*(\d+)\s*(rpm)?',
+            r'(\d+)[-\s]?(horsepower|hp)(?:\s+\([^)]*\))?',  # "201-horsepower" or "201 hp"
+        ]
+        
+        for pattern in hp_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 1:
+                        hp_val = parts[0]
+                        # Only add if it's a reasonable horsepower value (not "4" from "4-cylinder")
+                        if hp_val.isdigit() and int(hp_val) >= 50:  # Reasonable minimum
+                            rpm_val = None
+                            if len(parts) > 1 and parts[-1].isdigit() and len(parts[-1]) >= 3:
+                                rpm_val = parts[-1]
+                            if rpm_val:
+                                spec = f"{hp_val} @ {rpm_val} SAE Net Horsepower @ RPM"
+                            else:
+                                spec = f"{hp_val} @ SAE Net Horsepower @ RPM"
+                            if spec not in engine_specs:
+                                engine_specs.append(spec)
+        
+        # Torque patterns - match "140 @ 4300 SAE Net Torque @ RPM" or "180 @ 3600 SAE Net Torque @ RPM"
+        torque_patterns = [
+            r'(\d+)\s*@\s*(\d+)\s*(sae\s+net\s+)?(torque|lb[-\s]?ft|pounds[-\s]?feet)[\s@]*(\d+)?\s*(rpm)?',
+            r'(\d+)\s*(lb[-\s]?ft|pounds[-\s]?feet|nm|torque)\s*@\s*(\d+)\s*(rpm)?',
+            r'(\d+)\s*(lb[-\s]?ft|pounds[-\s]?feet)\s*of\s+torque\s*@\s*(\d+)?',
+        ]
+        
+        for pattern in torque_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 2:
+                        torque_val = parts[0]
+                        rpm_val = parts[-1] if parts[-1].isdigit() else None
+                        if rpm_val:
+                            spec = f"{torque_val} @ {rpm_val} SAE Net Torque @ RPM"
+                        else:
+                            spec = f"{torque_val} @ SAE Net Torque @ RPM"
+                        if spec not in engine_specs:
+                            engine_specs.append(spec)
+        
+        # Fallback: Look for common engine descriptions in prose text
+        # NetCarShow.com often has patterns like "201-horsepower (SAE net), 2.4-liter, 16-valve DOHC i-VTEC™ engine"
+        if not engine_specs:
+            # Pattern: "XXX-horsepower (SAE net), X.X-liter, ..."
+            prose_pattern = r'(\d+)[-\s]?(horsepower|hp)\s*\([^)]*\)[,\s]+(\d+\.\d+)[-\s]?(liter|l|litre)[,\s]+([^,]+?)(?:engine|mated)'
+            prose_match = re.search(prose_pattern, text, re.I)
+            if prose_match:
+                hp = prose_match.group(1)
+                displacement = prose_match.group(3)
+                unit = prose_match.group(4)
+                details = prose_match.group(5).strip()
+                
+                # Try to extract engine type from details
+                engine_type = None
+                if re.search(r'(inline|i[-\s]?4|four[-\s]?cylinder)', details, re.I):
+                    engine_type = "I-4"
+                elif re.search(r'v6|six[-\s]?cylinder', details, re.I):
+                    engine_type = "V6"
+                elif re.search(r'v8|eight[-\s]?cylinder', details, re.I):
+                    engine_type = "V8"
+                elif re.search(r'v12|twelve[-\s]?cylinder', details, re.I):
+                    engine_type = "V12"
+                
+                if engine_type:
+                    engine_specs.append(f"Gas {engine_type} Engine Type")
+                
+                # Add displacement
+                engine_specs.append(f"{displacement} {unit.upper()} Displacement")
+                
+                # Add horsepower
+                engine_specs.append(f"{hp} @ SAE Net Horsepower @ RPM")
+            
+            # Simpler patterns for when the above doesn't match
+            simple_patterns = [
+                r'(\d+\.\d+)[-\s]?(liter|l|litre)[,\s]+([^,]+?)(?:inline[-\s]?4|four[-\s]?cylinder|v6|v8|v12)',
+                r'(\d+)[-\s]?(hp|horsepower)[,\s]+(\d+\.\d+)[-\s]?(liter|l|litre)',
+                r'(\d+\.\d+)[-\s]?(liter|l|litre)\s+(inline[-\s]?)?(four|4|six|v6|v8)[-\s]?cylinder',
+            ]
+            for pattern in simple_patterns:
+                matches = re.findall(pattern, text, re.I)
+                for match in matches:
+                    if isinstance(match, tuple):
+                        parts = [m for m in match if m]
+                        if len(parts) >= 2:
+                            # Try to construct a meaningful spec
+                            if any('hp' in p.lower() or 'horsepower' in p.lower() for p in parts):
+                                # Has horsepower
+                                hp_val = next((p for p in parts if p.isdigit() and len(p) >= 2), None)
+                                if hp_val:
+                                    engine_specs.append(f"{hp_val} @ SAE Net Horsepower @ RPM")
+                            if any('liter' in p.lower() or 'l' == p.lower() for p in parts):
+                                # Has displacement
+                                disp_val = next((p for p in parts if re.match(r'\d+\.\d+', p)), None)
+                                if disp_val:
+                                    engine_specs.append(f"{disp_val} L Displacement")
         
         return engine_specs[:15]
     
     def _extract_suspension_specs(self, text: str, soup_element) -> List[str]:
-        """Extract suspension specifications."""
+        """Extract suspension specifications matching reference format."""
         suspension_specs = []
         
+        # Match formats like "Strut Suspension Type - Front", "Multi-Link Suspension Type - Rear"
         suspension_patterns = [
-            r'(strut\s+suspension[-\s]?type[-\s]?front)',
-            r'(multi[-\s]?link\s+suspension[-\s]?type[-\s]?rear)',
-            r'(independent\s+(front|rear)\s+suspension)',
-            r'(double[-\s]?wishbone)',
-            r'(mcpherson\s+strut)',
-            r'(air\s+suspension)',
-            r'(adaptive\s+suspension)',
-            r'(dynamic\s+body\s+control)',
+            r'(strut|macpherson\s+strut)\s+suspension\s+type[-\s]?(front|rear|\(cont\.\))?',
+            r'(multi[-\s]?link)\s+suspension\s+type[-\s]?(front|rear|\(cont\.\))?',
+            r'(double[-\s]?wishbone)\s+suspension\s+type[-\s]?(front|rear)?',
+            r'(independent)\s+(front|rear)\s+suspension\s+type',
+            r'(air\s+suspension|adaptive\s+suspension|dynamic\s+body\s+control)',
         ]
         
         for pattern in suspension_patterns:
             matches = re.findall(pattern, text, re.I)
             for match in matches:
                 if isinstance(match, tuple):
-                    spec = ' '.join(match).strip()
+                    parts = [m for m in match if m]
+                    if len(parts) >= 1:
+                        suspension_type = parts[0].title()
+                        location = parts[1].title() if len(parts) > 1 and parts[1] else None
+                        
+                        # Format to match reference
+                        if location and location.lower() in ['front', 'rear']:
+                            spec = f"{suspension_type} Suspension Type - {location}"
+                        elif location and '(cont.)' in location.lower():
+                            spec = f"{suspension_type} Suspension Type - {location}"
+                        else:
+                            spec = f"{suspension_type} Suspension Type"
+                        
+                        if spec not in suspension_specs:
+                            suspension_specs.append(spec)
                 else:
-                    spec = match.strip()
-                if spec and spec not in suspension_specs:
-                    suspension_specs.append(spec.title())
+                    spec = match.strip().title()
+                    if spec and spec not in suspension_specs:
+                        if 'Suspension Type' not in spec:
+                            spec = f"{spec} Suspension Type"
+                        suspension_specs.append(spec)
+        
+        # Also look for common suspension mentions
+        if not suspension_specs:
+            common_patterns = [
+                r'(mcpherson\s+strut|double\s+wishbone|multi[-\s]?link|independent)',
+            ]
+            for pattern in common_patterns:
+                matches = re.findall(pattern, text, re.I)
+                for match in matches:
+                    if isinstance(match, tuple):
+                        spec = ' '.join(match).strip().title()
+                    else:
+                        spec = match.strip().title()
+                    if spec and spec not in suspension_specs:
+                        suspension_specs.append(f"{spec} Suspension Type")
         
         return suspension_specs[:10]
     
     def _extract_weight_capacity(self, text: str, soup_element) -> List[str]:
-        """Extract weight and capacity specifications."""
+        """Extract weight and capacity specifications matching reference format."""
         weight_specs = []
         
-        # Weight patterns
-        weight_match = re.search(r'(\d+[,\.]?\d*)\s*(lbs?|kg|kilograms?)\s*(curb\s+weight|base\s+curb\s+weight)', text, re.I)
-        if weight_match:
-            weight_specs.append(f"{weight_match.group(1)} {weight_match.group(2)} Base Curb Weight")
+        # Weight patterns - match "2,970 lbs Base Curb Weight" or "3,148 lbs Base Curb Weight"
+        weight_patterns = [
+            r'(\d+[,\.]?\d*)\s*(lbs?|kg|kilograms?)\s*(base\s+)?(curb\s+weight)',
+            r'(curb\s+weight|base\s+curb\s+weight)[:\s]+(\d+[,\.]?\d*)\s*(lbs?|kg)',
+            r'(\d+[,\.]?\d*)\s*(lbs?|kg)\s*(curb\s+weight)',
+        ]
+        
+        for pattern in weight_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 2:
+                        # Find weight value and unit
+                        weight_val = None
+                        weight_unit = None
+                        for part in parts:
+                            if re.match(r'\d+[,\.]?\d*', part):
+                                weight_val = part.replace(',', '')
+                            elif part.lower() in ['lb', 'lbs', 'kg', 'kilograms']:
+                                weight_unit = part
+                        
+                        if weight_val and weight_unit:
+                            spec = f"{weight_val} {weight_unit} Base Curb Weight"
+                            if spec not in weight_specs:
+                                weight_specs.append(spec)
+        
+        # Fuel tank capacity - match "13 gal Fuel Tank Capacity, Approx"
+        fuel_patterns = [
+            r'(\d+)\s*(gal|lit[re]?[s]?|gallons?)\s*(fuel\s+tank\s+capacity)',
+            r'(fuel\s+tank\s+capacity)[:\s]+(\d+)\s*(gal|lit[re]?[s]?|gallons?)',
+        ]
+        
+        for pattern in fuel_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 2:
+                        fuel_val = None
+                        fuel_unit = None
+                        for part in parts:
+                            if part.isdigit():
+                                fuel_val = part
+                            elif part.lower() in ['gal', 'gallon', 'gallons', 'l', 'liter', 'litre', 'liters', 'litres']:
+                                fuel_unit = part
+                        
+                        if fuel_val and fuel_unit:
+                            spec = f"{fuel_val} {fuel_unit} Fuel Tank Capacity, Approx"
+                            if spec not in weight_specs:
+                                weight_specs.append(spec)
         
         # Dimensions
-        dim_match = re.search(r'(\d+[,\.]?\d*)\s*(mm|millimetres?|inches?|")\s*(long|wide|high|length|width|height)', text, re.I)
-        if dim_match:
-            weight_specs.append(f"{dim_match.group(1)} {dim_match.group(2)} {dim_match.group(3).title()}")
+        dim_patterns = [
+            r'(\d+[,\.]?\d*)\s*(mm|millimetres?|inches?|"|in)\s*(long|wide|high|length|width|height)',
+            r'(length|width|height|wheelbase)[:\s]+(\d+[,\.]?\d*)\s*(mm|inches?|in|"|millimetres?)',
+        ]
         
-        # Fuel tank capacity
-        fuel_match = re.search(r'(\d+)\s*(gal|lit[re]?[s]?|gallons?)\s*(fuel\s+tank\s+capacity)', text, re.I)
-        if fuel_match:
-            weight_specs.append(f"{fuel_match.group(1)} {fuel_match.group(2)} Fuel Tank Capacity, Approx")
-        
-        # Wheelbase
-        wheelbase_match = re.search(r'(\d+[,\.]?\d*)\s*(mm|millimetres?|inches?)\s*(wheelbase)', text, re.I)
-        if wheelbase_match:
-            weight_specs.append(f"{wheelbase_match.group(1)} {wheelbase_match.group(2)} Wheelbase")
+        for pattern in dim_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 2:
+                        dim_val = None
+                        dim_unit = None
+                        dim_type = None
+                        for part in parts:
+                            if re.match(r'\d+[,\.]?\d*', part):
+                                dim_val = part
+                            elif part.lower() in ['mm', 'millimetres', 'millimeters', 'in', 'inch', 'inches', '"']:
+                                dim_unit = part if part != '"' else 'in'
+                            elif part.lower() in ['length', 'width', 'height', 'long', 'wide', 'high', 'wheelbase']:
+                                dim_type = part
+                        
+                        if dim_val and dim_unit:
+                            if dim_type:
+                                spec = f"{dim_val} {dim_unit} {dim_type.title()}"
+                            else:
+                                spec = f"{dim_val} {dim_unit}"
+                            if spec not in weight_specs:
+                                weight_specs.append(spec)
         
         return weight_specs[:15]
     
@@ -904,28 +1357,100 @@ class Parser:
         return electrical_specs[:5]
     
     def _extract_brake_specs(self, text: str, soup_element) -> List[str]:
-        """Extract brake specifications."""
+        """Extract brake specifications matching reference format."""
         brake_specs = []
         
-        brake_patterns = [
-            r'(\d+[-\s]?wheel\s+disc\s+brake)',
-            r'(\d+[-\s]?wheel\s+brake\s+abs\s+system)',
-            r'(\d+\s+inch\s+(front|rear)\s+brake\s+rotor)',
-            r'(disc[-\s]?(front|rear))',
-            r'(drum[-\s]?(front|rear))',
+        # Match formats like "4-Wheel Disc Brake Type", "Pwr Brake Type"
+        brake_type_patterns = [
+            r'(\d+[-\s]?wheel\s+disc\s+brake\s+type)',
+            r'(pwr|power)\s+brake\s+type',
+            r'(disc\s+brake\s+type)',
+            r'(drum\s+brake\s+type)',
         ]
         
-        for pattern in brake_patterns:
+        for pattern in brake_type_patterns:
             matches = re.findall(pattern, text, re.I)
             for match in matches:
                 if isinstance(match, tuple):
-                    spec = ' '.join(match).strip()
+                    spec = ' '.join([m for m in match if m]).strip()
                 else:
                     spec = match.strip()
                 if spec and spec not in brake_specs:
-                    brake_specs.append(spec.title())
+                    if 'Brake Type' not in spec:
+                        spec = f"{spec.title()} Brake Type"
+                    else:
+                        spec = spec.title()
+                    brake_specs.append(spec)
         
-        return brake_specs[:10]
+        # Match "4-Wheel Brake ABS System"
+        abs_patterns = [
+            r'(\d+[-\s]?wheel\s+brake\s+abs\s+system)',
+            r'(abs\s+brake\s+system)',
+            r'(anti[-\s]?lock\s+brake\s+system)',
+        ]
+        
+        for pattern in abs_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    spec = ' '.join([m for m in match if m]).strip()
+                else:
+                    spec = match.strip()
+                if spec and spec not in brake_specs:
+                    if 'ABS System' not in spec and 'Brake ABS System' not in spec:
+                        spec = f"{spec.title()} Brake ABS System"
+                    else:
+                        spec = spec.title()
+                    brake_specs.append(spec)
+        
+        # Match "Yes Disc - Front (Yes or )" or "Disc - Front"
+        disc_patterns = [
+            r'((yes|standard)\s+)?disc[-\s]?(front|rear)',
+            r'(disc[-\s]?(front|rear)\s*\(yes\s+or\s+\)?)',
+        ]
+        
+        for pattern in disc_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 2:
+                        location = parts[-1].title() if parts[-1].lower() in ['front', 'rear'] else None
+                        if location:
+                            spec = f"Yes Disc - {location} (Yes or )"
+                            if spec not in brake_specs:
+                                brake_specs.append(spec)
+        
+        # Match "11.100 x -TBD- in Front Brake Rotor Diam x Thickness" or similar
+        rotor_patterns = [
+            r'(\d+[\.]?\d*)\s*(x|×)\s*([-\w]+)?\s*(in|inch|inches)\s*(front|rear)\s+brake\s+rotor\s+(diam|diameter)\s*(x|×)\s*(thickness)?',
+            r'(\d+[\.]?\d*)\s*(in|inch|inches)\s*(front|rear)\s+brake\s+rotor',
+        ]
+        
+        for pattern in rotor_patterns:
+            matches = re.findall(pattern, text, re.I)
+            for match in matches:
+                if isinstance(match, tuple):
+                    parts = [m for m in match if m]
+                    if len(parts) >= 3:
+                        diameter = parts[0]
+                        location = None
+                        thickness = None
+                        for i, part in enumerate(parts):
+                            if part.lower() in ['front', 'rear']:
+                                location = part.title()
+                            if part.lower() in ['thickness', 'x', '×'] and i < len(parts) - 1:
+                                thickness = parts[i+1] if i+1 < len(parts) else '-TBD-'
+                        
+                        if location:
+                            if thickness and thickness != 'x' and thickness != '×':
+                                spec = f"{diameter} x {thickness} in {location} Brake Rotor Diam x Thickness"
+                            else:
+                                spec = f"{diameter} x -TBD- in {location} Brake Rotor Diam x Thickness"
+                            if spec not in brake_specs:
+                                brake_specs.append(spec)
+        
+        return brake_specs[:15]
     
     def get_next_page_url(self, html: str, current_url: str) -> Optional[str]:
         """

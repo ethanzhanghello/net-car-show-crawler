@@ -24,7 +24,7 @@ def test_single_crawl():
         output_dir=test_output_dir,
         checkpoint_dir="test_checkpoints",
         log_dir="test_logs",
-        rate_limit=1.5
+        rate_limit=3.0
     )
     
     # Note: The fetcher uses timeout as a parameter, not an attribute
@@ -45,7 +45,7 @@ def test_single_crawl():
     import time
     
     # Use shorter timeout for testing
-    test_fetcher = Fetcher(rate_limit=1.0)
+    test_fetcher = Fetcher(rate_limit=3.0)
     
     test_url = None
     for url in test_urls:

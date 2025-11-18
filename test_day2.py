@@ -24,7 +24,7 @@ def test_fetcher():
     print("Testing HTTP Fetcher")
     print("=" * 60)
     
-    fetcher = Fetcher(rate_limit=1.0)
+    fetcher = Fetcher(rate_limit=3.0)
     test_url = "https://www.netcarshow.com/"
     
     print(f"Fetching: {test_url}")
@@ -77,7 +77,7 @@ def test_parser(listing_url=None):
     print("Testing Parser - Listing Page")
     print("=" * 60)
     
-    fetcher = Fetcher(rate_limit=1.0)
+    fetcher = Fetcher(rate_limit=3.0)
     parser = Parser()
     
     if not listing_url:
@@ -111,7 +111,7 @@ def test_detail_parser(model_url=None):
     print("Testing Parser - Detail Page")
     print("=" * 60)
     
-    fetcher = Fetcher(rate_limit=1.0)
+    fetcher = Fetcher(rate_limit=3.0)
     parser = Parser()
     
     if not model_url:
@@ -157,7 +157,7 @@ def test_gallery_parser(gallery_url=None):
     print("Testing Gallery Parser")
     print("=" * 60)
     
-    fetcher = Fetcher(rate_limit=1.0)
+    fetcher = Fetcher(rate_limit=3.0)
     gallery_parser = GalleryParser()
     
     if not gallery_url:
