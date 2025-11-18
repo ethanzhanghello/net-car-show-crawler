@@ -357,7 +357,18 @@ class Crawler:
             # Use model from URL parsing if available (cleaner), otherwise from parsed_data
             model = (model_info.get('model') if model_info else None) or parsed_data.get('model')
             
-            schema_record = SchemaMapper.map_to_schema(parsed_data, make, model, images)
+            # Get source URL from parsed_data or model_url
+            source_url = parsed_data.get('url') or model_url
+            
+            schema_record = SchemaMapper.map_to_schema(
+                parsed_data, 
+                make, 
+                model, 
+                images,
+                category=category,
+                subcategory=subcategory,
+                source_url=source_url
+            )
             
             # Validate
             is_valid, errors = Validator.validate_record(schema_record)

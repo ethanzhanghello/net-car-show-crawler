@@ -192,37 +192,31 @@ class Parser:
         }
     
     def _extract_years(self, soup: BeautifulSoup, default_year: Optional[str] = None) -> List[str]:
-        """Extract all years mentioned on the page."""
-        years = set()
+        """
+        Extract year for this specific page.
         
+        IMPORTANT: Only returns the year from the URL (default_year), NOT all years
+        mentioned in the page text. Each page represents ONE specific year/model variant.
+        """
+        # Only use the year from the URL - each page is for a specific year
         if default_year:
-            years.add(str(default_year))
+            return [str(default_year)]
         
-        # Look for year patterns in text (4-digit years: 1900-2100)
-        # Use a regex that captures the full year
-        text = soup.get_text()
-        year_matches = re.findall(r'\b(19\d{2}|20\d{2})\b', text)
-        for year_str in year_matches:
-            try:
-                year = int(year_str)
-                if 1900 <= year <= 2100:
-                    years.add(str(year))
-            except ValueError:
-                continue
-        
-        # Look for year in headings, titles, etc.
-        for element in soup.find_all(['h1', 'h2', 'h3', 'title']):
+        # If no year in URL, try to extract from page title/heading (but only one)
+        # Look for year in h1 or title tag
+        for element in soup.find_all(['h1', 'title']):
             text = element.get_text()
             year_matches = re.findall(r'\b(19\d{2}|20\d{2})\b', text)
-            for year_str in year_matches:
+            if year_matches:
                 try:
-                    year = int(year_str)
+                    year = int(year_matches[0])
                     if 1900 <= year <= 2100:
-                        years.add(str(year))
+                        return [str(year)]
                 except ValueError:
-                    continue
+                    pass
         
-        return sorted(list(years), reverse=True)  # Most recent first
+        # Return empty if no year found - will be handled by schema mapper
+        return []
     
     def _extract_expert_review(self, soup: BeautifulSoup) -> str:
         """Extract expert review text from the page."""

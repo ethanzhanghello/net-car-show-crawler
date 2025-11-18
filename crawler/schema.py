@@ -10,7 +10,8 @@ class SchemaMapper:
     """Maps scraped data to the reference schema format."""
     
     @staticmethod
-    def map_to_schema(scraped_data: Dict, make: str, model: str, images: List[str] = None) -> Dict:
+    def map_to_schema(scraped_data: Dict, make: str, model: str, images: List[str] = None, 
+                     category: str = "", subcategory: str = "", source_url: str = "") -> Dict:
         """
         Transform scraped data to match reference schema format.
         
@@ -19,6 +20,9 @@ class SchemaMapper:
             make: Make name (normalized)
             model: Model name (normalized)
             images: List of image URLs from gallery
+            category: Category name (e.g., "SUV", "Coupe")
+            subcategory: Subcategory name (e.g., "Premium")
+            source_url: URL of the source page for this data
             
         Returns:
             Dict matching reference schema:
@@ -29,7 +33,10 @@ class SchemaMapper:
                     "2024": {
                         "main_images": [...],
                         "expert_review": "...",
-                        "trims": [...]
+                        "trims": [...],
+                        "source_url": "https://...",
+                        "category": "SUV",
+                        "subcategory": "Premium"
                     }
                 }
             }
@@ -122,14 +129,21 @@ class SchemaMapper:
                     'specifications': {}
                 }]
             
+            # Get source URL - prefer passed parameter, then from scraped_data
+            year_source_url = source_url or scraped_data.get('url', '')
+            
             years_dict[year_str] = {
                 'main_images': year_images,
                 'expert_review': expert_review,
-                'trims': normalized_trims
+                'trims': normalized_trims,
+                'source_url': year_source_url,
+                'category': category or '',
+                'subcategory': subcategory or ''
             }
         
         # If no years were created, create a placeholder structure
         if not years_dict:
+            source_url_final = source_url or scraped_data.get('url', '')
             years_dict = {
                 'unknown': {
                     'main_images': images or [],
@@ -138,7 +152,10 @@ class SchemaMapper:
                         'name': 'Base',
                         'price': '',
                         'specifications': {}
-                    }])
+                    }]),
+                    'source_url': source_url_final,
+                    'category': category or '',
+                    'subcategory': subcategory or ''
                 }
             }
         
@@ -243,13 +260,22 @@ class SchemaMapper:
                 new_review = year_data.get('expert_review', '')
                 expert_review = new_review if len(new_review) > len(existing_review) else existing_review
                 
+                # Preserve source_url, category, subcategory from new record (more recent)
+                # But keep existing if new doesn't have them
+                source_url = year_data.get('source_url') or existing_years[year].get('source_url', '')
+                category = year_data.get('category') or existing_years[year].get('category', '')
+                subcategory = year_data.get('subcategory') or existing_years[year].get('subcategory', '')
+                
                 existing_years[year] = {
                     'main_images': combined_images,
                     'expert_review': expert_review,
-                    'trims': existing_trims
+                    'trims': existing_trims,
+                    'source_url': source_url,
+                    'category': category,
+                    'subcategory': subcategory
                 }
             else:
-                # New year, just add it
+                # New year, just add it (with all fields including source_url, category, subcategory)
                 existing_years[year] = year_data.copy()
         
         merged['years'] = existing_years
