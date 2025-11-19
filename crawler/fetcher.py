@@ -4,7 +4,7 @@ HTTP Fetcher with rate limiting and error handling for NetCarShow crawler.
 
 import time
 import requests
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Dict
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -66,7 +66,8 @@ class Fetcher:
             time.sleep(self.rate_limit - elapsed)
         self.last_request_time = time.time()
     
-    def fetch_url(self, url: str, timeout: int = 60) -> Tuple[Optional[str], Optional[int], Optional[str]]:
+    def fetch_url(self, url: str, timeout: int = 60,
+                  headers: Optional[Dict[str, str]] = None) -> Tuple[Optional[str], Optional[int], Optional[str]]:
         """
         Fetch URL with rate limiting, retries, and error handling.
         
@@ -89,6 +90,7 @@ class Fetcher:
                     timeout=timeout,
                     allow_redirects=True,
                     stream=False,
+                    headers=headers,
                     proxies=self.proxies if self.proxies else None
                 )
                 response.raise_for_status()
@@ -133,7 +135,8 @@ class Fetcher:
         
         return None, None, last_error or "Max retries exceeded"
     
-    def fetch_url_simple(self, url: str, timeout: int = 60) -> Optional[str]:
+    def fetch_url_simple(self, url: str, timeout: int = 60,
+                         headers: Optional[Dict[str, str]] = None) -> Optional[str]:
         """
         Simple fetch that returns HTML or None.
         
@@ -144,7 +147,7 @@ class Fetcher:
         Returns:
             HTML content or None on failure
         """
-        html, status, error = self.fetch_url(url, timeout=timeout)
+        html, status, error = self.fetch_url(url, timeout=timeout, headers=headers)
         if error:
             # Only print error on final failure (after all retries)
             pass  # Errors are logged by the logger, no need to print here

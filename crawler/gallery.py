@@ -3,9 +3,15 @@ Image gallery parser for extracting high-resolution images from NetCarShow galle
 """
 
 from bs4 import BeautifulSoup
-from typing import List, Optional
+from typing import List, Optional, Dict
 from urllib.parse import urljoin
+import json
 import re
+
+
+THZ_ARRAY_REGEX = re.compile(r"var\s+thz\s*=\s*(\[[^\]]*\]);", re.S)
+THZ_MO_REGEX = re.compile(r"var\s+thzMo\s*=\s*'([^']+)';")
+THZ_U_REGEX = re.compile(r"var\s+thU\s*=\s*'([^']+)';")
 
 
 class GalleryParser:
@@ -468,4 +474,142 @@ class GalleryParser:
                 filtered_images.append(img_url)
         
         return filtered_images
+
+    def extract_images_from_detail(
+        self,
+        html: str,
+        page_url: str = "",
+        fetcher=None,
+        year: Optional[str] = None
+    ) -> List[str]:
+        """
+        Extract gallery images by decoding inline thumbnail metadata on detail pages.
+        
+        Args:
+            html: Detail page HTML
+            page_url: URL of the detail page (used as referer for JSON calls)
+            fetcher: Fetcher instance for additional JSON lookups
+            year: Year to filter images
+        
+        Returns:
+            List of high-resolution image URLs derived from inline metadata
+        """
+        if not html:
+            return []
+        
+        config = self._parse_inline_gallery_config(html)
+        if not config:
+            return []
+        
+        thz = config.get('thz') or []
+        thz_mo = config.get('thz_mo', '')
+        th_u = config.get('th_u', '')
+        
+        if thz and thz[-1] == 'hh':
+            extra = self._fetch_additional_thz(th_u, fetcher, page_url)
+            if extra:
+                thz = extra
+        
+        thz = [entry for entry in thz if entry and entry != 'hh']
+        if not thz or not thz_mo:
+            return []
+        
+        image_urls = self._build_image_urls_from_thz(thz, thz_mo)
+        image_urls = self.filter_images_by_year(image_urls, year)
+        
+        deduped = []
+        seen = set()
+        for url in image_urls:
+            if url not in seen:
+                seen.add(url)
+                deduped.append(url)
+        
+        return deduped
+    
+    def _parse_inline_gallery_config(self, html: str) -> Optional[Dict[str, List[str]]]:
+        thz_match = THZ_ARRAY_REGEX.search(html)
+        if not thz_match:
+            return None
+        
+        try:
+            thz = json.loads(thz_match.group(1))
+        except json.JSONDecodeError:
+            return None
+        
+        thz_mo_match = THZ_MO_REGEX.search(html)
+        th_u_match = THZ_U_REGEX.search(html)
+        
+        return {
+            'thz': thz,
+            'thz_mo': thz_mo_match.group(1) if thz_mo_match else '',
+            'th_u': th_u_match.group(1) if th_u_match else ''
+        }
+    
+    def _fetch_additional_thz(self, th_u: str, fetcher, page_url: str = "") -> Optional[List[str]]:
+        if not fetcher or not th_u:
+            return None
+        
+        url_key = self._reverse_and_lower(th_u)
+        url = f"{self.base_url}/th.{url_key}.json"
+        headers = {'X-RCC': '21'}
+        if page_url:
+            headers['Referer'] = page_url
+        
+        html, status, error = fetcher.fetch_url(url, headers=headers)
+        if error or not html:
+            return None
+        
+        try:
+            data = json.loads(html.strip())
+        except json.JSONDecodeError:
+            return None
+        
+        if isinstance(data, list):
+            return data
+        if isinstance(data, dict):
+            for key in ('thz', 'items', 'data'):
+                value = data.get(key)
+                if isinstance(value, list):
+                    return value
+        return None
+    
+    def _build_image_urls_from_thz(self, thz: List[str], thz_mo: str) -> List[str]:
+        urls = []
+        for idx, entry in enumerate(thz, 1):
+            slug = self._gfnk(entry)
+            token = self._gfnt(entry)
+            url = f"{self.base_url}/{thz_mo}-1280-{slug}.jpg"
+            if token:
+                url = f"{url}?token={token}"
+            urls.append(url)
+        return urls
+    
+    @staticmethod
+    def _reverse_and_lower(value: str) -> str:
+        return value[::-1].lower() if value else ""
+    
+    def _gfnk(self, entry: str) -> str:
+        chars = []
+        n = 0
+        while n < len(entry) and len(chars) < 34:
+            chars.append(entry[n])
+            n += 2
+        return self._reverse_and_lower(''.join(chars))
+    
+    def _gfnt(self, entry: str, np_h: int = 0, np_v: int = 0) -> str:
+        out = []
+        n = 1
+        length_tracker = 0
+        while n < len(entry):
+            if length_tracker == 45:
+                out.append(f"{np_h:x}{np_v:x}")
+                n += 1
+                length_tracker += 2
+            else:
+                out.append(entry[n])
+                length_tracker += 1
+            n += 1
+            if n < 68:
+                n += 1
+        return ''.join(out)
 

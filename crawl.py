@@ -98,6 +98,12 @@ Examples:
     if not args.resume and not args.mode and not (args.category and args.subcategory):
         parser.error("Must specify one of: --mode type, --resume, or --category/--subcategory")
     
+    # Check for proxy settings
+    if not os.environ.get('https_proxy') and not os.environ.get('http_proxy'):
+        print("⚠️  Warning: No proxy environment variables detected.")
+        print("   For proxy support, set: export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890")
+        print()
+    
     # Initialize crawler
     try:
         crawler = Crawler(
